@@ -41,7 +41,7 @@ The following shows basic folder structure.
 * numpy 1.15.4
 
 ## Usage
-##### To install pdfminer package, you need to install `pdfminer.six` via `pip` or `conda`. 
+##### 0. To install pdfminer package, you need to install `pdfminer.six` via `pip` or `conda`. 
 ```sh
 pip install -r requirements.txt 
 ```
@@ -50,12 +50,12 @@ or
 pip install pdfminer.six
 ```
 
-##### You can set the `sleep` time at `config.py`. 
+##### 1. You can set the `sleep` time at `config.py`. 
 ```python
 bis_sleep = 0.5  # YOU CAN EDIT THIS SLEEP TIME
 ```
 
-##### Run `main.py`.
-``sh
+##### 2. Run `main.py`.
+```sh
 python main.py --start_page_year 1997 --end_page_year 2019
-``
+```

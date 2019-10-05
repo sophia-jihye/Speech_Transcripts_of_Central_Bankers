@@ -1,0 +1,9 @@
+*/.idea/*
+.idea/
+data/
+output/
+OBSELETE/
+__pycache__
+*.zip
+.ipynb_checkpoints/
+Untitled.ipynb

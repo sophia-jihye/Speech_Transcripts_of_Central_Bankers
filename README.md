@@ -15,7 +15,6 @@ The following shows basic folder structure.
 │   ├── pdf
 │   ├────  r970326a.pdf
 │   ├────  r970326b.pdf
-│   ├────  r970326b.log   # If an error occurrs while parsing data from .pdf to .txt, .log file is created.
 │   ├────  ...
 │   ├── txt
 │   ├────  r970326a.txt
@@ -25,6 +24,10 @@ The following shows basic folder structure.
 │   ├────  bis_wo_content_dict_1997.pkl
 │   ├────  bis_wo_content_dict_1998.pkl
 │   ├────  ...
+│   ├── err
+│   ├────  err_web2pdf.log
+│   ├────  err_pdf2txt.log
+│   ├────  err_txt2csv.log
 │   ├── bis_w_content_FINAL.csv
 │   ├── bis_w_content_FINAL.pkl
 

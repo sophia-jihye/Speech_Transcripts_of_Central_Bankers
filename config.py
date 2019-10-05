@@ -15,6 +15,7 @@ args = parser.parse_args()
 pdf_dir = os.path.join(output_base_dir, "pdf")
 pkl_dir = os.path.join(output_base_dir, "pkl")
 txt_dir = os.path.join(output_base_dir, "txt")
+err_dir = os.path.join(output_base_dir, "err")
 
 params = {
     'bis_sleep': bis_sleep,
@@ -24,12 +25,15 @@ params = {
     'start_page_year': args.start_page_year,
     'end_page_year': args.end_page_year,
 
-    'errlog_filepath': errlog_filepath,
     'pdf_dir': pdf_dir,
     'pkl_dir': pkl_dir,
     'txt_dir': txt_dir,
+    'err_dir': err_dir,
 
+    'err_web2pdf_log_filepath': os.path.join(err_dir, "err_web2pdf.log"),
+    'err_pdf2txt_log_filepath': os.path.join(err_dir, "err_pdf2txt.log"),
+    'err_txt2csv_log_filepath': os.path.join(err_dir, "err_txt2csv.log"),
     'bis_wo_content_dict_pkl_filename_prefix': "bis_wo_content_dict_",
-    'bis_w_content_csv_filepath': os.path.join(output_base_dir + "/bis_w_content_FINAL.csv"),
-    'bis_w_content_pkl_filepath': os.path.join(output_base_dir + "/bis_w_content_FINAL.pkl")
+    'bis_w_content_csv_filepath': os.path.join(output_base_dir, "bis_w_content_FINAL.csv"),
+    'bis_w_content_pkl_filepath': os.path.join(output_base_dir, "bis_w_content_FINAL.pkl")
 }

@@ -34,7 +34,7 @@ The following shows basic folder structure.
 │        ├── txt2csv
 │             ├── r970326d.log   # If an error occurrs while parsing data from .txt to .csv, .log file is created.
 │             ├── ...
-│   ├── 19970101-00-59-59.log   # If an unexpecteed error orrcus, .log file is created.
+│   ├── 20191007-00-59-59.log   # If an unexpecteed error orrcus, .log file is created.
 │   ├── bis_w_content_FINAL.csv
 │   ├── bis_w_content_FINAL.pkl
 

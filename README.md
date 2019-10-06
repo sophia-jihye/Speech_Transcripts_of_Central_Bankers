@@ -3,7 +3,7 @@ Scraping Text Data of Central bankers' Speeches from bis.org
 
 
 ## Introduction
-Target webpage: https://www.bis.org/list/cbspeeches/from_01011997/index.htm
+Target webpage: https://www.bis.org/list/cbspeeches/from_01011997/index.htm   
 
 ## Folder structure
 The following shows basic folder structure.
@@ -21,19 +21,20 @@ The following shows basic folder structure.
 │        ├── r970326b.txt
 │        ├── ...
 │   ├── pkl
-│        ├── bis_wo_content_dict_1997.pkl
-│        ├── bis_wo_content_dict_1998.pkl
+│        ├── bis_wo_content_dict__Jan-Mar 1997.pkl
+│        ├── bis_wo_content_dict__Apr-jun 1997.pkl
 │        ├── ...
 │   ├── err
 │        ├── web2pdf
-│             ├── r970326b.log   # If an error occurrs while parsing data from .pdf to .txt, .log file is created.
+│             ├── r970326b.log   # If an error occurrs while parsing data from web to .pdf, .log file is created.
 │             ├── ...
 │        ├── pdf2txt
-│             ├── r970326c.log
+│             ├── r970326c.log   # If an error occurrs while parsing data from .pdf to .txt, .log file is created.
 │             ├── ...
 │        ├── txt2csv
-│             ├── r970326d.log
+│             ├── r970326d.log   # If an error occurrs while parsing data from .txt to .csv, .log file is created.
 │             ├── ...
+│   ├── 19970101-00-59-59.log   # If an unexpecteed error orrcus, .log file is created.
 │   ├── bis_w_content_FINAL.csv
 │   ├── bis_w_content_FINAL.pkl
 

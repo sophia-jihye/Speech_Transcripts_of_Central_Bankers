@@ -13,21 +13,27 @@ The following shows basic folder structure.
 ├── utils.py 
 ├── output
 │   ├── pdf
-│   ├────  r970326a.pdf
-│   ├────  r970326b.pdf
-│   ├────  ...
+│        ├── r970326a.pdf
+│        ├── r970326b.pdf
+│        ├── ...
 │   ├── txt
-│   ├────  r970326a.txt
-│   ├────  r970326b.txt
-│   ├────  ...
+│        ├── r970326a.txt
+│        ├── r970326b.txt
+│        ├── ...
 │   ├── pkl
-│   ├────  bis_wo_content_dict_1997.pkl
-│   ├────  bis_wo_content_dict_1998.pkl
-│   ├────  ...
+│        ├── bis_wo_content_dict_1997.pkl
+│        ├── bis_wo_content_dict_1998.pkl
+│        ├── ...
 │   ├── err
-│   ├────  err_web2pdf.log
-│   ├────  err_pdf2txt.log
-│   ├────  err_txt2csv.log
+│        ├── web2pdf
+│             ├── r970326b.log   # If an error occurrs while parsing data from .pdf to .txt, .log file is created.
+│             ├── ...
+│        ├── pdf2txt
+│             ├── r970326c.log
+│             ├── ...
+│        ├── txt2csv
+│             ├── r970326d.log
+│             ├── ...
 │   ├── bis_w_content_FINAL.csv
 │   ├── bis_w_content_FINAL.pkl
 

@@ -23,7 +23,7 @@ bis_w_content_pkl_filepath = params['bis_w_content_pkl_filepath']
 create_dirs = [output_base_dir, pdf_dir, pkl_dir, txt_dir, err_dir, err_web2pdf_dir, err_pdf2txt_dir, err_txt2csv_dir]
 
 
-def _get_target_url_list(start_year, end_year):
+def _get_target_url_dict(start_year, end_year):
     soup = get_soup_html('https://www.bis.org/list/cbspeeches/from_01011997/index.htm')
     date_options = soup.find('select').find_all('option')
 
@@ -31,14 +31,14 @@ def _get_target_url_list(start_year, end_year):
     for target_year in range(int(start_year), int(end_year) + 1):
         target_year_list.append(str(target_year))
 
-    target_url_list = list()
+    target_url_dict = dict()
     for opt in date_options:
         _url = opt['value']
         _year = opt['value'].split('/')[-2][-4:]
         if _year in target_year_list:
-            target_url_list.append("https://www.bis.org" + _url)
+            target_url_dict[opt.text] = "https://www.bis.org" + _url
 
-    return target_url_list
+    return target_url_dict
 
 
 def _get_trs(soup_html):
@@ -90,10 +90,12 @@ def _init(dirs):
 
 
 def main():
-    start, bis_wo_content_dict = start_dict()
-    target_url_list = _get_target_url_list(start_year, end_year)
+    target_url_dict = _get_target_url_dict(start_year, end_year)
 
-    for target_url in target_url_list:
+    # Step1) Download .pdf
+    for target_range_str, target_url in target_url_dict.items():
+        start, bis_wo_content_dict = start_dict()
+
         pagenum = 0
         while True:
             pagenum += 1
@@ -104,10 +106,13 @@ def main():
             for _soup_tr in _soup_trs:
                 _item_dict = _soup_extract_info(_soup_tr)
 
-                # Step1) Download .pdf
-                get_download(_item_dict['pdf_url'], pdf_dir, _item_dict['key'] + ".pdf")
-                sleep_(bis_sleep * 0.1)
-                bis_wo_content_dict[_item_dict['key']] = _item_dict
+                try:
+                    get_download(_item_dict['pdf_url'], pdf_dir, _item_dict['key'] + ".pdf")
+                    sleep_(bis_sleep * 0.1)
+                    bis_wo_content_dict[_item_dict['key']] = _item_dict
+                except Exception as e:
+                    print(e)
+                    write_errlog(os.path.join(err_web2pdf_dir, _item_dict['key'] + '.log'), str(e))
 
             # Page ending condition
             _next_page = _next_page_available(_soup_html)
@@ -115,9 +120,9 @@ def main():
                 print("======END PAGENUM: ", pagenum, "======")
                 break
 
-    bis_wo_content_dict_pkl_filepath = os.path.join(pkl_dir, get_str_concat(bis_wo_content_dict_pkl_filename_prefix,
-                                                                            str(start_year), str(end_year)) + ".pkl")
-    end_dict_pkl(start, bis_wo_content_dict, bis_wo_content_dict_pkl_filepath)
+        bis_wo_content_dict_pkl_filepath = os.path.join(pkl_dir, get_str_concat(bis_wo_content_dict_pkl_filename_prefix,
+                                                                                str(target_range_str)) + ".pkl")
+        end_dict_pkl(start, bis_wo_content_dict, bis_wo_content_dict_pkl_filepath)
 
 
 _init(create_dirs)

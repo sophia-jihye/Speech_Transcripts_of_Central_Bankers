@@ -88,3 +88,12 @@ def get_download(file_url, download_dir, fname):
     with open(download_path, "wb") as f:
         f.write(r.content)
     print('Downloading completed: ', download_path)
+
+
+def get_filepaths(directory, file_ext):
+    filepaths = []
+    for r, d, f in os.walk(directory):
+        for file in f:
+            if file_ext in file:
+                filepaths.append(os.path.join(r, file))
+    return filepaths

@@ -39,5 +39,5 @@ params = {
     'bis_wo_content_dict_pkl_filename_prefix': "bis_wo_content_dict_",
     'bis_w_content_csv_filepath': os.path.join(output_base_dir, "bis_w_content_FINAL.csv"),
     'bis_w_content_pkl_filepath': os.path.join(output_base_dir, "bis_w_content_FINAL.pkl"),
-    'unexpected_errlog_filepath': os.path.join(output_base_dir, datetime.now().strftime("%Y%m%d-%H-%M-%S") + ".txt")
+    'unexpected_errlog_filepath': os.path.join(output_base_dir, datetime.now().strftime("%Y%m%d-%H-%M-%S") + ".log")
 }

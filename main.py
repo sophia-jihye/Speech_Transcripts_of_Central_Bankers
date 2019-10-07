@@ -134,8 +134,6 @@ def main():
                 sleep_(bis_sleep * 0.1)
                 bis_wo_content_dict[_item_dict['key']] = _item_dict
 
-                break
-            break
             # Page ending condition
             _next_page = _next_page_available(_soup_html)
             if not _next_page:

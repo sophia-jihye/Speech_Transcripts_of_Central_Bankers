@@ -1,6 +1,8 @@
 from config import params
 from utils import *
 from datetime import datetime
+import time
+import os
 
 bis_sleep = params['bis_sleep']
 base_dir = params['base_dir']
@@ -108,12 +110,15 @@ def main():
 
                 try:
                     get_download(_item_dict['pdf_url'], pdf_dir, _item_dict['key'] + ".pdf")
-                    sleep_(bis_sleep * 0.1)
-                    bis_wo_content_dict[_item_dict['key']] = _item_dict
                 except Exception as e:
-                    print(e)
+                    print(str(e))
                     write_errlog(os.path.join(err_web2pdf_dir, _item_dict['key'] + '.log'), str(e))
 
+                sleep_(bis_sleep * 0.1)
+                bis_wo_content_dict[_item_dict['key']] = _item_dict
+
+                break
+            break
             # Page ending condition
             _next_page = _next_page_available(_soup_html)
             if not _next_page:
@@ -123,6 +128,29 @@ def main():
         bis_wo_content_dict_pkl_filepath = os.path.join(pkl_dir, get_str_concat(bis_wo_content_dict_pkl_filename_prefix,
                                                                                 str(target_range_str)) + ".pkl")
         end_dict_pkl(start, bis_wo_content_dict, bis_wo_content_dict_pkl_filepath)
+
+    # Step2) .pdf -> .txt
+    start = time.time()
+    pkl_filepaths = get_filepaths(pkl_dir, '.pkl')
+    pdf_filepaths = get_filepaths(pdf_dir, '.pdf')
+    bis_w_content_dict = merge_pkl2dict(pkl_filepaths)
+
+    for one_file in pdf_filepaths:
+        filename_w_ext = os.path.basename(one_file)
+        filename_only = filename_w_ext[:-4]
+        try:
+            _whole_txt = pdf2txt(one_file, txt_dir)
+        except Exception as e:
+            print(str(e))
+            write_errlog(os.path.join(err_pdf2txt_dir, filename_only + '.log'), str(e))
+
+        # update bis_w_content_dict
+        bis_w_content_dict[filename_only]['content'] = _whole_txt
+
+        # save .txt file
+        save_txt(os.path.join(txt_dir, filename_only + ".txt"), _whole_txt)
+
+    end_dict_pkl(start, bis_w_content_dict, bis_w_content_pkl_filepath)
 
 
 _init(create_dirs)

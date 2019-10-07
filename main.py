@@ -132,8 +132,6 @@ def main():
                 sleep_(bis_sleep * 0.1)
                 bis_wo_content_dict[_item_dict['key']] = _item_dict
 
-                break
-            break
             # Page ending condition
             _next_page = _next_page_available(_soup_html)
             if not _next_page:
@@ -162,10 +160,7 @@ def main():
             print(str(e))
             write_errlog(os.path.join(err_pdf2txt_dir, filename_only + '.log'), str(e))
 
-        # update bis_w_content_dict
         bis_w_content_dict[filename_only]['content'] = get_str_strip(_whole_txt, without_n_t_blank=True)
-
-        # save .txt file
         save_txt(os.path.join(txt_dir, filename_only + ".txt"), _whole_txt)
 
     end_dict_pkl(start, bis_w_content_dict, bis_w_content_pkl_filepath)

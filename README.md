@@ -21,8 +21,8 @@ The following shows basic folder structure.
 │        ├── r970326b.txt
 │        ├── ...
 │   ├── pkl
-│        ├── bis_wo_content_dict_Jan-Mar_1997.pkl
-│        ├── bis_wo_content_dict_Apr-jun_1997.pkl
+│        ├── bis_wo_content_dict_1997_1Q_Jan-Mar.pkl
+│        ├── bis_wo_content_dict_1997_2Q_Apr-jun.pkl
 │        ├── ...
 │   ├── err
 │        ├── web2pdf

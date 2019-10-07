@@ -8,8 +8,8 @@ print('base_dir: ', base_dir)
 output_base_dir = os.path.join(base_dir, "output")
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--start_year', type=str)  # 1997
-parser.add_argument('--end_year', type=str)  # 2019
+parser.add_argument('--start_year', type=int, default=1997)  # 1997
+parser.add_argument('--end_year', type=int, default=datetime.today().year)  # 2019
 args = parser.parse_args()
 
 pdf_dir = os.path.join(output_base_dir, "pdf")
@@ -18,7 +18,6 @@ txt_dir = os.path.join(output_base_dir, "txt")
 err_dir = os.path.join(output_base_dir, "err")
 err_web2pdf_dir = os.path.join(err_dir, "web2pdf")
 err_pdf2txt_dir = os.path.join(err_dir, "pdf2txt")
-err_txt2csv_dir = os.path.join(err_dir, "txt2csv")
 
 params = {
     'bis_sleep': bis_sleep,
@@ -34,9 +33,8 @@ params = {
     'err_dir': err_dir,
     'err_web2pdf_dir': err_web2pdf_dir,
     'err_pdf2txt_dir': err_pdf2txt_dir,
-    'err_txt2csv_dir': err_txt2csv_dir,
 
-    'bis_wo_content_dict_pkl_filename_prefix': "bis_wo_content_dict_",
+    'bis_wo_content_dict_pkl_filename_prefix': "bis_wo_content_dict",
     'bis_w_content_csv_filepath': os.path.join(output_base_dir, "bis_w_content_FINAL.csv"),
     'bis_w_content_pkl_filepath': os.path.join(output_base_dir, "bis_w_content_FINAL.pkl"),
     'unexpected_errlog_filepath': os.path.join(output_base_dir, datetime.now().strftime("%Y%m%d-%H-%M-%S") + ".log")

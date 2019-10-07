@@ -21,8 +21,8 @@ The following shows basic folder structure.
 │        ├── r970326b.txt
 │        ├── ...
 │   ├── pkl
-│        ├── bis_wo_content_dict__Jan-Mar 1997.pkl
-│        ├── bis_wo_content_dict__Apr-jun 1997.pkl
+│        ├── bis_wo_content_dict_Jan-Mar_1997.pkl
+│        ├── bis_wo_content_dict_Apr-jun_1997.pkl
 │        ├── ...
 │   ├── err
 │        ├── web2pdf
@@ -30,9 +30,6 @@ The following shows basic folder structure.
 │             ├── ...
 │        ├── pdf2txt
 │             ├── r970326c.log   # If an error occurrs while parsing data from .pdf to .txt, .log file is created.
-│             ├── ...
-│        ├── txt2csv
-│             ├── r970326d.log   # If an error occurrs while parsing data from .txt to .csv, .log file is created.
 │             ├── ...
 │   ├── 20191007-00-59-59.log   # If an unexpecteed error orrcus, .log file is created.
 │   ├── bis_w_content_FINAL.csv
@@ -52,13 +49,13 @@ The following shows basic folder structure.
 
 ## Usage
 ##### 0. To install pdfminer package, you need to install `pdfminer.six` via `pip` or `conda`. 
-```sh
+``sh
 pip install -r requirements.txt 
-```
+``
 or 
-```sh
+``sh
 pip install pdfminer.six
-```
+``
 
 ##### 1. You can set the `sleep` time at `config.py`. 
 ```python
@@ -66,6 +63,13 @@ bis_sleep = 0.5  # YOU CAN EDIT THIS SLEEP TIME
 ```
 
 ##### 2. Run `main.py`.
+If you want to scrape data of whole range, just run `main.py` without any aruments, as below.
 ```sh
-python main.py --start_page_year 1997 --end_page_year 2019
+python main.py
+```
+
+If you want to scrape data of specific range, run `main.py` with arguments `--start_year`, and `--end_year`.
+For your information, the data listed on bis.org starts from 1997 to today. 
+```sh
+python main.py --start_year 1997 --end_year 1998   # It scrapes data of 1997 and 1998.
 ```

@@ -13,6 +13,7 @@ from pdfminer.pdfinterp import PDFResourceManager, PDFPageInterpreter
 from pdfminer.pdfpage import PDFTextExtractionNotAllowed
 from pdfminer.layout import LAParams, LTTextBox, LTTextLine
 from pdfminer.converter import PDFPageAggregator
+import csv
 
 unexpected_errlog_filepath = params['unexpected_errlog_filepath']
 
@@ -149,3 +150,21 @@ def save_txt(txt_filepath, content):
     with open(txt_filepath, "w", encoding='utf-8') as txt_output:
         txt_output.write(content)
     print('Creating txt_file completed: ', txt_filepath)
+
+
+def write_dict2csv(item_dict, csv_filepath, column_list, csv_delimiter=','):
+    f = open(csv_filepath, 'w', encoding='utf-8-sig', newline='')
+    wr = csv.writer(f, delimiter=csv_delimiter)
+    wr.writerow(column_list)
+    for _key in item_dict.keys():
+        _item = item_dict[_key]
+        row_val_list = list()
+        for _subkey in column_list:
+            if _subkey not in _item.keys():
+                _item[_subkey] = ''
+
+            row_val_list.append(_item[_subkey].replace(',', ' '))
+
+        wr.writerow(row_val_list)
+    f.close()
+    print('Creating .csv file completed: ', csv_filepath)

@@ -27,7 +27,7 @@ create_dirs = [output_base_dir, pdf_dir, pkl_dir, txt_dir, err_dir, err_web2pdf_
 
 def _get_target_url_dict(start_year, end_year):
     quarter_dict = {'jan': '1Q', 'apr': '2Q', 'jul': '3Q', 'oct': '4Q'}
-    
+
     soup = get_soup_html('https://www.bis.org/list/cbspeeches/from_01011997/index.htm')
     date_options = soup.find('select').find_all('option')
 
@@ -46,6 +46,13 @@ def _get_target_url_dict(start_year, end_year):
             target_url_dict[_key] = "https://www.bis.org" + _url
 
     return target_url_dict
+
+
+def _get_target_url_with_pagenum(target_url_prefix, pagenum):
+    target_url = target_url_prefix + "/page_" + str(pagenum) + ".htm"
+    print(target_url)
+    return target_url
+
 
 def _get_trs(soup_html):
     table = soup_html.find("table", {"class": "documentList"})
@@ -104,13 +111,16 @@ def main():
 
     # Step1) Download .pdf
     for target_range_str in sorted(target_url_dict.keys()):
-        target_url = target_url_dict[target_range_str]
-        print("===", target_range_str, "\t", target_url, "===")
+        _target_url = target_url_dict[target_range_str]
+        print("===", target_range_str, "\t", _target_url, "===")
         start, bis_wo_content_dict = start_dict()
 
         pagenum = 0
         while True:
             pagenum += 1
+            target_url = _get_target_url_with_pagenum(_target_url, pagenum)
+            print('pagenum:', str(pagenum), '=>', target_url)
+
             _soup_html = get_soup_html(target_url)
             sleep_(bis_sleep)
 

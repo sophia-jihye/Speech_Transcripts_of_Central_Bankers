@@ -156,7 +156,7 @@ def write_dict2csv(item_dict, csv_filepath, column_list, csv_delimiter=','):
     f = open(csv_filepath, 'w', encoding='utf-8-sig', newline='')
     wr = csv.writer(f, delimiter=csv_delimiter)
     wr.writerow(column_list)
-    for _key in item_dict.keys():
+    for _key in sorted(item_dict.keys()):
         _item = item_dict[_key]
         row_val_list = list()
         for _subkey in column_list:

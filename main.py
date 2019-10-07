@@ -3,6 +3,7 @@ from utils import *
 from datetime import datetime
 import time
 import os
+import re
 
 bis_sleep = params['bis_sleep']
 base_dir = params['base_dir']
@@ -102,7 +103,8 @@ def _init(dirs):
             os.makedirs(directory)
 
     column_list = ['key', 'date', 'pdf_url', 'title', 'short_info', 'content']
-    return column_list
+    wo_special_char_regex = re.compile('^[\W_]+$')
+    return column_list, wo_special_char_regex
 
 
 def main():
@@ -132,6 +134,8 @@ def main():
                 sleep_(bis_sleep * 0.1)
                 bis_wo_content_dict[_item_dict['key']] = _item_dict
 
+                break
+            break
             # Page ending condition
             _next_page = _next_page_available(_soup_html)
             if not _next_page:
@@ -155,7 +159,7 @@ def main():
         filename_w_ext = os.path.basename(one_file)
         filename_only = filename_w_ext[:-4]
         try:
-            _whole_txt = pdf2txt(one_file, txt_dir)
+            _whole_txt = pdf2txt(one_file, txt_dir, wo_special_char_regex)
         except Exception as e:
             print(str(e))
             write_errlog(os.path.join(err_pdf2txt_dir, filename_only + '.log'), str(e))
@@ -169,6 +173,6 @@ def main():
     write_dict2csv(bis_w_content_dict, bis_w_content_csv_filepath, column_list)
 
 
-column_list = _init(create_dirs)
+column_list, wo_special_char_regex = _init(create_dirs)
 if __name__ == '__main__':
     main()

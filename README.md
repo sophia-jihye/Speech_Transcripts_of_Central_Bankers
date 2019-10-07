@@ -48,14 +48,13 @@ The following shows basic folder structure.
 * numpy 1.15.4
 
 ## Usage
-##### 0. To install pdfminer package, you need to install `pdfminer.six` via `pip` or `conda`. 
-``sh
-pip install -r requirements.txt 
-``
-or 
-``sh
-pip install pdfminer.six
-``
+##### 0-1. To install pdfminer package, you need to install `pdfminer.six` via `pip` or `conda`. 
+``pip install -r requirements.txt`` or ``pip install pdfminer.six``
+
+##### 0-2. Clone this repository.
+```sh
+git clone https://github.com/sophia-jihye/bis_speeches_text_dataset.git
+```
 
 ##### 1. You can set the `sleep` time at `config.py`. 
 ```python

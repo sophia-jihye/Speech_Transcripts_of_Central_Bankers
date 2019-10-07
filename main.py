@@ -13,7 +13,6 @@ txt_dir = params['txt_dir']
 err_dir = params['err_dir']
 err_web2pdf_dir = params['err_web2pdf_dir']
 err_pdf2txt_dir = params['err_pdf2txt_dir']
-err_txt2csv_dir = params['err_txt2csv_dir']
 
 start_year = params['start_year']
 end_year = params['end_year']
@@ -22,7 +21,7 @@ bis_wo_content_dict_pkl_filename_prefix = params['bis_wo_content_dict_pkl_filena
 bis_w_content_csv_filepath = params['bis_w_content_csv_filepath']
 bis_w_content_pkl_filepath = params['bis_w_content_pkl_filepath']
 
-create_dirs = [output_base_dir, pdf_dir, pkl_dir, txt_dir, err_dir, err_web2pdf_dir, err_pdf2txt_dir, err_txt2csv_dir]
+create_dirs = [output_base_dir, pdf_dir, pkl_dir, txt_dir, err_dir, err_web2pdf_dir, err_pdf2txt_dir]
 
 
 def _get_target_url_dict(start_year, end_year):
@@ -30,7 +29,7 @@ def _get_target_url_dict(start_year, end_year):
     date_options = soup.find('select').find_all('option')
 
     target_year_list = list()
-    for target_year in range(int(start_year), int(end_year) + 1):
+    for target_year in range(start_year, end_year + 1):
         target_year_list.append(str(target_year))
 
     target_url_dict = dict()
@@ -41,6 +40,18 @@ def _get_target_url_dict(start_year, end_year):
             target_url_dict[opt.text] = "https://www.bis.org" + _url
 
     return target_url_dict
+
+
+def _get_target_range_str(content):
+    str_list = content.split(' ')
+    firstLine = True
+    for _str in str_list:
+        if firstLine:
+            val = _str
+            firstLine = False
+            continue
+        val += "_" + _str
+    return val
 
 
 def _get_trs(soup_html):
@@ -71,7 +82,7 @@ def _soup_extract_info(tr):
         item_dict['date'] = datetime_object.strftime("%Y-%m-%d")
 
     _a = tr.find("div", {"class": "title"}).find('a')
-    item_dict['title'] = get_str_strip(_a.text)
+    item_dict['title'] = get_str_strip(_a.text, without_n_t_blank=True)
     item_dict['pdf_url'] = "https://www.bis.org" + _a['href'][:-4] + ".pdf"
     item_dict['key'] = item_dict['pdf_url'].split('/')[-1][:-4]
 
@@ -90,12 +101,16 @@ def _init(dirs):
         if not os.path.exists(directory):
             os.makedirs(directory)
 
+    column_list = ['key', 'date', 'pdf_url', 'title', 'short_info', 'content']
+    return column_list
+
 
 def main():
     target_url_dict = _get_target_url_dict(start_year, end_year)
 
     # Step1) Download .pdf
-    for target_range_str, target_url in target_url_dict.items():
+    for _target_range_str, target_url in target_url_dict.items():
+        target_range_str = _get_target_range_str(_target_range_str)
         start, bis_wo_content_dict = start_dict()
 
         pagenum = 0
@@ -135,7 +150,10 @@ def main():
     pdf_filepaths = get_filepaths(pdf_dir, '.pdf')
     bis_w_content_dict = merge_pkl2dict(pkl_filepaths)
 
+    count = 0
     for one_file in pdf_filepaths:
+        count += 1
+        print("[", count, "/", len(pdf_filepaths), "]")
         filename_w_ext = os.path.basename(one_file)
         filename_only = filename_w_ext[:-4]
         try:
@@ -145,14 +163,17 @@ def main():
             write_errlog(os.path.join(err_pdf2txt_dir, filename_only + '.log'), str(e))
 
         # update bis_w_content_dict
-        bis_w_content_dict[filename_only]['content'] = _whole_txt
+        bis_w_content_dict[filename_only]['content'] = get_str_strip(_whole_txt, without_n_t_blank=True)
 
         # save .txt file
         save_txt(os.path.join(txt_dir, filename_only + ".txt"), _whole_txt)
 
     end_dict_pkl(start, bis_w_content_dict, bis_w_content_pkl_filepath)
 
+    # Step3) *FINAL.pkl -> .csv
+    write_dict2csv(bis_w_content_dict, bis_w_content_csv_filepath, column_list)
 
-_init(create_dirs)
+
+column_list = _init(create_dirs)
 if __name__ == '__main__':
     main()

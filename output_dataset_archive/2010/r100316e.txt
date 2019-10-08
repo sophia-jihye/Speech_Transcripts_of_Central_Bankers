@@ -1,0 +1,734 @@
+Andrew G Haldane: Fair value in foul weather 
+Remarks by Mr Andrew G Haldane, Executive Director, Financial Stability, Bank of England, 
+based  on  a  previous  speech  to  the  Royal  Institution  of  Chartered  Surveyors,  London,  in 
+November 2009 on 10 March 2010. 
+ Based on a speech given at the Royal Institution of Chartered Surveyors, 10 November 2009. I am grateful to 
+Dele  Adeleye,  Alan  Ball,  Paul  Doran,  Kemal  Ercevik,  Andrew  Hauser,  Florence  Hubert,  Salina  Ladha,  Vas 
+Madouros, Colin Miles, Alastair Morley, Paul Tucker and Nick Vause for comments and contributions. 
+Shakespeare’s Macbeth opens amid a thunderstorm, with the three witches cackling: 
+“Fair is foul, and foul is fair 
+Hover through the fog and filthy air” 
+Macbeth [Act 1.1.11–12] 
+Recently,  the  global  financial  system  has  experienced  its  own  dramatic  thunderstorm. 
+Financial  markets  have  been  thick  with  fog  and  filthy  air.  At  times,  lightening  strikes  have 
+threatened seizure in some financial markets and institutions. Two years on, the rumbles of 
+thunder are still discernable. 
+The debate on the causes and consequences of this perfect storm will swirl around for many 
+years to come. At the centre of this storm is, on the face of it, a rather basic question: how 
+should  the  instruments that  make  up  the  financial  system  be  valued?  So  basic  a  question 
+ought not to be a matter of life and death. But for a great many financial institutions during 
+this crisis, it would have been precisely that. 
+The fundamental concept on which this debate hinges is fair value. Like beauty, its meaning 
+lies  in  the  eyes  of  the  beholder.  For  some,  “fair  is  foul”  –  the  application  of  fair  value 
+principles risks exposing financial firms to the vagaries of markets, fog, filthy air and all. For 
+others, ignoring the signals from financial market is itself foul and risks creating a financial 
+landscape that is foggy and anything but fair. 
+The  fair  value  debate  is  generating  electricity  in  the  usually  static-free  professions  of 
+accountancy and regulation. Bankers fulminate at the mere mention. Among Heads of State 
+in  some  of  the  biggest  countries  in  the  world,  accounting  standards  for  derivatives  have 
+generated  levels  of  fear  and  consternation  usually  reserved  for  non-financial  weapons  of 
+mass destruction. 
+Against that backdrop, this paper attempts to shed a little light on this heated debate.  
+Three phases of fair value 
+So  what  lies  at  the  heart  of  this  debate?  It  is  well-captured  by  Preston  Delano,  US 
+Comptroller of the Currency: 
+“…the  soundness  of  the  banking  system  depends  upon  the  soundness  of  the 
+country’s business and industrial enterprises, and should not be measured by the 
+precarious yardstick of current market quotations which often reflect speculative 
+and not true appraisals of intrinsic worth”.1 
+                                                 
+1   Revision in Bank Examination Procedure and in the Investment Securities Regulation of the Comptroller of the 
+Currency, Federal Reserve Bulletin, July, 1938, pages 563–564. 
+BIS Review 28/2010 
+ 1
+Delano was US Comptroller of the Currency in 1938. This provides a clue to the fact that the 
+fair value debate is not a new one. To understand this debate, its origins and undulations, it 
+is worth starting at the very beginning. 
+Although book-keeping has far earlier antecedents, modern accountancy is believed to have 
+begun  in  the  Italian  cities  of  Genoa,  Venice  and  Florence  in  the  14th  century.  It  is  no 
+coincidence that modern banking emerged at precisely the same time in precisely the same 
+cities. Banks emerged to service rapidly expanding commercial companies. And double-entry 
+book-keeping  became  an  essential  means  of  recording  and  tracking  who  owed  what  to 
+whom, oiling the wheels of finance. 
+It is no coincidence, too, that the first-known description of accountancy was provided by an 
+Italian,  Luca  Pacioli,  in  the  late  15th  century.2  Pacioli  was  not  your  typical  accountant.  A 
+wandering  Franciscan  monk,  tutor  and  mathematician,  he  was  friend  and  sometime 
+collaborator of Leonardo de Vinci. Although comfortably the less famous of the two, Pacioli is 
+still known today as the father of modern accounting. 
+From those beginnings, double-entry began to spread north within Europe during the Middle 
+Ages: to Germany in the 15th century, Spain and England in the 16th century and Scotland 
+in  the  17th  century.  By  the  late  18th  century,  Goethe  had  called  double-entry  “among  the 
+finest inventions of the human mind”.3 Some people are easily impressed. Despite that, the 
+progress of double-entry was surprisingly slow. At the start of the 19th century, there were 
+only eleven Londoners who listed their occupation as “accomptants”. Imagine. 
+The 19th century marked a turning point. In the UK, joint stock companies began to spring 
+up. The Bankruptcy Act of 1831 gave accountants a role in winding-up enterprises and the 
+Companies Acts of 1844 and 1862 established a legal requirement for companies to register 
+and file accounts. By the end of the century, audit practices were becoming established. The 
+accountant’s role was to provide a true and fair view of a company’s assets and income, as 
+protection for the state (to whom it paid taxes) and investors (to whom it paid dividends). 
+It  was  these  concerns  that  led  to  the  gradual  emergence  during  the  second  half  of  the 
+19th century  of  fair-value  based  accounting  conventions  in  the  US.  From  the  late 
+19th century,  banks’  securities  were  carried  at  market  values  and  their  fixed  assets  at 
+“appraised values”. In other words, by the early 20th century fair value principles were widely 
+applied to companies in general and to banks in particular. In many respects, this period may 
+have been the high-water mark for fair value principles. 
+In  the  US,  this  first  wave  of  the  fair  value  debate  ended  in  1938.4  The  backdrop  was 
+inauspicious.  The  first  phase  of  the  Great  Depression,  between  1929  and  1933,  saw  the 
+failure of a large number of US banks. Between 1933 and 1937, the US economy recovered 
+somewhat.  But  by  1938  there  were  fears  of  a  double  dip.  At  the  Fed’s  prompting, 
+Franklin D Roosevelt called a convention comprising the US Treasury, the Federal Reserve 
+Board,  the  Comptroller  of  the  Currency  and  the  Federal  Deposit  Insurance  Corporation 
+(FDIC).  Its  purpose  was  to  determine  what  should  be  done  with  prudential  standards  to 
+safeguard recovery. 
+This  was  no  ordinary  regulatory  convention.  Marriner  S  Eccles,  Chairman  of  the  Federal 
+Reserve, called it “guerrilla warfare”. In one corner were the regulators, the Comptroller of the 
+Currency and FDIC. Scarred by their regulatory experience, and fearing further bank failures, 
+the Comptroller and FDIC pushed for high prudential standards, including preservation of fair 
+values for banks’ assets. In the other corner was the Fed. Scarred by their monetary policy 
+                                                 
+2   Pacioli (1494). 
+3   Goethe (1796). 
+4   Simonsen and Hempel (1993) provide a fascinating account of this episode. 
+2 
+ BIS Review 28/2010
+experience,  and  fearing  a  further  collapse  in  lending,  the  Fed  argued  for  laxer  prudential 
+standards and the abandonment of fair values. Battle commenced. 
+The tussle lasted two months, often played out in public through the New York Times. In the 
+end, the Fed prevailed. On 26 June 1938, Franklin D Roosevelt announced (without so much 
+as  a  hint  of  irony)  the  Uniform  Agreement  on  Bank  Supervisory  Procedures.  Banks’ 
+investment grade assets were to be valued not at market values but at amortised cost. And 
+banks’  sub-investment  grade  assets  were  to  be  valued  at  a  long-run  average  of  market 
+prices. In the teeth of crisis, and in the interests of macroeconomic stability, the first phase of 
+fair value had ended. 
+This pattern was to be repeated half a century later – the second wave of fair value. Historic 
+cost accounting remained in the ascendancy in the US from the 1940s right though to the 
+early  1970s.  But  from  the  mid-1970s  onwards,  accounting  standard-setters  began  to 
+embrace fair value measurement, first in the context of banks’ portfolios of equities and other 
+marketable securities.5 By the late 1980s, there was widespread recognition that traditional 
+accounting approaches were obscuring the real value of securities and derivatives. 
+US experience during the Savings and Loan crisis in the mid-1980s provided further impetus. 
+Forbearance, including about the valuation of assets and liabilities, was widely believed to 
+have been a cause of the build-up of problems among the thrifts.6 In 1989, Congress passed 
+the  Financial  Institutions  Recovery,  Reform  and  Enforcement  Act  (FIRREA),  tightening 
+valuation standards among banks and bringing them closer to fair values. In the same year, 
+the International Accounting Standards Committee (IASC) commenced a project to assess 
+the  measurement  and  disclosure  of  financial  instruments.  These  too  were  to  suffer  a 
+set-back. 
+By 1990, recession had taken hold in the US, with lending contracting sharply. As in 1938, 
+the US economy was suffering “financial headwinds”. As in 1938, the Fed were quick to call 
+for a relaxation of prudential and valuation standards to head-off pressures on banks.7 And 
+as in 1938, the upshot was a concerted move by the then-President, George Bush, relaxing 
+examination and valuation standards.8 For the second time, fair value had been returned to 
+its box. 
+And  so  to  the  present  day  –  the  third  phase.  By  2008,  the  ranks  of  “accomptants”  had 
+swelled, with numbers of recognised accountants in the UK totalling over 275,000. Yet the 
+issues  today  have  loud  echoes  of  1938.  Through  the  1990s,  the  main  international 
+accounting standard-setters extended the boundaries of fair value. In the US, this was given 
+impetus by the Federal Deposit Insurance Corporation Improvement Act (FDICIA) in 1991. 
+Widespread  use  of  mark  to  market  was  a  key  ingredient  of  the  prompt  corrective  action 
+approach embodied in FDICIA. 
+From 1992, it became a requirement among US companies to disclose the fair value of all 
+financial instruments in the notes to their accounts. Towards the end of the 1990s, this move 
+was  formalised  with  financial  instruments  (derivatives,  equity  and  debt)  being  included 
+explicitly  in  the  accounts  at  fair  value.  In  the  US,  this  followed  adoption  of  Statement  of 
+                                                 
+5   United States Securities and Exchange Commission (2008). 
+6   FDIC (1997). 
+7  
+In a letter to Richard Breeden, Chairman of the Securities and Exchange Commission, which refers back to 
+the  1930s  experience,  then-Chairman  Alan  Greenspan  notes  “that  market  value  accounting  raises  a 
+substantial  number  of  significant  issues  that  need  to  be  resolved  before  considering  the  implementation  of 
+such an approach in whole or in part for banking organizations”. Alan Greenspan, “Letter to Hon. Richard C. 
+Breeden,” Federal Reserve, November 1, 1990. 
+8   Simonsen and Hempel (op. cit.). 
+BIS Review 28/2010 
+ 3
+Financial  Accounting  Standard  133  (SFAS  133)  in  June  1998.  Elsewhere,  it  followed 
+adoption of the IASC’s International Accounting Standard 39 (IAS 39) in January 2001. 
+The banking crisis of the past two years has brought that evolution to a halt. As pressures on 
+banks’  balance  sheets  have  intensified,  subdued  lending  growth  has  raised  concerns  that 
+recovery may be retarded. A debate has begun internationally on rolling back fair value to 
+arrest this downward trajectory. Once again, central bank governors, politicians, regulators 
+and countries have been prominent in their criticism of fair value. Some fear that fair value is 
+poised to enter the third dip on its rollercoaster journey. 
+interests  of  accountants, 
+Fair values and market prices 
+What have been the underlying forces leading fair value to be at first lauded, then questioned 
+and  periodically  abandoned?  At  the  heart  of  this  is  the  vexed  question  of  whether  market 
+prices are a true and fair assessment of value. 
+In theory, market prices ought to be a full and fair reflection of the present value of future 
+cashflows on an asset. This is the fulcrum of the Efficient Markets Hypothesis (EMH). Market 
+prices, if not perfect, are at least efficient aggregators of information – a one-stop shop for 
+appraising  value.  This  simplicity  makes  EMH  powerful  theory.  But  its  real  power  is  its 
+widespread application in practice. EMH has not just monopolised the finance textbooks; it 
+has also dominated the dealing rooms. 
+If  the  EMH  were  to  hold  strictly,  the  fair  value  debate  would  be  uncontentious.  Marking  of 
+assets to market would be proper recognition of their economic value. In that financial utopia, 
+the 
+investors  and  regulators  would  be  perfectly  aligned. 
+Accountants would have a verifiable valuation yardstick; investors a true and fair view of their 
+true worth; and regulators an objective means of evaluating solvency. Fair value would serve 
+treble duty. 
+In practice, the fair value debate is contentious and has been for at least a century. Through 
+history,  accountants,  investors  and  regulators  have  not  always  sung  in  tune.  Today, 
+accountants are singing opera Pacioli-style, regulators are rapping at 300 words a minute, 
+while investors are left to whistle. In part this discord has been blamed on failures of EMH, 
+“the precarious yardstick of current market quotations”. 
+It should come as no surprise that fair value principles have faced their stiffest tests at times 
+of crisis – the Great Depression during the previous century, the Great Recession during this. 
+For  it  is  at  crisis  time  that  EMH  itself  faces  its  stiffest  test,  perhaps  none  greater  than 
+recently.  The  heterodox  British  economist  George  Shackle  observed:  “Valuation  is 
+expectation and expectation is imagination”.9 Imagination, and thus valuation, is apt to run 
+wild at the peak of the boom and trough of the bust. 
+These episodes of over-active imagination, or deviations from EMH, can be grouped roughly 
+three  ways.  Each  has  an  important  potential  bearing  on  financial  stability  and  on  the  fair 
+value debate: 
+ 
+“Excess volatility”: Some of the earliest evidence against EMH focussed on the 
+tendency of asset prices to fluctuate more than could be justified by movements in 
+fundamentals  –  so-called  excess  volatility.  While  early  evidence  focussed  on  the 
+behaviour of equity prices, the same tests have now been applied to a wide range of 
+asset  markets,  including  corporate  bonds,  asset-backed  securities  and  exchange 
+                                                 
+9   Shackle (1972) quoted in Bronk (2009). 
+4 
+ BIS Review 28/2010
+  rates.10  There  is  overwhelming  empirical  evidence  of  excess  volatility  in  asset 
+prices. 
+“Medium-term  misalignment”:  Excess  volatility,  while  inconvenient,  need  not  by 
+itself severely distort the functioning of capital markets. Asset prices’ signals might 
+be  noisy,  but  correct  on  average.  But  there  is  emerging  evidence  of  asset  prices 
+becoming  persistently  misaligned  from  fundamentals  in  a  variety  of  markets 
+including equity, residential and commercial property and corporate bonds.11 
+“Apparent arbitrage”: A third aspect of the failure of EMH is evidence of seemingly 
+pure  arbitrage  opportunities  being  sustained  by  market  participants  for  lengthy 
+periods.  Unlike  excess  volatility  and  misalignme
+from 
+fundamentals  represent  riskless  opportunities  to  make  profits.  They  have  been 
+evident in past, and in particular in the present, crisis. 
+these  deviations 
+nt, 
+Ultimately, the importance of these three features is an empirical question. Charts 1 and 2 
+plot the long-run behaviour of the equity market, in the UK from the 1920s and in the US from 
+the 1860s. These long sweeps of history are revealing about patterns of misalignment and 
+excess  volatility.  In  each  case,  some  metric  of  f n
+u damentals  is  needed.  A  model-based 
+measure  of  fundamentals  is  used,  based  on  long-run  average  values  of  dividend  growth 
+discounted at a long-run average real interest rate.12 
+For the US and UK, Charts 1 and 2 present persuasive evidence of both excess volatility and 
+misalignment. On average over the sample, equity prices in the UK and US are around twice 
+as volatile as fundamentals. The average absolute deviation of UK and US equity prices from 
+0% respectively. If anything, there is evidence 
+fundamentals has been over 20% and over 3
+of misalignments having increased. Average absolute misalignments have averaged almost 
+30% and 70% in the UK and US since 1980. 
+These deviations from EMH are no less striking moving from financial to real assets. Since 
+e as  typical  measures  of 
+ 
+1930,  real  property  prices  have  been  more  than  twice  as  volatil
+fundamentals.  And  real  property  prices  have,  in  different  countries,  at  times  deviated 
+significantly from measures of fundamentals over the same period.13 
+EMH predicts essentially a zero correlation in prices across time, as they follow the random 
+walk of the homeward-bound drunk. This evidence paints a picture of excess volatility (in the 
+short-run) and slow mean-reversion (in th
+e long-run). In other words, there is both positive (at 
+short  horizons)  and  negative  (at  longer  horizons)  serial  correlation  in  market  prices.  This 
+leaves EMH run-over in both directions. 
+With  a  steely  nerve  and  deep  pockets,  investors  could  make  profits  from  exploiting  these 
+trends. But as Keynes remarked, the market can often remain irrational for longer than even 
+a strong-willed investor can remain solvent. In oth
+er words, these are risky bets. The crisis 
+has also revealed, however, examples of bets which were, on the face of it, essentially risk-
+less deviations from EMH or “apparent arbitrage”. 
+Chart  3  considers  the  price  of  two  on  the  face  of  it  identical  portfolios  –  an  index  of  CDS 
+contracts and an individually-constructed portfolio of the same CDS contracts. On average, 
+they ought to trade as one and the same. But for around a year from October 2008 onwards, 
+the  spreads  on  these  two  portfolios  differed  by  as  much  as  60  basis  points.  Even  once 
+transactions  costs  are  taken  into  account,  there  were  persistent  and  significant  riskless 
+ 
+                                                
+10   Shiller (1981). 
+11   Shiller (2005), Smithers (2009). 
+12   Alternative  metrics  for  fundamentals,  such  as  cyclically  adjusted  price-earnings  ratios  or  q,  yield  a  broadly 
+similar conclusion (Shiller (2005), Smithers (2009)). 
+13   Shiller (2005). 
+BIS Review 28/2010 
+ 5
+profits  on  the  table.  Chart  4  looks  at  the  difference  between  two,  again  on  the  face  of  it, 
+identical money market bets – forward rate agreement spreads and forward rates implied by 
+the LIBOR spreads, both of the same maturity. Over the exact same period, these differed by 
+as much as 250 basis points. 
+So why were the bets not placed and the arbitrage opportunities exploited? First, money is 
+needed to place even a riskless bet. That was the scarcest of commodities after the failure of 
+Lehman  Brothers  in  October  2008.  Second,  placing  a  bet  also  requires  a  trustworthy 
+e  midst  of  crisis.  In  their  absence, 
+bookmaker.  They  too  were  thin  on  the  ground  in  th
+arbitrage  may  be  more  “apparent”  than  real.  Market  prices  are  likely  to  deviate  from 
+fundamentals due to liquidity and counterparty premia. 
+By way of illustration, Chart 5 provides a decomposition of the yield on sub-investment grade 
+corporate securities in the UK. By mid-2007 at the peak of the boom, the liquidity premium on 
+en eliminated. By the end of 2008, this liquidity premium had 
+these assets had pretty much be
+risen by almost 2500 basis points. As capital markets moved from flood to drought, market 
+prices turned from rich to poor. 
+“Protecting shareholders” 
+Fair value and financial stability 
+Against this backdrop, what are the potential financial stability implications of using market 
+ valuation yardstick? In roughly chronological order, three main arguments have 
+prices as a
+been used in defence of marking to m
+arket. Broadly, these mirror the three historic phases of 
+fair value: 
+ 
+During  the  19th  and  early  20th  centuries,  as  joint  stock  companies  sprang  up,  the  key 
+purpose of company accounts was to protect shareholders’ interests. Like truth in the face of 
+the war, in the face of crisis the financial accounts appear to have been the first casualty. 
+During  the  19th  century,  the  published  accounts  of  Spanish  banks  became  less  frequent 
+during  episodes  of  crisis.  Mussolini’s  Italian  government 
+of  1931  went  one  step  further, 
+suspending publication of accounts by the banks to forestall panic.14 It is unlikely Goethe and 
+Mussolini would have agreed on the merits of double-entry. 
+While less extreme, there is compelling evidence of British banks having massaged balance 
+sheets  from  the  late  19th  century  right  up  until  the  early  1970s,  especially  during  crisis. 
+Typically, this involved the systematic under-valuation of assets to allow hidden reserves to 
+be carried on the balance sheet. The experience of UK banks in 1952 was typical. As the 
+asis for valuation by banks was shifted from 
+prices of government securities fell sharply, the b
+“at  or  below  market  value”  to  “at  or  under  cost”.  This  mirrored  the  Roosevelt  and  Bush 
+forbearance announcements of 1938 and 1990. 
+The motives for hidden reserves among UK banks were purportedly prudential, as protection 
+against  the  “excessive  dividend  expectations”  of  shareholders  and  as  a  cushion  against 
+losses in crisis.15 Although the Companies Act of 1947 prohibited the use of hidden reserves, 
+the banks were exempt from its provisions. But the writing was on the wall. Non-disclosure by 
+banks  came  under  repeated  fire  during  the  1960s.  Sensing  the  inevitable,  British  banks 
+“voluntarily”  d
+ecided  to  pursue  full  disclosure  in  1969,  in  the  interests  of  shareholder 
+transparency and protection, though there is evidence of hidden reserves persisting right up 
+to the 1980s. 
+                                                
+ 
+14   James (1992). 
+15   Billings and Capie (2009). 
+6 
+ BIS Review 28/2010
+“Gambling for resurrection” 
+Those considerations remain relevant today. Shareholders in global banks have lost 40% of 
+their net worth since the start of the crisis. The implied volatility of global banks’ equities is 
+f  the  crisis.  At  its  peak,  it  was  seven  times  higher. 
+around  50%  higher  than  at  the  start  o
+has  been  shaken  to  the  core.  It  is  unlikely  to  be 
+Confidence  in  banks’  balance  sheets 
+restored by a return to murky valuation and hidden reserves. 
+ 
+One  special  case  of  shareholder  protection  arises  when  management  increase  their  risk-
+taking incentives as the probability of failure rises. Such incentives are in-built in a world of 
+to  engage  in  such  gambling  for  redemption  depends 
+limited  liability.  But  the  ability 
+importantly  on  the  degree  of  information  asymmetry  between  the  shareholders  and  the 
+manager. The lower the transparency of the accounts, the greater the incentives and ability 
+of management to bet the ranch. 
+This type of behaviour is if anything more likely among banks, given the intrinsically greater 
+opacity of their assets. And examples are legion. For example, in the run-up to the Savings 
+and Loan crisis in the US, many thrifts financed long-term fixed rate assets with variable rate 
+deposits, thereby running significant interest rate risk. This was a big gamble. But because it 
+guised  in  the  accounts,  neither  regulators  nor  the  thrifts  themselves  felt  obliged  to 
+was  dis
+, the gamble failed causing many thrifts to collapse. In 
+manage this risk. As interest rates rose
+ion required fair values to be reported from the early 
+response, the Office of Thrift Supervis
+1990s. 
+ 
+lues arises from its role as 
+Perhaps the most recent of the arguments used to support fair va
+a risk management device. Market prices, while noisy, offer timely signals. They are likely to 
+prompt  early  recognition  and  management  of  emerging  risks  and  mistakes,  by  both 
+regulators and the regulated. Sunlight is an effective disinfectant. 
+In this regard, it is telling that more widespread marking to market accompanied regulatory 
+efforts  to  improve  prompt  corrective  action  measures  –  for  example,  in  the  US  through 
+FDICIA. Among market participants, the use of fair values and fleet-of-foot risk management 
+techniques is widely felt to have contributed to the relative success of some firms during the 
+ertainly appears to think so.16 
+course of the crisis. Lloyd Blankfein, CEO of Goldman Sachs, c
+For  the  prosecution,  the  ma
+in  arguments  also  appear  to  be  threefold.  Essentially,  these 
+follow from the three commonly attributed failures of the EMH. 
+ 
+If market prices exhibit greater volatility than warranted by fundamentals, this will be mirrored 
+in the balance sheet footin
+gs and profits of entities marking their positions to market. This is 
+far from a new phenomenon. Robert E Healy, the SEC’s first Chief Accountant back in the 
+early  1930s,  lamented  that  firms  “can  capitalise  practically  everything  except  the  furnace 
+ashes in the basement”.17 
+The impact of fair values on profits may have been even greater over recent decades. Banks’ 
+tile over the past few decades, with the standard 
+profits have become significantly more vola
+deviation of banks’ return on equity trebling comparing the forty-year periods either side of 
+“Timely risk management” 
+“Excess volatility” 
+                                                 
+16  
+“At Goldman Sachs, we calculate the fair value of our positions every day, because we would not know how to 
+assess or manage risk if market prices were not reflected on our books. This approach provides an essential 
+early  warning  syst
+em  that  is  critical  for  risk  managers  and  regulators”,  Lloyd  Blankfein,  Financial  Times, 
+October 13 2009. 
+17   Quoted in Seli
+gman (2003). 
+BIS Review 28/2010 
+ 7
+“Fundamental misalignment” 
+1970. There is also evidence of banks’ equity prices having exhibited higher correlation as 
+fair value principles have been extended.18 
+Consider  a  hypothetical  experiment.  Imagine  banks  in  the  UK  had  been  required  to  mark 
+their banking books to market over the period 1999 to 2008, in addition to their trading book. 
+Market  prices  are  used  to  proxy  different  categories  of  loan.  For  example,  Residential 
+Mortgage Backed Securities (RMBS) and covered bond prices are used to proxy mortgage 
+loans.  As  with  banks’  trading  books,  all  gains  and  losses  arising  on  the  banking  book  are 
+assumed to flow directly to profits. 
+Chart  6  plots  the  path  of  UK  banks’  profits,  both  actual  and  simulated  under  the  mark  to 
+market  assumption.  Simulated  profits  are  around  eight  times  more  volatile.  Between  2001 
+and  2006,  UK  banks’  cumulative  profits  would  have  been  around  £100  billion  higher  th
+an 
+recorded profits, as the expected future returns to risky projects were brought forward. This 
+would have been the 21st century equivalent of capitalising the ashes in the blast furnace. 
+For  what  goes  around  comes  around.  Hypothetical  losses  during  2008  would  then  have 
+totalled in excess of £300 billion, as the risk from these projects was realised. The ashes in 
+the furnace truly turned to dust. Had shareholders not already torn it out, thi
+s rollercoaster 
+ride in profits would have been hair-raisin
+g. In this admittedly extreme case, it is questionable 
+how much shareholder protection fair values would have delivered in practice. 
+ 
+A  related  but  distinct  issue  arises  when  market  prices  deviate  from  their  true  values  for  a 
+protracted period. Marking to market then runs the risk not just of unwarranted volatility but 
+unjustifiable bankruptcy. T
+ake a bank whose liabilities are perfectly maturity matched with its 
+10-year assets. So there is no necessity for the bank to liquidate its assets to make good its 
+liabilities as they fall due. 
+But the market price of the banks’ assets might well embody a premium for instant liquidity – 
+a  liquidity  premium.  As  Chart  5,  at  times  of  stress,  these premia  are  large  and  overshoot, 
+lowering asset prices below economic value. In this
+ situation, a marked to market balance 
+sheet may give a misleading impression of banks’ worth. And if these distortions are large 
+enough, fair values could even generate insolvency. 
+During  this  crisis,  the  precipitate  rise  in  liquidity  premia  and  fall  in  asset  prices  may  have 
+called into question the viability of many banks had their assets been fair-valued. Consider 
+again the banking book of UK banks on a mark to market basis. Chart 7 shows the loss of 
+value on this book, which would have peaked at over £400 billion during the early months of 
+2009. The total capital resources of UK banks at that time were around £280 billion. In other 
+words, the UK banking system in aggregate would have been technically insolvent on a 
+mark 
+to market basis. The recent recovery
+ in asset prices has been almost as remarkable as the 
+preceding fall. It has meant UK banks were back in the black within a matter of months. 
+ 
+The act of marking to market may itself have a bearing on asset price dynamics. This arises 
+because of its potential effects on banks’ behaviour. If swings in perceived solvency cause 
+banks to sell assets, these fire-sales may themselves add to downward pressures on asset 
+prices. Under mark to market, these pressures are felt by all institutions, not just the seller. In 
+effect,  fire-sal
+es  by  one  firm  have  negative  externalities  for  all  others. And  as  other  banks 
+adjust  their  own  balance  sheets  in  response,  there  is  a  risk  the  downward  dynamic  is 
+perpetuated. 
+“Liquidity and fire-sales” 
+                                                 
+18  
+Khan (2009). 
+8 
+ BIS Review 28/2010
+By acting in this way, marking to market has the potential to serve as an amplifier of stress in 
+the financial system.19 Other things equal, it could result in sharper and more severe asset 
+price falls than in the past, accompanied by greater institutional stress. It could exaggerate 
+excess  volatility  and  misalignment.  Marking  to  market  may  not  just  be  a  casualty  of  the 
+failure of EMH; it may also be a cause. 
+Hyun  Shin  has  likened  the  destabilising  dynamics  of  mark  to  market  to  the  unstable 
+oscillations of London’s Millennium Bridge at the time it opened. In finance, these adverse 
+dynamics  have  a  much  longer  historical  pedigree.  In  their  classic  monetary  history  of  the 
+United States, Friedman and Schwartz assigned mark to market a key role in propagating 
+banking  f
+  The  evidence  of  such  dynamics  during  this 
+crisis is more mixed. Some studies have claimed this effect was limited to banks with large 
+trading portfolios;21 others that it has been significant and wide-ranging across the financial 
+sector.22 
+Perhaps the truth lies somewhere in between, with some market and institutions affected and 
+others immune. Chart 8 plots commercial property values in the UK since 1920. There are 
+five discernible boom and bust cycles in commercial property, signified by the dotted lines. 
+Chart 9 looks at the cumulative falls in value during the bu
+st. In four of the cases, the bust 
+was similarly timed and sized. The exception is the bust of 2007–08, where the fall in value 
+has been both greater and faster. It is plausible that fire-sales, aggravated in part by marking 
+to market, may have con
+ailure  during  the  Great  Depression.
+tributed to this dynamic. 
+20
+The fair value agenda 
+So how do these considerations relate to the debate on international accounting standards? 
+ugh  the  Financial  Accounting 
+At  present,  these  stand  at  a  crossroads.  In  the  US  (thro
+Standards  Board  (FASB))  and 
+the 
+International  Accounting 
+internationally  (through 
+Standards  Board  (IASB)),  standard-setters  are  reviewing  their  treatment  of  financial 
+instruments. Substantive decisions are planned during 2010. 
+Within the IASB, a review of IAS39 is underway, with consultation on a new standard, IFRS9. 
+n, 
+The fair value debate is at the heart of the new proposals. One key dimension is valuatio
+where IFRS9 proposes a combination of amortised cost and fair values, with clear criteria to 
+determine the suitability of assets for each category. In the US, FASB is expected to issue 
+consultation proposals that would tend to reinforce the use of fair value among US banks. 
+A second dimension is provisioning. The concern here is that the use of provisions based on 
+re  recognised  too  late,  thereby  contributing  to 
+incurred  losses  means  that  impairments  a
+pro-cyclicality  of  loan  supply.23  In  response,  the  IASB  has  issued  a  consultation  paper 
+proposing that provisions be set on an expected loss basis. These proposals are currently 
+being explored by regulators internationally. 
+ 
+                                                
+19   For example, see Plantin, Sapra and Shin (2008) and Allen and Carletti (2007) for a theoretical exposition of 
+these dynamics. 
+20   “Under  such  circumstances,  any  runs  on  banks  for  whatever  reason  became  to  some  extent  self-justifying, 
+whatever the quality of assets held by banks. Banks had to dump their assets on the market, which inevitably 
+caused  a  decline  in  the  market  value  of  those  assets  and  hence  of  the  remaining  assets  they  held.  The 
+impairment  in  the  market  value  of  assets  held  by  banks,  specifically  their  bond  portfolios,  was  the  most 
+important source of impairment of capital leading to bank suspensions, rather than the default of specific loans 
+or specific bond issues.” (Friedman and Schwartz (1963)). 
+21   For example, Laux and Leuz (2009). 
+22   For example, Wallison (2008). 
+23   For example, Turner (2010). 
+BIS Review 28/2010 
+ 9
+The importance of a common measuring rod 
+A failure of efficient markets is not of itself a failure of fair value 
+Underlying  both  of  these  debates  is  a  perceived  tension  between  the  needs  of  different 
+stakeholders,  in  particular  investors  and  regulators.  So  what  broad  principles  might  frame 
+accounting  standards  if  the  demands  of  these  stakeholders  are  to  be  met?  Using  the 
+framework outlined earlier, these principles might include: 
+ 
+The  G20  have  committed  FASB  and  the  IASB  to  convergence  of  international  accounting 
+standards by June 2011. This is an ambitious timetable, for it is not just a meeting of two 
+minds. There are perhaps more than 30 different accounting standards operating worldwide. 
+Many minds need to meet if a truly international standard is to emerge. 
+It  could  be  argued  that  differences  in  accounting  standards  do  little  harm.  Like  foreign 
+languages, we may learn to live, pe
+rhaps even love, them. Attempts to compel a common 
+language  might  risk  creating  the  accountancy  equivalent  of  Esperanto.  Unfortunately,  the 
+analogy  is  inexact.  Banks  are,  by  their  nature,  international.  So  too  are  investors  in,  and 
+regulators of, banks. If all parties speak different languages at the same time, the result is 
+likely to be noise rather than signal. 
+For banks, the noise to signal ratio has been particularly high during this crisis. Differences in 
+accounting standards have contributed
+ to this noise. In 2008, UK banks’ assets would have 
+been  £2  trillion,  or  around  30%,  larger  under  European  IFRS  than
+  under  US  GAAP 
+international  comparisons  of  such 
+standards.  These  differences  make  problematic 
+rudimentary concepts as bank leverage. This in turn hinders investors’ risk assessments and 
+regulators’ supervisory assessments. 
+ 
+It  is  commonly  h
+eard  that  the  failure  of  EMH  argues  against  fair  value  in  favour  of  some 
+alternative, such as amortised cost. The truth is more subtle than that. Deviation from EMH 
+will cause both accounting measures to deliver distorted signals of value. Depending on the 
+precise  circumstances,  either  measure  might  deliver  a  more  accurate  measure  of  true 
+economic value. 
+To see this, consider four scenarios. Consider first a bank making a single loan. In the first 
+period, amortised cost and fair valuations of this loan will be equal. Expected cashflows will 
+in  both  cases  be  discounted  at  the  preva
+iling  market  discount  rate.  To  the  extent  EMH  is 
+violated  –  for  example,  because  the  market  discount  rate  is  too  low  –  both  accounting 
+concepts will result in asset over-valuation. Both concepts will be equally imprudent. In other 
+words,  credit  cycles  that  cause  failures  of  EMH  contaminate  bank  asset  valuations 
+irrespective of the accounting convention. 
+Consider  next  a  bank  with  a  portfolio  of  two  loans,  one  initiated  when  assets  prices
+  were 
+priced correctly, the other when they were over-valued. In this situation, amortised cost and 
+fair values will value the asset portfolio differently. Because market prices are applied to the 
+whole  asset  stock,  fair  value  will  tend  to  result  in  greater  recorded  overvaluation.  In  other 
+words, marking to market is more susceptible to valuation cycles than amortised cost. 
+Third, consider a situation where, having been over-valued, the market price of the second 
+loan corrects back to equilibrium. Fair values now deliver the correct valuation o
+f the entire 
+asset  portfolio.  Amortised  cost  measures,  meanwhile,  will  continue  to  give  a  misleadingly 
+bullish account of the second loan’s valuation, since this will be discounted at the artificially-
+low discount rate used at initiation. In other words, in this set of circumstances the tables are 
+turned, with fair values giving a more accurate and prudent measure of valuation. 
+Finally,  if  instead  of  correcting  to  equilibrium,  assume  market  prices  over-correct  –  say, 
+because of an overshoot in illiquidity premia of the type witnessed during crisis. It is then no 
+longer clear which valuation metric is preferable. Both will be inaccurate to some degree but 
+in  opposite  directions  –  the  amortised
+  cost  measure  suggesting  valuations  which  are  “too 
+high”,  while  fair  value  will  suggest  valuations  which  are  “too  low”.  The  greater  the  initial 
+10 
+ BIS Review 28/2010
+Better accounting for expected losses 
+misalignment  in  asset  prices,  and  the  smaller  their  subsequent  overshoot,  the  greater  the 
+likelihood  of  fair  values  being  preferred  over  amortised  cost  and  vice-versa.  Ultimately, 
+however, this is an empirical question. 
+In general terms, however, the point is clear: efficient markets are not necessary but may be 
+sufficient to justify the use of fair value principles. 
+ 
+s is that there is a potential trade-off in the use of amortised 
+What is clear from these example
+cost  versus  fair  value  measures  when  market  prices  deviate  from  EMH.  Both  might  give 
+misleading signals, but in opposite directions. Recognising the problems with either, is there 
+a way of doing better than both? 
+Perhaps the simplest way of doing so would be to use both valuation metrics. There have 
+already  been  suggestions  that  “dual”  accounts  could  be  drawn  up.24  The  upside  of  this 
+approach is that it would give regulators and investors more information on which to base 
+assessments. It releases sta
+keholders from the need to pick a winner. The downside is that 
+both valuations may be inaccurate, with a lack of clarity about which ought to be used, for 
+example,  to  judge  bank  solvency.  Or  in  the  words  of  Macbeth’s  three  witches,  “double, 
+double, toil and trouble”. 
+A more ambitious alternative would be to seek a more systemic and standardised valuation 
+methodology  in  the  first  place,  against  which  different  approaches  can  be  cross-checked. 
+ expected loss, less susceptible 
+The key here would be to establish an objective measure of
+to  the  excess  volatility  of  market  prices  but  adept  at  picking  up  its  timely  signals.  In  the 
+language of George Shackle, stricter valuation standards would help place some bounds on 
+the expectations and imaginations of bankers. 
+This is a role which neither accountants nor regulators are best placed to carry out. It would 
+require a body with both expertise in valuation and objectivity. It would seek consistency and, 
+as far as possible, accuracy in valuations across asset classes, institutions and countries. An 
+it  standards  have  only  been 
+International  Valuation  Standards  Board  already  exists.  But 
+  and  regulation  already  have  fora  to 
+adopted  in  around  half  a  dozen  countries.  Accounting
+support consistency of standards. During this crisis, valuation practices have been every bit 
+as important. Perhaps they too need international recognition. 
+ 
+Accounting  standards  already  reflect  characteristics  on  the  assets  side  of  banks’  balance 
+sheet. For example, IASB standards require consideration of the cashflow characteristics of 
+assets (for example, specified cashflows of interest and principa
+l) and the intentions of the 
+holder (for example, to collect the contractual cashflows). But for banks the characteristics of 
+their  liabilities  may  be  every  bit  as  important  as  their  assets.  Indeed,  at  times  of  stress  in 
+funding markets, liability characteristics may be more important. 
+Consider, for example, a 10-year loan with regular interest payments which is intended to be 
+held to maturity by a bank. These characteristics would justify the bank carrying the asset at 
+amortised 
+cost. But imagine this loan is funded with overnight loans. Whatever the intention, 
+this liability structure would require early liquidation of the asset if funding were to dry up. In 
+other  words,  the  ability  of  a  bank  to  hold  assets  to  maturity  may  be  as  important  as  the 
+intention. 
+The  greater  the  maturity  mismatch,  the  greater  the  likelihood  of  liability  characteristics 
+dominating asset intentions. In other words, the case for using fair values is greater when 
+balance sheets are maturity mismatch
+ed. Or, put differently, precisely because market prices 
+Business models matter, especially for banks 
+ 
+                                                
+24   For example, FASB (2009). 
+BIS Review 28/2010 
+ 11
+embody a liquidity premium, they could give a better view of the true asset position of a firm 
+facing liquidity constraints. For institutions facing funding pressure, liquidity premia may be a 
+legitimate measure of fundamentals. 
+And which companies’ balance sheets are most subject to such maturity mismatch? Banks. It 
+has been argued that banks ought to be protected from the vicissitudes of market prices. But, 
+given their maturity transformation role, the case may actually be stronger for banks than for 
+other  types  of  both  financial  (such  as  insurance  companies  and  pension  funds)  and  non-
+financial firms. For some banks, this may be the accounting convention that best aligns the 
+economic characteristics of both assets and liabilities. 
+It  is  interesting  that  there  was  evidence  of  financial  markets  making  their  own  switch  in 
+valuation  convention  during  the  course  of  the  crisis.  As  funding  maturities  shortened,  the 
+g 
+probability of asset liquidation rose. It became rational, then, for investors to begin valuin
+even banking book assets at market prices, as in Chart 7. For a time, this process appeared 
+to  generate  its  own  downward  dynamic,  with  shortening  maturities  and  falling  asset  prices 
+eroding the impliedly mark-to-market solvency position of banks in a liquidity/solvency loop. 
+Some  have  argued  this  downward  dynamic  itself  justifies  switching-off  fair  values.  But  the 
+perils  of  doing  so  are  clear.  Persisting  with  an  inappropriate  valuation  metric  may  give  an 
+lso  reduce  banks’  incentives  to 
+inaccurate  picture  of  banks’  true  solvency  position.  It  will  a
+adjust  funding  structures  to  guard  against  such  a  dynamic.  It  is  precisely  such  risk 
+incentives that appear to explain the relative success of some firms, including 
+management 
+hs, during this crisis. Therein may lie a lesson. 
+Goldman Sac
+Conclusion 
+The fortunes of fair value have waxed and waned historically, particularly at crisis time. So it 
+is no surprise that fair value is under attack today. We may be at yet another pivot point. 
+With financial markets still thick with fog and filthy air, now would be an unfortunate time to 
+d by fair values. Blocking out the sun or, worse 
+starve balance sheets of the sunlight provide
+still, claiming it revolves around the earth will not serve banks or regulators well in the longer 
+run. Restoring traditional accounting principles sounds desirable, provided the (Italian) values 
+we import are Pacioli rather than Mussolini. 
+At the same time, it needs to be recognised that too much sunlight can scorch. That means 
+to  fair  values,  screening  out  their  harmful  rays.  Rethinking 
+applying  appropriate  filters 
+valuation  practices  across  firms,  asset  classes  and  countries,  better  to  capture  expected 
+losses, is one important such filter. Recognising the liability as well as asset characteristics of 
+institutions may be another. 
+de fair value principles, as that would result in 
+We need to ensure these changes do not ero
+the  baby  being  thrown  out  with  the  bathwater.  Making  fair  values  less  foul  ought  to 
+th  investors  and  regulators.  It  would  protect  fair  value  from  lightening  strikes 
+advantage  bo
+t financial thunderstorm breaks. 
+when the nex
+References 
+Allen, F and Carletti (2007), “Market-to-Ma
+Financial Institutions Centre Working Paper 06–15. 
+Billings, M and F Capie (2009), “Transparency and Financial Reporting in mid-20th Century 
+British Banking”, Accounting Forum, 38–53. 
+Bronk, R (2009), The Romantic Economist
+rket Accounting and Liquidity Pricing”, Wharton 
+, Cambridge University Press.  
+12 
+ BIS Review 28/2010
+rontiers  during  the  Interwar  Depression”, 
+ H S Shin (2008), “Fair Value Accounting and Financial Stability”, 
+Financial  Accounting  Standards  Board  (2009),  “Financial  Instrument:  Improvements  to 
+Recognition and Measurement”, Financial Statement Presentation of Financial Instruments, 
+13 August 2009 (Board meeting handout). 
+Federal Deposit Insurance Corporation (1997), History of the Eighties – Lessons for the 
+Future. 
+Friedman,  M  and  A  J  Schwartz  (1963),  A  Monetary  History  of  the  United  States,  
+1867–1960, Princeton University Press. 
+Goethe, J W (1796), Wilhelm Meisters Lehrjahre. 
+James,  H  (1992),  “Financial  Flows  Across  F
+Economic History Review, 594–613. 
+Laux, C and C Leuz (2009), “Did Fair-Value Accounting Contribute to the Financial Crisis?”, 
+University of Chicago, Booth School of Business, Working Paper No. 41. 
+Khan, O (2009),  “Does  Fair  Value  Accounting Contribute  to  Systemic  Risk  in  the Banking 
+Industry?”, SSRN Working Paper No. 1327596. 
+Pacioli, L (1494), Summa de Arithmetica, Geometria, Proportioni et Proportionalita. 
+Plantin, G, Sapra, H and
+University of Chicago Graduate School of Business Research Paper 08–15. 
+Seligman,  J  (2003),  The  Transformation  of  Wall  Street:  A
+Exchange Commission and Modern Corporate Finance, 3rd Edition, Aspen Publish
+Shackle,  G  (1972),  Epistemics  and  Economics  –  A  Critique  of  Economic  Critiques, 
+Transactions Publishers. 
+Shiller, R (1981), “Do Stock Prices Move Too Much to be Justified by Subsequent Changes 
+in Dividends?”, American Economic Review, 71(3), 421–36. 
+Shiller, R (2005), Irrational Exuberance, Princeton University Press. 
+Simonson,  D  G  and  G  H  Hempel  (1993),  “Banking  Lessons  from  the  Past: 
+Regulatory Agreement Interpreted”, Journal of Financial Services Research, 249–267. 
+Smithers,  A  (2009),  Wall  Street  Revalued:  Imperfect  Markets  and  Inept  Central  Bankers, 
+John Wiley & Sons. 
+Turner, A (2010), Banks Are Different: Should Accounting Reflect that Fact?, speech given 
+to the Institute of Charter
+(2008),  Report  and 
+United  States  Securities  and  Exchange  Commission 
+Recommendations Pursuant to Section 133 of the Emergency Economic Stabilization Act of 
+2008: Study on Mark-To-Market Accounting. 
+Wallison, P J (2008), “Fair Value Accounting: A Critique”, American Enterprise Institute for 
+Pubic Policy Research. 
+ed Accountants in England and Wales (ICAEW), London. 
+  History  of  the  Securities  and 
+The  1938 
+ers. 
+BIS Review 28/2010 
+ 13
+Annex 
+14 
+  BIS Review 28/2010
+BIS Review 28/2010 
+  15
+ 16 
+ BIS Review 28/2010

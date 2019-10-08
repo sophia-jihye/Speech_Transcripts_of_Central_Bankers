@@ -1,0 +1,302 @@
+Jacqueline  Loh:  E-payments  in  Asia  –  regulating  innovation  and
+innovative regulation
+Keynote address by Ms Jacqueline Loh, Deputy Managing Director of the Monetary Authority of
+Singapore, at the Central Bank Payments Conference, Singapore, 26 June 2018.
+ Mr Benoît Cœuré – Executive Board Member of the ECB and Chairman of the Committee on
+Payments and Market Infrastructures (CPMI)
+Jean-Michel Godeffroy, Chairman of the Central Bank Payments Conference
+Fellow central bankers and regulators
+Ladies and gentlemen
+1.    Good morning. Welcome to Singapore. Thank you for inviting me to speak at the Central
+Bank Payments Conference.
+2.     I understand that this is the second conference since the event started in Amsterdam last
+year,  and  the  first  time  that  the  event  is  being  held  in  Asia.  So  let  me  share  with  you  the
+perspective from this part of the world.
+A. E-PAYMENTS ARE FLOURISHING IN ASIA
+3 .     Until  about  a  decade  ago,  payments  were  entirely  offered  by  banks.  We  wrote
+cheques  that  were  issued  by  banks  and  deposited  cheques  into  accounts  that  we  held  with
+banks. As electronic or e-payments flourished, we paid for shopping using debit or credit cards
+that bore various brands, but were ultimately issued by banks. The banks would then find a way
+of settling payments among themselves through the Automated Clearing House (ACH) (usually
+run by the banking industry) and the Real Time Gross Settlement (RTGS) system (run by the
+central bank). For the longest time, the central bank’s role was clear: We kept payments safe by
+keeping banks safe.
+4 .     In recent years, digital payment solutions such as e-wallets over mobile devices
+have emerged, and nowhere is this more obvious than in Asia. From 2015 to 2016, non-
+cash  transactions  in  developed  Asia-Pacific  grew  by  8.8%  while  that  in  Emerging  Asia
+2
+experienced 28.6% growth . Digital payments in Asia are forecasted to grow annually at 16.4%
+to reach over USD 2.5 trillion per year in 2022. That is almost half of the estimated worldwide
+total of USD 5.4 trillion.
+1
+5.     Such services are often offered by non-banks, increasing the number of payments being
+handled  outside  the  traditional  banking  system.    EY  and  DBS   found  that  payments  and
+remittances were the highest-adopted FinTech services among banking and financial services
+customers in Asia, reaching 40% in China and 20% in India. In ASEAN, approximately one-third
+of  FinTech  companies  are  in  the  payments  space,  and  this  increases  to  54%  if  you  include
+4
+money-transfer and remittance services .
+6 .     These innovations did not come about by chance, but rather through a confluence
+of three factors:
+3
+a. Technology has lowered the barrier to entry to run a standalone payments business, without
+being a bank.
+b. The high penetration of smart phones running apps has made it easier to acquire customers
+ 1 / 6
+BIS central bankers' speeches
+digitally, without physical places of business; and
+c. The boom of online e-commerce has necessitated the creation of solutions to help customers
+to  pay  digitally  for  services  that  they  in  turn  purchase  digitally. As  they  say,  necessity  is  the
+mother  of  all  invention,  and  nowhere  else  is  this  more  pressing  than  in  Asia,  where  a  high
+proportion of unbanked population is concentrated. In 2017, the World Bank found that China,
+5
+India, Indonesia and Bangladesh alone contributed to one-third of the world’s unbanked adults .
+7 .     This has resulted in a well-trodden path among digital businesses in Asia: Build a
+digital  business  around  something  non-financial,  say  ride-hailing,  food  delivery,  groceries  or
+gaming. Then offer your customers a seamless payment experience through an e-wallet, to pay
+for the things that they buy from you. Let me offer a few examples:
+a. In Singapore, Carousell offers an online marketplace for individuals like you and me to sell or
+buy anything. You take a photo of what you want to sell, the app can recognise items like shoes
+and  suggest  an  appropriate  category,  and  you  post  it  for  sale.  They  have  about  150  million
+listings  today,  including  cars  and  property.  And  they  are  launching  CarouPay  to  help  its
+customers to pay for all of them.
+b. Some of you, like a couple of my colleagues, may have come here this morning using the ride-
+hailing service, Grab. It is very convenient. You book the ride, the driver arrives, you reach your
+destination, you thank your driver, and you are on your way. No money needs to be exchanged
+with the driver. You don’t even click “pay”. Grab has taken this one step further: They’ve acquired
+over 300 merchants so that you can use the Grab wallet to pay for services these merchants
+offer.
+6
+c. But it is China that is leading the way, with e-wallets making up 13% of consumer payments by
+value, compared to under 1% in markets like India and Indonesia . Alibaba combined mobile e-
+money with facial recognition in their Hema chain of supermarkets. You walk into the store with
+your mobile phone, find something you like, scan the QR code to find out more information about
+it, and in the same app you can order the item, pay for it, and get it delivered in 30 minutes.
+JD.com does something similar in their staff convenience store at their headquarters: walk in,
+pick up a snack, walk out.
+B. EMERGING ISSUES IN DOMESTIC PAYMENTS
+8 .     The clearest benefit for consumers is greater convenience and an explosion of
+choice in how you want to pay. You can use the same e-wallet to get a ride to work, then to
+buy lunch at a café. You can use another e-wallet to order dinner. Merchants too, have more
+choices today on how they wish to get paid. Just step into any mall, and at many shops you see
+a range of QR codes representing different e-wallet schemes – some of them catering just to
+tourists from specific countries.
+9.     The reverse side of that same coin is that as more payments are carried out outside
+of the banking system, they also start to fall outside of typical central bank oversight like
+the ACH and RTGS. As it stands today, the portion of digital payments is still a small fraction of
+total payments. Even in China, where mobile payments have sky rocketed, the total volume of
+mobile  payment  transactions  in  2016  stood  at  CNY  208  trillion ,  a  fraction  of  the  CNY  3600
+trillion   processed  by  China’s  High-Value  Payment  System.  However,  as  more  payments  go
+through these e-wallets and as more consumer monies are held by non-banks, it is important for
+us to consider the risks that we typically look out for:
+7
+8
+a. As individual e-wallets, how do we keep them safe to use?
+b. Collectively, how do we manage risks that e-wallets may pose to the financial system?
+ 2 / 6
+BIS central bankers' speeches
+c. As a market, how do we ensure that e-payments function smoothly with each other and with
+the financial system?
+1 0 .     Let me run through these three questions, and share how MAS is addressing these
+through the proposed Payment Services Bill (PSB) – striking a balance between innovation and
+sound regulation – as well as industry collaboration. The proposed PSB also follows an activity
+based  framework  which  calibrates  regulation  according  to  the  risks  that  the  specific  payment
+activity poses, rather than applying a fixed set of regulations to all payment service providers.
+While  we  have  expanded  the  regulatory  scope  to  address  emerging  risks  in  payment
+developments, regulations are also right-sized to the risks posed.
+11.     First: As individual e-wallets, how do we keep them safe to use? When we look at e-
+wallets,  we  find  that  they  face  very  similar  risks  as  digital  banking  products.  Firstly,  as  online
+services,  both  are  dependent  on  technology  and  face  cyber  risk  –  so  MAS  expects  them  to
+manage these technology and cyber risks well. Second, they both hold retail customer monies,
+so they need to safeguard these monies. The differences however, are that an e-wallet is used
+for  day-to-day  payments,  and  so  needs  to  be  very  liquid  to  meet  customer  demands,  and  e-
+wallet issuers don’t give loans with the float. So it’s important to right-size our regulations to their
+business model, and not to stifle innovation by loading them with bank-like requirements. Taking
+these  into  account,  MAS  sets  out  proportionately  simple  options  for  e-wallets  to  safeguard
+customer  monies,  for  example,  holding  it  as  a  deposit  with  a  bank.  MAS  may  also  prescribe
+further safeguarding measures in liquid and low-risk assets.
+12.     Second: Collectively, how do we manage risks that e-wallets pose to the financial
+system? Our role as central banks is to protect the stability of, and confidence in, the financial
+system. To achieve this, we need to develop regulations that, while addressing key risks, do not
+obstruct the industry developments. In the case of payments, that key risk is money laundering
+and terrorist financing (ML/TF), and the balance that we have to strike is to allow new e-wallet
+businesses to start quickly, but also ensure that ML/TF risks are managed before they get too
+large. In this context, while KYC continues to be a key requirement, we allowed smaller wallets
+holding funds of no more than $1,000 to carry out simplified KYC requirements. This framework
+is similar to those used in other markets like Hong Kong, India, Australia and the UK.
+13.     Finally, as a market, how do we ensure that e-payments function smoothly with each
+other and the financial system?  Many  of  us  think  of  smooth  functioning  as  having  liquidity
+providers in capital markets through volatile periods. That is because capital markets are well-
+oiled systems that interoperate between banks and trading venues, and even among banks. Not
+so with e-payments.
+14.     E-payments have grown quickly because they have been able to develop their own
+systems quickly – but this has resulted in some fragmentation. Although the vast array of
+payment solutions offers more choices to consumers and merchants, too much choice is not
+always a good thing:
+a. Consumers may end up holding three or four different e-wallets in order to get the best deals
+from each: one for transport, one for shopping, and another to split bills with friends. Those three
+or four e-wallets may hold smaller amounts of money each, but in sum might add up to more
+than what he/she would have otherwise held in cash in one physical wallet. He/she needs to top-
+up each e-wallet separately, because each wallet has a different top-up and refund mechanism.
+b.  Merchants  may  proudly  display  all  the  schemes  that  they  accept,  whether  by  card  or
+contactless  or  QR  codes.  Underneath  all  that,  the  merchant  needs  to  deal  with  different
+acquirers that send him settlement files in different formats, at different times, and pay him on
+different days.
+ 3 / 6
+BIS central bankers' speeches
+9
+c.  Between  the  consumer  and  merchant,  instead  of  counting  cash  and  change,  the  payment
+ordeal could transform into checking which payment instrument is accepted, which card to dip
+into which terminal, or which QR code to scan.
+1 5 .     Fortunately, we have not reached that e-payment nightmare. While competition
+from many payment providers benefits consumers with lower prices, convenience and
+more innovative solutions, e-payments still need to interoperate in order for the industry
+to continue growing. Let me share three areas where MAS is enhancing interoperability of e-
+payments, namely point-of-sale terminals, QR codes and regulatory powers.
+1 6 .     First, Unified Points of Sale (UPOS) terminals. Singapore is a highly-carded market,
+with over 349 payment cards per 100 inhabitants . Many merchants, if they accept e-payments,
+have a terminal, usually provided by a bank acquirer. Five years ago, we started noticing that
+some  15%  of  merchants  had  more  than  one  terminal.  Why?  Because  different  banks  were
+acquiring the same merchant so that they could offer the merchant lower on-us rates for their
+cards dipped in their own terminals. This was good for merchants, and even for the consumer as
+the merchants passed on some discounts to them. But there were hidden costs: Cashiers had
+to  be  trained  on  different  terminals,  customers  at  self-checkout  lanes  fumbled  with  which
+terminal to dip their card into. So we set out to study the market, see which merchants had more
+than one POS terminal, prioritise them by the volume and value of transactions that they handled,
+and worked closely with their acquirers one-by-one to on-board onto a single terminal that can
+accept all schemes that use chip and contactless near-field communication (NFC). Today, the
+process  is  still  underway,  but  you  can  already  see  these  UPOS  terminals  deployed  in
+supermarkets, convenience stores and petrol stations – these are merchants that we visit daily,
+if not weekly. Besides addressing the challenges I mentioned above, this has certainly made the
+self check-out experience a delight.
+17.     Second, Singapore Quick Response (SGQR) code.  Besides  chip  and  contactless
+NFC payments, many mobile payments are optical via a Quick Response (QR) code. Just as we
+started  to  tidy  up  the  POS  terminals  at  merchants,  we  started  to  observe  a  proliferation  of
+payment  QR  codes  as  each  e-payment  company  deployed  its  own  QR  code  sticker  at  each
+merchant’s  cashier.  We  identified  the  problem  early  and  immediately  formed  an  industry  task
+force  comprising  payment  schemes  and  acquirers.  Through  intensive  meetings  with  industry
+and users, we co-created the SGQR code.  While it is based on the EMVCo’s multi-tenanted QR
+specifications,  Singapore  is  the  first  and  only  jurisdiction  in  the  world  to  develop  a  set  of
+arrangements by the industry for the industry such that all QR schemes can reside on a single
+QR  code,  instead  of  each  scheme  deploying  its  own  code  with  its  own  scheme  only.  With
+SGQR, making a QR payment will be a breeze for the customer as he just looks for a single QR
+for any scheme the merchant accepts, rather than having to hunt for the right QR sticker for a
+particular  scheme.  For  mobile  or  small  merchants,  SGQR  allows  easy  acceptance  of  e-
+payments  via  a  single,  streamlined  and  low-cost  sticker.  Businesses  are  also  exploring  QR
+payments  in  bills  as  the  customer  can  quickly  pay  his  bills  through  his  mobile,  while  the
+customer details embedded in the QR in turn enhances business processes.
+18.     Third, Interoperability Powers. With UPOS and SGQR, MAS has been very fortunate in
+being able to work with willing industry partners. But in future, just as innovative solutions may
+grow  over  time,  the  number  of  interoperability  issues  may  multiply,  and  MAS  may  need  the
+regulatory  powers  to  effectively  address  the  issue  of  interoperability  with  many  more  parties.
+Hence,  in  the  consultation  on  the  PSB,  MAS  has  proposed  innovative  powers  to  require
+interoperability among payment institutions. Today, we have existing powers to require payment
+platforms  to  open  access  to  participants.  Looking  ahead,  we  recognised  that  we  needed  two
+more  measures:  to  require  participants  to  use  a  common  platform  and  to  adopt  common
+standards (such as SGQR).
+C. GOING CROSS BORDER
+ 4 / 6
+BIS central bankers' speeches
+10
+1 9 .     As we aim for interoperability and efficiency within our domestic systems, it is
+equally important to look beyond and to look outwards. A lot of commerce and e-commerce
+is  carried  out  across  borders  today:  Cross  border  e-commerce  alone  is  expected  to  expand
+strongly, by approximately 25% annually until 2020, nearly twice the growth rate of domestic e-
+commerce . And  just  as  more  people  travel  and  work  overseas,  and  more  businesses  find
+ways to deliver goods and services overseas, payments will also need to keep up.
+2 0 .     Among Singapore’s list of priorities as ASEAN Chair this year is to promote the
+growth of e-commerce in the region.  Google  and  Temasek  estimated  that  e-commerce  in
+ASEAN could amount to USD 88 billion in 2025 . Cross border payments that are affordable,
+secure, and instant, will play an important role in driving e-commerce trade flows and achieving
+this vision.
+2 1 .     Although  cross-border  linkages  offer  huge  benefits  in  important  areas  of  the
+economy  such  as  trade  and  tourism,  implementing  them  is  an  up-hill  task  because  of
+complexities  like  different  technical  interfaces,  and  legal  and  regulatory  requirements  in  each
+jurisdiction.  Each  country  is  also  in  a  varying  stages  of  development.  But  we  are  making
+progress:
+11
+a.  The  industry  has  moved  ahead:  In  March,  Singtel  announced  a  partnership  with  its  Thai
+associate AIS to link their mobile wallets up, to enable 1.5 million visitors between Singapore and
+Thailand to use their mobile wallets at over 20,000 physical merchant acceptance points in both
+markets. Singtel plans to expand this to other regional associates later in the year.
+b. More broadly, the banking associations of Singapore and Thailand are exploring the possibility
+of  linking  their  faster  payment  systems,  PayNow  in  Singapore,  and  PromptPay  in  Thailand.  If
+successful,  the  benefits  of  instant,  low-cost  payments  for  tourists,  migrant  workers  and
+professionals will also extend to person-to-person payments and even remittances.
+c. Earlier this month, when India Prime Minister Narendra Modi visited Singapore, he used his
+RuPay card issued in India to pay for a Madhubani painting on a NETS terminal.
+22.     In order to address the challenges of cross-border linkages, central banks need to
+promote the adoption of common international standards and work with industry partners
+on all sides in order to ease future integration efforts and pave the way for further partnerships.
+D. CENTRAL BANK DIGITAL CURRENCIES (CBDC)
+2 3 .     As we talk about cross-border linkages, it would be remiss of me not to touch on
+Central  Bank  Digital  Currencies  (CBDC). Benoît  Cœuré,  our  next  distinguished  keynote
+speaker, and I, as co-chairs of the BIS’ CPMI and Markets Committee (MC) respectively, jointly
+issued a report entitled “Central Bank Digital Currencies”
+. Many of you would already have read
+it. In it, we distinguished between two types of CBDC: wholesale CBDC that is limited to selected
+financial institutions, and general purpose currency for use by the public. The report highlighted
+the  potential  benefits  in  wholesale  CBDC  for  more  efficient  and  secure  wholesale  payment
+systems, although more exploration will be required to fully understand these benefits.
+2 4 .    MAS started on our wholesale CBDC journey two years ago when we introduced a
+digital token representing the Singapore dollar on distributed ledger technology (DLT) to settle
+interbank  debts.  Last  year,  we  delved  deeper  into  the  problem  of  decentralised  netting  while
+preserving  privacy,  and  demonstrated  that  these  could  be  solved  in  the  three  major  DLT
+platforms Corda, Hyperledger Fabric and Quorum.
+2 5 .     This year, MAS, Bank of Canada and Bank of England embarked on a project to
+explore  how  wholesale  CBDC,  underpinned  by  DLT,  can  be  used  to  address  the
+12
+ 5 / 6
+BIS central bankers' speeches
+inefficiency  that  correspondent  banking  faces.  It  will  identify  pain  points  that  commercial
+banks experience when making standalone cross-border payments, or payments as part of trade
+financing,  securities  services  and  foreign  exchange.  The  project  also  looks  at  resolving
+settlement issues between commercial banks, and settlement of reserve between a central bank
+and a commercial bank. After these use cases are developed, a technical proof-of-concept will
+be conducted, building on the success of Jasper and Ubin, which are the DLT platforms from the
+Bank  of  Canada  and  the  MAS  respectively.  If  successful,  this  will  provide  alternatives  for
+cheaper, safer and faster cross border transactions.
+26.     Benoit and my respective committees took a hard look at general purpose CBDC, –
+and there are many implications - including cost of bank funding, credit provision, and financial
+stability  with  the  risk  of  deposits  possibly  taking  flight  to  central  banks  during  stress  periods.
+These are issues that will have to be addressed should a central bank be deliberating on issuing
+digital currencies to its wider population. The CPMI and MC study is a reminder that even as we
+push the boundaries of payments and aim to utilise the latest technologies, central banks need to
+carefully  assess  each  change  and  the  larger  impact  to  financial  stability  as  well  as  monetary
+policy, before jumping on the bandwagon.
+E. CONCLUSION
+27.     These are some of the issues that central bankers are grappling with in Asia, and
+how  Singapore  thinks  about  regulating  this  innovative  area  of  payments  through
+innovative  regulation.  With  the  fast-paced  and  global  nature  of  changes,  cooperation  and
+dialogue between central banks are more crucial than ever before. I am glad to see many familiar
+faces from various central banks here today. The conference today is a useful forum for us to
+continue our dialogue, share important perspectives and keep tabs on the latest developments.
+28.     Thank you, and I wish all participants here today a fruitful two days ahead.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+1 Capgemini, World Payments Report 2017 (Developed/Mature APAC includes Australia, Japan, Singapore,
+and South Korea. Emerging Asia includes China, Hong Kong, India, Malaysia, Thailand, Indonesia, Philippines,
+Taiwan, Pakistan, Sri Lanka, and Bangladesh.)
+4 EY, ASEAN FinTech Census, 2018
+2 Statista, Digital Payments Highlights, CAGR 2018 – 2022, 19 June 2018
+3 EY and DBS, The Rise of Fintech in China, 2016
+5 World Bank, Global Findex database, globalfindex.worldbank.org, 2017
+6 Oliver Wyman, Winner-takes-all in battle for e-wallet supremacy, 2018
+7 ResearchAndMarkets.com, Global and China Mobile Payment Industry Report, 2018
+8 BIS.org, Statistics on payment, clearing and settlement systems in the CPMI countries, 2016
+9 Global Data, Payment Card Analytics
+10 DHL, The 21st Century Spice Trade, 2017
+11 e-conomy SEA: Unlocking the $200 Billion digital opportunity in Southeast Asia, 2016.
+12 BIS, Central Bank Digital Currencies, 2018
+ 6 / 6
+BIS central bankers' speeches

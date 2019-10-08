@@ -1,0 +1,311 @@
+R  Gandhi:  Evolution  of  payment  systems  in  India  -  or  is  it  a
+revolution?
+Speech by Mr R Gandhi, Deputy Governor of the Reserve Bank of India, at the Banaras Hindu
+University, Varanasi, 22 October 2016.
+ 1.  It  gives  me  great  pleasure  and  pride  to  be  addressing  at  the  Banaras  Hindu  University,  an
+institution  which  has  been  in  the  service  of  the  nation  for  100  years;  more  so  because  this
+institution has been deeply intertwined with freedom movement and freedom leaders like Pandit
+Madanmohan  Malaviya.  I  am  thankful  to  the  Vice  Chancellor  Prof  Tripathi  for  giving  me  this
+opportunity.
+2. Today, I intend to discuss with you all about a silent revolution that has been sweeping the
+country. It is about the payment systems in India. I said ‘silent revolution’. That is because, the
+payment systems has been evolving and changes have been continuous over the last 35 years,
+it has rarely got noticed as a revolutionary change. Let us see how it evolved and beneficially
+impacted settlement of economic transactions of common persons and businesses and how it
+is now poised for still larger impact. I will narrate how the Reserve Bank brought in the evolution,
+or  rather  the  silent  revolution,  of  the  payment  systems  and  will  also  answer  certain  critique
+relating to our role.
+What is a payment? What is a payment system?
+3.  When  people  or  businesses  enter  into  economic  transactions,  i.e.  buy  and  sell  goods  and
+services,  the  value  thereof  needs  to  be  settled.  Before  the  concept  of  money  came  in,  the
+settlement was through exchange of goods and / or services and it was called the barter system.
+With the concept of money, the sale and purchase of goods and services are being effected or
+settled by payment of money.
+4. The ‘money’ was in early days the precious metals like gold and silver. Later, the governments
+issued coins made of these precious metals as money; still later, the paper money, the currency,
+became the norm as the money. Thus people settled their economic transactions by paying in
+currency notes and coins.
+5. As the banking system evolved, it became easier, safe and even remunerative to keep one’s
+money in a bank account and it became still more easier and safe to use ‘transfer of money in
+bank accounts’ for making payments for the economic transactions. This was more so for large
+value transactions. Actually, it is now used equally for effecting low value transactions also.
+6. For effecting this transfer of money in bank accounts, a payment instrument was needed to
+instruct the bank to effect that transfer. This instrument was the cheque for a very long period.
+Thus  a  system  consisting  of  the  cheque  as  the  payment  instruments  and  an  infrastructure
+around the cheques consisting of the drawee bank, the drawer bank and the cheque clearing
+houses came on the scene and were known as the payment systems.
+7. With the developments in the information and communication technology, world over, different
+kinds  of  payment  instruments  and  innovations  in  the  instruments  and  the  payment  systems
+evolved. It happened in India too and that’s the story I will be narrating now.
+8. Today we can boast of a strong retail payments framework in the country comparable to that
+of any advanced country, and perhaps even better than some of them in terms of the variety and
+efficiency.  Various  types  of  payment  instruments  exist  to  meet  the  requirements  of  different
+users  in  different  circumstances  –  bank  accounts,  cheques,  debit  and  credit  cards,  prepaid
+payment instruments, etc. There are various systems to meet the remittance requirements of
+ 1 / 7
+BIS central bankers' speeches
+users  depending  upon  their  time  criticality  and  cost  sensitivity  –  National  Electronic  Funds
+Transfer  (NEFT),  Immediate  Payment  Service  (IMPS),  Aadhaar  Enabled  Payment  System
+(AEPS)  and  recently  Unified  Payments  Interface.  The  need  for  making  bulk  and  repetitive
+payments is met by systems such as Electronic Clearing Service (ECS), National Automated
+Clearing House (NACH) and Aadhaar Payment Bridge System (APBS).
+9. Let us take a look at the path of “evolution” of payment and settlement systems in the country:
+10. The Reserve Bank took a studied stance with reference to ushering in changes to and in the
+payment systems. Periodically, it constituted various committees like the Rangarajan Committee
+I & II, Saraf Committee, Patil Committee, Burwan Working Group, etc. to guide use of ICT for the
+benefit of banking in general and particularly the payment systems. Further, from 1998 onwards,
+the Reserve Bank has been continuously bringing out a Payment System Vision document for
+every  three  years,  enlisting  the  road  map  for  implementation.  The  latest  one  is  for  the  period
+2015 –18.
+11. For a long time the main payment instrument and payment system that existed in the country
+was  cheque  and  cheque  clearing  systems.  Even  the  cheque  clearing  systems  have  evolved
+from manual clearing system to MICR (Magnetic Ink Character Recognition) clearing systems in
+mid  1980s  which  brought  in  great  level  of  automation  in  cheque  clearing  process  besides
+standardising the cheque in terms of its physical dimensions.
+12. After nearly twenty odd years of MICR clearing, the cheque truncation system (CTS) was
+introduced  first  in  New  Delhi  in  2008  and  now  all  the  erstwhile  66  MICR  centres  have  been
+subsumed into three grid-CTS systems. With this, a very large share of cheque clearing in the
+country  takes  place  on  T+1  basis  as  if  they  were  being  cleared  as  ‘local’  cheques.  Further,
+standardisation  of  cheque  features  with  built-in  fraud  prevention  measures  have  also  been
+brought in the form of CTS-2010 cheque standards. Apart from CTS, there are over 1200 smaller
+clearing houses mainly catering to local requirements of clearing small number of cheques and
+in most of these centres, depending upon the time of depositing the cheques at the branch for
+collection, the funds could be realised within the same day. For a country of our size, this is no
+mean achievement of having T or T+1 clearing of cheques and that too with certainty as funds
+are generally released to customers after the associated ‘return clearing’. Not many countries
+can boast of this.
+13. Though cheque clearing was made efficient through MICR clearing, the inherent issues with
+cheques  posed  challenges  especially  when  they  were  being  used  for  bulk  and  repetitive
+payments  such  as  collection  of  utility  payments,  payment  of  dividends,  etc.  To  address  this
+growing need and also to reduce the use of cheques for such payments, the Electronic Clearing
+Service(ECS)  was  introduced  in  early  1990s,  ECS  Credit  to  facilitate  one-to-many  payments
+such  as  dividend,  salary,  interest  payments,  etc.  and  ECS  Debit  to  facilitate  many-to-one
+payments such as utility payments. ECS in itself has undergone many changes from being a
+local system to a regional system and then a national level system. These changes have been
+facilitated  by  the  adoption  of  CBS  in  banks  which  has  enabled  straight-through-processing  of
+payments. Further efficiency has been brought in this sphere with the operationalisation of the
+National Automated Clearing House (NACH) by National Payments Corporation of India (NPCI).
+This is a pan-India system for processing bulk and repetitive payments and the ECS is gradually
+being subsumed into NACH.
+14. Moving further along the path of non-cash, non-paper payments, over a period of time various
+systems have been put in place to meet the remittance requirements of different segments of
+users. The National Electronic Funds Transfer or NEFT as it is popularly known, is a pan-India
+system today. Though it began its journey a decade ago as a local EFT system, it later expanded
+to cover larger areas. There are not too many systems of comparison even in other countries.
+Our Vision –2018 envisages further efficiency enhancements in NEFT.
+ 2 / 7
+BIS central bankers' speeches
+15. Apart from NEFT, the Immediate Payment Service (IMPS) and Real Time Gross Settlement
+System (RTGS) also facilitate funds transfer requirements of users. While the former is a 24x7
+immediate funds transfer system the latter is essentially a Financial Market Infrastructure which
+processes  large  payments  including  customer  payment  transaction  where  value  is  above    2
+lakh. In all these systems, a system of positive confirmation has been put in place whereby the
+sender is also advised or intimated about the credit accorded to the beneficiary.
+16. With improvements in IT systems of banks and their core banking systems, integration of
+various delivery channels has been made possible. The banking facilities are now easily available
+online  including  for  payment  purposes.  The  ubiquity  of  mobile  phones,  combined  with  cost
+efficiency  in  their  usage,  has  led  to  an  increase  in  number  of  mobile  internet  users.  Taking
+advantage of this, an increasing number of payment facilities are being integrated through the
+mobile  channel.  For  instance,  customers  can  use  their  net  banking  application  on  their
+smartphone and send money on-the-go using IMPS or NEFT.
+17. While all these changes have been taking place from the perspective of customer initiated
+transactions,  a  whole  set  of  changes  have  also  been  introduced  from  the  perspective  of
+government  payments.  From  financial  inclusion  perspective  as  well  as  digitising  government
+payments  thus  enhancing  efficiency  and  transparency,  the  use  of  Aadhaar  for  beneficiary
+identification and authentication in payments has played an important role.
+18.  Accordingly,  to  facilitate  bulk  and  repetitive  government  benefit  payments  and  subsidy
+payments to Aadhaar-seeded bank accounts of identified beneficiaries, the APBS i.e. Aadhaar
+Payments  Bridge  System  has  been  put  in  place.  NPCI  manages  this  system  with  linkage  to
+PFMS through accredited government banks and sponsor banks of NACH.
+19.  Similarly,  the  Aadhaar  Enabled  Payments  System  (AEPS)  facilitates  operations  from
+Aadhaar  seeded  bank  accounts  using  biometric  authentication  of  customers.  Today AEPS  is
+being increasingly used for BC operations not only of own-bank customers but also customers of
+other banks, in an interoperable manner.
+20. One other significant segment of retail electronic payments is that of cards. With addition of
+nearly 200 million RuPay cards issued under Jan Dhan accounts, with its associated benefits
+dependent upon usage of the card, this payment area gains further importance.
+21. Over last 3-4 years many regulatory changes have been introduced to ensure safety and
+security both in terms of form factor as well as at transaction level of card payments. Some of
+these are briefly indicated below:
+- Introduction of online alerts (through SMS mostly)
+- use of PIN for successive ATM transactions
+-  use  of  additional  factor  of  authentication  for  proximity  (card  present)  in  the  form  of
+PIN@POS for debit cards and online transactions (card not present) in the form of static
+passwords or dynamic passwords like OTP, etc
+- mandate for securing the card processing infrastructure
+- mandate for phased migration to EMV chip and PIN card issuance
+22. Another important development has been the entry of non-bank players into the space
+of payments which has generally been considered as the impregnable domain of banks.
+We  have  actively  introduced  non-bank  players  in  the  issuance  of  prepaid  payment
+instruments  (PPI),  including  mobile  and  digital  wallets,  besides  the  setting  up  of  White
+Label ATMs (WLA) to bridge the gap in ATM infrastructure particularly in rural and semi
+urban areas. While there are fewer players in the WLA space, the PPI space has seen an
+ 3 / 7
+BIS central bankers' speeches
+explosion with a large number of players (over 45) offering their stored valued services to
+customers. Non-bank PPI issuers are allowed to issue semi-closed PPIs which can be
+used  for  purchase  of  goods  and  services  besides  remittance  requirements  to  some
+extent. However, given the nature of this instrument, there are certain restrictions that are
+placed  for  ring-fencing  the  risks  while  at  the  same  time  relaxing  certain  regulatory
+requirements  in  terms  of  their  operations.  In  addition  to  these  two  segments,  non-bank
+players are also playing a significant role in payment gateway and aggregation services,
+which is presently regulated only indirectly.
+Recent & Current Initiatives
+23. As stated earlier, apart from the traditional providers of payment services such as banks,
+increasingly the payment space is being influenced by the presence of non-bank players who are
+bringing 
+technological
+developments.
+innovation  and  convenience 
+to  customers  by 
+leveraging  on 
+in 
+24. The increasing mobile density is being leveraged upon by payment service providers, both
+banks  and  non-banks,  to  offer  the  services  using  mobile  as  an  access  device  as  well  as  an
+access  channel.  In  particular,  banks  are  offering  mobile  banking  services  through  all  three
+channels  –  SMS,  USSD  (Unstructured  Supplementary  Services  Data)  and  application.  At
+present, there are over 67 banks actually offering mobile banking services to over 120 million
+registered customers, and these numbers are increasing.
+25. The regulatory focus in this area has also been to ensure safety of transactions while at the
+same time facilitate convenience of transacting. Transaction limits are applied only where the
+channel used does not facilitate end-to-end encryption (such as SMS and USSD).
+26. Mpesa from Kenya has become the ‘poster instrument’ for mobile payments. However, do
+you know that mpesa is offered through a single mobile service provider in Kenya while the *99#
+(which is based on USSD channel just like mpesa) National Unified USSD Platform (NUUP) for
+USSD  based  payments  introduced  in  India  offers  the  services  by  linking  all  the  11  telecom
+providers in the country with over 50 banks participating in the system and services being offered
+in 11 regional languages, besides English. Financial and non-financial transactions are supported
+on *99#.
+27.  With  growing  use  of  internet  over  the  mobile  phone,  this  medium  is  becoming  a  natural
+channel  of  choice  for  both  customers  as  well  as  service  providers.  Hence,  application-based
+mobile banking services as well as net banking services for mobile users are being offered by
+almost all banks. A large number of bank and non-bank PPI issuers (mobile wallet issuers) also
+leverage on this channel and have introduced their own mobile applications.
+28. Till recently, the mobile banking applications were largely operating in silos, particularly for
+merchant  payments  (which  had  to  be  routed  as  P2B  push  payments),  and  generally  not
+interoperable  across  merchants  and  customers  of  different  banks.  With  the  introduction  of
+Unified  Payments  Interface  (UPI),  twin  benefits  have  come  into  place  for  mobile  banking  –
+convenience of operations for customers (can provide just a registered virtual address instead of
+details of bank accounts etc. for making / receiving payments) and merchant ‘pull’ payments.
+The UPI, which is application-based and usable on smartphones with internet access, when fully
+operational across banks, has the potential to revolutionalise the mobile payments arena.
+29.  There  are  many  systems  in  the  pipe-line  which  again  have  the  potential  to  influence
+significantly the payment habits of diverse segments of users. The Bharat Bill Payments System,
+launched  two  months  ago,  caters  to  the  requirements  of  ‘anytime  anywhere  anyhow’  bill
+payments in the country. The system, which operates under a set of standards will provide a
+platform  for  users  to  have  a  common  experience  in  bill  payments  and  supports  all  forms  of
+electronic payments. Banks and authorised non-banks will operate as operating units under this
+ 4 / 7
+BIS central bankers' speeches
+system bringing interoperability in bill payments eco-system.
+30.  Segmental  needs  of  the  MSME  sector  for  faster  financing  and  liquidity  is  being  facilitated
+through the setting up of the Trade Receivables Discounting System (TReDS) which will enable
+financing of invoices of MSME sellers drawn corporate buyers through multiple financiers.
+31. Besides, our policy is also geared to ensure widening the infrastructure availability for card
+payments, for which we are proposing the setting up of an Acceptance Development Fund at
+industry level which can subsidise the cost of setting up the infrastructure.
+32. Lastly, the large scale coverage of Aadhaar biometric identification and its increasing use in
+government payments (G2P) has also encouraged us to consider using it as a potential tool for
+payment authentication. Towards this end, banks have been advised to enable the infrastructure
+to use Aadhaar biometric also as a means of payment authentication.
+33. Thus, the retail payments ecosystem has not only evolved over the last twenty five years but
+has  also  taken  a  revolutionary  trajectory  in  many  areas.  Whether  it  is  fast  payments  (IMPS)
+offered through multiple access channels (mobile, net banking, ATM, branch, IVR, BC, etc) or
+mobile banking / payments, cheque clearing or card payments security aspects, our systems
+are comparable with the best in the world, which is no mean achievement for a country like ours
+despite challenges in the form of migrating large segments of cash transactions to electronic,
+financial inclusion, awareness and financial literacy, customer protection, etc.
+34. Further, in comparison to other countries, the changes in our payments eco-system have
+been  fast-forwarded  to  reach  the  present  stage  in  the  shortest  possible  time.  Innovations  in
+technology are pushing the boundaries of payment processes and the players are keen to adopt
+newer systems and adapt the older payment mechanisms in new avatars.
+Some Concerns
+35.  Of  course,  we  cannot  rest  on  our  laurels.  Even  as  we  pat  ourselves  on  the  back  for  our
+achievements, there are certain areas which demand urgent attention to ensure that we do not
+slip anywhere lest it harms the delicate balance of trust of users in the payment systems. A few
+issues are highlighted here along with certain policy challenges:
+Cyber security – media reports have indicated cyber security attacks in few banks’ systems,
+including  in  ATM  transaction  processing  systems.  With  growing  dependence  on  online
+delivery  of  services,  this  becomes  a  serious  concern  and  an  area  that  has  to  be
+strengthened immediately and continuously as it also has the greatest potential to diminish
+the trust in electronic payments.
+Frauds  –  while  we  have  secured  the  safety  of  transactions  through  use  of  additional
+authentication factors, fraudsters have been exploiting other weaknesses in customers to
+defraud them. For instance, there have been increasing number of social engineering and
+vishing frauds luring customers to part with their confidential bank account / card particulars.
+Combined  with  use  of  duplicate  prepaid  SIMs,  the  fraudsters  have  been  able  to  build  a
+conduit between cards / bank accounts and mobile wallets to dupe the users. It is ironical
+that the efficiency of interlinked payments also enable the fraudsters to make their getaway
+faster!
+Customer awareness – even as we strengthen the systems and processes, perhaps the
+greatest tool to fight the menace of frauds is building customer awareness. In addition, an
+‘aware’  customer  is  able  to  make  the  right  choices  in  using  different  systems  taking  into
+account the time criticality of the payment, the cost aspects and the risk aspects of exposing
+the underlying payment instrument. This is particularly important to ensure that the digital
+divide in payments doesn’t further widen with faster adoption of technology and leap-frogging
+ 5 / 7
+BIS central bankers' speeches
+(for instance, leap frog from plastic cards to contactless payments through mobile phones;
+leap frog from financial exclusion to use mobile banking, etc.).
+Customer protection – hand-in-hand with customer awareness goes the aspect of customer
+protection and efficiency in dealing with customer complaints / grievances. Earlier, generally
+end-to-end payment services used to be offered by banks. Today’s electronic payments are,
+however, made more complex (though not necessarily at customer level) with participation
+of other non-bank entities whose services may be used by banks in the form of outsourcing
+arrangements  or  through  entities  that  offer  specialised  services  integral  to  payment
+completion. Greater the number of players involved, more complex the process to address
+customer  grievances  within  the  shortest  span  of  time.  As  a  result,  either  customer
+complaints take a long time to resolve or remain unresolved, both of which situations needs
+to addressed in right earnest.
+Some Criticism
+36. We have been ahead of many countries world-wide, including even advanced countries, in
+the  introduction  of  many  efficiencies  and  safeguards  in  payment  systems.  Two  Factor
+Authentication  is  a  good  example.  The  recent  UPI,  USSD  and  NUUP  are  further  examples.
+Similar measures are being introduced by these countries now and we are being asked to share
+our experiences increasingly in international forums.
+37.  Despite  this,  we  are  said  to  be  over-protective  in  some  aspects  as  a  payments  system
+regulator. We are asked as to why there is a regulatory arbitrage in favour of banks and why non-
+bank entities cannot be given an equal footing in terms of access as well as activities they are
+permitted to undertake. There is a feeling that opening up the system to private players will bring
+in  the  payments  revolution  faster,  similar  to  the  telecom  revolution  which  happened  with  the
+opening up of the sector to private players and giving a level playing field to all entities.
+38. Let me first answer why there is primacy for banks in payment systems. As I mentioned right
+in the beginning, payments can be effected only in either of two ways – one you use cash to
+make  payments  and  the  other  you  transfer  money  in  your  bank  account.  There  is  no  third
+method.  Thus  for  the  non-cash  payments,  the  origination  and  ending  places  are  banks  only.
+Therefore, minus the banks, there is no non-cash payment instrument or system. Critics do not
+seem to have understood this.
+39. As regards the opening up of access to various systems and activities for non-bank entities,
+we  have  been  opening  up  the  space  and  gradually  allowing  entry  to  non-bank  entities.  At
+origination, in between originating bank and destination bank and at the receiving end, there is no
+restriction for a non-bank entity to be present. Examples include the PPI issuers, BBPS operating
+units, TReDS, WLAs, payment aggregators, etc.
+40.  Critics  ask  why  a  non-bank  cannot  be  allowed  to  keep  bank  accounts.  They  quote  the
+success of mPesa, a non-bank entity in Kenya in ushering payment revolution in that country.
+Our  answer  is  simple.  If  you  maintain  a  bank  account,  then  you  are  a  bank  and  you  need  a
+banking licence. When you keep the money of the public in account, you are a financial entity
+taking  deposits  and  you  must  be  public  trustworthy  and  so  be  regulated  as  a  deposit  taking
+financial entity. Just because one country in the world failed to recognise such an entity as a
+bank and allowed it to function as a nonbank, we cannot follow such a wrong model.
+41.  Another  criticism  is  that  the  Reserve  Bank  is  too  conservative  in  granting  licences  or
+registrations for payment systems and payment entities. It is said that this sector needs to be
+freed of licensing mechanism and once a set of criteria are fixed, any number of entities meeting
+those criteria should be allowed to function. We differ from this idea. Such a free entry may be
+appropriate for any other segment of goods and services, not for ‘banking’. Every other good or
+service  is  primarily  a  one-off  transaction,  whereas  banking  is  a  continuing  relationship,  and
+ 6 / 7
+BIS central bankers' speeches
+therefore “fit and proper” criterion is of utmost importance and consequently, “free entry” based
+on tick-box exercise is totally anti public safety.
+Conclusion
+42. To conclude, India has been enjoying a very healthy evolution of payment systems over the
+past thirty years. In looking back, we can easily admit that it had been a revolution, without being
+so realising. This has been the result of the measured road maps periodically adopted by the
+Reserve Bank, in the initial years as a developer and in later years as a catalyst and facilitator.
+Today our systems are not only comparable to any systems, anywhere in the world, our systems
+also do set standards and good practices for the world to follow. We remain vigilant for ensuring
+safety  and  soundness  of  the  payment  systems  and  are  committed  to  customer  safety  and
+convenience.
+43. Thank you for your patient attention.
+ 7 / 7
+BIS central bankers' speeches

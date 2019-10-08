@@ -1,0 +1,194 @@
+T T Mboweni: Renewed challenges for model builders and forecasters in 
+times of extreme uncertainty 
+Keynote address by Mr T T Mboweni, Governor of the South African Reserve Bank, at the 
+SAKE24 Economist of the Year Award’s Dinner, Johannesburg, 20 May 2009.  
+Distinguished guests, ladies and gentlemen  
+ Introduction 
+1.  
+Thank  you  for  the  invitation  to  address  you  on  this  important  occasion.  Since  this  is  a 
+function to recognise the efforts of economic analysts to predict the future, it is fitting to share 
+a few thoughts on the challenges and serious issues that confront both model-builders and 
+forecasters in these most difficult and turbulent times.  
+The current financial crisis has forced us all to make a major re-assessment of the way in 
+which we have generally perceived the economy to work. Previous fundamental relationships 
+and  economic  correlations  we  took  for  granted  have  come  under  question  and  this  has 
+caused intense debate in almost all areas of economic discourse.  
+The South Africa Reserve Bank and almost all of us here at this venue make use of various 
+tools  in  the  form  of  structural  models  that  help  us  analyse  and  forecast  the  future  of  the 
+economy. The fact that forecasts keep changing in such a dramatic way does not necessarily 
+mean that we are bad modellers or forecasters. But we must be aware of the limitations of 
+models,  and  the  major  challenges  that  face  forecasters  in  this  ever-changing  economic 
+environment.  
+representation  of 
+The use and challenge for models  
+2.  
+At the heart of any economic model is a perception of how the economy works. This leads to 
+the representation of the structural economic relationships in the economy. This can either 
+be  a  “guesstimate”  or  gut  feel,  based  on  the  modeller’s  knowledge  of  how  the  economy 
+functions  or,  alternatively,  a  well-articulated  mathematical 
+the 
+interrelationships in the economy in the form of an econometric model.  
+There are significant differences between models, depending on the different views on how 
+the economy is seen to function, and also the use to which the model is being put. Although 
+the various types of models are structured to capture and replicate the economy by providing 
+for the key channels of the transmission mechanism, the emphasis tends to shift between 
+models. For example, the National Treasury will be interested in a model that is geared to 
+accurately assess the overall economic and financial market impact of the spending patterns 
+of  government,  while  the  central  bank  would  be  more  concerned  with  having  a  model 
+specifically  aimed  at  achieving  its  mandated  inflation  target  and  monitoring  the  economic 
+consequences of its monetary policy actions.  
+There is no unique model or best approach to the forecasting processes and procedures in 
+central banks. This is one reason why the South African Reserve Bank has adopted the so-
+called suite of models approach. Central banks try to pursue full-information strategies. So, 
+instead  of  relying  on  just  one  model  to  produce  the  Monetary  Policy  Committee  (MPC) 
+forecast,  we  employ  a  large  variety  of  different  models.  Also,  since  the  structures  of  the 
+various  models  are  diverse,  each  one  is  capable  of  telling  a  different  story.  The  suite-of-
+models approach has the added advantage of taking some degree of model uncertainty into 
+account by taking all relevant and potentially-important information into consideration.  
+BIS Review 67/2009 
+ 1
+There are essentially two different types of models. The first is the structural macroeconomic 
+type of model which includes the traditional multi-equation model, and the second is a short-
+term  time  series  forecast  model.  Each  has  its own  set  of  benefits  and  disadvantages.  For 
+example, we have the higher frequency autoregressive integrated moving average (ARIMA) 
+models  which  are  useful  for  short-term  forecasts  but  are  incapable  of  predicting  a  turning 
+point  since  they  are  essentially  based  on  their  own  historic  trends.  The  structural  multi-
+equation models such as the South African Reserve Bank’s core econometric model is more 
+suited  for  policy  analysis  and  forecasting  since  it  incorporates  behavioural  relationships 
+between the key variables of the model.  
+Other structural models such as the dynamic stochastic general equilibrium models (DSGE) 
+and quarterly projection models (QPM) are more reliable over the medium to longer term but 
+are extremely sensitive to the initial conditions or data starting points of the forecast. This is 
+also a reason why many central banks that have adopted the DSGE approach spend a lot of 
+time and resources on determining exactly where the economy finds itself currently and how 
+far it is from the steady state.  
+Because of the lags in the response of inflation to changes in the monetary policy stance, 
+any  forward-looking  monetary  policy  framework  requires  a  forecast  of  inflation.  However, 
+forecasts should be used with the required degree of caution. Forecasts are, by definition, 
+surrounded  by  uncertainty,  and  knowledge  about  the  degree  of  forecast  uncertainty  is 
+essential for decision-makers. Basically, we can identify five sources of forecast uncertainty: 
+uncertainty  about  future  shocks  to  endogenous  variables  (e.g  shocks  to  consumption  and 
+productivity);  uncertainty  about  assumptions  concerning  exogenous  variables 
+(e.g 
+assumptions about oil prices); uncertainty about model parameters (e.g marginal propensity 
+to consume); uncertainty about data (e.g revisions of GDP); and uncertainty about the model 
+structure and specification.  
+Because of these uncertainties, it becomes extremely difficult to assess the balance of the 
+various influences on the central forecast. Mervyn King, Governor of the Bank of England, 
+has  therefore  argued  that  we  should  not  focus  too  much  on  the  central  forecast:  “The 
+Monetary Policy Committee has always stressed that a projection is a probability distribution 
+for possible outcomes and not a single path for either growth or inflation”.(Mervn King, Bank 
+of England, 2009)  
+Since  their  impact  depends  on  the  variable  in  question  and  the  forecast  horizon  under 
+scrutiny,  to  actually  prioritise  or  rank  the  source  of  forecast  uncertainty  is  a  difficult  task,. 
+However,  in  any  given  model,  the  degree  of  uncertainty  related  to  future  shocks  and  the 
+assumed trend in the exogenous variables generally pose the greatest threat to aggregated 
+forecast  uncertainty,  rather  than  the  uncertainty  related  to  the  estimated  parameters  and 
+data. But challenges also relate to the structural specification of the models used by central 
+banks as it is difficult to incorporate everything that really matters in a simplified econometric 
+framework of the real world.  
+For  example,  the  traditional  models  were  not  able  to  capture  the  current  crisis.  David 
+Blanchflower of the Bank of England recently commented on the use of misspecified models 
+or models that fail to take crucial financial issues into consideration: “The economic models 
+that  provided  the  rationale  for  the  inflation  targeting  approach  do  not  describe  well  the 
+features  of  the  global  economy  that  led  to  the  current  crisis;  the  build  up  of  global 
+imbalances,  perceptions  of  risk  in  the  economy  and  stresses  within  the  financial  sector.” 
+(David  Blanchflower,  Bank  of  England,  2009)  As  these  factors  are  extremely  difficult  to 
+incorporate into our models, building models that capture these issues will be a challenge to 
+model builders.  
+Apart from specification problems, there is the issue of exogenous assumptions that get fed 
+in to the model. A forecast generated by even the most perfect model will only be as good as 
+the  assumptions  that  are  used.  Very  often  these  exogenous  assumptions  are  notoriously 
+difficult  to  predict.  For  example,  in  2007  and  2008  when  the  international  oil  prices  were 
+2 
+ BIS Review 67/2009
+increasing,  we  were  continuously  surprised  on  the  upside  by  oil  price  developments.  We 
+were also caught by surprise by the degree to which oil prices declined in the second half of 
+2008.  In  the  forecasting  process  our  modelling  team  spends  a  lot  of  time  analysing  the 
+relevant data and forecasts of other institutions to come up with well-informed assumptions. 
+But  there  is  no  guarantee  that  these  assumptions  will  be  correct  or  that  they  will  remain 
+unchanged by the time of the next meeting.  
+By way of illustration, at the April MPC meeting, the assumptions incorporated into the model 
+included an average contractual oil price of US$50 per barrel in 2009 and US$55 in 2010. 
+(The contractual prices are lower than the spot prices). However in August 2008, the oil price 
+assumptions  for  the  same  two  years  were  US$115  per  barrel  and  US$107  per  barrel 
+respectively.  Other  assumptions  in  the  previous  meeting  included:  International  commodity 
+prices are expected to decline on average by 15 per cent this year and to remain unchanged 
+next  year;  international  wholesale prices  are  expected  to decline by  3¼  per  cent  this  year 
+before  increasing  by  2  per  cent  in 2010;  while  growth  in  South  Africa’s  trading partners  is 
+expected to contract by 2 per cent in 2009 and expand by 1½ per cent next year. The real 
+effective  exchange  is  expected  to  depreciate  by  4¼  per  cent  in  2009  and  to  remain 
+unchanged  in  2010.  Domestic  assumptions  include  a  4  per  cent  increase  in  final 
+consumption  expenditure  by  general  government  in  the  next  2  years;  administered  price 
+inflation of 2 per cent in 2009 and 9¾ per cent in 2010; and an increase in import crude oil 
+volumes of 5 per cent in 2009 and unchanged in 2010.  
+The monetary policy transmission mechanism  
+3.  
+All central bank models strive to replicate the most important channels of the monetary policy 
+transmission  mechanism.  In  particular  this  includes  the  interest  rate  channel  and  the 
+exchange  rate  channel  in  particular.  The  exchange  rate  is  possibly  one  the  most  difficult 
+variables  to  estimate  in  the  model  and  usually  includes  some  sort  of  interest  rate  parity 
+measure  which  allows  for  the  domestic  exchange  rate  to  appreciate  if  the  interest  rate 
+differential moves in its favour. However, does this relationship necessarily hold at times of 
+global  financial  market  uncertainty?  We  have  seen  in  these  circumstances  investors  and 
+international  banks  feel  the  need  to  limit  their  risk  exposure  by  repatriating  their  funds  to 
+“safe-haven” instruments such as USA bonds in particular. Our models are unable to predict 
+reliably  the  exchange  rate  during  such  periods  where  we  have  extremely  volatile  and 
+unpredictable capital movements.  
+The other critical transmission channel is the interest rate channel. Most models generally 
+assume  that  there  is  no  obstruction  to  the  interest  rate  pass-through  to  the  rest  of  the 
+economy. However, at the peak of the financial market crisis towards the latter part of last 
+year,  commercial  banks  started  to  raise  their  credit  lending  standards  and  criteria.  The 
+quarterly Senior Loan Officer survey of the Federal Reserve Board bears testimony to the 
+fact that elevated loan spreads and increased deposit requirements have been self-imposed 
+by the banks to reduce their asset risk in an effort to protect their balance sheets. Although 
+this is probably perfectly rational behaviour by prudent banks struggling to value the extent of 
+their loan exposure, it has the unfortunate effect of reducing the effectiveness of monetary 
+policy initiatives taken by central banks to stimulate the economy. In fact, in most advanced 
+economies, central bank interest rate levels are currently at their lowest levels in decades, 
+but this does not necessarily imply that this intended benefit is passed on directly through to 
+the investor and consumer.  
+The behaviour of commercial banks is quite understandable, given the nature and origins of 
+the  current  economic  situation.  However,  it  also  underlines  the  procyclical  nature  of  their 
+actions: banks are more keen to offer credit when times are good, but become somewhat 
+reluctant to advance credit facilities during times of uncertainty and economic slowdown. This 
+behaviour of commercial banks is not unique to the USA. The BER/ Ernst & Young Financial 
+Services Index has also found evidence that domestic banks also have raised their lending 
+BIS Review 67/2009 
+ 3
+standards  and  criteria.  It  also  appears  that  domestic  banks  are  charging  higher  spreads 
+relative to prime than was previously the case.  
+The  above  illustrates  that  we  should  not  rely  too  heavily  on  the  results  of  a  model  to 
+guarantee our policy success, particularly during times of heightened uncertainty. No model 
+can  be  expected  to  replicate  all  these  factors  in  a  consistent  time-invariant  framework, 
+especially  since  the  behavioural  patterns  of  economic  agents  tend  to  change  so  radically 
+from time to time.  
+Conclusion  
+4.  
+Despite all the problems with the use of models and the challenges related to forecasting in 
+an uncertain environment, models, irrespective of how they are structured, remain integral to 
+the policy decision taken and we will therefore continue to use them. The models themselves 
+have  become  increasingly  sophisticated.  But  this  does  not  guarantee  the  success  of 
+monetary  policy  formulation  and  implementation  especially,  in  an  uncertain  future.  The 
+challenges  we  are  faced  with  have  certainly  escalated  in  recent  times.  However,  with  the 
+new  challenges  we  also  have  new  opportunities  to  get  a  greater  understanding  of  the 
+dynamic and ever-changing economy we need to deal with.  
+Thank you very much.  
+References 
+Blanchflower, D. 2009. “Macroeconomic policy responses in the UK?”, open lecture by David 
+Blanchflower an external member of the Bank of England Monetary Policy Committee at the 
+University  of  Nottingham,  published  by  the  globalisation  and  economic  policy  centre, 
+University of Nottingham, Thursday 29th January, 2009. www.dartmouth.edu/~blnchflr.  
+Ernst  &  Young,  2009.  “The  Financial  Services  Index  :  1st  Quarter  2009”,  the  financial 
+services report for the first quarter of 2009, compiled by George Kershoff (BER) and Graham 
+Thompson (E&Y), the survey  was conducted between 11 February and 17 March and the 
+results processed on 18 March 2009. The number of responses processed was: retail banks 
+(21), investment banks (17), investment managers (63) and life insurers (17), April 2009.  
+Federal  Reserve  Board,  2008.  “Senior  Loan  Officer  Opinion  Survey  on  Bank  Lending 
+Practices”, survey on the state of the USA banking sector provided by the Federal Reserve 
+Board, published January 2009.  
+http://www.federalreserve.gov/boarddocs/snloansurvey/200902/  
+King, M. 2009. Opening Remarks by the Governor, Inflation Report Press Conference, Bank 
+of England, Wednesday 13 May 2009.  
+4 
+ BIS Review 67/2009

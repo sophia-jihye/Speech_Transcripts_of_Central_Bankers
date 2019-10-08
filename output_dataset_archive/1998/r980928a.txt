@@ -1,0 +1,379 @@
+Mr. Kelley reports on the  Year  2000  progress  of  the  banking  and  financial
+services sector in the United States   Testimony of Mr. Edward W. Kelley, Jr., a member of the
+Board of Governors of the US Federal Reserve System, on the Year 2000 progress of the banking
+and financial services sector, before the Committee on Banking and Financial Services of the US
+House of Representatives on 17/9/98.
+Thank you for again inviting me to appear before this Committee to discuss the
+Year 2000 issue. This problem poses a major challenge to public policy: the stakes are enormous,
+nothing  less  than  the  preservation  of  a  safe  and  sound  financial  system  that  can  continue  to
+operate in an orderly manner when the clock rolls over at midnight on New Year’s Eve and the
+millennium  arrives.  The  Year  2000  problem  will  touch  much  more  than  just  our  financial
+systems  and  could  temporarily  have  adverse  effects  on  the  performance  of  the  overall  US
+economy as well as the economies of many, or all, nations if not corrected. As I said last April in
+testimony before the Senate Committee on Commerce, Science, and Transportation, some of the
+more  adverse  scenarios  are  not  without  a  certain  plausibility,  if  this  challenge  were  being
+ignored. But it is not being ignored. While it is impossible today to precisely forecast the impact
+of this event, and the range of possibilities runs from minimal to extremely serious, an enormous
+amount  of  work  is  being  done  in  anticipation  of  the  rollover  of  the  millennium,  and  I  am
+optimistic that this work will pay off.
+In that spirit, let me update you on what the Federal Reserve has done to address
+the Year 2000 issue. Since I last testified here in November 1997, the Federal Reserve has met
+the goals that we set for ourselves. We have:
+•  renovated  our  mission-critical  applications  and  nearly  completed  our  internal
+testing;
+•  opened our mission-critical systems to customers for testing;
+•  progressed significantly in our contingency planning efforts;
+ implemented a policy concerning changes to our information systems; and
+•  concluded our initial review of all banks subject to our supervisory authority.
+While  these  accomplishments  are  indicative  of  our  significant  progress  in
+addressing the Year 2000 issue, much work remains. In the testing area, we are finalizing plans
+for  concurrent  testing  of  multiple  mission-critical  applications  by  customers.  We  are
+coordinating with the Clearing House for Interbank Payment Systems (CHIPS) and the Society
+for Worldwide Interbank Financial Telecommunications (SWIFT) to provide a common test day
+for customers of Fedwire and these two systems. We have a System-wide project underway to
+enhance  our  contingency  plans  to  address  failures  external  to  the  Federal  Reserve.  We  are
+conducting a second round of supervisory reviews of banks subject to our supervisory authority
+and also actively coordinating with various domestic and international Year 2000 organizations.
+This morning I would like to discuss these achievements and the important aspects of the job that
+remain ahead of us.
+BIS Review   74/1998
+Federal Reserve Readiness
+- 2 -
+The Federal Reserve has completed the renovation of its mission-critical systems,
+and  we  are  nearing  the  conclusion  of  our  internal  Year  2000  testing  efforts.  Internal  testing
+includes  both  individual  applications  and  application  interfaces,  such  as  the  exchange  of  data
+between  Fedwire  and  our  Integrated  Accounting  System.  Testing  is  conducted  through  a
+combination of two elements: one is future-dating our computer systems to verify the readiness
+of our information technology, and the other is testing critical future date processing within our
+business applications. Communications network components are also being tested and certified
+in special test lab environments  at  the  Federal  Reserve  Automation  Services  and  the  Board  of
+Governors. The Reserve Banks and the Board have implemented test century date change (CDC)
+local area networks to verify the readiness of vendor provided products and internal applications
+that operate in network-based computing environments. With the exception of a few systems that
+will  be  replaced  by  March  1999,  we  will  complete  the  testing  activities  and  implement  our
+mission-critical applications in production by year-end 1998.
+On  June  29,  1998,  we  made  our  future-dated  test  environment  available  to
+customers for Year 2000 testing; the crucial testing period will extend through 1999. Depository
+institutions which are Federal Reserve customers, and thus rely on our payment applications such
+as  Fedwire,  Fed  ACH,  and  check  processing  systems,  can  test  century  rollover  and  leap  year
+transactions six days a week. On six weekends this fall, depository institutions will be able to test
+Year 2000 test dates with several applications simultaneously. We are providing assistance to our
+customers who test with us, and have provided them, through a series of Century Date Change
+bulletins, with technical information and guidelines concerning the testing activity.
+By  the  end  of  August,  almost  400  customers,  including  the  US  Treasury,  had
+conducted CDC testing with the Federal Reserve, and the number scheduling tests is increasing
+rapidly.  These  tests  encompass  ten  of  our  mission-critical  applications.  To  ensure  that  the
+nation’s larger banks are taking advantage of this testing opportunity, we intend to contact any
+that  have  not  availed  themselves  of  this  service.  Several  foreign  banking  organizations  have
+begun  to  test  large  dollar  payment  systems  with  the  Federal  Reserve  and  CHIPS.  Most  large
+foreign  banks  will  participate  in  the  September  26,  1998,  coordinated  test  in  which  Fedwire,
+CHIPS, and SWIFT are participating.
+Like most information technology environments, ours are composed primarily of
+vendor  hardware  and  software  products.  To  assess  the  Year  2000  readiness  of  these
+environments, as well as our building systems such as vault and climate control systems, we have
+created  an  automated  inventory  of  the  vendor  products  that  we  use  and  are  tracking  the  Year
+2000 compliance status of those products. Although the Federal Reserve has made progress in
+independently testing vendor products, we will continue these efforts.
+In  prior  testimony,  I  have  noted 
+the  critical  dependence  of  banks  on
+telecommunication services and the need to ensure the readiness of telecommunication service
+providers.  To  foster  a  better  understanding  of  the  importance  of  information  sharing  by  the
+telecommunications  industry,  I  wrote  to  Federal  Communications  Commissioner  Powell  about
+this  issue.  Commissioner  Powell  has  been  responsive  and  has  provided  us  and  others  with
+information regarding the FCC’s oversight and plans. The Federal Reserve is also participating in
+the Telecommunications Sector Group of the President’s Council on Year 2000 Conversion. In
+addition, the Federal Reserve is monitoring telecommunication carriers to assess whether those
+used  by  the  Federal  Reserve  will  be  Year  2000  compliant.  We  are  pleased  with  the
+BIS Review   74/1998
+- 3 -
+responsiveness of the telecommunications industry: plans for industry testing are well under way,
+with participation from the major service providers, as well as their suppliers.
+Contingency Planning
+As  the  nation’s  central  bank,  the  Federal  Reserve  is  actively  engaged  in
+contingency  planning  for  both  operational  disruptions  and  systemic  risks.  An  internal  CDC
+Council consisting of senior managers is coordinating contingency planning across the Federal
+Reserve’s  various  functions  and  is  fostering  a  cohesive  approach  to  internal  readiness  and
+interaction  with  the  financial  community.  In  general,  the  banking  industry’s  focus  has  also
+progressed  from  the  renovation  of  systems  to  business  continuity  and  contingency  planning.
+Contingency planning for the Federal Reserve includes payments systems, currency availability
+and distribution, information processing, the discount window, and the supervision function. We
+will also play an important role in coordinating with the financial community concerning issues
+such as systemic risk and cross-border payments.
+Operational Contingency
+The  Federal  Reserve’s  plans  for  operational  continuity  build  on  existing
+contingency  plans.  As  you  know,  we  have  long  maintained  comprehensive  contingency  plans
+that  are  routinely  tested  and  have  been  implemented  during  natural  disasters  and  other
+disruptions.  These  plans  cover  our  internal  systems,  as  well  as  the  services  we  provide  to
+depository institutions. In June 1998, each of the Federal Reserve’s business offices completed
+assessments of the adequacy of existing contingency scenarios to address CDC risks.
+Federal Reserve CDC contingency workgroups are identifying problems external
+to  the  Federal  Reserve  that  may  arise  when  the  date  changes  to  2000,  such  as  those  affecting
+telecommunications providers, large financial institutions, utility companies, other key financial
+market  participants,  and  difficulties  abroad  that  affect  US  markets  or  institutions.  The
+workgroups  are  developing  corresponding  recommendations  to  mitigate  those  problems.  The
+Federal  Reserve  plans  to  finalize  contingency  plans  reflecting  these  recommendations  by
+November  30,  1998.  We  will  continue  to  refine  our  CDC  contingency  plans  as  necessary
+throughout 1999. In fourth quarter 1998, we will focus our efforts on how to test our contingency
+plans to ensure their operational effectiveness at the century rollover.
+Change Management
+As a part of our operational readiness planning, the Federal Reserve is developing
+procedures to manage the risks posed by changes to information systems in 1999 and the  first
+quarter  of  2000.  After  the  scheduled  completion  of  testing  and  implementation  of  our  critical
+applications, changes to Federal Reserve policies, rules, regulations, and services that generate
+changes to critical information systems create the risk that those systems may no longer be CDC
+compliant.  Consequently,  we  have  established  guidelines  to  significantly  limit  policy  and
+operational  changes,  as  well  as  internal  hardware  and  software  changes,  during  late  1999  and
+early 2000 in order to minimize the risks and complexities of problem resolution associated with
+the introduction of new processing components.
+By  limiting  changes  to  our  systems,  we  will  not  only  provide  a  stable  internal
+processing  environment  entering  the  Year  2000,  but  we  will  also  minimize  changes  that  our
+customers  could  be  required  to  make  to  their  applications  that  interface  with  our  software.  In
+BIS Review   74/1998
+- 4 -
+addition,  we  intend  to  aggressively  coordinate  with  other  institutions  that  typically  generate
+policy and operational changes in the financial industry. We intend to publish our guidelines to
+assist other organizations facing similar issues and I would urge that Congress, as well as other
+federal agencies, consider adoption of such change management policies as we move into 1999.
+Currency
+As I noted earlier, cash availability and processing is an issue we have considered
+in the contingency planning process. We have regularly met the public’s heightened demand for
+US currency in peak seasons or in extraordinary situations, such as natural disasters. We recently
+submitted  our  fiscal  year  1999  currency  printing  order  to  the  Department  of  the  Treasury’s
+Bureau  of  Engraving  and  Printing  and  we  increased  the  size  of  next  year’s  print  order  due  to
+Year 2000 considerations. With this order, we will substantially increase the amount of currency
+either in circulation or in Federal Reserve vaults over current levels by late 1999. We believe this
+increase  in  the  level  of  currency  should  be  ample  to  meet  the  public’s  demand  for  extra  cash
+during the period surrounding the century rollover. This is a precautionary step on our part -- we
+believe  it  is  prudent  to  print  more  currency  than  we  think  will  be  required  than  to  risk  not
+printing enough. While we do not anticipate any extraordinary demand for cash, we believe it is
+important that the public have complete confidence that sufficient supplies of currency will be
+available. In effect, the Federal Reserve is accelerating the timing of currency printing; we are
+planning for a possible short-lived increased demand for cash and will be able to reduce future
+print orders to lower-than-normal levels.
+As we monitor the public’s demand for currency, we can introduce other measures
+to further increase cash levels. First, the recent currency order with the Bureau of Printing and
+Engraving is for the federal fiscal year 1999, so that there will be time to print additional notes in
+the last three months of 1999. Second, we can change the print order to increase production of
+higher  denomination  notes.  Third,  we  can  increase  staff  in  Reserve  Bank  cash  operation
+functions to improve the turnaround time required to process cash deposits and move currency
+back  into  circulation.  Finally,  as  a  last  resort,  we  can  hold  off  the  destruction  of  old  or  worn
+currency.
+Liquidity
+Another contingency planning issue for the Federal Reserve is liquidity. Despite
+their  best  efforts,  some  depository  institutions  could  encounter  problems  in  the  rollover  in
+maintaining reliable computer systems, and these problems may or may not affect their funding
+positions.  To  the  extent  necessary,  the  Federal  Reserve  is  prepared  to  lend,  in  appropriate
+circumstances  and  with  adequate  collateral,  to  depository  institutions  when  market  sources  of
+funding are not reasonably available. The terms and conditions of such lending may depend upon
+the circumstances causing the liquidity shortfall.
+Financial Sector Initiatives
+The  Federal  Reserve  and  private  industry  have  intensified  cooperative  efforts  to
+address contingency planning. The Year 2000 Contingency Planning Working Group of the New
+York  Clearing  House  (NYCH),  the  Securities  Industry  Association  (SIA),  and  the  Federal
+Reserve are developing coordinated contingency plans for the Year 2000 and will act as liaison
+with other industry groups addressing contingency planning on behalf of banks, securities firms,
+exchanges, clearance and settlement organizations, regulators, and international markets. Among
+BIS Review   74/1998
+- 5 -
+other  things,  the  Working  Group  is  considering  plans  for  the  establishment  of  Year  2000
+communications  centers  throughout  the  country,  and  perhaps  internationally.  Primarily,  such
+centers  would  facilitate  the  exchange  of  up-to-date  information  on  developing  problems  and
+issues  among  participants  and  enhance  the  development  of  consensus,  when  necessary,  to
+coordinate timely responses to problems.
+The  Federal  Reserve  is  assisting  in  the  government’s  coordination  of  the  Year
+2000  effort  within  the  financial  industry  by  participating  in  the  Financial  Institutions  Sector
+Group of the President’s Council on Year 2000 Conversion. A senior Board official who chairs
+this Sector Group has been working with representatives of government financial organizations,
+including  the  federal  banking  agencies,  the  Department  of  the  Treasury,  the  Securities  and
+Exchange  Commission,  and  other  agencies  responsible  for  various  financial  intermediaries,  to
+assess the Year 2000 readiness of the financial industry and formulate strategies for addressing
+interagency Year 2000 issues.
+Bank Supervision
+I would now like to turn to our industry oversight activities. The Federal Reserve
+met its goal, set in May 1997, of conducting a Year 2000 supervisory review of all banks subject
+to our supervisory authority by June 1998. This public commitment and visible effort did much
+to  stimulate  industry  action  on  the  Year  2000  issue.  We  have  also  established  ties  and  are
+providing  significant  support  to  numerous  public  and  private  groups,  both  domestic  and
+international, that are addressing the Year 2000 readiness of their respective constituencies.
+As  part  of  our  outreach  program,  we  continually  emphasize  the  critical
+significance of ensuring that computer systems and applications are Year 2000 compliant and the
+complexity of the managerial and technological challenges that the required effort presents for all
+enterprises. For entities such as financial institutions that rely heavily on computers to provide
+financial services to customers, achieving Year 2000 compliance in mission-critical systems is
+essential for maintaining the quality and continuity of customer services.
+While bank supervisors can provide guidance, encouragement, and strong formal
+and  informal  supervisory  incentives  to  the  banking  industry  to  address  this  challenge,  it  is
+important to recognize that we cannot be ultimately responsible for ensuring or guaranteeing the
+Year 2000 readiness and viability of the banking organizations we supervise. Rather, the boards
+of directors and senior management of banks and other financial institutions must be responsible
+for  ensuring  that  the  institutions  they  manage  are  able  to  provide  high  quality  and  continuous
+services  from  the  first  day  in  January  of  the  Year  2000.  As  we  have  emphasized  continually
+during  the  past  sixteen  months,  this  critical  obligation  must  be  among  the  very  highest  of
+priorities for bank management and boards of directors.
+Policy Guidance and Supervisory Reviews
+The  Federal  Reserve  continues  to  work  closely  with  the  other  banking  agencies
+that  comprise  the  Federal  Financial  Institutions  Examination  Council  (FFIEC)  to  address  the
+banking industry’s Year 2000 readiness. A series of seven advisory statements has been issued
+since  I  was  last  here  in  November  1997,  including  statements  on  the  nature  of  Year  2000
+business risk, the importance of service provider readiness, the means to address customer risk,
+the  need  to  respond  to  customer  inquiries,  the  critical  importance  of  testing,  the  urgency  of
+effective contingency planning, and the need to address the readiness of fiduciary activities. As a
+BIS Review   74/1998
+- 6 -
+result  of  these  advisory  statements,  the  extent  of  the  industry’s  Year  2000  efforts  has
+significantly 
+at
+intensified.  These 
+http://www.federalreserve.gov/Y2K.
+statements 
+can  be 
+entirety 
+found 
+their 
+in 
+Compliance with these statements  is  assessed  during  the  conduct  of  supervisory
+reviews. Through June 30, the Federal Reserve had conducted reviews of approximately 1,600
+organizations.  Information  and  data  collected  during  these  reviews  has  proven  to  be  reliable,
+consistent with our overall supervisory experience which is heavily dependent on an extensive
+on-site examination program. These reviews have resulted in a significant focus of attention on
+the subject matter within the industry and identified several issues warranting additional attention
+by  the  supervisors,  particularly  the  need  for  the  supplemental  guidance  on  testing  and
+contingency  planning.  It  is  critical  that  banks  avail  themselves  of  every  opportunity  to  test
+mission-critical  systems  internally  and  with  their  counterparties,  and  recurring  testing  may  be
+warranted as additional systems are renovated to assure that those systems already tested are not
+adversely affected.
+Based  on  the  reviews  completed  by  the  Federal  Reserve,  the  vast  majority  of
+banking organizations are making satisfactory progress in their Year 2000 planning and readiness
+efforts. About four percent are rated “needs improvement” and fewer than one percent are rated
+“unsatisfactory”. In these cases, the Federal Reserve has initiated intensive supervisory follow-
+up. Working closely with state banking departments, the Federal Reserve is making a concerted
+effort  to  focus  additional  attention  on  those  particular  banking  organizations  that  are  deemed
+deficient in their Year 2000 planning and progress.
+Deficient  organizations  have  been  informed  of  their  status  through  supervisory
+review  comments,  meetings  with  senior  management  or  the  board  of  directors,  and  deficiency
+notification  letters  calling  for  submission  of  detailed  plans  and  formal  responses  to  the
+deficiencies noted. Such organizations are then subject to increased monitoring and supervisory
+follow-up including more frequent reviews. Restrictions on expansionary activities by Year 2000
+deficient organizations have also been put into place. As a result of these letters, organizations
+once  deemed  deficient  have  taken  significant  steps  to  enhance  their  Year  2000  programs  and
+over half have been upgraded to satisfactory.
+The Federal Reserve has commenced Phase II of  its  supervision  program  which
+covers the nine months from July 1998 through March 1999. During this second phase, we will
+conduct  another  round  of  supervisory  reviews  focused  on  Year  2000  testing  and  contingency
+planning.  In  addition,  we  have  committed  to  conducting  another  review  of  the  information
+systems service providers and will distribute the results to the serviced banks.
+Assessment of Review Results
+Based  on  these  reviews  and  other  interactions  with  the  industry,  it  appears  that
+financial institution progress in renovating mission-critical systems has advanced notably since
+the  Federal  Reserve  and  the  other  banking  agencies  escalated  efforts  to  focus  the  industry’s
+attention  on  ensuring  Year  2000  readiness.  Banking  organizations  are  making  substantial
+headway  toward  Year  2000  readiness  and,  with  some  exceptions,  are  on  track  to  meet  FFIEC
+guidelines.
+Specifically,  the  FFIEC  guidelines  call  for  the  completion  of  internal  testing  of
+mission critical systems by year-end 1998. Most large organizations are nearing completion of
+BIS Review   74/1998
+- 7 -
+the renovation of their mission-critical systems and are vigorously testing those that have been
+renovated. Smaller organizations are working closely with their service providers in an effort to
+confirm  that  the  efforts  under  way  will  assure  the  readiness  and  reliability  of  the  services  and
+products on which they depend.
+Information Systems Service Providers
+The  banking  agencies  are  examining  the  Year  2000  readiness  of  certain
+information systems service providers and software vendors that provide services and products to
+a  large  number  of  banking  organizations.  These  examinations  are  often  conducted  on  an
+interagency  basis.  The  Federal  Reserve  has  participated  in  reviews  of  sixteen  national  service
+providers and twelve national software vendors. In addition, the banking agencies are examining
+selected regional service providers and software vendors.
+These  examinations  assess  the  overall  Year  2000  program  management  of  the
+firms  and  confirm  their  plans  to  support  products  for  Year  2000  readiness.  To  help  banking
+organizations assess the Year 2000 readiness and dependability of their service providers and to
+encourage examined service providers to cooperate fully with the industry’s efforts, the banking
+agencies  are  distributing  the  results  of  Year  2000  reviews  of  service  providers  and  software
+vendors  to  the  serviced  banks.  The  information  in  the  reports  is  not  a  certification  of  the
+readiness of the service provider, and it is still incumbent on each bank to work closely with its
+service providers to prepare for the century date change. Service providers and software vendors
+serving  the  banking  industry  are  keenly  aware  of  the  industry’s  reliance  on  their  products  and
+services,  and  most  consider  their  Year  2000  readiness  to  be  their  highest  priority  in  order  for
+them to remain competitive in an aggressive industry.
+Credit Quality
+FFIEC  guidelines  call  for  banks  to  have  a  plan  to  assess  customer  Year  2000
+readiness  by  June  30,  1998,  and  to  complete  an  assessment  of  their  customers’  Year  2000
+readiness  by  September  30,  1998,  in  order  to  better  understand  the  risks  faced  by  the  bank  if
+customers are unable to meet their obligations on a timely basis. Even though our Phase I Year
+2000  examinations  were  conducted  before  the  June  30,  1998,  milestone,  our  examiners  noted
+that  most  organizations  either  had  begun  planning  or  had  initiated  their  customer  assessment
+programs.
+We have seen no signs that credit quality has deteriorated as a result of Year 2000
+readiness considerations, although it is still early. Results from a Federal Reserve Senior Loan
+Officer  Opinion  Survey  on  Bank  Lending  Practices  (May  1998)  indicated  that  respondents
+generally  include  Year  2000  preparedness  in  their  underwriting  and  loan  review  standards.
+Another  survey  of  Senior  Loan  Officers  is  to  be  conducted  in  November  in  order  to  obtain  a
+more timely picture of any deterioration in credit quality related to the Year 2000.
+Efforts have also been  made  to  prompt  the  nation’s  largest  banks  that  syndicate
+large loans to address the Year 2000 readiness of their borrowers. Through the Shared National
+Credit Program, banks that syndicate credits over $20 million are asked to provide the banking
+agencies  with  information  pertaining  to  the  banks’  efforts  to  assess  the  readiness  of  the
+borrowers.  This  initiative  has  helped  large  lenders  understand  that  they  need  to  consider  their
+customers’ readiness in their risk management programs.
+BIS Review   74/1998
+Additional Outreach Initiatives
+- 8 -
+The  Federal  Reserve  is  participating  in  numerous  outreach  initiatives  with  the
+banking  industry,  trade  associations,  regulatory  authorities,  and  other  groups  that  are  hosting
+conferences,  seminars,  and  training  opportunities  focusing  on  the  Year  2000  and  helping
+participants  understand  better  the  issues  that  need  to  be  addressed.  Partly  in  response  to  the
+requirements of the Examination Parity and Year 2000 Readiness for Financial Institutions Act,
+which  calls  for  the  banking  agencies  to  conduct  seminars  for  bankers  on  the  Year  2000,  the
+federal banking agencies have been working with state banking departments as well as national
+and local bankers’ associations to develop coordinated and comprehensive efforts at improving
+the  local  and  regional  programs  intended  to  focus  attention  on  the  Year  2000.  In  the  first  six
+months of 1998, the Federal Reserve has participated in over 230 outreach initiatives reaching
+over 14,000 bankers. Another 100 outreach initiatives are scheduled for the third quarter of 1998.
+In  addition,  our  public  web  site  provides  extensive  information  on  our  Year  2000  supervision
+program and on other resources available to the industry to help prepare for the millennium.
+International Coordination
+International  cooperation  on  Year  2000  has  intensified  over  the  past  several
+months because of the efforts of the public sector Joint Year 2000 Council (Joint Council) and
+the private sector Global 2000 Coordinating Group (G-2000). As you recall from your hearings
+on international issues in June, Mr. Ernest Patrikas, then Chairman of the Joint  Council  and  a
+senior official of the Federal Reserve Bank of New York, testified on the global efforts of the
+Joint  Council  to  enhance  international  initiatives  by  financial  regulators.  His  successor  as
+Chairman of the Joint Council, Federal Reserve Governor Roger Ferguson, is continuing those
+efforts  and  is  working  closely  with  an  external  consultative  committee  composed  of
+representatives  from  international  financial  services  providers,  international  financial  market
+associations, financial rating agencies, and a number of other international industry associations.
+The Joint Council is working to foster better awareness and understanding of Year 2000 issues
+on the part of regulators around the world; for example, the Joint Council is sponsoring a series
+of regional seminars for banking, insurance, and securities supervisors.
+The  G-2000  includes  more  than  forty  financial  institutions  from  over  twenty
+countries that are addressing country assessments, testing, and contingency planning, as well as
+other  issues.  The  group  has  developed  a  standard  framework  for  assessing  individual  country
+preparations  for  the  century  date  change  and  also  will  address  the  Year  2000  readiness  of
+financial  institutions,  service  providers,  and  the  countries’  infrastructures.  This  framework  is
+being used to collect information and assess the readiness of about twenty major countries by the
+end of this year, with others scheduled for in-depth reviews in 1999.
+The  Basle  Committee  on  Banking  Supervision  continues  to  be  active  on  Year
+2000  issues,  both  within  the  Joint  Council  and  separately,  as  part  of  its  normal  supervisory
+activities.  Year  2000  will  be  a  major  issue  to  be  discussed  at  the  International  Conference  of
+Bank Supervisors in October. The Basle Committee is also planning a follow-up survey on Year
+2000 progress.
+Closing Remarks
+Financial institutions have made significant progress in renovating their systems
+to  prepare  for  the  Year  2000  and  much  has  been  accomplished  to  ensure  the  continuation  of
+BIS Review   74/1998
+- 9 -
+reliable services to the banking public at the century rollover. We are committed to a rigorous
+program of industry testing and contingency planning and, through our supervisory initiatives, to
+identifying  those  organizations  that  most  need  to  apply  additional  attention  to  Year  2000
+readiness.  The  Federal  Reserve  has  renovated  its  mission-critical  applications,  and  we  are
+nearing  the  completion  of  our  internal  testing  activities.  To  manage  the  risks  posed  by
+subsequent  changes  to  these  systems,  the  Federal  Reserve  has  instituted  guidelines  to
+significantly limit policy, operational, hardware, and software changes during late 1999 and early
+2000.  Going  forward,  we  will  continue  our  industry  and  international  coordination  efforts,
+including participation in the President’s Council on Year 2000 Conversion, the Joint Year 2000
+Council, and trade associations, to assist the industry in preparing for the Year 2000.
+In closing, I would like to thank the Committee for its extensive efforts to focus
+the industry’s attention on this significant matter. Awareness of the extent and importance of this
+challenge is a critical first step in meeting it, and the Committee’s participation has been most
+helpful.
+BIS Review   74/1998

@@ -1,0 +1,267 @@
+Mr.  Thompson  considers  the  topic  of  risks  in  banking      Speech  by  the  Deputy
+Governor of the Reserve Bank of Australia, Mr. G.J. Thompson, at the Australian Institute of Banking
+and Finance Inc., New South Wales State Committee, in Sydney on 28/10/97.
+Introduction
+I spoke in June in Canberra to a joint luncheon meeting of the AIBF and two other local
+organisations.  My  theme  was  the  many  faces  of  risk  in  banking.  Today  I  would  like  to  expand  on  a
+couple of the risks I touched on then, namely:
+the Year 2000 problem;
+payments  system  risk,  particularly  in  relation  to  settlement  of  foreign  exchange
+transactions.
+This  also  gives  me  the  opportunity  to  talk  about  the  results  from  two  surveys  recently
+conducted by the RBA.
+Year 2000
+I think almost everyone is now aware that the Year 2000 will bring not only the euphoria
+which accompanies the arrival of a new millennium - or the approach of it, for those holding on to  the
+view  that  the  third  millennium  starts  in  2001.  It  also  brings  potentially  major  disruption  to  finance,
+commerce  and  almost  every  aspect  of  daily  life  if  computers  are  not  able  properly  to  comprehend  the
+move from the year programmed as ‘99’ to the one shown as ‘00’.
+Financial  institutions  are  almost  totally  dependent  on  computer  systems  for  their
+continuing  day-to-day  operations  and  getting  dates  correct  is  a  critical  element  in  this.  They  are,
+therefore, heavily at risk from the Year 2000 problem.
+The  RBA  is  taking  a  close  interest  in  how  this  problem  is  being  addressed,  both  as
+supervisor  of  banks  (for  the  time  being)  and  with  our  broader  interest  in  the  smooth  running  of  the
+financial system.
+The Basle Committee on Banking Supervision recently turned its attention to Year 2000
+risk, and has issued a paper which includes a recommended program of remedial action for all banks. The
+main phases of this are:
+(i)
+(ii)
+developing a strategic approach to solving the problem;
+creating organisational awareness of its importance;
+(iii)
+assessing necessary actions and developing detailed plans;
+(iv)
+renovating systems, applications and equipment;
+(v)
+validating this renovation through testing; and
+(vi)
+implementing tested, compliant systems.
+The well-prepared financial institution will have completed steps (i) to (iii). It will now
+be  engaged  in  step  (iv) --  renovating  systems  and  applications.  The  recommended  completion  date  for
+this  work,  to  allow  sufficient  time  for  testing,  is  the  end  of  1998.  The  renovation  of  critical  systems
+should be finished by the middle of 1998.
+BIS Review   98/1997
+- 2 -
+To assess the preparation of Australian banks for Year 2000, we asked  them  in  May  to
+complete a comprehensive survey. Some of the results from this can be summarised usefully under the
+first four headings of the Basle Committee’s recommended program.
+(i)
+Developing a strategy to tackle the problem: Some banks have been rather slow
+to  do  this,  and  several  had  not  completed  their  strategies  when  our  survey  arrived.  Some  banks  have
+placed the CEO or a director in charge of their project, while in others an IT staffer has responsibility.
+There  are  dangers  in  the  latter  course,  because  Year 2000  is  big  enough  and  threatening  enough  to  be
+treated as a business issue and not simply a technical problem.
+(ii)
+Creating organisational awareness: Awareness appears to be strong  in  IT  areas,
+but it varies dramatically elsewhere. Some banks have (or will soon have) arranged training for all staff,
+incorporated  Year 2000  into  credit  review  procedures  and  made  relationship  managers  responsible  for
+compliance  by  customers.  In  contrast,  others  had  not  even  arranged  formal  briefing  of  people  in  their
+non-IT  areas  who  might  be  developing  spreadsheets  and  small  databases  in  blissful  ignorance  of  the
+issue.
+(iii)
+Assessing actions and developing detailed plans: Nearly half the banks had not
+completed their assessments at the time of our  survey.  This  might  reflect  their  adoption  of  an  iterative
+approach, where key systems were identified early and compliance work begun, with minor systems the
+subject of later  investigation.  It  also  indicates,  however,  that  a  few  banks  are  having  trouble  grappling
+with the problem.
+(iv)
+Renovating  systems,  applications  and  equipment:  Most  banks  are  currently  in
+this stage, but they have made only modest progress. At mid-year less than 10 per cent of the expected
+total  cost  of  Year 2000  compliance --  of  around  $600 million --  had  been  spent.  (Although  substantial,
+this figure is itself about 10 per cent of total expected IT expenditures between now and the end of the
+decade.)
+The  remaining  two  steps -- validation  through  testing  and  the  implementing  of  tested,
+compliant systems -- are, of course, still ahead.
+A few other observations are worth making from our survey results.
+Most  banks  have  adopted  the  end-1998  target  for  achieving  Year 2000  compliance.
+Along with the Basle Committee, we regard  this  as  highly  desirable.  A  few  banks  have  acknowledged
+that full compliance will not be achieved until some time in 1999. Some of these have  structured  their
+projects so that non-critical systems will be dealt with last.
+Banks  collectively  have  assigned  over  1,000  in-house  IT  staff  to  fixing  the  problem,
+although  this  includes  staff  doing  concurrent  redevelopment  work.  There  has  been  speculation  about
+serious  shortages  of  experienced  staff,  but  nearly  half  of  the  banks  in  our  survey  did  not  plan  to  hire
+additional people for their projects, and only four expect to increase  staffing  by  more  than  10 per cent.
+Staff  resources  do  not,  therefore,  appear  to  be  a  major  issue  in  Australia,  but  there  is  no  room  for
+complacency because shortages could well be a bigger problem in other countries and we are  part  of  a
+global  labour  market.  Furthermore,  the  resources  required  for  testing  could  be  under-estimated.
+Year 2000 testing will be more complex, and on a larger scale, than anything attempted previously.
+Many banks have not yet developed formal contingency plans in the event that systems
+cannot  be  made  Year 2000  compliant.  Only  one-third  of  them  have  designed  business  resumption
+plans -- others are leaving that until closer to the day, in part because they expect that their systems may
+have altered substantially by then.
+BIS Review   98/1997
+- 3 -
+The  overall  picture  on  Australian  banks’  current  state  of  preparation  is,  then,  rather
+mixed. At this stage, they all appear capable of addressing their own Year 2000  problems  in  time.  But
+most  of  the  work  is  still  to  be  done,  and  system  developments  of  the  scale  required  are  notorious  for
+running over budget and over time -- a luxury which is not available in this case. Moreover, the testing
+phase could well be the most resource-intensive. Compliance work could also  be  complicated  by  other
+distractions,  such  as  preparing  for  the  euro  or  managing  mergers.  (On  the  latter,  the  Basle  Committee
+noted  that  the  need  to  prepare  for  Year 2000  will  greatly  complicate  mergers  and  acquisitions  among
+financial institutions, and that the risks in trying to manage projects in more than one institution in the
+time available could be sufficient reason to defer such mergers.)
+We will be monitoring the progress of the banks closely, and giving special attention to
+the laggards. (Although the lack of contingency and business resumption plans is not of current concern,
+we will also need to revisit this issue.)
+Most of banks’ compliance work to date has been focused internally, which is where our
+survey concentrated. This is only part of the challenge.
+Successful  renovation  of  its  internal  systems  will  not  necessarily  protect  a  bank  from
+serious  problems  which  may  be  imported  from  elsewhere,  for  instance  through  payments  and  trading
+linkages.  Banks  will  need  to  co-operate  closely  to  ensure  that  such  cross-institutional  links  are  fully
+tested. The new RTGS system for high-value payments -- on which I will say more in a moment -- was
+built with Year 2000 in mind. Even so, a comprehensive test plan has been developed for RTGS and its
+suitability is being confirmed with a number of system participants. This plan allows for full testing in
+conjunction with participants’ interface systems, and aims to confirm that the RTGS system is Year 2000
+compliant by the end of 1998. Meanwhile, the Australian Payments Clearing Association has formed a
+special Consultative Group to address issues relating to the other clearing systems.
+Banks  must  also  prepare  for  problems  affecting  their  customers  (as  well  as  trading
+counterparties  in  wholesale  markets)  and  should  be  inquiring  into  the  Year 2000  readiness  of  their
+borrowers and potential borrowers. The effects of Year 2000 could severely interfere with the conduct of
+borrowers’  businesses  and  reduce  their  capacity  to  meet  loan  obligations.  Customers  could  also  find
+themselves  unable  to  use  electronic  links  to  their  banks,  and  try  to  revert  to  manual  processing.  This
+would put considerable strain on banks’ resources. If not well-prepared, banks could also be drawn into
+extensive legal actions flowing from Year 2000 breakdowns.
+The RBA will continue to disseminate information about Year 2000 issues, and will help
+to co-ordinate renovation and testing where we can. We are participating in an Inter-bank Working Group
+which will aim to ensure that core banking systems and other shared infrastructure are fully tested, and
+that exposure to telecommunications problems are limited; to work with key vendors to ensure that their
+products  conform  to  agreed  compliance  guidelines;  and  to  develop  contingency  measures  for  critical
+areas. This Group will also be playing an education role with banks’ business partners and customers.
+Let me now describe briefly what the RBA is doing about its own house. Our target is to
+have  our  systems  fully  Year 2000  compliant  by  the  end  of  next  year.  Our  project  is  overseen  by  a
+Steering Group of senior officers.
+While  the  scale  of  the  challenge  is  not  as  great  for  us  as  for  many  other  financial
+institutions, our technology platform is complex, involving a mix of hardware and software developed in-
+house and also provided by third-party suppliers. It encompasses the exchange of data and services with
+the Commonwealth Government, some State governments and the financial community at large -- banks,
+non-bank  financial  institutions,  Austraclear  and  so  on.  We  also  have  international  linkages  through
+SWIFT to our overseas offices and trading counterparties.
+Our key internal systems run  on  the  mainframe  platform.  So,  this  is  where  we  focused
+our initial efforts. We began assessing and converting our mainframe application systems last year, with
+BIS Review   98/1997
+- 4 -
+the aim of flushing out and fixing date-related problems by end 1997. With one exception, which is now
+planned  for  completion  in  mid-1998,  we  are  on  target  and  have  renovated,  tested  and  re-implemented
+more than half of our systems.
+To prove total compliance, these systems need to be tested on fully compliant platforms
+where the dates can be rolled forward into 2000. We aim to have compliant platforms by April next year,
+and  to  begin  testing  with  financial  institutions  and  our  other  counterparties  and  customers  from  July
+1998.
+We  have  also  begun  assessing  our  less  critical  PC  and  spreadsheet  applications  which
+have been developed and supported by various user areas. Each business/policy area has “ownership” of
+the renovation required for these systems, with support from the IT group. We plan to have these fully
+tested and proven clean by September 1998.
+Another  area  of  concern  for  all  of  us  is  the  potential  problems  with  embedded  chips
+which control the operation of everything from lifts to air  conditioning  to  fax  machines.  Our  Facilities
+Management  people  began  tackling  this  last  year.  Having  assessed  key  equipment,  they  are  now
+identifying  the  hidden  components  of  building  infrastructure  which  may  have  chips  and  so  need  to  be
+assessed. Since many of these items cannot  easily  be  tested  internally,  we  will  be  seeking  certification
+and proven test results from the vendors.
+Settlement risk -- RTGS
+Let  me  turn  briefly  to  the  RTGS  project  which,  as  you  know,  will  allow  high-value
+interbank payments to be settled on a “real time”, pay-as-you-go basis  from  the  first  half  of  next  year.
+This will eliminate a large proportion of the interbank settlement risk which currently arises because final
+settlement is deferred to the day after payments are processed.
+Over  the  past  six  months,  several  major  milestones  have  been  achieved  in  the  RTGS
+project, and now all of the basic infrastructure is in place:
+The  necessary  enhancements  to  RITS  (the  Reserve  Bank  Information  and  Transfer
+System), which will form the core of RTGS, were completed early in July.
+The SWIFT Payment Delivery System, which will send customer and foreign exchange
+payments for real-time settlement, went “live” at  the  end  of  August.  Last  week,  this  system  carried  an
+average daily volume of around 1,100 payments, with average daily value around $13 billion. By the end
+of this month, we expect 16 banks will be using the system.
+Austraclear  commenced  operations  as  a  feeder  system  at  the  end  of  September,  with
+settlement details of all interbank transactions through Austraclear now sent automatically to RITS.
+Most transactions across these various systems continue to be settled on a next-day basis,
+but banks are now able to monitor continuously their exchange settlement account (ESA) balances  and
+their net obligations to each other. Prior to full implementation, they will be able to test the queuing, repo
+and offset functions which will smooth liquidity management in the RTGS world.
+This  project,  which  represents  a  major  advance  in  the  sophistication  of  the  Australian
+financial system, is now entering its final stages. Between November and January, payments between the
+major banks, which are now carried across RITS, will migrate to the SWIFT Payment Delivery System.
+Then,  in  February  next  year,  the  RBA  will  set  a  limit  on  each  bank’s  consolidated  ESA  and  “net
+interbank obligation” position. These limits will be reduced progressively to allow us all to adjust to the
+new environment. When they reach zero in April 1998, full RTGS will be operative.
+Foreign exchange settlement
+BIS Review   98/1997
+- 5 -
+RTGS  will  eliminate  settlement  risk  for  high-value  payments  between  domestic  banks.
+Banks  will  remain  exposed  to  foreign  exchange  settlement  risk  because  the  currencies  in  a  foreign
+exchange  transaction  are  each  settled  in  a  different  “domestic”  market.  That  makes  synchronised
+payment-versus-payment  extremely  difficult  because  the  respective  payment  systems  are  often  in
+different time zones. Also, it is unlikely that both parties to the transaction are direct participants (with
+final  settlement  capacity)  in  each  market.  So  correspondent  banks  were  invented.  The  time  taken  for
+correspondent banks to carry out instructions and to notify their principals adds to settlement risk.
+The  exposure --  or  amount  at  risk --  in  a  foreign  exchange  trade  lasts  from  the  time  a
+payment instruction for the currency sold can no longer be cancelled unilaterally by a bank until the time
+the currency purchased is received with finality. And it equals the full amount of the currency purchased.
+Although foreign exchange settlement risk first became a major concern with the failure
+of Bankhaus Herstatt in 1974, only in the past few years has a serious attack been made on the problem.
+The ball was set rolling by the New York Foreign Exchange Committee and the Committee on Payment
+and Settlement Systems of the Group of Ten Countries. (The most recent report by the latter is known as
+“the Allsopp Report”). Their work has done much to improve knowledge of the various components of
+foreign  exchange  settlement  risk  and  to  promote  ways  of  reducing  it.  Significantly,  these  bodies  have
+expressed  a  preference  for  the  private  sector  to  develop  solutions,  but  have  made  it  clear  that  central
+banks should encourage and monitor progress with this.
+One finding of the Allsopp Report was that the magnitude of foreign exchange risk can
+be  very  large.  To  quote:  “Given  current  practices,  a  bank’s  maximum  FX  settlement  exposure  could
+equal,  or  even  surpass,  the  amount  receivable  for  three  days’  worth  of  trades,  so  that  at  any  point  in
+time -- including weekends and public holidays -- the amount at risk to even a single counterparty could
+exceed a bank’s capital.”
+Another finding was that banks can often reduce settlement risk through relatively simple
+changes  in  procedures -- for  instance,  by  renegotiating  arrangements  with  correspondent  banks,  and  by
+making their own back offices more efficient.
+More  fundamental  attacks  on  settlement  risk  have  been  through  netting  arrangements,
+both  bilateral  and  multilateral,  in  which  gross  obligations  are  replaced  with  much  smaller,  netted
+amounts.
+The most ambitious scheme is that developed by the “Group of Twenty” banks, which is
+known as Continuous Linked Settlement. Many of the details are still to be sorted out, but at the centre of
+this  proposal  is  having  a  special-purpose  bank  as  a  member  of  the  payment  system  of  each  of  the
+currencies included in the scheme.  Participating  banks  would  hold  individual  currency  accounts  at  this
+special  bank,  with  settlement  between  them  transacted  across  these  accounts.  Collateralising
+arrangements would avoid the creation of credit risk. With extended operating hours in  some  countries
+and  access  to  domestic  payments  systems  being  on  a  real-time  gross  basis,  payments  by  banks  in
+different currencies into and out of the special purpose bank would be made with finality on a continuous
+basis. FX settlement risk would be eliminated.
+Unfortunately,  groups  such  as  the  G10  countries  and  the  G20  banks  do  not  have
+Australian representation, and their work has not encompassed either the Australian dollar or our market,
+despite their importance in global foreign exchange trading. Consequently, the RBA set out to replicate
+some of the international studies to get an idea of the dimensions of the FX risks incurred in Australia,
+and to identify any special features of the Australian dollar market.
+We  surveyed  24 bank  and  non-bank  foreign  exchange  dealers  during  April  this  year,
+asking about their settlement practices and the volumes of transactions handled in different ways. It has
+taken longer than we had expected to analyse the results, but the reasons for the delay -- identifying and
+BIS Review   98/1997
+- 6 -
+rectifying  errors  in  a  large  number  of  the  completed  questionnaires -- have  been  instructive  in
+themselves.
+Our analysis is still not complete, but we do have some preliminary observations. These
+impressions from the survey are not particularly comforting. On the other hand, they are also not out of
+line with overseas findings.
+The  first  point  is  that  many  banks  had  considerable  difficulty  in  even  completing  the
+survey -- surprisingly including some who had helped us design it.
+Second,  in  many  banks  it  took  quite  some  time  for  our  survey  to  find  a  “home”,
+suggesting that they may not have one person (or group) charged with responsibility for FX settlement
+risk. Giving someone such “ownership” is considered best practice.
+Many banks seem not to have a good feel for the size of their settlement risk. But it is
+clear that the magnitudes are huge. Aggregate daily trades of all currencies on the Australian market are
+probably at least as large as the $90 billion exchanged each day through the domestic payments system.
+Some banks seem to have a poor understanding of exactly when receipts become final in
+those countries which do not settle foreign exchange transactions in real time. There is some evidence of
+a “no news is good news” policy in respect of assuming settlements have occurred.
+Finally, for even the major currency pairs traded out of Australia, the period  of  foreign
+exchange settlement risk (leaving aside weekends and holidays) frequently lasts for more than 24 hours.
+In some instances, it extends into a third day. For minor currency pairings, and taking into account the
+period  for  which  a  bank  might  not  know  whether  a  trade  has  been  settled  or  not,  it  can  be  as  long  as
+31 days! And remember that settlement risk which is not extinguished during the day it arises, cumulates
+with the risk incurred the following day.
+It  goes  without  saying  that,  in  consultation  with  banks,  we  will  be  looking  for
+considerable improvement in the management of FX settlement risk after the full results of our survey are
+compiled and published in the next month or so. On the positive side, we have seen  some  evidence  of
+improvement  already,  as  the  survey  has  encouraged  senior  management  to  pay  more  attention  to  the
+subject. This is essential, because FX is clearly the next frontier of risk reduction in the payments system.
+We also believe that it is of utmost importance to our banks, and to our financial system generally, that
+Australia’s interests are fully represented in any proposed global solutions. We will be working with the
+Australian banks to achieve this.
+BIS Review   98/1997

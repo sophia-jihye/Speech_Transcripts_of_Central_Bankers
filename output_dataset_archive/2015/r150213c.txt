@@ -1,0 +1,281 @@
+ Guy Debelle: FX benchmarks 
+ Address by Mr Guy Debelle, Assistant Governor (Financial Markets) of the Reserve Bank of 
+Australia, to the FX Week Australia Conference, Sydney, 12 February 2015. 
+ Similar remarks are also contained in an article in the Euromoney Foreign Exchange & Treasury Management 
+Handbook 2015 (forthcoming). 
+Today I will talk about benchmark rates in the foreign exchange (FX) market. 
+FX  benchmarks  are  an  important  part  of  the  financial  market  infrastructure.  They  are 
+referenced  in  many  financial  contracts  and  are  particularly  prevalent  in  global  bond  and 
+equity market indices where they are used to aggregate markets into a common currency. 
+The longstanding approach to do this has used a set of foreign exchange rates calculated at 
+a  particular  time  of  day,  generally  4pm  London,  the  London  “fix”,  which  is  published  by 
+WM/Reuters (WMR).1 
+Attention on this arcane part of the financial market infrastructure has increased significantly 
+over the past couple of years as concerns mounted about the integrity of benchmark rates 
+and  the  possibility  of  market  misconduct  around  the  benchmark  fixing  process.  Following 
+investigations  by  a  number  of  authorities,  some  of these  concerns  have  proven  to  be  well 
+founded, and investigations are ongoing. 
+Reflecting  the  emerging  concerns  about  the  FX  benchmark  process,  in  early  2013  the 
+Financial Stability Board (FSB) tasked a group chaired by Paul Fisher of the Bank of England 
+and me to formulate a set of proposals to improve the benchmark process and reduce the 
+scope 
+the 
+investigations into allegations of FX manipulation and we did not have access to any of the 
+evidence gathered by those investigations. 
+The Foreign Exchange Benchmark Group (FXBG) was comprised of members from all the 
+major financial centres. We talked extensively with most parts of the FX industry to get their 
+views, including asset managers, index providers, FX platforms, corporates and banks. 
+A  preliminary  report  was  released for  public  comment  in  July  last  year  and  we  received  a 
+good amount of constructive feedback on it.2 The final report of the FXBG was presented to, 
+and  approved  by,  the  Financial  Stability  Board  last  September.3  I  have  had  a  number  of 
+people ask what status the report has. The answer is that it has been approved by the FSB, 
+a  body  which  consists  of  heads  of  central  banks,  securities  regulators  and  ministries  of 
+finance/treasuries of all the major jurisdictions. 
+The report contained 15 recommendations aimed at improving the benchmark process and 
+reducing  the  incentives  for  manipulation.  The  recommendations  garnered  broad  support 
+across the industry. We are now several months on from the release of the report, so it is 
+useful to see what has been achieved in that time. My general assessment is that there has 
+been significant progress on some recommendations but little on others. 
+for  manipulation.  Our  work  was  conducted  completely  separately 
+from 
+                                                
+1   WM  publishes  reference  rates  throughout  the  course  of  the  day.  The  London  4pm  rate  is  by  far  the  most 
+heavily  used.  There  are  a  number  of  other  reference  rates,  with  the  2.15pm  CET  rates  published  by  the 
+European Central Bank quite widely used. 
+2   FSB  (2014),  “Public  Responses  to  July  2014  Consultative  Document  Foreign  Exchange  Benchmarks”, 
+20 August. Available at <http://www.financialstabilityboard.org/2014/08/c_140819/>. 
+3   FSB 
+(2014), 
+“Final  Report  on  Foreign  Exchange  Benchmarks”,  30  September.  Available  at 
+<http://www.financialstabilityboard.org/2014/09/r_140930/>. 
+BIS central bankers’ speeches 
+ 1 
+  The recommendations addressed both the structure of the benchmark process as well as the 
+conduct of participants in the process and can be divided into four main areas: benchmark 
+methodology;  execution  infrastructure;  market  conduct;  and  guidance  on  central  bank 
+reference rates (which I won’t cover today). 
+The group believed that the recommendations it made would be implemented by the market 
+participants concerned and indeed, as I just said, they were supported by market participants 
+at  the  time  and  endorsed  by  the  FSB.  There  is  a  strong  expectation  they  will  be 
+implemented. The recommendations are, however, not explicitly embodied in regulation. 
+Nevertheless, the group stated that if these recommendations were not acted on, authorities 
+could  conclude  that  a  regulatory  response  was  necessary  to  generate  the  desired 
+improvement in market structure and conduct. Moreover, as a result of the investigations into 
+the  alleged  misconduct,  a  regulatory  response  may  be  required  and  indeed,  in  the  UK, 
+FX benchmarks  are  now  a  regulated  activity.  The  UK  Fair  and  Effective  Markets  Review 
+(FEMR) has also actively sought feedback on such issues.4 
+The calculation of the fix 
+The  first  set  of  recommendations  concerned  the  calculation  of  the  London  4pm  fix.  For  a 
+number of years, WM has calculated the fix over a one minute window centred on 4pm. WM 
+calculated  the  fix  using  data  from  either  Thomson  Reuters  or  EBS  (depending  on  the 
+currency  pair).  It  took  snapshots  of  trade  and  order  rates  at  one  second  intervals  and 
+calculated the (unweighted) median rate over the minute window. That is, the fix is calculated 
+based  on  executed  prices,  in  contrast  to  LIBOR  which  was  a  submission-based  process. 
+Hence the issues which we needed to address in the case of FX benchmarks differed from 
+those associated with the old calculation methodology for LIBOR. 
+While we concluded that the WM benchmark calculation methodology was essentially sound, 
+the group recommended widening the window from one minute to enhance the robustness of 
+the fix calculation. The wider window should reduce the capacity for manipulation while still 
+generating a replicable market price. 
+The  group  also  recommended  that  rather  than  use  generally  only  one  price  feed,  WM 
+incorporate feeds and transactions data from more sources into its calculation, provided the 
+additional sources were of sufficient quality and representative of the market. While arbitrage 
+should  ensure  that  the  single  data  sources  used  by  WM  should  be  representative  of  the 
+market, we thought it relatively costless to use a wider range of sources and this would be 
+beneficial in getting a “truer” picture of the market over a short time frame. 
+WM  has  subsequently  announced  that  it  will  widen  the  fix  window  to  five  minutes 
+commencing on 15 February.5 It will also utilise additional price feeds from that time. 
+In addition, the group recommended that WM form a user group to consider future changes 
+to the fix calculation methodology. In announcing its recent changes to the calculation of the 
+fix, WM sought feedback from the industry and is in the process of establishing such a user 
+group. Finally, WM has agreed to follow through on a number of recommendations made by 
+IOSCO  which  assessed  WM’s 
+for 
+benchmarks.6 
+fixing  processes  against 
+IOSCO  principles 
+the 
+                                                
+4   Details 
+FEMR 
+the 
+of 
+at 
+<http://www.bankofengland.co.uk/markets/Pages/fmreview.aspx>. Submissions closed at the end of January. 
+available 
+England 
+website 
+Bank 
+are 
+the 
+on 
+of 
+5   See <http://wmcompany.com/wmr/index.htm>. 
+6  
+IOSCO 
+<http://www.iosco.org/library/pubdocs/pdf/IOSCOPD415.pdf>. 
+“Principles 
+(2013), 
+for  Financial  Benchmarks:  Final  Report”, 
+2 
+ July.  Available 
+at 
+BIS central bankers’ speeches 
+  Infrastructure of the fix 
+The  next  set  of  the  group’s  recommendations  addressed  the  market  infrastructure  around 
+fixing trades, that is, how fixing trades are executed in the market. 
+The aim here was to reduce the incentives and opportunity for misbehavior generated by the 
+market  structure.  The  FXBG  report  documented  the  concentration  of  activity  through  the 
+fixing window. It noted that trading volume at that time was up to 10 times larger than at other 
+times in the trading day. A major source of the large volume of these trades is likely to be 
+asset managers seeking to rebalance their portfolios in line with the indices they track that 
+incorporate  the  London  fix  in  their  calculation.  One  way  to  minimise  this  tracking  error 
+between their portfolio and the foreign exchange component of the index they are tracking is 
+obviously to execute at the fixing price itself. 
+Orders for these trades and other fixing trades are provided by the client to the FX dealers 
+ahead  of  the  fix  (often  this  time  is  quite  short).  Importantly,  the  dealer  typically  agrees  to 
+execute these orders at the, as yet unknown, fix price and often does not charge either a fee 
+or spread on the trade. 
+These  arrangements  differ  from  standard  principal-based  risk  transfer  services  offered  by 
+dealers,  where  the  risk  to  the  dealer  is  mitigated  by  using  the  current  market  price  and 
+applying a spread. The arrangements for fix-related orders mean that the price risk on the 
+transaction is transferred entirely from the client to the dealer without any compensation. The 
+dealers then have to manage the risk associated with this flow. 
+The  trades  conducted  as  a  result  of  this  process  can  generate  optics  of  dealers  trading 
+ahead of the fix, even if the dealer is simply seeking to manage the risk. But these dynamics 
+can also create an incentive for dealers to manipulate the fix rate to generate profit from what 
+would otherwise be potentially a loss-making exercise. 
+To  address  this  problem,  the  FXBG  supported  the  development  of  industry  initiatives  to 
+create  independent  netting  and  execution  facilities  for  transacting  fix  orders.  A  number  of 
+such products have been launched on the market in recent months. They generally have the 
+feature  of  maximising  netting  opportunities  and  then  executing  the  order  in  a  way  that 
+delineates  the  separation  between  the  dealer  trading  on  its  own  account  and  the  dealer 
+transacting  on  behalf  of  the  customer.  It  remains  to  be  seen  how  much  traction  these 
+products will get. 
+In  our  preliminary  report,  the group  had  sought market feedback  on  the  development  of  a 
+central netting utility to maximise netting opportunities and reduce the need for customers to 
+provide orders in advance of the fix to dealers. While some of the feedback was supportive, 
+others confirmed some of the potential practical problems that such a utility might confront, 
+particularly around the execution of the residual positions once all netting opportunities had 
+been exhausted, which would determine the fixing price. 
+Market conduct 
+The above recommendations address the structure of the foreign exchange market around 
+the fix. The FXBG believes the recommended changes will improve outcomes but at least as 
+importantly, it provided a set of recommendations about the behavior of market participants 
+on all sides of the market: dealers, asset managers, index providers, to address the possible 
+incentives for manipulation. 
+First, the group recommended that the FX dealers charge for fixing transactions in a more 
+transparent  manner  (rather  than  for  example,  relying  on  the  business  being  subsidised  by 
+activities in other parts of the dealers’ institution). This charge might be implemented either 
+through a fixed fee or a spread. A fixed fee would be consistent with an agency mode of fixed 
+execution. A spread is consistent with compensation for the risk transfer where the bank is 
+BIS central bankers’ speeches 
+ 3 
+  acting  as  principal.  The  shift  to  a  wider  window  for  the  fix  calculation  means  that  the  risk 
+transfer is likely to be larger for the bank in being able to replicate the fixing price. 
+While  a  number  of  banks  have  started  to  discuss  this  with  their  customers  and  are  in  the 
+process  of  moving  to  charge  for  this  service,  this  recommendation  is  not  being  adopted 
+universally  at  this  point.  Not  surprisingly,  there has  been  push  back from  some  customers 
+against paying for something that had been previously offered for free (at least notionally). 
+So  long  as  some  dealers  remain  willing  to  not  charge  directly  for  this  service,  competitive 
+forces  mean  that  it  is  difficult  for  others  to  charge.  There  is  clearly  a  first-mover 
+disadvantage. More progress is required here. When WM implements the wider window later 
+this month, this may prove a focal point for a shift in pricing models. There have been various 
+media reports in recent days suggesting that a number of banks are doing this. However, if 
+the fixing service is not directly and transparently charged for, the incentive for inappropriate 
+behaviour remains. 
+Second,  the  group  recommended  that  banks  and  other  FX  dealers  separate  their  fixing 
+business from their regular business. The primary aim of this recommendation was to reduce 
+the likelihood of inappropriate use of the information obtained from the fixing orders. Clearly, 
+such  a  separation  is  not  costless  and  it  does  reduce  risk  absorption  opportunities. 
+Nevertheless, the group’s assessment was that the benefits would outweigh the costs. Some 
+banks  have  implemented  this  recommendation  over  recent  months  but  adoption  has  been 
+somewhat mixed. 
+I  have  received  a  number  of  questions  about  what  exactly  separation  entails.  We  did  not 
+intend to be too prescriptive here. The main principle is the appropriate segregation of the 
+information flow. There may be a number of different ways of achieving this. An issue which 
+arises  here  is  that  the  separation  of  business  is  clearly  more  complicated  in  smaller 
+currencies than it is in the more heavily traded currencies. In response to these issues, I will 
+consult  with  my  fellow  central  banks  and  securities  regulators  on  these  questions  and 
+determine if more guidance can be given around this. 
+Third,  the  group  made  a  number  of  recommendations  around  the  appropriate  sharing  of 
+information.  These  recommendations  focused  on  general  principles  around  information 
+sharing. The group’s assessment was that outlining a set of principles was more beneficial in 
+ensuring appropriate behavior than more prescriptive statements. Detailed prescriptions run 
+the  risk  of  being  incomplete  with  the  potential  for  market  participants  to  make  the 
+assessment that if something was not in the prescriptions then it must be allowable. A set of 
+principles require market participants to think more carefully about their general approach to 
+information sharing. 
+Codes of conduct 
+A similar set of principles are to be embodied in a code of best market practice and shared 
+global principles, which is currently in the final stage of being written jointly by the  various 
+foreign  exchange  committees.  The  aim  is  to  promote  a  set  of  shared  global  principles 
+common across all the FX committees, notwithstanding the fact that the various jurisdictions 
+employ  different  codes  of  conduct.  A  final  version  of  the  statement  of  shared  principles 
+should  be  published  following  the  next  global  meeting  of  foreign  exchange  committees  in 
+Tokyo in March. 
+The  FXBG  also  recommended  that  market  participants  should  demonstrate  stronger 
+compliance with the various codes of conduct than has been the case in the past, as well as 
+with their own internal codes. Various initiatives are under way on this recommendation at 
+both the institutional level as well as with the market as a whole. Appropriate enforcement of 
+these  codes  remains  a  major  challenge.  In  the  UK,  the  FEMR  highlights  this  issue  as  a 
+significant opportunity for reform. 
+4 
+ BIS central bankers’ speeches 
+  Much of this comes down to ensuring that the institution, and the FX market more generally, 
+has the appropriate culture. But the same problem arises with codes of conduct as with the 
+principles for information sharing I talked about a minute ago. If the codes of conduct are too 
+prescriptive, they are very difficult to draft, they quickly become unreadable and they run the 
+risk that if something is not explicitly prohibited, it must be okay. 
+Matt Levine articulates this problem very succinctly: “If you don’t define ‘culture’, it’s hard to 
+enforce it. If you do, it’s going to be gamed.”7 
+Index providers 
+During  its  work,  the  group  discovered  that  there  was  considerable  variation  in  the 
+understanding of index providers about the way the FX rates they used in their indices were 
+calculated.  Hence  the  group  recommended  that  index  providers  consider  whether  the  FX 
+fixes they used in their calculation are fit for purpose. 
+Asset managers 
+Similarly,  in  the  course  of  our  consultation  with  the  market,  the  group  found  there  was 
+considerable variation among asset managers in their understanding of the FX rates used in 
+the  indices  they  were  tracking  and,  perhaps  more  importantly,  considerable  variation  in 
+understanding how their FX fixing business was being executed in the market. 
+While  asset  managers  should  be  able  to  assume  that  the  market  infrastructure  was 
+adequately robust and that their counterparties conducted themselves with some degree of 
+appropriate  behaviour,  at  the  same  time,  greater  scrutiny  and  enforcement  from  market 
+participants is desirable. 
+Hence  the  group  recommended  that  asset  managers  conduct  appropriate  due  diligence 
+around the FX execution and be able to demonstrate that to their clients if requested. Clearly, 
+such  due  diligence  would  be  consistent  with  the  asset  managers’  regular  fiduciary 
+responsibility to their clients. 
+While  some  asset  managers  have  done  this  for  many  years  as  part  of  their  standard 
+operating  procedure,  there  remains  scope  for  further  adoption  of  this  across  the  asset 
+management  industry  and,  more  generally,  a  greater  understanding  of  the  way  their 
+FX business is executed in the market, as it becomes an increasingly important component 
+of asset managers’ portfolios. 
+The way forward 
+The 15 recommendations of the group have been adopted to varying degrees, but there is 
+still substantial scope for further progress in some areas. The recommendations to enhance 
+WM’s calculation of the London fix are well in train. There are a number of initiatives in the 
+marketplace  to  provide  independent  fix  execution  and  netting.  Codes  of  conduct  remain  a 
+work  in  progress,  particularly  in  terms  of  their  enforcement,  though  the  various  foreign 
+exchange committees are working with a common purpose on this currently and I expect that 
+we will have something concrete to show for this very shortly. 
+However, there has yet to be significant progress in terms of the pricing and execution of the 
+fix business within institutions. On pricing, while there may be more than one way of charging 
+for the fix business that could be adopted, there needs to be a widespread adoption across 
+the industry. On the separation of the fixing business, the primary objective is separation of 
+                                                
+7   Levine M (2015), “Levine on Wall Street: Culture and Retaliation”, BloombergView, 2 February. Available at 
+<http://www.bloombergview.com/articles/2015–02–02/levine-on-wall-street-culture-and-retaliation>. 
+BIS central bankers’ speeches 
+ 5 
+  the information flow. There are, again, a number of potential solutions to this and I accept 
+there  may  be  some  scope  to  provide  more  guidance  around  this  recommendation, 
+particularly in the case of less-traded currencies. 
+To conclude, there is a strong expectation that these recommendations will be implemented 
+to  deliver  an  improvement  in  the  execution  of  foreign  exchange  transactions  referencing 
+FX benchmarks and the integrity of the benchmarks themselves. The FSB has approved the 
+recommendations contained in the FX Benchmark Group’s report. If these recommendations 
+are not implemented, then the likelihood of a regulatory response will increase. 
+6 
+ BIS central bankers’ speeches 

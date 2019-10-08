@@ -1,0 +1,101 @@
+  Opening remarks by Francois Groepe, 
+Deputy Governor of the South African Reserve Bank, 
+at the launch of the Project Khokha report 
+ Sandton Convention Centre, Johannesburg 
+5 June 2018 
+ Good afternoon, ladies and gentlemen. 
+ On behalf of the South  African Reserve Bank (SARB), I would like to extend a sincere 
+and warm welcome to everyone here today on the occasion of the launch of the report on 
+Project Khokha, which had as its scope the trial of interbank wholesale settlement using 
+distributed  ledger  technology  (DLT).  This  was  our  first  DLT  initiative;  its  aim  was  to 
+contribute to the global initiatives that assess the application and use case for DLT.  
+ I  am  pleased  to  confirm  that  Project  Khokha  was  successful  in  that  it  proved  that  the 
+typical daily  volume of the South African payments system could be processed in less 
+than  two  hours  with  full  confidentiality  of  transactions  and  settlement finality.  This  was 
+done  using  ISO1  20022  standard  messages  within  two  seconds  across  a  network  of 
+distributed nodes and with the requisite resilient distributed consensus. 
+ The SARB is pleased that so many of you have taken the time out of your busy schedules 
+to join us today. We appreciate that there is great interest in this work, both locally and 
+from abroad. 
+                                                 
+1 International Organization for Standardization 
+ Page 1 of 4 
+I will make brief introductory remarks and then hand over to the Governor of the SARB, 
+Mr Lesetja Kganyago, to deliver the keynote address. 
+ My remarks centre around three observations.  
+ Barely six months ago, I could not have imagined that we would successfully trial the use 
+of DLT to process high-value transactions. This was in part because I am acutely aware 
+of  the  challenges  involved  in  building  wholesale  payments  capabilities  and  appreciate 
+that, and proofs of concept can be both complex and take time to develop. As an example, 
+the  requirements  for  such  an  endeavour  need  to  be  carefully  defined,  prioritised,  and 
+mapped 
+into 
+functional  and 
+technical  specifications.  Furthermore, 
+the  coding, 
+development and testing required is an intense and laborious exercise. Add to that the 
+challenge of integration between multiple participants one comes to an appreciation why 
+such initiatives are often multi-year projects.  
+ The design, building and delivery of Project Khokha happened in less than three months. 
+This  is  a  noteworthy  achievement.  It  is  evident  that  the  pace  of  innovation  and 
+technological  development  requires  a  shift  to  this  new  ‘agile  design  approach’  which 
+demands  fast  turnaround.  After  all,  the  mantra  of  financial  technology,  or  ‘fintech’,  is 
+‘design flexibly, fail fast and succeed sooner’. This rapid prototyping and agile process to 
+trial  new  ways  of  innovating  in  financial  services  is  rapidly  becoming  the  norm.  As 
+regulators, we are keenly aware that the days of playing catch-up with often long lags are 
+no longer appropriate as such an approach may allow for systemic risk to build and for 
+market conduct failures to go unchecked.  
+ Project Khokha is therefore significant as it has demonstrated that regulatory institutions 
+are  indeed  capable  of  responding  to  the  rapidly  changing  environment  with  agility, 
+flexibility  and  speed.  The  insights  gained  will  also  be  beneficial  in  other  areas  of  the 
+SARB’s activity which extend beyond fintech initiatives.  
+  Page 2 of 4 
+My  second  observation  is  that  the  success  of  complex  projects  is  built  on  strong 
+collaboration – even in the trial or prototyping phase. This goes beyond the collaboration 
+between participants; this also involves connecting with experts on ongoing unresolved 
+challenges. For example, reaching settlement finality on DLT was a major issue not long 
+ago. With the speed of change and a dedicated global effort, issues such as these are 
+addressed over shorter timeframes as compared to the past. 
+ I am proud to announce that Project Khokha has contributed to the global DLT body of 
+knowledge as it is thought that this was the first time that the Istanbul Byzantine Fault 
+Tolerance consensus mechanism and the Pedersen commitments for confidentiality had 
+been  used  with  Quorum.  This  helped  to  ensure  that  the  tokenised  rand  remained  a 
+legitimate transaction during transfer, and it assisted with the honouring of participants’ 
+privacy and confidentiality requirements. 
+ It is evident that, in this new digital economy with potentially decentralised architecture, 
+progress  is  made  by  gradually  crossing  new  frontiers  and  by  extending  concepts  and 
+solutions.  There  is  little  doubt  that  DLT  has  huge  potential,  but  that  it  equally  has  a 
+substantial  road  ahead  before  large-scale  adoption  across  multiple  interconnected 
+systems  can  be  considered.  Much  more  work  is  required,  and  collaboration  is  of  vital 
+importance as it deepens the collective knowledge base in an area where there is great 
+variability in understanding due to the speed at which the technology is changing.  
+ There  is  huge  expectation  among  the  broader  financial  services  community  around 
+emerging exponential technologies such as blockchains and distributed ledgers. Multiple 
+trials  across  many  different  industries  across  the  globe  are  taking  place.  As  South 
+Africans, we should be active participants in leveraging innovation and technology to drive 
+efficiencies within our financial system in order to reduce frictions. We furthermore should 
+leverage the immense social and welfare benefits that these developments may deliver 
+while ensuring that financial stability is not compromised. 
+  Page 3 of 4 
+Finally,  while  contributing  to  these  efforts,  we  should  be  careful  not  to  treat  emerging 
+technologies  as  a  panacea  for  every  problem.  Whereas  rapid  prototyping  brings  the 
+benefit  of  gaining  practical  insights  and  a  deeper understanding,  critically  reflecting  on 
+what works and what doesn’t is an important aspect of the journey. Complex networked 
+ecosystems  encompass  multiple  dimensions:  policy,  legislation,  economics,  process, 
+governance,  business  and,  of  course,  legacy.  The  economists  will  remind  us  of  the 
+‘stickiness’ and integrated nature of path-dependent systems. I would thus encourage all 
+of us to continue to trial new approaches with vigour, but equally to be frank about the 
+applicability and appropriateness of new emerging architectures.  
+ Finally, let me take this opportunity to thank the Project Khokha team that has  led this 
+effort. Many thanks to the banking participants, the ConsenSys and PwC2 teams, and of 
+course  the  numerous  SARB  colleagues  and  departments  that  have  been  actively 
+involved. Special thanks to Mr Edward Leach, the business owner, and to Dr Arif Ismail, 
+Mr Gerhard van Deventer and Mr Anrich Daseman of the FinTech Unit.  
+ With that, I would like to hand over to Governor Kganyago to reflect on the advent of the 
+Fourth Industrial Revolution, the emergence of fintech, as well as the SARB’s role amidst 
+all these changes. The team will then take us through specific detail on Project Khokha, 
+its main findings and potential future work.  
+ Thank you. 
+                                                
+2 PricewaterhouseCoopers Inc 
+ Page 4 of 4 

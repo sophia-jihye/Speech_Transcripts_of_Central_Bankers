@@ -1,0 +1,206 @@
+Guy Debelle: The committed liquidity facility 
+Speech by Mr Guy Debelle, Assistant Governor (Financial Markets) of the Reserve Bank of 
+Australia,  APRA  (Australian  Prudential  Regulation  Authority)  Basel  III  Implementation 
+Workshop 2011, Sydney, 23 November 2011. 
+ As you know, last week the Reserve Bank released details of the Committed Liquidity Facility 
+(CLF) that forms part of Australia’s implementation of the Basel III liquidity reforms. At the 
+same  time,  the  Reserve  Bank  also  released  details  of  a  revised  set  of  margins  for  the 
+collateral that is eligible in both its regular open market operations and for the CLF. Today, I 
+will talk to those two press releases and provide more detail and some of the thinking behind 
+them.  
+Why do we need a CLF? 
+Charles Littrell has already explained the motivation behind the need for the CLF, but it is 
+worth reiterating some of those arguments. The Basel liquidity standard requires that banks 
+have access to enough high-quality liquid assets to withstand a 30-day stress scenario, and 
+specifies the characteristics required to be considered an eligible liquid asset.  
+The issue in Australia is that there is a marked shortage of high quality liquid assets that are 
+outside the banking sector (that is, not liabilities of the banks). As a result of prudent fiscal 
+policy  over  a  large  run  of  years  at  both  the  Commonwealth  and  state  level,  the  stock  of 
+Commonwealth  and  state  government  debt  is  low.  At  the  moment,  the  gross  stock  of 
+Commonwealth debt on issue amounts to around 15 per cent of GDP, state government debt 
+(semis) is around 12 per cent of GDP.1 These amounts fall well short of the liquidity needs of 
+the  banking  system.  To  give  you  some  sense  of  the  magnitudes,  the  banking  system  in 
+Australia is around 185 per cent of nominal GDP. If we assume that banks’ liquidity needs 
+under the liquidity coverage ratio (LCR) may be in the order of 20 per cent of their balance 
+sheet, then they need to hold liquid assets of nearly 40 per cent of GDP.  
+In  addition  to  government  debt,  the  Basel  standard  also  includes  balances  at  the  central 
+bank  in  its definition  of  high-quality  liquid  assets  (level  1  assets  in  the  Basel  terminology). 
+That is, the banks’ exchange settlement (ES) balances at the RBA are also a liquid asset. 
+Hence,  one  possible  solution  to  the  shortage  of  level  1  assets  would  be  for  banks  to 
+significantly increase the size of their ES balances to meet their liquidity needs. While this is 
+possible, it would mean that the RBA’s balance sheet would increase considerably. The RBA 
+would have to determine what assets it would be willing to hold against the increase in its 
+liabilities,  and  would  be  confronted  by  the  same  problem  of  the  shortage  of  assets  in 
+Australia  outside  the  banking  system.  Similarly,  the  government  could  increase  its  debt 
+issuance  substantially  with  the  sole  purpose  of  providing  a  liquid  asset  for  the  banking 
+system to hold. Again, it would be confronted with the problem of which assets to buy with 
+the proceeds of its increased debt issuance. Moreover, it would be a perverse outcome for 
+the liquidity standard to be dictating a government’s debt strategy.  
+However, the Basel Committee acknowledges that there are jurisdictions such as Australia 
+where  there  is  a  clear  shortage  of  high  quality  liquid  assets.  In  such  circumstances,  the 
+liquidity standard allows for a committed liquidity facility to be provided by the central bank 
+against eligible collateral to enable banks to meet the LCR.  
+                                                 
+1  The  net  stock  of  Commonwealth  government  debt  on  issue  is  considerably  lower  at  6  per  cent  of  GDP, 
+reflecting the assets held by the Commonwealth government, including through the Future Fund. 
+BIS central bankers’ speeches 
+ 1
+Access to the CLF 
+As Charles has explained, APRA will work with the banks to determine their overall liquidity 
+needs. They will discuss how much of these liquidity needs can be met through holdings of 
+government paper. An important consideration in that discussion is ensuring that the banking 
+system’s holdings of government paper are not so large that they compromise the liquidity of 
+the  market.  Otherwise  this  would  be  completely  self-defeating,  as  the  whole  aim  of  the 
+liquidity regime is to ensure the banks hold liquid assets. One influence in this determination 
+is the large amount of government debt that is held offshore by investors that are not overly 
+price sensitive (and also do not necessarily lend their securities). This further limits the size 
+of the government debt stock that the banking system can realistically hold.  
+As a result of that discussion, APRA will allow banks to reach an agreement with the RBA for 
+a CLF for a specified amount, subject to RBA approval, to enable them to meet the balance 
+of their liquidity requirement under the LCR. APRA may ask banks to specify the size of their 
+access to the CLF as much as 12 months in advance. The facility will only be available for 
+banks to meet that part of the liquidity requirement agreed with APRA.  
+Access fee 
+The Reserve Bank has set a fee of 15 basis points in return for its commitment to provide 
+liquidity  to  a  bank  under  the  CLF.  The  fee  will  be  paid  on  both  the  drawn  and  undrawn 
+amount.  
+The general motivation in determining the price of the Reserve Bank’s commitment was to 
+replicate  the  effect  in  other  jurisdictions  where  a  bank  could  meet  its  liquidity  needs  of 
+holding eligible assets in a liquid market, solely through holding government paper. Hence 
+the yield differentials between government bonds and the assets that will be eligible for the 
+facility is a logical starting point.2 However, the spreads on the eligible securities incorporate 
+compensation for a variety of risks, including credit and liquidity. It is only the latter risk that 
+the facility is addressing and hence the banks should be charged only for the liquidity access. 
+Importantly, the Reserve Bank will not be offering any credit protection on these assets and 
+so the banks should be able to retain the compensation for holding these riskier assets. The 
+Reserve  Bank  is  protected  as  it  provides  the  liquidity  to  an  institution  under  a  repo  with 
+appropriate margining (see below).  
+While at times like the present, liquidity can have considerable value, the Reserve Bank will 
+not be varying the size of the fee through the cycle. Consequently, the facility is to be priced 
+at a level that takes into account the value of liquidity in more normal conditions, as well as in 
+stressed circumstances.  
+From the history of the Reserve Bank’s own market operations, we can look at repo rates on 
+some  of  the  eligible  securities  to  try  and  gauge  how  much  a  one  month  liquidity  premium 
+might be worth. The answer is not very much in normal circumstances, generally less than 
+10 basis points. Moreover, when you take into account the fact that to access the facility, an 
+institution has to pay a penalty rate and, in most cases, with greater haircuts than previously 
+applied, a “market-based” valuation from historical rates would imply a low fee.  
+However, part of the point of the new liquidity regulations is to recognise that the market has 
+underpriced liquidity in the past. Consequently, it is appropriate to levy a fee which is greater 
+than implied by a long run of historical data. The net outcome is thus a weighted average of a 
+                                                 
+2  One complication in doing this calculation in Australia is that because government paper has been in short 
+supply  for  many  years,  it  has  tended  to  trade  with  a  scarcity  premium.  This  widens  the  observable  spread 
+between the  yield on government paper and the  yield on other assets in a  way that is not present in most 
+other jurisdictions. 
+2 
+ BIS central bankers’ speeches
+relatively  low  liquidity  premium  in  normal  times  and  a  much  higher  liquidity  premium  in 
+stressed times.  
+In  determining  the  fee,  it  must  be  remembered  that  ADIs  will  not  only  have  the  option  of 
+meeting their LCR requirements through the Reserve Bank’s liquidity facility, they will always 
+have the option of meeting their LCR requirements through holding RBA obligations. This is 
+because, as mentioned earlier, ES balances are also recognised as liquid assets.  
+Within  the  Reserve  Bank’s  monetary  policy  framework,  the  supply  of  ES  balances  is 
+effectively market-determined. That is, the Reserve Bank stands ready to supply whatever 
+quantity of ES balances is necessary (against eligible collateral) to keep the cash rate trading 
+at the Board’s target. In normal times, and even at times like the present, the demand for ES 
+balances is very low. This is because the remuneration on ES balances is purposefully set at 
+a “below-market” rate – 25 basis points below the cash rate target – in order to encourage 
+banks to recycle their surplus balances.  
+However,  in  an  environment  where  banks  need  to  obtain  more  liquid  assets,  there  is  the 
+possibility that a liquid asset (one that is in every way risk-free) priced 25 basis points below 
+the OIS curve may become more attractive. This would particularly be the case were the fee 
+on  meeting  a  bank’s  LCR  requirement  through  non-liquid  assets  to  be  set  at  a  sufficiently 
+high level so as to make ES balances appear reasonable value.  
+While ES balances pay 25 basis points less than the cash rate, the cash market is not risk-
+free; it is an unsecured interbank market. Consequently, a fee a little less than the 25 basis 
+points has been deemed necessary to ensure banks did not have the incentive to meet the 
+LCR  by  holding  unduly  large  amounts  of  ES  balances.  Beyond  the  problem  (discussed 
+above) that such an outcome would present to the RBA in terms of what assets it would need 
+to hold, this outcome would also significantly affect the ability to meet the cash rate target set 
+by the Reserve Bank Board. That is, we do not want to impair the operational framework for 
+monetary policy which has served us well for many years.  
+If  the  banks  were  to  hold  large  ES  balances  with  the  RBA,  this  would  also  be  likely  to 
+significantly impair the short-term interbank market in Australia, which is an important pricing 
+reference for many other markets.  
+As a result of these considerations, the RBA concluded that the fee needed to be set high 
+enough to ensure banks had the appropriate incentives under the liquidity standard, but low 
+enough to not generate unwarranted distortions in the domestic market.  
+Interest rate on the facility 
+Should a bank need to obtain liquidity under the facility, it will undertake a repo with the Bank 
+using its eligible collateral and pay an interest rate on the repo of 25 basis points above the 
+Reserve Bank Board’s target for the cash rate. This is the same as the current arrangements 
+for  the  RBA’s  overnight  repo  facility.  This  25  basis  points  charge  will  be  in  addition  to  the 
+ongoing access fee of 15 basis points.  
+Eligible securities 
+The  securities  that  a  bank  can  hold  to  access  the  CLF  are  the  same  as  those  which  are 
+eligible  for  the  RBA’s  normal  market  operations.  In  addition  to  government  paper,  these 
+securities  include  domestic  issues  by  supranationals  and  other  foreign  governments,  ADI-
+issued  debt  securities  and  asset-backed  securities,  including  residential  mortgage-backed 
+securities (RMBS).  
+However  for  the  purposes  of  the  CLF,  the  RBA  will  also  allow  banks  to  present  certain 
+related-party assets such as self-securitised RMBS. There are a number of reasons for this 
+BIS central bankers’ speeches 
+ 3
+decision,  but  the  primary  motivation  is  to  reduce  the  systemic  risk  of  excessive  cross-
+holdings of bank-issued instruments.  
+As  mentioned  earlier,  a  large  share  of  the  securities  on  issue  in  Australia  are  “inside”  the 
+banking system. That is, they are securities issued by the banks themselves. The available 
+pool  of  outside  assets  in  Australia  which  includes  securities  issued  by  supranationals  and 
+corporates is small. Hence, the primary type of asset available in the market to the banking 
+system to meet its liquidity needs is a security issued by another bank. In our judgement, and 
+that of APRA’s, it would be undesirable for a bank to meet its liquidity needs by significantly 
+increasing its exposure to the rest of the banking system. If a stressed situation was to arise 
+at  one  bank,  the  increased  cross-holdings  could  rapidly  translate  this  to  other  banks. 
+Moreover,  if  the  stressed  bank  was  to  meet  its  liquidity  needs  by  selling  its  holdings  of 
+securities issued by other banks into the market, this would also serve as a possible source 
+of contagion to the rest of the banking system.  
+Thus to reduce the likelihood of systemic risk, a bank will be able to hold some share of its 
+liquid  assets  in  the  form  of  self-securitised  mortgages.  There  is  a  trade-off  here  between 
+systemic risk and reduced “market” liquidity of the bank’s asset holdings, but the bank will 
+have access to liquidity from the RBA with these assets.  
+In terms of the range of assets eligible for the CLF, the RBA reserves the right to broaden 
+that range at any time, but will give 12 months’ notice of any decision to narrow the range. 
+The latter condition will give banks adequate time to adjust their liquids holdings in response 
+to any change.  
+Margins 
+At  the  same  time  as  the  RBA  released  the  details  of  its  CLF,  we  also  issued  a  revised 
+schedule  of  margins  for  the  securities  that  are  eligible  in  our  domestic  market  operations. 
+This revised schedule of margins will take effect on 1 February next year.  
+The Reserve Bank applies margins to the collateral held under repo in its domestic market 
+operations  in  order  to  protect  the  Bank  against  all  but  the  most  extreme  movements  in 
+market prices, should its counterparty in the repo be unable to repay the repo.  
+The margins are set to ensure that the Reserve Bank’s contingent risk is the same across all 
+eligible securities. This implies that margins need to be higher on those securities with longer 
+duration, greater illiquidity and greater credit risk.  
+It  was  appropriate  to  revisit  the  Reserve  Bank’s  schedule  of  margins  in  light  of  the 
+experience  of  recent  years  which  has  provided  some  indication  of  how  the  various  asset 
+classes perform in stressed situations. Moreover, the margins are important in determining 
+the amount of liquid assets a bank will need to obtain a given level of access to the CLF.  
+In conducting the review, we examined the average daily yield movements across the range 
+of  eligible  securities,  as  well  as  the  largest  daily  yield  movements.  We  also  compared  the 
+margins set by the RBA with those in other jurisdictions. As a result of this review, we have 
+made  a  number  of  changes.  The  principal  change  is  that  the  margins  on  unsecured  bank 
+paper have been increased, with the margin increasing with time to maturity and the lower 
+the credit rating. The RBA has also adjusted the eligibility criteria for unsecured bank paper. 
+All senior debt securities with less than 12 months to maturity issued by ADIs with a public 
+credit rating will be eligible. There will no longer be a requirement that an ADI hold an ES 
+account with the Bank. For securities with longer than 12 months to maturity, the minimum 
+credit rating required is BBB+.  
+Margins  on  asset-backed  securities  were  maintained  at  10  per  cent.  For  self-securitised 
+mortgages, and other private securities for which it is difficult to identify a timely market price, 
+the securities will be valued at a price equal to 90 per cent of par, prior to the application of a 
+4 
+ BIS central bankers’ speeches
+margin. Hence, for example, to obtain liquidity of $100 under the CLF, a bank will need to 
+present a self-securitised RMBS with a value of $122.  
+Conclusion 
+I have provided some background to the decisions taken by the Reserve Bank around the 
+application  of  the  new  Basel  liquidity  regime  in  Australia.  The  new  Basel  standards  are 
+designed  to  ensure  that  the  banking  system  in  Australia  is  even  more  resilient  and  stable 
+than it has been to date. While these reforms are not costless to comply with, the benefits of 
+a stable banking system are considerably larger. Both ourselves and APRA will continue to 
+work together to promote a strong and resilient financial system. 
+BIS central bankers’ speeches 
+ 5

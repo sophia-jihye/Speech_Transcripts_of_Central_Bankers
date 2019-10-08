@@ -1,0 +1,307 @@
+  Hiroshi Nakaso: Central bank policy on financial market infrastructure 
+Remarks by Mr Hiroshi Nakaso, Deputy Governor of the Bank of Japan, at the Conference 
+on Retail Payments, Tokyo, 12 May 2016. 
+ Introduction 
+It is a great pleasure to welcome you all today to this Conference on Retail Payments. 
+Today, I would like to say a few words on the Bank of Japan’s views on policies related to 
+financial market infrastructures (FMIs), including payment and settlement systems, in light of 
+innovations  in  information  technology  that  have  brought  about  various  innovations  in 
+payments. 
+For  every  central  bank,  payment  and  settlement  are  its  primary  functions.  Many  central 
+banks, including the Bank, were established to stabilize payment and settlement systems as 
+a single issuer of the currency. Compared to such history of central banks’ deep involvement 
+with  payments  and  settlements,  history  of  monetary  policy  for  macro-management  of 
+aggregate demand is fairly new. 
+After the recent global financial crisis, various initiatives have been introduced at international 
+forums  over  FMIs  including  payment  and  settlement  systems.  Moreover,  in  line  with 
+development  of  information  technology  and  various  financial  innovations,  which  are  often 
+referred to as “FinTech”, the frontier of the policies related to FMIs is rapidly expanding, and 
+has become a major policy field that could be called  “financial market infrastructure policy 
+(FMI policy)” for central banks around the world. 
+In order to ensure the stability and enhance the efficiency of FMIs as a whole, it is important 
+not  only  to  ensure  stability  of  individual  players  including  financial  institutions,  but  also  to 
+understand complicated interactions and market dynamics among these players as well as 
+the impacts of technological innovations, and to fully mobilize available policy toolkits of the 
+central bank. For central banks, FMI policy is deemed as “the oldest and the newest” policy 
+field, which is also intellectually challenging. 
+I. 
+Origin and evolution of central bank policy on FMIs 
+The role of money in the economy 
+“Money”, like “language”, is undoubtedly one of the greatest of human inventions. Language 
+has  enabled  human  beings  to  share  knowledge  among  others  and  wisdom  across 
+generations  and  has  played  a  critical  role  in  developing  civilizations.  Similarly,  money  has 
+enabled human beings to exchange goods and services “across space” and “over time”, and 
+has served as a foundation for the development of an economic society. The transmission 
+mechanism  of  monetary  policy,  too,  is  ultimately  dependent  on  the  fact  that  money  has 
+enabled us to exchange expenditures over time. 
+The exchanges via money is build upon a “chain of trust” among human beings The reason 
+why I can purchase goods with money is because the recipient believes that it can be used 
+for its own payments and will be accepted by unknown others. As such, the fact that human 
+beings were able to create a chain of trust among many others, including among those with 
+no  personal  acquaintance,  was  the  key  to  the  development  of  an  economic  society.  This 
+shows how important “trust” is for the payment system and the economy. 
+BIS central bankers’ speeches 
+ 1 
+  Central banks and payments infrastructure 
+To put it in another way, one break in the chain of trust could have a catastrophic impact on 
+the  payment  system  and  the  overall  economy.  Indeed,  many  central  banks,  including  the 
+Bank,  were  founded  with  the  aim  of  restoring  and  maintaining  confidence  in  payment 
+systems when people’s trust in them were about to be lost or damaged, which also shows 
+that  payments  and  settlements  are  inherently  the  primary  function  of  central  banks.  The 
+central banks’ other core functions – such as the lender of last resort and monetary policy – 
+are  also  ultimately  based  on  the  ability  of  central  banks  to  provide,  without  constraints, 
+central bank money, which provides  “finality” to payments and settlements in a sense that 
+receivers of central bank money do not have to worry about payment unwinding or its credit 
+risks  any  more.  Such  power  also  gives  central  banks  the  ability  to  influence  real  interest 
+rates, which are regarded as the “rate of exchange” on expenditures exchanged over time, 
+as a foundation of monetary policy. 
+Most  central  banks  around  the  world,  including  the  Bank,  support  economic  activities  by 
+issuing  banknotes  and  operating  large-value  payment  and  settlement  systems,  which 
+constitute  basic  infrastructures  of  the  economy. Following  the  emergence  of  money  in  the 
+form of banknotes and coins, various types of payment instruments, including checks, bank 
+transfers, credit cards, debit cards, and e-money, have emerged to meet people’s evolving 
+needs. At the same time, the role of central bank payment and settlement infrastructure is 
+playing  a  more  important  role  in  light  of  economic  developments  and  innovations  in 
+information  technology,  since  the  central  bank  is  the  only  entity  to  be  able  to  settle  more 
+diverse and complex transactions with finality. 
+Payment  infrastructures  intrinsically  have  the  characteristics  of  a  “network”.  The  value  of 
+participating in a network increases as more participants use it. At the same time, a single 
+payment  failure  could  spill  over  across  the  network,  potentially  leading  to  systemic  crisis. 
+Moreover, participation in the network by a high risk profile member could increase the risk 
+for all others. Given such characteristics, central banks, including the Bank, determine the 
+range  of  participants  to  be  granted  access  to  its  payment  infrastructures,  ensure  the 
+soundness of those participants through on-site examinations and off-site monitoring, and, 
+where necessary, serve as the lender of last resort to avoid negative spill-overs and systemic 
+crisis. 
+Another important contribution to the economy by central banks is to enhance the safety and 
+efficiency  of  the  payment  and  settlement  systems  they  operate.  The  Bank  has  made 
+continuous efforts also in this regard. Indeed, a number of improvements have been made to 
+the BOJ-NET over time, including the adoption of delivery-versus-payment (DVP) and real-
+time gross settlement (RTGS). Liquidity-saving features have also been introduced with the 
+aim of enhancing efficiency while avoiding payment delays. Furthermore, in October 2015, 
+the  new  BOJ-NET  was  fully  launched,  with  its  operating  hours  extended  to  9  p.m.  in 
+February 2016. 
+II. 
+Frontiers of FMI policy 
+The financial crisis and FMI policy – the importance of interactions and market 
+dynamics 
+The  global  financial  crisis,  triggered  by  the  Lehman  Crisis  in  2008,  put  payment  and 
+settlement systems under the spotlight of international debates, and frontiers of FMI policy 
+have been expanding. The FMIs as a whole could be regarded as an “eco-system”, since 
+they  have  similar  interconnectedness,  complexities  and  interactions  as  biological  eco-
+system.  Policymakers  including  central  banks  are  increasingly  asked  to  grasp  those 
+complicated interactions and market dynamics among various players as well as the impacts 
+of technological innovation, and to maintain not only the soundness of individual players but 
+2 
+ BIS central bankers’ speeches 
+  
+ 
+also the stability of whole FMIs as an eco-system, with making full use of all the available 
+policy tools. 
+At the Pittsburgh Summit in 2009, G-20 leaders agreed that all standardized over-the-counter 
+derivatives  contracts  should  be  centrally  cleared  at  central  counterparties  (CCPs).  This 
+agreement was one example of the expanding frontier in that the policymakers took a step 
+forward  to  consider  the  “structure”  of  post-trade  processing  of  financial  transactions,  in 
+addition to the risks in individual transactions or counterparties. 
+Stepping into unexplored policy areas raises a  number of intellectually  challenging  issues. 
+For example, central clearing might accompany the accumulation of risks in CCPs and make 
+CCPs “too-big-to-fail.” There are also issues of “trade-off”, in a sense that a CCP’s call for its 
+participants  to  provide  additional  capital  or  liquidity  in  times  of  market-wide  stress  could 
+weaken  the  capital  and  liquidity  positions  of  those  participants.  Similarly,  terminating 
+membership of a financially troubled participant would make the recovery of the participant 
+difficult, while maintaining its membership could increase risks for other participants and the 
+CCP itself. Moreover, a CCP’s efforts to enhance its stability by collecting an extra layer of 
+margin  could  undermine  the  incentives  of  participants  to  make  use  of  CCPs,  possibly 
+increasing aggregate risks in the overall market. 
+Adding on to such complex challenges is the perspective of globalization. Also on this front, 
+there  emerge  many  issues,  such  as  what  should  be  the  appropriate  framework  for 
+international oversight of CCPs operating across borders, how liquidity shortages at cross-
+border CCPs dealing with multiple currencies should be addressed, and how central banks 
+should contribute to the resolution of those issues. 
+Various  international  forums  also  recognize  the  importance  of  good  understanding  of 
+complex interactions and market dynamics by central banks and policymakers in enhancing 
+stability and efficiency of FMIs as an eco-system. In 2012, the Committee on Payment and 
+Settlement  Systems  (CPSS)  –  which  is  now  the  Committee  on  Payments  and  Market 
+Infrastructures  (CPMI)  –  of  the  Bank  for  International  Settlements  and  the  Technical 
+Committee of the International Organization of Securities Commissions (IOSCO) published 
+the “Principles for Financial Market Infrastructures (PFMIs).” Since then, effective framework 
+has been developed for central banks and other authorities to ensure, through their oversight 
+and international peer reviews, that FMIs including payment and settlement systems meet 
+the PFMIs. The Bank is actively engaged in this initiative as an overseer of FMIs in Japan. 
+in 
+innovation 
+information 
+in  accordance  with 
+Innovations in information technology and FMI policy 
+Continuous  efforts  are  being  made  to  develop,  enhance  and  sophisticate  FMI  policy.  In 
+recent  years, 
+technology  and  rapid 
+popularization  of  internet,  mobile  phones  and  other  digital  outlets,  wide-ranging  financial 
+innovations,  which  are  often referred to  as  “FinTech”,  have  been  taking  place.  In  such  an 
+environment,  central  banks  and  other  policymakers  need  to  grasp  the  impacts  of  those 
+technological  innovations  on  financial  architecture  and  FMIs,  and  to  make  full  use  of  the 
+benefits of those innovations while effectively addressing any new risks. 
+The safety and efficiency of FMIs including payment and settlement systems have always 
+been  closely  linked  to  the  information  technology  of  the  time.  For  example,  many  of  the 
+operational  practices  and  security  features  of  traditional  financial  instruments,  such  as 
+banknotes, paper securities and ledgers, have been to a large extent based on paper-based 
+and printing-related technologies. For example, the security of banknotes is reliant on paper-
+based  anti-counterfeit  features  such  as  watermarks  and  holograms,  and  bill  and  check 
+clearing  houses  were  established  to  facilitate  and  reduce  the  burden  of  their  physical 
+delivery. 
+Given  that  the  financial  service  industry  has  strong  characteristics  as  an  “information 
+industry,”  it  is  not  surprising  that  innovations  in  information  technology  have  a  particularly 
+large  impact  on  financial  services  and  infrastructures.  FMIs  including  payment  and 
+BIS central bankers’ speeches 
+ 3 
+  
+ 
+settlement systems have been all the more characterized as “information infrastructures” for 
+recent  developments  in  information  technology.  With  “FinTech”  developments,  which 
+combine finance and information technology, financial services are expanding their frontiers, 
+while new players are venturing into the financial services market. Such dynamics are also 
+evidenced by the rich variety of participants attending today’s conference. 
+Innovations in financial services and FinTech have significant potential to bring wide-ranging 
+benefits  to  the  overall  economy  by  expanding  also  the  frontier  of  economic  activities, 
+including  e-commerce,  sharing  economies,  big  data  processing,  smart  contracts  and  IoT 
+(internet  of  things).  At  the  same  time,  FinTech  may  also  have  the  potential  of  drastically 
+reshaping the forms of financial services and financial architecture. 
+Traditional  financial  infrastructure  is  built  around  “centralized  ledgers,”  where  banks  have 
+managed ledgers of deposits and other financial products. On the other hand, “blockchain” 
+and “distributed ledger” – technologies underpinning digital currencies such as “Bitcoin” – are 
+considered  as  enabling  to  keep  ledgers  in  a  de-centralized  manner  without  relying  on  a 
+trusted  third  parties  to  manage  ledgers.  Owing  to  such  characteristics,  blockchain  and 
+distributed  ledger  have  attracted  considerable  attention,  since  international  forums  are 
+focusing  on  their  potential  to  be  applied  to  wide-ranging  businesses  and  practices.  The 
+application  of  those  technologies  would  also  change  the  structure  of  the  financial 
+infrastructure  that  has  been  built  around  centralized  ledgers  managed  by  trusted  third 
+parties.  Thus,  central  banks  will  and  have  to  follow  these  issues  closely  and  with  great 
+interest. 
+FinTech  has  also  the  potential  to  unbundle  and  reconstruct  various financial  services.  For 
+example, there may be payment-related services having substantial synergies with services 
+provided  by  non-financial  businesses  such  as  e-commerce  and  big  data  processing.  As  a 
+result of exploitation of “economies of scale” under technological innovations, new players 
+may become the providers of new services that incorporate financial solutions. 
+Moreover, it could be considered that such changes in financial architecture may change the 
+risk profiles of financial systems and infrastructures. 
+Commercial  banks  have  long  been  the  main  provider  of  payment  services.  Commercial 
+banks,  based  on  their  deposit-taking  as  the  core  of  their  services,  have  kept  on  providing 
+both financial intermediations such as lending through maturity transformation and payments 
+services.  Various  financial  infrastructures  were  built  around  such  structure  of  commercial 
+banking. For example, access to the current account at central banks, including the Bank, 
+have been provided primarily to commercial banks and other depository institutions. The risk 
+of  “bank-runs,”  which  stems  from  maturity  transformation  by  commercial  banks,  has  been 
+considered as the main trigger of systemic crisis. Reflecting the above, central banks have 
+traditionally been assumed to provide its “lender of last resort” function mainly to commercial 
+banks and other depository institutions. 
+Since  more  and  more  non-financial  institutions  are  providing  payment  services  under 
+“FinTech”  developments  and  there  seem  to  be  structural  changes  in  the  supply-side  of 
+financial services, however, risk profiles might also change from those originally assumed. 
+For  example,  it  is  hard  to  assume  the  risk  of  bank-runs  in  “crowd-funding”,  which  directly 
+matches demand and supply of funds through the internet, and in remittance services that 
+are  fully  covered  by  deposits.  Deputy  Governor  Ben  Broadbent  of  the  Bank  of  England 
+pointed  out  in  his  speech  in  March  the  possible  shift  towards  a  risk  profile  that  traditional 
+debates  on  “narrow  banking”  or  “free  banking”  suggested  due  to  the  application  of 
+technological innovation to finance.1 On the other hand, with the expansion of access points 
+                                                
+1   Ben  Broadbent,  “Central  banks  and  digital  currencies”  (speech  made  at  London  School  of  Economics  on 
+March 2, 2016). 
+4 
+ BIS central bankers’ speeches 
+  
+ 
+to financial services through the popularization of internet, mobile phones and other digital 
+outlets, there are risks that would require higher attention, such as cyber attacks and hacking 
+against vulnerabilities on information security. 
+Bank of Japan’s FMI policy 
+III. 
+Taking  into  account  the  above-mentioned  technological  innovation,  the  Bank  has  been 
+actively enhancing the stability and the efficiency of Japan’s FMIs by utilizing various policy 
+tools.  They  include  providing  banknotes  and  BOJ-NET  as  basic  infrastructures  to  the 
+economy,  conducting  on-site  examination  and  off-site  monitoring  of  financial  institutions, 
+oversight against FMIs including payment and settlement systems, and playing a “catalyst” 
+role to facilitate communication among wide-ranging players involved in FMIs. 
+Under  globalization  of  the  economy  and  technological  innovations,  more  and  more 
+transactions  and  payments  are  being  made  across  borders  and  time  zones,  and  more 
+diverse  players  are  now  providing  payment-related  services.  One  of  the  challenges  for 
+private-sector entities to provide payment services related to global cash management and 
+e-commerce is how to deal with unsettled exposures that arise from time-zone differences 
+and payment operations at night hours and on weekends. Central bank money is the solution 
+that  would  ultimately  erase  these  unsettled  exposures  through  settlement  with  finality,  but 
+providing central bank infrastructure also involves costs. In taking both possible benefits and 
+costs in account, the Bank will continue to consider the most appropriate way to provide its 
+central bank accounts and BOJ-NET from both “time” (i.e. operation hours of the BOJ-NET) 
+and “space” (i.e. eligibility criteria of the Bank’s accounts), so as to contribute to the overall 
+economy. 
+Besides, banknotes are payment instruments that all the people can use 24/7, and under the 
+innovation in information technology, there emerges an issue about whether central banks 
+themselves  should  provide,  in  the  future,  digitalized  payment  tools  that  would  substitute 
+paper-based banknotes. Indeed, some central banks have recently mentioned the possibility 
+of  central  banks’  issuing  digital  currencies,  and  there  are  arguments  that  central  banks’ 
+digital  currencies  would  be  similar  to  the  provision  of  central  bank  accounts  not  only  to 
+financial institutions but also to the general public.2 The Bank does not have a specific plan to 
+issue digital currencies at this stage, but will deepen its research and analytical activities so 
+as to understand the impact of technological innovations, FinTech and distributed ledger on 
+financial architectures and FMIs while keeping all options open, including the possibility of 
+the Bank’s utilizing such advanced technologies in its own operations in future. 
+Moreover,  taking  into  account  the  importance  of  the  people’s  “trust”  towards  financial 
+services and FMIs, the fact that the Japanese financial system has maintained its stability 
+during the recent global financial crisis could be a great advantage in developing innovative 
+financial  services  in  Japan.  On  the  other  hand,  as  access  to  financial  services  expands 
+through  internet  and  mobile  devices,  new  types  of  threats  to  financial  systems  and 
+infrastructures,  such  as  hacking  and  cyber-attacks,  are  gaining  prominence.  In  order  to 
+maintain  people’s  trust  towards  financial  infrastructures  and  innovative  financial  services, 
+relevant  entities  are  strongly  encouraged  to  take  effective  countermeasures  against  these 
+new  risks  also  by  utilizing  new  technologies  such  as  digitalized  encryption  and  biometrics 
+authentication. Furthermore, it is important to establish business continuity plans (BCPs) for 
+FMIs  with  sufficiently  conservative  stress  scenarios  such  as  natural  disasters  and  acts  of 
+terrorism. The Bank will work to deal with these important tail risks on FMIs. At the recent 
+                                                
+2   As documents mentioning the possibility of central banks’ issuing digital currencies, see, for example, 
+Andrew Haldane, “How long can you go?” (speech given at the Portadown Chamber of Commerce on 
+September 18, 2015 http://www.bankofengland.co.uk/publications/Pages/speeches/2015/840.aspx) and 
+the 
+2016 
+http://www.pbc.gov.cn/goutongjiaoliu/113456/113469/3008070/index.html. 
+the  People’s  Bank 
+of  China 
+document 
+published 
+January 
+20, 
+on 
+by 
+BIS central bankers’ speeches 
+ 5 
+ the  Bank  will  conduct  monitoring  and  dialogues  with 
+ 
+ 
+earthquake  in  Kumamoto,  the  Bank’s  Kumamoto  Branch,  other  area  branches  and  Tokyo 
+Head  Office  took  immediate  and  coordinated  actions  to  firmly  maintain  the  functions  of 
+financial infrastructures in the region through various efforts such as ensuring smooth supply 
+of banknotes and funds settlement. The Bank will make use of those experiences so as to 
+strengthen overall BCP strategy. 
+In addition, in order to ensure the stability and enhance the efficiency of FMIs as a whole, 
+including those operated by the private sector, it is important to cooperate with the private 
+sector  and  encourage  their  efforts.  Through  the  oversight  of  private-sector  payment  and 
+settlement  systems, 
+these 
+infrastructures, and when necessary, will strongly urge them to take actions to ensure the 
+stability and enhance the functionality of these infrastructures. 
+Furthermore,  while  more  players  with  wider  backgrounds  have  entered  in  the  market  of 
+providing payment-related services, it has become important to facilitate interactive dialogue 
+among  wide-ranging  entities  beyond  traditional  financial  industry,  in  order  to  make  the 
+expansion of the financial service frontiers under the technological innovations fruitful for the 
+customers and the overall economy, and to enhance the stability and efficiency of FMIs. The 
+Bank, as the nation’s central bank, is firmly committed to being a “catalyst” in fostering such 
+developments, and the establishment of the Bank’s “FinTech Center” on April 1 is a part of 
+such commitment. 
+The  Bank  is  ready  to  mobilize  all  the  policy  tools  available  while  paying  attention  to 
+interactions  among  various  players  involved  in  FMIs,  market  dynamics  and  impacts  of 
+technological  innovations,  and  make  maximum  efforts  as  a  central  bank  to  enhance  the 
+stability and the efficiency of Japan’s financial infrastructure. 
+I would like to close my remarks by wishing that today’s Conference on Retail Payments will 
+generate fruitful discussions. 
+Thank you for your attention. 
+6 
+ BIS central bankers’ speeches 

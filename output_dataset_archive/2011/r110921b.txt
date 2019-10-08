@@ -1,0 +1,248 @@
+Timothy Lane: Curbing contagion – options and challenges for building 
+more robust financial market infrastructure 
+Remarks by Mr Timothy Lane, Deputy Governor of the Bank of Canada, to the Society for 
+Worldwide  Interbank  Financial  Telecommunication  Annual  Sibos  Conference,  Toronto, 
+Ontario, 19 September 2011. 
+ Introduction 
+Good afternoon and, to our guests from abroad, welcome to Canada. 
+This  conference  is  taking  place  at  a  troubled  time.  Concerns  over  sovereign  debt  have 
+intensified,  particularly  in  Europe’s  periphery.  Economic  growth  in  the  United  States  and 
+other  advanced  economies  now  appears  to  be  significantly  weaker  than  expected.  In  the 
+face of these developments, there has been mounting skepticism in a number of countries 
+over whether policy-makers will be able to do what it takes to address these problems. 
+The  current  bout  of  turbulence,  like  the  financial  crisis  of  three  years  ago,  serves  as  a 
+reminder of why it is fundamentally important to have a resilient financial system. Periods of 
+market  turbulence  are  a  fact  of  life.  In  a  resilient  system,  financial  shocks  are  absorbed, 
+creating  losses  for  individual  investors,  but  leaving  the  system  intact.  If  the  system  is  not 
+sufficiently resilient, however, shocks can be amplified. We saw this in 2008, when losses in 
+a relatively small segment of the U.S. housing market cascaded into a near-meltdown of the 
+global  financial  system.  That  process  reflected  a  mixture  of  frailties  –  excessive  leverage, 
+reliance  on  forms  of  liquidity  that  proved  illusory  in  stressful  times,  the  use  of  securitized 
+products  with  risks  that  were  not  fully  understood,  the  complex  web  of  counterparty 
+relationships  that  spread  risk  and  bred  fear  in  core  funding  markets,  and  the  absence  of 
+resolution mechanisms to deal with insolvency in systemically important institutions without 
+endangering the entire system. 
+In the wake of that crisis, leaders of the G-20 countries launched a broad agenda of reforms. 
+These  reforms  aim  to  ensure  that  financial  institutions  have  adequate  levels  of  loss-
+absorbing  capital  and  liquidity  to  cope  with  periods  of  market  stress;  to  establish  robust 
+financial market infrastructure; and to develop stronger resolution mechanisms for financial 
+institutions, particularly across borders. When implemented, the G-20 reforms will create a 
+more  resilient  global  financial  system.  Canada  will  benefit significantly from  these  reforms. 
+Even  though  our  financial  system  performed  much  better  through  the  crisis  than  those  of 
+many other advanced countries, we are certainly not immune to events beyond our borders. 
+In my talk this afternoon I want to focus on one element of the G-20 reform agenda: building 
+robust financial market infrastructure. That infrastructure includes a number of components: 
+payment and securities settlement systems, trading venues and exchanges, information and 
+price providers, and collateral management systems. For the most part, these key elements 
+not only functioned well during the crisis, they were in fact a source of strength. Just after the 
+onset of the crisis, the CLS Bank, which settles foreign exchange transactions, successfully 
+processed  roughly  three  times  its  normal  daily  volume  of  transactions;  and  CDSX,  which 
+clears and settles trades in Canadian-dollar-denominated debt securities, handled double its 
+normal volume. Efficient clearing and settlement systems such as these were able to perform 
+a stabilizing role during the crisis. That is exactly what they were intended to do. 
+The  crisis  did,  however,  illuminate  some  key  areas  in  which  financial market  infrastructure 
+needed to be broadened and put to better use. Here, I am talking about expanding the use of 
+central counterparties or CCPs to replace bilateral clearing and settlement for a number of 
+core  markets.  In  my  presentation  today  I  am  going  to  review  how  bilateral  clearing 
+contributed  to  contagion  during  the  financial  crisis,  describe  why  greater  use  of  resilient 
+BIS central bankers’ speeches 
+ 1
+financial infrastructure is needed and tell you how CCPs will strengthen the financial system. 
+CCPs are of particular interest to us at the Bank of Canada because we are responsible for 
+overseeing  systemically  important  financial  infrastructure  that  affects  the  stability  of  the 
+Canadian financial system and, therefore, the health of the economy. 
+What happens when robust market infrastructure is not in place? 
+During the crisis, we had two stark illustrations of why greater use of financial infrastructure is 
+needed. The crisis did not start or end with the following shortcomings in bilateral clearing 
+and  settlement,  but  they  were  channels  through  which  problems  in  an  obscure  part  of  the 
+U.S. housing market cascaded into a global crisis. Although these are familiar stories, they 
+illustrate the need for change. 
+One  instance  is  the  near-failure  of  Bear  Stearns.  Bear  Stearns  wasn’t  one  of  the  largest 
+investment  banks  in  the  United  States,  but  it  was  one  of  the  most  leveraged,  with  large 
+broker-dealer and proprietary operations. It played a pivotal role in the global repo market, 
+holding collateral for transactions and acting as a counterparty for repo financing. When the 
+firm’s  mounting  losses,  extensive  leverage  and  reliance  on  potentially  unstable  short-term 
+funding markets threatened to cause its failure, there was a risk that Bear Stearns’ collapse 
+would cause serious disruptions in the repo market – a core funding market. Anticipations of 
+disruptions  in  Bear  Stearns’  operations  led  cash  investors  and  collateral  providers  alike  to 
+withdraw, initiating a process of leverage reduction through asset sales. Funding conditions 
+for collateral providers deteriorated sharply, and the liquidity and efficiency of related markets 
+were  severely  affected.  In  the  event,  Bear  Stearns  was  rescued  and  the  immediate  threat 
+averted, but the danger was real. 
+A  second  instance  is  related  to  Lehman  Brothers  and  its  role  as  a  counterparty  in  myriad 
+bilaterally settled over-the-counter (OTC) derivatives transactions. Lehman’s default and the 
+doubts it raised about the viability of the few remaining investment dealers struck at the heart 
+of  both  the  funding  and  the  OTC  derivatives  market.  The  strains  broadened  to  a  general 
+evaporation of market liquidity and a retrenchment from risk. 
+In both cases, a basic problem was counterparty risk associated with financial contracts that 
+are  cleared  and  settled  bilaterally.  Holders  of  such  bilaterally  cleared  repos  and  OTC 
+derivatives were exposed not only to the market risk associated with the position taken in the 
+financial instruments themselves, but also the risk that their counterparty would be unable to 
+honour  its  commitment.  Counterparty  risk  became  a  key  channel  of  contagion,  posing  a 
+major  threat  to  the  global  financial  system.  In  contrast,  some  of  Lehman’s  derivatives, 
+notably  interest  rate  swaps  valued  at  $9  trillion,  were  cleared  through  a  CCP,  which 
+successfully managed the impact of Lehman’s failure. 
+What are the objectives for reform? 
+At the Pittsburgh Summit, the G-20 leaders moved to put the lessons learned from the crisis 
+into  practice.  Specifically,  they  called  for  all  standardized  OTC  derivatives  to  be  centrally 
+cleared  and,  where  appropriate,  traded  on  exchanges  or  electronic  trading  platforms.  In 
+addition, all trades, whether centrally cleared or not, are to be reported to trade repositories.1 
+Efforts are under way in a number of countries, including Canada, to establish arrangements 
+for clearing interest rate swaps and other OTC derivatives that were not previously centrally 
+cleared.  In  Canada,  we  are  also  developing  a  new  CCP  for  repo  and  fixed-income 
+transactions. 
+                                                 
+1  http://www.g20.org/Documents/pittsburgh_summit_leaders_statement_250909.pdf 
+2 
+ BIS central bankers’ speeches
+These reforms will have far-reaching effects on global and Canadian financial markets. The 
+move  to  CCPs  is  intended  to  reduce  the  complexity  of  the  network  and  enhance  netting 
+efficiencies, and to establish robust risk management practices and clear default procedures. 
+Since CCPs – which interpose themselves between buyer and seller in financial markets –  
+concentrate risk by becoming the counterparty to all transactions, they must have stringent 
+risk-management  standards.  The  use  of  sufficiently  robust  CCPs  is  likely  to  increase  the 
+strength of the financial system. It will also reduce the counterparty credit exposures of major 
+participants, which will be reflected in capital requirements for financial institutions. 
+To  be  safely  cleared  the  contracts  that  CCPs  process  must,  at  a  minimum,  be  sufficiently 
+standardized.  And  the  push  to  standardize  OTC  derivatives  contracts  will  have  important 
+ancillary  benefits  for  how  these  markets  function.  Standardization  will  create  more  liquid, 
+transparent and efficient markets for the contracts. It will also help set the stage for shifting 
+trading onto exchanges or electronic trading platforms. 
+The challenges of the G-20 reforms 
+The  G-20  objectives  are  necessary  and  appropriate,  but  achieving  them  is  going  to  be 
+challenging, for several reasons. 
+First,  they  may  require  the  development  of  new  CCP  services,  a  complex  and  time-
+consuming  process.  We  are  experiencing  this  in  Canada  in  connection  with  the  work  now 
+underway  to  build  a  CCP  for  repos  and  fixed-income  transactions.  The  Canadian  industry 
+selected the Canadian Derivatives Clearing Corporation (CDCC) to develop this facility. 
+The process of creating a CCP for repos in Canada, although not yet complete, has been 
+instructive. Two fundamental requirements are that the CCP has adequate and robust risk-
+control systems and the capacity to implement them. Operational issues, such as developing 
+and testing the relevant software – both for the CCP and its participants – and its interaction 
+with existing systems, also take time to resolve. 
+The  challenges  of  establishing  a  CCP  for  repos  are  considerable.  But  at  least  the  overall 
+parameters are clear. Fulfilling the G-20 commitments on OTC derivatives is a more complex 
+task,  requiring  coordination  among  many  stakeholders,  with  a  wide  range  of  possible 
+outcomes. 
+The complexity of clearing OTC derivatives 
+Central clearing of OTC derivatives transactions will reduce systemic risk by decreasing the 
+likelihood that one failing institution will bring down others. But, given the globalized nature of 
+the  industry,  there  are  several  ways  to  make  the  transition  to  CCPs.  Clearing  could  take 
+place  on  large  international  CCPs  serving  the  global  market  (such  as  ICE  Clear,  CME  or 
+LCH.Clearnet), or new central clearing services could be established in individual countries.2 
+We are seeing a variety of arrangements emerging. In some countries, such as Japan and 
+Singapore, new central clearing services are under development. Other countries are likely 
+to  rely  on  offshore  CCPs  or  –  as  in  Canada  –  are  still  evaluating  their  options.  The  task 
+before  us  is  to  ensure  that  this  emerging  configuration  of  CCPs  achieves  a  significant 
+reduction of systemic risk, both at the global level and for Canada. The G-20 commitment 
+sets a very tight timetable for developing a strategy to meet this challenge. 
+The selection of an appropriate CCP strategy for OTC derivatives is a particularly important 
+issue  for  Canadian  market  participants  and  regulators.  To  put  it  in  perspective,  Canadian-
+                                                 
+2  Five Canadian banks currently qualify to be direct participants in LCH.Clearnet, the primary CCP for interest 
+rate swaps. And interest rate swaps are the most important OTC derivatives products in the Canadian market. 
+BIS central bankers’ speeches 
+ 3
+dollar  OTC  derivative  contracts  have  a  notional  outstanding  value  of  just  under  $9  trillion. 
+Moreover,  OTC  derivatives,  especially  interest  rate  swaps,  are  closely  connected  via 
+arbitrage and financing relationships with other financial markets in Canada, including other 
+derivative,  bond  and  money  markets.  That’s  big  enough  and  connected  enough  that  any 
+disruptions  would  likely  result  in  significant  reverberations  throughout  our  markets.  At  the 
+same time, these derivatives markets are innately global: for example, over half of the trading 
+in Canadian-dollar interest rate products involves at least one party that is not a resident of 
+Canada;  and  Canadian-dollar  OTC  derivatives  products  are  only  about  2  per  cent  of  the 
+global market. Whatever solution we adopt must come to grips with both of these realities  
+–  the  systemic  importance  of  OTC  derivatives  to  Canada and  the  globalized nature  of  the 
+market. 
+Large offshore CCPs serving multiple markets 
+Given  the  globalized  nature  of  the  market,  clearing  through  large  offshore  CCPs  has 
+important  advantages.  These  CCPs  can  benefit  from  economies  of  scale  and,  potentially, 
+provide greater scope for netting and risk mutualization. 
+A key concern, however, is access. Until recently, access was limited to the largest financial 
+institutions with global reach. Access is now is being broadened, but the global dealers – the 
+so-called  “G-14”  –  have  considerable  entrenched  advantages  in  settlement  costs.  Those 
+institutions  that  do  not  have  direct  access  to  offshore  CCPs  would  have  to  clear  indirectly 
+through one of the direct clearing members. 
+The primary rationale for restricting access is risk control. Direct clearing members of a CCP 
+are required to share the losses and take over positions in the event that another member 
+fails – which requires that they have large financial resources and a wide scope of activities. 
+But  here  lies  an  important  challenge.  In  carrying  out  the  G-20  mandate  requiring  all  OTC 
+derivatives to be centrally cleared, it is essential to ensure that we do not unduly concentrate 
+risk  in  a  relatively  small  number  of  institutions  that  are  direct  clearing  members  of  global 
+CCPs.  These  were  the  very  institutions  that  spread  and  amplified  contagion  through  the 
+global financial system in 2008. 
+This potential concentration of risk has several dimensions. First, if one of the direct clearing 
+members  fails,  that  poses  risks  to  the  CCP  and  to  the  other  direct  clearing  members. 
+Second, the failure of one of these large institutions would pose risks to institutions that clear 
+indirectly through it. Third, the offshore dealers may be able to use their dominance in direct 
+clearing to heighten their competitive edge in other financial market activities, such as trading 
+and other investment banking services. That, in turn, could lead to greater concentration of 
+business, and of risk, across a whole range of activities. 
+So if we are going to rely on central clearing through large offshore CCPs, direct access has 
+to  be  broadened  in  a  manner  compatible  with  ensuring  that  these  CCPs  have  robust  risk 
+controls. Indeed, financial market infrastructure standards are now being revised to ensure 
+that CCPs and their members can withstand such shocks. 
+There is also a need to ensure that indirect clearing is safe and efficient. Here, a key priority 
+is  to  ensure  that  these  indirect  clearers’  positions  are  protected  through  appropriate 
+segregation of collateral and portability of positions in the event that the direct clearer fails. 
+The Bank of Canada is working at the international level, in co-operation with our colleagues 
+at other Canadian agencies, to design measures for the safe and effective use of offshore 
+CCPs no matter where they are located. 
+4 
+ BIS central bankers’ speeches
+Domestic CCPs 
+While offshore CCPs may be a suitable choice for some jurisdictions, a few countries have 
+decided  to  develop  their  own  CCPs,  particularly  for  products  that  can  have  important 
+repercussions on their domestic financial systems. 
+So what would be the advantage of building a Canadian CCP to clear OTC Canadian-dollar 
+interest rate derivatives? First and foremost, it would be more straightforward for Canadian 
+authorities – including the Bank of Canada – to exercise our responsibilities for overseeing 
+systemically  important  financial  infrastructure if a  CCP  were  located  in  Canada.  We  would 
+also  be  better  placed  to  manage  a  crisis  and  provide  emergency  liquidity  support  for  a 
+Canadian CCP should that be necessary. While cooperative arrangements for oversight and 
+crisis management of offshore CCPs can be developed, and are currently being discussed at 
+the  international  level,  this  work  is  still  in  progress.  Such  arrangements  will  need  to  be 
+adequate to enable the Bank to fulfill its responsibilities for overseeing and safeguarding the 
+stability of the Canadian financial system. 
+A domestic CCP could offer other advantages as well. It could, in some situations, reduce  
+– although certainly not eliminate – the impact on Canadian markets of financial shocks from 
+abroad. It could be tailored to the needs of the Canadian financial system and support the 
+development of market expertise and innovation. 
+The key questions are whether a domestic CCP would be economically viable and whether it 
+would  support  financial  stability  and  efficiency.  We  know  that  much  of  the  OTC  market  is 
+global in nature and that, for a Canadian clearing service for OTC interest rate swaps to be a 
+success, wide participation of both Canadian and global firms is necessary. Without that, the 
+market  could  become  fragmented,  market  liquidity  could  decline  and  the  domestic  CCP’s 
+own risk controls could be undermined. Yet another key question is whether a domestic CCP 
+would adequately address the clearing needs of Canadian financial institutions. As a related 
+point, a Canadian CCP would need to be reasonably cost-effective; otherwise it could push 
+transactions offshore, undermining its potential benefits. 
+Developing 
+to  minimize 
+fragmentation of the market. But establishing such links would be a complicated undertaking, 
+and risk within the links would have to be properly managed. In practice, while a few CCP 
+links exist and are in operation (for cash markets, in particular), there is not yet a generally 
+accepted  model  that  could  be  used  for  the  establishment  of  links  among  CCPs  clearing 
+trades in OTC derivatives. 
+In assessing the best clearing strategy for Canadian OTC derivatives, the Bank of Canada is 
+moving  forward  on  two  fronts.  First,  we  are  working  with  our  domestic  and  international 
+counterparts  to  ensure  that  global  CCPs,  particularly  those  of  systemic  importance  to 
+Canada,  are  able  to  deliver  the  intended  benefits  of  financial  stability.  Second,  we  are 
+actively  exploring  the  possibility  of  developing  a  Canadian-domiciled  CCP,  in  collaboration 
+with  the  financial  industry  and  other  public  policy  institutions.  We  must  choose  the 
+arrangements that best support the stability and efficiency of Canada’s financial system. 
+jurisdictions  could  help 
+links  between  CCPs 
+in  different 
+Conclusion 
+We  are  in  the  midst  of  an  enormous  financial  regulatory  transformation,  easily  the  most 
+sweeping set of reforms in 70 years. Not only are the issues complex, they present cross-
+border challenges that must be addressed at both the global level and in Canada. The Bank 
+supports the objectives of the G-20 reform agenda. Reform is critical if we are to prevent a 
+crisis  similar  to  that  of  2008  from  occurring.  However,  we  must  be  alert  to  the  risk  of 
+unintended consequences. At the Bank of Canada, we are working actively, both here and 
+internationally,  to  ensure  that  the  proposed  reforms  to  the  global  and  domestic  financial 
+infrastructure  substantially  improve  the  functioning  of  the  financial  system  and  significantly 
+reduce systemic risk. 
+BIS central bankers’ speeches 
+ 5

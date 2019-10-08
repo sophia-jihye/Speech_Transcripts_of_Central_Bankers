@@ -1,0 +1,599 @@
+Digitalization, Competition, and Financial Stability 
+Opening remarks prepared for the Seminar "Statistics on Fintech – Bringing 
+Together Demand and Supply to Measure its Impact" organized by the 
+Irving Fisher Committee (IFC) and the Bank Negara Malaysia (BNM) 
+17.08.2019 | Kuala Lumpur | Claudia Buch 
+ 1 Digital innovations as a catalyst for structural change in the ﬁnancial system
+ a) Drivers of market dynamics
+ b) Implications for productivity
+ c) Implications for ﬁnancial stability
+ 2 Regulatory responses
+ 3 Better statistics for improved surveillance
+ 4 Summing Up
+ 5 References
+I would like to thank Fabian Bichlmeier, Manuel Buchholz, Ulf von Kalckreuth, Matthias 
+Köhler, Stephan Müller, Jens Reich, Joerg Stephan, Benjamin Weigert, Matthias Weiß, 
+and Grit Winkler for their most helpful contributions and comments on an earlier draft. 
+All remaining errors and inconsistencies are my own.
+Digital innovations and improvements in information technology have the potential to 
+signiﬁcantly change the competitive structure of banking markets. They are 
+transforming the way in which information is collected, processed, and analysed. 
+FinTechs and BigTechs potentially have comparative advantages over banks in deploying 
+big data techniques, artiﬁcial intelligence, machine learning, or social media data for 
+credit scoring or risk assessments.
+There are different channels through which digital innovations can impact banking 
+markets, with different implications for competition and ﬁnancial stability. Banks can 
+develop new technologies in-house, FinTechs can provide speciﬁc ﬁnancial services, or 
+BigTechs can use their existing network structures to provide a large range of ﬁnancial 
+services to customers (FSB 2019). New market entrants may provide services to 
+incumbent ﬁnancial ﬁrms or cooperate with existing ﬁnancial ﬁrms such as banks in 
+order to offer new or enhanced ﬁnancial products to customers. By providing services 
+to incumbents, technology can be improved and costs can be reduced. But new market 
+entrants may also target limited, high value added elements of the value chain of banks 
+and ﬁnancial ﬁrms.
+Central banks have many reasons to take an interest in these developments as the 
+structure of the ﬁnancial system shapes the transmission of monetary policy. Central 
+banks are providers of payment systems, and they contribute to banking and ﬁnancial 
+market supervision. Technological innovation in the ﬁnancial sector thus affects central 
+banks along many dimensions.
+In this paper, I focus on another important mandate of central banks: ﬁnancial stability. 
+After the global ﬁnancial crisis, central banks were assigned a crucial role in 
+contributing to a stable ﬁnancial system. According to the German ﬁnancial stability 
+legislation, for instance, the Bundesbank is a member of the national Financial Stability 
+Committee and provides analytical inputs on the stability of the German ﬁnancial 
+system. For this purpose, the Bundesbank deﬁnes “ﬁnancial stability” as a situation in 
+which the ﬁnancial system performs its key functions for the real economy in terms of 
+allocating savings, investments, and risks as well as providing the infrastructure for the 
+payments system. A stable ﬁnancial system is not a source of shocks that destabilize the 
+economy, nor does it excessively contribute to the ampliﬁcation of shocks to the 
+system. Vulnerabilities for the ﬁnancial system can emerge through various channels: 
+risks at large and systemically important ﬁnancial institutions, a high degree of 
+interconnectedness in the ﬁnancial system, and common exposure to the same shocks. 
+Enhancing the resilience of individual ﬁnancial institutions through higher equity capital 
+– and thereby also enhancing the resilience of the ﬁnancial systems as such — has thus 
+been a key objective of the post-crisis reform agenda.
+Assessing the ﬁnancial stability implications of digital ﬁnancial services thus requires an 
+understanding of how vulnerabilities emerge and how they change over time. This 
+includes assessing the risks of individual institutions, connections with other institutions, 
+and exposure to common shocks. In addition, to the extent that FinTechs and BigTechs 
+change the value chains of ﬁnancial activities and cooperate with several ﬁnancial 
+institutions, disruptions of these value chains might become systemic.
+Obtaining reliable information on the activities of FinTechs and BigTechs from traditional 
+statistics and reporting systems is diﬃcult though. Given this patchy knowledge base, it 
+is vital to monitor the resilience of ﬁnancial institutions. Whether emerging 
+vulnerabilities will ultimately endanger ﬁnancial stability crucially depends on the 
+resilience. It is interesting to note that some new providers of digital ﬁnancial services, 
+such as BigTechs, are not funded through deposits and are well capitalized. This may – 
+a priori – mitigate ﬁnancial stability concerns. Yet, if these companies venture into the 
+realm of “traditional” ﬁnancial services such as deposit-taking and lending business or 
+innovatively bundle existing services and products to create a new product. In this case, 
+FinTechs and BigTechs may assume the same or even higher risks as regulated ﬁnancial 
+institutions. Hence, assessments of resilience and of the related risks may change, 
+which requires ﬁrst and foremost adequate coverage of these institutions in oﬃcial 
+statistics.
+This note discusses how digital innovations can be a catalyst for structural change in the 
+ﬁnancial system and affect the risk-stability trade off. It argues that better statistics are 
+needed in order to improve surveillance. Better statistics help in addressing the “big 
+data paradox” – while the beneﬁts and challenges arising from digital innovation and 
+better processing of data have been discussed at length, existing statistical systems 
+provide little information for a structured surveillance of these trends. Results of a 
+survey recently conducted by the Irving Fisher Committee (IFC) shows that central banks 
+are closing data gaps and gathering data from FinTech infrastructure (such as crypto-
+assets exchanges) and service providers.
+ International cooperation is a key aspect 
+here, and more work needs to be done with regard to the statistical business 
+classiﬁcation of FinTech ﬁrms.
+ [2]
+ [1]
+1 Digital innovations as a catalyst for structural change in the financial 
+system
+a) Drivers of market dynamics
+Historically, structural changes in the ﬁnancial system have been a consequence of the 
+process of ﬁnancial innovation in terms of new products or services, new production 
+processes, or new organizational forms (Frame, Wall and White 2018; Frame and White 
+2014). Financial innovation has often had its roots in advances in the processing power 
+of IT systems and lower costs for data storage (Beck, Chen, Lin and Song 2016). This 
+has reduced transaction costs and information asymmetries, thus affecting a key 
+function of banks in the ﬁnancial system (Mishkin and Strahan 1999; Leland and Pyle 
+1977). Advances in IT infrastructure made it possible to manage large securities 
+portfolios and led to the development of automated credit scoring models which inter 
+alia facilitated the securitization of assets (Berger 2003).
+In a similar vein, digitalization has the potential to change the competitive advantages 
+of providers of ﬁnancial services. New market entrants may have superior technologies 
+for the screening of borrowers and thus lower information asymmetries (Dell’Arricia 
+1998; Dell’Arricia, Friedman and Marquez 1999). BigTech ﬁrms have access to a wide 
+range of customer data, which may be used to improve risk assessments and the 
+screening of borrowers (Frost, Gambacorta, Huang, Shin and Zbinden 2019). These 
+advantages have been identiﬁed for FinTech lenders (Jagtiani and Lemieux 2018; Fuster, 
+Plosser, Schnabl and Vickery 2018). Additionally, BigTech ﬁrms might be able to achieve 
+economies of scale through network effects. As a result, business models of ﬁnancial 
+institutions that are based on the cross-subsidization of different types of services may 
+come under pressure.
+Forecasting how these trends will affect market dynamics in the ﬁnancial services sector 
+is diﬃcult. In the past, entry into banking systems of advanced market economies has 
+been rather limited due to strong market positions of incumbents and saturated 
+markets. Exit has been driven primarily by mergers and acquisitions of smaller banks.
+Take the German banking sector as an example. The number of banks in Germany has 
+been in continuous decline over the past few decades 
+, reﬂecting pressure to 
+rationalize and cutting costs. Despite this shrinking of the market in terms of the 
+number of institutions, the size of the German banking system in terms of total assets 
+to GDP increased steadily until the global ﬁnancial crisis 
+ﬁnancial crisis, large German banks, and in particular the Landesbanken, have scaled 
+back their interbank activities and their foreign operations (Deutsche Bundesbank 
+2017).
+. Following the 
+ (Figure 2)
+ (Figure 3)
+ (Figure 4)
+. In the past, there have been relatively few market entries, most of 
+Adjustment along the extensive margin shows some interesting patterns of entry and 
+exit 
+them – with a share of 60% – through foreign banks. Mergers among smaller banks 
+have been the main exit channel. Implications for capacities in the banking sector have 
+been limited though because the merged banks typically carry on conducting the 
+business of the absorbed entities. Other exit channels, with potentially larger effects on 
+overall capacities, have been more limited.
+. Recently, margins have come under pressure as it is diﬃcult for banks to pass 
+These trends have also had an impact on pricing and interest margins. Interest margins 
+in the German banking sector have been narrowing steadily over the past decades 
+(Figure 1)
+negative monetary policy rates on to customer deposits. However, low and declining 
+proﬁtability is not a recent phenomenon. Low interest rates rather aggravate structural 
+pressure on bank proﬁtability due to ﬁercer competition as a result of greater 
+transparency, reduced switching costs, and the entry of new suppliers of ﬁnancial 
+services.
+ b) Implications for productivity
+Increasing assets of ﬁnancial institutions and thus ﬁnancial deepening have been global 
+phenomena, at least until the ﬁnancial crisis. However, while the size of the global 
+ﬁnancial sector has grown signiﬁcantly, it has not been one of the sectors that have 
+innovated a lot. Relative to GDP, assets of German banks, for example, have increased 
+from around 50% to more than 200% since the 1950s 
+. Trends are similar 
+for other banking systems. However, data for the past 150 years show that ﬁnancial 
+services in the US have been produced under constant returns to scale, with an annual 
+average cost between 1.5% and 2% of outstanding assets (Philippon 2015). Bazot 
+(2017) documents similar trends for European banks, albeit based on shorter time 
+series. More recently, roughly since the global ﬁnancial crisis, the costs of ﬁnancial 
+intermediation seem to have declined as a result of improved technology and increased 
+competition (Philippon 2019).
+ (Figure 2)
+The potential of banks to realize economies of scale and scope has been a recurring 
+theme in the empirical literature. Recent research challenges the view that there are 
+relevant economies of scale in banking. Instead, the systemic risk externalities that large 
+banks pose to ﬁnancial systems may outweigh cost advantages due to size. Funding 
+cost advantages are a proxy for the implicit government subsidy accruing to systemic 
+banks and thus the expected bailout that debt holders expect to receive (Siegert and 
+Willison 2015). Banks’ expectation that they will be bailed out in case of distress may 
+affect their behavior, and particularly increase their size and complexity beyond socially 
+optimal levels. Estimates of economies of scale in banking ﬁnd that the potential cost 
+advantages are smaller than the costs to the macro-economy due to systemic risk and 
+distorted incentives (Boyd and Heitz 2016). Once controlled for too-big-to-fail (TBTF) 
+status, banks no longer beneﬁt from economies of scale (Davies and Tracey 2014).
+How digital innovations affect productivity in banking crucially depends on changes in 
+the competitive structure of markets. As in other industries, the entry of new, more 
+productive ﬁrms and the exit of incumbent, less productive ﬁrms, can be a channel for 
+improvements in productivity.
+This process of “creative destruction” is, however, constrained by the fact that ﬁnancial 
+institutions which are being restructured or are eventually resolved may pose threats to 
+ﬁnancial stability. Dynamics of entry and exit thus differ across banks and non-ﬁnancial 
+institutions: in the event of insolvency, liabilities of non-ﬁnancial ﬁrms can be frozen, 
+and the ﬁrm can be gradually restructured and, possibly, resolved. Applying standard 
+insolvency procedures to banks is more diﬃcult because of their short-term liabilities 
+and the risk of runs and contagion effects. One core objective of post-crisis ﬁnancial 
+sector reforms has thus been to restore normal market functioning, inter alia, by 
+introducing restructuring and resolution regimes for systemically important banks.
+c) Implications for financial stability
+Digital ﬁnancial innovation and the entry of new providers of ﬁnancial services may not 
+only affect productivity and eﬃciency but may also have important consequences for 
+ﬁnancial stability. In ﬁnancial services, unlike in other industries, increased competition 
+may not be welfare enhancing (Corbae and Levine 2018). Instead, the link between 
+competition and risk in banking is non-linear (Martinez-Miera and Repullo 2010): A low 
+degree of competition generates monopoly rents which the bank manager wants to 
+protect by investing in safe assets (Keeley 1990). Accordingly, risk would increase if 
+competition becomes more intense. However, weaker competition also drives up 
+interest rate costs, borrowers choose riskier projects, and banks become riskier (Boyd 
+and De Nicoló 2005). If this mechanism dominates, increased competition would tend 
+to lower risks of individual ﬁnancial institutions.
+Reﬂecting the opposing theoretical mechanisms, empirical studies ﬁnd it diﬃcult to 
+establish a clear relationship between competition and risk, and the link between risk 
+and competition depends on the type of bank and the type of risk considered (Freixas 
+and Ma 2014).
+Changing patterns of competition in the banking industry can have implications for 
+ﬁnancial stability that go beyond those for individual banks. Insuﬃcient exit can lead to 
+overcapacity and excessive risk-taking by weakly capitalized banks, weaken aggregate 
+proﬁtability, and limit banks’ ability to rebuild buffers following negative shocks. 
+Generally, the link between competition and ﬁnancial stability depends on the nature of 
+the shock, risk-taking incentives at the level of the individual ﬁrm, and the overall 
+structure of the banking system. In a highly concentrated banking system, dominated 
+by a few banks, an idiosyncratic shock hitting a large ﬁnancial institution can have 
+repercussions for the entire system (granularity effects or “too big to fail”). But a 
+decentralized and weakly competitive banking system populated by many small banks 
+might also have destabilizing features. If many smaller banks are exposed to the same 
+(macroeconomic) risks, this may create systemic instability as well (“too many to fail”).
+How the entry of new ﬁrms and the use of new technologies in the provision of 
+ﬁnancial services affects ﬁnancial stability is thus hard to predict. It depends on changes 
+in the riskiness of individual institutions and on structural features of the ﬁnancial 
+system such as the degree of concentration, interconnectedness, and commonality in 
+the exposure to shocks. Assessing the costs and beneﬁts of new ﬁnancial technologies 
+is, therefore, conceptually diﬃcult. Lack of data adds an additional layer of complexity: 
+many new entrants and suppliers of ﬁnancial services are hardly covered by oﬃcial 
+statistics on the ﬁnancial sector.
+This moves resilience against shocks and against mismeasurement of vulnerabilities to 
+center stage. It is interesting to note that many BigTechs ﬁrms are quite well capitalized 
+compared to banks. For example, ratios of equity to total assets are in the range of 
+30% for companies like Amazon or Apple or around 75% for Google or Facebook.
+
+[3]
+ For comparison: The aggregate unweighted Tier1 capital ratio of banks is in the 
+range of about 9% for US banks and 6% for euro area banks (CGFS 2018). Obviously, 
+BigTechs are not banks – hence the funding structures and business models are not 
+comparable.
+portfolios, maturity structures, exposures to common shocks, or funding structures. Key 
+to a surveillance of the emerging market for ﬁnancial services and changing 
+vulnerabilities is thus suﬃciently detailed and granular information on all relevant 
+actors.
+Risk assessments must take into account the structure of asset 
+ [4] 
+2 Regulatory responses
+Digitalization and increased competition through new market entrants is only one of 
+the key trends affecting market structure. In addition, post-crisis ﬁnancial sector reforms 
+affect the competitive structure of banking markets: More stringent capital 
+requirements, as a core reform element, aim at shifting activities towards better-
+capitalized banks. Policies reducing implicit subsidies for systemically important ﬁnancial 
+institutions (“ending too-big-to-fail”) affect the market power of banks that beneﬁted 
+from such subsidies. For reforms strengthening bank capital to be effective, they need 
+to be accompanied by reforms of resolution frameworks which enable weak ﬁnancial 
+institutions to exit the market without adverse effects on ﬁnancial stability.
+At the same time, many regulatory discussions related to FinTech and BigTech center 
+around entry regulations: Should the new suppliers of ﬁnancial services face the same 
+regulations and licensing requirements as incumbents? Or should regulators lower entry 
+barriers to stimulate competition? Are regulatory “sandboxes” the solution?
+Answering these questions requires, ﬁrst and foremost, an assessment of the business 
+models of new market entrants. If the characteristics of these ﬁrms resemble those of 
+regulated ﬁnancial institutions in terms of risk characteristics that justify regulation, 
+regulation should adequately address those risks.
+In addition, attention should focus not only on entry regulation and prudential 
+requirements but also on exit regulation. If digital innovations catalyze structural 
+change, the implications for market dynamics, productivity, and ﬁnancial stability 
+depend on the effectiveness of resolution regimes. The ongoing ex post evaluation of 
+TBTF reforms by the Financial Stability Board (FSB) can be expected to provide useful 
+insights as it assesses – inter alia – the effects of new resolution regimes.
+evaluation focuses on the implementation of reforms, their credibility and effectiveness 
+in terms of coping with the failure of systemic banks.
+ The 
+ [5]
+Potential regulatory implications go beyond the prudential regulation of banks. How 
+BigTechs will be able to enter the market for traditional banking activities will crucially 
+depend on their ability to utilize customer data across different services. Close 
+cooperation is thus needed between prudential regulators, competition authorities as 
+well as data and consumer protection agencies. The use of new information 
+technologies may increase the risks of cyber attacks, making necessary improved cyber-
+mapping, reporting, and – potentially – regulation.
+ Also, violation of privacy rules 
+could be a concern if BigTech and FinTech ﬁrms provide banking services. Of course, 
+appropriate privacy regulation are also required if traditional banks start providing 
+services beyond traditional banking services.
+ [6]
+ [7]
+ At the same time, its objective is to 
+Policy trade-offs may require coordination across different authorities. The new rules for 
+the recovery and resolution of banks in Europe can serve as an example, as they 
+explicitly address such trade-offs. The Bank Recovery and Resolution Directive (BRRD) is, 
+in principle, distinct from competition law.
+allow banks to be liquidated, and eventually resolved, without recourse to taxpayers’ 
+money. If, however, ﬁnancial stability is at risk, the BRRD allows for public support. Such 
+permission is subject to stringent conditions that have to take into account the rules of 
+EU competition policy.
+ Different authorities – resolution and competition authorities 
+– therefore interact, each operating within their clearly deﬁned mandates. Balancing the 
+different objectives may, at times, seem cumbersome and bureaucratic. Well-designed 
+regulatory measures can thus ensure that increased competition need not come at the 
+expense of ﬁnancial stability.
+ [8]
+ [9]
+From a macroprudential perspective, assessing the need for regulatory responses 
+requires an understanding of markets and market structures. Ideally, decisions on 
+regulations should be taken as part of a structured policy process (Buch, Vogel and 
+Weigert 2018). Such a policy process involves four steps: deﬁning policy objectives for 
+macroprudential policies, choosing intermediate objectives and appropriate indicators, 
+linking instruments to these indicators through ex-ante evaluation studies, and 
+analyzing the effects of these policies through ex-post evaluation studies.
+Having suﬃcient and reliable data early on is a key ingredient for such a policy process. 
+Without good data, monitoring key indicators and assessing vulnerabilities is diﬃcult, 
+and there will be an insuﬃcient basis for ex ante policy evaluation.
+3 Better statistics for improved surveillance
+Reliable statistics are the ﬁrst ingredient in any discussion on regulatory responses to 
+ﬁnancial innovation from a macroprudential perspective. This presents a ”chicken-and-
+egg” problem: Decisions on (macroprudential) regulation – including the decision 
+whether or not to regulate – require good and reliable data as an input into surveillance 
+work. At the same time, data on ﬁnancial institutions are traditionally collected within 
+the context of (micro)prudential regulation and for monetary policy purposes. Hence, 
+data would be collected after taking the decision to regulate.
+One key policy response to digital innovations and new providers of ﬁnancial services is 
+thus to address what one may call the “big data paradox”: On the one hand, new 
+technologies promise a better, faster, and safer provision of ﬁnancial services and a 
+more eﬃcient use of data. On the other hand, ﬁnancial regulators are struggling to 
+understand the implications of digital innovations because there is hardly any consistent 
+statistical information on how those innovations change market structures.
+Following the ﬁnancial crisis, new statistical projects have thus been launched that 
+decouple monitoring from regulation and that satisfy the data needs of a wide range of 
+policy ﬁelds. Within the European System of Central Banks, for example, AnaCredit 
+(analytical credit datasets) and the Securities Holdings Statistics provide granular 
+information that provides inputs for a large range of central banking tasks.There have 
+also been several national and international initiatives aimed at closing data gaps 
+regarding non-bank ﬁnancial intermediation. The goal of these initiatives is to enhance 
+the monitoring of risks by improving primary statistics on non-bank ﬁnancial 
+intermediation in ﬁnancial accounts (ESRB 2019). Especially with regard to FinTech and 
+BigTech, this requires both, deﬁning the institutions that enter the industry and provide 
+ﬁnancial services as well as the deﬁnition of the services provided.
+Currently, many statistics on the ﬁnancial sector do not capture FinTechs as most are 
+recorded as providers of non-ﬁnancial services. Therefore, activities of these ﬁrms are 
+not recorded systematically, and information on the riskiness of BigTechs and FinTechs is 
+patchy. Currently, it is even diﬃcult to obtain accurate ﬁgures on the total number of 
+ﬁrms on the market or their market shares. Therefore, initiatives are needed to improve 
+the statistical reporting on new ﬁnancial activities, including information on activities, 
+risks, and capitalization. Such initiatives also need to be coordinated globally.
+The evolution of service provision by FinTechs and BigTechs is a particularly important 
+issue for central banks. Essentially, all business areas are affected, including ﬁnancial 
+stability, prudential supervision, payments, markets, and monetary analysis. But data 
+requirements go beyond immediate central banking tasks. Data on these ﬁrms is also 
+needed in areas such as cyber security or competition policy. Hence, there is a need to 
+monitor new trends, and this requires harmonized statistical deﬁnitions.
+In order to close these gaps, a Working Group on FinTech Data Issues was set up by the 
+IFC to take stock of existing data sources, identify data gaps, provide guidance on 
+FinTech classiﬁcation issues, and develop a way forward. In addition, the IFC has 
+conducted a membership survey in 2019, which informs about approaches that central 
+banks pursue with regard to FinTech data. The survey covers the current statistical 
+infrastructure, “FinTech gaps” in statistics, FinTech data demands from a user 
+perspective, ongoing initiatives to measure FinTech, and the role of international 
+coordination. One of the main issues is that there is no clear deﬁnition of what 
+“FinTech” and “BigTech” actually mean. The Financial Stability Board deﬁnes FinTech as 
+a technologically-enabled ﬁnancial innovation that could result in new business models, 
+applications, processes or products with an associated material effect on the provision 
+of ﬁnancial services. This deﬁnition does not match easily with existing statistical 
+concepts, and oﬃcial data are often lacking.
+A review of statistical classiﬁcation systems such as the Central Product Classiﬁcation 
+(CPC) for products and the International Standard Industrial Classiﬁcation of All 
+Economic Activities (ISIC) shows that deﬁning FinTech ﬁrms from a statistical point of 
+view is challenging. FinTechs are currently in a state of "limbo" with regard to 
+classiﬁcation as they do not (yet) have a position in statistical classiﬁcation systems. The 
+IFC membership survey’s preliminary results suggest that this is one of the most 
+important issues. For all deﬁnitions currently in use, including the FSB deﬁnition cited 
+above, the two descriptors "innovative" and "technology" are essential. These concepts 
+are not time-invariant. Thus, a ﬁrm that is labeled “FinTech” today may not be a “
+FinTech” ﬁrm ten years from now even if it continues to provide the same services, 
+mainly because the technology will not be “new” anymore. One may be able to 
+distinguish between FinTechs and other providers of ﬁnancial or non-ﬁnancial services, 
+given the current state of ﬁnancial technology, but these distinctions will not lead to 
+partitions that are stable over time, in the way they need to for statistical classiﬁcation 
+purposes.
+FinTech activities combine both, IT-driven business services as well as ﬁnancial service. 
+Strikingly, in a sample of 180 German FinTech ﬁrms,
+ von Kalckreuth and Wilson 
+(2019) ﬁnd that only 20% of these FinTech ﬁrms were classiﬁed as ﬁnancial 
+corporations in the Business Register of the Federal Statistical Oﬃce (Destatis). The 
+other 80% are classiﬁed as non-ﬁnancial companies of various sorts, mostly IT service 
+providers. Though the quantitative size of German FinTechs is (still) small, that means 
+that our statistical picture may be missing out the most dynamic elements of the 
+ [10]
+ﬁnancial sector landscape. This could potentially lead to statistical biases when 
+measuring the size and growth of the ﬁnancial sector as well as its value chains and 
+thus its connectedness. Currently, dynamics in the FinTech sector are not being 
+adequately captured by the ﬁnancial sector statistics.
+ [11]
+Better coverage of FinTech requires close cooperation of national statistical institutes 
+and central banks in coordinated data collection efforts. This is one of the key results of 
+the IFC membership survey. There is a large variety of data collected by central banks, 
+but the collection process is not harmonized at the international level. Therefore, a 
+systematic exchange of experience and data is needed to make further progress in 
+statistical recording of FinTech activity and providers of digital ﬁnancial services more 
+generally.
+But there are also good news. The NACE classiﬁcation is about to be revised. It is 
+important that this revision, and possibly also a revision of the underlying ISIC, will 
+adequately reﬂect the development of the ﬁnancial sector by classifying FinTechs as 
+ﬁnancial enterprises.
+ﬁrms offering a mix of products and ﬁnancial services.
+ This may require a discussion on how to adequately capture 
+ [12]
+In order to enable statistics to register and map ﬁnancial activity in the economy, two 
+ingredients are needed. First, identiﬁcation of the key processes necessary to produce 
+ﬁnancial services. Second, a classiﬁcation of activities and products as "ﬁnancial”, no 
+matter whether they are provided by a traditional ﬁnancial institution or IT companies 
+specialized in elements of the ﬁnancial value chain. This will make statistical 
+measurement immune to outsourcing and specialization within the ﬁnancial industry 
+and ensure ﬂexibility with regard to future technological progress. Capturing ﬁnancial 
+services provided by BigTechs also requires that statistical reporting on the provision of 
+ﬁnancial services should not depend on the industry classiﬁcation of a ﬁrm.
+Monitoring FinTech services also requires new techniques for observing activities of 
+ﬁnancial and non-ﬁnancial enterprises. A combination of traditional survey techniques 
+and automated web scraping was recently used for the 2018 report on alternative 
+ﬁnance platforms in Europe by the Cambridge Centre for Alternative Finance.
+ [13]
+remains to be seen how well digitalized data collection techniques can be ﬁtted into the 
+infrastructure of oﬃcial statistics.
+ It 
+4 Summing Up
+Undoubtedly, technological innovation can bring important improvements in 
+productivity and convenience to the ﬁnancial services industry. It serves as a catalyst for 
+structural change and thus requires careful monitoring of market dynamics and 
+implications for risk.
+Going forward, I see four main priorities for regulators and supervisors:
+First, improving the statistics database on providers of digital ﬁnancial services is key. 
+We need better data to assess risks, vulnerabilities, and resilience. Entry into the 
+provision of ﬁnancial services should be conditional upon the provision of suﬃcient data 
+and information that allows regulators to make the necessary assessments of risks. A 
+recent survey by the Irving Fisher Committee shows that the statistical infrastructure is 
+not yet geared to this new phenomenon. There is a lack of shared concepts and data. 
+Strong cooperation on the national and the international level will thus be needed, 
+which is one of the priorities of future work in the IFC.
+Second, activities should be regulated irrespective of the institution offering it. This 
+should eliminate possibilities for regulatory arbitrage so that risks are not shifted from 
+regulated sectors toward new market participants for which these rules do not apply. 
+Hence, regulation of new market participants should follow the principle of “same risk, 
+same rules”.
+Third, speeding up structural change might be perceived as being excessively disruptive 
+at the current juncture. It may be argued that testing the new resolution regimes too 
+early could undermine the credibility of reforms. Yet, simply preserving the current 
+market structures entails risks as well. Protecting the market shares of (large) incumbent 
+ﬁnancial institutions might counteract the reforms’ objectives to address the too-big-to-
+fail issue. The potential for harnessing eﬃciency gains may be squandered.
+Fourth, close cooperation between regulators is needed. This includes international 
+cooperation in case innovations can have cross-border implications. But cooperation is 
+also needed between regulators such as competition authorities and ﬁnancial regulators 
+that have to assess and deal with relevant aspects of the same market.
+5 References
+Bazot, G. (2017). Financial Consumption and the Cost of Finance: Measuring Financial 
+Eﬃciency in Europe (1950–2007). Journal of the European Economic Association 16(1): 
+123–160.
+Beck, T., T. Chen, C. Lin, and F. Song (2016). Financial innovation: The bright and the 
+dark sides. Journal of Banking & Finance 72: 28-51.
+Berg, T., and J. Gider (2016). What Explains the Difference in Leverage between Banks 
+and Non-Banks?. Journal of Financial and Quantitative Analysis 52: 2677-2702.
+Berger, A. (2003). The Economic Effects of Technological Progress: Evidence from the 
+Banking Industry. Journal of Money, Credit and Banking 35(2): 141-176.
+Boyd, J. H., and G. De Nicoló (2005). The Theory of Bank Risk Taking and Competition 
+Revisited. The Journal of Finance 60(3): 1329-1343.
+Boyd, J. H., and A. Heitz (2016). The Social Costs and Beneﬁts of Too-big-to-fail Banks. 
+A “Bounding” Exercise. Journal of Banking and Finance 68: 251–265.
+Buch, C. M., E. Vogel, and B. Weigert (2018). Evaluating Macroprudential Policies. ESRB
+Working Paper No 76. Frankfurt a.M..
+Deutsche Bundesbank (2017). Financial Stability Review. November 2017. Frankfurt 
+a.M..
+Carletti, E., and A. Smolenska (2017). 10 Years On from the Financial Crisis: Co-
+Operation Between Competition Agencies and Regulators in the Financial Sector. OECD
+Directorate for Financial and Enterprise Affairs. Competition Committee. Working Party 
+No. (Number) 2 on Competition and Regulation. DAF/COMP/WP2(2017)8. Paris.
+Committee on the Global Financial System (CGFS) (2018). Structural Changes in Banking 
+after the Crisis. CGFS Papers No 60. Basel.
+Corbae, D., and R. Levine (2018). Competition, Stability, and Eﬃciency in Financial 
+Markets. In: 2018 Jackson Hole Symposium: Changing market Structure and 
+Implications for Monetary Policy. forthcoming.
+Davies, R., and B. Tracey (2014). Too Big to Be Eﬃcient? The Impact of Implicit Subsidies 
+on Estimates of Scale Economies for Banks. Journal of Money, Credit and Banking 46 
+(s1): 219–253
+Dell’Ariccia, G. (1998). Asymmetric Information and the Market Structure of the 
+Banking Industry. IMF Working Paper No. (Number) 98/92. Washington DC.
+Dell’Ariccia, G., E. Friedman, and R. Marquez (1999). Adverse Selection as a Barrier to 
+Entry in the Banking Industry. The RAND Journal of Economics 30(3): 515-534.
+Dorﬂeitner, G., L. Hornuf, M. Schmitt, and M. Weber (2017). FinTech in Germany. 
+Springer, Heidelberg, New York, London.
+European Systemic Risk Board (ESRB) (2019). EU Non-bank Financial Intermediation Risk 
+Monitor 2019. Frankfurt a.M..
+Financial Stability Board (FSB) (2019). FinTech and market structure in ﬁnancial services: 
+Market developments and potential ﬁnancial stability implications. Basel.
+Frame, S. (Seite), L. Wall, and L. White (2018). Technological Change and Financial 
+Innovation in Banking: Some Implications for Fintech. Federal Reserve Bank of Atlanta 
+Working Paper 2018-11. Atlanta.
+Frame, S. (Seite), and L. White (2014). Technological Change, Financial Innovation, and 
+Diffusion in Banking. The Oxford Handbook of Banking 2nd edn. Oxford.
+Freixas, X., and K. Ma (2014). Banking Competition and Stability: The Role of Leverage. 
+Tilburg University Discussion Paper 2014-009. Tilburg.
+Frost, J., L. Gambacorta, Y. Huang, H. S. (Seite) Shin, and P. Zbinden (2019). BigTech and 
+the changing structure of ﬁnancial intermediation. BIS Working paper. Basel.
+Fuster, A., M. Plosser, P. Schnabl, and J. Vickery (2018). The Role of Technology in 
+Mortgage Lending. FED New York. Staff Report No. (Number) 836. New York.
+von Kalckreuth, U., and N. Wilson (2019). Towards integrating Fintech into statistical 
+classiﬁcation systems – a process oriented approach. Irving Fisher Committee Working 
+Group on FinTech Data. Mimeo. Frankfurt a.M..
+Keeley, M. C. (1990). Deposit Insurance, Risk, and Market Power in Banking. American 
+Economic Review 80(5): 1183-1200.
+Leland, H. E., and D. H. Pyle (1977). Informational Asymmetries, Financial Structure and 
+Fi-nancial Intermediation. Journal of Finance 32(2): 371-387.
+Martinez-Miera, D., and R. Repullo (2010). Does Competition Reduce the Risk of Bank 
+Failure?. The Review of Financial Studies 23(10): 3638-3664.
+Mishkin, F., and P. Strahan. (1999). What will technology do to ﬁnancial structure?. 
+NBER Working Paper 6892. Cambridge MA.
+Philippon, T. (2015). Has the US Finance Industry Become Less Eﬃcient? On the Theory 
+and Measurement of Financial Intermediation. American Economic Review 105(4): 
+1408–1438.
+Philippon, T. (2019). On Fintech and Financial Inclusion. Mimeo. New York.
+Siegert, C., and M. Willison (2015). Estimating the Extent of the ‘Too big to fail’ 
+Problem – a Review of Existing Approaches. Bank of England Financial Stability Paper 
+32. London.
+Figures
+Figure 1: Interest margins in the German banking sector
+Source: Deutsche Bundesbank, Monthly Balance Sheet Statistics and Statistics of the Banks’ 
+Profit and Loss Accounts 
+The graph depicts the size-weighted ratio of the net interest margin to total assets for 
+different groups of banks. The net interest margin is deﬁned as the difference between 
+interest income and interest expenses. For the denominator the yearly average of total 
+assets is used. Interest margins in the German banking sector have been narrowing 
+steadily over the past decades. Recently, margins have come under pressure as it is 
+diﬃcult for banks to pass negative monetary policy rates on to customer deposits.
+Figure 2: Number of Banks in Germany 1950-2018
+Source: Deutsche Bundesbank, Monthly Balance Sheet Statistics 
+The process of consolidation, which had been evident for some time, gained traction in 
+the 1990s. This holds especially true for the cooperative bank sector with its very large 
+branch network, as credit institutions set out to streamline costs. Momentum waned 
+after the turn of the millennium, however. The aggregate number of institutions across 
+all categories of banks shrank by more than half between 1990 and 2015. Advancing 
+digitalisation has further eroded the importance of branches as a sales channel, while 
+the pressure to reduce the cost base through economies of scale has fostered the 
+spread of direct banking. The surge in 1985 can be ascribed to a one-off effect resulting 
+from the expansion of data collection for credit cooperatives from a partial to a 
+complete survey.
+Figure 3: Assets of German Banks (1950-2018)
+Source: Deutsche Bundesbank, Monthly Balance Sheet Statistics 
+Deregulation in the 1990s enabled large banks, in particular, to expand. The upturn in 
+capital market ﬁnancing was chieﬂy driven by four sets of ﬁnancial market promotion 
+legislation in Germany. The third legislation, dating from 1998, had the greatest impact 
+on the volume of bank debt issuance. The ﬁnancial crisis brought to a halt a trend of 
+ﬁnancial market liberalisation, which had been unfolding since the 1990s. The spread of 
+the subprime crisis to the money market in summer 2007 and the Lehman Brothers 
+failure in September 2008 made it more diﬃcult and more expensive for German banks 
+to obtain ﬁnance on the interbank and capital markets. In particular, the Landesbanken 
+and mortgage banks – categories of banks which had been hit hard by restructuring 
+and resolution – saw their total assets contract. This contributed signiﬁcantly to the 
+decline in the aggregated total assets of the German banking system. Implementation 
+of the German Act to Modernise Accounting Law (Bilanzrechtsmodernisierungsgesetz), 
+which introduced accounting of derivatives in the trading portfolio, is driving the 
+notable increase in the aggregated total assets of the German banking system in 2010. 
+This caused a large rise in total assets, especially for the big banks and the 
+Landesbanken.
+Figure 4: Entries and exits in the German banking sector
+Source: Deutsche Bundesbank, Statistics of Bank Offices and Supervisory Data 
+In the past, there have been relatively few market entries, most of them through 
+foreign banks. Mergers among smaller banks have been the main exit channel. 
+Implications for capacities in the banking sector have been limited though because the 
+merged banks typically carry on conducting the business of the absorbed entities. Other 
+exit channels, with potentially larger effects on overall capacities, have been more 
+limited.
+Footnotes:
+1. The IFC is a forum of central bank economists and statisticians that operates under 
+the auspices of the Bank for International Settlements (BIS).
+2. The results of the IFC-survey on Fintech data will be summarized in a report and 
+made publicly available on the BIS website (https://www.bis.org/ifc/publications.htm?
+m=3%7C46%7C94).
+3. These numbers are taken from Bloomberg and refer to the ﬁrst quarter of 2019.
+4. See Berg and Gider (2016) for a discussion on the leverage ratios of banks and non-
+ﬁnancial ﬁrms.
+5. Updated information on the evaluation, including consultative and ﬁnal reports, will 
+be available at: https://www.fsb.org/work-of-the-fsb/implementation-
+monitoring/effects-of-reforms/
+6. The G7 (Gruppe der Sieben) has, for instance, agreed on common principles for 
+addressing cyber risks: https://www.bundesbank.de/en/tasks/topics/g7-countries-
+adopt-reports-on-cybersecurity-764644
+7. See item 7 of the European Commission’s Banking Communication 2013: “Financial 
+stability remains of central importance in the Commission's assessment of state aid to 
+the ﬁnancial sector under this Communication.” Art. (Artikel) 107(3)b.
+8. BRRD, Art. (Artikel) 32(4)d: [an institution shall be deemed failing or likely to fail if] 
+“extraordinary public ﬁnancial support is required except when, in order to remedy a 
+serious disturbance in the economy of a Member State and preserve ﬁnancial stability 
+[…].”[…] “In each of the cases mentioned […], the guarantee or equivalent measures 
+referred to therein shall be conﬁned to solvent institutions and shall be conditional on 
+ﬁnal approval under the Union State aid framework.”
+9. In a similar vein, Carletti and Smolenska (2017) argue that viewing ﬁnancial 
+regulations through the lens of competition theory and enhancing cooperation 
+between different authorities can be beneﬁcial.
+10. Using a list of FinTech ﬁrms taken from Dorﬂeitner, Hornuf, Schmitt and Weber 
+(2017), von Kalckreuth and Wilson (2019) could match 180 of the 433 ﬁrms on that 
+list to entries in the Destatis Business Register.
+11. Data on the “use side” of FinTech by households and ﬁrms is also extremely scarce. In 
+this regard, an ongoing household survey on credit platforms and robo-advice run by 
+the Bundesbank may serve as a valuable prototype. First results are expected to be 
+published at the beginning of 2020.
+12. Issues related to the classiﬁcation of FinTech are discussed in von Kalckreuth and 
+Wilson (2019).
+13. See Ziegler, Shneor, Gravey, Wenzlaff, Yerolemou, Rui and Zhang (2018: p. 19) on 
+methodology.

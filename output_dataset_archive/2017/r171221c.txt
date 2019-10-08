@@ -1,0 +1,344 @@
+    
+ 
+Making banks resolvable: the key to making resolution work 
+ 
+Speech given by 
+Andrew Gracie, Executive Director, Resolution Directorate 
+   Risk Minds Conference, Amsterdam 
+4 December 2017 
+    
+All speeches are available online at www.bankofengland.co.uk/speeches 
+1 
+    
+ 
+Introduction 
+Resolution has come a long way since G20 Leaders put together the post-crisis financial reform agenda in 
+summits in London and Pittsburgh in 2009.1 In some ways, it represented the most notable gap, and 
+significant change in the pre-crisis regulatory architecture. Nearly ten years on, huge progress has been 
+made in establishing effective resolution arrangements and the commitment to ending too-big-to-fail (TBTF) 
+is undimmed. 
+The immediate priority in this effort was to put in place the necessary legal frameworks. Agreement in 2011 
+of Financial Stability Board (FSB) Key Attributes for Effective Resolution Regimes provided the international 
+standards to ensure a consistent approach to the design of resolution regimes across G20 jurisdictions. 2 
+The UK now has in place a comprehensive bank resolution regime that is compliant with international 
+standards and will remain so after Brexit. Similarly, for all advanced economies, there are now resolution 
+regimes that are largely compliant with the Key Attributes in all the jurisdictions that are home to global 
+systemically important banks (G-SIBs).  
+But the Key Attributes were about effective resolution regimes rather than resolvable firms – they defined a 
+tool-kit but not how to use it; and a process for resolution planning for G-SIBs but not what would make a firm 
+resolvable. Powers without resolvability leaves resolution authorities vulnerable. 
+Indeed, the moral for me of recent failures and near-failures is not that resolution is misguided and will not 
+work, but that it will not work if firms are not regulated and supervised in a way that makes them resolvable. 
+This is the story of the last five years. We have focussed on organising firms in such a way that authorities’ 
+resolution powers can be used without significant adverse consequences for the rest of the financial system 
+or the wider economy. This moves us progressively to where we want to be against risk appetite. And though 
+we are not yet where we finally need to be, what has been done has already yielded significant benefits. For 
+example rating agencies have largely removed government support uplifts to bank’ credit ratings.3 Where UK 
+firms have come under stress, our resolution arrangements have been one factor that has helped secure 
+recovery. 
+Today I want to review where we are on the journey: what has been done and what is left to do. I want to 
+focus in particular on three topics: 
+                                                       
+1 See FSB ‘Declaration on Strengthening the Financial System – London Summit’  (2009)  http://www.fsb.org/wp-
+content/uploads/london_summit_declaration_on_str_financial_system.pdf and FSB ‘ Leaders’ Statement the Pittsburgh Summit’ (2009) 
+http://www.fsb.org/wp-content/uploads/g20_leaders_declaration_pittsburgh_2009.pdf 
+2 See FSB ‘Key Attributes of Effective Resolution Regimes for Financial Institutions’ (2014) http://www.fsb.org/wp-
+content/uploads/r_141015.pdf.  
+3 See S&P Global ‘An Illustrative Rating Path for a Systemic Bank In A Bail-In Resolution’ (2017) 
+http://images.ratingsinfo.standardandpoors.com/Web/StandardPoorsRatings/Illustrative%20Rating%20Path.pdf.  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+2 
+ 
+2 
+   (i) 
+internal total loss-absorbing capacity (TLAC) or minimum requirements for eligible liabilities and 
+own funds (MREL) and the underpinning it provides for cross-border co-operation; 
+(ii)  bail-in mechanics – having required banks to maintain TLAC or MREL, we need, as resolution 
+authorities, to be clear how we would use it; and 
+(iii)  disclosure – resolution needs to be credible as well as feasible. With credibility comes market 
+discipline ex ante and less disruption in a resolution (lower probability of default and loss given 
+default in other words). 
+All three areas build on the core work of resolvability that has already been done, illustrating the point that 
+the process is incremental and resolvability is not binary but progressive. 
+Resolvability of firms 
+Let me start then by reviewing what has already been done. 
+I will focus on the standards and guidance coming from the FSB. It is true that they have been drawn up for 
+application to G-SIBs in Crisis Management Groups (CMGs). But in our view, they are equally applicable to 
+domestic systemically important banks (D-SIBs) or other firms where bail-in is the preferred resolution 
+strategy, especially where firms operate cross-border. 
+The convergence at international level on bail-in as the appropriate strategy for large banks is itself 
+significant. This transcends whether firms are single point of entry or multiple point of entry. And whether the 
+bail-in is effected by use of a bail-in tool in an operating bank or by application of a bridge bank tool at 
+holding company level. It represents the realisations that if we are to end TBTF we must have bail-ins 
+instead of bail-outs so losses can fall on investors not on taxpayers. And that the bail-in must enable 
+continuity in a firm’s operations to avoid interruption to critical functions and to buy time for an orderly 
+reorganisation of the firm to the extent necessary to deal with the problem that first caused the failure. 
+This shared understanding at FSB, and the desire to meet the goal set by G20 Leaders to end TBTF and the 
+risk of taxpayer bail-outs as soon as possible, has driven a focus on seeking changes at firms so that they 
+can be stabilised and enter resolution safely without disruption to critical functions. Hence the focus on two 
+dimensions: 
+ Loss absorbency: firms need TLAC in the right amount (enough not only to absorb losses but to 
+provide for recapitalisation so firms can continue to meet requirements for authorisation); in the 
+right form (debt with residual maturity of a year and subordinated to operating liabilities to avoid 
+breaches of the ‘no creditor worse off than insolvency’ (NCWO) safeguard or other challenges to 
+the bail-in and at the same time to provide clarity to depositors that they are not likely to be 
+bailed in); and in the right location (ensuring that resources are positioned within a group so that 
+the key operating companies containing a firm’s critical functions can be recapitalised 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+3 
+ 
+3 
+   immediately in resolution).As such, international agreement of the FSB’s TLAC standard in 2015 
+represented a major milestone in moving towards ending TBTF.4 
+-  Continuity of critical functions: the second main dimension of stabilisation is to ensure continuity 
+in a firm’s operations in resolution. Part of this is legal – changing contractual arrangements so 
+that entry into resolution does not result in widespread, disorderly termination, close-out or 
+acceleration in financial contracts, provision of services or access to financial market 
+infrastructures (FMIs). It is true that under the Key Attributes, resolution regimes include 
+statutory powers to stay. But statutory stays may not be effective cross-border. And, anyway, 
+repapering contracts helps to convey to counterparties that there will be continuity in resolution 
+and so reduce incentives to break for the exit. FSB has published guidance in this space for 
+operational continuity in resolution and continuity of access to FMIs.5 
+Perhaps the most notable effort has been FSB’s work with industry to agree a protocol to International 
+Swaps and Derivatives Association (ISDA) and other master netting agreements that addresses close-out 
+risk in over-the-counter (OTC), derivative and repo transactions.6 Agreement in 2014 of the universal 
+protocol amongst G-SIBs, and subsequently of jurisdictional modular protocols for individual jurisdictions to 
+bring in buy-side and non-G-SIB counterparties, is another major landmark in ensuring big international firms 
+are resolvable.7 The protocol is built around the premise that entry into resolution should not be classed as 
+an event of default as long as a firm continues to perform. 
+This underscores the importance of funding to making resolution credible. FSB set out principles on funding 
+in resolution in 2016 and just last week published for consultation guidance for use in CMGs on the liquid 
+resources and liquidity management capabilities firms require to be adequately resolvable and how liquidity 
+in firms might be bolstered in adverse cases by public backstops.8 CMGs will use the guidance to draw up 
+resolution funding plans setting out how, in order to achieve resolvability, liquidity and collateral should be 
+held in a group across legal entities, currencies and locations. 
+We have made good progress in regulating these various FSB standards in the UK, either through Bank of 
+England Policy statements or Prudential Regulation Authority (PRA) rules. UK banks have been given 
+indicative MREL requirement to meet by 2020; they will have operational continuity arrangements in place in 
+2019 (alongside the implementation of ring-fencing); and they are already trading on protocol terms with  
+                                                      
+4 See FSB ‘Principles on Loss-Absorbing and Recapitalisation Capacity of G-SIBs in Resolution’ (2015) http://www.fsb.org/wp-
+content/uploads/TLAC-Principles-and-Term-Sheet-for-publication-final.pdf.  
+5 See FSB ‘Guidance on Arrangements to Support Operational Continuity in Resolution’ (2015)  http://www.fsb.org/wp-
+content/uploads/Guidance-on-Arrangements-to-Support-Operational-Continuity-in-Resolution.pdf and  FSB ‘Guidance on Continuity of 
+Access to Financial Market Infrastructures (FMIs) for a Firm in Resolution’ (2016) http://www.fsb.org/wp-content/uploads/Continuity-of-
+Access-to-FMIs-Consultation-Document-FINAL.pdf.  
+6 See FSB ‘Cross-Border Recognition of Resolution Action’ (2014) http://www.fsb.org/wp-content/uploads/c_140929.pdf.  
+7 See ISDA ‘2014 Resolution Stay Protocol’ (2014) http://assets.isda.org/media/f253b540-25/958e4aed-pdf/, ISDA ‘ 2015 Universal 
+Resolution Stay Protocol’ (2015) http://assets.isda.org/media/ac6b533f-3/5a7c32f8-pdf/ and ISDA ‘ Resolution Stay Jurisdictional 
+Modular Protocol UK (PRA RULE) Jurisdictional Module’ (2016) http://assets.isda.org/media/f253b540-94/cd991d70-pdf/.  
+8 See FSB ‘Guiding Principles on the Temporary Funding Needed to Support the Orderly Resolution of a Global Systemically Important 
+Bank (“G-SIB”)’ (2016)  http://www.fsb.org/wp-content/uploads/Guiding-principles-on-the-temporary-funding-needed-to-support-the-
+orderly-resolution-of-a-global-systemically-important-bank-“G-SIB”.pdf and FSB ‘ Funding Strategy Elements of an Implementable 
+Resolution Plan’ (2017) http://www.fsb.org/wp-content/uploads/301117-2.pdf.  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+4 
+ 
+4 
+   
+ 
+buy-side firms as well as other G-SIBs. To the point that resolvability is progressive, the major UK banks on 
+average now have total loss absorbency of 23% measured against risk-weighted assets (RWAs) compared 
+to  an average end-state requirement of 28% (including buffers).9 
+As described, there is more to do in some of these areas. But increasingly the emphasis is on 
+implementation and, with it, assurance – how we supervise firms against these regulatory requirements and 
+hold them to account that identified barriers to resolvability are removed and stay removed. In describing the 
+progress towards end-state resolvability, I want to pick out three areas that will be a focus in the period 
+ahead.  
+(a)  Internal MREL 
+The first is internal MREL. One lesson that the crisis brought home is that the distribution of resources within 
+groups matters. While in life, firms might want to run themselves by business lines on a consolidated basis, 
+failure and resolution occurs at legal entity level.  
+It is understandable then that since the crisis that there has been a discernible tendency for host authorities 
+to hold onto more resources, capital and liquidity, or to force activity in branches into subsidiaries. The aim at 
+FSB level with TLAC was to lean against this tendency towards fragmentation of international groups by 
+providing comfort to authorities cross-border, not only that groups would have sufficient external TLAC to be 
+resolvable but also that resources would be prepositioned as internal TLAC in material subsidiaries in host 
+jurisdictions. 
+Previous international regulation of financial resources in groups has, like the Basel Accord, typically 
+focussed more on the consolidated level. Now applying TLAC regulation at legal entity level has brought with 
+it challenges. 
+One is timing: it is hard to roll out internal TLAC for a group until TLAC requirements are in place in all the 
+jurisdictions relevant for the material subsidiaries. The Bank is in the middle of consulting on its internal 
+MREL policy10 but many other jurisdictions – notably the Banking Union, Switzerland and Japan – have still 
+not set policy. 
+Another challenge is arithmetic: to the extent that there are financial dependencies between legal entities 
+within a group the sum of solo RWAs is likely to be greater than consolidated RWAs. If a full TLAC 
+requirement were applied to each subsidiary then the sum of the internal TLAC would exceed the 
+consolidated TLAC requirement for the group as a whole. 
+                                                      
+9 The Bank of England published loss-absorbing capacity requirements for major UK banks in 2016 shortly after responding to the 
+Treasury Committee’s inquiry into capital. See 
+http://data.parliament.uk/writtenevidence/committeeevidence.svc/evidencedocument/treasury-committee/capital-and-
+resolution/written/69208.pdf.  
+10 The Bank of England published a consultation paper on its approach to setting a minimum requirement for own funds and eligible 
+liabilities (MREL) within groups on 2 October 2017. See https://www.bankofengland.co.uk/-/media/boe/files/financial-
+stability/resolution/internal-mrel-consultation-october-2017.pdf?la=en&hash=33594C3FB3C7F1D129033AFE4E3A2BF20A4F9AA8 . 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+5 
+ 
+5 
+   
+ 
+This was addressed in the TLAC term sheet in two ways:  
+ by limiting internal TLAC only to subgroups and subsidiaries that are material to the group, 
+accounting for more than 5% of RWAs or income. The logic there was that at that level failure of 
+the material entity might trigger resolution of the group as a whole; problems for smaller entities, 
+even those that might house functions that are critical to the host jurisdiction, should be more of 
+a recovery matter. 
+ by including a provision that internal MREL for subgroups should be scaled in single point of 
+entry (SPE) groups to 75-90% of the requirement that would apply to the subgroup on a 
+standalone basis. The logic was that given the interdependence in the business models of SPE 
+firms, prepositioning in this range would be sufficient to secure cooperation and deter hosts from 
+ring-fencing, and home authorities from cutting off, foreign subsidiaries. Prepositioning of 
+resources in this way will provide concrete underpinning for cooperation that goes beyond the 
+paper commitments to cooperate in Memorandum of Understandings (MOUs), honoured in the 
+breach in previous cross-border failures. 
+Even with these restrictions there may still be a sum of the parts problem in which the sum of TLAC 
+requirements at solo level pushes up external requirements. If internal TLAC requirements are high they are 
+also likely to stand in the way of holding a surplus at the top of the group that could provide flexibility in 
+covering losses if they are concentrated in a particular part of a group. 
+Thus in our internal MREL policy our intention is first to consider setting internal MREL generally for the firm 
+at the bottom of the 75-90% range.11 But to set a higher requirement if we have doubts about: the home 
+resolution strategy, the availability of a surplus at the top of the group or a lack of reciprocity in MREL-setting 
+in other jurisdictions (that is others all set at the 90% end of the range). We expect to say more about surplus 
+MREL and the form it should be held in to be readily available when we come to finalise our internal MREL 
+policy next year. 
+Another important objective for us in setting policy on internal MREL is to avoid any distortion in the 
+sequence of loss absorption between operating companies (OpCo) and the group holding company 
+(HoldCo). We require UK banks to issue external MREL out of their HoldCos, structurally subordinated to 
+liabilities at the OpCo. The issuance proceeds are then onlent to the OpCo as internal MREL broadly 
+mirroring their external form, for example: Tier 2 could be onlent as Tier 2, AT1 as AT1 and senior debt out of 
+HoldCo would be downstreamed as an internal debt instrument sitting senior to capital instruments but junior 
+to operating liabilities in the OpCo. 
+We need to be sure that as losses are incurred in the operating company they are absorbed in an order that 
+follows the OpCo creditor hierarchy and does not bypass certain instruments. The aim with a single point of 
+                                                      
+11 Our starting point for calibrating internal MREL for ring-fenced bank sub-groups would be 90%, with the possibility that this could be 
+scaled down if there are sufficient readily deployable resources. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+6 
+ 
+6 
+   
+ 
+entry bail-in strategy, as the name suggests, is only to put one entity at the top of the group into resolution, 
+preferably a holding company which is only used for issuing capital instruments to the market and otherwise 
+has no or limited operating liabilities. 
+Write down or conversion of internal MREL instruments via contractual triggers will then allow operating 
+companies lower down the group to be recapitalised automatically without putting them into resolution. But 
+legacy non-equity capital instruments in OpCos without the requisite contractual triggers could cut across 
+this. We do not want these to be spared bearing losses for want of a trigger. And so, we are clear that such 
+instruments should not count as MREL beyond 31 December 2021 and if not matured by then we will work 
+with firms to remove them if they represent a barrier to the resolution strategy. 
+This is part of a larger effort to add to the credibility of resolution by being clear to debt investors and other 
+stakeholders how a bail-in will work in practice. We want debt investors to be able to price risk effectively by 
+being clear about where they rank in the creditor hierarchy and to give them confidence that we can stick to 
+the hierarchy in applying losses and that we will not be picking winners and losers within a class. Counting 
+as MREL senior debt issued out of operating companies without subordination looks like a recipe for 
+undermining that confidence. 
+(b)  Bail-in execution 
+We also want to be clear as a resolution authority how we will conduct the resolution in a way that preserves 
+value and distributes it fairly, ensuring no creditor worse off protections are met. To that end, we have 
+thought hard about the valuation capabilities we need firms to have so that we can value losses and 
+recapitalisation needs in an effective and timely way. We have just consulted on a set of principle level 
+requirements and expect to finalise policy in this space in the next few months.12 
+We believe that the bail-in valuation for a large cross-border firm is not something that can be fixed over a 
+weekend. Valuation on that timetable will inevitably tend to overshoot on the estimation of losses, not least 
+because a significant driver of the valuation will be the reorganisation that follows the bail-in and the 
+restructuring costs and disposal valuations associated with that. 
+Rather, it is our intention to take several months for the bail-in valuation to ensure that through an 
+independent valuation process, losses as far as possible are bottomed out and tie back to the reorganisation 
+plan for the surviving business. It will be critical to determine the net asset value that had been generated in 
+the bail-in and the liability holders it should go to as compensation. 
+You may ask, what happens in the intervening period? From the perspective of the debt investor, our 
+intention on entry to resolution is to take control of the shares in issue and immobilise all the other external 
+                                                      
+12 The Bank of England published a consultation paper on valuation capabilities to support resolvability on 17 August 2017. See 
+https://www.bankofengland.co.uk/-/media/boe/files/financial-stability/resolution/boes-proposed-policy-on-valuation-capabilities-to-
+support-resolvability.pdf?la=en&hash=4044F91DF1DDE7A131EA3186F66F304380553306 .  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+7 
+ 
+7 
+   
+ 
+MREL instruments at the relevant international central securities depository (ICSDs) and central securities 
+depository (CSDs). We will at the same time issue onto the bondholders accounts at the ICSDs a tradeable 
+certificate of entitlement secured by the shares in issue. There will be as many classes of certificate as there 
+are classes of claim. Once the valuation is complete and we have announced the terms of exchange, holders 
+will present the certificates in exchange for whatever equity they are entitled to as compensation. The 
+resulting shareholders will then vote in a new board and the firm will return to private sector control. 
+Issuing certificates of entitlement in this way will provide a mechanism for debtholders that do not want to, or 
+due to their mandates, are not able to hold equity to trade out of their positions. And this will have an 
+ancillary benefit for us of providing some sort of shadow market valuation of the firm. 
+But what about other liability holders – depositors, market counterparties, trade creditors etc. – during this 
+interval? 
+Our aim with the announcement of the resolution is to send a strong signal to them that their claims are safe 
+and that the operating companies they are transacting with will continue to perform. 
+Full conversion of internal MREL in the key operating companies around the group and a strong sense that 
+the firm will have access to liquidity will contribute to that. To this end, the Bank has established new 
+arrangements to clarify, first, that a firm in resolution would continue to have access to the ordinary central 
+bank facilities in the Sterling Monetary Framework, subject to meeting the necessary eligibility criteria. And 
+second, those arrangements will be supplemented where necessary by a flexible Resolution Liquidity 
+Framework, designed to provide liquidity, in sterling or foreign currency, in the necessary scale, for a 
+sufficient period of time, and secured against a wide range of collateral to allow the firm to make the 
+transition to market-based funding.13 Sending a strong message in this way at the outset of the resolution will 
+maximise the chances of stabilising the firm and if liability holders know their claims will be refinanced, 
+reduce the risk of a further run. 
+This need for clarity is understood at international level. FSB has just published a consultation paper on  
+bail-in execution addressing a number of issues I have described including valuation and exchange 
+mechanics.14 Not least there are important home-host dependencies that need to be addressed. After all, in 
+a UK G-SIB resolution we will need to bail-in debt on both sides of the Atlantic, in the Depository Trust and 
+Clearing Corporation (DTCC) as well as Clearstream and Euroclear. This includes working through with 
+market regulators the securities law issues that will arise through a bail-in, ensuring that disclosure and 
+listing requirements continue to be satisfied.  
+                                                       
+13 See Box 2 – the Bank’s approach to providing liquidity in resolution in https://www.bankofengland.co.uk/-/media/boe/files/financial-
+stability/resolution/boes-approach-to-resolution.pdf?la=en&hash=8213BE00D67C4CADB948D51FEBD164E136A70BE6  
+14 See FSB ‘ Principles on Bail-In Execution’ (2017) http://www.fsb.org/wp-content/uploads/P301117-1.pdf 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+8 
+ 
+8 
+   (c)  Disclosure 
+The third and final area I want to address is disclosure. A recurrent theme of my remarks has been the 
+importance of ex ante disclosure to making resolution credible and to realising the benefits of increased 
+market discipline. We want debt investors to have the information they need to price risk and so support the 
+proposals in the TLAC term sheet and Basel’s Pillar 3 Framework that require banks to disclose the rank 
+ordering of their liability structure at legal entity level. 
+As I have described, we want debtholders and other stakeholders to understand how we will use out 
+resolution powers and so have published a document setting out our approach to resolution – otherwise 
+known as the Purple Book.15 The latest edition in October indicates how far we have come since we first 
+published the Purple Book in 2014. But we have further to go. 
+It is our intention – which we indicated to the Treasury Select Committee in March – to publish summaries of 
+the resolution plans for the major UK banks and our assessment of their resolvability. We will do this after the 
+start of 2019 when ring-fencing, the first level of TLAC requirements and operational continuity in resolution 
+arrangements are in place. 
+As an institution we want to be open and accountable. As a resolution authority we need to be for it to work. 
+There is a famous Chinese proverb that notes a journey of a thousand miles begins with a single step. On 
+the resolution journey there have been a lot of steps – in fact we could all be forgiven for feeling footsore – 
+but the thousand mile marker is coming into view. 
+                                                      
+15 See the Bank of England’s approach to resolution https://www.bankofengland.co.uk/-/media/boe/files/financial-
+stability/resolution/boes-approach-to-resolution.pdf?la=en&hash=8213BE00D67C4CADB948D51FEBD164E136A70BE6 . 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+9 
+ 
+9 
+ 

@@ -1,0 +1,808 @@
+Ignazio Visco: The aftermath of the crisis – regulation, supervision and 
+the role of central banks 
+Lecture  by  Mr  Ignazio  Visco,  Governor  of  the  Bank  of  Italy,  at  Harvard  Kennedy  School, 
+Cambridge (USA), 16 October 2013. 
+ Previous versions of this text were used for lectures at the Imperial College in London and at the Accademia dei 
+Lincei  in  Rome  in  March  2013.  I  wish  to  thank  for  useful  discussions  and  help  Fabrizio  Balassone,  Paolo  Del 
+Giovane, Alessio De Vincenzo and Giuseppe Grande. 
+Introduction 
+The  financial  crisis  has  brought  to  the  fore  a  number  of  issues.  It  has  been  severe  and 
+widespread,  and  has  affected  many  economies  in  different  and  long-lasting  ways. 
+Maintaining  financial  stability  has  once  again  become  a  major  concern  of  policy  makers; 
+central banks are being heavily involved in this endeavour. A clear need has emerged for a 
+substantial overhaul in financial regulation and supervision, also considering that the financial 
+system of tomorrow will most likely be rather different from the one that has developed over 
+the  last  two  decades.  Scepticism  has  grown  about  the  role  of  finance  in  the  economic 
+system,  and  especially  its  apparent  separation from,  if  not conflict  with, the  real  economy. 
+We should take stock of what has gone wrong, and in so doing reflect on the way forward, as 
+it  is  already  taking  shape,  as  well  as  on  how  to  better  link  our  theories  to  real  world 
+developments.  
+In  the  decade  before  the  crisis  both  the  size  of  the  financial  system  and  its  role  and 
+pervasiveness  in the economy increased dramatically. The process has only  slowed down 
+with the crisis. In the euro area, the overall amount of financial resources collected by the 
+private sector (bank credit, bonds issued domestically and stock market capitalization) rose 
+from 140 per cent of GDP in 1996 to 210 in 2007, to further increase to 240 in 2012. Broadly 
+similar patterns are found for the United States, where the ratio rose from 230 per cent in 
+1996  to  360  in  2007  and  then  declined  to  310  in  2012,  and  for  the  UK,  where  the  ratio 
+increased from 280 to 440 per cent and then remained stable. The total outstanding notional 
+amount of over-the-counter (OTC) and exchange-traded derivatives has risen from less than 
+100 trillion US dollars at the end of 1998 to around 500 trillion at the end of 2006, 700 at the 
+end of 2007 and still 700 trillion in December 2012. 
+Financial deepening, by allowing greater diversification of risk and making finance accessible 
+to  larger  numbers  of  countries  and  firms,  can  be  instrumental  to  broadening  economic 
+development. But there is a risk that finance turns into an end in itself, with consequences 
+that can be more damaging as the system becomes more interconnected and the potential 
+for externalities increases. 
+At  the  same  time,  the  interaction  between  monetary  policy  and  financial  stability  becomes 
+more relevant as heightened financial complexity amplifies the widespread non-linearities in 
+the dynamics of financial and economic variables and the consequences of interconnections 
+between  the  financial  and  the  real  side  of  the  economy.  In  these  conditions,  the  risk  of 
+systemic crises increases. 
+The correct conduct of financial business requires competence and good faith on the part of 
+intermediaries,  as  well  as  appropriate  regulatory,  supervisory  and  policy  regimes. The fact 
+that fragilities in the financial system were not properly and timely identified, and that their 
+potential consequences for macroeconomic and price stability  were largely underestimated 
+reflects inadequacies in regulation and supervision, as well as in the analytical framework for 
+monetary policy.  
+BIS central bankers’ speeches 
+ 1 
+The financial crisis has provided two main lessons for policy-makers: first, complexity is not a 
+justification  for  a  light-touch  approach  to  regulation  and  supervision,  quite  the  contrary; 
+second,  financial  stability  is  a  precondition  for  price  stability.  Two  implications,  then,  have 
+followed  suit:  on  the  one  hand,  a  deep  and  far-reaching  reform  in  financial  regulation  and 
+supervision  was  needed  (including  tighter  international  cooperation),  on  the  other  hand, 
+central banks had to rethink their role and the tools of their trade, specifically concerning the 
+relationship between monetary and macroprudential policies. 
+“Good” finance as a force for good  
+Finance has long been viewed as a morally dubious activity. My appeal to authority on this 
+matter is a reference to a lecture delivered by Amartya Sen more than twenty years ago as 
+the  first  Paolo  Baffi  Lecture  on  Money  and  Finance  at  the  Banca  d’Italia.  Sen  wondered: 
+“How  is  it  possible  that  an  activity  that  is  so  useful  has  been  viewed  as  being  morally  so 
+dubious?”.1  He recalled a series of historical episodes: Jesus driving the money lenders out 
+of  the  temple,  Solon  cancelling  debts  and  prohibiting  many  types  of  lending  in  ancient 
+Greece, Aristotle describing interest as an unnatural and unjustified breeding of money from 
+money. 
+Superimposed  on  this  “structural”  mistrust,  one  can  detect  cyclical  patterns  in  the  public’s 
+attitude  towards  finance,  affected  by  the  conditions  of  financial  systems  and  shifts  in  the 
+political  mood  about  state  intervention  in  the  economy.  Until  the  1970s  it  was  taken  for 
+granted  that  market  failures  required  the  presence  and  response  of  a  regulator  to  avoid 
+suboptimal  results.  Then  came  the  great  inflation  of  the  1970s,  combined  with  high 
+unemployment,  and  the  emphasis  shifted  to  government  failures.  Governments,  central 
+banks  and  other  regulators  were  blamed  for  failing  to  prevent  these  developments.  This 
+eventually led to an ideological swing: a push to reduce the extent of state intervention. The 
+failures  of  the  “regulated  economy,”  the  pace  of  technological  advance  and  the  rapid 
+expansion of international trade after the end of the Cold War fuelled a protracted process of 
+financial deregulation that was halted only by the financial crisis that broke out in 2007. The 
+latter triggered a move toward re-regulation – or better regulation – that is still under way. 
+The pendulum keeps swinging and will certainly continue to do so. 
+The  global  financial  crisis,  with  its  huge  costs  for  the  whole  society,  has  caused  a  further 
+deep erosion of the trust in financial institutions. Witness to this are the widespread protests 
+against the financial industry, from the Occupy Wall Street movement to the “Indignados” in 
+Spain and their counterparts in other European countries. Anger has been fuelled not only by 
+the discovery of wrongdoings and perverse incentives, but also by a perceived lack of action 
+against those responsible, in a context of exceptionally high remunerations. The integrity of 
+financial  intermediaries’  codes  of  conduct  has  been  called  into  question  under  many 
+dimensions: honesty, the ability to manage financial risks and the commitment to take care of 
+the interests of their clients. 
+In the first place, public attention was caught by cases of investment fraud, in which Ponzi 
+schemes  or  other  types  of  malpractice  and  malfeasance  led  many  people  to  lose  their 
+savings.  Feelings  were  exacerbated  by  the  generous  severance  packages  paid  to  top 
+managers after distressed financial institutions were rescued with taxpayer money. Dubious 
+practices  were  found  in  key  junctures  of  the  financial  systems,  such  as  credit  ratings  and 
+interbank reference rates, not to mention the allegations of financial institutions’ involvement 
+in activities related to money laundering and other fraudulent practices. 
+Most  importantly,  the  crisis  has  shown  that  market  participants  were  not  capable  of 
+mastering  the  inherent  complexity  of  the  system  that  they  themselves  had  contributed  to 
+                                                
+1  A. Sen, Money and value: on the ethics and economics of finance, Paolo Baffi Lecture on Money and Finance, 
+Rome, Bank of Italy, 1991, p. 28. 
+2 
+ BIS central bankers’ speeches 
+financial 
+regulated 
+the  OTD 
+took  place 
+transparency, 
+technology  and 
+through  scarcely 
+telecommunications, 
+finance  products  and 
+favoured  excessive  risk 
+intermediation  model  can 
+develop  over  the  course  of  the  last  two  decades.  Favoured  by  the  breakthroughs  in 
+information 
+the  securitization  of  banks’  assets 
+expanded considerably, together with the supply of so-called structured financial instruments 
+(ABSs, CDOs, etc.). The traditional model of credit intermediation gave way, especially but 
+not only in the United States, to a system in which loans granted were rapidly transformed 
+into other financial products having these loans as collateral and sold on the market: the so-
+called originate-to-distribute model (OTD). To the inherent difficulty of evaluating the quality 
+of loans, these developments added the problem of fully understanding the role of structured 
+finance products. 
+Structured 
+facilitate  risk 
+management.  The  granting  of  mortgages  to  households  is  favoured  by  the  possibility  of 
+managing the related interest-rate risk; the internationalization of firms depends crucially on 
+the  possibility  of  hedging  foreign  exchange  risk;  and  the  provision  of  retirement  saving 
+products  at  low  cost  over  very  long  time  horizons  benefits  from  the  ability  to  mitigate  the 
+impact of fluctuations in security prices. With the OTD model, credit risk is not concentrated 
+in the banks’ books, but is potentially dispersed among a multitude of investors. By making 
+bank loans tradable, it reduces their illiquidity premium thus decreasing their cost. 
+However, we now understand that structured finance and OTD intermediation, coupled with 
+lack  of 
+taking  and  opportunistic  behaviour. 
+Transactions  often 
+intermediaries 
+characterized by high leverage and risk exposure, whose valuation (in which a crucial role 
+was  played  by  rating  agencies,  without  any  particular  control  by  regulatory  authorities  or 
+information providers) was carried out by means of statistical models and often on the basis 
+of  incomplete  and  insufficient  data.  In  many  instances  complexity  was  instrumental  to 
+opportunistic behaviour fuelled by a distorted system of incentives especially with reference 
+to executive compensation. The high leverage and complexity typical of structured financial 
+instruments allowed them to be used to take high-risk, speculative positions. 
+Unnecessarily  complex  and  opaque  assets  were  used  to  prevent  a  correct  assessment  of 
+creditworthiness or mask the economic impact of previous transactions, exploiting the ample 
+scope  for  interpretation  allowed  by  accounting  standards.  Banks’  misuse  of  these 
+instruments  may  also  be  linked  to  the  drying-up  of  the  sources  of  income  from  traditional 
+credit business. This may have triggered actions designed to conceal from the market and 
+from supervisors the real object of derivatives transactions. 
+The bottom line is that financial innovation can allow more efficient allocation of credit risk, 
+but it also entails a number of dangers, some of them intrinsic to its mechanism, others more 
+generally  related  to  the  greater  interdependence  of  the  financial  system.  The  process  of 
+financial  consolidation  and  the  OTD  model  have  produced  intermediaries  that  are  closely 
+intertwined with the capital markets. This has had some important consequences for financial 
+stability: a more connected world improves risk diversification and can make markets more 
+resilient, but when contagion is actually set off, an interlinked financial system heightens the 
+risk that it may spread more widely. 
+But the negative perception of banking and finance should not lead to a blind backlash. As 
+Amartya  Sen  argued,  “finance  plays  an  important  part  in  the  prosperity  and  well-being  of 
+nations”.2  It  is  crucial  for  sharing  and  allocating  risk,  especially  for  poorer  societies  and 
+people, insofar as risk aversion decreases with wealth. It is crucial for transferring resources 
+over  time  and  removing  the  liquidity  constraints  that  hamper  the  economy  and  the 
+exploitation  of  ideas.  It  is  very  important  in  promoting  economic  growth,  especially  by 
+fostering innovation. 
+                                                
+2  A. Sen, ibidem, p. 28. 
+BIS central bankers’ speeches 
+ 3 
+Indeed,  we  have  countless  historical  examples  of  good  financial  innovations.  Think,  for 
+example,  of  the  “letters  of  exchange”  introduced  by  Italian  merchants  in  the  Middle  Ages: 
+they  were  probably  the  first  fiduciary  money,  and  trade  benefited  enormously  from  this 
+financial  instrument.  More  recently,  consider  the  development  of  “micro-finance”  in  the 
+1970s:  an  innovation  that  has  enhanced  financial  inclusion,  helping  poor  borrowers  to 
+smooth  their  income  and  cope  with  illness  or  other  temporary  shocks.  And,  in  the  last 
+decades of the past century, recall the role of the “venture capital” industry in the promotion 
+of successful innovative corporations such as Apple, Google or Intel. 
+Some countries are now increasingly investing in efforts to improve the financial literacy of 
+the public, and this too is important. On the one hand, it helps to build the demand side of a 
+more inclusive finance. On the other, financially literate citizens are better able to understand 
+the efforts of regulators and policy makers to improve supervision and regulation, and less 
+likely to subscribe to the simplistic view that “finance is evil”. But we should realise that – as 
+the case of Bernard Madoff and others in the US and elsewhere clearly show – this is no 
+panacea (Madoff’s customers were surely much better educated than average). Therefore, 
+for purposes of consumer protection in the financial services industry, regulation and good 
+supervision are the necessary complements to education and inclusion. 
+Complexity  was  used,  somewhat  perversely,  as  an  argument  in favour of  a  sort  of  benign 
+neglect  on  the  part  of  regulators.  The  big  financial  players  argued  successfully  that 
+innovation  was  too  complex  and  too  opaque  for  the  regulators  to  get  their  heads  around. 
+Indeed, they said, to safeguard the international financial system from systemic risk, the main 
+priority  was  promoting  an  “industry-led”  effort  to  improve  internal  risk  management  and 
+related  systems.  This,  in  a  nutshell,  was  the  view  espoused  by  the  Group  of  Thirty  report 
+following  the  outbreak  of  the  Asian  crisis.3  But  this  thesis  was  often  accompanied  by  the 
+argument to the effect that “you, regulators and supervisors, will always be behind financial 
+innovation;  it  would  be  better  to  allow  us,  the  big  financial  international  players,  to  self-
+regulate;  we  are  grown-ups,  we  can  take  care  of  ourselves”.  And,  after  all,  “if  someone 
+makes mistakes some will gain what others lose; why can’t we be left alone to play this zero-
+sum game of ours?” 
+The regulators did not, in fact, have either the ability, or the right incentives to acquire the 
+necessary information to deal with complexity, for two reasons. First, the big financial players 
+are global, and national regulators had powers too narrow to be able to confront them. The 
+difficulties  in  coordinating  the  regulators’  actions,  in  the  face  of  a  natural  tendency  to 
+preserve each one’s particular sphere of influence, was a powerful drag on the ability to rise 
+to  the  challenge  posed  by  a  finance  gone  global.  Second,  the  phenomenon  of  regulatory 
+capture was a definite reality. Powerful political and economic influences were at play, and in 
+some cases prevailed. 
+Accepting the idea that benign neglect was the right course of action was, however, a critical 
+mistake. The global financial crisis has highlighted the limits of the idea that self-regulation 
+and  market  discipline  are  sufficient  to  ensure  stable  financial  systems.  Regulation  and 
+supervision have to keep pace with developments in the industry. National authorities need 
+to be aware of the risk that their powers become narrow compared to the sphere of influence 
+of the global players; the coordination of supervision across borders and across sectors is a 
+key condition for the stability of the global financial system. More importantly, regulators and 
+supervisors have to pay attention to keeping industry lobbies at due distance.  
+To a significant extent, the recent crisis also owes to insufficient market discipline (including 
+the role played by credit rating agencies), which failed to reign in (or even counter) in a timely 
+                                                
+3  Group  of  Thirty,  Global  institutions,  national  supervision  and  systemic  risk,  1997.  See  also  the  article  by 
+J. Heimann, with the same title, and comments therein, in the special issue of Banca Nazionale del Lavoro 
+Quarterly Review on “Globalization and stable financial markets”, March 1998. 
+4 
+ BIS central bankers’ speeches 
+way  imprudent  behaviour,  excessive  leverage,  or  over-borrowing  on  the  part  of  financial 
+intermediaries (and sovereigns as well). At the same time, monetary policy overlooked the 
+risks for price stability coming from the financial sector. The idea that it is optimal to “mop-up” 
+after a bubble has burst rather than implementing “leaning against the wind” policies, which 
+seemed  to  have  passed  the  test  of  the  dot-com  bubble,  led  to  a  long  period  of  excessive 
+monetary accommodation.  
+It has now indeed become clear that financial stability is a precondition for price stability and 
+that the “mop-up” approach is not always the best strategy. Notwithstanding huge monetary 
+and  fiscal  interventions, six  years  after  the  burst  of  the  credit-fuelled  housing  bubble  most 
+advanced economies are not yet back on stable growth trajectories. A key lesson of the last 
+decade,  also  supported  by  an  increasing  number  of  theoretical  and  empirical  analyses,  is 
+that too low for too long interest rates can stimulate risk taking and sow the seeds for the 
+next crisis if left unchecked by regulators and markets alike. 
+All this called for a major effort, at a national but especially at an international level, to adjust 
+and  strengthen  the  regulatory  and  supervisory  financial  framework.  It  has  also  suggested 
+that central banks should rethink their role and their instruments. This I will attempt to review 
+and  assess  in  what  follows.  I  will  also  briefly  discuss  the  importance  of  advances  in  our 
+analytical understanding of the workings of financial markets and of its deviations from the 
+stationarity assumption.  
+In search of a better regulatory and supervisory regime 
+Over  the  last  few  years  the  crisis  has  heightened  appreciation  of  the  benefits  of  a  more 
+stringent regulatory regime. At an international level, under the political impulse of the G-20, 
+the  Financial  Stability  Board  (FSB)  and  the  Basel  Committee  on  Banking  Supervision 
+(BCBS) have introduced substantial regulatory changes to reduce the frequency of financial 
+crises and increase the resilience of economic systems. Much has been achieved.  
+The quantity and quality of capital that banks need to hold has been significantly enhanced to 
+ensure  that  they  operate  on  a  safe  and  sound  basis.  Minimum  capital  requirements  have 
+been raised. The improvement in the quality of capital aims to ensure that banks are better 
+able to absorb losses on both a going concern and a gone concern basis. The risk coverage 
+has been increased, in particular for trading activities, securitisations and exposures related 
+to  off-balance  sheet  vehicles  and  arising  from  derivatives.  An  internationally  harmonised 
+minimum leverage ratio is going to be introduced, to serve as a backstop to the risk-based 
+capital measure and to contain the build-up of excessive leverage in the system. 
+The  BCBS  has  also  introduced  international  standards  for  bank  liquidity  and  funding, 
+designed to promote the resilience of banks to liquidity shocks. A minimum requirement for 
+the ratio between high quality liquid assets and net liquidity outflows that banks would face 
+over a one-month horizon in stress conditions (Liquidity Coverage Ratio – LCR) will soon be 
+adopted. The minimum LCR will increase gradually in the coming years, so as to ensure that 
+the new liquidity standard will not hinder the ability of the global banking system to finance 
+the recovery. 
+At the behest of the G-20, the FSB has promoted initiatives to strengthen the regulation of 
+the  OTC  derivatives  market.  The  aim  is  to  reinforce  market  infrastructures,  in  order  to 
+minimise contagion and spill-over effects among players that have become more and more 
+interconnected. These initiatives will increase transparency through requirements to trade on 
+organised  platforms  and  to  report  transactions  to  trade  repositories.  They  will  also  reduce 
+and allow more systematic control of cross-exposures between financial firms in this market, 
+by  ensuring  that  central  counterparties  are  placed  between  the  two  participants  in 
+standardised transactions and by setting minimum capital and margining requirements. 
+But further progress is needed in important areas. Work should focus on internal risk control 
+arrangements and disincentives to excessive risk-taking, on the rapid implementation of the 
+BIS central bankers’ speeches 
+ 5 
+set  of  policies  developed  to  address  systemic  risks  from  shadow  banking,  on  reducing 
+market  participants’  mechanistic  reliance  on  credit  rating  agencies,  on 
+increasing 
+transparency,  including  by  completing  international  convergence  of  accounting  standards. 
+Board  members  and  senior  managers  should  possess  a  thorough  understanding  of  the 
+financial firms’ overall operational structure and risks. 
+It is also fundamental that supervisors regularly assess banks’ corporate governance policies 
+and  practices.  Compensation  policies  need  to  be  revised,  in  order  to  better  align 
+remuneration with risk-adjusted long-term performance and avoid excessive risk-taking and 
+short-termism. In particular, when designing compensation policies, banks should take into 
+account a number of issues: the variable portion of the compensation of risk takers must be 
+paid on the basis of individual, business-unit and firm-wide measures that adequately assess 
+risk-adjusted  performance;  bonuses  must  reward  the  achievement  of  stable  earnings,  not 
+simply  the  fruit  of  extraordinary  operations;  executives’  severance  packages  too  must  be 
+clearly and effectively bound to the results attained, and reflect a more general evaluation of 
+the manager’s performance; compensation must be deferred long enough to validate the true 
+quality of management. 
+The debate that has started with the so-called Volcker rule on the organizational structure of 
+banks and the need to separate traditional credit business from activity in the financial field 
+has been reinvigorated at a European level by the reports of the Vickers Commission in the 
+United Kingdom and the Liikanen Group for the whole European Union. Both the Volcker rule 
+and these reports call for a much needed discussion around business size and complexity in 
+the financial sector; the experience of the crisis has indeed shown that we should not be shy 
+to thoroughly re-assess relative merits and costs of both (size and complexity). These reports 
+trace out possible lines of intervention. Protecting retail deposits and taxpayers’ money from 
+the  risks  implicit  in  trading  activities  (what  used  to  be  called  “speculation”)  –  the  rationale 
+behind these proposals – is crucial. The experience of the crisis has shown that, even if no 
+specific business model has performed particularly well or poorly, the banks’ organizational 
+structure  has  an  impact  on  the  propensity  of  managers  to  engage  in  excessively  risky 
+activities.  
+At all events, in today’s globalized world it is crucial to make sure that countries cooperate 
+and  agree  on  the  appropriate  stringency  of  financial  regulation.  Countries  should  not 
+compete by relaxing rules in order to attract financial business, as this generates negative 
+externalities  for  other  countries.  This  is  a  most  delicate  issue,  and  while  a  perfectly  level 
+playing  field  may  not  be  achievable,  we  have  to  be  conscious  of  the  consequences  of  a 
+“beggar-thy-neighbour”  approach  to  regulation.  The  transition  to  a  uniform  system  of  rules 
+and  oversight  of  the  financial  sector  must  be  hastened.  In  the  euro  area  the  plan  for  a 
+banking union is ambitious; it goes in the right direction.  
+Some  progress  has  been  made  on  the  convergence  towards  a  single  set  of  global 
+accounting standards; but much remains to be done. The International Accounting Standards 
+Board  and the  US  Financial  Accounting  Standards  Board  expect to make  progress  on  the 
+two  key  outstanding  issues  of  impairment  of  loans,  where  their  deliberations  should  be 
+completed  in  the  next  months,  and  insurance  contracts,  where  both  Boards  are  holding 
+public consultations. Of these two outstanding issues, the need for convergence on a new 
+forward-looking  expected  loss  approach  to  provisioning  is  of  most  immediate  concern  for 
+end-users and from a financial stability perspective. 
+One element that is essential for guaranteeing systemic stability is the method of measuring 
+risk-weighted  assets  (RWA),  the  denominator  of  capital  adequacy  ratios.  RWA  measures 
+have  recently  attracted  increasing  attention  from  market  analysts,  banks  and  supervisory 
+authorities.  It  has  been  argued  –  and  this  seems  to  be  actually  the  case  –  that  the 
+methodologies  for  computing  RWAs  may  not  be  comparable  across  institutions  and, 
+especially,  across  jurisdictions,  and  that  they  should  more  properly  reflect  risk  in  order  to 
+avoid  ultimately  jeopardising  financial  stability.  These  problems  highlight  the  relevance  of 
+6 
+ BIS central bankers’ speeches 
+supervisory practices in determining banks’ capital requirements (for example, in validating 
+internal  banks’  models  for  calculating  risk  weights).  Here,  rigorous  micro-prudential 
+supervision  is  essential.  We  really  need  to  work  out  a  single  rulebook,  to  move  with 
+determination towards taking joint responsibility and using peer reviews as much as possible 
+in our supervisory activity. Overcoming differences in accounting and supervisory practices is 
+proving a major challenge on the way to the banking union in the euro area.  
+As  for  the  initiatives  to  strengthen  the  regulation  of  the  OTC  derivatives  market,  these 
+complex  reforms  are  taking  somewhat  longer  than  originally  planned.  It  is  therefore 
+necessary  to  pick  up  the  pace,  overcoming  the  difficulties  of  implementation  and  the 
+industry’s  resistance.  Authorities  must  make  all  efforts  to  remove  the  uncertainties  arising 
+when  transactions  involve  a  cross-border  dimension,  which  is  a  recurrent  condition  in  a 
+global market. This is necessary to pre-empt regulatory arbitrage and, ultimately, to achieve 
+the G20 objectives. Work is also in progress on other relevant issues at an international level 
+(capital requirements for exposures to central counterparties, margining standards for non-
+centrally cleared transactions, as well as on authorities’ access to trade repository data) and 
+at a regional and national level. 
+It will be crucial to ensure that stricter regulation and supervision of banks will not push bank-
+like activities and risks towards non – or less – regulated institutions (the so-called “shadow 
+banking” sector). Let us not forget that the financial crisis originated in the US securitization 
+market, largely populated by unregulated or scantily regulated operators. While we have to 
+address  bank-like  risks  to  financial  stability  emerging  from  outside  the  regular  banking 
+system, the approach should be proportionate, focussed on those activities that are material 
+to the system, using as a starting point those that were a source of risk during the crisis. The 
+FSB has released a final set of recommendations in August 2013.4 One should bear in mind, 
+however, that the new recommendations will be able to address the specific risks that arose 
+during the crisis, and we all recognise the ability of the shadow banking sector to innovate.  
+Although new regulations on systemically important financial institutions have recently been 
+approved,  the  “too-big-to-fail”  issue  is  still  a  major  concern,  and  it  merits  strict  monitoring. 
+Systemically  important  financial  institutions  (SIFIs)  are  being  identified  in  different  sectors, 
+and  three  types  of  measures  will  be  applied  to  sharply  reduce  the  threat  that  their  failure 
+poses to the wider system. First, legal and operational regimes will be changed to enable all 
+financial  institutions,  including  those  operating  across  borders,  to  be  resolved  safely  and 
+without  taxpayer  loss  if  they  fail.  Second,  requirements  that  SIFIs  have  higher  loss 
+absorption capacity will be introduced. Third, supervisory oversight (including sharing of risk 
+data)  will  be  stepped  up  to  reflect  the  additional  complexity  of  these  institutions  and  the 
+systemic risks they pose. 
+Negative externalities associated with banks’ behaviour (especially for large, interconnected 
+financial firms) must be taken into account. A broad consensus has emerged on the idea that 
+“macroprudential” policies directed towards preserving financial stability should limit systemic 
+risk by addressing both the cross-sectional dimension of the financial system, with the aim of 
+strengthening its resilience to adverse real or financial shocks, and its temporal dimension, to 
+contain the accumulation of risk over the business or financial cycle.  
+Finally, even after the completion of the regulatory overhaul, it would be foolish to pretend 
+that defaults can always be avoided. They may be the result of imprudent behaviour or of 
+fraudulent operations. We need to be prepared for their occurrence, as the costs of public 
+support  tend  to  be  very  high.  In  Europe,  according  to  the  latest  data  gathered  by  the 
+European  Commission, the  outstanding  amount of  public  recapitalizations  as  of  December 
+2012 came to 0.3 per cent of GDP in France, 1.8 in Germany, 5.5 in Spain, 4.2 in the UK, 
+4.3 in Belgium, 5.1 per cent in the Netherlands, and 40 per cent in Ireland. For Spain and 
+                                                
+4  http://www.financialstabilityboard.org/publications/r_130829b.pdf.  
+BIS central bankers’ speeches 
+ 7 
+Ireland these amounts are at their highest since 2008, in the other countries they are lower 
+than  the  peaks  reached  in  2009.  For  the  Spanish  banks,  a  programme  of  recapitalization 
+using European funds of up to €100 billion was authorized in July 2012, of which €41 billion 
+(3.9 per cent of GDP) has already been disbursed. In Italy, taking also into consideration the 
+additional  public  support  provided 
+to  Banca  Monte  dei  Paschi  di  Siena,  public 
+recapitalizations  currently  amount  to  0.2  per  cent  of  GDP.  These  figures  indicate  that  the 
+ongoing  work  on  resolution  regimes  is  very  important  in  this  regard,  and  rapid  progress 
+should definitely be made. This is particularly relevant in the euro area, where the new single 
+supervisory mechanism (the SSM) is being implemented. 
+Observations on the analytical implications of economic and financial instability 
+Economic systems constantly evolve and transform. Changes in institutional arrangements, 
+technological  innovation  and  revisions  in  economic  policy  paradigms  continuously  reshape 
+the framework in which economic agents (consumers and businesses) make their decisions. 
+This  in  turn  leads  to  changes  in  economic  agents’  behavioural  patterns.  When  there  is 
+marked discontinuity with the past, such changes may be far-reaching and the past fails to 
+provide  enough  guidance  for  the  present  (never  mind  the  future).  We  should  always 
+remember  that  the  financial  system  is  part  of  a  richer  social,  economic  and  political 
+environment.  The  real  world  is  subject  to  shocks  that  at  times  may  have  dramatic 
+consequences, such as those that we have experienced in the last twenty years or so, with 
+the  end  of  the  cold  war,  globalization  and  the  sudden  emergence  of  new  major  economic 
+actors,  the  ICT  revolution,  and  substantial  (not  completely  anticipated)  demographic 
+changes. 
+However, a stationarity assumption of sorts underpins our theoretical and statistical models, 
+in  the  case  of  economic  forecasting  and  (macro)  policy  making  as  well  as  in  the  case  of 
+financial analysis and risk management. In general, the basic tenet is that future outcomes 
+will  be  drawn  from  the  same  population  that  generated  past  outcomes,  so  that  the  time 
+average of future outcomes cannot be persistently different from averages calculated from 
+past  observations,  and  future  events  can  be  predicted  with  a  certain  degree  of  statistical 
+accuracy. In non-ergodic environments, on the contrary, at least some economic processes 
+are  such  that  expectations  based  on  past  probability  distribution  functions  can  differ 
+persistently from the time averages that will be generated as the future unfolds.5 In case of 
+acute  uncertainty,  no  analysis  of  past  data  can  provide  reliable  signals  regarding  future 
+prospects.  
+The  challenges  posed  by  the  non-ergodic  nature  of  economic  systems  may  be  met  by 
+recognizing  that  our  models  are  by  necessity  “local”  approximations  of  very  complex 
+economic and financial developments. One needs to be modest, using theory and empirical 
+models  as  starting  points for,  not  straightjackets  in,  our  decision making.  And  perhaps  not 
+enough  attention  has  been  paid  by  the  financial  community  to  the  need  for  establishing 
+institutional and behavioural norms to reign on patterns of instability and developing proper 
+learning devices to deal with major shocks and regime changes.  
+These  challenges  are  compounded  by  another  general  characteristic  of  the  quantitative 
+analysis of economic phenomena: the difficulty of running parallel worlds, i.e. producing data 
+through experiments designed and controlled by the researcher. Even when economic forces 
+do  follow  repetitive  patterns,  it  may  not  be  easy  to  spot  empirical  regularities,  because 
+contingencies  –  especially  the  exceptional  ones  –  cannot  be  re-created  at  will,  in  the 
+laboratory, for cognitive purposes. Our experience will always be limited, partial and episodic. 
+These  aspects  are  not  always  taken  into  account  in  economics  or  finance.  As  Charles 
+                                                
+5  P.  Davidson,  “Is  probability  theory  relevant  for  uncertainty?  A  Post  Keynesian  perspective”,  Journal  of 
+Economic Perspectives, 5, 1, 1991. 
+8 
+ BIS central bankers’ speeches 
+Kindleberger noticed: “For historians each event is unique. Economics, however, maintains 
+that forces in society and nature behave in repetitive ways”.6  
+Why  is  it  that  the  parameters  and  laws  governing  economic  systems  tend  to  change  over 
+time?  A  distinction  can  be  made  between  exogenous  uncertainty,  when  an  individual’s 
+actions do not affect the probability of an event occurring, and endogenous (or behavioural) 
+uncertainty,  when  they  do.7  In  economic  systems,  this  second  type  of  uncertainty  can  be 
+particularly  important.  This  has  not  been  sufficiently  recognized,  I  believe,  in  the  way 
+(applied) macroeconomics and finance have evolved since the 1980s, with the ascendency 
+of the rational expectations revolution in the former and the efficient market hypothesis in the 
+latter.  
+In  macroeconomics  this  may  have  led  to  placing  too  much  faith  in  the  ability  of  dynamic 
+stochastic  general  equilibrium  (DSGE)  models  to  represent  or  sufficiently  approximate  the 
+real world on which economic policy is applied. These fundamentally linear models are the 
+result of the intertemporal optimization by representative agents of objective functions under 
+conditions of uncertainty, given technological and budget constraints and the “rationality” of 
+their expectations (i.e. perfect foresight barring a random error). Indeed, going beyond the 
+assumption that society and nature always behave uniformly and consistently over time has 
+deep implications in policy making as well. This can be easily seen in monetary policy, where 
+no  mechanistic  use  of  forecasting  models  can  be  made  if  one  allows  for  the  possibility  of 
+structural changes.8  
+An  important  lesson  of  the  financial  crisis  –  one  that  is  generating  substantial  research 
+activity – is that the interactions and feedbacks between the real and the financial sectors 
+and the non-linearities that emerge especially during crises are not adequately captured by 
+the  available  models.  Many  of  the  effects  associated  with  financial  and  asset  price 
+imbalances are likely to be highly non-linear and complex. The reaction of monetary policy 
+should  then  also  be  non-linear  and  it  should  respond  to  asset  price  misalignments  and 
+financial  imbalances. When  the  probability  of  a crisis  becomes  non-trivial,  the  interest  rate 
+path towards ensuring monetary stability might be different than in ordinary circumstances. 
+These  aspects  were  not  well  captured  in  the  empirical  models  used  to  support  monetary 
+policy  decisions,  something  understood  but  perhaps  not  adequately  recognized 
+in 
+discussions on flexible inflation targeting frameworks that took place a decade or so ago.9 
+One of my preferred quotes is from Herbert Simon:10 
+Good predictions have two requisites that are often hard to come by. First they 
+require either a theoretical understanding of the phenomena to be predicted, as a 
+basis  for  the  prediction  model,  or  phenomena  that  are  sufficiently  regular  that 
+they can be simply extrapolated. Since the latter condition is seldom satisfied by 
+data about human affairs (or even by the weather), our predictions will generally 
+be  only  as  good  as  our  theories.  The  second  requisite  for  prediction  is  having 
+                                                
+6  C. P. Kindleberger, Manias, panics and crashes: a history of financial crises, New York: Basic Books, 1989, 
+p. 14. 
+I.  Visco,  “On  the  role  of  expectations  in  Keynesian  and  today’s  economics  (and  economies)”,  Convegno 
+Internazionale  dell’Accademia  Nazionale  dei  Lincei,  “Gli  economisti  postkeynesiani  di  Cambridge  e  l’Italia”, 
+Rome, 11–12 March 2009 (http://www.bancaditalia.it/interventi/intaltri_mdir/en_Visco_110309.pdf). 
+7 
+8  See, among others, J. Vickers, “Inflation targeting in practice: the UK experience”, Bank of England Quarterly 
+Bulletin, November 1998. 
+9  See C. Borio and P. Lowe, “Asset prices, financial and monetary stability: exploring the nexus”, BIS Working 
+Papers,  114,  July  2002  (http://www.bis.org/publ/work114.pdf).  See  also  C.  Bean,  “Asset  prices,  financial 
+imbalances and monetary policy: are inflation targets enough?”, BIS Working Papers, 140 (with discussions by 
+I. Visco and S. Wadhwani, http://www.bis.org/publ/work140.pdf). 
+10  H. A. Simon, The sciences of the artificial, MIT Press, Cambridge, Mass., 1972, p. 170. 
+BIS central bankers’ speeches 
+ 9 
+reliable  data  about  the  initial  conditions  –  the  starting  point  from  which  the 
+extrapolation is to be made. 
+We must recognize that empirical models reflect historical experience in the values of their 
+parameters  and  are  mostly  reliable  when  it  is  “business  as  usual”,  that  is,  as  long  as  our 
+systems  are  not  subjected  to  unusual  pressure.  It  can  be  argued  that  their  contribution  to 
+making  informed  decisions  is  limited,  as  they  tend  to  become  unreliable  precisely  when, 
+following  signs  of  structural  discontinuity,  the  benefits  of  correct  forecasting  are  greatest. 
+Indeed, anomalous observations that do not fit the main mechanisms at work in the historical 
+period  used  for  statistical  estimates  are  frequently  put  aside  (“dummied-out”),  their 
+information  content  is  neutralized.  This  is  reasonable,  as  episodic  observations  of 
+exceptional phenomena are generally inadequate to capture complex inter-relations between 
+economic and financial variables. And yet those very deviations from the norm may contain 
+precious  information  on  how  the  economy  works  in  conditions  other  than  those  usually 
+prevailing.  
+Much of the same reasoning applies to the analysis of financial market developments. The 
+wave  of  financial  innovation  in  the  last  two  decades  was  fuelled  by  the  idea,  in  principle 
+correct and fruitful, that the proliferation of new (and complex) financial instruments, allowing 
+agents to insure against many dimensions of risk, was a way to “complete the markets”, to 
+get  closer  to  the  theoretical  Arrow-Debreu  world,  enabling  investors  to  transfer  resources 
+efficiently across time, space and states of the world. But this idea relied on the presumption 
+that the world is basically stationary, that the future is pretty much the same as the past, that 
+we can extrapolate from relatively small samples, and that there is a single “data generating 
+process” that we can identify and understand. 
+But we know that the real world is more complex. The determinants of asset prices are not 
+fixed, but vary over time. Asset returns do not follow a normal distribution, as it is assumed 
+by conventional valuation formulas. Myopic behaviour, herding and other types of distorted 
+incentives  on  the  part  of  individuals  and  financial  institutions  can  generate  negative 
+externalities  and  move  financial  markets’  expectations  and  risk  premia  away  from 
+fundamentals.  And,  lately,  scholarly  work  has  been  attributing  a  new,  enhanced  role  to 
+psychological elements and the recognition that there are limits to what one can know. In the 
+field of the so-called behavioural finance this may even go as far as to validate “irrational” 
+actions.  And  eminent  economists  argue  that these  elements  play  a  role  in  explaining  both 
+conservative attitudes and speculative bubbles.11 
+The  potential 
+to 
+macroeconomics, econometric modelling and forecasting but also apply to finance. And they 
+may have dire consequences. The case of the CDOs is instructive. These credit derivatives, 
+that in the first half of the last decade recorded an impressive growth, were priced according 
+to valuation models  whose results were very sensitive to modest imprecision in parameter 
+estimates and highly exposed to systemic risk (i.e. strongly affected by the performance of 
+the  economy  as  a  whole).12  As  a  result,  CDOs  not  only  did  not  increase  the  risk  bearing 
+capacity of the economies, but their implosion between mid-2007 and mid-2008 was at the 
+core  of the global financial  crisis.  Innovative  financial  instruments  with  unsound  theoretical 
+foundations may exacerbate negative externalities and be sources of instability in their own 
+right. 
+Rather  than  in  the  development  of  unlikely  “catch-all”  models,  the  key  to  tackling  the 
+problems created by discontinuity must lie, first of all, in a better understanding of its nature 
+limitations  of  quantitative  analysis  are 
+therefore  not 
+restricted 
+                                                
+11  G. A. Akerlof and R. J. Shiller, Animal spirits: how human psychology drives the economy and why it matters 
+for global capitalism, Princeton, Princeton University Press, 2009. 
+12  See  J.  Coval,  J.  Jurek  and  E.  Stafford,  “The  economics  of  structured  finance”,  Journal  of  Economic 
+Perspectives, 23, 1, 2009. 
+10 
+ BIS central bankers’ speeches 
+and so in defining models in which the relations are based on parameters that remain stable 
+in  the  long  term.  Research  must  therefore  aim  to  identify  sufficiently  fundamental  and 
+reasonably  dependable  mechanisms  that  do  not  change  over  time.  To  provide  sensible 
+accounts  of  rational  choices,  quantitative  models  necessarily  have  to  focus  on  systematic 
+factors,  and  draw  their  own  conclusions  on  the  basis  of  key  relations.  In  this  respect  it  is 
+worth  recalling  Bruno  De  Finetti’s  argument  for  a  “theory  of  finance”,  made  as  early  as 
+1957:13 
+In  order  for  a  theory  of  behaviour  to  say  something,  it  must  necessarily  be 
+restricted  to that  which  is  derived  as  the  consequence  of  a few  main  concepts 
+and  criteria  and  which  can  accordingly  (if  somewhat  arbitrarily)  be  defined  as 
+‘rational behaviour’. Then the theory will set out conclusions that are valid in the 
+absence  of  accessory  factors.  This  is  not  to  deny  or  downplay  the  possible 
+presence or importance of such factors; only, it is preferable to shift the study of 
+deviations from the ‘theoretical’ behaviour implied by those conclusions to a later 
+moment  and  to  the  detailed  plane  of  complementary  observations,  rather  than 
+cloud  all  distinctions  in  a  single  theoretical  construct  which,  in  the  attempt  to 
+embrace and set on an equal plane the congeries of systematic and accessory 
+factors,  would  be  reduced  to  a  non-theory  suitable  solely  to  conclude  that  all 
+kinds of behaviour are equally possible (for caprice or madness, even, as is in 
+fact the case). 
+Obviously, De Finetti’s “later moment” should not be overlooked in applied research. Against 
+the  risk  that  the  theoretical  paradigms  underlying  the  approximation  of  reality  implicit  in  a 
+model may prove particularly inadequate in certain situations, it is useful to employ a battery 
+of  different  models  and  cross-checks.  This  “multi-pronged”  approach  to  modelling  and 
+forecasting also makes it possible to more effectively filter and interpret the great mass of 
+partial  and fragmentary  or  even  contradictory  data  that gradually  become  available.  But  in 
+dealing with non-ergodic processes, what really is all the more essential is to integrate the 
+signals  provided  by  quantitative  models  with  information  outside  the  models,  take  stock of 
+related  historical  experience  in  its  entirety,  and  intervene  on  the  basis  of  both  theory  and 
+sound practical judgement (good sense).  
+In both empirical microeconomics and finance, work is under way to deal with the issues that 
+have been considered here. Deviations from the assumption of normal distributions, “fat tails” 
+and  the  modelling  of  extreme  events  are  being  taken  into  account  both  in  research  and 
+applications. And it should be recognized that the importance of human behaviour does not 
+imply  that  economic  systems  necessarily  have  to  be  prone  to  instability.  In  fact,  the  very 
+existence  of  behavioural  uncertainty  may  tend  to  create  a  set  of  institutions,  as  well  as 
+conventions and habits, which help to deal with the problems highlighted in Keynes’ “beauty 
+context” example and ensure the stability of the main economic processes, as emphasized 
+by  Herbert  Simon.14  Still,  I  believe,  more  attention  should  be  paid  to  how  to  account  for 
+learning in the crucial adjustment periods that follow extreme events that cannot be simply 
+taken  as  random  extractions  from  a  stable,  even  if  non-normal,  probability  distribution. 
+Widening  the  class  of  probability  distributions  remains  however,  for  the  time  being,  the 
+practical response to phenomena such as the ones we have been dealing with in this difficult 
+period. 
+                                                
+13  B. De Finetti, Lezioni di matematica attuariale, Roma: Edizioni Ricerche, 1957, p. 71 (my translation). 
+14  H.  A.  Simon,  “The  role  of  expectations  in  an  adaptive  or  behavioristic  model”,  in  M.  J.  Bowman  (ed.) 
+Expectations, uncertainty and business behavior, New York, Social Sciences Research Council, 1958.  
+BIS central bankers’ speeches 
+ 11 
+Rethinking monetary policy and the role of central banks 
+The  crisis  has  raised  important  questions  on  the  appropriate  tools  −  conventional  versus 
+unconventional  measures  −  and  objectives  −  price  versus  financial  stability  −  of  monetary 
+policy,  and  more  generally  on  the  role  of  central  banks  and  their  relationships  with  other 
+economic and financial authorities. 
+I would first observe that the crisis has shown that there are crucial advantages in “not tying 
+central banks’ hands too tight”. This was very important in allowing monetary authorities to 
+adopt  the  appropriate  measures  to  counteract  the  crisis.  Had  monetary  policy  been 
+constrained by a too rigid framework (such as in the past a commodity standard) or too strict 
+pre-specified rules, its ability to react to the crisis would have been severely impaired. The 
+capacity of central banks to adapt the size, scope and type of interventions to the evolution of 
+financial disruptions and to differences in the structure of financial systems was in fact crucial 
+to avoid the occurrence of destructive scenarios and to restore trust. 
+Measures  on  both  sides  of  the  Atlantic  were  ultimately  addressed  to  ensure  the  proper 
+functioning of the monetary transmission mechanism, necessary to pursue the final monetary 
+policy objectives of the respective central banks. But the interventions have been tailored to 
+the  specific  circumstances  and  to  the  characteristics  of  the  different  economies.  For 
+example, the quantitative-easing measures of the Federal Reserve (in a “zero lower bound” 
+context)  were  aimed  at  promoting  stronger  economic  growth  and  a  level  of  inflation 
+consistent with its mandate by intervening on specific segments of the financial markets and 
+of the yield curve. The unconventional measures adopted by the Governing Council of the 
+ECB addressed the malfunctioning of specific markets hit strongly by the crisis and aimed at 
+avoiding major repercussions on bank credit, which plays a predominant role in the financing 
+of the euro area economy. 
+In  the  assessment  of  the  effectiveness  of  these  measures  we  need  to  keep  in  mind  the 
+counterfactual.  This  is  especially  evident  in  the  euro  area,  where  the  ECB  3-year  LTROs 
+decided at the end of 2011 prevented a liquidity crisis in the banking system and the likely 
+major credit crunch that would have followed. Similarly, the announcement in the summer of 
+2012 of the possibility of intervening in the secondary market for government securities with 
+Outright  Monetary  Transactions  (OMT)  was  prompted  by  the  need  to  address  market 
+malfunctions  and  distortions  due  to  the  sovereign  debt  crisis,  which  were  hampering  the 
+transmission  of  monetary  policy  and  risking  to  ignite  a  financial  collapse  with  potentially 
+devastating consequences for the European economy. 
+Widening yield spreads between government bonds in the euro area are the consequence of 
+two factors, one national and the other European, linked respectively to the weaknesses of 
+some  countries’  economies  and  public 
+the 
+incompleteness of  the  European  construction  and  the  attendant fears  of  a  break-up  of  the 
+monetary  union  (redenomination  risk).  Consequently,  Europe’s  response  to  the  sovereign 
+debt crisis has had to be two-pronged: individual countries have pledged to adopt prudent 
+budgetary policies and structural reforms to support competiveness; a far-reaching reform of 
+EU economic governance has been undertaken.  
+The time needed to implement Europe’s complex strategy to counter the economic crisis will 
+be long. The distortions that have affected financial markets and have resulted in significant 
+financial fragmentation across countries can in the meanwhile undermine the transmission of 
+monetary policy and jeopardize the entire process. In July 2012 the yield differential between 
+10-year Italian BTPs and the equivalent German Bunds was still just over 500 basis points, 
+compared with estimates of about 200 basis points consistent with the predominant Italian 
+and  German  economic  fundamentals.  It  is  in  this  context  that  the  ECB  Governing  Council 
+announced  the  introduction  of  the  OMT  program.  Countering  an  excessive  increase  in 
+sovereign  yields  when  it  stems  from  redenomination  risk  and  distorts  monetary  policy 
+transmission is fully within the Eurosystem’s mandate. 
+(sustainability 
+risk),  and 
+finances 
+to 
+12 
+ BIS central bankers’ speeches 
+The OMT will only be activated in the presence of severe market strains and are confined to 
+the  securities  of  countries  adhering  to  a  macroeconomic  adjustment  or  precautionary 
+programme  financed  with  the  resources  of  the  European  Stability  Mechanism  (ESM,  a 
+financial  backstop  jointly funded  by  EU  countries  set  up  during  the  crisis). Their  continued 
+operation then depends on observing the conditions attached to the programme. There are 
+no ex ante limitations on the duration or amount of the intervention. 
+This initiative has been made possible by the credibility of the Eurosystem and the progress 
+made with both national reforms and the design of European governance. The two factors 
+fuelling the crisis are not independent. On the one hand, fears of euro reversibility are linked 
+in  the  first  place  to  those  concerning  the  sustainability  of  public  debts  and  the 
+competitiveness of member countries. On the other hand, the financing of the programmes 
+with ESM resources is an incentive to further strengthen the governance of the Union, which 
+is  essential  to  achieve  a  permanent  reduction  in  the  redenomination  risk  and  the  related 
+component of the interest rate differential. Monetary policy can guarantee stability only if the 
+euro-area’s economic fundamentals and institutional architecture are consistent with it.  
+The announcement of OMT produced immediate benefits: medium- and long-term yields in 
+the  countries  under  pressure  decreased  and  the  fragmentation  of  markets  along  national 
+borders was attenuated. Albeit with fluctuations linked to temporary tensions at the national 
+level  and  to  the  remaining,  pronounced  uncertainty  about  the  determination  of  all  member 
+states to proceed with the strengthening of the Union, the yield spreads between euro-area 
+government  securities  remained  on  a  downward  trend.  That  between  ten-year  BTPs  and 
+Bunds is about 250 basis points today. 
+To  ensure  stability  over  the  longer  run,  the  effort  to  reform  the  European  governance  has 
+been  stepped  up.  The  subsequent  stages  are  outlined  in  the  report  Towards  a  Genuine 
+Economic  and  Monetary  Union  (presented  in  June  2012  and  updated  in  December  by  the 
+President  of  the  European  Council,  working  closely  with  the  Presidents  of  the  European 
+Commission,  the  Eurogroup  and  the  ECB)  and  in  the  Blueprint  for  a  Deep  and  Genuine 
+Economic  and  Monetary  Union  published  by  the  Commission  last  November.  Both 
+documents envisage a banking union, the introduction of autonomous fiscal capacity for the 
+whole euro area, and a common budget; they set the scene for the eventual political union.  
+The  Banking  Union  is  a  keystone  of  institutional  reform.  It  has  three  key  components:  a 
+single  supervisory  mechanism  (SSM),  a  single  bank  resolution  mechanism,  and  a 
+harmonized deposit insurance scheme. Such an important institutional innovation will require 
+an organizational adaptation as far-reaching and at least as complex as that leading to the 
+single  monetary  policy,  with  substantial  investment  in  human  resources  and  technical 
+infrastructure.  Priority  has  been  given  to  the  launch  of  the  SSM,  but  work  must  progress 
+expeditiously also on the other two components, which are both crucial to align supervisory 
+and  crisis  management  responsibilities,  as  well  as  to  break  the  perverse  bank-sovereign 
+loop.  The  harmonization  of  regulatory  and  supervisory  practices  is  a  precondition  for 
+success; it will be crucial in the comprehensive assessment of banks’ balance sheets that will 
+be carried out before the launch of the SSM.   
+Related to the debate on the appropriate measures, the crisis has raised concerns about the 
+interaction and possible conflicts between policies addressed to maintain price stability and 
+those aimed at preserving financial stability. It has also raised the question of whether central 
+banks should revise their objectives or strategies. 
+In my view there is no need to question the current objectives; in the case of the Eurosystem, 
+that of preserving (medium term) price stability. I do not believe, in particular, that financial 
+stability should become an explicit objective of monetary policy at the par with price stability, 
+for two main reasons: first, the benefits of our monetary framework have become more – not 
+less  –  evident  during  the  crisis,  with  inflation  expectations  remaining  well-anchored 
+throughout;  second,  assigning  financial  stability  as  an  explicit  additional  objective  to 
+monetary  policy  could  risk  blurring  responsibilities,  increasing  moral  hazard  and  creating 
+BIS central bankers’ speeches 
+ 13 
+potential  conflicts.  However,  I  believe  that  there  is  no  question  that  preserving  financial 
+stability resides fully within the responsibilities of (even if perhaps not only) central banks.  
+Indeed,  the  crisis  has  not  put  into  question  the  idea  that  over  longer  horizons  there  is  no 
+trade-off between price stability and financial stability objectives – rather, there are synergies. 
+But it has shown that short-term interactions may be very complex and conflicts cannot be 
+excluded. It has become clearer than it was before the crisis that price and financial stability 
+are directly and strongly interconnected, that risks to any of these two objectives can quickly 
+spread to the other, create dangerous loops and quickly undermine trust in financial markets. 
+This certainly implies that the instruments of monetary policy are not neutral with respect to 
+financial stability. It also calls to address the latter with specific policy tools. 
+But  it  also  calls  for  efforts  in  the  conduct  of  monetary  policy,  along  three  dimensions:  the 
+information set used in the assessment of the risks for price stability; pre-emptive reaction to 
+signals  of  financial  instability;  and  effective  communication.  Monetary  authorities  need  to 
+monitor a broader range of indicators, look for early signals of financial instability, develop 
+models  capable  to  capture  the  interactions  between  the  financial  sector  and  the  real 
+economy and be cautious in using standard macro-econometric models in circumstances of 
+financial  unrest.  Although  central  banks  should  not  regularly  intervene  to  exert  a  direct 
+control on asset prices, they should not wait until a crash occurs before acting, given that the 
+costs  of  this  strategy  have  proved  to  be  very  large;  rather  they  should  lean  against  the 
+formation  of  financial  imbalances  and  not  be  shy  to  react  to  early  signals  of  financial 
+instability. Indeed, this is something of which one could have been convinced of even before 
+the last crisis. Monetary authorities should not overlook the potential impact, not only of their 
+actions  (or  inactions),  but  also  of  their  communication  on  the  solution  of  financial  stability 
+problems and the consequent repercussions on price stability.  
+The implementation of new frameworks of policies, however, is all but easy. Building models 
+which are able to capture interactions between price and financial stability is difficult. As to 
+macroprudential  policy,  we  still  lack  a  well  defined  analytical  apparatus  and  operational 
+definitions  of  its  objectives  and  instruments.  Indicators  and  early  warning  signals  are 
+available,  but  a  coherent framework  to  interpret them  and to measure  the  effectiveness of 
+macroprudential policy is still lacking. Preliminary results confirm that it has some potential to 
+stabilise the economy over and above what can be achieved by monetary policy alone, but 
+that this varies depending on the type of shock or setup considered.15 I would dare to say that 
+proper understanding of how this can be effectively achieved is still in the making. 
+Final remarks 
+The crisis has shown that benign neglect should never have been an option. It has called for 
+a  major  overhaul  of  the  regulatory  and  supervisory  financial  framework,  especially  at  an 
+international level. In a globalized financial marketplace, with large and powerful participants, 
+individual  action  by  national  authorities  would  be  bound  to  fail.  By  the  same  token,  the 
+boundaries  of  supervision  should  be  widened  to  encompass  all  relevant  intermediaries, 
+regardless  of  the  specific  industry  sector  they  belong  to.  I  have  discussed  the  work 
+underway,  highlighted  the  results  achieved  and  stressed  the  areas  where  more  effort  is 
+needed.  
+                                                
+15  P. Angelini, S. Neri and F. Panetta, “Monetary and macroprudential policies,” Banca d’Italia, Working Papers, 
+801,  March  2011  (http://www.bancaditalia.it/pubblicazioni/econo/temidi/td11/td801_11/td_801/tema_801.pdf). 
+See  also  P.  Angelini,  S.  Nicoletti-Altimari  and  I.  Visco,  “Macroprudential,  microprudential  and  monetary 
+policies:  conflicts,  complementarities  and  trade-offs”,  in  A.  Dombret  and  O.  Lucius  (eds.),  Stability  of  the 
+Financial System: Illusion or Feasible Concept?, Edward Elgar, Cheltenham, UK, 2013 (also Banca d’Italia, 
+Occasional  Papers,  140,  November  2012,  http://www.bancaditalia.it/pubblicazioni/econo/quest_ecofin_2/-
+qef140/QEF_140.pdf). 
+14 
+ BIS central bankers’ speeches 
+The correct  conduct  of financial  business  also  requires  competence  and  good faith  on  the 
+part of intermediaries, both factors being decisive to ensure sound and prudent management 
+and preserve the confidence of savers. This necessity is heightened by the complexity of the 
+external  environment,  by  the  presence  of  large  intermediaries,  and  by  the  economic  and 
+reputational  damage  that  can  result  from  illicit  behaviour.  No  market  can  function  without 
+rules,  nor  is  prudent  management  possible  without  correct  conduct,  embodied  not  only  in 
+scrupulous  compliance  with  the  law  and  the  supervisory  rules  but  also  in  complete 
+adherence to business ethics.  
+The dramatic events of the past five years have highlighted the limitations of modelling and 
+quantitative analysis in finance and in economics. The common assumption of stationarity is 
+at odds with the unpredictably changeable nature of the real world. This is not to say that all 
+the analytical efforts of the past and the progress achieved should be disregarded. It means 
+rather that in order to make the best out of them one needs to remember that models are by 
+necessity “local” approximations to very complex phenomena and they should be used with 
+sound  practical  judgment  as  a  framework,  not  a  straightjacket,  for  our  decision-making. 
+Quantitative analysis and modelling can also help to establish institutional and behavioural 
+norms  to rein  in  patterns  of  instability  and  developing  proper  learning  devices  to  deal  with 
+major shocks and regime changes. In turn, models should take into account the impact of 
+such norms on economic developments.  
+Central  banks  have  a  crucial  role  to  play.  There  are  clear  complementarities  between 
+financial  and  monetary  stability.  Sometimes  these  are  formally  recognized  in  their  official 
+mandate, but even when this is not the case, central banks must take them into account in 
+their policy decisions. In this respect, I would like to quote from a book by the brilliant Banca 
+d’Italia  economist  Curzio  Giannini,  who  passed  away  prematurely  about  ten  years  ago.  In 
+that  “beautifully  written  and  illuminating”  work,  as  Charles  Goodhart  describes  it  in  his 
+foreword,  Curzio  clearly  saw  the  likely  consequences  of  financial  developments,  and 
+concluded:16  
+In  the  years  to  come,  the  most  interesting  developments  will  probably  be 
+precisely in the sphere of supervision and regulation. […] Whatever its detractors 
+may  say,  the  central  bank  has  no  need  to  move  into  new  lines  of  business. 
+Capitalism generated the central bank and capitalism will come to it again, even if 
+the current infatuation with the financial markets’ self-regulating capacity were to 
+endure. […] The central bank produces an intangible but essential good – trust – 
+of which capitalism (based as it is on a pyramid of paper if not mere electronic 
+signals)  has  an  immense  need.  We  must  not  forget  that  trust,  or  its  synonym 
+“confidence”,  derives  from  the  Latin  fides,  meaning  faith,  which  cannot  be 
+produced simply by contract. In fact the legitimacy of central banks does not lie in 
+their policy activism, or the ability to generate income, or even, save in a highly 
+indirect  sense,  their  efficiency.  Rather,  […]  it  derives  from  competence, 
+moderation,  the  long-term  approach,  and  the  refusal  to  take  any  tasks  beyond 
+their primary role. If, as I am sure, there is another phase in the development of 
+central banking, it will spring from these values. 
+In the end this is, perhaps, what society should expect, if not from the financial sector, from 
+those who are called to look after financial stability. 
+                                                
+16  C. Giannini, The age of central banks, Edward Elgar, Cheltenham, UK, 2011, p. 255 and pp. 258–259, English 
+translation, L’età delle banche centrali, Bologna, Il Mulino, 2004. 
+BIS central bankers’ speeches 
+ 15 

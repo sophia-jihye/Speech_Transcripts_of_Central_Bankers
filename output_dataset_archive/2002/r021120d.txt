@@ -1,0 +1,577 @@
+ Jarle Bergo: Efficiency in the Norwegian payment system 
+Speech  by  Mr  Jarle  Bergo,  Deputy  Governor  of  Norges  Bank  (Central  Bank  of  Norway),  at  the 
+Conference on payment systems 2002, Oslo, 14 November 2002. 
+The text below may differ slightly from the actual presentation. 
+ Thank you for your invitation and for the opportunity to present Norges Bank’s views on developments 
+in the payment system at this important conference where payment system experts are gathered. In 
+particular, I will discuss issues related to efficiency in the Norwegian payment system today.  
+This  is  an  area  in  which  our  political  authorities  have  delegated  a  responsibility  to  Norges  Bank. 
+Section  1  of the Norges Bank Act from 1985 states  that “…Norges Bank shall  promote an  efficient 
+payment system domestically as well as vis-à-vis other countries…”  
+1. An efficient payment system
+• Payments should be processed
+–Fast
+–At reasonable cost
+–Safely
+• These three features receive different emphasis in the 
+retail payment system and the interbank payment 
+system
+ We have defined an efficient payment system as a system that settles payments quickly, safely and at 
+reasonable  cost.  This  definition  applies  to  both  interbank  and  retail  payment  systems.  These  three 
+elements receive different emphasis depending on the type of payment involved. In connection with 
+interbank systems, we place considerable emphasis on safety, because delays or failure of a payment 
+settlement may lead to a liquidity shortage or loss in some banks. These problems may in turn spread 
+to a number of banks and at worst threaten financial stability.  
+Retail  payments  consist  of  many  transactions  of  limited  size  and  retail  settlement  amounts  are 
+normally modest. Normally, problems in the retail payment system will not pose a threat to financial 
+stability.  Therefore,  more  emphasis  can  be  placed  on  executing  retail  payments  quickly  and  at 
+reasonable cost.   
+The purpose of the provisions in Chapter 3 of the Act relating to Payment Systems, etc. from 1999 is 
+to contribute to ensuring that systems for payment services are organised and operated in a way that 
+promotes safe and efficient payments and effective and coordinated execution of payment services. 
+This  responsibility  has  been  delegated  to  the  Norwegian  Banking,  Insurance  and  Securities 
+Commission.  The  Norwegian  Banking,  Insurance  and  Securities  Commission  and  Norges  Bank 
+cooperate  closely  on  issues  of  relevance  to  the  retail  payment  systems.  In  accordance  with  the 
+requirements of the Norges Bank Act, Norges Bank has focused on efficiency in the retail payment 
+system as a whole. 
+In most western countries, the payment system lays claim to between 1 and 3 per cent of GDP. More 
+efficient  structures  can  therefore  result  in  substantial  savings  and  free  up  resources  for  other 
+purposes. In Norway, banks use NOK 5.9 billion to produce payment services. Costs to the payer and 
+payee in connection with payment transactions come in addition. Norges Bank considers it important, 
+therefore,  that  payment  services  are  organised  in  a  way  that  enables  the  market  to  find  efficient 
+solutions for production and use of such services. In this presentation, I will focus on retail payment 
+systems.  
+BIS Review 66/2002 
+ 1
+ Criteria for assessing efficiency 
+We place emphasis on four elements when assessing the efficiency of the retail payment system.  
+2. Efficiency in retail payments depends on
+• Access to appropriate payment instruments
+• Direct pricing of all payment services
+• Exploitation of economies of scale and network 
+externalities 
+• Competition in the supply of payment services
+ It is important that both corporate and retail customers have access to payment instruments that cover 
+their needs in all payment situations. Customers must feel confident that payments reach the correct 
+payee  at  the  correct  time.  This  in  turn  requires  a  high  level  of  operating  reliability  in  the  electronic 
+payment  systems  and  correct  processing  of  paper-based  payment  instruments.  The  security 
+experienced by customers in connection with different payment instruments has an impact on the use 
+of the instruments and thus also on the public’s perception of whether the service range is acceptable.  
+Prices tell customers something about the value of the product or service and the costs associated 
+with procuring the product. This affects customer preferences. Prices which reflect the relative costs of 
+producing  different  payments  services  provide  important  incentives  for  selecting  the  services  that 
+satisfy their needs at the lowest possible cost. Overall, this will provide solutions that reduce the use of 
+resources and increase efficiency in the payment system. Cost coverage through high interest margins 
+and float implies hidden costs for customers and makes it difficult to choose correctly on the basis of 
+product  costs  and  features.  Therefore,  there  should  be  as  much  direct  pricing  as  possible.  The 
+customer who chooses among various payment instruments should bear the cost of this choice.  
+The production of payment services is characterised by economies of scale. Development costs are 
+high and the requirements as to operating reliability and back-up solutions for the computer systems 
+are  stringent,  while  the  cost  of  producing  one  extra  unit  is  low.  This  applies  in  particular  to  the 
+electronic  payment  services. We  then  face  a  classic  pricing  problem  that  is  described  in  economic 
+theory. If the price is set equivalent to the cost of producing the last unit (marginal cost), which in a 
+certain  sense  is  "correct"  pricing  with  regard  to  efficiency,  the  manufacturer  will  not  fully  cover  his 
+costs.  The  manufacturer  must  then  cover  the  remaining  costs  with  the  profits  from  other  services. 
+ Innovation and development of new products are important driving forces behind increased efficiency 
+in the payment system. In order to finance development activities, banks and producers of payment 
+services  must  have  a  certain  profit.  Both  direct  pricing  of  payment  services  and  other  income  may 
+generate this profit. If the profit is to come from direct pricing, the income must cover more than the 
+production costs. 
+When new products are introduced, a price that is lower than the direct costs may, however, have a 
+positive effect on efficiency. Since price affects demand, a low price can contribute to extensive use of 
+the  service  at  an  early  stage.  This  ensures  that  economies  of  scale  and  any  positive  network 
+externalities are exploited at an early stage. By positive network externalities, we mean that the utility 
+for each individual system user increases when additional users join the system. The system where 
+the network externalities are probably strongest is the EFTPOS system (a system for card payments in 
+electronic point-of-sale terminals). Here, increased card use leads to growth in the number of payment 
+terminals which in turn provides the basis for increased card use. When the price is low, the indirect 
+costs  may  be  covered  later  by  not  reducing  prices  correspondingly  when  use  increases  and 
+development  costs  have  been  repaid.  As  an  alternative,  the  fixed  costs must  be  covered  by  cross-
+subsidisation from other payment services or other types of services offered by banks. 
+2 
+ BIS Review 66/2002
+ Both economies of scale and positive network externalities suggest that the number of producers of 
+payment  services  will  be  limited  and  that  they  will  use  common  standards.  A  single  producer  will 
+ensure full exploitation of economies of scale, but at the same time, this producer would be able to 
+charge  monopoly  prices.  A  single  producer  also  implies  a  concentration  of  risk  which  may  be 
+undesirable. In addition, a monopolist may have few incentives to engage in product development. In 
+most cases, therefore, efficiency will be higher with several competing producers of payment services. 
+A genuine possibility that new participants may enter the market may prevent monopolists from taking 
+out  a  monopoly  profit.  This may  also  encourage  the  producer  to  maintain  a  high  level  of  operating 
+reliability and to further develop the services.  
+Strong  customers  may  also  contribute  to  reducing  the  power  of  the  large  producers.  Customers’ 
+bargaining power normally depends on their size, and small banks can collaborate and form alliances 
+to increase their bargaining power as buyers. However, the majority of the banks’ customers will not 
+have  bargaining  power  vis-à-vis  banks,  so  it  is  important  that  there  are  many  banks  competing  to 
+supply payment services to customers.  
+Efficiency in the Norwegian system 
+Overall, the Norwegian system for retail payment services is fast, reasonably priced and safe.  
+3. Productivity gains in the 1990s
+Per cent
+2 0
+1 5
+1 0
+5
+0
+88
+- 5
+Financial 
+services
+Mainland
+Norway
+Financial 
+services, 
+average
+90
+92
+94
+96
+98
+'00
+2 0
+1 5
+1 0
+5
+0
+- 5
+ Retail  payments  are  settled  in  Norges  Bank  twice  a  day.  Depending  on  the  time  of  day  that  the 
+payment is made, the funds will be available in the payee's account on the same day that payment is 
+made  or  the  next  working  day.   Direct  pricing  for  payment  services  is  much  more  widespread  in 
+Norwegian  banks  than  in  banks  in  most  other  countries.  The  price  of  the  services  is  charged  per 
+transaction to the payer and the public may choose the services that cover their needs at the lowest 
+possible price. Since the Act relating to Financial Agreements came into force on 1 July 2000, the float 
+in the Norwegian payment system has been removed. 
+Prices that reflect the relative differences in production costs have had a positive affect on efficiency in 
+the payment system. The economic impact is so substantial that it is visible in the national accounts. 
+The revised national accounts show that GDP growth and productivity growth in the 1990s have been 
+considerably stronger than assumed earlier. The new figures show that annual productivity growth for 
+mainland Norway was 2.4 per cent in the 1990s. Financial services, with annual productivity growth of 
+6.3  per  cent  in  the  1990s,  is  the  sector  that  contributed  most  to  this  increase.  This  contributed  0.2 
+percentage point of the rise in productivity for mainland Norway. This is partly because of a general 
+increase in efficiency after the banking crisis, but is also because of sharp productivity growth in the 
+payment  system.  The  productivity  growth  is  a  result  of  more  cost-effective  production  of  various 
+services as well as increased use of payment services with low production costs. As a result of banks’ 
+direct pricing of payment services, the most cost-effective services have shown the strongest growth. 
+Norges Bank has recently completed a survey of banks’ costs in connection with providing payment 
+services. We have received detailed responses from seven banks, two large and five smaller banks, 
+that account for 38 per cent of the volume in the payment system. We have examined banks’ direct 
+costs  and  indirect  costs  such  as  those  connected  with  personnel,  operation  of  computer  systems, 
+BIS Review 66/2002 
+ 3
+ business premises, machinery, inventory, etc.  Development costs related to new products have been 
+included and spread over the economic life of the service. The survey is described in an article that will 
+appear  in  the  next  issue  of  Economic  Bulletin  which  will  be  published  in  December.  It  will  also  be 
+available on our website in December.  
+4. Transaction volume and total costs
+1000
+800
+600
+400
+200
+0
+No. of transactions, 
+in millions
+1988 
+1994 
+2001
+7
+6
+5
+4
+3
+2
+1
+0
+Total costs, in 
+billions of 2001 
+NOK
+In 2001, banks spent NOK 5.9 billion to produce one billion payment and cash transactions, compared 
+with NOK 6.3 billion to produce less than half the number of transactions in 1994.  
+ 5. Unit costs
+1988
+1994
+2001
+2001 NOK
+1 5
+1 4
+1 3
+1 2
+1 1
+1 0
+9
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Unit costs excluding
+cash withdrawals at 
+the counter
+Unit costs including
+cash withdrawals at 
+the counter
+ As you probably know, we also investigated the costs related to payment transactions in the largest 
+banks and Norway Post in 1988 and 1994. At constant 2001 NOK, the cost per transaction fell from 
+NOK 14.10 in 1988 to NOK 10.70 in 1994. In 2001, the average cost per transaction was NOK 5.30. 
+Since 1988, the cost of an average transaction, at constant prices, has fallen by a good 60 per cent.  
+Banks  have  steadily  increased  the  scope  of  direct  pricing  so  that  the  degree  of  cost  coverage  by 
+means of direct pricing has nearly doubled both from 1988 to 1994 and from 1994 to 2001. In 2001, 70 
+per cent of costs were covered by means of direct pricing.  
+ 
+4 
+ BIS Review 66/2002
+ 6. Unit costs and list prices
+L is t p rice
+U nit c o s t
+NOK
+3 0
+30
+2 5
+25
+2 0
+20
+1 5
+15
+1 0
+10
+5
+5
+0
+0
+Phone giro
+PC/Internet  
+Electronic terminal giro
+Direct debits
+Giro at the counter
+Mail giro
+Paper-based terminal giro
+Giro paid by cash
+Cheque
+Own bank's ATM
+EFTPOS
+Withdrawals/deposits
+Other bank's ATM
+Transfers
+ 7. Cost coverage in 1988, 1994 and 2001
+1988
+Other
+Prices
+Float
+1994
+2001
+Other
+Prices
+Prices
+Other
+Float
+  Due  to  changes  in  banks’  service  range,  users  participate  more  extensively  in  the  production  of 
+payment  services  and  cover  some  of  the  costs  directly.  This  applies  in  particular  to  the  use  of 
+terminals,  PCs  and  telephones  for  bill  payment  and  to  cash  withdrawals  in  connection  with  goods 
+purchases. The survey does not cover customers’ time and travel expenses and expenses related to 
+telephone or PC. These costs would have had to be included in order to provide a complete overview 
+of society’s total costs related to the payment system. Users’ participation in the production of payment 
+services does not necessarily have a positive impact on society’s overall efficiency in the production of 
+payment services. Increased use of e-invoicing will, however, increase the efficiency of electronic bill 
+payment. The survey does not cover the payees’ costs related to invoicing.  
+BIS Review 66/2002 
+ 5
+ 8. Price developments 1993 - 2002
+Electronic services
+Paper-based services
+2001 NOK
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Giro at the 
+counter
+Giro cash
+Cheque
+Mail giro
+2001 NOK
+Telephone giro
+EFTPOS
+PC/Internet giro
+Direct debits
+4
+3.5
+3
+2.5
+2
+1.5
+1
+0.5
+0
+94
+96
+98
+2000 '02
+94
+96
+98
+2000 '02
+ Both developments in the use of payment services and research show that prices affect customers' 
+use  of  different  payment  services.  Despite  the  price  increase  for  most  paper-based  services,  the 
+weighted average price per transaction, at constant prices, has fallen since 1994.  
+ 
+9. Average prices (weighted by transaction)
+2001 NOK
+8
+7
+6
+5
+4
+3
+2
+1
+0
+Weighted average price giro transactions
+Weighted average 
+price all transactions
+94
+95
+96
+97
+98
+99
+00
+01
+8
+7
+6
+5
+4
+3
+2
+1
+0
+ For most services, customer prices are lower than banks’ unit costs. The exception is giro services at 
+the counter. The unit cost for EFTPOS has declined so that transaction prices nearly covered costs in 
+2001.  Prices  have  fallen  because  the  transaction  volume  has  increased  and  costs  related  to 
+developing and introducing the system have been repaid. The price for using a card in a POS terminal 
+has not risen appreciably in recent years. The unit cost for paying bills over the Internet is still high. 
+This is probably because development and introduction costs are still not repaid and because there is 
+excess  capacity  in  the  banks'  solutions.  Customer  prices  cover  less  than  one-fourth  of  the  costs 
+reported by banks in connection with this service. It appears that banks are pricing this service on the 
+basis of a long-term strategy that low prices during the introduction phase will encourage customers to 
+use new, more efficient payment instruments earlier. If the pricing strategy actually increases use, it 
+may contribute to increasing efficiency in the payment system in the long term because economies of 
+scale will be exploited at an early stage.  
+In  Norway,  the  Banks'  Standardisation  Office  establishes  the  standards  for  payment  services.  The 
+Banks' Payment and Central Clearing House (BBS) and EDB Fellesdata produce most of the payment 
+services in Norway. In some areas, the two companies produce different kinds of services, while in 
+other  areas,  they  compete  in  the  same  market.  This  solution  exploits  economies  of  scale  in  the 
+development and production of payment services.  
+ 
+6 
+ BIS Review 66/2002
+ Reduction of risk in the payment systems 
+Risks  in  payment  systems  have  received  increased  attention  in  the  1990s,  both  internationally  and 
+here in Norway. An average of NOK 160-170 billion is settled in Norges Bank’s Settlement System 
+every day. In addition, a number of banks settle transactions in Union Bank of Norway and Den norske 
+Bank. If a bank is incapable of timely settlement, the settlement systems may be a source of financial 
+instability. The settlement systems may also contribute to spreading liquidity and solvency problems.  
+The Committee on Payment and Settlement Systems (CPSS) in the Bank for International Settlements 
+(BIS) has established 10 core principles with which all systemically important settlement systems must 
+comply in order to limit risk in the payment system. Norges Bank's assessments indicate that all the 
+important bank-operated settlement systems in Norway that have been authorised, i.e. the systems 
+operated by Union Bank of Norway, Den norske Bank, NICS (Norwegian Interbank Clearing System) 
+satisfy these 10 core principles.  
+10. Risks in the payment system
+• Legal risk
+- Uncertainty in agreements and division of responsibility
+• Settlement risk – credit and liquidity risk
+- Credit risk is the risk of loss when the payer is unable to meet his 
+obligations
+- Liquidity risk is the risk that the counterparty is unable to meet his 
+obligations at the agreed time
+• Operational risk
+- Problems or interruptions in computer systems or communication 
+lines or insufficient routines 
+ Risk in the payment system is often divided into four categories. Legal risk is related to uncertainty 
+about agreements and the distribution of responsibility. The Payment Systems Act shall contribute to 
+an  organisation  of  the  systems  that  promotes  financial  stability.  The  act  also  transposes  the  EU 
+Directive  on  settlement  finality  into  Norwegian  law.  The  Directive  protects  approved  payment  and 
+securities systems against legal risk associated with the insolvency of a participant. Norges Bank has 
+notified all important settlement systems to the EFTA Surveillance Authority, ESA, thus providing them 
+with  legal  protection.  The  legal  risk  as  defined  above  should  therefore  be  eliminated  for  these 
+settlements.  
+Settlement risk consists of credit risk and liquidity risk. The banking industry’s transition to crediting 
+after  settlement  has  eliminated  most  of  the  credit  risk.  Liquidity  risk  is  also  limited  because  Norges 
+Bank offers liquidity through the day which is only limited by the collateral furnished by the banks. In 
+gross settlement in Norges Bank, banks have coordinated their transaction exchange and there is a 
+built-in  anti-gridlock  function  which  becomes  operative  if  a  transaction  lacks  cover.  So  far,  queues 
+have  not  been  a  problem  in  NBO.  Settlement  risk  is  therefore  not  considered  a  threat  to  financial 
+stability.  
+The fourth type of risk is operational risk. Operational risk arises as a result of failure or downtime in 
+computer systems or communication lines between systems or inadequate routines. After one of the 
+major operators experienced a system breakdown that lasted several days in the summer of 2001, all 
+the key operators in the settlement system have initiated measures to increase operational reliability 
+and to have better back-up solutions in the event of any disturbances at the ordinary operations site. 
+The  problems  during  the  summer  of  2001  had  no  impact  on  financial  stability,  but  reduced  the 
+efficiency of the Norwegian payment system until the operators had restored normal operations.  
+The operational reliability of Norges Bank’s Settlement System has been very high the last year. In the 
+period from 8 October 2001 to 5 June 2002, Norges Bank has not been responsible for any settlement 
+errors, i.e. 239 days without errors. On 5 June 2002, an error that was classified as a small error by 
+BBS  gave  us  one  error  point.  Since  5  June,  operations  have  run  smoothly,  i.e.  162  days  without 
+errors.  
+BIS Review 66/2002 
+ 7
+ Despite these positive results, Norges Bank has decided to modernise the current settlement system 
+because the existing system is complicated and tightly interwoven with other systems. This makes the 
+settlement system vulnerable. Operation and maintenance of the current system also require relatively 
+extensive  resources.  Following  discussions  with  the  banking  industry  about  the  division  of 
+responsibility and organisation of the Norwegian clearing and settlement system, it has been decided 
+that the current division of responsibility will remain virtually unchanged. Banks will be responsible for 
+gathering  transactions  and  for  netting  and  Norges  Bank  will  be  responsible  for  settlement.  Norges 
+Bank has decided to outsource the operational activities of settlement. We are currently preparing an 
+invitation to tender for prospective partners.  
+We will devote considerable attention to these issues in the future. We assume that we will have a 
+definite  plan  for  the  site  of  our  settlement  operations  by  summer  2003,  with  implementation  next 
+autumn.  
+International recommendations and work 
+The Committee on Payment and Settlement Systems (CPSS) in the Bank for International Settlements 
+(BIS) has established a separate Working Group on Retail Payment Systems. In September this year, 
+the working group submitted a report on “Policy issues for central banks in retail payments”.  
+11. BIS recommendations
+• In the work on retail payments, central banks should 
+focus on four important areas:
+- Ensure that the legal and regulatory framework is not an obstacle to 
+innovation and development
+- Monitor market structure, market developments and the market 
+performance, and ensure that conditions are conducive to 
+competition
+- Monitor the development of safety and operational standards and 
+evaluate the effect of such standards on competition in the market
+- Provide settlement services in a way that contributes to efficient and 
+safe solutions in the rest of payment system
+ The  report  considers  how  central  banks  should  work  in  order  to  achieve  the  goal  of  efficient  retail 
+payment systems and it identifies four areas in which central banks can become involved. 
+• 
+Ensure  that  the  legal  and  regulatory  framework  is  no  obstacle  to  innovation  and 
+development. 
+Monitor the market structure, market developments and market performance and ensure that 
+conditions are conducive to competition. 
+Monitor  the  development  of  safety  and  operational  standards  and  evaluate  the  impact  of 
+these standards on competition. 
+Provide settlement services in a way that contributes to efficient and safe  solutions in the 
+rest of the payment system. 
+   We will place emphasis on these recommendations in our future work on retail payment systems.  
+The ECB has recently reviewed a proposal that key retail payment systems should also comply with 
+six of the core principles for systemically important payment systems established by the BIS/CPSS. It 
+is  up  to  each  country’s  central  bank  to  determine  which  retail  payment  systems  are  important  and 
+must therefore comply with the six recommendations.  
+The proposal implies that retail payment systems must have a well-founded legal basis. The individual 
+participant should have a clear understanding of the financial risk connected with participation in the 
+system. Further, the retail payment systems should ensure a high degree of safety and operational 
+reliability  and  should  have  satisfactory  contingency  arrangements.  The  system  should  also  provide 
+efficient  and  practical  payment  solutions.  The  system  should  have  objective  and  publicly  disclosed 
+8 
+ BIS Review 66/2002
+ criteria  for  participation,  which  permit  fair  and  open  access,  and  the  system's  governance 
+arrangements  should  be  effective,  accountable  and  transparent.  The  ECB  suggests  in  addition  that 
+the four remaining core principles may be applied to retail payment systems. Of these, the ECB is of 
+the view that the core principle concerning final settlement on the day of value should receive highest 
+priority. 
+Norges Bank has not made a thorough evaluation of the Norwegian retail payment system in relation 
+to the six recommended core principles. Nevertheless, I will present some preliminary assessments of 
+where the Norwegian retail payment system stands in relation to these recommendations.  
+12. ECB proposal for core principles for retail 
+systems
+I.
+II.
+The system should have a well founded legal basis under all 
+relevant jurisdictions.
+The system’s rules and procedures should enable participants to 
+have a clear understanding of the system’s impact on each of the
+financial risks they incur though participation in it. 
+VII. The system should ensure a high degree of security and operational 
+reliability and should have contingency arrangements for timely 
+completion of daily processing. 
+VIII. The system should provide a means of making payments which is 
+practical for its users and efficient for the economy. 
+13. ECB proposal for core principles for retail 
+systems
+IX. The system should have objective and publicly disclosed 
+criteria for participation, which permit fair and open 
+access. 
+X. The system’s governance arrangements should be 
+effective, accountable and transaparent. 
+In addition, this principle should also be fulfilled:
+IV. The system should provide prompt final settlement on the 
+day of value, preferably during the day, and at a minimum 
+at the end of the day.
+ The Act relating to Financial Agreements and the  Payment  Systems Act ensure that  Norway has a 
+modern, comprehensive legal framework for payment services. The Payment Systems Act has also 
+contributed to removing banks’ legal risk linked to participation in the payment system. Therefore, the 
+Norwegian  retail  payment  system  should  satisfy  the  principle  of  a  well-founded  legal  basis.  Earlier 
+today, I concluded that settlement risk in the Norwegian payment systems was very limited. I believe 
+we can also say that the financial risk has been publicly disclosed and is understood. 
+As I have already mentioned, all the key participants in the settlement system have initiated measures 
+to  reduce  operational  risk  and  improve  contingency  arrangements.  Safety  in  the  Norwegian  retail 
+payment system appears to be high. Therefore, I believe that the Norwegian retail payment system 
+largely satisfies the principle of safety and operational reliability. As I have already said, Norway has a 
+very efficient retail payment system. Therefore, the system complies with the core principle concerning 
+efficient  and  practical  payment  solutions.  Banks  have  clear  rules  about  the  criteria  which  new 
+participants must satisfy in order to gain access to the common systems. The terms and conditions are 
+publicly disclosed and the Norwegian Competition Authority has had no comments to them. The core 
+principle concerning objective and publicly disclosed criteria for participation is therefore regarded as 
+satisfied.  The  systems’  organisation  largely  satisfies  the  core  principle  concerning  effective, 
+BIS Review 66/2002 
+ 9
+ accountable  and  transparent  governance.  The  additional  recommendation,  i.e.  compliance  with  the 
+core principle concerning final settlement on the day of value, is also satisfied in Norway.  
+Internationally,  central  banks  have  also  shown  increasing  interest  in  efficiency  in  retail  payment 
+systems.  
+Norges Bank’s work with retail payment systems 
+In the spring of 2002, we published a policy document that provides an account of our responsibilities 
+in the payment system area. In this document, we discuss our earlier work in this area and premises 
+and plans for future work.  
+Norges  Bank  monitors  developments  in  the  market  and  documents  this  in  its  Annual  Report  on 
+Payment Systems. The report was the first of its kind and has received international recognition. The 
+statistics  in  the  report  are  based  largely  on  voluntary  reporting  from  the  key  participants  in  the 
+Norwegian payment system, and we are very grateful for their cooperation.  
+It is the  banking  industry  that makes decisions about the  use of standards and about  infrastructure 
+development.  Norges  Bank  will  closely  monitor  the  work  and  emphasise  that  standards  and 
+infrastructure be designed in a way that does not inhibit competition.  
+Which requirements should be satisfied by new payment systems? 
+Innovation  and  development  of  new  payment  systems  that  satisfy  new  needs  are  important  to 
+maintaining  efficiency  in  the  Norwegian  retail  payment  system  over  time.  This  requires  that  banks 
+continue to develop their range of payment services.  
+When new payment services are developed, it is desirable to retain the common infrastructure. This 
+implies that all systems are based on the same technology or that there is a common interface that 
+allows the systems to communicate without any problems. To ensure efficiency in the market, open 
+solutions  which  allow  competition  for  production  and  delivery  of  services  will  be  an  advantage. 
+Competition  for  production  of  services  may  conflict  with  exploitation  of  economies  of  scale.  Norges 
+Bank will place considerable emphasis on the existence of competition for delivery of these services to 
+the users. We want new payment services to be priced according to the same principles as today. In 
+other words, prices should reflect the expected unit costs in the long term.  
+The safety of new payment systems must also be satisfactory. This means that customers must feel 
+confident that they will not be exposed to misuse when they use a payment instrument and that they 
+can be sure that their payments reach the payees at the agreed time. This places stringent demands 
+on the technical design of the services and on operational reliability and back-up solutions provided by 
+those responsible for operations. Vis-à -vis customers, it is always the banks that are responsible for 
+the payment services' compliance with safety and operational reliability requirements. Regardless of 
+whether  the  services  are  purchased  from  a  subcontractor,  it  is  the  banks  that  are  responsible  in 
+relation to the customers. In other words, it is not possible to outsource the responsibility even though 
+the operation has been outsourced.  
+Conclusion 
+International fora are interested in the Norwegian payment system. We receive praise for the efficiency 
+of the system. The banking industry must be given the credit for this because they have sought out 
+efficient solutions and have cooperated on system development both within the industry and with the 
+central bank. The cooperation between the central bank and the banks on gathering transaction, price 
+and cost data is considered unique and extremely valuable.  
+We hope that Norway  will  continue to be  a leader  in developing the range of services and that the 
+effective cooperation will continue in the pursuit of our common goal: An efficient payment system.  
+Thank you for your attention. 
+10 
+ BIS Review 66/2002

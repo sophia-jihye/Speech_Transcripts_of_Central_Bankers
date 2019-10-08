@@ -1,0 +1,973 @@
+  Andrew G Haldane: Who owns a company? 
+Speech by Mr Andrew G Haldane, Executive Director and Chief Economist of the Bank of 
+England,  at  the  University  of  Edinburgh  Corporate  Finance  Conference,  Edinburgh, 
+22 May 2015. 
+ The  views  are  not  necessarily  those  of  the  Bank  of  England  or  the  Monetary  Policy 
+Committee. I would like to thank Jeremy Franklin, Conor Macmanus, Jennifer Nemeth, Ben 
+Norman,  Peter  Richardson,  Orlando  Fernandez  Ruiz,  John  Sutherland,  Ali  Uppal  and 
+Matthew Willison for their help in preparing the text. I would also like to thank Andrew Bailey, 
+Mark Carney, Iain de Weymarn, Sam Harrington, Alan Murray, Rhys Phillips and David Rule 
+for their comments and contributions. 
+Introduction 
+This might  seem  like  a simple  question  with  a simple  answer.  At  least for  publically  listed 
+companies, its owners are its shareholders. It is they who claim the profits of the company, 
+potentially in perpetuity. It is they who exercise control rights over the management of the 
+company from whom they are distinct. And it is they whose objectives have primacy in the 
+running of the company. 
+This is corporate finance 101. It is the centrepiece of most corporate finance textbooks. It is 
+the  centrepiece  of  company  law.  It  is  the  centrepiece  of most  public  policy  discussions  of 
+corporate governance. And it is a structure which, ultimately, has survived the test of time, 
+having  existed  in  more  or  less  the  same  form  for  over  150  years  in  most  advanced 
+economies. 
+That the public company has been a success historically is not subject to serious dispute. It 
+was no coincidence that its arrival in a number of advanced economies, in the middle of the 
+19th  century,  marked  the  dawn  of  mass  industrialisation.  The  public  company  was  a  key 
+ingredient in this second industrial revolution. Perhaps for that reason, the public company is, 
+in many people’s eyes, the very fulcrum of capitalist economies. 
+Yet despite its durability and success, across countries and across time, this corporate model 
+has  not  gone  unquestioned.  Recently,  these  questions  have  come  thick  and  fast,  with  a 
+rising tide of criticism of companies’ behaviour, from excessive executive remuneration, to 
+unethical  practices,  to  monopoly  or  oligopoly  powers,  to  short-termism.  These  concerns 
+appear to be both strongly-felt and widely-held. 
+Among  the  general  public,  surveys  suggest  a  majority  do  not  trust  public  companies, 
+especially big companies.1 Among professional investors, sentiment is well-encapsulated by 
+the following quote from Larry Fink, CEO of Blackrock – the world’s largest asset manager – 
+in a letter sent to the Chairmen and CEOs of the top 500 US companies earlier this year:2 
+“[M]ore and more corporate leaders have responded with actions that can deliver 
+immediate  returns  to  shareholders,  such  as  buybacks  or  dividend  increases, 
+while  underinvesting  in  innovation,  skilled  workforces  or  essential  capital 
+expenditures necessary to sustain long-term growth.” 
+Among academics, John Kay’s UK government-initiated review into short-termism in equity 
+markets and their effect on listed companies (Kay (2012)), Colin Mayer’s Firm Commitment 
+                                                
+1 
+2  Full letter published on Business Insider. See http://www.businessinsider.com/larry-fink-letter-to-ceos-2015-4?IR=T.  
+2015 Edelman TrustBarometer. For further details please see: http://www.edelman.com/.  
+BIS central bankers’ speeches 
+ 1 
+  
+ 
+(Mayer (2013)) and Lynn Stout’s The Shareholder Value Myth (Stout (2012)) each raise deep 
+and far-reaching questions about the purpose and structure of today’s companies. 
+Are these concerns legitimate? What is their precise micro-economic source? And are they 
+now of sufficient macro-economic importance to justify public policy intervention? To answer 
+those questions, it is useful to start with the origins of modern-day companies, before looking 
+at  the  potential  incentive  problems  among  stakeholders  embedded  in  those  structures. 
+Finally, I consider public policy actions that might mitigate these problems. 
+These problems are not specific to any industry. But banks’ balance sheets and governance 
+structures  mean  they  may  be  especially  prone  to  these  incentive  problems.  So  I  will  use 
+them  to  illustrate  some  of  the  micro-economic  frictions  and  their  macro-economic  impact. 
+Indeed,  it  is  no  coincidence  that  the  most  significant  changes  to  corporate  governance 
+practices recently have been within the banking sector. 
+A short history of companies 
+Let  me  begin  by  defining  “corporate  governance”  in  its  broadest  sense:  as  the  set  of 
+arrangements that determine a company’s objectives and how control rights, obligations and 
+decisions are allocated among various stakeholders in the company (Allen and Gale (2000)). 
+These  stakeholders  comprise  not  only  shareholders  and  managers,  but  also  creditors, 
+employees, customers and clients, government, regulators and wider society. 
+Over the past two centuries, several dozen pieces of company legislation have been enacted 
+in  the  UK  alone.  This  legislation  has  successively  defined  and  redefined  these  purposes, 
+rights and obligations among stakeholders. This legislative path has been long and winding – 
+Table  1  provides  a  summary.  It  has  been  shaped  importantly  by  the  social,  legal  and 
+economic climate of the day. And it is the interplay between these contextual factors that, 
+through an evolutionary process, has delivered today’s corporate governance model. 
+Moving to incorporation 
+Tracing definitively the origins of what today are called companies is not straightforward. It is 
+possible  to  sketch  a  timeline  stretching  back  at  least  to  Rome  around  700BC  to  find 
+something  resembling  a  company  (Shelton  (1965)).  Certainly,  by  the  sixth  century  AD  a 
+number of corporate entities were codified in Roman Law (Moyle (1913)). 
+Modern  concepts  of  tradable  “shares”  in  companies  appear  to  have  emerged  in  the 
+mid-thirteenth century in continental Europe. In England, early methods of incorporation were 
+set out in a common law case in 1615: incorporation was a privilege bestowed by the state, 
+either by a Royal Charter or a private Act of Parliament.3 At least in principle, this meant a 
+company was incorporated with public good objectives in mind. 
+A prominent early example of such a company was the Bank of England. It was established 
+in 1694 under both a Royal Charter4 and an Act of Parliament.5 The Charter establishing the 
+Bank made clear that its purpose was “to promote the public good and benefit of our people”. 
+And so it remains today. 
+But this incorporation process was costly, lengthy and cumbersome. It was also subject to 
+favouritism  and  abuse.  Lawyers  and  businessmen  began  to  find  legal  loopholes  allowing 
+them  to  found  companies  while  remaining  unincorporated.  These  unincorporated  entities 
+                                                
+3   Chief Justice Coke set out how “lawful authority of incorporation…may be by four means[:]…by the Common Law, as the 
+King  himself;…by  authority  of  Parliament;  by  the  King’s  Charter;  and  by  prescription.”  See  Hunt  (1936),  and 
+http://oll.libertyfund.org/titles/911/106352#lf0462-01_head_102 
+http://www.bankofengland.co.uk/about/Documents/legislation/1694charter.pdf  
+http://www.bankofengland.co.uk/about/Documents/legislation/1694act.pdf  
+4 
+5 
+2 
+ BIS central bankers’ speeches 
+  
+ 
+were generally small partnerships, whose members both owned and controlled the company 
+and faced unlimited liability. 
+This  model  was  an  incentive-compatible  one.  It  delivered  a  close  alignment  between  the 
+interests of directors and shareholders – typically, they were one and the same. Meanwhile, 
+unlimited  liability  created  sharp  incentives  among  owners  to  avoid  insolvency  as  typically 
+their  very  livelihoods  depended  on  it.  And  this,  in  turn,  helped  protect  wider  stakeholders, 
+including creditors and customers, from company risk. 
+From unlimited to limited liability 
+Times were, however, changing. Approaching the middle of the 19th century, the era of mass 
+industrialisation was dawning. Pressures to expand companies, financed by larger pools of 
+capital,  began  to  mount.  Unlimited  liability  was  felt  by  some  to  create  an  insurmountable 
+barrier to such expansion, inhibiting prospective deep-pocketed investors from putting their 
+money into unlimited liability ventures. 
+As Liberal MP William Clay said in 1836 “unlimited liability has a tendency to deter persons 
+of fortune, intelligence and respectability from becoming partners or managers of joint-stock 
+banks”. Walter Bagehot attacked unlimited liability on the grounds that its financial benefits 
+were illusory, as most shareholders simply did not have deep enough pockets to make good 
+prospective losses (Bagehot (1862)). 
+International  practices  were  also  shifting.  Limited  liability  had  been  introduced  in  parts  of 
+continental Europe from the  17th  century onwards. It had also begun its journey across the 
+Atlantic, with Connecticut and Massachusetts adopting it from 1817 (Haldane (2011)). 
+In 1854, a Mercantile Law Commission in the UK reported on its review into limited liability. 
+Its verdict was clear: “although the details of our mercantile laws may require correction…it 
+would  be  unwise  to  interfere  with  principles  which…have  proved  beneficial  to  the  general 
+industry of the country” (Johnson (2013)). In short, the costs of limiting liability outweighed its 
+benefits. 
+It was to no avail. A well-connected, and newly wealthy, middle class was eager to protect its 
+riches  when  owning  and  investing  in  business  (Ireland  (2010)).  And  an  eager-to-please 
+political  class  was  keen  to  expand  business  to  stimulate  economic  activity  (Blumberg 
+(1986)). Parliament passed the Limited Liability Act in 1855. 
+With  limited  liability,  incentives  to  avoid  insolvency  were  no  longer  so  sharp.  As  share 
+ownership widened, directors and shareholders became distinct entities. In the eyes of the 
+law,  a  share  was  no  longer  an  equitable  interest  in  a  company’s  assets  (Ireland  (2010)). 
+Instead it was a residual claim on its future profits. A Rubicon had been crossed. 
+Britain’s early banks 
+Interestingly, banks followed a somewhat more circuitous route, albeit to the same end-point. 
+Until 1826, the number of partners in a note-issuing bank in England was limited to six. The 
+six-partner rule for English banks was relaxed in 1826. But it was not until 1858 that English 
+banks were allowed to limit their liability, three years after non-financial institutions. This was 
+recognition that the risks posed by banks were on an altogether greater scale. 
+Even  after  legislation  was  passed,  the  initial  response  by  banks  was  lukewarm.  Their 
+directors fretted  about  the  signal  that  limited  liability  sent  to  depositors.  That  concern  was 
+reinforced  when  Overend  and  Gurney  failed  in  1866;  it  had  adopted  limited  liability  just 
+months  before  its  failure.  For  the  eleven  British  banks  with  unlimited  liability  that  failed 
+between 1836 and 1878, every depositor had been paid out in full (Turner (2014)).6 
+                                                
+6  Turner (2014) Table 5.6. 
+BIS central bankers’ speeches 
+ 3 
+  
+ 
+Shareholders’  willingness  to  do  so  was  helped  by  them  vetting  share  transfers to  exclude 
+owners without sufficient funds. Indeed, banks’ shareholders remained liable even after they 
+had sold their shares: in Scotland, former shareholders were liable for debts incurred when 
+they had been a shareholder, while in England and Ireland a shareholder remained liable for 
+three years after they had sold their shares (Button et al (2015)). 
+But critics of unlimited liability for banks were becoming increasingly vocal. George Rae, an 
+Aberdonian  who  became  a  prominent  banker  during  the  19th  century,  feared  that  “men  of 
+wealth and position would gradually sell out” such that unlimited liability was reduced to “a 
+husk without its kernel” (Rae (1885)).7 The tide was gradually turning. 
+In 1849, only the five original joint-stock banks set up by state charter – the Bank of England, 
+the 
+Bank of Scotland, the Royal Bank of Scotland, the Bank of Ireland and the British Linen Bank 
+– were statutorily permitted to operate with limited liability. By 1869, roughly a third of British 
+banks had limited their shareholders’ liability.8 
+But it was the failure of the City of Glasgow Bank in 1878 that precipitated a decisive shift 
+away from unlimited liability.9 Such a large proportion – 86% – of its shareholders were wiped 
+out that a public relief fund was set up to support them. As The Economist reported at the 
+time,  “the  share  lists  of  most  of  our  banks  exhibit  a  very  large  –  almost  an  incredible  – 
+number of spinsters and widows” (Button et al (2015)). 
+The Companies Act 1879 introduced a different liability concept  – reserve liability  – under 
+which a shareholder was liable to meet a bank’s debt up to a fixed multiple of their equity 
+investment  in  the  case  of  its  failure.  This  was  analogous  to  the  double-liability  system 
+adopted  for  US  bank  shareholders  at  the  time.10  By  1889,  all  bar  two  British  banks  had 
+limited their shareholders’ liability and nearly two-thirds had opted for reserve liability.11 
+But  even  reserve  liability  was  felt  to  be  precarious,  stoking  rather  than  abating  banking 
+crises.  As  Bank  of  England  Deputy  Governor  Catterns  stated  in  a  secret  memo  of  1937 
+“today  a  bank  could  not  in  a  crisis  make  a  call  on  shareholders  without  aggravating  the 
+crisis”.12  In  the  1950s,  the  major  British  banks  eliminated  their  remaining  uncalled  capital 
+(Turner (2009)). 
+Entrenching shareholder rights 
+Yet, even once firmly rooted, limited liability quickly gave rise to a new set of questions. If 
+managers  were  no  longer  personally  liable  for  failure,  what  incentivised  them  to  protect 
+investors’ money? And what provided the incentives for shareholders, increasingly dispersed 
+and with their claims protected from downside risk, to remain engaged? 
+In  the  19th  century,  maximising  shareholder  return  was  not  the  centrepiece  of  companies’ 
+objectives  or  directors’  duties.  To  be  sure,  paying  a  regular  dividend  was  important  and 
+shareholders  could  –  and  often  did  –  challenge  directors  regarding  its  size.  But  wider 
+considerations played as important a role. 
+Introducing his reflections in 1885 on “the  rights  and  duties  of  shareholders”, George Rae 
+observed that “when a man becomes a shareholder in a bank he becomes to all intents and 
+                                                
+7  Rae (1885). 
+8  Acheson, Hickson & Turner (2010). 
+9  Button et al (2015). 
+10  Esty (1998). 
+11  Acheson et al (2010). 
+12  Turner (2014). 
+4 
+ BIS central bankers’ speeches 
+  purposes a co-partner in the business transacted by it. True, he is only one partner amongst 
+a thousand others in your Bank; but that does not release him from the obligation of doing 
+what he can for the common good” (Rae (1885)). 
+Walter  Leaf,  chairman  of  Westminster  Bank  Ltd,  writing  in  the  1920s  remarked:  “The 
+confidence in British banking which has been acquired by long experience is mainly due to 
+the sense that Directors have conducted the business of their banks with constant attention 
+to public interests in the first place” (Leaf (1937)). The public good remained centre-stage in 
+companies’, and in particular banks’, objectives. 
+Yet even as Rae and Leaf were writing, shareholders’ focus on returns was sharpening. Rae 
+comments:  “There  are  shareholders  to  be  found  here  and  there,  to  whom  their  own  Bank 
+would appear to be a hostile institution, which it is their business to attack on the slightest 
+pretext… He is disappointed with the dividend, and objects to the balance carried forward to 
+next year as excessive” (Rae (1885)). 
+The legal framework underpinning companies was also starting to fray. It had failed to keep 
+pace with the boom in the number of shareholders and their quest for dividends. Cases of 
+company  fraud  began  to  proliferate  (Ireland  (2010)).  In  1848,  Arthur  Smith  published  a 
+pamphlet where he uncovered that most railway companies – the poster child for the modern 
+corporation  –  were  in  fact  profitless  and  paying  dividends  to  shareholders  out  of  capital 
+(Smith (1848)). 
+The law responded with a number of measures to protect shareholders. These included the 
+requirement for companies to disclose information about their operations, such as through 
+company accounts, and powers for shareholder to sue directors (Bryer (1993)). These were 
+augmented  with  shareholder  General  Meetings  (GM),  the  forerunner  of  today’s  Annual 
+General Meetings (AGMs). 
+Initially, shareholders’ voting powers at these GMs varied significantly. In a sample of pre-
+1850  companies,  233  different  shareholder  voting  systems  were  found.  The  Companies 
+Clauses Consolidation Act of 1845 set as the default voting structure a graduated system of 
+shareholder rights, in which rights reduced according to the scale of shareholding. But during 
+the course of the 19th century, the “one share, one vote” voting model familiar today gradually 
+came into the ascendency (Freeman et al (2012)). 
+Shareholder primacy 
+Accompanying this rise in shareholder rights was a steady rise in acceptance of shareholder 
+primacy as the key objective of a company, at least in the UK and US. A number of legal 
+case decisions, on both sides of the Atlantic, saw this objective enshrined. 
+In the UK, the case of Hutton vs West Cork Railway Company in 1883, the company had 
+been  wound  up  and  yet  still  resolved  to  pay  directors  for  their  past  service.  Shareholders 
+successfully challenged these awards on the grounds that they did not benefit the company 
+which, crucially, was interpreted to mean its shareholders (Mukwiri (2013)). 
+In the US in 1919, a case against Henry Ford  was brought before the Michigan Supreme 
+Court  by  the  Dodge  brothers,  a  minority  shareholder.  They  challenged  Ford’s  decision  to 
+reinvest  the  firm’s  profits  to  expand  the  business  and  pay  better  wages,  which  they  felt 
+contradicted  the  purposes  of  the  corporation  –  maximising  shareholder  return.  The  Court 
+ruled that Ford owed a duty to his shareholders and ordered him to pay a special dividend 
+(Fisch (2006)). 
+In  the  light  of  these  cases,  lawyers  began  to  debate  shareholder  primacy  as  a  company 
+objective. In a series of law review articles in the 1920s and 1930s, Adolf Berle proposed 
+treating  corporate  managers  as  trustees  with  fiduciary  obligations  to  act  for  the  benefit  of 
+shareholders. Berle’s motivation, interestingly, was in having a corporate governance model 
+that redistributed power away from managers and towards “the people”. 
+BIS central bankers’ speeches 
+ 5 
+ risked  entrenching 
+the  power  of  management,  creating 
+ 
+ 
+Together with economist Gardiner Means, Berle published in 1932 The Modern Corporation 
+and Private Property (Berle and Means (1932)). It argued that the ever-wider dispersion of 
+shareholders 
+“ownerless 
+corporations”.  Around  the  same  time,  Joseph  Schumpeter  warned  that  corporations  could 
+become increasingly bureaucratic and run for their own ends, hampering the dynamism of 
+capitalism  (Schumpeter  (1942)).  The  solution  proposed  by  Berle  and  Means  was  to  give 
+shareholders primacy in a company’s objectives, together with the control rights necessary to 
+meet this objective. 
+In  the  1960s,  Henry  Manne  started  to  weave  Berle’s  legal  perspective  into  economics 
+(Manne  (1965)).  He  argued  that  shareholder  primacy  acted  as  a  disciplining  device  on 
+management. Inefficient management would be reflected in a lower share price, making the 
+company an attractive target for a more efficient competitor. In other words, it was possible to 
+create a market in corporate control which could drive out company inefficiencies. 
+The shareholder-centric model also appeared efficient from a risk allocation perspective. If 
+control rights were placed in the hands of the party shouldering greatest risk – shareholders 
+– this provided the strongest possible incentives to safeguard the fortunes of the company. 
+The shareholder-centric model appeared to be a recipe for higher economic returns at the 
+lowest  possible  risk.  This  was  an  awe-inspiring  combination.  By  the  1980s,  corporate 
+success and the level of share prices had, in effect, become synonyms.13 
+Corporate governance today 
+The UK Companies Act 2006 can, in some respects, be seen as a natural evolution of this 
+historical trajectory. It arose out of the work of The Company Law Review Steering Group, 
+appointed by the government in 1998.14 Two fundamental issues arose. First, should the law 
+expect companies to consider responsibilities broader than shareholder maximisation? And 
+second, should the law attribute specific responsibilities to company directors? 
+It concluded that directors’ duties should not be recast to include a wider set of stakeholders. 
+Giving  directors  pluralist  duties  risked  turning  “company  directors  from  business  decision 
+makers into moral, political or economic arbiters”. In other words, shareholder primacy was 
+not  just  retained  but  now  made  legally  explicit  in  Section  172  of  the  UK  Companies  Act 
+(2006): 
+“A director of a company must act in a way he considers, in good faith, would be 
+most likely to promote the success of the company for the benefit of its members 
+as a whole…” 
+The Group also suggested that directors’ duties be defined in law. They were to serve the 
+interests of shareholders, first and foremost, but also had to “have regard” to wider interests, 
+including  employees,  customers,  suppliers  and  the  wider  community.  This  “enlightened 
+shareholder  value”  objective  was  to  be  supported  by  public  accountability,  with  annual 
+reporting on how companies were meeting their wider interests.15 
+The findings of the review were drafted into legislation, with the Company Law Act of 2006. 
+Under it, shareholders were given new legal rights to initiate proceedings against directors if 
+they  breached  their  responsibilities.  And  the  precise  role  of  the  “have  regards”  provisions 
+                                                
+13  Empirical  evidence  appeared  to  support  this  case.  Companies  in  which  shareholders  had  stronger  rights  relative  to 
+management  had  higher  stock  returns  and  relative  to  the market  (Gompers,  Ishii  and  Metrick  (2003)),  while  acquisitions 
+involving  companies  where  there  were  stronger  takeover  defence  measures  tended  to  have  lower  shareholder  returns 
+(Masulis, Wang and Xie (2007)).  
+14  See Chapter 1 of The Company Law Review Steering Group (1999). 
+15  See paragraph 3.2 of The Company Law Review Steering Group (2000).  
+6 
+ BIS central bankers’ speeches 
+  
+ 
+was left open to interpretation. Meanwhile, for the first time in history, shareholder primacy 
+had been hard-wired into companies’ statutory purposes. 
+The microeconomics of companies 
+Given this corporate structure, what incentive problems might arise among stakeholders? It 
+is worth noting up front that the existence of these frictions is not, in of itself, a criticism of the 
+current corporate model. All corporate governance models embody these frictions to some 
+degree. A set of fully state-contingent contracts among all stakeholders could eliminate them. 
+But this first-best is infeasible (Hart (1995)). So the aim of any corporate governance model 
+is to minimise these frictions, rather than eliminate them, in a second-best or worse world. 
+In identifying incentive frictions within a company, it is useful to consider three distinct sets of 
+stakeholder relationships: 
+• 
+• 
+First, between shareholders and managers. 
+Second,  between  shareholders/managers  and  other  company  stakeholders 
+(bondholders, depositors, borrowers and employees). 
+Third,  between 
+(regulators, government and wider society). 
+internal  stakeholders  and  external  stakeholders 
+firm’s 
+the 
+ Classic principal/agent problems 
+Shareholders and managers 
+In  a  modern  public  company,  shareholders  and  managers  are  distinct  and  serve  distinct 
+roles.  This  separation  has  a  micro-economic  rationale.  From  Fama  and  Jensen  (1983),  it 
+generates gains from specialisation, with risk/return monitoring undertaken by the board of 
+Directors (acting on behalf of shareholders) and risk/return decision-making by management. 
+The micro-economic question is at what cost this separation is achieved. 
+(a) 
+Following  the  work  of  Jensen  and  Meckling  (1976),  the  most  extensively  studied  cost  of 
+separation arises when management pursues their own private interests at the expense of 
+shareholders: for example, through corporate perks such as private jets or sponsored football 
+teams,  empire-building  such  as  value-destroying  acquisitions,  or  rent  extraction  through 
+excessive executive remuneration. This is a classic principal/agent problem. 
+Those  theoretical  concerns  gained  practical  prominence  during  the  1970s.  The  response 
+then  was,  on  the  face  of  it,  ingenious:  to  align  shareholder  and  managerial  incentives, 
+remuneration contracts for management needed simply to be linked to shareholder returns. 
+This  could  be  achieved  by  paying  managers  not  in  cash  but  in  equity  or  in  equity-linked 
+instruments, such as stock options. 
+And so it came to pass. Between 1980 and 1994, the average value of stock options granted 
+to CEOs of large US companies rose by almost 700%, while salaries and bonuses rose by 
+less than 100% (Hall and Liebman (1998)). The proportion of companies remunerating their 
+CEOs in stock more than doubled. 
+Those  trends  have  continued  apace  in  the  two  decades  since.  In  1994,  US  CEO 
+compensation  was  split  roughly  one  third  salary,  one  third  bonus  and  one  third  stock  and 
+stock options. By 2006, the dawn of the crisis, that split was less than 20% salary, less than 
+30% bonus and more than half stock and stock options. Among banks, the latter fraction was 
+higher still. 
+Whether this shift in compensation practices put a lid on CEO rent-seeking seems altogether 
+more questionable. Experience in the run-up to the crisis suggests, if anything, the opposite. 
+Paying in equity appears to have increased the probability of failure. Among US bank CEOs 
+pre-crisis,  the  top  five  equity  stakes  were  held  by  Dick  Fuld  (Lehman  Brothers),  Jimmy 
+Cayne (Bear Stearns), Stan O’Neill (Merrill Lynch), John Mack (Morgan Stanley) and Angelo 
+BIS central bankers’ speeches 
+ 7 
+  
+ 
+Mozilo (Countrywide). This is not a random sample.16 It also suggests the macro-economic 
+costs of this principal/agent problem may have been non-trivial. 
+(b) 
+Collective action problems: the “ownerless corporation” 
+A second stakeholder friction arises because a diffuse and dispersed set of shareholders are 
+likely  to  find  it  difficult  to  corral  management  (Shleifer  and  Vishny  (1986)).  There  is  a  co-
+ordination  problem  among  shareholders.  Moreover,  most  individual  shareholders  tend  to 
+have  modest  amounts  of  skin  in  the  game.  This  reduces  their  incentives  to  exercise 
+corporate control in the first place. 
+This shareholder collective action problem is not new. It lay at the heart of Berle and Mean’s 
+concern  about  “ownerless  corporations”  in  the  1930s.  But  there  are  good  reasons  for 
+believing this problem may have become more acute since then, as the shareholder base 
+has become more fragmented and diffuse and shareholder co-ordination more difficult (Kay 
+(2012)). 
+One  reason  is  that  the  role  of  institutional  investors  has  changed.  They  have  tended 
+historically  to  play  an  important  stewardship  role.  But  this  role  has  waned.  As  recently  as 
+1990, pension funds and insurance companies held more than half of UK equities. Today, 
+that fraction is less than 15%. 
+There has also been a sharp fall in the fraction of shares held directly by individuals, from 
+more than 50% in the 1960s to little more than 10% today. Today, these individual holdings 
+tend to be indirect, operating through investment intermediaries of various types. That means 
+the beneficial owners of shares – individuals – tend to have little direct communication with, 
+involvement in, or indeed knowledge of, the firms in which they are investing. 
+One  consequence  of  a  more  dispersed  and  disinterested  ownership  structure  is  that  it 
+becomes  harder  to  exert  influence  over  management,  increasing  the  risk  of  sub-optimal 
+decision-making.17  There  is  some  empirical  support  for  this  hypothesis.  For  example, 
+companies tend to have higher valuations when institutional shareholders are a large share 
+of cashflow, perhaps reflecting their stewardship role in protecting the firm from excessive 
+risk-taking (La Porta et al (2002), Claessens et al (2002)). 
+(c) 
+A  third  friction  in  the  manager/shareholder  relationship,  distinct  but  related,  arises  when 
+different classes of shareholder have different rates of time preference. In particular, there 
+have been concerns about the rising share of investors with excessively high discount rates 
+and low holding periods – in other words, about “short-termism” (Kay (2012)). 
+There is clear evidence of the investor scales having rebalanced in this direction over time. 
+Average  holding  periods  of  shares  have  been  in  secular  decline  in  a  large  number  of 
+countries for a number of decades (Chart 1). In the UK and US, they have fallen from around 
+6 years in 1950 to less than 6 months today.18 
+Another  diagnostic  on  short-termism  is  found  by  looking  at  company  pay-out  behaviour. 
+Chart 2 compares dividend pay-out behaviour among companies during two eras – the mid-
+19th century period before shareholder primacy took hold, and the period since 1980 when it 
+has been uppermost in the minds of management (Haldane (2010)). 
+Short-termism 
+                                                
+16  Haldane (2011). 
+17  Recognition  of this  problem lay  at  the  heart  of John  Kay’s  proposals,  in  his  review,  for  an  “Investor  Forum”. This  was  a 
+mechanism for bringing together in particular institutional investors to mobilise and strengthen their hand (Kay (2012)). 
+18  See Haldane (2010). Within this, the move to high frequency trading has contributed to a downwards shift in this average 
+holding period. 
+8 
+ BIS central bankers’ speeches 
+  
+ 
+In the earlier period, dividends decreased as often as they increased. This is as we would 
+expect if profits fluctuate both up and down. After 1980, however, we see a one-way street. 
+Dividend  payout  ratios  almost  never  fall.  This  is  evidence  that  the  short-term  quest  for 
+smoothing shareholder returns has come to dominate payout behaviour, almost irrespective 
+of profitability. 
+Another  way  to  remit  profits  to  shareholders  is  through  share  buybacks.  These,  too,  have 
+risen  in  prominence.  Among  UK  companies,  share  buybacks  have  consistently  exceeded 
+share issuance over the past decade, albeit to a lesser degree more recently (Chart 3). In 
+other  words,  over  the  past  decade  the  equity  market  no  longer  appears  to  have  been  a 
+source of net new financing to the UK corporate sector. 
+These patterns are, if anything, even more acute among US companies. Total buybacks by 
+US S&P 500 companies totalled over $500 billion in 2014, taking them back to their peak 
+levels in 2007. Total payouts to shareholders, both dividends and buy-backs, are also back 
+to their pre-crisis peaks, totalling almost $1 trillion in the US, and £100 billion in the UK, in 
+2014 (Chart 4). More generally, total payouts by companies have been on a steadily rising 
+trend since the 1970s, from around 10% of total internal cashflow in 1970 to around 60% 
+today (Chart 5). 
+The macro-economic consequences of this behaviour are likely to be far from benign. The 
+other side of the coin to high pay-out ratios from internal funds is low investment. There is 
+both  direct  and  indirect  evidence  of  investment  having  been  adversely  affected  by  short-
+termism on the part of either investors or managers or both. 
+The indirect evidence comes from looking at the discount rates used in, for example, equity 
+markets to assess investment projects. My own work has found evidence that these discount 
+rates appear to be around 5–10% higher than would rationally be expected at the one year 
+horizon (Davies and Haldane (2011)). And while that may sound modest, accumulated and 
+compounded  that  would  act  as  a  significant  barrier  to  longer-horizon  investment  projects. 
+Moreover, this “excess” discounting has increased over time. 
+Evidence  on  companies’  investment  behaviour  supports that  conclusion  – for  example,  by 
+looking at the investment choices of two otherwise-identical firms, one of which is publically 
+listed, the other private-owned. Studies in the US have found evidence otherwise-identical 
+private  companies  consistently  invest  considerably  more,  for  given  profits,  than  public 
+companies (Asker et al (2014)). 
+Chart 6 shows some diagnostics for a matched sample of public and private UK companies 
+(Davies et al (2014)). In line with US evidence, it suggests that investment is consistently and 
+significantly  higher  among  private 
+identical 
+characteristics, relative to profits or turnover. In other words, shareholder short-termism may 
+have  had  material  costs  for  the  economy,  as  well  as  for  individual  companies,  by 
+constraining investment. 
+than  public  companies  with  otherwise 
+Risk-shifting 
+Shareholders/managers and other stakeholders 
+(a) 
+A fourth incentive friction arises in the relationship between shareholders and creditors in a 
+company. From the work of Robert Merton, under limited liability the equity of a company can 
+be valued as a call option on its assets, with a strike price equal to the value of its liabilities 
+(Merton (1974)). 
+The  value  of  this  option  is  enhanced  by  increases  in  the  volatility  of  asset  returns.  Why? 
+Because,  under  limited  liability,  this  increases  the  upside  return  to  shareholders,  without 
+affecting  their  downside  risk.  So  for  a  firm  seeking  to  maximise  shareholder  value,  an 
+expedient way of doing so is simply to increase the volatility of company profits. 
+BIS central bankers’ speeches 
+ 9 
+  
+ 
+This  risk  does  not,  however,  disappear  into  the  ether.  Instead  it  is  shifted  onto  other 
+stakeholders in the company, most obviously creditors. There is, in the words of Jensen and 
+Meckling (1976), an incentive for the management of a limited liability company to engage in 
+“risk shifting” from shareholders to debtors, by increasing company-specific risk. 
+The scale of these incentives will depend importantly on how alert creditors are to this risk. If 
+they  are  wide-awake  and  price  that  risk  by  charging  the  firm  a  higher  interest  rate  in 
+anticipation of risk-shifting, this serves as a disciplining device on management. Risk shifting 
+will then be stymied. However, if creditors lack the information or incentives to monitor risk, 
+risk-shifting will be amplified given the cheap costs of borrowing. The upshot, then, will be 
+companies engaging in a sub-optimally high amount of risk-taking from a stakeholder, if not 
+shareholder, perspective. 
+Banks  provide  an  interesting  case  study  of  these  incentive  dynamics  in  practice  and  their 
+adverse implications for creditors and the wider economy. They have a particularly simple 
+way of increasing the volatility of their asset returns – increasing leverage. They may also 
+have stronger incentives to do so if their creditors – largely depositors – are de-sensitised to 
+risk when setting their cost of borrowing (Haldane (2012)). 
+If  so,  this  is  a  recipe  for  super-charged  risk-shifting  –  and  was  in  the  run-up  to  the  crisis. 
+Leverage among global banks rose at real pace in the pre-crisis period, in a quest for ever-
+higher banking returns on equity (Chart 7). And this quest for shareholder returns was in turn 
+aided and abetted by creditors who, far from pricing this rising risk, charged a low and falling 
+interest rate to the banks, further fuelling risk-taking incentives. 
+This risk-shifting crystallised as the crisis broke. At that point, yields on bank borrowing shot 
+up and risk-taking was crushed. Creditors bore large losses, which would have been larger 
+still  without  government  support.  This  experience  makes  clear  that  risk-shifting  is  not  a 
+theoretical phenomenon; it is very much real, with large costs for creditors and for the wider 
+economy. 
+Indeed, the welfare implications of risk-shifting are doubly troubling. Not only does it generate 
+excessive risk-taking and credit creation during upswings. As importantly, it also contributes 
+to excessive caution and a credit crunch during the downswing. Risk-shifting results in two-
+sided deadweight costs, for creditors and for the macro-economy.19 Both have been much in 
+evidence over recent years. 
+(b) 
+A  related,  but  distinct,  micro-economic  risk  friction  concerns  how  rights  are  allocated  to 
+different stakeholders in a company. Standard corporate finance theory sets out, on the face 
+of it, a coherent allocation of control rights and risks. Shareholders have a junior claim on the 
+profits of a company, in that they are paid out after employees, creditors and the taxwoman. 
+Theirs is the riskiest piece of the profits pie. 
+This means “ownership” is really a misnomer when applied to shareholders. What defines 
+shareholders is not that they own most or all of the company. Rather they “own” least, as 
+residual claimants. Associating “shareholding” with “ownership” thus makes little substantive 
+sense, despite its widespread use in popular discourse. 
+Indeed, it is precisely because shareholders own least, not most, that justifies granting them 
+control rights over management in the first place. By vesting control rights in the stakeholder 
+whose claim is riskiest, the firm is immunised against taking too much risk in the first place. 
+The shareholder model is thus, in principle, incentive-compatible, as it properly aligns risks 
+and rights within a company. 
+Risk-alignment 
+                                                
+19  Research with Peter Richardson and Matthew Willison casts these results in a theoretical model (Haldane, Richardson and 
+Willison (forthcoming). 
+10 
+ BIS central bankers’ speeches 
+  
+ 
+The problem with this line of argument, as Martin Wolf of the Financial Times has articulated 
+brilliantly,  is  that  it  confuses  diversifiable  and  un-diversifiable  risk  (Wolf  (2014)).  While 
+shareholders hold the residual risk in a company, this risk can easily be diversified away by 
+holding a broad portfolio of assets. Shareholders are hence likely to be rather risk-insensitive 
+and unlikely to discipline risk-taking by management. 
+Interestingly, the situation is different for other stakeholders in the company – for example, 
+employees,  customers  and  clients.  Typically,  the  company  risk  they  face  is  not  easily 
+diversifiable. They cannot easily invest in a portfolio of jobs, or products or supply lines. So 
+their incentives to restrict excessive risk-taking are likely to be, if anything, sharper and more 
+acute than among shareholders. 
+But under the current shareholder-centric model, these wider stakeholders are not given any 
+control rights over management. This constrains their ability to rein in managerial excesses, 
+even  though  their  incentives  to  do  so  may  be  sharpest.  In  other  words,  the  standard 
+corporate  governance  model  may  be  predicated  on  a  misclassification  of  risk  and,  as  a 
+result,  a  misalignment  between  these  risks  and  control  rights,  with  potentially  adverse 
+implications for corporate risk-taking. 
+Externalities and systemic risk 
+Companies and society 
+(a) 
+At  least  for  some  types  of  firms,  their  actions  can  have  an  impact  beyond  internal 
+stakeholders  –  shareholders,  creditors,  employees,  customers  and  clients.  They  impose 
+social  externalities  on  the  economy  and  wider  society.  If  companies’  objectives  are 
+shareholder-centric,  these  externalities  are  unlikely  to  be  internalised  fully  within  firms’ 
+decision-making.  In  other  words,  there  is  a  potential  disconnect  between  company  and 
+societal incentives. 
+These  externalities  can  be  both  good  and  bad.  For  example,  many  companies  are  in  the 
+business of creating public or quasi-public goods – for example, health, education, transport 
+and utilities. And that is why, historically, their corporate governance structures have typically 
+tended to weigh broader stakeholder and societal interests. 
+In other cases, these social externalities may be negative – the creation of public “bads”. The 
+classic  example  is  environmental  pollution.  But  these  social  externalities  can  also  arise  in 
+more subtle ways – the mistreatment of customers and clients through delayed payment or 
+mis-selling, exploitation of employees through inadequate working practices, or attempts to 
+avoid paying sufficient tax to government. 
+Banking produces a particular form of social pollution – financial crises. We have had many 
+hundreds  of  years  of  experience  of  such  crises.  The  global  financial  crisis  will,  however, 
+almost certainly require a re-think of their costs. The cumulative GDP costs of the crisis so 
+far  in  the  US,  UK  and  the  euro-area  are  well  in  excess  of  25%  of  GDP  (Chart  8).  In  net 
+present value terms, they could easily end up equating to a year’s GDP or more. 
+This suggests, pre-crisis, the misalignment between private and social incentives in banking 
+was  larger  than  perhaps  at  any  time  in  the  recent  past.  In  the  language  of  Jensen  and 
+Meckling, risk had been shifted by management and shareholders onto a much wider set of 
+societal stakeholders, with significantly adverse macro-economic implications. 
+(b) 
+That brings me to the final of the incentive frictions. When the social costs of an activity are 
+high, as during financial crises, there are strong incentives to cushion the effects on wider 
+society. The global financial crisis provides no better example of those incentives, with extra-
+ordinary  levels  of  government  support  to  the  global  banking  system  in  the  form  of 
+recapitalisation, liquidity support and guarantees. 
+Moral hazard 
+BIS central bankers’ speeches 
+ 11 
+  
+ 
+While these levels of support were arguably necessary to limit the costs of the crisis, they 
+came with their own longer-term costs. The most important of those costs was probably the 
+adverse  effects  of  such interventions  on  risk-taking  incentives  –  in  other  words,  the  moral 
+hazard of government insurance (Alessandri and Haldane (2009)). 
+This is not a new issue. The historical evolution of the financial system has been a game of 
+cat and mouse between the state and the banking system (Haldane (2010)). Because the cat 
+has  typically  failed  to  keep  pace  with  the  mouse,  the  result  has  been  a  widening  and 
+deepening  of  support  mechanisms  for  banks  over  time.  Elsewhere,  I  have  called  this 
+dynamic link between bank and sovereign balance sheets the “doom loop” (Haldane (2012)). 
+One  measure  of  the  extent  of  this  problem  is  found  in  estimates  of  the  “implicit  subsidy” 
+banks earn as a result of the expectation of government support. Chart 9 plots one measure 
+of  this “implicit  subsidy”  to  UK  banks. This  peaked following  the  bail-outs  at  a  remarkable 
+£150bn  in  2009.  Since  then,  it  has  fallen  substantially  –  to  around  £10bn  in  2013  –  as 
+regulatory reforms have been put in place to constrain risk-taking and the financial strength 
+of banks has improved. But it remains in positive territory, suggesting an on-going distortion 
+to risk-taking incentives. 
+Public policy responses 
+The modern company harbours a range of micro-economic frictions. In some cases, these 
+seem likely to have generated significant macro-economic costs, in the form of sub-optimally 
+low rates of investment and sub-optimally high  degrees of risk-taking. These issues  – low 
+growth and high risk – are the bread and butter of central banking. These costs are not the 
+fault of any party, whether businesses or investors or other stakeholders. Rather they are the 
+result of the incentives embodied within the current structure of companies. 
+These frictions are not just multiple, but potentially interact in important ways. When framing 
+policy choices, that means heeding the “theory of the second best”, in the sense of Lipsey 
+and Lancaster (1956)): with multiple frictions, taking measures to address a friction in one 
+place need not necessarily lead to an improvement in social welfare in aggregate. 
+As  one  example  of  that  in  a  corporate  governance  context,  the  shift  to  equity-based 
+compensation  practices  in  the  1980s  and  1990s  addressed  one  incentive  friction  –  the 
+principal/agent problem between shareholders and managers. But it may have done so at 
+the expense of amplifying other incentives frictions – for example, it may have amplified risk-
+shifting incentives from shareholders to creditors and to wider society. 
+In  some  areas,  there  has  been  considerable  progress  in  tackling  some  of  these  incentive 
+frictions  since  the  crisis,  especially  among  banking  firms.  One  prominent  example  is 
+regulatory  capital  reform.  Significant  increases  in  banks’  equity  and  loss-absorbing  capital 
+have  been  put  in  place  or  are  planned.  This  is  likely  to  have  reduced  the  incentives  of 
+shareholders  to  engage  in  risk-shifting,  either  to  creditors  or  to  wider  society,  thereby 
+lowering the macro-economic costs of these activities.20, 21 
+But there are also areas where there has been somewhat less progress and more may be 
+needed  to  mitigate  corporate  governance  frictions.  All  involve  acting  on  the  structure  of 
+incentives at source, to generate higher returns for lower risk for businesses, investors and, 
+                                                
+20  Admati and Hellwig (2014). 
+21  There  have  also  been  initiatives  aimed  at  increasing  levels  of  accountability  amongst  senior  individuals  in  financial 
+institutions. One example is the PRA and FCA’s Senior Managers Regime (SMR) which will come into force in March 2016. 
+The  SMR  intends  to  create  stronger  incentives  for  senior  individuals  to  run  institutions  prudently  and  to  take  greater 
+responsibility  for  their  actions.  The  PRA  has  also  recently  published  a  consultation  on  its  expectations  of  the  collective 
+responsibilities  shared  by  board  members  which  will  complement  the  SMR.  The  PRA  published  its  consultation  paper 
+“Corporate 
+at: 
+http://www.bankofengland.co.uk/pra/Documents/publications/cp/2015/cp1815.pdf.  
+Responsibilities” 
+Governance: 
+available 
+Board 
+2015, 
+May 
+in 
+12 
+ BIS central bankers’ speeches 
+  
+ 
+ultimately, wider society, helping central banks meet their objectives. Let me mention three 
+areas in particular: executive remuneration and accountability; control rights; and company 
+law. 
+Executive remuneration and accountability 
+Historically,  perhaps  the  most  commonly-pursued  approach  to  tackling  corporate  finance 
+problems has been to adjust managerial compensation practices – for example, the shift to 
+equity-based compensation practices in the 1980s. This shift worsened incentive problems 
+elsewhere  within  firms.  In  response,  attention  more  recently  has  switched  to  paying 
+executives  in debt, rather than equity. The aim here is to align managerial incentives  with 
+those of wider stakeholders, specifically creditors, so mitigating risk-shifting incentives. 
+This is not a new idea. In their original paper on risk-shifting, Jensen and Meckling (1976) 
+proposed structuring a CEO’s compensation such that it was aligned with the firms’ debt-to-
+equity ratio. In practice, companies in general, and financial firms in particular, have fallen 
+well  short  of  that  objective.  Fewer  than  1%  of  bank  CEOs  have  been  found  to  have 
+remuneration  packages  with  debt-to-equity  ratios  greater  than  their  firms.22  The  new  EU 
+bonus cap rules also arguably weaken the link between performance and compensation as 
+they shrink the proportion of variable pay and make it harder to cut back total remuneration.23 
+Since  the  crisis,  consideration  has  been  given  by  both  academics  and  policymakers  to 
+switching remuneration practices towards debt-like instruments (for example, Becht, Bolton 
+and Roell (2011), PCBS (2013)). This appears to have had some policy impact. For example 
+in  Europe,  payment  in  debt  instruments  is  now  permitted  under  the  new  Capital 
+Requirements Directive IV (CRD IV). 
+To  date,  however,  there  are  only  limited  signs  of  remuneration  practices  having  shifted 
+significantly towards debt. UK banks provide one case study. Their structures remain heavily 
+skewed towards equity, at around 50–75% of total pay, compared with around 5–15% in debt 
+(Chart 10). Among non-financial firms, the balance of pay appears, if anything, to be even 
+more heavily skewed towards equity. 
+A  second  strand  of  the  policy  debate  involves  lengthening  the  horizon  of  remuneration 
+contracts.  This  can  be  achieved  by  requiring  bonus  payouts  to  be  deferred  for  a  period 
+(“deferral”) and subsequently not paid out if performance is poor (“malus”) or clawed back 
+after payment. If deferral periods broadly match the duration of a typical risk cycle, incentives 
+to risk-shift through time are likely to be significantly reduced. Incentives to act in a short-
+termist fashion should also be reduced. 
+These  proposals  have  an  element  of  back  to  the  future  about  them  too.  Deferral  and 
+clawback  in  some  respects  mimic  19th  century  company  practices,  when  shareholders  and 
+managers remained liable for losses that occurred on their watch, even after they had sold 
+their  stake.  Recently,  these  ideas  have  been  resurrected  in  some  countries,  at  least  for 
+banking firms. For example, CRD IV in Europe requires that the variable portion of senior 
+bank executives’ pay be deferred for 3–5 years. Last July, the Bank of England consulted on 
+a minimum deferral and clawback period of 7 years for Senior Managers and earlier this year 
+these proposals were finalised. These rules now allow for clawback of up to ten years from 
+award,  providing  a  material  incentive  to  reduce  excessive  risk  taking  by  executives.24  In 
+finance, you generally reap the risks you sow over that horizon. This new policy aligns risks 
+and horizons. 
+                                                
+22  Bennett, Güntay, and Unal (2012). 
+23   See Bailey (2014) for further details. 
+24  The PRA and FCA published their Policy Statement, ‘Strengthening the alignment of risk and reward: new remuneration 
+rules’ in June 2015, available at: http://www.bankofengland.co.uk/pra/Documents/publications/ps/2015/ps1215.pdf. 
+BIS central bankers’ speeches 
+ 13 
+  
+ 
+These positive moves have prompted new proposals. Some are not so innovative, including 
+the  use  of  role-based  allowances  as  part  of  fixed  pay,  to  link  more  explicitly  reward  to 
+responsibility. But others are more pioneering – for instance the proposals being pursued by 
+some banks to pay certain staff in “performance bonds”, which they would forfeit in the case 
+of  the  bank  receiving  a  large  fine.  These  could  include  Contingent  Convertible  bonds 
+(CoCos), which either get wiped out  when a bank runs into trouble or get exchanged into 
+equity. All of these measures align personal incentives with the interests of creditors, and the 
+longer-term wellbeing of the firm.25 
+A final area where progress has been made is shareholder control of remuneration policies. 
+Since 2013, shareholders have had a “Say on Pay” in both the UK and US. Remuneration 
+policies  now  need  explicitly  to  be  approved  by  a  majority  of  shareholders  (in  the  UK)  or 
+advised on (in the US). And in Europe, a Shareholder Rights Directive granting a “Say on 
+Pay” is moving through European Parliament. It is too early to tell whether these initiatives 
+will signal a “Shareholder Spring”. 
+Taking  pay  issues  together,  progress  on  restructuring  executive  compensation  has  been 
+made, particularly in the EU and particularly for banks. Elsewhere, however, progress has 
+been relatively piecemeal and modest. 
+Control rights 
+A  second  way  of  addressing  some  of  the  agency  problems  embedded  in  the  current 
+company  model  would  be  to  modify  the  control  rights  of  shareholders  –  for  example,  by 
+redistributing  rights  between  them.  This,  too,  has  been  an  area  of  recent  interest,  among 
+both academics and practitioners. 
+One  example  is  the  work  of  Bolton  and  Samama  (2012)  who  have  advocated  so-called 
+“loyalty  shares”  –  shares  whose  voting  rights  increase  the  longer  they  are  held  by  the 
+investor.26 They can be seen as an explicit attempt to tackle investor, and hence managerial, 
+short-termism. Interestingly, these ideas are now beginning to find their way into custom and 
+practice in some countries. 
+In  April  last  year,  France  introduced  a  so-called  Florange  law,  automatically  granting 
+shareholders in French-listed companies double voting rights if they are held for two years or 
+longer. A similar law has recently passed in Italy, with loyalty shares automatically granted 
+provided there is approval by two-thirds of shareholders. The provision for enhanced voting 
+rights  for  longer-term  shareholders  has  also  been  discussed  in  the  context  of  the  EU 
+Shareholder Rights Directive. 
+There have been moves, similar in spirit if different in detail, in the US too. For example, a 
+number of companies have recently adopted so-called “proxy access” – granting groups of 
+longer-term  shareholders  the  right  to  appoint  directors  on  their  behalf.  At  present,  proxy 
+access is a market-practice led initiative, rather than a legal or regulatory imposition. 
+A  more  radical  reformulation  of  voting  rights  still  would  be  to  use  so-called  “dual  class” 
+shares. These involve granting differential voting rights to different classes of shares. This 
+too,  in  some  respects,  is  back  to  the  future.  It  has  echoes  of  the  restricted  or  graduated 
+shareholder rights models seen over a century ago. 
+Dual  class  listings  remain  common  practice  in  a  number  of  countries  today,  especially  in 
+emerging  markets.  Interestingly,  however,  there  have  also  been  some  signs  of  dual  class 
+shares recently playing a greater role in the US. A number of recent high profile US company 
+IPOs, such as Facebook and Google, have issued dual class stock. 
+                                                
+25  See Carney (2014). 
+26  See also Mayer (2013). 
+14 
+ BIS central bankers’ speeches 
+  
+ 
+These  laws  and  emerging  practices  are  in  their  early  throes  and  are  not  uncontentious, 
+especially  among  institutional  shareholders.  Nonetheless,  they  are  symptomatic  of  a 
+common  desire  to  strengthen  long-term  investors’  hand  in  the  oversight  of  companies.  If 
+these initiatives grew in prominence, they would begin to address some of the short-term and 
+risk-shifting problems embedded in the current corporate governance model. 
+Corporate governance 
+If alterations to the balance of shareholder rights are increasingly under debate, the same is 
+not true of the rights of creditors and other stakeholders. In principle, the case for recognising 
+explicitly these broader interests seems sound enough. In a recent paper, I considered the 
+risk-shifting problem within companies and various solutions to it (Haldane, Richardson and 
+Willison (forthcoming)). The most effective was simply to alter the objectives of the company 
+to reflect creditor, as well as shareholder, interests. 
+This is likely to be a fairly general result, whether the externality is between shareholders and 
+creditors  or  between  shareholders  and  wider  society.  The  most  straightforward  way  of 
+tackling embedded stakeholder externalities is to have those stakeholders’ interests weighed 
+explicitly in the objectives and decision-making of the company. In practical terms, that would 
+mean modifying the objectives, rights and responsibilities of a firm under Company Law. 
+Such  modifications  are  not,  in  fact,  that  radical  either  from  an  historical  or  international 
+perspective.  History  clearly  suggests  that  shareholder  primacy  has  not  always  been  the 
+centrepiece of company law. Nor has the current practice of endowing only shareholders with 
+explicit control rights. 
+Even  today,  international  experience  suggests  a  range  of  other  corporate  models  can 
+operate successfully. The UK and US shareholder-centric model sits very much towards one 
+end  of  the  international  spectrum  (Allen  and  Gale  (2000)).  In  countries  such  as  Japan, 
+German  and  France,  employees  and  other  firms,  especially  banks,  are  assigned  a  more 
+prominent role on the boards and in the running of companies. In the language of German 
+company law, there is “co-determination” in the decisions of the company. 
+As  an  illustration  of  that,  Chart  11  is  drawn  from  a  survey  of  senior  executives  at  large 
+companies in the UK, US, Japan, Germany and France. On the question “Whose company is 
+it?”,  a  strong  majority  in  all  countries,  bar  Japan,  view  shareholders,  rather  than  broader 
+stakeholders, as the ultimate owners. 
+But when asked a subtly different question, about the relative importance of job security for 
+employees  versus  dividends  for  shareholders,  a  strikingly  different  pattern  emerges.  A 
+majority of Japanese, German and French company executives put employee job security 
+above  shareholder  dividends.  For  UK  and  US  companies,  a  strong  majority  place  the 
+balance the other way around. This suggests a very different set of managerial objectives 
+and incentives across countries. 
+Empirical evidence on the relatively efficacy of these different models does not give a clear-
+cut answer. Prior to the crisis, some papers pointed to broader stakeholder representation 
+boosting market value (Fauver and Fuerst (2006)), others to it reducing value (Gorton and 
+Schmid (2004)). Experience since the crisis might provide clearer clues. For example, banks 
+with shareholder-friendly boards in general fared worse during the crisis (Belratti and Stulz 
+(2009)). The debate here seems set to continue and this is a place where further research 
+would be valuable. 
+BIS central bankers’ speeches 
+ 15 
+  Conclusion 
+Challenges  to  the  shareholder-centric  company  model  are  rising,  both  from  within  and 
+outside  the  corporate  sector.  These  criticisms  have  deep  micro-economic  roots  and  thick 
+macro-economic  branches.  Some  incremental change  is  occurring  to  trim  these  branches. 
+But it may be time for a more fundamental re-rooting of company law if we are to tackle these 
+problems  at  source. The  stakes  – for  companies,  the  economy  and  wider  society  –  could 
+scarcely be higher. 
+ 
+ 16 
+ BIS central bankers’ speeches 
+     BIS central bankers’ speeches 
+ 17 
+     18 
+ BIS central bankers’ speeches 
+     BIS central bankers’ speeches 
+ 19 
+     20 
+ BIS central bankers’ speeches 
+     BIS central bankers’ speeches 
+ 21 
+   22 
+ BIS central bankers’ speeches 
+  BIS central bankers’ speeches 
+   23 
+  24 
+   BIS central bankers’ speeches 
+   BIS central bankers’ speeches 
+   25 
+  of 
+Bank 
+Reserve 
+available 
+Chicago, 
+(2014),  speech  delivered  at 
+the  City  Banquet  London,  available  at: 
+References 
+Acheson,  G,  Hickson,  C  and  Turner,  J  (2010),  “Does  limited  liability  matter?”  Evidence 
+from  nineteenth  –century  British  banking,  review  of  Law  and  Economics,  Vol  6(2), 
+pages 247–73. 
+Admati, A and Hellwig, M (2014), “The Bankers” New Clothes: What’s Wrong with banking 
+and What to Do about it’, Princeton University Press. 
+Alessandri,  P  and  Haldane  A  G  (2009),  “Banking  on the  State”,  speech  delivered  at  the 
+Federal 
+at: 
+http://www.bankofengland.co.uk/archive/Documents/historicpubs/speeches/2009/speech409.
+pdf. 
+Allen, F. and Gale, D (2000), “Comparing financial systems”, MIT Press. 
+Asker,  J,  Collard-Wexler,  A  and  De  Loecker  J  (2014),  “Dynamic  Inputs  and  Resource 
+(Mis)Allocation”, Journal of Political Economy, vol 122. 
+Bagehot, W (1862), “Limited Liability in Banking” – I’ and “Limited Liability in Banking” – II’ in 
+St John-Stevas, N (1978) “The Collected Works of Walter Bagehot Vol. 9”, The Economist, 
+London. 
+Bailey,  A 
+http://www.bankofengland.co.uk/publications/Documents/speeches/2014/speech763.pdf. 
+Becht,  M,  Bolton,  P  and  Roell  A  (2011),  “Why  Bank  Governance  is  Difference”  Oxford 
+Review of Economic Policy, vol 27. 
+Bennett,  R  L,  Güntay,  L  and  Unal,  H  (2012),  “Inside  debt,  bank  default  risk  and 
+performance during the crisis”, Mimeo. 
+Berle, A and Means, G (1932), “The Modern Corporation and Private Property”, Transaction 
+Publishers 
+Belratti, A and Stulz, R M (2009),  “Why did some banks perform better during the credit 
+crisis? A cross-country study of the impact of governance and regulation”, National Bureau of 
+Economic Research Working paper 15180. 
+Blumberg,  P  (1986),  “Limited  Liability  and  Corporate  Groups”,  Journal  of  Corporate  Law, 
+Vol 11. 
+Bolton, P and Samama, F (2012), “L shares: rewarding long term investors”, Mimeo. 
+Bryer,  R  (1993),  “The  Late  Nineteenth-Century  Revolution  in  Financial  Accounting: 
+Accounting  for  the  Rise  of  Investor  or  Managerial  Capitalism?”  Accounting,  Organizations 
+and Society, vol. 18. 
+Button,  R,  Knott,  S, Macmanus,  C  and  Willison,  M  (2015),  “Desperate  adventures  and 
+men of straw: the failure of City of Glasgow Bank and its enduring impact on the UK banking 
+system”, Bank of England Quarterly Bulletin 2015 Q1, pages 23–35. 
+Carney, M (2014), “The future of financial reform”, speech delivered at the 2014 Monetary 
+Authority 
+at: 
+http://www.bankofengland.co.uk/publications/Documents/speeches/2014/speech763.pdf. 
+Claessens,  S,  Djankov,  S,  Fan,  J  and  Lang  L  (2002),  “Disentangling  the  incentive  and 
+entrenchment effects of large shareholdings”, Journal of Finance, vol 57, pages 2741–71. 
+Davies, R and Haldane, A (2011), “The Short Long” speech delivered in Brussels, available 
+at: 
+http://www.bankofengland.co.uk/archive/Documents/historicpubs/speeches/2011/speech495.
+pdf. 
+Singapore 
+available 
+Lecture, 
+of 
+26 
+ BIS central bankers’ speeches 
+  
+ 
+Davies,  R,  Haldane  A,  Nielsen  M  and  Pezzini  S  (2014),  “Measuring  the  costs  of  short-
+termism” Journal of Financial Stability, vol 12, pages 16–25. 
+Esty. BC (1998), “The impact of contingent liability on commercial bank risk taking”, Journal 
+of Financial Economics, vol 47, pages 187–218. 
+Fama, E F and Jensen M C (1983), “Separation of Ownership and Control”, Journal of Law 
+and Economics, vol 26, pages 301–25. 
+Fauver,  L  and  Fuerst,  M  E  (2006),  “Does  good  corporate  governance  include  employee 
+representation? Evidence from German corporate boards” Journal of Financial Economics, 
+Vol 82, pages 673–710. 
+Fisch, J (2006), “Measuring Efficiency in Corporate Law: The Role of Shareholder Primacy”, 
+Penn Law: Legal Scholarship Repository. 
+Freeman,  M,  Pearson,  R  and  Taylor,  J  (2012),  “Shareholder  Democracies?  Corporate 
+Governance in Britain and Ireland before 1850”, The University of Chicago Press. 
+Gorton,  G  and  Schmid,  F  A  (2004),  “Capital,  Labor,  and  The  Firm:  A  Study  of  German 
+Codetermination”,  Journal  of  the  European  Economics  Association,  vol  2,  issue  5,  pages 
+863–905. 
+Haldane, A (2010), “Patience and Finance”, speech delivered at the Oxford China Busines 
+Forum, Beijing, available at: 
+http://www.bankofengland.co.uk/archive/Documents/historicpubs/speeches/2010/speech445.
+pdf. 
+Haldane, A (2011), “Control rights (and wrongs)” Wincott Annual Memorial Lecture. 
+Haldane, A (2012), “The Doom Loop”, London Review of Books, vol 34, pages 21–22. 
+Haldane, A, Richardson, P and Willison, M (forthcoming), “Risk shifting, debt contracts 
+and corporate governance in the banking system”, Bank of England. 
+Hall, B and Liebman, J (1998), “Are CEOs really paid like bureaucrats?” Quarterly Journal 
+of Economics, vol 113. 
+Hart, O (1995), “Firms, Contracts, and Financial Structure”, Oxford University Press. 
+Hunt, B C (1936), “The Development of the Business Corporation in England 1800–1867”, 
+Harvard Economic Studies Vol. LII, Harvard University Press. 
+Ireland,  P  (2010)  “Limited  liability,  shareholder  rights  and  the  problem  of  corporate 
+irresponsibility”, Cambridge Journal of Economics, Vol 34. 
+Jensen, M C and Meckling, W H (1976), “Theory of the Firm: Managerial Behavior, Agency 
+Costs and Ownership Structure”, Journal of Financial Economics, vol 3, pages 305–60. 
+Johnson,  P  (2013),  “Making  the  Market  –  Victorian  Origins  of  Corporate  Capitalism”, 
+Cambridge University Press. 
+Kay, J (2012), “The Kay review of UK equity markets and long-term decision making”, 
+available at: 
+https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/253454/bis-
+12–917-kay-review-of-equity-markets-final-report.pdf. 
+La Porta, R, Lopez-de-Silanes, F, Shleifer, A and Vishny R (2002), “Investor protection 
+and corporate valuation”, Journal of Finance vol 57 (3), pages 1147–70. 
+Leaf, W (1937), “Banking”, Third Edition, revised by Ernest Sykes. 
+Lipsey,  RG  and  Lancaster,  K  (1956),  “The  general  theory  of  second  best”,  review  of 
+economic studies vol 24 (1) pages 11–32. 
+BIS central bankers’ speeches 
+ 27 
+  
+ 
+Manne,  H  (1965),  “Mergers  and  the  market  for  corporate  control”,  Journal  of  Political 
+Economy, Vol 32. 
+Mayer, C (2013), “Firm Commitment: Why the corporation is failing us and how to restore 
+trust in it”, Oxford University Press. 
+Merton,  RC  (1974),  “The  pricing  of  corporate  debt:  the  risk  structure  of  interest  rates”, 
+Journal of Finance, vol 29 (2) pages 449–70. 
+Moyle, J B (1913), “The Institutes of Justinian”, Clarendon Press, Oxford. 
+Mukwiri,  J  (2013)  “Myth  of  shareholder  primacy  in  English  law”,  European  business  law 
+review, 24. 
+PCBS (2013), “Changing banking for good”, Parliamentary Commission on Banking 
+Standards Final Report, available at: 
+http://www.parliament.uk/business/committees/committees-a-z/joint-select/professional-
+standards-in-the-banking-industry/news/changing-banking-for-good-report/. 
+Rachel, L and Smith, T (forthcoming), “Secular Drivers of the Global Real Interest Rate”, 
+Bank of England. 
+Rae, G (1885), “The Country Banker: His Clients, Cares, and Work”, London, John Murray. 
+Schumpeter, J R (1942), “Capitalism, Socialism, and Democracy”, Harper & Brothers. 
+Shelton,  J  P  (1965),  “The  First  Printed  Share  Certificate:  An  Important  Link  in  Financial 
+History”, Business History Review Vol. 39(3). 
+Shleifer, A and Vishny R (1986), “Large Shareholders and Corporate Control”, Journal of 
+Political Economy, vol 94 pages 461–88. 
+Smith, A (1848), “The Bubble of the Age; Or, the Fallacies of Railway Investment, Railway 
+Accounts, and Railway Dividends”, 3 editions, Sherwood, Gilbert, and Piper. 
+Stout,  L  (2012),  “The  Shareholder  Value  Myth:  How  Putting  Shareholders  First  Harms 
+Investors, Corporations, and the Public”, Berrett-Koehler. 
+The Company Law Review Steering Group (1999), Modern company law for a competitive 
+economy: the strategic framework. 
+The Company Law Review Steering Group (2000), Modern company law for a competitive 
+economy: completing the structure. 
+The Company Law Review Steering Group (2001), Modern company law for a competitive 
+economy: final report. 
+Turner,  J  D  (2009),  “The  last  acre  and  sixpence:  views  on  bank  liability  regimes  in 
+nineteenth-century Britain”, Financial History Review Vol. 16(2). 
+Turner, J D (2014), “Banking in Crisis – the Rise and Fall of British Banking Stability, 1800 to 
+the Present”, Cambridge University Press. 
+Wolf,  M  (2014),  “AstraZeneca  is  more  than  investors”  call’,  Financial  Times,  available  at: 
+http://www.ft.com/cms/s/0/6fe31054-d691–11e3-b251–00144feabdc0.html#axzz3gPwZ57K7. 
+28 
+ BIS central bankers’ speeches 

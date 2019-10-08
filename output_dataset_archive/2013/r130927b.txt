@@ -1,0 +1,341 @@
+Joachim Nagel: How market segments changed over the crisis – 
+challenges for future banking 
+Speech by Dr Joachim Nagel, Member of the Executive Board of the Deutsche Bundesbank, 
+at the ESE  (the European Supervisor Education initiative) Conference 2013 “The future of 
+European financial supervision”, Frankfurt am Main, 26 September 2013. 
+ 1. 
+Introduction 
+Ladies and Gentlemen 
+I  am  delighted  to  be  speaking  at  this  year’s  European  Supervisor  Education  (ESE) 
+Conference.  The  idea  of  the  ESE  initiative  is  to  bring  together  the  experiences  of 
+practitioners and the theoretical knowledge of academic researchers. The Bundesbank has 
+always considered this to be an important issue and has, as a founder member, supported 
+this initiative from the beginning. 
+As most of you are experts in banking supervision, I will not try to tell you anything new about 
+the recent regulatory changes. Instead, my focus will lie on the changing market conditions  
+– partly triggered by new regulations – and their impact on banking, especially bank funding. 
+The challenges currently facing the European banking sector are reflected in the remarkable 
+changes in the refinancing pattern of European banks on the capital and interbank money 
+markets.  As  a  central  banker,  I  have  a  special  interest  in  developments  in  the  money 
+markets,  so  this  will  be  my  first  main  topic.  Subsequently,  I  will  discuss  some  regulatory 
+aspects  such  as  the  Liquidity  Coverage  Ratio  and  its  possible  impact  on  capital  markets. 
+Thereafter, I would like to describe some changes in the repo market and the ongoing trend 
+towards clearing via central counterparties, followed by a discussion of developments in the 
+market for covered assets. Before I summarise, I will cover the sovereign bond market. 
+Money market conditions before and since the financial crisis 
+2. 
+Up until 2007, the euro interbank money markets were characterised by small counterparty 
+risk premia and highly liquid markets. Risk aversion was low, and there was significant trust 
+in,  and  among,  banks.  As  a  consequence  of  the  financial  crisis  and  the  sudden  loss  of 
+confidence  between  counterparties,  overall  turnovers  in  the  euro  money  market  declined 
+significantly,  especially  in  the  unsecured  segment.  Even  today,  unsecured  trading  in 
+maturities longer than three months is very rare. At the same time, the importance of secured 
+market activity has increased, reflecting heightened concerns about counterparty risk. At the 
+current juncture, turnover in the secured segment is more than three times higher than in the 
+unsecured segment. Secured trading can limit credit risk, as the lender will suffer a loss only 
+if  the  counterparty  and  the  pledged  collateral default  simultaneously.  As  limiting  credit  risk 
+has  become  a  fundamental  concern  during  the  crisis,  importance  is  increasingly  being 
+attached to the liquidity of collateral markets and the associated collateral pricing.  
+The  growing  share  of  secured  trading  via  electronic  trading  platforms  can  be  explained 
+mainly  by  the  increased  turnover  in  the  secured  segment.  These  platforms  offer  clearing 
+services  through  central  counterparties  (CCPs).  CCPs  limit  counterparty  credit  risk  and 
+mitigate  information  asymmetry  within  the  market.  As  the  CCP  guarantees  the  transaction 
+and defines quality standards for both, participants and the accepted collateral, information 
+about  the  individual  counterparties  becomes  less  important.  By  acting  as  an  intermediary 
+between  the  trading  partners,  the  CCP  enables  them  to  trade  anonymously  on  these 
+platforms. This helped stressed market participants from peripheral countries to access the 
+collateralised  money  market  throughout  the  crisis.  In  spite  of  these  positive  effects,  the 
+increasing importance of CCPs harbours the risk of contagion effects. The default of one of 
+BIS central bankers’ speeches 
+ 1
+these  central  and  highly  connected  interbank  participants  might  have  serious  impacts  on 
+markets. 
+The uncertainty involved with transactions between banks of different countries has another 
+consequence.  The  Eurosystem  has  become  the  most  important  counterparty  in  the  euro 
+money market. Before the first tensions were felt, the Eurosystem generally ensured broadly 
+balanced liquidity conditions. Credit institutions on aggregate were allotted as much liquidity 
+as  was  needed  under  given  autonomous  factors.  With  the  full  allotment  policy,  liquidity 
+provision  increased  sharply.  As  a  consequence  of  very  low  market  rates  relative  to  the 
+deposit facility and amid concerns over the credit quality of counterparties, a clear preference 
+emerged for storing liquidity on central bank accounts rather than lending it in the interbank 
+market. In short, liquidity flows between banks were much smaller than before the crisis. 
+The  Eurosystem’s  central  intermediary  role  became  even  more  evident  when  it  started  to 
+supply  long-term  liquidity  via  one-year  and  three-year  longer-term  refinancing  operations 
+(LTROs). The three-year LTROs were introduced to support bank lending. Furthermore, they 
+eased  tensions  in  the  sovereign  bond  markets  of  the  peripheral  countries,  as  banks 
+intensified  their  government  bond  purchases.  However,  we  have  observed  a  strong 
+preference on the part of banks to buy bonds issued by their home countries. This amplified 
+the  interdependence  of  the  banking  sector  and  the  domestic  sovereign  bond  market  in 
+certain euro-area countries and aggravated the existing geographical segmentation. 
+The  geographical  segmentation  is  reflected  in  European  banks’  reliance  on  Eurosystem 
+refinancing. After the Lehman insolvency, this reliance initially increased in most countries as 
+risk aversion rose. Later, segmentation developed differently across countries, reflecting the 
+perceived riskiness of each country. More recently, the Eurosystem policy to mitigate market 
+segmentation  and  to  safeguard  an  appropriate  monetary  policy  transmission,  namely  by 
+announcing  Outright  Monetary  Transactions  (OMTs),  is  mirrored  in  reduced  country 
+differences. But this is no justification for the OMTs. It has eased market tensions, especially 
+redomination risk. Nonetheless, the Bundesbank’s concerns are still extremely relevant. 
+Country  differences  regarding  the  reliance  on  Eurosystem  refinancing  remain  large,  as 
+indicated by the share of banks’ balance sheets that is financed by Eurosystem liquidity. This 
+has also become obvious in the structure of early repayments of the three-year LTROs. It 
+has mainly been banks located in the core countries that have reduced outstanding volumes. 
+Furthermore, the reliance on national counterparties has increased. Over the last few years, 
+euro-area cross-border activity has declined constantly. 
+3. 
+Regulatory changes as reaction to the crisis and their impact on market 
+structure and banking 
+The experience of the recent financial crisis has triggered regulatory changes, especially in 
+the  banking  sector.  The  new  Basel  III  banking  standards  will  address  some  of  the  root 
+causes  of  the  financial  crisis  and aim  to  prevent  another  build-up  of  liquidity  and  solvency 
+risks.  The  Basel  III  framework  for  liquidity  risk  regulation  encompasses  two  ratios  –  the 
+Liquidity Coverage Ratio (LCR) and the Net Stable Funding Ratio (NSFR). Both will have an 
+impact on how banks manage their business activities. As the LCR will be introduced earlier 
+and  the  details  are  far  more  developed,  I  will  discuss  its  impact  on  euro  money  markets. 
+However, the LCR might yet be revised before its final implementation. 
+With regard to the assets side of a bank’s balance sheet, a bank will primarily purchase High 
+Quality Liquid Assets (HQLA) to improve LCR compliance. Holding these assets outright will 
+improve the LCR. Demand for these assets is likely to increase, potentially causing them to 
+trade  at  a  premium.  This  regulatory-driven  additional  demand  might  reduce  appetite  for 
+lower-quality liquid assets. 
+Turning to the liabilities side, banks with an LCR of below one will need to substitute short-
+term  for  longer-term  funding.  This  could  reduce  the  volume  in  the  short-term  unsecured 
+2 
+ BIS central bankers’ speeches
+interbank  market,  though  banks  will  probably  continue  to  engage  in  significant  short-term 
+unsecured  trading  for  daily  liquidity  management  purposes,  as  they  will  still  need  to  fulfil 
+reserve  requirements.  Central  banks  will  have  to  monitor  the  impact  the  new  liquidity 
+regulations have on monetary policy implementation. 
+Unlike interbank funding, central bank refinancing over a 30-day horizon would not count as 
+an outflow in the LCR, as it always benefits from a 100% rollover rate. This could increase 
+demand for central bank refinancing. If non-HQLA are used as collateral, there would be no 
+reduction in the numerator and, therefore, the LCR would rise. Banks may therefore choose 
+to boost their cash reserves at the central bank (which count as HQLA) by increasing their 
+central bank refinancing that is backed with non-HQLA as collateral. While this also depends 
+on the opportunity cost of obtaining liquidity from the Eurosystem, there may be a number of 
+banks with large amounts of collateral that is not classified as liquid under Basel III but that is 
+eligible for monetary policy operations. 
+However, the interaction of LCR with monetary policy operations and the money markets has 
+been acknowledged. In January 2013, changes to the LCR were announced. In particular, 
+the timetable for fully phasing in the LCR requirement has been extended from 2015 to 2019. 
+Additionally, the list of HQLA has been broadened and punctual recalibration of the net cash 
+outflows will give banks more time to recover from the crisis and to implement the LCR in a 
+more  orderly  manner.  This  will  likely  reduce  the  level  of  market  fragmentation  that  might 
+otherwise have arisen had all banks had to meet the LCR 100% requirement by 2015. 
+In general, Basel III is the right answer to the lessons learned from the crisis. Nonetheless, 
+its impact on market patterns and banking behaviour has to be monitored carefully to prevent 
+undesirable developments. 
+illiquid  or 
+Repo market 
+too,  can  become 
+4. 
+The  net  impact  on  a  bank’s  liquidity  position  of  increasing  its  level  of  repo  funding  is 
+somewhat more complex, but overall it tends to improve the LCR and encourages a greater 
+level of secured funding, irrespective of duration. However, the higher demand for good and 
+liquid assets may reduce the supply for repo markets – potentially reducing liquidity in the 
+secured repo markets and adding to market volatility, particularly in times of stress. 
+Secured transactions, especially transactions via CCPs, have reanimated the money market 
+in times of high uncertainty. This is also reflected in the fact that the share of international 
+counterparties  on  trading  platforms  such  as  GC  Pooling  increased  during  the  crisis.  One 
+reason  is  that  it  became  apparent  during  the  financial  crisis  that  big  and  well-established 
+counterparties, 
+these  circumstances, 
+collateralisation  has  become  more  important.  However,  there  is  a  growing  gap:  the 
+importance  of  collateral  quality  has  risen  sharply,  and  at  the  same  time,  high  quality  and 
+liquid collateral is becoming a limiting factor. Furthermore, the ability to increase debt funding 
+through repo transactions will also be limited by regulatory changes in the future. 
+Additionally, the ample liquidity provided by the Eurosystem, especially via the two three-year 
+LTROs, together with the enlarged collateral framework for Eurosystem refinancing has led 
+to reduced activity in this market segment, too. The decisive question for market participants 
+now  is  whether  the  Eurosystem  will  stick  to  or  reduce  its  non-standard  monetary  policy 
+measures such as the full allotment policy and the enlarged collateral framework. 
+Given declining excess liquidity related, in particular, to the early repayments of the three-
+year LTROs, new business models may arise in the medium term as banks’ funding needs 
+will  pick  up  again.  It  is  therefore  up  to  market  participants  to  find  a  new  balance  between 
+risks and benefits in relation to cross-border lending. 
+Furthermore, the importance of banks’ collateral management will be further enhanced as a 
+consequence  of  the  crisis.  Credit  institutions  should  aim  to  manage  their  collateral  more 
+insolvent.  Under 
+BIS central bankers’ speeches 
+ 3
+efficiently  without  taking  on  additional  risks.  CCPs  and  the  use  of  trading  platforms  can 
+contribute to this. 
+Another  important  factor  on  the  repo  market  of  the  future  will  be  the  planned  financial 
+transaction tax (FTT). In its current design, it may harm the short-term repo market segment, 
+as  even  a  low  tax  rate  of  0.1%  for  trading  a  sovereign  bond  represents  a  high  burden  to 
+short-term and revolving repo transactions. To illustrate the problem, I would like to give you 
+an example: for an over-night repo transaction with a current interest rate of 0.04% and a 
+volume of EUR 10 million, a total of EUR 10,011 (ie EUR 11 in interest and EUR 10.000 in 
+FTT)  has  to  be  paid.  The  tax-free  use  of  the  marginal  lending  facility  of  the  Eurosystem 
+involves a payment of EUR 278 in interest. Funding via the repo market would be 36-times 
+more  expensive  than  central  bank  refinancing.  Such  a  financial  transaction  tax  would 
+probably  reduce  repo  market  activity  and  encourage  Eurosystem  refinancing.  That  is  not 
+desirable. 
+Market for covered assets 
+5. 
+Turning to longer-term funding instruments, I would first like to mention that EU banks’ total 
+issuance of debt funding dropped by 12% year on year in the first half of 2013 to its lowest 
+level  since  2002.  Besides  the  ample  liquidity  provided  by  the  Eurosystem,  which  reduces 
+banks’ demand for additional funding, the regulatory changes resulted in banks seeking to 
+reduce  their  reliance  on  wholesale  funding  in  favour  of  deposits  from  retail  and  small 
+business customers. The decrease in borrowing also reflects pressures facing banks, such 
+as the need for smaller, more robust balance sheets, and concerns among investors about 
+“bail-in”  rules.  Consequently,  banks  may  face  higher  funding  costs  as  investors  demand 
+more compensation for the increased risk of losing their money. 
+In addition, higher asset encumbrance has an impact on unsecured bank creditors. The more 
+bank assets are used for secured funding, the less remain to secure investors in unsecured 
+instruments in the case of insolvency. They will price in a risk premium for this form of bank 
+funding. 
+As in the money market, we observe fragmentation between core and peripheral countries in 
+Europe.  The  perceived  risk  of  financial  sectors  in  the  periphery  and  in  the  core  euro  area 
+started to diverge back in 2010 when the financial crisis turned into a sovereign debt crisis. 
+Still,  the  individual  quality  of  banks’  balance  sheets  influences  investment  decisions 
+significantly. Banks located in peripheral countries have reduced their issuance to a higher 
+degree. Developments in their home economies have stressed their balance sheets, namely 
+by  the  share  of  non-performing-loans.  Furthermore,  the  nexus  of  sovereign  and  financial 
+sector  credit  risks  has  made  funding  a  lot  more  expensive,  if  not  impossible,  for  them. 
+Therefore many of these banks are still highly dependent on Eurosystem funding. 
+The lower demand has also made itself felt in the volumes of secured instruments issued, 
+although markets have, since the crisis, displayed a preference for secured funding. 
+Covered bond issuance volumes declined given an ample liquidity supply by the Eurosystem 
+and a tendency towards balance-sheet deleveraging. In the first seven months of 2013, the 
+volume of newly issued covered bonds denominated in euro decreased by 38%. Issuance 
+volume has therefore reached its lowest level since 2009. Given that the volume of matured 
+Covered  bonds  significantly  exceeds  issues,  the  resulting  excess  demand  has  narrowed 
+covered bond spreads against Bunds. The US tapering discussion, which started at the end 
+of  May,  led  to  a  widening  of  spreads,  especially  of  peripheral  issuers.  The  overall 
+improvement in market sentiment regarding the European sovereign debt crisis has enabled 
+banks located in peripheral countries to step up issuance. The share of issues with volumes 
+of  between  EUR  500  million  and  EUR  1  billion,  so  called  “mini-Jumbos”,  has  grown.  This 
+development  can  be  attributed 
+importance  of  better  asset-liability 
+management as a result of regulatory changes that require, amongst others, a better maturity 
+match. 
+the  growing 
+to 
+4 
+ BIS central bankers’ speeches
+Another secured funding market, the ABS market, is still suffering from the financial crisis, 
+which  was  partly  caused  by  its  own  excessive  developments.  Therefore,  the  stricter 
+regulatory rules regarding ABS are important to prevent similar developments in the future. 
+However, we should bear in mind that the ABS market is quite heterogeneous. “Plain vanilla” 
+ABS backed by high-quality assets are fairly safe investments which have wrongly got a bad 
+reputation. To increase investor confidence, the Eurosystem has supported the ABS market 
+by promoting the “Loan Level Data Initiative”, which has significantly improved transparency 
+regarding  underlying  assets.  In  turn,  this  has  allowed  the  Eurosystem  to  relax  collateral 
+requirements for ABS recently. 
+ABS are one the most prominent asset classes used as collateral for Eurosystem refinancing 
+operations.  However,  recently,  covered  bonds  and  government  bonds  have  gained 
+importance. Nearly half of ABS issues were placed publicly in the first half of 2013 compared 
+to one-third in the second half of 2012. This shows some improvement in this market. 
+Spreads  on  the  secondary  market  have  also  narrowed  significantly  in  the  last  12  months. 
+However,  the  Portuguese  government  crisis  in  June  demonstrated  that  political  incidents 
+influence ABS spreads directly. Although Portugal is a relatively small country, developments 
+there had a strong impact on the spreads of ABS backed by assets originated by banks from 
+other peripheral countries, especially Spain. 
+In  terms  of  the  different  types  of  ABS,  residential  mortgage-backed  securities  (RMBS)  still 
+represent by far the biggest share of the market. While ABS backed by loans to small and 
+medium-sized enterprises (SME ABS) represent a sizeable share of the market, many issues 
+are retained and used directly as collateral for Eurosystem refinancing operations. However, 
+the  Eurosystem  believes  that  SME  ABS  could  and  should  represent  a  sizeable  source  of 
+bank  financing.  They  could  encourage  lending  to  SMEs  and  foster  the  transmission  of 
+monetary  policy  by  indirectly  easing  lending  conditions  to  SMEs.  In  the  press  conference 
+held  on  2  May,  ECB  President  Draghi  therefore  announced  a  consultation  with  other 
+European  institutions  on  “initiatives  to  promote  a  functioning  market  for  asset-backed 
+securities  collateralised  by  loans  to  non-financial  corporations”.  This  statement  was  further 
+backed  by  the  announcement  on  18  July  that  the  ECB  will  continue  to  investigate  the 
+possible acceptance of certain guaranteed mezzanine tranches of SME ABS. 
+Another structured instrument I would like to mention are contingent convertibles (CoCos), 
+which  could  complement  banks’  various  refinancing  instruments.  As  it  is  a  fairly  new 
+instrument with a lot of different arrangements, it is difficult to estimate the exact scope of this 
+market  segment.  CoCos  are  a  useful  instrument  to  increase  the  capital  base  in  times  of 
+stress. They automatically turn into core tier 1 capital if the trigger – mostly the core capital 
+rate – is undershot. Investors have to be compensated for this extra risk alongside default 
+risk and subordination risk in case of insolvency. Recently, this additional spread has shrunk 
+as  a consequence  of  the  increased  “search  for  yield”  in the  low  interest  rate  environment. 
+Consequently, CoCos may become establish as a funding instrument although they bear the 
+risk of being converted or even written down to zero. 
+As I approach the end of my speech, I would like to focus on a market which has changed a 
+lot  during  the  crisis  and  also  plays a  prominent  role  in  central  bank  politics:  the  sovereign 
+bond market. 
+Sovereign bond market 
+6. 
+Government bond markets have suffered during the ongoing banking crisis, especially as it 
+turned into a sovereign debt crisis. They are no longer considered a homogeneous, risk-free 
+asset class. 
+Investors’ willingness to take risk diminished sharply. Volatility and liquidity became the most 
+important topics for market participants. Bond buyers exercised greater scrutiny and a series 
+of  rating  downgrades  prompted  investors  to  re-evaluate  their  belief  that  European 
+BIS central bankers’ speeches 
+ 5
+government bonds are risk-free assets. This led to a differentiated perception of European 
+government bonds and diverging yields for the individual countries. To a certain degree, the 
+increased  spreads  seem  to  be  justified.  They  reflect  diverging  fundamentals  in  different 
+countries  –  ie  the  different  economic  situation  and  levels  of  public  debt.  It  is  questionable 
+whether  the  convergence  of  yields  in  the  years  before  the  crisis  reflected  the  right 
+assessment of the various risks underlying these investments. 
+Currently, refinancing conditions for the peripheral countries have improved notably. Hence, 
+OMT will hopefully never have to be activated. 
+However,  market  sentiment  can  change  very  quickly.  In  January  2010,  Greece  received 
+offers  of  about  EUR  25  billion  for  its  five-year  government  bond  issue  with  a  volume  of 
+EUR 8 billion. A couple of weeks later, Greece was no longer able to refinance its liabilities 
+via  the  capital  market.  Although  there  are  currently  small  improvements  in  GDP  growth  in 
+several European countries, the risk of renewed tensions in sovereign debt markets is still 
+alive  given  low  growth  and  the  slow  implementation  of  reforms  on  the  one  hand  and  the 
+expected tapering of the Fed’s quantitative easing programme on the other hand. 
+Lower  investor  confidence,  besides  sending  European  government  bond  yields  and  CDS 
+premia higher in the secondary markets, has also impacted the primary markets. The space 
+left by external creditors was occupied by domestic investors such as banks, who increased 
+their investments particularly following the introduction of the three-year LTROs. 
+The  trend  towards  renationalisation  is  a  development  that  needs  to  be  monitored.  It 
+reinforces  the  interdependence  of  the  sovereign  sector  and  the  domestic  banking  system. 
+European banks often only invest in the sovereign bonds of their home countries. 
+Credit  institutions  must  increase  their  risk  awareness  in  terms  of  sovereign  bonds.  On  the 
+one  hand,  banks  should  have  credit  limits  for  individual  countries.  This  would  reduce 
+dependencies on certain debtors. On the other hand, these bonds have to be secured by a 
+sufficient  level  of  equity.  In  the  medium  term,  government  bonds  should  be  treated  like 
+corporate bonds. Experience has taught us that sovereign bonds are not a risk-free asset. 
+Furthermore,  risk-appropriate  treatment  would  lead  to  increasing  yields  of  countries  with 
+unsound  finances.  Therefore,  market  regulation  would  provide  an  incentive  for  fiscal 
+discipline. 
+The current initiative to establish an effective Single Supervisory Mechanism is a step in the 
+right  direction.  It  will  help  us  to  identify  risks  at  an  earlier  stage  and  is  therefore  also 
+important  for  disentangling  the  critical  link  between  sovereign  and  bank  funding. However, 
+the  banking  union,  consisting  of  a  sound  Single  Supervisory  Mechanism  and  Single 
+Resolution Mechanism, is a future project to prevent future problems. Existing burdens have 
+to  be  treated  separately.  They  arose  under  national  responsibility  and  should  not  be 
+mutualised. Therefore, the planned financial inventory of banks’ balance sheets is crucial and 
+needs a close examination. Banks which do not have a sustainable business model should 
+not be kept alive with public financial support. 
+Closing remarks 
+7. 
+Overall, stress levels in the markets for European government bonds and bank refinancing 
+have diminished significantly since the summer of 2012. Nevertheless, the question whether 
+the interbank market will return to its former integrated status remains open. Secured trading 
+in connection with the use of CCPs may play a crucial role in the changing environment as it 
+reduces counterparty risk and helps to improve collateral management. 
+The  ongoing  repayments  of  the  three-year  LTROs  reduces  excess  liquidity  in  the  money 
+market and could be interpreted as suggesting that market participants no longer need as 
+much access to central bank liquidity as before. But let me be unequivocal about one thing: 
+this  development  has  been  induced  by  the  markets,  it  has  not  been  triggered  by  the 
+Eurosystem. 
+6 
+ BIS central bankers’ speeches
+Furthermore, banks should focus on achieving a reasonable mix of short-term funding and 
+refinancing  via  longer-term  repos  and  bond  issues.  This  could  help  alleviate  the  current 
+tendency of some banks to leave their cash reserves in the ECB’s deposit facility rather than 
+offering  them  in  the  interbank  market.  This  would  be  an  important  step  towards  re-
+establishing a well-integrated money market in the euro area. 
+The regulatory steps undertaken with Basel III go in the right direction, but their impact on the 
+markets has to be carefully considered. 
+In  the  banking  sector,  business  models  need  further  adjustments,  which  should  ultimately 
+result in a more resilient and diversified sector with a more sustainable risk-return profile. In 
+the  current  low  interest  rate  environment,  it  is  surely  no  easy  task  to  increase  earnings. 
+However, developments so far go in the right direction as eg German banks’ average equity 
+base  has  improved  considerably  since  the  beginning  of  the  crisis.  For  the  twenty  biggest 
+credit institutions, the core capital rate has doubled on average. 
+Nonetheless,  the  interconnectedness  between  banks  and  their  home  country  has  to  be 
+monitored closely as it holds a strong contagion risk. 
+Thank you for your attention. 
+ 
+BIS central bankers’ speeches 
+ 7

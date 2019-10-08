@@ -1,0 +1,446 @@
+  Benoît Cœuré: Assessing the implications of negative interest rates 
+Speech  by  Mr  Benoît  Cœuré,  Member  of  the  Executive  Board  of  the  ECB,  at  the  Yale 
+Financial Crisis Forum, Yale School of Management, New Haven, 28 July 2016. 
+ I would like to thank Glenn Schepens and Skander Van den Heuvel for their assistance in preparing this speech. 
+All views expressed herein remain mine. 
+Accompanying slides can be found on the ECB’s website: Slides (PDF). 
+Introduction 
+I would like to thank Glenn Schepens and Skander Van den Heuvel for their assistance in 
+preparing this speech. All views expressed herein remain mine. 
+Interest rates have been low across all major advanced economies for some time now. The 
+decline  in  interest  rates  –  both  nominal  and  real  –  has  been  a  persistent  trend  since  the 
+1990s and is visible in the long-term interest rates on government bonds [Slide 2: 10 year 
+government bond yields]. A range of structural factors have been proposed for this secular 
+decline in the rate of return on safe assets, including demographic changes, a slowdown in 
+the  rate  of  technological  progress,  and  a  high  demand  for  safe  assets  relative  to  their 
+supply.1 
+This  decline  in  long-run  interest  rates  has  consequences  for  monetary  policy.  Monetary 
+policymakers  often  think  in  terms  of  a  concept  known  as  the  real  equilibrium  rate  or  the 
+“natural”  rate  of  interest.2  This  equilibrium  rate  is  the  interest  rate  that  is  consistent  with 
+stable inflation and output at its potential level. Setting short-term interest rates above this 
+rate puts downward pressure on activity and inflation. Setting them below this rate of course 
+has  the  opposite  effect.  While  this  real  equilibrium  interest  rate  is  difficult  to  estimate 
+precisely, and while there are competing explanations for it, there is a broad consensus that 
+it has declined in advanced economies over the past two decades. By some estimates it is 
+currently negative in the euro area.3 
+Since  the  global  financial  crisis,  inflation  has  been  low  worldwide,  and  growth  subdued. 
+Central bankers are responding to this low inflation and output below potential by conducting 
+accommodative  policies.  Both  these  cyclical  factors  and  the  longer-term  decline  in  the 
+equilibrium real rate of interest have required policy rates to be set at record low levels in 
+advanced economies [Slide 3: Policy rates in major economies]. As short-term policy rates 
+approached zero, central banks carried out further loosening by providing forward guidance 
+about the expected future path of interest rates and by lowering term premia through large-
+scale asset purchase programmes. 
+                                                
+1   See Bean C., C. Broda, T. Ito and R. Kroszner, “Low for Long? Causes and Consequences of Persistently 
+Low Interest Rates” Geneva Reports on the World Economy 17, 2015. 
+2   See  Cœuré  B.,  “The  economic  consequences  of  low  interest  rates”,  lecture  at  the  International  Center  for 
+Monetary  and  Banking  Studies,  Geneva,  9  October  2013.  The  natural  starting  point  for  an  economist  is 
+K. Wicksell, Interest and Prices, Royal Economic Society, 1936. For a definition of the natural rate of interest 
+in the context of dynamic economic models, see Woodford M., Interest and Prices: Foundations of a Theory of 
+Monetary Policy, Princeton University Press, 2003. 
+3   See Laubach T. and J. Williams, “Measuring the Natural Rate of Interest Redux”, Federal Reserve Bank of 
+San Francisco, Working Paper, No. 2015–16, October 2015, and V. Constâncio, “The challenge of low interest 
+rates for monetary policy”, lecture at the Macroeconomics Symposium, Utrecht School of Economics, 15 June 
+2016. 
+BIS central bankers’ speeches 
+ 1 
+  
+ 
+In June 2014, following in the footsteps of the Danish National Bank, the European Central 
+Bank  (ECB)  became  the  first  major  central  bank  to  lower  one  of  its  key  policy  rates  to 
+negative territory. The rate of interest on our deposit facility is now –0.4% while the rate on 
+our main refinancing operations is zero.4 At the same time, we launched an asset purchase 
+programme (APP) covering a broad range of investment grade securities. 
+These various policy measures are complementary instruments and are necessary to ensure 
+that sufficient stimulus is provided to the economy to return inflation to the ECB’s objective. 
+Failure to take into account the downward trend in real equilibrium interest rates would have 
+resulted in downward pressure on inflation and activity, pushing real interest rates up and 
+driving the economy further away from full employment. 
+It is difficult to know how long these low interest rates will persist, but it seems possible that 
+they will be low for quite some time. That certainly is the view of financial markets, where the 
+return  on  government  bonds  is  negative  for  a  range  of  countries,  even  at  long  maturities. 
+[Slide 4: Government bonds with negative yields] 
+While  low  or  negative  rates  and  the  asset  purchase  programmes  are  needed  to  provide 
+sufficient monetary stimulus, a number of observers have voiced concern about their impact 
+on  the  behaviour  of  economic  agents,  on  the  resilience  of  financial  intermediaries  and, 
+ultimately, on financial stability.5 
+Today,  I  will  offer  some  thoughts  on  these  issues,  focusing  on  the  banking  sector,  which 
+plays a key role in the transmission of monetary policy in the euro area. 
+The specialness of negative nominal interest rates 
+So  what  makes  negative  rates  special?  [Slide  5:  The  specialness  of  negative  nominal 
+interest rates] The first answer is cash. Since cash (i.e. paper money and coins) offers a zero 
+nominal return, at some point it will dominate holding assets with negative nominal yields.6 
+For example, if banks were to charge significantly negative rates on deposits, then the higher 
+return on cash could lead households and businesses to withdraw their deposits. And this 
+disintermediation would be likely to pose risks to financial stability. 
+Of course, holding cash is not entirely convenient or costless. It would be cumbersome (not 
+to mention risky) to buy a car or a house in cash, and storing a large amount of cash requires 
+high-security storage as well as insurance. These costs of holding and insuring cash explain 
+why the effective lower bound on interest rates is below zero.7 
+                                                
+4   The ECB’s deposit facility rate has become its most important policy rate in an environment of very ample 
+excess liquidity. The overnight money market rate, which was previously driven by the rate on the ECB’s main 
+refinancing operations, is now close to the deposit facility rate. 
+5   See, for example, The Economist, “Negative creep”, 6 February 2016. 
+6   For an early discussion from an ECB perspective, see Cœuré B., “Central banks and the challenge of the zero 
+lower  bound”,  intervention  at  the  “Meeting  on  the  Financial  Crisis”  organised  by  the  University  of  Chicago 
+Booth School of Business, Miami, 19 February 2012. 
+7   The literature on substitution between cash and deposits at the lower bound, and on technical devices which 
+can  push  the  “physical”  lower  bound  down,  starts  with  the  proposal  by  Gesell  (1911)  to  attach  stamps  to 
+banknotes to accelerate their demurrage. It was revived by Goodfriend (2000) and Buiter and Panigirtzoglou 
+(2001) and more recently by Agarwal and Kimball (2015). See Gesell S., Die Natürliche Wirtschaftsordnung, 
+1911, published by Rudolf Zitzman Verlag, 1949; Fisher, I. “Stamp scrip”, Adelphi Company, 1933; Buiter W. 
+and N. Panigirtzoglou, “Liquidity traps: How to avoid them and how to escape them,” in W. Vanthoor and J. 
+Mooij  (Eds.),  Reflections  on  Economics  and  Econometrics,  Essays  in  Honour  of  Martin  Fase,  De 
+Nederlandsche Bank, 2001, pp. 13–58; Goodfriend M., “Overcoming the Zero Bound on Interest Rate Policy”, 
+Journal of Money, Credit and Banking, Vol. 32, No. 4, pp. 1007–1035, 2000; and R. Agarwal and M. Kimball, 
+“Breaking Through the Zero Lower Bound,” IMF Working Paper, No. 15/224, 2015. 
+2 
+ BIS central bankers’ speeches 
+  
+ 
+The academic discussion of negative rates has centred around cash, but in public debate 
+other issues have recently emerged. 
+One issue is associated with money illusion, i.e. the tendency of people to value assets and 
+goods in nominal rather than in real terms.8 This led to the notion that negative nominal rates 
+are unnatural, which has become a popular theme in the public debate.9 In contrast, we have 
+been  through  episodes  of  negative  real  rates  in  the  past  without  having  such  debates. 
+Indeed, as the Bundesbank has noted, negative real rates of interest on deposits have been 
+the  norm  rather  than  the  exception  in  Germany  in  recent  decades.10  [Slide  6:  Real 
+remuneration  of  savings  deposits  in  Germany]  People  may  gradually  understand  the 
+rationale  behind  negative  nominal  rates  and  adapt  to  this  new  situation.  For  instance,  the 
+popular  assumption  that  the  negative  income  effect  on  household  consumption  dominates 
+the  positive  substitution  effect  when  nominal  yields  are  very  low  is  not  in  line  with  the 
+evidence. In fact, the average net interest income of euro area households has been largely 
+unaffected, thanks to lower interest payments. Low interest rates have mainly redistributed 
+resources from  net  savers to  net  borrowers.  As the  latter  typically  have  a  higher marginal 
+propensity to consume than the former, this has further supported consumption.11  But one 
+cannot rule out that negative nominal interest rates raise broader cognitive issues as they 
+challenge the rules of thumb used by economic agents in their everyday decisions. 
+Finally, negative rates may be special due to institutional features embedded in the financial 
+system, such as legal restrictions on the application of negative rates or at least uncertainty 
+regarding  the  legal  standing  of  such  an  arrangement,12  or  the  tax  treatment  of  negative 
+interest rate income, which is often not symmetric with the treatment of positive interest rate 
+income. In addition, some IT systems may not be able to cope with negative rates. 
+In the euro area, however, these scenarios have  not yet materialised. Thanks to intensive 
+technical cooperation between the ECB and market participants ahead of the introduction of 
+negative rates, our experience has been very smooth, allowing large parts of the government 
+bond and secured and unsecured money markets to operate at negative rates without any 
+disruption.13  The  introduction  of  negative  rates  has  been  smooth  also  in  other  jurisdictions 
+outside of the euro area.14 
+                                                
+8   On  money  illusion,  see  Shafir  E.,  P.  Diamond  and  A.  Tversky,  “Money  Illusion”,  The  Quarterly  Journal  of 
+Economics,  Vol.  112,  Issue  2,  1997,  pp.  341–374.  On  the  interaction  between  negative  rates  and  money 
+illusion,  see  Borio  C.  and  A.  Zabai,  2016  “Unconventional  monetary  policies:  a  re-appraisal”,  BIS Working 
+Paper No 570, 2016. 
+9   “Imagine  a  world  in  which  tax  offices  harry  people  who  file  their  returns  promptly;  where  big  supermarket 
+chains pay their suppliers before the goods fly off the shelves and not months afterwards; and where a pre-
+paid annual gym membership is more costly than paying month by month. It sounds fanciful, absurd even.”, in 
+The Economist, op. cit. 
+10   See  Deutsche  Bundesbank,  “Nothing  new  about  real  interest  rates  on  deposits”,  30  June  2014, 
+https://www.bundesbank.de/Redaktion/EN/Topics/2014/2014_06_30_nothing_new_negative_interest_rates.ht
+ml. 
+11   See European Central Bank, “Low interest rates and households net interest income”, ECB Economic Bulletin, 
+Issue 4 / 2016, Box 3. 
+12   See McAndrews J., “Negative Nominal Central Bank Policy Rates: Where Is the Lower Bound?”, remarks at 
+the University of Wisconsin, 8 May 2015. For example, some financial contracts (e.g. money market funds or 
+floating rate notes) may not foresee the possibility of payments from the lender to the borrower and in any 
+case the logistics of collecting interest payments from holders of securities can be complex. 
+13   See Cœuré B., “Life below zero: learning about negative interest rates”, presentation at the annual dinner of 
+the ECB’s Money Market Contact Group, 9 September 2014. 
+14   Jackson, H. “The international experience with negative policy rates”, Bank of Canada Staff Discussion Paper, 
+No. 2015–13, November 2015. 
+BIS central bankers’ speeches 
+ 3 
+  How low and for how long? 
+There are two key questions for central bankers [Slide 7: How much lower can we go?]. First, 
+how much lower can we go? Second, does the persistence of low and/or negative interest 
+rates pose particular challenges to the stability of the financial system? 
+Answering  the  first  question  appears  to  be  simple.  As  I  said  earlier,  the  “physical  lower 
+bound” of nominal interest rates, at which disintermediation risk will materialise, is imposed 
+by the opportunity cost of holding cash. 
+But is there an “economic lower bound”, different from the physical one, where further rate 
+cuts cease to provide aggregate stimulus to the economy? This economic lower bound could 
+then potentially but not necessarily impose an earlier binding constraint for monetary policy. 
+Indeed, in the current discussion, it has been suggested that at some point the level of rates 
+can become low to the extent that the detrimental effects on the banking sector outweigh the 
+benefits of lower rates. In a recent paper, Brunnermeier and Koby refer to this rate as the 
+“reversal rate”.15 At the reversal rate, bank profitability will fall, reducing capital generation via 
+retained  earnings,  which  is  an  important  source  of  capital  accumulation,  and  thereby 
+eventually  restricting  lending. The risk  that  low  rates might cause  short-term  dislocation  in 
+financial markets was already identified by Bernanke and Reinhart in their 2004 paper on the 
+implications of very low rates.16 
+Low (and negative rates) have both a one-off short-term impact and more persistent effects 
+on  a  bank’s  profitability  and  capital.  And  bank  capital  matters  for  credit  provision  and  for 
+financial stability, as low bank capital means high leverage. 
+The  short-term  impact  partly  stems  from  one-off  capital  gains  on  the  outstanding  fixed-
+income portfolio of a bank. When rates are falling, the value of fixed-income securities on a 
+bank’s balance sheet goes up, leading to higher profits. A decline in the level of interest rates 
+can also boost net interest margins in the short run. Banks carry out maturity transformation 
+by  borrowing  short  term  and  lending  long  term.  As  short-term  interest  rates  fall,  funds 
+become cheaper. Since existing fixed-rate loans take some time to reprice to lower rates, the 
+initial impact of lower rates on net interest margins could be positive. 
+Other things being equal, lower rates will decrease net interest income over the long term. If 
+the decline in rates is accompanied by a flattening of the yield curve, the margin between 
+lending  and  borrowing  eventually  compresses,  reducing  net  interest  income.  Such  a 
+flattening may result from expectations of a prolonged period of low short-term rates, and it 
+may be compounded by a compression of the term premium if the central bank also operates 
+a large-scale asset purchase programme. 
+Even for a given slope of the yield curve, a low level of interest rates can also compress net 
+interest margins for banks reliant on retail deposits. The reason is that retail deposits tend to 
+have low and sticky interest rates, and banks are reluctant to charge negative rates on them. 
+As market rates decline, the yield on bank assets will eventually drop, but this funding source 
+will still cost the same to banks, resulting in a decline in net interest margins. The decline in 
+present and future net interest margin reduces the forward-looking measure of bank capital, 
+                                                
+15   See  Brunnermeier  M.  and  Y.  Koby,  “The  “Reversal  Rate”:  Effective  Lower  Bound  on  Monetary  Policy”, 
+See 
+presented 
+meeting, 
+https://www.bis.org/events/confresearchnetwork1603/brunnermeier.pdf. 
+research 
+network 
+March 
+2016. 
+BIS 
+the 
+14 
+at 
+16   See  Bernanke  B.  and  V.  Reinhart,  “Conducting  Monetary  policy  at  Very  Low  Short-Term  Interest  Rates”, 
+American Economic Association Papers and Proceedings, Vol. 94, No. 2, pp. 85, May 2004. 
+4 
+ BIS central bankers’ speeches 
+  
+ 
+hence the risk-bearing capacity of the bank, and its supply of credit. This is turning upside 
+down Adrian and Shin’s “credit supply channel” of transmission of monetary policy.17 
+The exact magnitude of the effect of negative interest rates on aggregate bank profitability is 
+uncertain,  since  it  has  to  be  put  in  the  context  of  what  would  happen  in  the  absence  of 
+monetary  policy  action.  First  of  all,  servicing  floating-rate  loans  and  mortgages  becomes 
+more affordable as interest rates fall. Borrowers who are struggling in the adverse economic 
+climate  are  therefore  less  likely  to  default.  Second,  and  more  importantly,  accommodative 
+monetary policy should create a more favourable macroeconomic environment, which ought 
+to  improve  the  financial  situation  of  bank  borrowers.  Indeed,  empirical  research  shows  a 
+clear  negative  relation  between  economic  growth  rates  and  non-performing  loans.18  These 
+positive  effects  are  present  at  all  rate  levels  and  are  likely  to  dominate  when  rates  are 
+moderately negative. 
+Also, the economic lower bound is not uniquely determined at the aggregate level, since it 
+will vary across banks and markets. The larger the share of floating-rate lending in the stock 
+of loans, the faster the negative impact on interest margins will be. Banks with large fixed-
+income holdings and holdings of bonds which benefited the most from spread compression 
+will  be  better  able  to  offset  decreases  in  interest  margins,  due  to  the  revaluation  effect  I 
+mentioned earlier. The reversal rate is also likely to be lower for those banks that are more 
+reliant on wholesale rather than retail funding. Market-based funding suffers less from this 
+zero  lower  bound,  meaning  that  these  banks  will  be  better  able  to  protect  their  interest 
+margin. Similarly, banks with greater market power will be better able to avoid passing on the 
+lower rates to borrowers, which will shield their interest margin. 
+In  the  euro  area,  this  translates  into  geographic  differences  based  on  national  banking 
+structures,  implying  that  the  negative  interest  rate  policy  has  distributional  consequences 
+across banks located in different jurisdictions. 
+The second important question for central bankers is whether the persistence of low and/or 
+negative interest rates poses other challenges to the stability of the financial system. 
+Challenges to financial stability could potentially materialise if banks were to increase their 
+exposure  to  lower  quality  counterparties  in  order  to  boost  returns.19  This  could  reflect  a 
+portfolio rebalancing towards riskier assets when yields on safe assets are low, or a greater 
+concentration  of  lending  to  small  and  medium-sized  enterprises  (SMEs),  which  generate 
+higher returns but have historically exhibited higher default risk. 
+The  effect  is  similar  to  the  “search  for  yield”  by  managers  targeting  a  minimum  return  on 
+assets.20 Note that this mechanism may as well apply to shadow banks insofar as they rely 
+on  short-term  funding.  Financial  stability  risks  could  also  materialise  outside  of  banks, 
+through  excessively  inflated financial  asset  prices  and  if  zero  or  negative  rates  encourage 
+asset price volatility. 
+Existing empirical evidence, mainly relying on periods with low, but positive rates before the 
+global financial crisis, indicates that periods of lower interest rates are indeed associated with 
+                                                
+17   See Adrian, T., and H.S. Shin (2011), “Financial Intermediaries and Monetary Economics”, in B. Friedman and 
+M. Woodford (Eds.), Handbook of Monetary Economics, Volume 3, Chapter 12, pp. 601–650. 
+18   See  Beck,  R.,  P.  Jakubik  and  A.  Piloiu,  “Non-performing  loans:  What  matters  in  addition  to  the  economic 
+cycle?” ECB Working Paper, No. 1515, February 2013. 
+19   See  Borio,  C.  and  H.  Zhu,  “Capital  regulation,  risk-taking  and  monetary  policy:  a  missing  link  in  the 
+transmission mechanism?”, Journal of Financial Stability, Vol. 8, 2012, pp. 238–251, and Caballero R., Hoshi 
+T. and A. Kashyap, “Zombie Lending and Depressed Restructuring in Japan,” American Economic Review, 
+Vol. 98, 2008, pp. 1943–77. 
+20   See Rajan R., “Has financial development made the world riskier?”, European Financial Management, 12(4), 
+2006, pp. 499–533. 
+BIS central bankers’ speeches 
+ 5 
+  
+ 
+lower bank lending standards and with a shift of credit towards borrowers with a lower credit 
+quality.21 Additionally, the latest ECB Survey on the Access to Finance of Enterprises in the 
+Euro Area (SAFE) shows an improvement in the availability of bank loans for SMEs between 
+October  2014  (shortly  after  negative  rates  were  introduced)  and  March  2016.22  This  could 
+indicate that one way that banks are taking on more risk is by lending more to smaller, and 
+typically riskier, firms. 
+Of  course,  promoting  lending,  including  to  risky  borrowers,  is  one  of  the  goals  of 
+accommodative monetary policy. 
+But the main question, however, is whether negative rates can also lead to excessive risk-
+taking by banks. If accommodative monetary policy works as intended, then more investment 
+projects will gain a positive net present value and will be financed – including some riskier 
+ones.  That’s  the  “good”  risk-taking.  However,  banks  may  be  tempted  to  finance  risky  but 
+negative net present value loans – that is excessive or “bad” risk-taking. The theory suggests 
+that this possibility is more likely when interest rates are low, if banks are highly leveraged or 
+if they can easily adjust their capital structure.23 
+Empirical evidence 
+While  theoretically  appealing,  a  precise  estimate  of  the  point  where  accommodative 
+monetary  policy  becomes  contractionary  and/or an  issue for financial  stability  is  extremely 
+challenging. 
+What I can offer you today is an overview of the situation of financial intermediaries in the 
+euro area, in order to see whether there are signs that we have reached or are reaching a 
+reversal rate. 
+But let me start by referring to the most recent data on monetary developments in the euro 
+area.  They  show  no  signs  of  cash  substitution,  indicating  that  we  are  still  far  from  the 
+physical lower bound for nominal interest rates.24 
+In  a  second  step,  let  me  focus  on  bank  income  and  profitability.  Slide  8  shows  the  main 
+sources  of  operating  income  for  banks  in  the  euro  area,  based  on  aggregate  numbers. 
+[Slide 8: Euro-area banks: Income sources] In recent years, the distribution of these sources 
+has been fairly stable, with approximately 60% of income coming from net interest income, 
+25% from fees and commissions and 15% from other income sources. 
+Given its large share, net interest income thus plays an important role in bank profitability. As 
+I mentioned, a reduction in interest rates could harm interest margins, and this could be even 
+                                                
+21   See, for example, Ioannidou V., S. Ongena, and J.-L. Peydrò, “Monetary policy and subprime lending: a tall 
+tale  of  low  federal  funds  rates,  hazardous  loans  and  reduced  loan  spreads”,  European  Banking  Centre 
+Discussion  Paper,  No.  45,  2009;  Maddaloni  A.  and  J.-L.  Peydrò,  “Bank  Risk-Taking,  Securitization, 
+Supervision and Low Interest Rates: Evidence from the Euro Area and U.S. Lending Standards”, Review of 
+Financial Studies, Vol. 24, No. 6, pp. 2121–165, 2011; Jiménez G., S. Ongena, J.-L. Peydrò and J. Saurina, 
+“Hazardous Times for Monetary Policy: What Do Twenty-Three Million Bank Loans Say About the Effects of 
+Monetary Policy on Credit Risk-Taking?”, Econometrica, Vol. 82, No. 2, pp. 463–505, 2014; and Dell’Ariccia 
+G., L. Laeven, and G. Suarez, “Bank Leverage and Monetary Policy’s Risk-Taking Channel: Evidence from 
+the United States”, Journal of Finance, forthcoming. 
+22   See the October 2014 – March 2015, April 2015 – September 2015 and October 2015 – March 2016 SAFE 
+surveys. 
+23   See Dell’Ariccia G., L. Laeven, R. Marquez, “Real interest rates, leverage, and bank risk-taking,” Journal of 
+Economic Theory, 149, 2014. 
+24   The annual growth rate of the narrower aggregate, including currency in circulation and overnight deposits 
+(M1), decreased to 8.6% in June, from 9.1% in May. See ECB, “Monetary developments in the euro area: 
+June 2016,” https://www.ecb.europa.eu/press/pdf/md/md1606.pdf. 
+6 
+ BIS central bankers’ speeches 
+  
+ 
+more pronounced when rates enter negative territory, due to a potential zero lower bound for 
+retail deposit rates. 
+Slide  9  illustrates  average  loan  and  deposit  rates  for  both  non-financial  corporations  and 
+households in the euro area.25 [Slide 9: Euro-area banks: Interest rates on new loans and 
+deposits] The vertical red line indicates June 2014, the first time deposit facility rates became 
+negative in the euro area. The gap between loan rates and deposit rates narrows because 
+declining rates are passed on more strongly to loan rates than to deposit rates, indicating 
+that there indeed seems to be a zero lower bound for deposits. While average deposit rates 
+only  decreased  by  around  0.2  percentage  point  between  June  2014  and  May  2016,  loan 
+rates  decreased  by  around  0.8  percentage  point,  effectively  reducing  the  interest  margin. 
+This is also shown on slide 10, using profit and loss data of a group of large euro area banks, 
+which on average indeed have seen a reduction of their net interest margins – defined here 
+as net interest income over total assets – since mid-2014. [Slide 10: Euro-area large banks: 
+Net interest margin] 
+But what about overall income? ECB staff estimates show that the overall impact on bank 
+profitability  of  recent  monetary  policy  actions  is  net  positive,  compared  with  a  scenario 
+without  any  monetary  policy  action.26  [Slide  11:  Monetary  policy  and  bank  profitability: 
+estimates]. Decreasing net interest income and charges on excess liquidity do put pressure 
+on bank profitability. But there are also two strong positive effects of lower rates. First, the 
+positive impact of lower rates on the macro environment reduces firm default risk and lowers 
+the  debt  servicing  cost  of  borrowers,  which  should  improve  credit  quality.  Second,  lower 
+rates will lead to capital gains on the bond portfolio of banks. 
+The ECB’s latest Financial Stability Review[27 broadly confirms these model-based estimates. 
+As slide 12 shows, the net income of euro area significant banking groups actually increased 
+between 2014 and 2015 [Slide 12: Euro-area large banks: Aggregate net income]. This was 
+mainly  driven  by  lower  impairments  and  higher  non-interest  income.  Even  net  interest 
+income made a positive contribution, despite a small decline in interest margins. This reflects 
+an  increase  in  volumes,  which  is  of  course  an  intended  consequence  of  accommodative 
+monetary policy. As discussed earlier, however, interest margins are likely to stay low and 
+might  even  further  decline,  while  profits  from  one-off  capital  gains  will  fade  away.  Indeed, 
+analysts forecast a decline in bank profitability in 2016 and 2017, mainly due to lower net 
+interest  income.  And  the  recent  decline  in  euro  area  bank  share  prices  can  be  at  least 
+partially ascribed to market concerns over future banks profitability. 
+As  such,  if  very  low  or  negative  rates  are  here  for  a  prolonged  period  of  time  due  to  the 
+structural drivers highlighted above, banks might have to rethink their business models. The 
+revenue structure of euro area banks was stable for a long time but it has recently begun to 
+change and there is at least some evidence of banks tending to offer fee-based products to 
+clients as substitutes for interest-based products.28 Another way forward is to improve cost 
+efficiency.  Although  a  number  of  banks  have  reduced  their  operating  costs  over  the  last 
+couple of years, overall cost efficiency has remained low in the euro area, with aggregate 
+cost-income ratios between 63% and 65% over the last five years.29 Action taken by euro-
+                                                
+25   See  English  W.,  J.  Skander  Van  den  Heuvel,  and  E.  Zakrajsek,  “Interest  Rate  Risk  and  Bank  Equity 
+Valuations”, Finance and Economics Discussion Series 2012–26, Board of Governors of the Federal Reserve 
+System, for evidence on the reaction of net interest margins of US banks to changes in rates. 
+26   See Rostagno M. et al., “Breaking through the zero line: The ECB’s Negative Interest Rate Policy”, Brookings 
+Institution, Washington DC, 6 June 2016. Presentation available on the Brookings website. 
+27   See the May 2016 ECB Financial Stability Review, p. 60, Chart 3.4. 
+28   See  Nouy  D.,  “Risks  and  resilience  –  the  European  banking  sector  in  2016”,  speech  at  the  Bank  Capital 
+Forum, London, 23 February 2016. 
+29   Consolidated ECB banking data for domestic banks in the euro area. 
+BIS central bankers’ speeches 
+ 7 
+  
+ 
+area banks to remedy this situation will also help them cope with a prolonged period of very 
+low rates. Action to dispose of their stocks of legacy non-performing loans, which has been 
+identified by ECB Banking Supervision as one of its priorities for 2016, will also safeguard 
+their profitability. 
+Moving away from profitability, deposit growth rates for euro area banks show that there is no 
+sign of disintermediation risk at the moment. Deposits of both households and non-financial 
+corporations  have  been  growing  over  the  past  two  years,  at  a  similar  pace  to  the  period 
+before  we  entered  negative  interest  rate  territory  [Slide  13:  Euro-area  banks:  Deposit 
+growth]. This risk is not materialising mainly because rates on retail deposit seem to have a 
+zero lower bound, as shown earlier. 
+With regard to bank lending, it is clear that we have not yet reached the reversal rate for the 
+euro  area.  Bank  lending  has  improved  since  mid-2014,  both for  non-financial  corporations 
+and households. [Slide 14: Euro-area banks: Loan growth] Similarly, results from the ECB’s 
+July  2016  euro  area  bank  lending  survey  clearly  indicate  that  loan  supply  conditions  for 
+enterprises in the area are continuing to improve. 
+Finally,  what  about  the  risks  to  financial  stability?  The  ongoing  economic  recovery  should 
+help  bolster  the  income  and  earnings  position  of  euro  area  households  and  non-financial 
+corporations, thereby mitigating the risks associated with a continued debt overhang which 
+persists in some countries. At the same time, the recovery of euro area real estate markets 
+has  gained  further  momentum.  While  overall  residential  property  valuations  remain 
+contained,  prime  commercial  property  valuations  have  moved  above  long-term  averages. 
+Against this backdrop, as highlighted in the ECB’s latest Financial Stability Review, the best 
+way to counter any potentially emerging risk in any market segment is targeted action by the 
+macroprudential authorities. 
+Conclusions 
+Let me conclude. As is well known from the academic literature, the “physical lower bound” 
+of  short-term  nominal  interest  rates  is  equal  to  the  opportunity  costs  of  holding  cash. 
+Monetary developments in the euro area show no signs of cash substitution, indicating that 
+we  are  still  far  away  from  the  physical  lower  bound.  Central  bankers  should  however  be 
+mindful of a potential “economic lower bound”, at which the detrimental effects of low rates 
+on  the  banking  sector  outweigh  their  benefits,  and  further  rate  cuts  risk  reversing  the 
+expansionary monetary policy stance. 
+The ECB is mindful of these risks. In the euro area, the potential adverse impact on bank 
+profitability, if it materialises, would be compounded by low growth prospects and a legacy of 
+high  non-performing  loans.30  The  current  conditions  of  financial  intermediation  suggest, 
+however,  that  the  economic  lower  bound  is  safely  below  the  current  level  of  the  deposit 
+facility  rate  and  that  the  impact  of  negative  rates,  combined  with  the  APP  and  forward 
+guidance,  has  clearly  been  net  positive.  Indeed,  we  should  not  look  at  the  implications  of 
+negative interest rates in isolation. Negative nominal rates have reinforced forward guidance 
+in the euro area, sped up the process of portfolio rebalancing associated with the APP and 
+supported the effectiveness of the recent targeted longer-term refinancing operations. 
+But there can be cumulative effects on financial intermediation and financial stability if rates 
+remain  very  low  for  a  very  long  time.  One  might  argue  that  disintermediation  may  have 
+benign effects if non-bank entities are equally capable of collecting and channelling savings, 
+while being less vulnerable to the adverse effects of negative interest rates. The shift towards 
+a  more  market-based  financial  structure,  as  promoted  by  the  European  Union’s  capital 
+                                                
+30   See Constâncio V., “Challenges for the European banking industry”, lecture at the conference on “European 
+Banking Industry: what’s next?”, University of Navarra, Madrid, 7 July 2016. 
+8 
+ BIS central bankers’ speeches 
+  
+ 
+markets union project, would then help our economy cope with a longer period of very low or 
+negative rates. But there is a limit to this argument. Non-banks are also affected by very low 
+rates: for example, fixed net asset value money market funds may not be able to maintain 
+the value of their shares close to par, while asset managers and insurance companies face 
+the same shrinking margins as banks. Regardless of the entities that originate and distribute, 
+household savings will be collected and long-term assets will sit on a balance sheet. 
+So  what  can  be  done  to  address  this  situation?  The  ECB’s  monetary  policy  measures, 
+including the deposit facility rate set at its current negative level, are proving to be effective in 
+lifting inflation towards its medium-term objective and reducing the overall level of risk in the 
+economy.  Fiscal  and  structural  policies  should  act  more  decisively  to  support  aggregate 
+demand and productivity, thereby preventing the economy from falling into a low interest rate 
+trap.  And  banks  should  adapt  continually  to  the  changing  environment  by  adjusting  their 
+business  models,  cutting  their  operating  costs and  reducing  their  non-performing  loans.  In 
+doing so, they will also improve their resilience to a prolonged period of very low rates. 
+BIS central bankers’ speeches 
+ 9 

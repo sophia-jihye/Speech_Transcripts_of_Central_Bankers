@@ -1,0 +1,563 @@
+Mervyn King: Banking – from Bagehot to Basel, and back again 
+Speech  by  Mr  Mervyn  King,  Governor  of  the  Bank  of  England,  at  the  Second  Bagehot 
+Lecture, Buttonwood Gathering, New York, 25 October 2010. 
+ I  am  indebted  to  Stephen  Burgess,  Philip  Evans,  Andy  Haldane,  Andrew  Hauser,  Vicky  Saporta,  Jenny  Scott, 
+Paul Tucker and especially to Iain de Weymarn for their useful comments and suggestions on earlier drafts. 
+Introduction  
+1. 
+Walter Bagehot was a brilliant observer and writer on contemporary economic and financial 
+matters.  In  his  remarkable  book  Lombard  Street,  Bagehot  brought  together  his  own 
+observations with the analysis of earlier thinkers such as Henry Thornton to provide a critique 
+of  central  banking  as  practised  by  the  Bank  of  England  and  a  manifesto  for  how  central 
+banks could handle financial crises in future by acting as a lender of last resort. The present 
+financial crisis dwarfs any of those witnessed by Bagehot. What lessons can we draw from 
+recent and current experience to update Bagehot’s vision of finance and central banking?  
+Surely the most important lesson from the financial crisis is the importance of a resilient and 
+robust banking system. The countries most affected by the banking crisis have experienced 
+the  worst  economic  crisis  since  the  1930s.  Output  is  somewhere  between  5%  and  10% 
+below  where  it  would  have  been  had  there  not  been  a  crisis.  Unemployment  is  up, 
+businesses have closed, and the direct and indirect costs to the taxpayer have resulted in 
+fiscal deficits in several countries of over 10% of GDP – the largest peacetime deficits ever.  
+At the heart of this crisis was the expansion and subsequent contraction of the balance sheet 
+of  the  banking  system.  Other  parts  of  the  financial  system  in  general  functioned  normally. 
+And we saw in 1987 and again in the early 2000s, that a sharp fall in equity values did not 
+cause the same damage as did the banking crisis. Equity markets provide a natural safety 
+valve, and when they suffer sharp falls, economic policy can respond. But when the banking 
+system failed in September 2008, not even massive injections of both liquidity and capital by 
+the state could prevent a devastating collapse of confidence and output around the world. So 
+it is imperative that we find an answer to the question of how to make our banking system 
+more stable.  
+As Bagehot knew only too well, banking crises are endemic to the market economy that has 
+evolved  since  the  Industrial  Revolution.  The  words  “banking”  and  “crises”  are  natural 
+bedfellows.  If  love  and  marriage  go  together  like  a  horse  and  carriage,  then  banking  and 
+crisis go together like Oxford and the Isis, intertwined for as long as anyone can remember. 
+Unfortunately, such crises are occurring more frequently and on an ever larger scale. Why? 
+The practice of banking:  
+2. 
+For almost a century after Bagehot wrote Lombard Street, the size of the banking sector in 
+the UK, relative to GDP, was broadly stable at around 50%. But, over the past fifty years, 
+bank balance sheets have grown so fast that today they are over five times annual GDP. The 
+size  of  the  US  banking  industry  has  grown  from  around  20%  in  Bagehot’s  time  to  around 
+100% of GDP today. And, until recently, the true scale of balance sheets was understated by 
+these  figures  because  banks  were  allowed  to  put  exposures  to  entities  such  as  special 
+purpose vehicles off balance sheet.  
+Surprisingly, such an extraordinary rate of expansion has been accompanied by increasing 
+concentration: the largest institutions have expanded the most. Table 1 shows that the asset 
+holdings of the top ten banks in the UK amount to over 450% of GDP, with RBS, Barclays 
+BIS Review 140/2010 
+ 1
+and HSBC each individually having assets in excess of UK GDP. Table 2 shows that in the 
+US,  the  top  ten  banks  amount  to  over  60%  of  GDP,  six  times  larger  than  the  top  ten  fifty 
+years  ago.  Bank  of  America  today  accounts  for  the  same  proportion  of  the  US  banking 
+system as all of the top 10 banks put together in 1960.  
+While banks’ balance sheets have exploded, so have the risks associated with those balance 
+sheets.  Bagehot  would  have  been  used  to  banks  with  leverage  ratios  (total  assets,  or 
+liabilities, to capital) of around six to one. But capital ratios have declined and leverage has 
+risen.  Immediately  prior  to  the  crisis,  leverage  in  the  banking  system  of  the  industrialised 
+world  had  increased  to  astronomical  levels.  Simple  leverage  ratios  of  close  to  50  or  more 
+could be found in the US, UK, and the continent of Europe, driven in part by the expansion of 
+trading books (Brennan, Haldane and Madouros, 2010).  
+And  banks  resorted  to  using  more  short-term,  wholesale  funding.  The  average  maturity  of 
+wholesale funding issued by banks has declined by two thirds in the UK and by around three 
+quarters in the US over the past thirty years – at the same time as reliance on wholesale 
+funding  has  increased.  As  a  result,  they  have  run  a  higher  degree  of  maturity  mismatch 
+between  their  long-dated  assets  and  short-term  funding.  To  cap  it  all,  they  held  a  lower 
+proportion of liquid assets on their balance sheets, so they were more exposed if some of the 
+short-term funding dried up. In less than fifty years, the share of highly liquid assets that UK 
+banks hold has declined from around a third of their assets to less than 2% last year (Bank of 
+England, 2009). Banks tested the limits of where the risk-return trade-off was located, in all 
+parts of their operations. As John Kay wrote about his experience on the board of HBoS, the 
+problems began “on the day it was decided that treasury should be a profit centre in its own 
+right rather than an ancillary activity” (Kay, 2008).  
+Moreover, the size of the balance sheet is no longer limited by the scale of opportunities to 
+lend to companies or individuals in the real economy. So-called “financial engineering” allows 
+banks  to  manufacture  additional  assets  without  limit.  And  in  the  run-up  to  the  crisis,  they 
+were aided and abetted in this endeavour by a host of vehicles and funds in the so-called 
+shadow banking system, which in the US grew in gross terms to be larger than the traditional 
+banking sector. This shadow banking system, as well as holding securitised debt and a host 
+of manufactured – or “synthetic” – exposures was also a significant source of funding for the 
+conventional  banking  system.  Money  market  funds  and  other  similar  entities  had  call 
+liabilities  totalling  over $7  trillion.  And  they  on  lent  very  significant  amounts  to banks,  both 
+directly and indirectly via chains of transactions.  
+This has had two consequences. First, the financial system has become enormously more 
+interconnected. This means that promoting stability of the system as a whole using a regime 
+of  regulation  of  individual  institutions  is  much  less  likely  to  be  successful  than  hitherto. 
+Maturity mismatch can grow through chains of transactions – without any significant amount 
+being  located  in  any  one  institution  –  a  risk  described  many  years  ago  by  Martin  Hellwig 
+(Hellwig, 1995). Second, although many of these positions net out when the financial system 
+is seen as a whole, gross balance sheets are not restricted by the scale of the real economy 
+and so banks were able to expand at a remarkable pace. So when the crisis began in 2007, 
+uncertainty about where losses would ultimately fall led confidence in banks to seep away. 
+This was obvious through the crisis. Almost no institution was immune from suspicion, the 
+result of the knock-on consequences so eloquently described by Bagehot when he wrote:  
+“At first, incipient panic amounts to a kind of vague conversation: Is A. B. as good as he used 
+to  be?  Has  not  C.  D.  lost  money?  and  a  thousand  such  questions.  A  hundred  people  are 
+talked about, and a thousand think, “Am I talked about, or am I not?” “Is my credit as good as 
+it used to be, or is it less?” And every day, as a panic grows, this floating suspicion becomes 
+both  more  intense  and  more  diffused;  it  attacks  more  persons;  and  attacks  them  all  more 
+virulently than at first. All men of experience, therefore, try to “strengthen themselves,” as it is 
+called, in the early stage of a panic; they borrow money while they can; they come to their 
+banker and offer bills for discount, which commonly they would not have offered for days or 
+2 
+ BIS Review 140/2010
+weeks to come. And if the merchant be a regular customer, a banker does not like to refuse, 
+because  if  he  does  he  will  be  said,  or  may  be  said,  to  be  in  want  of  money,  and  so  may 
+attract the panic to himself.”  
+This  sentiment  is  described  more  prosaically  in  Tables  3  and  4.  They  show  that  the  risk 
+premia demanded by investors to lend to all large banks rose very sharply during the crisis. 
+For most banks the spreads on their senior unsecured debt had more than trebled in October 
+2008 relative to their levels at the start of 2007. Similarly, credit default swap premia – the 
+cost of insuring a bank’s debt – shot up. All banks, irrespective of the precise nature of their 
+business and balance sheet, were tarred with the same brush. Moreover spreads and CDS 
+premia remain elevated today – almost universally, large UK and US banks face much higher 
+borrowing charges compared to risk-free rates, and are seen as riskier entities, than prior to 
+the crisis.  
+The size, concentration and riskiness of banks have increased in an extraordinary fashion 
+and  would  be  unrecognisable  to  Bagehot.  Higher  reported  rates  of  return  on  equity  were 
+superficial  hallmarks  of  success.  These  higher  rates  of  return  were  required  by,  and  a 
+consequence  of,  the  change  in  the  pattern  of  banks’  funding  with  increased  leverage  and 
+more short-term funding. They did not represent a significant improvement in the overall rate 
+of  return  on  assets.  Not  merely  were  banks’  own  reported  profits  exaggerating  the 
+contribution of the financial sector to the economy, so were the national accounts.  
+In the US, the share of gross value added of the financial sector as a share of GDP rose from 
+around 2–3% in the decade after World War II to about 8% in 2008, driven in large part by a 
+rise  in  the  gross  operating  surplus  of  financial  intermediaries.  And  in  the  UK,  in  the  past 
+decade, the measured scale of the financial sector, compared to GDP, has roughly doubled 
+to  around  10%.  But  this  exaggerates  the  contribution  of  financial  services.  Banks  do  not 
+always  charge  directly  for  the  services  they  provide.  So  the  value  added  of  the  financial 
+sector  is  measured  by  official  statisticians  (using  the  United  Nations  System  of  National 
+Accounts) as the difference between interest receipts and payments of a “reference rate of 
+interest”  which  attempts  to  measure  the  pure  cost  of  borrowing  funds.  This  convention 
+overstates the true value added of the financial sector because it includes the return to risky 
+lending represented by the difference between the hypothetical pure cost of borrowing funds 
+and the return that is earned. But the fact that risk is channelled through an intermediation 
+industry  does  not  mean  that  the  value  added  from  risk-bearing  in  the  economy  is  solely 
+attributable to the existence of an intermediation sector. If companies financed themselves 
+directly from households, the statisticians would regard the return on risk-bearing as value 
+added created in that industry. Financial intermediation does add value, but not as much as 
+the statistical convention would suggest.  
+Moreover, a financial sector that takes on risk with the implicit support of the tax-payer can 
+generate measured value added that reflects not genuine risk-bearing but the upside profits 
+from the implicit subsidy. And even without an implicit subsidy the return to risk-bearing can 
+be  mismeasured.  It  is  widely  understood  that  an  insurance  company  should  not  count  as 
+profits  the  receipt  of  premia  on  an  insurance  policy  that  will  pay  out  only  when  a  low-
+frequency  event  occurs  at  some  point  in  the  future.  But  part  of  the  value  added  of  the 
+financial sector prior to the crisis reflected temporary profits from taking risk and it was only 
+after  September  2008  that  much  of  that  so-called  economic  activity  resulted  in  enormous 
+reported losses by banks.  
+It  is  possible  to  make  a  very  rough  estimate  of  the  possible  size  of  this  distortion  in  the 
+reported financial sector output data. If we assume that true labour and capital productivity in 
+the  financial  services  industry  grew  in  line  with  that  in  the  wider  economy  in  the  10  years 
+prior  to  the  crisis,  then,  given  the  inputs  of  capital  and  labour  over  that  period,  the  official 
+estimate might have overstated UK financial sector value added by almost £30 billion up to 
+2007 – around half of the growth in the official measure. The impact of this adjustment on 
+overall GDP is likely to be relatively small because much of the output of the financial sector 
+BIS Review 140/2010 
+ 3
+is  treated  as  intermediate  inputs  to  other  sectors  in  the  economy.  Such  an  estimate  is 
+supported  by  the  finding  of  my  Bank  of  England  colleagues  that  the  increase  in  rates  of 
+return  on  equity  earned  by  banks  were  accounted  for  almost  entirely  by  an  increase  in 
+leverage, capital gains on assets in trading books and the reported profits on contracts that 
+produced  losses  only  after  the  crisis  occurred.  And  it  is  consistent  with  the  estimates 
+calculated by Colangelo and Inklaar (2010) for the euro area. They found that around 40% of 
+measured financial sector value added probably captured compensation for bearing risk.  
+The theory of banking  
+3. 
+Why are banks so risky? The starting point is that banks make heavy use of short-term debt. 
+Short-term  debt  holders  can  always  run  if  they  start  to  have  doubts  about  an  institution. 
+Equity holders and long-term debt holders cannot cut and run so easily.  
+Douglas  Diamond  and  Philip  Dybvig  showed  nearly  thirty  years  ago  that  this  can  create 
+fragile institutions even in the absence of risk associated with the assets that a bank holds. 
+All  that  is  required  is  a  cost  to  the  liquidation  of  long-term  assets  and  that  banks  serve 
+customers  on  a  first-come,  first-served  basis  (Diamond  and  Dybvig,  1983).  Nevertheless, 
+there are benefits to this maturity transformation – funds can be pooled allowing a greater 
+proportion  to  be  directed  to  long-term  illiquid  investments,  and  less  held  back  to  meet 
+individual needs for liquidity. And from Diamond’s and Dybvig’s insights, flows an intellectual 
+foundation  for  many  of  the  policy  structures  that  we  have  today  –  especially  deposit 
+insurance and Bagehot’s time-honoured key principle of central banks acting as lender of last 
+resort in a crisis. If the only problem is one of illiquidity leading to fragility, then central banks 
+can  easily  act  to  ward  off  problems.  By  demonstrating  a  willingness  to  step  in  to  provide 
+temporary  liquidity  support,  then  the  likelihood  of  problems  arising  in  the  first  place  is 
+dramatically  diminished.  It  was  wholly  appropriate  that  this  was  the  focus  of  Bagehot’s 
+writings – at the time, the structure of the banking system meant that illiquidity was often the 
+key problem. And central banks did not appreciate the importance of the role that they could 
+play. Bagehot’s whole purpose was to convince the Bank of England to fulfil this role. But the 
+changes  in  the  banking  system  over  the  past  fifty  years  mean  that  a  much  more  diverse 
+range of problems can strike today. In September 2007, everyone thought that the crisis was 
+one  of  liquidity  and  as  a  result  there  was  an  expectation  central  banks  could  provide  the 
+solution. But it quickly became clear that it was in fact a crisis of solvency.  
+Diamond and Dybvig’s analysis consciously omitted the fact that, in reality, banks’ assets are 
+risky. And not only are banks’ assets risky, but banks are highly leveraged institutions. This 
+leaves them heavily exposed – with very high debt-equity ratios, small movements in asset 
+valuations are enough to wipe out their equity and leave banks insolvent. That means the 
+distinction  between  illiquidity  and  solvency  can  be  difficult  in  practice  –  the  difference  in 
+timing  might  be  just  a  few  days.  If  a  crisis  is  in  fact  one  of  insolvency,  brought  on  by 
+excessive leverage and risk, then central bank liquidity provision cannot provide the answer. 
+Central banks can offer liquidity insurance only to solvent institutions or as a bridge to a more 
+permanent solution.  
+It  is  this  structure,  in  which  risky  long-term  assets  are  funded  by  short-term  deposits,  that 
+makes  banks  so  hazardous.  Yet  many  treat  loans  to  banks  as  if  they  were  riskless.  In 
+isolation,  this  would  be  akin  to  a  belief  in  alchemy  –  risk-free  deposits  can  never  be 
+supported by long-term risky investments in isolation. To work, financial alchemy requires the 
+implicit support of the tax payer.  
+When all the functions of the financial system are heavily interconnected, any problems that 
+arise can end up playing havoc with services vital to the functioning of the economy – the 
+payments system, the services of money and the provision of working capital to industry. If 
+such  services  are  materially  threatened,  governments  will  never  be  able  to  sit  idly  by. 
+Institutions supplying such services are quite simply too important to fail. Everyone knows it. 
+So, highly risky banking institutions enjoy implicit public sector support. In turn, public support 
+4 
+ BIS Review 140/2010
+incentivises banks to take on yet more risk, knowing that, if things go well, they will reap the 
+rewards while the public sector will foot the bill if things go wrong. Greater risk begets greater 
+size,  most  probably  greater  importance  to  the  functioning  of  the  economy,  higher  implicit 
+public subsidies, and hence yet larger incentives to take risk – described by Martin Wolf as 
+the “financial doomsday machine”.  
+The  failure  in  the  crisis  was  not  one  of  intellectual  imagination  or  economic  science  to 
+understand  these  issues.  Economists  recognised  that  distorted  incentives,  whether  arising 
+from  implicit  public  subsidies,  asymmetric  information  or  a  host  of  other  imperfections,  will 
+cause a market-based outcome to be sub-optimal from the perspective of society. This idea 
+has been at the centre of modern economics since the extraordinary series of papers written 
+by Arrow and Debreu in the 1950s (Arrow, 1951; Debreu, 1951; Arrow and Debreu, 1954).  
+The real failure was a lapse into hubris – we came to believe that crises created by massive 
+maturity transformation were problems that no longer applied to modern banking, that they 
+belonged to an era in which people wore whiskers and top hats. There was an inability to see 
+through  the  veil  of  modern  finance  to  the  fact  that  the  balance  sheets  of  too  many  banks 
+were an accident waiting to happen, with levels of leverage on a scale that could not resist 
+even the slightest tremor to confidence about the uncertain value of bank assets. For all the 
+clever  innovation  in  the  financial  system,  its  Achilles  heel  was,  and  remains,  simply  the 
+extraordinary – indeed absurd – levels of leverage represented by a heavy reliance on short-
+term debt. 
+Modern financiers are now invoking other dubious claims to resist reforms that might limit the 
+public subsidies they have enjoyed in the past. No one should blame them for that – indeed, 
+we  should  not  expect  anything  else.  They  are  responding  to  incentives.  Some  claim  that 
+reducing leverage and holding more equity capital would be expensive. But, as economists, 
+such  as  my  colleague  David  Miles  (2010)  and  Anat  Admati  and  her  colleagues  (Admati 
+et. al., 2010), have argued, the cost of capital overall is much less sensitive to changes in the 
+amount  of  debt  in  a  bank’s  balance  sheet  than  many  bankers  claim  –  a  proposition 
+demonstrated forcefully by Professors Modigliani and Miller over fifty years ago (Modigliani 
+and  Miller,  1958).  And  the  benefits  to  society,  most  obviously  through  greater  financial 
+stability, but also through factors such as higher tax revenue, are likely to swamp any change 
+in  the  private  costs  faced  by  banks.  What  does  reduce  the  cost  of  capital  is  the  ability  to 
+borrow  short  to  lend  long.  But  the  scale  of  maturity  transformation  undertaken  today 
+produces  private  benefits  and  social  costs.  We  have  seen  from  the  experience  of  first 
+Iceland,  and  now  Ireland,  the  results  that  can  follow  from  allowing  a  banking  system  to 
+become too large relative to national output without having first solved the “too important to 
+fail” problem.  
+Finding a solution  
+4. 
+Many  remedies  for  reducing  the  riskiness  of  our  financial  system  have  been  proposed, 
+ranging from higher capital requirements on banks to functional separation and other more 
+radical  ideas.  The  guiding  principle  of  any  change  should  be  to  ensure  that  the  costs  of 
+maturity transformation – the costs of periodic financial crises – fall on those who enjoy the 
+benefits  of  maturity  transformation  –  the  reduced  cost  of  financial  intermediation.  All 
+proposals should be evaluated by this simple criterion.  
+The first, and most obvious, response to the divergence between private benefits and social 
+costs  is  the  imposition  of  a  permanent  tax  on  the  activity  of  maturity  transformation  to 
+“internalise  the  externalities”.  Such  a  tax,  or  levy,  has  been  discussed  by  the  G7,  and 
+introduced  in  the  UK.  The  principle  that  the  “polluter  pays”  for  the  costs  they  impose  on 
+others is an old one, going back at least to Pigou in the 1920s. The main practical problem is 
+to calibrate the costs to maturity transformation. The loss of world output from the financial 
+crisis is enormous, even though such a crisis might be considered a once in a generation, or 
+even  once  in  a  century,  event.  It  is  not  difficult  to  see  that  a  crisis  that  reduces  output  by 
+BIS Review 140/2010 
+ 5
+between 5% and 10% for a number of years, and occurs once every fifty years, amounts to 
+an annual cost several multiples of the revenue that will be generated by the UK bank levy 
+(Haldane, 2010). But how can we be certain of correctly establishing what the tax should be 
+when  we  are  trying  to  internalise  costs  that  occur  so  infrequently?  So  although  there  is  a 
+sound  case  for  a  levy  directed  at  the  size  of  short-term  borrowing,  it  would  be  foolish  to 
+regard that as the main tool to align costs and benefits of risky balance sheet activity.  
+If setting the appropriate price is hard, then some form of controls on quantities might be a 
+better  answer  (Weitzman,  1974).  For  example,  limits on  leverage  have  much  to commend 
+them.  And  for  a  generation,  the  quantitative  control  of  this  type  that  regulators  have 
+embraced was embodied in the capital standards set within the Basel framework. Last month 
+a  new  concordat  on  such  standards  was  reached  in  Basel  –  the  so-called  Basel  III 
+requirements.  The  challenge  here  is  to  set  the  requirements  in  a  way  that  will  materially 
+affect the probability of a crisis.  
+Other forms of quantitative intervention include functional separation to reduce the costs of 
+maturity  transformation  by  ring-fencing  those  activities  that  we  are  most  concerned  to 
+safeguard from disruption. If successful, the costs of any failure of financial institutions would 
+be  reduced.  The  challenge  with  this  approach  is  to  prevent  the  costs  associated  with  the 
+activity  of  maturity  transformation  from  gravitating  to  another  set  of  institutions  –  the 
+“shadow” banking system.  
+Whatever solution is adopted, the aim must be to align private and social costs.  
+Why Basel III is not a complete answer  
+5. 
+Lauded  as  a  new  standard,  Basel  III  is  seen  by  some  as  the  answer  to  the  failure  of 
+regulation  to  prevent  the  financial  crisis.  It  is  certainly  a  step  in  the  right  direction,  an 
+improvement on both Basel I and the ill-fated Basel II, and we should all welcome it. But if it 
+is a giant leap for the regulators of the world, it is only a small step for mankind. Basel III on 
+its own will not prevent another crisis for a number of reasons.  
+First,  even  the  new  levels  of  capital  are  insufficient  to  prevent  another  crisis.  Calibrating 
+required capital by reference to the losses incurred during the recent crisis takes inadequate 
+account  of  the  benefits  to  banks  of  massive  government  intervention  and  the  implicit 
+guarantee. More fundamentally, it fails to recognise that when sentiment changes only very 
+high levels of capital would be sufficient to enable banks to obtain funding on anything like 
+normal spreads to policy rates, as we can see at present. When investors change their view 
+about the unknowable future – as they will occasionally in sudden and discontinuous ways – 
+banks that were perceived as well-capitalised can seem under-capitalised with concerns over 
+their solvency. That is what happened in 2007–08. As the IMF have pointed out differences 
+in capital ratios failed to predict which financial institutions would be vulnerable in the crisis 
+(IMF,  2009).  Only  very  much  higher  levels  of  capital  –  levels  that  would  be  seen  by  the 
+industry as wildly excessive most of the time – would prevent such a crisis.  
+Second, the Basel approach calculates the amount of capital required by using a measure of 
+“risk-weighted”  assets.  Those  risk  weights  are  computed  from  past  experience.  Yet  the 
+circumstances in which capital needs to be available to absorb potential losses are precisely 
+those  when  earlier  judgements  about  the  risk  of  different  assets  and  their  correlation  are 
+shown  to  be  wrong.  One  might  well  say  that  a  financial  crisis  occurs  when  the  Basel  risk 
+weights turn out to be poor estimates of underlying risk. And that is not because investors, 
+banks or regulators are incompetent. It is because the relevant risks are often impossible to 
+assess  in  terms  of  fixed  probabilities.  Events  can  take  place  that  we  could  not  have 
+envisaged, let alone to which we could attach probabilities. If only banks were playing in a 
+casino then we probably could calculate appropriate risk weights. Unfortunately, the world is 
+more complicated. So the regulatory framework needs to contain elements that are robust 
+6 
+ BIS Review 140/2010
+with respect to changes in the appropriate risk weights, and that is why the Bank of England 
+advocated a simple leverage ratio as a key backstop to capital requirements.  
+Third, the Basel framework still focuses largely on the assets side of a bank’s balance sheet. 
+Basel II excluded consideration of the liquidity and liability structure of the balance sheet, so 
+much so that when the UK adopted Basel II in 2007, of all the major banks the one with the 
+highest capital ratio was, believe it or not, Northern Rock. Within weeks of announcing that it 
+intended to return excess capital to its shareholders, Northern Rock ran out of money. Basel 
+II was based on a judgement that mortgages were the safest form of lending irrespective of 
+how they were financed. If a business model is based around a particular funding model that 
+suddenly becomes unviable, then the business model becomes unviable too, as events in 
+2007 showed. Whether the measures included in Basel III will be able to deal properly with 
+the risks that result from inadequate levels of liquid assets and a risky structure of liabilities 
+remains to be seen.  
+One  criticism  of  Basel  III  with  which  I  have  no  truck  is  the  length  of  the  transition  period. 
+Banks  have  up  to  2019  to  adjust  fully  to  the  new  requirements.  Although  some  of  the 
+calculations  of  the  alleged  economic  cost  of  higher  capital  requirements  presented  by  the 
+industry seem to me exaggerated (Institute of International Finance, 2010), I do believe that it 
+is  important  in  the  present  phase  of  de-leveraging  not  to  exacerbate  the  challenge  banks 
+face  in  raising  capital  today.  Banks  should  take  advantage  of  opportunities  to  raise  loss-
+absorbing  capital,  and  should  recognise  the  importance  of  using  profits  to  rebuild  capital 
+rather than pay out higher dividends and compensation. But we must not forget the principle 
+underlying  the  Basel  approach:  asking  banks  to  maintain  a  buffer  of  capital  above  the 
+minimum requirement allows them to run the buffer down in circumstances like the present. 
+Rebuilding  the  buffer  is  a  task  for  the  future.  So  even  though  the  Bank  of  England  would 
+have preferred an agreement to set capital ratios at higher levels in the long run, we have no 
+intention of asking UK banks to adopt a faster timetable for implementation of Basel III. That 
+logic should apply to any reforms we choose to implement. We should not expect to change 
+the financial system for the better overnight. Rather we need radical reforms that will give us 
+a  much  more  robust  system  in  the  long  run,  accepting  that  it  may  take  a  period  of  many 
+years to get there.  
+As  with  a  bank  levy,  it  is  no  criticism  of  Basel  III  to  say  that  it  is  not  a  “silver  bullet”.  The 
+difficulty of identifying and calibrating the difference between the private and social costs of 
+maturity transformation means that there is merit in having a basket of different measures to 
+rein in excessive risk-taking. In the area of financial stability, it makes sense to have both belt 
+and braces.  
+Large institutions  
+6. 
+The implicit subsidy to banks that are perceived as “too important to fail” can be important to 
+banks of any size but is usually seen as bigger for large institutions for which existing bank 
+resolution procedures either do or could not apply. Moreover, most large complex financial 
+institutions  are  global  –  at  least  in  life  if  not  in  death.  So  a  major  international  effort  is 
+underway  to  try  to  work  out  how  best  to  deal  with  such  institutions,  initiated  by  heads  of 
+government at the G-20 Summit in Pittsburgh in 2009. Much of this work is being led by the 
+Financial Stability Board. Ideas agreed in principle or under consideration include an addition 
+to the Basel III capital requirement of an extra layer of either equity or other loss-absorbing 
+capital, a special resolution regime for large institutions that would allow losses to be shared 
+among  creditors  as  well  as  equity-holders,  and  tentative  steps  towards  international 
+harmonisation of resolution procedures on which my colleague Paul Tucker and others are 
+engaged.  
+Some countries have already started down the road of augmenting the Basel calibration with 
+additional requirements of their own for large banks. Earlier this month the Swiss authorities 
+announced just such a requirement for their two current systemically important banks – UBS 
+BIS Review 140/2010 
+ 7
+and Credit Suisse. In future, they will have to hold additional amounts of both equity capital 
+and  loss-bearing  contingent  capital  which  takes  their  total  holding  of  equity-like  capital  to 
+19%, compared with the Basel standard of 7%.  
+But  in  most  other  countries,  identifying  in  advance  a  group  of  financial  institutions  whose 
+failure would be intolerable, and so are “too important to fail”, is a hazardous undertaking. In 
+itself  it  would  simply  increase  the  subsidy  by  making  it  explicit.  And  it  is  hard  to  see  why 
+institutions whose failure cannot be contemplated should be in the private sector in the first 
+place. But if international regulators failed to agree on higher capital requirements in general, 
+adding to the loss-absorbing capacity of large institutions could be a second-best outcome.  
+Solving  the  “too  important  to  fail”  problem  will  require  ultimately  that  every  financial  sector 
+entity can be left to fail without risk of threatening the functioning of the economy. So it is 
+natural that improved resolution procedures is part of the overall strategy – and within many 
+countries big steps forward have already been taken. But the successful resolution of a large 
+institution would, in the absence of an implausibly large deposit insurance fund, require the 
+ability to bail-in creditors. Yet that possibility would give an incentive to the bank to increase 
+its dependence on short-term funding so that more creditors might get out in time. That might 
+increase  rather  than  decrease  the  fragility  of  the  institution.  So  there  would  need  to  be 
+restrictions on the maturity structure of its liabilities. Resolution would naturally go hand-in-
+hand with a greater reliance on instruments such as contingent capital. And there would be 
+enormous  challenges  in  resolving  global  banks  that  span  countries  with  different  legal 
+jurisdictions.  Extending  resolution  procedures  to  large  institutions  is  a  necessary  but  not 
+sufficient condition for stability of the banking system.  
+More radical reforms  
+7. 
+All of these potential reforms would be steps in the right direction. They would all help to put 
+more of the costs of maturity mismatch on the shoulders of those who reap the benefits. But 
+taxes,  the  Basel  capital  requirements,  special  arrangements  for  systemically  important 
+financial  institutions  and  enhanced  resolution  procedures  all  have  drawbacks  and  are 
+unlikely to do the job perfectly. So, if we cannot rely solely on these types of measures, are 
+there  more  fundamental  directions  in  which  we  could  move  that  would  align  costs  and 
+benefits more effectively?  
+One  simple  solution,  advocated  by  my  colleague  David  Miles,  would  be  to  move  to  very 
+much higher levels of capital requirements – several orders of magnitude higher. A related 
+proposal  is  to  ensure  there  are  large  amounts  of  contingent  capital  in  a  bank’s  liability 
+structure. Much more loss-absorbing capital – actual or contingent – can substantially reduce 
+the size of costs that might be borne outside of a financial firm. But unless complete, capital 
+requirements  will  never  be  able  to  guarantee  that  costs  will  not  spill  over  elsewhere.  This 
+leads to the limiting case of proposals such as Professor Kotlikoff’s idea to introduce what he 
+calls  “limited  purpose  banking”  (Kotlikoff,  2010).  That  would  ensure  that  each  pool  of 
+investments made by a bank is turned into a mutual fund with no maturity mismatch. There is 
+no possibility of alchemy. It is an idea worthy of further study.  
+Another  avenue  of  reform  is  some  form  of  functional  separation.  The  Volcker  Rule  is  one 
+example. Another, more fundamental, example would be to divorce the payment system from 
+risky lending activity – that is to prevent fractional reserve banking (for example, as proposed 
+by Fisher, 1936, Friedman, 1960, Tobin, 1987 and more recently by Kay, 2009).  
+In essence these proposals recognise that if banks undertake risky activities then it is highly 
+dangerous to allow such “gambling” to take place on the same balance sheet as is used to 
+support  the  payments  system,  and  other  crucial  parts  of  the  financial  infrastructure.  And 
+eliminating  fractional  reserve  banking  explicitly  recognises  that  the  pretence  that  risk-free 
+deposits can be supported by risky assets is alchemy. If there is a need for genuinely safe 
+8 
+ BIS Review 140/2010
+deposits  the  only  way  they  can  be  provided,  while  ensuring  costs  and  benefits  are  fully 
+aligned, is to insist such deposits do not coexist with risky assets.  
+The  advantage  of  these  types  of  more  fundamental  proposals  is  that  no  tax  or  capital 
+requirement needs to be calibrated. And if successfully enforced then they certainly would be 
+robust  measures.  But  a  key  challenge  is  to  ensure  that  maturity  transformation  does  not 
+simply  migrate  outside  of  the  regulated  perimeter,  and  end  up  benefiting  from  an  implicit 
+public subsidy (Tucker, 2010b). That is difficult because it is the nature of the services – not 
+the institutions – that is the concern. Ultimately, we need a system whereby the suppliers of 
+funds  to  risky  activities,  whether  intermediated  via  banks  or  any  other  entity,  must 
+understand that they will not be protected from loss by taxpayer bailouts. Creditors should 
+know that they will bear losses in the event of failure.  
+We  certainly  cannot  rely  on  being  able  to  expand  the  scope  of  regulation  without  limit  to 
+prevent the migration of maturity mismatch. Regulators will never be able to keep up with the 
+pace  and  scale  of  financial  innovation.  Nor  should  we  want  to  restrict  innovation.  But  it 
+should  be  undertaken  by  investors  using  their  own  money  not  by  intermediaries  who  also 
+provide crucial services to the economy, allowing them to reap an implicit public subsidy. It 
+will  not  be  possible  to  regulate  all  parts  of  the  financial  system  as  if  they  were  banks.  As 
+Jeffrey  Lacker,  President  of  the  Federal  Reserve  Bank  of  Richmond,  has  argued,  “merely 
+expanding  the  scope  of  regulation  to  chase  those  firms  that  extract  implicit  guarantees  by 
+engaging in maturity transformation would be an interminable journey with yet more financial 
+instability in its wake” (Lacker, 2010). In the end, clarity about the regulatory perimeter is both 
+desirable and unavoidable – a task given to the Financial Policy Committee as part of the 
+Bank of England’s new responsibilities. And the attraction of the more radical solutions is that 
+they offer the hope of avoiding the seemingly inevitable drift to ever more complex and costly 
+regulation.  
+The broad answer to the problem is likely to be remarkably simple. Banks should be financed 
+much more heavily by equity rather than short-term debt. Much, much more equity; much, 
+much less short-term debt. Risky investments cannot be financed in any other way. What we 
+cannot countenance is a continuation of the system in which bank executives trade and take 
+risks on their own account, and yet those who finance them are protected from loss by the 
+implicit taxpayer guarantees. The difficulty is in finding the right practical way to achieve that. 
+Some  of  the  solutions  that  economists  have  proposed  have  been  dismissed  by  some  as 
+impractical and pie in the sky. But I am reminded of Keynes’ dictum that “practical men who 
+believe themselves to be quite exempt from any intellectual influence are usually the slaves 
+of some defunct economist” (Keynes, 1936). Of all the many ways of organising banking, the 
+worst is the one we have today.  
+I have suggested a number of ways in which the system could be reformed. But making the 
+right choice will take much careful thought and a good deal of time. So I do not want today to 
+offer  a  blueprint  –  and  indeed  that  is  for  others  to  do.  In  the  UK  we  are  fortunate.  The 
+Independent  Commission  on  Banking  was  set  up  earlier  this  year.  It  has  outstanding 
+members. I am sure they will lead us to the right solution, and I look forward to their findings.  
+Conclusions  
+8. 
+There is no simple answer to the to important to fail nature of banks. Maturity transformation 
+brings economic benefits but it creates real economic costs. The problem is that the costs do 
+not  fall  on  those  who  enjoy  the  benefits.  The damaging  externalities created  by  excessive 
+maturity transformation and risk-taking must be internalised.  
+A  market  economy  has  proved  to  be  the  most  reliable  means  for  a  society  to  expand  its 
+standard of living. But ever since the Industrial Revolution we have not cracked the problem 
+of how to ensure a more stable banking system. We know that there will always be sharp 
+and unpredictable movements in expectations, sentiment and hence valuations of financial 
+BIS Review 140/2010 
+ 9
+assets.  They  represent  our  best  guess  as  to  what  the  future  holds,  and  views  about  the 
+future can change radically and unpredictably. It is a phenomenon that we must learn to live 
+with. But changes in expectations can create havoc with the banking system because it relies 
+so heavily on transforming short-term debt into long-term risky assets. For a society to base 
+its financial system on alchemy is a poor advertisement for its rationality.  
+Change is, I believe, inevitable. The question is only whether we can think our way through 
+to a better outcome before the next generation is damaged by a future and bigger crisis. This 
+crisis has already left a legacy of debt to the next generation. We must not leave them the 
+legacy of a fragile banking system too.  
+I have explained the principles on which a successful reform of the system should rest. It is a 
+program that will take many years, if not decades. But, as Bagehot concluded in Lombard 
+Street,  “I  have  written  in  vain  if  I  require  to  say  now  that  the  problem  is  delicate,  that  the 
+solution is varying and difficult, and that the result is inestimable to us all.” 
+(2009), 
+“Financial  Stability  Report”,  June  2009,  available  at 
+References  
+Admati, A.R., DeMarzo, P.M., Hellwig, M.F., and Pfleiderer, P (2010), “Fallacies, Irrelevant 
+Facts, and Myths in the Discussion of Capital regulation: Why Bank Equity is Not Expensiv” 
+Stanford Business School, mimeo.  
+Arrow, K.J. (1951), “An extension of the basic theorems of classical welfare economics”, In 
+Proceedings of the Second Berkeley Symposium on Mathematical Statistics and Probability, 
+ed. J. Neyman, Berkeley: University of California Press, 507–32.  
+Arrow, K.J. and Debreu, G. (1954) “Existence of an equilibrium for a competitive economy”, 
+Econometrica 22, 265–90.  
+Bagehot,  W.  (1873),  “Lombard  Street:  A  Description  of  the  Money  Market”,  Wiley  &  Sons, 
+(reprinted 1999).  
+Bank  of  England, 
+http://www.bankofengland.co.uk/publications/fsr/2009/fsrfull0906.pdf  
+Diamond,  D.W.  and  Dybvig,  P.  H.  (1983,  91(3)),  “Bank  Runs,  Deposit  Insurance,  and 
+Liquidity”, The Journal of Political Economy, pp. 401–19.  
+Brennan, S., Haldane, A. and Madouros, V. (2010), “The Contribution of the Financial Sector 
+Miracle or Mirage?”, available at 
+http://www.bankofengland.co.uk/publications/speeches/2010/speech442.pdf  
+Colangelo, A. and Inklaar, R. (2010), “Banking Sector Output Measurement in the Euro Area 
+– A Modified Approach”, ECB Working Paper Series No. 1204.  
+Debreu, G. (1951), “The coefficient of resource utilization”, Econometrica 19, 273–92.  
+Fisher, I (1936), “100% Money”, Revised edition, New York: Adelphi Company, 1936.  
+Friedman,  M.  (1960),  “A  Program  for  Monetary  Stability”  New  York:  Fordham  University 
+Press, 1960.  
+Haldane, A. (2010), “The $100 Billion Question”, available at 
+http://www.bankofengland.co.uk/publications/speeches/2010/speech433.pdf  
+Hellwig, M. (1995), “Systemic Aspects of Risk Management in Banking and Finance”, Swiss 
+Journal of Economics and Statistics, Vol. 131 (4/2), 723–737.  
+IMF (2009), “Global Financial Stability Report”, April 2009.  
+Institute  of  International  Finance  (2010),  “Interim  Report  on  the  Cumulative  Impact  on  the 
+Global Economy of Proposed Changes in the Banking Regulatory Framework”, available at 
+http://www.ebf-fbe.eu/uploads/10-Interim%20NCI_June2010_Web.pdf  
+10 
+ BIS Review 140/2010
+“We 
+(2008), 
+folk  at 
+let  down  diligent 
+the  Halifax”,  Financial  Times, 
+Kay,  J. 
+24 September 2008. 
+Kay, J. (2009), “Narrow Banking: The reform of banking regulation”, CSFI report.  
+Keynes,  J.M.  (1936),  “The  general  theory  of  employment,  interest  and  money”,  London: 
+MacMillan (reprinted 2007). 
+Kotlikoff, L.J. (2010), “Jimmy Stewart is Dead: Ending the World’s Ongoing Financial Plague 
+with Limited Purpose Banking”, John Wiley & Sons.  
+Lacker, J.M. (2010), “Real Regulatory Reform”, available at 
+http://www.richmondfed.org/press_room/speeches/president_jeff_lacker/2010/lacker_speech
+_20100301.cfm  
+Miles, D. (2010), “Leverage and Monetary Policy”, available at 
+http://www.bankofengland.co.uk/publications/speeches/2010/speech451.pdf  
+Modigliani, F. and Miller, M.H. (1958), “The cost of capital, corporate finance and the theory 
+of investment”, American Economic Review 48, 261–97.  
+Pigou, A.C. (1920) “The Economics of Welfare”, 4th edition, London: Macmillan, 1932.  
+Tobin,  J  (1987),  “The  Case  for  Preserving  Regulatory  Distinctions”,  in  Restructuring  the 
+Financial System, Federal Reserve Bank of Kansas City, 1987, pp. 167–183.  
+Tucker, P. (2010a), “Resolution of Large and Complex Financial Institutions: The Big Issues” 
+available at http://www.bankofengland.co.uk/publications/speeches/2010/speech431.pdf  
+Tucker, P. (2010b), “Shadow Banking, Financing Markets and Financial Stability” available at 
+http://www.bankofengland.co.uk/publications/speeches/2010/speech420.pdf  
+Weitzman,  M.  L.  (1974),  “Prices  vs.  Quantities”,  Review  of  Economic  Studies,  vol.  41, 
+p. 477–91.  
+Wolf, M. (2010), “The challenge of halting the financial doomsday machine”, Financial Times, 
+20 April 2010. 
+ 
+BIS Review 140/2010 
+ 11
+ 12 
+ BIS Review 140/2010
+ 13
+BIS Review 140/2010 
+  14 
+ BIS Review 140/2010

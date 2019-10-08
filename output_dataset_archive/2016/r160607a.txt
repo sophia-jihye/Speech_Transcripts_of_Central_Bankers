@@ -1,0 +1,125 @@
+  Benoît Cœuré: Towards a macroprudential framework for central 
+counterparties 
+Introductory remarks by Mr Benoît Cœuré, Member of the Executive Board of the European 
+Central  Bank,  at  a  policy  panel  discussion  on  the  progress  with  new  macroprudential 
+instruments at the ESRB Conference on Macroprudential Margins and Haircuts, Frankfurt am 
+Main, 6 June 2016. 
+ Ladies and gentlemen, 
+I would like to thank the European Systemic Risk Board (ESRB) for organising this event and 
+inviting me to chair this panel. I will make a few brief remarks before handing over to our 
+distinguished group of speakers. 
+I  do  not  intend  to  talk  about  the  development  of  new  macroprudential  instruments  –  I  will 
+leave this to our panellists. Instead, I will try to set the stage by saying a few words about 
+central  counterparties  (CCPs),  as  they  are  very  much  in  the  spotlight  when  it  comes  to 
+debates about the future of macroprudential policy. 
+The  strong  regulatory  push  towards  central  clearing  in  recent  years  has  clearly  helped 
+improve  the  safety  and  stability  of  the  financial  system.  Among  the  many  well-known 
+advantages  of  central  clearing  are  the  reduction  in  counterparty  credit  risk,  and  the 
+simplification of the network of exposures through multilateral netting and risk sharing, which 
+also  comes  with  a  more  efficient  use  of  collateral.  Default risk,  no  longer  being  dispersed 
+thinly across the global financial system1, is better pooled and monitored. 
+At  the  same  time,  the  drive  towards  central  clearing  has  made  CCPs  key  nodes  for 
+propagating risk in the system2. Given the central role CCPs play in the financial system and 
+the potential effects their risk management can have on the economic cycle, it has become 
+increasingly  important  to  consider  CCPs  not  only  from  a  microprudential  but  also  from  a 
+macroprudential  perspective.  Therefore,  the  discussion  about  macroprudential  policy, 
+previously almost exclusively referred to in the context of banks, is now being expanded to 
+include CCPs. Indeed, the Committee on Payments and Market Infrastructures (CPMI) and 
+the International Organization of Securities Commissions (IOSCO) already considered some 
+of  these  aspects  when  they  published  in  2012  the  Principles  for  financial  market 
+infrastructures  (PFMI)3,  for  instance  by  requiring  CCPs  to  adopt  stable-through-the-cycle 
+margin practices and collateral haircuts. 
+Before turning to the more recent work of the CPMI and IOSCO in this area, allow me to 
+recall  two  important  general  considerations  that  should  be  taken  into  account  when 
+developing macroprudential frameworks for CCPs. 
+First,  we  should  not  try  to  apply  blindly  to  CCPs  the  macroprudential  tools  we  have 
+developed  for  the  banking  sector.  Unlike  banks,  whose  social  function  is  to  transform risk 
+and  maturity,  CCPs  are  not  in  the  business  of  taking  risk  directly  but  of  pooling  risk. 
+                                                
+1   See  Adrian,  T.,  and  Shin,  H.S.,  “Liquidity  and  financial  contagion”,  Financial  Stability  Review,  Banque  de 
+France, February 2008. 
+2   See Cœuré, B., “The known unknowns of central clearing,” speech at the meeting on the global economy and 
+financial system hosted by the University of Chicago Booth School of Business Initiative on Global Markets, 
+Coral Gables, 29 March 2014. 
+3   See  Committee  on  Payments  and  Settlement  Systems  and  Technical  Committee  of  the  International 
+Organization  of  Securities  Commissions,  “Principles  for  financial  market  infrastructures”,  April  2012, 
+http://www.bis.org/cpmi/publ/d101a.pdf. 
+BIS central bankers’ speeches 
+ 1 
+  
+ 
+Therefore, we do not want to regulate them primarily as risk takers. Instead, our aim is to 
+control the  way  they  propagate risk,  including  in  particular  the  way  they  allocate  losses  in 
+case  of  a  participant’s  default.  Second,  while  the  microprudential  and  macroprudential 
+approaches have different perspectives, they may in practice rely on some of the same tools 
+to reach their objectives. A macroprudential approach to CCPs should also involve elements 
+of sound microprudential risk management, as both can be tightly interlinked. 
+Bearing this in mind, allow me to lay out five elements of the macroprudential approach to 
+CCPs which are being developed and implemented at CPMI-IOSCO level. 
+First, we are currently working towards establishing a set of criteria to identify CCPs that are 
+systemically relevant in more than one jurisdiction. This is an important issue given that the 
+PFMI require CCPs with cross-border relevance or with a more complex risk profile to apply 
+more stringent risk mitigation standards – in particular a “cover 2” requirement for calibrating 
+their  stress  testing  and  for  sizing  their  financial  resources.  Providing  authorities  with  a 
+consistent  framework  for  assessing  systemic  relevance  is  the  starting  point  of  any 
+macroprudential approach. 
+Second,  we  want  to  ensure  that  the  financial  buffers  built  up  by  CCPs  in  good  times  are 
+highly  robust,  thereby  reducing  the  need  to  take  sudden  and  abrupt  measures  in  more 
+stressed  situations.  In  this  context,  we  are  focusing  on  making  CCPs  fully  resilient  by 
+ensuring they are rigorously applying the PFMI, and have adopted appropriate arrangements 
+for  recovery  planning  in  line  with  the  guidance  issued  by  CPMI-IOSCO  in  2014.  In  this 
+regard, CPMI-IOSCO will publish this summer two reports that assess the way international 
+requirements  are  being  implemented,  drawing  on  surveys  carried  out  with  a  significant 
+number of CCPs worldwide. Additional guidance will be proposed in some areas, such as on 
+stress  testing.  In  other  areas,  such  as  recovery  planning,  we  will  ensure  the  existing 
+guidance is properly and fully implemented.4 
+This work is fully consistent with the forthcoming guidance by the Financial Stability Board 
+(FSB) on CCP resolution. 
+The  third  area  where  the  forthcoming  reports  will  propose  further  guidance  is  in  the 
+identification and mitigation of potential procyclical behaviour. Building on the requirements 
+for margining and haircut-setting practices in the PFMI, we will now go further by requiring 
+CCPs  to  take  a  holistic  approach  to  addressing  the  issue  within  their  risk  management 
+frameworks.  The  guidance  will  also  point  out  that  a  CCP  is  expected  to  measure 
+procyclicality  by  using  quantitative  metrics,  and  to  include  considerations  related  to 
+procyclicality in its model validation process. One open question is whether we should raise 
+the bar even further by establishing minimum, binding margin floors, as is now the case for 
+non-centrally cleared securities financing transactions.5 I trust our panellists will share their 
+insights on this issue. 
+As a fourth step, I believe it would be helpful to enhance our capacity to identify and address 
+financial  vulnerabilities  in  CCPs  at  an  early  stage  by  complementing  CCP  in-house  stress 
+testing with a framework for supervisory CCP stress testing that can be conducted across 
+jurisdictions. Supervisory stress testing can be a key building block of the macroprudential 
+framework for  CCPs  if  it  accounts for  the  propagation  of risk  across  CCPs  as  well  as  the 
+spillover  to,  and  spillback  from,  their  clearing  members.  The  recent  European  Union-wide 
+stress test led by the European Securities and Markets Authority (ESMA) is a promising first 
+                                                
+4   See also Cœuré, B., interview with Risk Magazine, 19 May 2016. 
+5   See  Financial  Stability  Board,  “Strengthening  Oversight  and  Regulation  of  Shadow  Banking  -Regulatory 
+framework for haircuts on non-centrally cleared securities financing transactions”, 14 October 2014. 
+2 
+ BIS central bankers’ speeches 
+  
+ 
+step in this direction6. While this is an ambitious project and will take some time, I hope we 
+can propose a way forward at the G20 summit in September. 
+Finally,  we  will  need  to  make  substantial  progress  in  understanding  and  assessing 
+interdependencies  between  CCPs  and  their  participants,  across  the  multiple  relationships 
+they have with each other. Mapping the complex network of these interlinked exposures is 
+crucial  from  a  macroprudential  standpoint.  This  work  is  currently  being  carried  out  by  the 
+FSB,  and  its  success  will  depend  on  the  full  and  timely  availability  of  data  from  all 
+jurisdictions  involved  in  the  exercise.  The  information-  sharing  framework  and  the 
+methodology  being  developed  for  this  analysis  is  a  precondition  for  future  work,  such  as 
+supervisory stress testing. 
+Pooling  risk  in  CCPs  brings  benefits  for  market  participants  and  generates  positive 
+externalities  for  the  broader  economy  –  provided  that  the  propagation  of  risk  is  well 
+understood  and  well  regulated.  As  Mark  Twain  once  said:  “Put  all  your  eggs  in  the  one 
+basket and – watch that basket!”7. The macroprudential framework for CCPs is about making 
+sure that we’re watching that basket. 
+I will now hand over to our panellists. 
+                                                 
+6   See ESMA report, “EU-wide CCP Stress test 2015”, 29 April 2016. 
+7   “Behold, the fool saith, ‘Put not all thine eggs in the one basket’ – which is but a manner of saying, ‘Scatter 
+your money and your attention’; but the wise man saith, ‘Put all your eggs in the one basket and – watch that 
+basket!’”, in Twain, M., The Tragedy of Pudd’nhead Wilson, chapter 15, 1894. 
+BIS central bankers’ speeches 
+ 3 

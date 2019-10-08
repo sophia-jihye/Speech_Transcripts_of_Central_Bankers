@@ -1,0 +1,363 @@
+Axel A Weber: Forecasting in Eurosystem central banks – overview and 
+challenges 
+Speech  by  Professor  Axel  A  Weber,  President  of  the  Deutsche  Bundesbank,  at  the  Bundesbank 
+Spring Conference, Eltville, 5 May 2006. 
+References to the speech can be found on the Deutsche Bundesbank’s website. 
+  Introduction 
+1 
+It is a pleasure for me to open this conference on new developments in economic forecasting. I would 
+like to welcome the presenters, discussants and other guests who have come to Eltville to take part in 
+the conference. 
+Forecasting  is  nowadays  a  central  element  in  the  decision-making  process  of  central  banks.  This 
+conference  aims  to  present  and  discuss  new  insights  gained  from  academic  research  which  might 
+help  to  improve  the  current  practice  of  forecasting,  with  the  aim  of  using  these  insights  to  develop 
+further the forecasting tools employed by the Bundesbank and the Eurosystem. 
+To  start  with,  it  might  be  helpful  to  take  stock.  Therefore,  in  my  introductory  remarks,  I  shall  be 
+discussing  various  aspects  of  the  forecasting  procedures  employed  at  central  banks  with  a  special 
+focus on the Eurosystem and the Bundesbank. 
+There is a straightforward reason why central banks have a strong interest in forecasting: because of 
+lags in the effects of monetary policy on macroeconomic activity monetary policy cannot affect current 
+inflation  and  output.1  Owing  to  these  lags,  it  is  widely  recognised  that  monetary  policy  should  be 
+forward-looking and have a medium-term perspective. As a consequence, monetary policy decisions 
+are, to some extent, dependent on forecasts. 
+Future developments in inflation and output are of key interest in central banks’ forecast exercises. 
+The relevance of price developments stems from the fact that the primary objective of many central 
+banks  is  to  establish  and  maintain  price  stability.  Their  interest  in  forecasting  output,  or,  more 
+generally,  some  measure  of  broad  macroeconomic  activity,  results  from  their  influences  on  future 
+prices. Moreover, many central banks take real developments into consideration for another reason: 
+the  objectives  of  these  central  banks  explicitly  include  real  variables  such  as  unemployment  and 
+output.  
+But  even  for  central  banks,  such  as  the  Eurosystem,  which  have  a  more  hierarchical  ordering  of 
+objectives, and pursue price stability as the primary objective, output developments play an important 
+role: Focusing exclusively on price stability, regardless of the type of shock hitting the economy, would 
+otherwise have the undesirable consequence of increasing output volatility to inefficiently high levels. 
+In the end, this may complicate the preservation of price stability. 
+As part of their communication strategy, many central banks have decided to publish their forecasts in 
+order to increase transparency. In a forwardlooking environment, fostering transparency by means of 
+published  forecasts  is  more  than  an  end  in  itself.  It  also  serves  to  guide  expectations  of  future 
+monetary  policy  actions,  thus  making  the  central  bank  more  effective  in  fulfilling  its  duties.  For  this 
+reason, the quality of the forecasts is crucial not only under reputation aspects but also for reasons of 
+policy effectiveness. 
+As a result, central banks have a natural interest in applying the best forecasting methods available. 
+This necessitates to continuously incorporate the latest academic developments in forecasting into the 
+models used by economic and research departments at central banks. In my following remarks, I shall 
+discuss some of the recent developments. 
+                                                      
+1   A rough benchmark for the euro area is that monetary policy affects output in about a year and inflation in about two years. 
+See Angeloni, Kashyap and Mojon (2003). 
+BIS Review 36/2006 
+ 1
+ Recent developments in forecasting 
+2 
+One way of distinguishing the main developments in forecasting methods is to focus on the amount of 
+information used for specifying forecast models:2
+ 
+•  Forecasting in data-rich environments with as much information as is available: 
+Factor forecasting with large datasets, 
+Forecast pooling or combination, and 
+• 
+• 
+•  Disaggregation versus aggregation of data, 
+•  Forecasting with reduced information: 
+Theory-based forecasting: for example DSGE models, 
+• 
+•  Model selection: general-to-specific modelling strategies 
+ 
+To highlight the diversity of models within both the limited information and full-information approaches, 
+I  have  included  some  examples  of  methods  in  the  above  listing  which  may  be  of  potential  use  for 
+central bank forecasting. 
+ Forecasting tools in central banks: some stocktaking 
+2.1 
+What kind of forecasting approaches have been adopted by central banks? As outlined in Sims (2002) 
+and  in  Pagan  &  Robertson  (2002),  most  of  the  central  banks  employ  traditional  macroeconometric 
+models,  sometimes  replaced  by  medium-scale  DSGE  models,  as  core  or  workhorse  models  for 
+forecasting and policy analysis. These models have a well-specified theoretical framework in statistical 
+and  economic  terms  that  helps  providing  some  economic  interpretation  of  the  forecast.3  Although 
+most  of  the  central  bank  work  typically  devotes  around  a  single  core  model,  alternative 
+macroeconometric  or  DSGE  models  of  differing  size  or  with  different  regional  coverage  are  also 
+employed. 
+Additionally, a number of econometric time series models with little explicit economic content are used 
+for short-term forecasting, as they can be used to employ higher-frequency data and different datasets 
+than the traditional macroeconometric or DSGE models. 
+Finally, ‘judgement’ in terms of outside-model information is additionally used. 
+How  are  these  forecasts  used  in  practice?  In  general,  forecasts  from  different  types  of  models  are 
+simultaneously taken into account in monetary policy practice. As an example, the Bank of England 
+has recently developed a suite of short-term forecasting models for GDP containing, among others, 
+large-scale  factor  models  and  non-linear  models.4  Forecasting  results  for  combined  forecasts  with 
+these  models  are  reported  in  addition  to  the  forecasts  obtained  by  the  Bank  of  England  Quarterly 
+Model (BEQM). In a recent study by the Bank of Sweden, both a non-theoretical BVAR and a DSGE 
+model  are  used  for  forecasting  and  policy  analysis.5  These  examples  show  that  not  in  all  cases  a 
+singlemodel approach is followed, but rather a ‘suite-of-models’ approach. 
+Arguments in favour of the suite-of-models approach 
+2.2  
+What are the reasons for central banks following these multi-model approaches? Why is it important to 
+apply a variety of models in central banks rather than only a few, especially for forecasting? 
+                                                      
+2   See the overview  article Clements  and Hendry  (2005),  Guest Editors’ Introduction: Information in Economic Forecasting, 
+Oxford Bulletin of Economics and Statistics 67, issue s1, p. 714. 
+3   See Issing (2004), p. 730. 
+4   See Kapetanios, Labhard, and Price (2005). 
+5   See Adolfson, Andersson, Lindé, Villani, and Vredin (2005). 
+2 
+ BIS Review 36/2006
+1) Information loss: Using only one specification or model implies that some indicators and information 
+are left aside and ignored for policy decisions. There are good reasons for thinking that this may not 
+be a good strategy.6
+In  applied  econometrics  typically  alternative  specifications  are  initially  tried,  and  the  specification, 
+estimation and testing steps are re-iterated a number of times.7 In this way, a ‘good’ forecasting model 
+is obtained by an extensive specification search. By checking a large number of possible models, and 
+choosing  exclusively  the  best-performing  one,  specifications  with  only  slightly  inferior  empirical 
+performance  are  subsequently  ignored  in  the  forecast  comparison.  As  a  consequence,  there  is  the 
+danger that a good forecast performance is less the result of the model’s actual forecasting ability, but 
+more so just luck in the selection procedure. Better testing procedures should consider more general 
+specification search criteria such as “the benchmark’s forecast performance should not be inferior to 
+any  alternative  forecast”.  Forecast  comparison  tests  considering  this  general  requirement  have 
+recently been proposed by White (2000) and Hansen (2005), and take into account a large number of 
+candidate models for forecasting.8
+A similar idea is adopted in the ‘model confidence set’ (MCS) approach proposed by Hansen, Lunde 
+and Nason (2003). This procedure represents a general approach to model selection which allows for 
+finding a group (set) of forecasting models. This is appealing because it often cannot be ruled out a 
+priori that more than one of the competing model is equally good.9 * 
+Therefore,  a  sensible  solution  in  the  forecasting  model  selection  context  is  to  consider  many 
+competing models, and not just a few. 
+2) Model uncertainty: Policymakers face a wide range of uncertainty, and so do modellers. There is 
+considerable model uncertainty, and there is no consensus among policymakers concerning the one 
+true model. As an example, consider the different approaches to modeling expectations; some authors 
+favour  backward-looking  models  while  others  prefer  forward-looking  models,  and  a  third  camp 
+advocates hybrid models. Therefore, model equations may be misspecified in terms of functional form 
+or omitted variables. Additionally, structural breaks have been identified as crucial sources of forecast 
+failure. Finally, data uncertainty might affect models in different ways. 
+Information  loss  and  model  uncertainty  are  closely  interdependent:  Models  are,  by  definition,  a 
+reduction  of  reality.  For  example,  single  models  can  capture  only  a  few  aspects  of  the  monetary 
+transmission  mechanism.  Since  many  transmission  channels  are  likely  to  matter  in  reality,  a  “one 
+model fits all” approach seems inappropriate. 
+3) Forecast pooling performs well in empirical applications: Forecast combination methods often work 
+well, and, in particular, better than singlemodel forecasts. Recent examples of the empirical success of 
+forecast  pooling  are  Stock  and  Watson  (2004)  and  Marcellino  (2004).  Intriguingly,  the  combination 
+methods  with  the  lowest  forecast  errors  are  the  simplest  –  for  example,  with  equal  weights.  This 
+indicates that estimating forecast weights might be difficult in practice, but in itself again is probably 
+method sensitive. 
+Forecast pooling may be particularly useful under structural changes or breaks and misspecification: 
+Following theoretical considerations, combinations of forecasts are unnecessary when forecasts use 
+the correct conditional expectation in a weakly-stationary process. In other words, a departure from 
+perfect knowledge is necessary to explain gains from combination, see Clements and Hendry (2002) 
+and Timmermann (2005): 
+                                                      
+6   See Granger and Jeon (2004), pp. 324-5. 
+7   See Spanos (2001). 
+8   Taking into account more than one benchmark model makes the null of equal forecast accuracy harder to reject. See, for 
+example, White (2000), table 1, p. 1113. 
+9   Construction of an MCS involves a sequence of tests for equal predictive ability. This restricts the set of candidate models 
+by deleting models that are found to be significantly inferior, and the set of remaining models is the MCS. An MCS can be 
+used to construct combination forecasts by pooling the forecasts of the models in the MCS. If the number of models in the 
+MCS is large, a reasonable way to proceed is to weigh the individual forecasts equally. The reason for this is that the MCS 
+consists precisely of the models that cannot be rejected as being equally good. See Hansen, Lunde and Nason (2003), p. 
+841. 
+BIS Review 36/2006 
+ 3
+•  A  pro-diversification  argument  states  that  some  combination  of  two-model  forecasts  might 
+perform  better  than  either  alone,  if  the  two  models  provide  partial,  but  not  overlapping, 
+explanations.10 
+•  Owing  to  model  uncertainty,  using  the  correct  conditional  expectation  for  forecasting  is 
+unrealistic, and, in reality, departures from the correct model may be expected to be the rule 
+rather than the exception. 
+If  structural  breaks  occur,  forecasts  from  individual  models  may  be  affected  differently, 
+possibly on account of differing degrees of misspecification. Combinations of forecasts might 
+then outperform forecasts from individual models.11  
+ To summarize: There are good reasons why monetary policy pursues fullinformation strategies and 
+“looks at everything” in terms of a broad set of information from data and models. The recent sizable 
+literature  on  robust  policies  in  various  model  environments  also  emphasises  the  merits  of  model 
+combination and averaging.12  
+Therefore,  selecting  a  single  model  for  monetary  policy  may  be  inappropriate,  since  conditioning 
+monetary policy decisions on one model ignores the role of model uncertainty. It also disregards the 
+favourable empirical results from the forecast combination literature, and thus leaves aside potentially 
+important information. 
+Eurosystem forecasting 
+3  
+The Governing Council of the Eurosystem bases its comprehensive assessment of the risks to price 
+stability  and  its  policy  decisions  on  a  broad  set  of  information  provided  by  two  analytical  tools:  the 
+economic analysis and the monetary analysis. 
+The monetary analysis assesses medium to long-term developments in inflation based on the close 
+relationship  between  money  and  prices  over  long  horizons.  Monetary  analysis  takes  into  account 
+developments in a wide range of monetary indicators including M3, its components and counterparts, 
+notably credit, and measures of excess liquidity.  
+The  economic  analysis  identifies  short  to  medium-term  risks  to  price  stability.  It  includes  regular 
+monitoring  of  a  broad  set  of  non-monetary  economic  and  financial  variables,  such  as  labour  costs, 
+fiscal policy statistics and financial market indicators.13  
+Additionally, the projections of key macroeconomic variables carried out by Eurosystem staff are an 
+integral part of the economic analysis. Moreover, a range of non-central bank forecasts are taken into 
+consideration.  Forecasts,  however,  are  not  an  all-encompassing  tool  for  the  conduct  of  monetary 
+policy in the Eurosystem. 
+The monetary and economic analyses provide complementary analytical frameworks, and, by means 
+of cross-checking, they support the robustness of the Governing Council’s assessment of risks to price 
+stability. 
+Eurosystem forecasts are carried out under the sole responsibility of the Eurosystem staff, and not of 
+the Governing Council. This makes the forecasts different from those of other central banks, such as 
+the  forecasts  of  the  Bank  of  England,  where  the  MPC  is  responsible  for  the  forecasts  and  their 
+assumptions. 
+                                                      
+10   See Timmermann (2005), p. 3. 
+11   See Clements and Hendry (2002). 
+12   For example, Brock, Durlauf and West (2003, 2006) propose a model averaging approach that derives optimal policy given 
+a policy maker’s preferences – for example, a loss function – and given a variety of possibly relevant models affecting the 
+central bank’s target values. Apart from forecast averaging, a multiple model approach helps to address other issues where 
+model uncertainty matters. For example, a policymaker may be interested in policies whose effects are relatively insensitive 
+to which model is the correct one. 
+13   See Issing (2004), p. 725. 
+4 
+ BIS Review 36/2006
+The  regular  staff  projections  are  carried  out  as  a  collaboration  between  the  ECB  and  the  national 
+central  banks  of  the  euro  area.  This  ensures  the  full  consideration  of  all  information  and  expertise 
+available in the Eurosystem for forecasting, in addition to aggregate information at the area-wide level. 
+Empirical  results  from  the  forecasting  literature  also  support  the  argument  that  disaggregated 
+information in terms of national time series is more useful for forecasting than aggregated information 
+(area-wide time series) in the euro area.14  
+Concerning the forecast methods, various approaches are employed, and the Eurosystem pursues a 
+suite-of-models approach. Regarding the level of aggregation, the Eurosystem employs econometric 
+models  for  single  euro  area  member  countries  in  addition  to  area-wide  approaches.  Traditional 
+structural macroeconometric models still play a key role in forecasting – for example, the Area-wide-
+model (AWM) of the ECB – and the econometric models of the euro-area central banks.  
+Recently,  DSGE  models  have  been  developed  in  the  Eurosystem.  Some  of  these  models  are  still 
+under construction and some are already used for policy simulations. However, they have not been 
+widely used for forecasting so far. 
+In  addition,  Eurosystem  staff  makes  use  of  time  series  models  for  shortterm  forecasting,  such  as 
+different VAR models and large factor models. 
+However, Eurosystem forecasts are not fully model-based. In the forecast exercises conducted by the 
+Eurosystem,  a  complex  interaction  of  information  takes  place  between  models  and  judgmental 
+information from outside the models. 
+3.1   The role of short-term interest rates in central bank projections 
+One  practical  difficulty  in  forecast  exercises  is  the  appropriate  conditioning  of  the  forecasts.  A 
+particularly  subtle  problem  for  central  banks  concerns  the  appropriate  choice  of  a  consistent  short-
+term  interest-rate  projection.  This  topic  plays  a  key  role  in  the  recent  discussion  on  central  bank 
+forecasting. The short-term rate is the policy instrument under the control of the central bank; via the 
+expectation  channel,  its  future  path  influences  current  economic  circumstances  and  decisions. 
+Specifying a trajectory of future rates in today’s projections is therefore a delicate problem with regard 
+to  the  signals  about  the  future  course  of  monetary  policy  given  to  outside  observers.  There  are 
+basically three ways of specifying the future interest rate path. 
+Firstly, a constant short-term interest rate (CIR) assumption can be employed. The inflation projection 
+being higher (lower) than the inflation target at some given horizon has been interpreted as indicating 
+that,  sooner  or  later,  the  instrument  rate  needs  to  be  raised  (lowered).15  An  advantage  of  this 
+assumption is that it can easily be communicated. CIR is an obviously technical assumption with no 
+risk of central bank commitment to follow the assumed constant interest rate path. 
+One drawback is that many current asset prices depend on market expectations of the future short-
+term interest rate path – the most prominent example being the long-term interest rate which, via the 
+term structure, depends on expectations of future short term rates. And, typically, the market prices of 
+these assets are used as other inputs in projection exercises rather than the hypothetical asset prices 
+that would result if market participants actually expected a constant interest rate. Hence, the forecasts 
+are of a hybrid nature as they use the CIR together with inputs which are inconsistent with the CIR 
+assumption. 
+Secondly,  an  alternative  is  using  the  market  expectations  of  future  shortterm  interest  rates,  the  so-
+called market interest rates approach (MIR), where these are typically derived from the yield curve. 
+Compared  with  the  CIR,  the  MIR  assumption  in  principle  preserves  a  higher  degree  of  internal 
+consistency as it is in line with the other asset price inputs for the forecasts. Therefore, it could be 
+expected to be a better estimate of future outcomes than projections based on the CIR assumption, 
+while remaining a technical assumption and not a policy commitment on the part of the central bank as 
+regards the future evolution of its policy rate. 
+                                                      
+14   See Marcellino, Stock and Watson (2004). 
+15   See Svensson (2005). 
+BIS Review 36/2006 
+ 5
+Until now, the Eurosystem forecasts have been carried out under the assumptions of a CIR. Starting in 
+June  2006,  Eurosystem  and  ECB  staff  macroeconomic  projections  will  be  based  on  the  technical 
+assumption that short-term market interest rates will move in line with market expectations and thus 
+follow the MIR approach.16  
+Note  that  the  change  to  MIR  is  of  a  purely  technical  nature.  It  should  not  be  misunderstood  as  a 
+commitment of future interest rate policy to the rates assumed in the projections. The MIR is being 
+introduced in order to bring about a further improvement in the quality and internal consistency of the 
+macroeconomic  projections,  and  does  not  imply  any  change  in  the  monetary  policy  strategy  of  the 
+Eurosystem  or  in  the  role  of  projections  within  it.  The  Governing  Council  will  continue  to  base  its 
+assessment of the risks to price stability and its policy decisions on a broad set of information provided 
+by the economic and monetary analyses. 
+A third possible concept to treat the short-term rate in central bank’s projections is the ‘own instrument 
+projection’.  It  reflects  the central  bank’s  own  assumed  interest  rate  path (OIR),  i.e.  the  interest  rate 
+path  that  is  supposed  to  achieve  the  central  bank’s  objectives  best  under  certain  model-  and 
+judgment-based assumptions concerning the functioning of the economy. 
+The  OIR  approach  necessitates  the  commitment  of  the  decision-making  body  to  this  conditional 
+forecast. Given that the Eurosystem staff projections are under the sole responsibility of the staff, and 
+not the Governing Council, the adoption of a OIR forecast is no viable option for the Eurosystem. 
+Moreover, although the OIR has the appealing property of being fully consistent with the central bank’s 
+targets and  other  inputs  there  are several  problems with  this  approach.  They can  explain why  only 
+very  few  central  banks  are  pursuing  this  alternative.  The  OIR  is  highly  dependent  on  the  specific 
+analytical  framework  from  which  it  is  derived;  in  particular,  a  core  forward-looking  model  and  a 
+monetary policy loss function. In light of additional model-uncertainty and the necessary integration of 
+judgment  in  the  forecasting  process  the  optimal  interest  rate  is  therefore  surrounded  by  difficult-to-
+quantify uncertainties which make it somewhat problematic to communicate. Moreover, the OIR might 
+be  interpreted  as  an  unconditional  commitment  to  the  future  path.  Therefore,  communicating  the 
+conditional nature of the assumption is more demanding than for the other two assumptions. 
+Future challenges for Eurosystem forecasting 
+3.2  
+Looking  to  the  future,  the  Eurosystem  will  face  various  challenges  with  respect  to  forecasting.  Of 
+course, in order to provide the best possible forecasts as inputs for monetary policy decisions, there is 
+a  constant  need  for  the  use  of  the  latest  forecast  methods  in  the  Eurosystem  macroeconomic 
+projection exercises. For this purpose, extensive evaluation studies of recently developed forecasting 
+methods are necessary, which might lead to extensions of the forecasting toolkit where appropriate. 
+In  this  regard,  an  important  question  will  be  how  to  integrate  new  approaches  into  the  forecasting 
+procedures.  For  example:  What  are  the  benefits  and  risks  of  recently  developed  DSGE  models  for 
+forecasting – and for policy analysis? Can they be integrated into the forecasting procedures, and how 
+can the results be communicated? 
+Moreover, another central direction for future work might be the adoption of formal forecast and model 
+combination  methods  to  take  account  of  model  uncertainty  in  an  effective  manner  and  to  make 
+efficient  use  of  the  large  datasets  that  are  nowadays  available  for  forecasting  at  central  banks. 
+Research projects on dimension reduction using model selection, large factor modelling or systematic 
+forecast and model combination are already under way and might also play an important role in the 
+future. 
+These topics are particularly useful for short-term economic forecasting in the Eurosystem in order to 
+identify short to medium-term risks to price stability under the economic analysis. 
+With  regard  to  longer-term  horizons  and  forecasting,  two  possible  innovations  may  be  considered 
+valuable for future work. 
+                                                      
+16   ECB (2006) 
+6 
+ BIS Review 36/2006
+Firstly,  owing  to  the  well-established  empirical  relationship  between  money  and  future  price 
+developments,17 money-based inflation forecasts could be envisaged as an additional tool to support 
+the monetary analysis of future risks to price stability. 
+Secondly, conditional on implementing the former it might also be worth investigating the usefulness of 
+model averaging approaches for refining the overall formal background of the ECB strategy. 
+As discussed earlier, the ultimate goal of the Eurosystem’s two-pillar strategy is the efficient utilisation 
+of  available  information  for  monetary  policy  decisions  under  the  monetary  and  economic  analyses. 
+One  possible  extension  might  be  found  in  a  more  strongly  formalised  combined  assessment  of  the 
+information  included  in  both  pillars  for  future  inflation  developments  at  various  time  horizons  (short, 
+medium and long-term).  
+Of  course,  the  advantages  and  pitfalls  of  a  more  formalised  forecasting  combination  have  to  be 
+investigated thoroughly, and research activities are needed for that. 
+Bundesbank forecasting within the Eurosystem 
+4  
+The  Bundesbank,  as  part  of  the  Eurosystem,  carries  out  forecasts  on  a  regular  basis  for  the  key 
+German macroeconomic variables. These forecasts are an input for the Eurosystem staff projections, 
+where the national predictions are discussed and aggregated with other national forecasts into area-
+wide forecasts. Furthermore, the forecasts serve as quantitative background information for explaining 
+monetary policy on a national level, and for comments on economic and fiscal policy issues. 
+From  a  methodological  viewpoint,  forecasts  are  carried  out  as  a  combination  of  model-based 
+forecasting  and  judgmental  forecasting.  The  core  model  for  policy  forecasting  is  the  structural 
+macroeconometric model, which is used in the Eurosystem staff projection exercises. 
+To date, only the Bundesbank model has served as the main model forecasting tool, but further steps 
+towards  a  suite-of-models  approach  are  being  explored  and  likely  to  be  implemented  in  the  near 
+future. 
+Current research projects aim at developing DSGE models for policy simulation. However, owing to 
+the  limited  forecast  accuracy  of  these  models  so  far,  they  will  probably  serve  only  as  a  tool  for 
+analysing  particular  policy-relevant  issues  apart  from  being  used,  for  now,  in  regular  forecast 
+exercises. 
+Short-term forecasting in the Bundesbank is carried out with bridge equations and other time series 
+models.  However,  in  order  to  enhance  these  models,  efforts  are  being  made  to  develop  models 
+suitable  for  forecasting  in  real  time  –  in  particular,  large  factor  models  and  VAR  models  and  their 
+applications in real time. 
+Moreover, the Bundesbank is devoting considerable research activities to the further development of 
+the  monetary  analysis.  In  particular,  ongoing  research  projects  are  investigating  the  information 
+content of various monetary aggregates for future inflation. 
+Outlook for the conference 
+5  
+As  you  can  see,  topics  concerning  forecasting  methodology  are  always  at  the  top  of  the  research 
+agenda for Eurosystem central banks. I have highlighted some aspects that lie at the heart of each 
+and  every  central  bank  engaged  in  forecasting,  and  I  have  mentioned  a  number  of  issues  that  are 
+particularly relevant to the state of play in the Eurosystem in general and the Bundesbank in particular. 
+Of course, there are still more open questions than issues resolved. But if it were the other way round, 
+conferences  like  this  would  be  superfluous.  In  this  respect,  we  look  forward  to  hearing  of  new 
+approaches during this conference. 
+I wish you stimulating discussions and a productive meeting. Thank you for your attention. 
+                                                      
+17   See, for example, the various approaches used to establish the role of money for future inflation by Gerlach and Svensson 
+(2003), Gerlach (2004), Gerlach-Kristen (2005), and Hofmann (2006). 
+BIS Review 36/2006 
+ 7

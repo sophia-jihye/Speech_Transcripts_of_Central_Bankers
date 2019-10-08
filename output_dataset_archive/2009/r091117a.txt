@@ -1,0 +1,392 @@
+William C Dudley: More lessons from the crisis 
+Remarks  by  Mr  William  C  Dudley,  President  and  Chief  Executive  Officer  of  the  Federal 
+Reserve Bank of New York, at the Center for Economic Policy Studies (CEPS) Symposium, 
+Princeton, New Jersey, 13 November 2009. 
+ Thank you for having me here to speak today. It is a real pleasure to have this opportunity to 
+speak at CEPS again – this is a great forum to talk about policy issues. Tonight I want to 
+discuss  some  of  the  challenges  we  face  in  making  our  financial  system  more  robust.  We 
+have  learned  a  great  deal  over  the  past  two  years  about  our  financial  system  and  its 
+vulnerabilities.  The  task  ahead  is  to  put  these  lessons  to  good  use.  Our  goal  must  be  to 
+make the financial system more resilient to shocks. If we can do that successfully, we should 
+be able to reduce the risk of financial crises. 
+In  assessing  the  causes  of  this  crisis,  one  clear  culprit  was  the  failure  of  regulators  and 
+market participants alike to fully appreciate the strength of the amplifying mechanisms that 
+were built into our financial system. These mechanics exacerbated the boom on the way up 
+and the bust on the way down. Only by better understanding the sources of these damaging 
+dynamics  can  we  construct  solutions  that  will  strengthen  our  financial  system  and  make  it 
+more robust. 
+Today, I am going to focus mainly on the extraordinary liquidity events that played out during 
+this crisis. I will tackle this topic in four parts. I will begin by describing how funding dried up 
+rapidly  for  firms  such  as  Bear  Stearns,  Lehman  Brothers,  and  AIG.  I  then  will  propose  a 
+conceptual framework that might prove helpful in better understanding what went wrong on 
+the liquidity front. With this conceptual framework in hand, I will then suggest some concrete 
+steps we might take toward making the financial system more resilient – cautioning that there 
+are no magic bullets. Finally, I will talk about the major initiatives that are already underway 
+to help reduce the risk of future liquidity crises. 
+As always, my remarks reflect my own views and opinions and not necessarily those of the 
+Federal Reserve System. 
+At  its  most  fundamental  level,  this  crisis  was  caused  by  the  rapid  growth  of  the  so-called 
+shadow banking system over the past few decades and its remarkable collapse over the past 
+two years. Let me give you some figures to illustrate the disparity between the growth of what 
+I  will  call  the  “traditional”  commercial  banking  system  and  the  shadow  banking  system  in 
+recent years. At the end of 2006, the shadow banking system had grown so large that U.S. 
+commercial banks’ share of credit market assets had fallen to only 17.7 percent, down from 
+27.3 percent in 1980. 
+With  this  shift  in  the  composition  of  activity  also  came  an  important  change  in  the 
+composition  of  funding,  particularly  in  the  middle  part  of  this  decade.  Commercial  paper 
+outstanding grew from $1.3 trillion at the end of 2003 to a peak of about $2.3 trillion. Repo 
+funding by dealers to nonbank financial institutions – as measured by the reverse repos on 
+primary  dealer  balance sheets  –  grew  from  less  than  $1.3  trillion  to  a  peak  of  nearly  $2.8 
+trillion over this period. In contrast, commercial bank retail deposits rose by less than 30% in 
+the four year period from 2003 to 2007. 
+Though  the  shadow  banking  system  was  often  credited  with  better  distributing  risk  and 
+improving the overall efficiency of the financial system, this system ultimately proved to be 
+much more fragile than we had anticipated. Like the traditional banking system, the shadow 
+banking  system  engaged  in  the  maturity  transformation  process  in  which  structured 
+investment  vehicles  (SIVs),  conduits,  dealers,  and  hedge  funds  financed  long-term  assets 
+with short-term funding. However, much of the maturity transformation in the shadow system 
+BIS Review 143/2009 
+ 1
+occurred without the types of stabilizing backstops that are in place in the traditional banking 
+sector. 
+A  key  vulnerability  turned  out  to  be  the  misplaced  assumption  that  securities  dealers  and 
+others  would  be  able  to  obtain  very  large  amounts  of  short-term  funding  even  in  times  of 
+stress. Indeed, one particularly destabilizing factor in this collapse was the speed with which 
+liquidity buffers at the large independent security dealers were exhausted. To take just one 
+illustrative  example,  Bear  Stearns  saw  a  complete  loss  of  its  short-term  secured  funding 
+virtually  overnight.  As  a  consequence,  the  firm’s  liquidity  pool  dropped  by  83  percent  in  a 
+two-day span.1 
+These liquidity dynamics were driven by two main factors. The first factor was the underlying 
+stress  on  dealer  balance  sheets  as  the  prices  on  complex  collateralized  debt  obligations 
+(CDOs), private label residential mortgage-backed securities (RMBS), and commercial real 
+estate-related assets fell sharply and uncertainty about underlying asset values rose sharply. 
+The  uncertainty  stemmed,  in  part,  from  the  lack  of  transparency  about  what  prices  these 
+assets could be sold for, which, in turn stemmed from the difficulty of valuing these extremely 
+complex and heterogeneous securities. 
+The stress on underlying asset prices and the uncertainty about the valuations of pools of 
+illiquid  assets  caused  investors  to  become  concerned  about  the  solvency  of  some  of  the 
+weaker  dealers.2  These  concerns  contributed  to  liquidity  pressures,  which,  in  turn,  led  to 
+forced asset sales by dealers and others. These sales both further depressed asset prices 
+and increased asset price volatility. 
+The second factor contributing to the liquidity crisis was the dependence of dealers on short-
+term  funding  to  finance  illiquid  assets.  This  short-term  funding  came  mainly  from  two 
+sources, the tri-party repo system and customer balances in prime brokerage accounts. By 
+relying on these sources of funding, dealers were much more vulnerable to runs than was 
+generally appreciated. 
+Consider  first  tri-party  repo,  a  market  in  which  money  market  funds,  securities  lending 
+operations,  and  other  institutions  finance  assets  mainly  on  an  overnight  basis.  As  asset 
+prices  fell  and  volatility  climbed  during  this  period,  the  financial  condition  of  some  dealers 
+became more troubled. As a result, some investors in this market became worried about the 
+risk that they might not get their cash returned in the morning, but instead might be stuck with 
+the collateral that secured their lending. Investors responded by increasing their haircuts – 
+that is the margin of extra collateral used to secure their funding – and reducing the range of 
+collateral  they  would  accept  as  security  for  their  lending.  Of  course,  these  very  rational 
+reactions on the part of investors only further weakened the liquidity positions of the major 
+securities firms. 
+A  similar  dynamic  occurred  in  the  context  of  prime  brokerage  accounts.  Some  institutions 
+treated  the  free  cash  balances  associated  with  these  accounts  as  if  they  were  a  stable 
+source of funding. Implicitly, they assumed that these balances would be “sticky” due to the 
+strength of broader business relationships and the cost incurred by customers in shifting the 
+business  elsewhere.  However,  once  markets  became  strained,  this  assumption  of  stable 
+funding proved to be false. Prime brokerage customers began to withdraw their free credit 
+balances  and  some  moved  their  business  elsewhere.  Both  of  these  steps  reduced  dealer 
+liquidity buffers and further tightened the funding noose. 
+                                                 
+1   The collapse of the shadow banking system, in turn, put intense pressure on commercial banks. Off-balance- 
+sheet items came back on to bank balance sheets and the quality of bank assets fell sharply. The end result 
+was  a  sharp  tightening  in  the  availability  of  credit  that  served  to  exacerbate  the  downward  pressure  on 
+economic activity. 
+2   Some dealers were further weakened by having provided significant amounts of funding to failed investment 
+funds, which reduced the amount of funding that was available to meet other needs. 
+2 
+ BIS Review 143/2009
+In the case of the tri-party repo market, the stress on repo borrowers was exacerbated by the 
+design  of  the  underlying  market  infrastructure. In  this  market,  investors  provide  cash  each 
+afternoon to dealers in the form of an overnight loan backed by securities collateral. 
+Each  morning,  under  normal  circumstances,  the  two  clearing  banks  that  operate  tri-party 
+repo systems permit dealers to return the cash to their investors and to retake possession of 
+their securities portfolios by overdrawing their accounts at the clearing banks. During the day, 
+the clearing banks finance the dealers’ securities inventories. 
+Usually, this arrangement works well. However, when a securities dealer becomes troubled 
+or is perceived to be troubled, the tri-party repo market can become unstable. In particular, if 
+there is a material risk that a dealer could default during the day, the clearing bank may not 
+want to return the cash to the tri-party investors in the morning because the bank does not 
+want  to  risk  being  stuck  with  a  very  large  collateralized  exposure  that  could  run  into  the 
+hundreds of billions of dollars. Overnight investors, in turn, don’t want to be stuck with the 
+collateral.  So  to  avoid  such  an  outcome,  they  may  decide  not  to  invest  in  the  first  place. 
+These self-protective reactions on the part of the clearing banks and the investors can cause 
+the  tri-party  funding  mechanism  to  rapidly  unravel.  This  dynamic  explains  the  speed  with 
+which Bear Stearns lost funding as tri-party repo investors pulled away quickly. 
+Despite the strains created by the collapse of Bear Stearns, the “rivets” of the tri-party repo 
+system held for several reasons. First, Bear Sterns did not fail; instead it was acquired by 
+JPMorgan Chase with assistance from the Federal Reserve. Second, the Federal Reserve 
+stepped in to support the tri-party repo system  by implementing the Primary Dealer Credit 
+Facility (PDCF). The PDCF essentially placed the Fed in the role of the tri-party repo investor 
+of last resort thereby significantly reducing the risk to the clearing banks that they might be 
+stuck  with  the  collateral.  As  a  consequence,  the  PDCF  reassured  end  investors  that  they 
+could safely keep investing. This, in turn, significantly reduced the risk that a dealer would 
+not be able to obtain short-term funding through the tri-party repo system.3 
+Over much of this period preceding the failure of Lehman Brothers, U.S. commercial banks 
+were relatively insulated from the liquidity run dynamics that plagued the securities dealers.4 
+This relative stability was due, in part, to the broad access these commercial banks had to 
+the Fed’s discount window through the traditional primary credit facility and through the Term 
+Auction Facility (TAF), which had been introduced earlier in the crisis in response to liquidity 
+strains  in  the  interbank  market.  The  fact  that  most  commercial  banks  relied  on  insured 
+deposits  for  significant  portions  of  their  funding  was  also  important.  Not  only  were  these 
+insured  deposits  stable  sources  of  funding  because  they  were  guaranteed  by  the  Federal 
+Deposit  Insurance  Corporation  (FDIC),  but  also  because  they  were  unsecured;  these 
+deposits freed up collateral that could be used by banks to secure borrowing from the central 
+bank and elsewhere. 
+However,  once  Lehman  Brothers  failed,  many  commercial  banks  and  other  financial 
+institutions encountered significant funding difficulties. News that the Reserve Fund – a large 
+money market mutual fund – had “broken the buck” due to its holdings of Lehman Brothers 
+paper led panicked investors to withdraw their funds from money market mutual funds. This 
+caused  the  commercial  paper  market  to  virtually  shut  down.  This  hurt  bank  holding 
+                                                 
+3   One final factor that  was important in exacerbating the funding crises  was the novation of over-the-counter 
+(OTC) derivative exposures away from a troubled dealer. In a novation, a customer asks a different dealer to 
+stand in between the customer and the distressed dealer. This process results in the outflow of cash collateral 
+from the distressed dealer. The novation of OTC derivatives was an important factor behind the liquidity crises 
+at both Bear Stearns and Lehman Brothers. 
+4   There were funding strains prior to the Lehman Brothers failure and these were most apparent in the elevated 
+spreads evident in term LIBOR funding compared with the federal funds rate. 
+BIS Review 143/2009 
+ 3
+companies and other large financial firms that depended on the commercial paper market for 
+short-term funding. 
+The result was a widespread loss of confidence throughout the money market and interbank 
+funding market. Investors became unwilling to lend even to institutions that they perceived to 
+be solvent because of worries that others might not share the same opinion. Rollover risk – 
+the risk that an investor’s funds might not be repaid in a timely way – became extremely high. 
+The  extreme  market  illiquidity  did  not  abate  until  a  number  of  extraordinary  actions  were 
+taken by the Federal Reserve and others. For example, the Federal Reserve introduced the 
+Commercial Paper Funding Facility (CPFF) to reduce rollover risk in the commercial paper 
+market,  the  Federal  Reserve  and  other  central  banks’  massively  expanded  the  ability  of 
+banks  to  obtain  dollar  funding  through  the  TAF  and  associated  foreign  exchange  swap 
+programs;  the  Treasury  guaranteed  money  market  mutual  fund  assets;  and  the  FDIC 
+increased deposit insurance limits and set up the Temporary Liquidity Guarantee Program 
+(TLPG) to backstop bank and bank holding company debt issuance. 
+Having  described  “what”  happened  on  the  liquidity  front  during  the  crisis,  I  next  want  to 
+examine, in a bit more detail, “why” it happened. To do this, I will lay out a simple conceptual 
+framework that I will then use to assess what can be done to mitigate the risk of such runs 
+occurring in the future. As a starting point, I will talk about how unsecured lenders react in a 
+crisis, and then I will consider the behavior of secured lenders. 
+Unsecured liquidity providers run for two basic reasons. First, they run because there is a 
+risk that the company they are lending funds to is insolvent. In other words, there is a risk 
+that  the  assets  will  be  worth  less  than  the  liabilities,  creating  the  potential  for  loss  to  the 
+creditor.  The  second  reason  that  unsecured  creditors  run  is  the  risk  that  they  will  not  be 
+repaid in a timely way. Even if the borrowing firm ultimately turns out to be solvent, there may 
+be a delay in a lender getting its funds back, and this delay may prove to be unacceptably 
+costly to the lender. 
+This second cause of liquidity runs – the risk of untimely repayment – is significant because it 
+means  that  expectations  about  the  behavior  of  others,  or  their  “psychology”,  can  be 
+important. This is a classic coordination problem. Even if a particular lender judges a firm to 
+be  solvent, it  might  decide  not  to lend  to  that  firm  for  fear  that  others might  not  share  the 
+same assessment. The less certain any one lender is about the willingness of other lenders 
+to provide liquidity to a firm, the greater the risk that too few loans will be extended to prevent 
+liquidation. In that case, even if the lender turns out to be correct in its judgment of the firm’s 
+solvency, there still will be a cost in terms of delay in receiving repayment. 
+A  few  pictures  can  help  to  illustrate  these  concepts.  Figure  1  illustrates  what  a  creditor’s 
+assessment of the net worth of a financial firm might look like in normal times. Creditors have 
+uncertainty  about  what  that  value  is,  thus,  the  valuation  is  represented  by  a  probability 
+distribution. The higher the degree of uncertainty, the greater is the degree of dispersion in 
+the probability distribution. As long as the probability distribution is sufficiently far to the right 
+– in other words – well within positive territory so that there is virtually no risk that the firm is 
+insolvent, lenders will generally be willing to lend. 
+So what happens in a financial crisis? First, the probability distribution shifts to the left as the 
+financial environment deteriorates and the financial firm takes losses that deplete its capital. 
+Second,  and  even  more  importantly,  the  dispersion  of  the  probability  distribution  widens  – 
+lenders  become  more  uncertain  about  the  value  of  the  firm.  These  two  phenomena  are 
+shown together in Figure 2. A lack of transparency in the underlying assets will exacerbate 
+this increase in dispersion. As the degree of dispersion widens, a portion of the probability 
+distribution  falls  into  negative  territory.  This  means  that  there  is  a  real  risk  of  loss  for 
+unsecured creditors if the firm were forced to liquidate its assets. 
+Finally, in a crisis, unsecured lenders become more uncertain about others’ assessment of 
+the  probability  distribution.  For  example,  if  creditor  A  believes  the  probability  distribution 
+4 
+ BIS Review 143/2009
+looks like Figure 1, but at the same time is concerned that creditor B views the probability 
+distribution as looking like Figure 2, creditor A may pull back. If there is a risk creditor B and 
+others  will  not  lend,  the  firm  may  not  receive  sufficient  funding.  In  other  words,  even  if 
+creditor A believes the firm is solvent, it may not lend because it does not want to risk a delay 
+in repayment. 
+So  what  can  creditors  do  to  mitigate  these  risks?  First,  they  can  respond  by  charging  a 
+higher interest rate in compensation for the increase in the risk of default. However, there are 
+a  number  of  difficulties  that  limit  how  well  this  works  in  practice.  Most  significantly,  by 
+undermining  the  firm’s  profitability,  the  higher  interest  rates  may  increase  the  risk  of 
+insolvency.  If  higher  rates  push  insolvency  risk  up  sharply,  then  higher  rates  may  not  be 
+sufficient to make lending – even at higher rates – an attractive proposition. 
+In  addition,  some  investors  such  as  money  market  mutual  funds  may  have  a  very  low 
+tolerance  for  risk.  Thus,  they  may  not  be  interested  in  trading  off  higher  rates  as 
+compensation  for  a  non-negligible  increase  in  insolvency  risk.  Finally,  paying  higher  rates 
+may generate an adverse signal about the health of the borrowing institution. This may cause 
+investors to become more worried about the risk of default. 
+Second, creditors can secure their lending – taking collateral valued at more than the amount 
+they lend. However, this is not foolproof because secured funding can be just as vulnerable 
+to a run dynamic as unsecured funding. For starters, the same types of uncertainties about 
+the value of the firm may apply to the liquidation value of the collateral. This is especially the 
+case if the collateral is lower quality and markets are already illiquid. Moreover, if creditors 
+are  left  with  the  collateral  instead  of  being  repaid,  fear  of  widespread  collateral  liquidation 
+might  further  erode  collateral  values.  If  investors  respond  by  seeking  more  collateral  to 
+ensure they will be secured – that is, that they will be made whole in a liquidation scenario – 
+the  firm  may  run  out  of  high-quality  collateral  that  the  firm  can  borrow  against.  This  is  a 
+significant  risk  when  a  financial  firm  is  highly  leveraged  and  equity  is  only  a  very  small 
+proportion of total assets.5 
+The risks of liquidity crises are also exacerbated by some structural sources of instability in 
+the  financial  system.  Some  of  these  sources  are  endemic  to  the  nature  of  the  financial 
+intermediation process and banking. Others are more specific to the idiosyncratic features of 
+our  particular  system.  Both  types  deserve  attention  because  they  tend  to  amplify  the 
+pressures that lead to liquidity runs. 
+Turning first to the more inherent sources of instability, there are at least two that are worthy 
+of  mention.  The  first  instability  stems  from  the  fact  that  most  financial  firms  engage  in 
+maturity  transformation  –  the  maturity  of  their  assets  is  longer  than  the  maturity  of  their 
+liabilities. The need for maturity transformation arises from the fact that the preferred habitat 
+of borrowers tends toward longer-term maturities used to finance long-lived assets such as a 
+house  or  a  manufacturing  plant,  compared  with  the  preferred  habitat  of  investors,  who 
+generally have a preference to be able to access their funds quickly. Financial intermediaries 
+act  to  span  these  preferences,  earning  profits  by  engaging  in  maturity  transformation  – 
+borrowing shorter-term in order to finance longer-term lending. 
+If  a  firm  engages  in  maturity  transformation  so  that  its  assets  mature  more  slowly  than  its 
+liabilities, it does not have the option of simply allowing its assets to mature when funding 
+dries  up.  If  the  liabilities  cannot  be  rolled  over,  liquidity  buffers  will  soon  be  weakened. 
+Maturity  transformation  means  that  if  funding  is  not  forthcoming,  the  firm  will  have  to  sell 
+assets. Although this is easy if the assets are high-quality and liquid, it is hard if the assets 
+                                                 
+5   Moreover,  certain  classes  of  investors  such  as  money  market  mutual  funds  do  not  take  much  comfort  in 
+collateral. Also, the headline risk of having exposure to a troubled participant could subject investors such as 
+money  market  funds  to  liquidity  pressures  of  their  own.  Investors  could  withdraw  funds  before  losses  are 
+realized. 
+BIS Review 143/2009 
+ 5
+are  lower  quality.  In  that  case,  the  forced  asset  sales  are  likely  to  lead  to  losses,  which 
+deplete capital and raise concerns about insolvency.6 
+The  second  inherent source  of  instability  stems  from  the  fact  that  firms  are  typically  worth 
+much more as going concerns than in liquidation. This loss of value in liquidation helps to 
+explain  why  liquidity  crises  can  happen  so  suddenly.  Initially,  no  one  is  worried  about 
+liquidation.  The  firm  is  well  understood  to  be  solvent  as  shown  in  Figure  1.  But  once 
+counterparties  start  to  worry  about  liquidation,  the  probability  distribution  can  shift  very 
+quickly  toward  the  insolvency  line,  as  shown  in  Figure  2,  because  the  liquidation  value  is 
+lower than the firm’s value as a going concern. 
+There are also a number of idiosyncratic sources of instability worthy of mention, some of 
+which  are  unique  to  our  particular  system.  One  source  of  instability  is  the  tri-party  repo 
+system  that  I  discussed  earlier.  Another  is  the  convention  of  tying  collateral  calls  to  credit 
+ratings. In this case, if a firm’s credit rating is lowered, the firm may have to post additional 
+collateral to its counterparties, eliminating this collateral as a potential source of funding. This 
+phenomenon  was  a  particularly  important  problem  for  AIG,  which  lost  its  access  to  the 
+commercial paper market and was subject to increased collateral calls. Both factors caused 
+the liquidity of the AIG parent company to be depleted very quickly. Finally, if asset volatility 
+rises, haircuts can increase. This can lead to haircut spirals in which higher haircuts lead to 
+forced asset sales, increased volatility and still higher haircuts. 
+These sources of instability create the risk of a cascade – of firms moving rapidly from the 
+situation  represented  in  Figure  1  to  that  shown  in  Figure  2.  Once  the  firm’s  viability  is  in 
+question and it is does not have access to an insured deposit funding base, the next stop is 
+often  a  full-scale  liquidity  crisis  that  often  cannot  be  stopped  without  massive  government 
+intervention.  
+Fortunately,  there  are  ways  to  mitigate  the  risk  of  a  cascade.  First,  we  can  require  that 
+financial intermediaries hold more capital. This would push the probability distribution to the 
+right  in  Figure  2.  With  sufficient  additional  capital,  the  probability  of  insolvency  could  be 
+reduced to a low enough level that liquidity providers would not run.  
+Higher capital requirements work to reduce the risk of liquidity runs, but potentially at the cost 
+of  making  the  process  of  financial  intermediation  much  more  expensive.  In  particular,  a 
+requirement  that  firms  must  hold  more  capital  increases  intermediation  costs.  Moreover, 
+banks may respond to higher capital requirements by taking on greater risk. If an increase in 
+risk-taking were to occur, the movement of the probability distribution to the right in Figure 2 
+might be offset by an increase in the degree of dispersion. Thus, higher capital requirements 
+might not necessarily be sufficient to push all of the probability distribution above zero. 
+Second, regulators could require greater liquidity buffers. These buffers would help protect 
+the firm against having to liquidate assets under duress, and would therefore help prevent 
+the probability distribution from sliding left toward the zero line in Figure 2. But there is a cost 
+to  the  firm  from  holding  greater  liquidity  buffers  in  terms  of  lower  returns  on  capital.  So, 
+requiring greater liquidity buffers would also tend to drive up intermediation costs. And, just 
+as in the case of higher capital requirements, banks could respond by taking greater risks. 
+Third, regulators could implement changes that would reduce the degree of dispersion in the 
+potential value of a firm, pushing the right tail of the distribution in Figure 2 to the left. For 
+example,  we  could  require  greater  transparency  about  the  composition  and  quality  of  the 
+firm’s  assets  and  liabilities.  Or,  regulators  could  increase  transparency  by  forcing  greater 
+disclosure of the sale price of assets and/or by pushing for greater homogeneity and price 
+                                                 
+6   This problem has been largely addressed in the banking sector by deposit insurance and by providing access 
+to  lender  of  last  resort  facilities.  In  addition,  supervisory  and  reporting  requirements  address  transparency 
+issues. 
+6 
+ BIS Review 143/2009
+discovery for products such as OTC derivatives. We could improve the quality of regulation 
+and  supervision,  which  would  increase  confidence  in  regulatory  measures  of  capital  and 
+financial firms’ soundness.  
+Fourth, the central bank could provide a liquidity backstop to solvent firms. For example, the 
+central bank could commit to being the lender of last resort as long as it judged the firm to be 
+solvent and with sufficient collateral. This would reduce the coordination problem and the risk 
+of  panics  sparked  by  uncertainty  among  lenders  about  what  other  creditors  think.  If  the 
+central bank is willing to provide backstop liquidity, then a lender that judges the financial firm 
+to be solvent should be willing to lend. The backstop liquidity ensures timely repayment. The 
+lender  of  last  resort  role  eliminates  the  externality  in  which  the  expectations  about  the 
+willingness of one lender to lend influences the decisions of others.  
+However, providing a liquidity backstop is not without its own set of problems. If firms have 
+liquidity backstops that are viewed as credible, then this creates moral hazard. Firms do not 
+have to worry as much about what lenders think about their capital adequacy or the size of 
+their liquidity buffers. This creates incentives to run leaner in terms of capital and liquidity, 
+which increases the risks to the backstop liquidity provider.  
+To  mitigate  such  effects,  the  backstop  liquidity  provider  could  presumably  charge  financial 
+firms for the value of the backstop. But what fee would be appropriate? It is difficult to assess 
+the probability of financial panics and the value of backstop liquidity facilities.7 
+Fifth, regulators could take steps to reduce the difference between the value of the firm dead 
+versus alive. For example, we could improve the resolution process so that less of a firm’s 
+value  is  destroyed  by  the  liquidation  process.  If  we  could  reduce  the  difference  in  value 
+between a firm as a going concern versus the same firm in liquidation we could reduce the 
+severity of the cascade effect when financial conditions deteriorate.  
+Sixth, we could make  structural changes to the financial system to  make it more stable in 
+terms of liquidity provision. For example, consider the three structural issues outlined earlier 
+that  amplified  the  crisis  –  tri-party  repo,  collateral  requirements  tied  to  credit  ratings,  and 
+haircut  spirals.  In  the  case  of  tri-party  repo,  the  amplifying  dynamics  could  be  reduced  by 
+enforcing standards that limited the scope of eligible collateral or required more conservative 
+haircuts. Formal loss-sharing arrangements among tri-party repo borrowers, investors, and 
+clearing banks might reduce or eliminate any advantage that might stem from running early. 
+Eliminating  the  market’s  reliance  on  intraday  credit  provided  by  clearing  banks  could 
+eliminate the tension between the interests of clearing banks and investors when a dealer 
+becomes  troubled.  In  the  case  of  collateral  requirements,  collateral  haircuts  could  be 
+required to be independent of ratings.  
+Many of these suggestions are already in the process of being implemented. For example, 
+the Basel Committee is in the process of strengthening bank capital in four ways: 1) higher 
+capital requirements; 2) higher quality capital; 3) more complete risk capture; and 4) capital 
+conservation  measures,  including  the  use  of  contingent  capital  instruments.  With  greater 
+capital buffers, the risk of liquidity runs should be reduced going forward. It should be noted, 
+however,  that  use  of  contingent  capital  instruments,  or  any  other  potential  changes  to  our 
+current capital regime, does not obviate the need for an improved resolution process. 
+Second,  the  Basel  Committee  is  moving  forward  with  its  work  in  establishing  liquidity 
+standards for large, complex financial institutions. These liquidity standards would consist of 
+two parts. First, there would be a liquidity buffer made up of high-quality liquid assets that 
+would be of sufficient size so that the firm could manage a stress event caused by a short-
+term  loss  of  investor  confidence.  Second,  there  would  be  rules  concerning  the  degree  of 
+                                                 
+7   Supervision could also be brought to bear to limit the tendency for firms to reduce their capital and liquidity 
+when provided with a credible liquidity backstop. 
+BIS Review 143/2009 
+ 7
+allowable maturity transformation. Long-term illiquid assets would have to be largely funded 
+by equity and longer-term borrowing, not by short-term borrowing, such as tri-party repo. 
+Third,  the  Federal  Reserve  is  working  with  a  broad  range  of  private  sector  participants, 
+including  dealers,  clearing  banks,  and  tri-party  repo  investors  to  eliminate  the  structural 
+instability of the tri-party repo system so that tri-party borrowers are less vulnerable to runs. 
+Exactly  how  the  mechanics  of  the  tri-party  repo  system  will  be  adjusted  is  still  a  work  in 
+process.8  
+Fourth,  the  major  U.S.  securities  dealers  are  now  subject  to  supervision  by  the  Federal 
+Reserve under the Bank Holding Company Act. This means that their liquidity funding needs 
+are subject to supervisory oversight, including stress tests, to ensure that the firms can meet 
+large funding drains.  
+Liquidity risk will never be eliminated, nor should it. The preferences of borrowers to borrow 
+long and of lenders to lend short means that the maturity transformation process generates 
+real  benefits.  However,  we  can  do  better  to  make  our  system  less  prone  to  the  types  of 
+liquidity runs that we have experienced. If we remain committed to implementing the reforms 
+that are already underway, I am confident that we can dramatically reduce the risks of the 
+type of liquidity crises that we experienced all too recently.  
+Thank you for your kind attention. I would be happy to take a few questions. 
+ 
+                                                  
+8   Work is also underway to shift the settlement of OTC derivative trades to central counterparties (CCPs). This 
+is  important  because  CCPs  reduce  risk  exposures  by  netting  out  the  offsetting  exposures  among  the  CCP 
+participants.  Also,  because  the  counterparty  risks  move  to  the  CCP  rather  than  staying  with  the  individual 
+dealers, the incentive to novate - move trades away from troubled dealers - is reduced. 
+8 
+ BIS Review 143/2009
+ BIS Review 143/2009 
+ 9

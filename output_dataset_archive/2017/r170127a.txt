@@ -1,0 +1,223 @@
+Yves  Mersch:  Ructions  in  the  repo  market  -  monetary  easing  or
+regulatory squeezing?
+Speech by Mr Yves Mersch, Member of the Executive Board of the European Central Bank, at
+the  GFF  (Deutsche  Börse  Group  Global  Funding  and  Financing)  summit,  Luxembourg,  26
+January 2017.
+Introduction
+ There is no doubt that European repo markets today are operating in unprecedented territory. In
+the past year we have faced the extraordinary situation of collateralised transactions taking place
+well  below  the  ECB’s  deposit  rate,  and  not  just  for  the  highest-rated  issuers.  There  are
+increasing signs that this is indicative of market stress.
+Though market depth remains relatively stable and the bid offer spreads are not a major liquidity
+restriction,  the  decreased  average  ticket  size  seems  reflective  of  collateral  scarcity  in  some
+market segments.
+If one looks at the distribution of trades taking place by rates towards the end of last year, while
+German collateral usually traded at around –70 bps, it traded at –4.88% at year-end, reflecting
+increased demand for “special” German bonds (while overall turnover declined about 50%). In a
+“special” the repo contract specifies a particular bond to be exchanged for cash, rather than the
+specification of a broad collateral class such as ‘German government bond’. As a result, specials
+tend to trade at lower interest rates.
+The volume of trades conducted at special rates also increased in other markets, pushing the
+distribution  of  rates  lower. Average  French  collateral  rates  have  moved  from  –45  bps  before
+summer 2016 to below –60 bps before Christmas. Spain is trading between –45 bps and –50
+bps. Italy is now trading below –40 bps . And for Austria, Belgium and The Netherlands, rates
+have been moving downwards as well.
+1
+One could say that whereas in the past the repo market was largely characterised by “collateral
+chasing  cash”,  today  the  main  dynamic  in  some  markets  appears  to  be  “cash  chasing
+collateral”. The evolution of repo rates for different collateral classes over reporting dates suggest
+that  the  old  pattern  still  exists  in  parallel  with  the  new. As  I  will  argue  below,  this  observation
+provides a key to understanding the roots of these developments.
+New dynamics in the short term funding markets unsurprisingly lead to debate in the financial
+industry. There are concerns about short-term borrowing costs swinging sharply at the end of
+reporting periods, creating volatility and potentially spilling over into government bond markets –
+an effect we have indeed seen for core general collateral (GC) collateral. And some observers
+fear collateral scarcity might herald more general disruptions to the “plumbing” of the financial
+system,  which  would  be  especially  problematic  given  ongoing  structural  changes  in  financial
+intermediation. Activity  is  after  all  shifting  increasingly  from  banks  to  non-banks,  and  market-
+based finance is, by and large, organised around collateralised lending.
+Perhaps inevitably, some point the finger at monetary policy, and in particular at the side-effects
+of  the  ECB’s  asset  purchase  programme.  The  substantial  creation  of  liquidity  by  the APP  is
+argued to have pushed  unsecured  lending  rates  to  the  deposit  floor,  causing  secured  lending
+rates to fall even lower. At the same time, the APP is said to have withdrawn increasing volumes
+of  high-quality  liquid  collateral  from  the  market,  exacerbating  pricing  tensions,  especially  for
+special bonds.
+ 1 / 5
+BIS central bankers' speeches
+While monetary policy may, in some circumstances, exacerbate repo market tensions, I believe
+it to be far from the only factor at play today, or indeed the most important one. The situation in
+the repo market today in fact reflects a confluence of longer-term trends that have affected both
+the supply and demand for good collateral. I will review some of these trends in a moment.
+Before doing so, I would like to recall an important point. Our mandate is clear: to deliver price
+stability. This is our primary objective and the sole orientation for our policy. What we aim to do is
+to act in a way that is necessary, proportionate and that limits side-effects. This is why we have
+designed our programmes in such a way as to deliver our objective without creating excessive
+distortions in market functioning and price discovery. And it is also why we have taken measures
+to mitigate some effects of our measures on repo markets. These measure, too, are governed
+by the principle that they must be necessary and proportionate, as well as not being in conflict
+with our price stability mandate.
+Contributing factors to the current situation in repo market
+Let me now review some medium to long-term trends contributing to the current situation in the
+repo market, affecting both the supply and demand of collateral.
+It should first be noted that the repo market has seen a reduction in its role for funding, also due
+to the excess liquidity injected and the securities absorption implied by APP.
+On the supply side, the availability of high-quality collateral is inevitably pro-cyclical. From a pure
+economic view point, the financial crisis, its length, rising debt levels and rating downgrades to
+sovereigns  reduced  the  amount  of  available  assets  that  are  considered  ‘safe’,  particularly  for
+non-banks (although regulators treat all sovereigns as risk-free). This is most easily visible in the
+current clustering of GC collateral rates by country of issuer, which was largely absent prior to
+the crisis.
+On  the  demand  side,  the  evolution  of  prudential  regulation  has  affected  the  repo  market.  A
+number of features, which have in principle been known since the reform of Basel III in 2010, are
+still being phased in and directly affect banks’ participation in the repo markets, particularly the
+liquidity  coverage  ratio  (LCR)  and  the  net  stable  funding  ratio  (NSFR). A  third  measure  –  the
+leverage  ratio  –  is  now  subject  to  reporting  requirements,  but  there  is  not  as  yet  an  agreed
+international regulatory standard.
+The  LCR  requires  banks  to  hold  sufficient  high-quality  liquid  assets  (HQLA)  to  cover
+projected net cash outflows. It started being phased in at the start of 2015 and reaches full
+application  by  2018.  The  LCR  consequently  makes  short-term  funding  less  attractive  to
+banks and holding HQLA more attractive. The requirement to meet this ratio is likely to be a
+contributory factor in market volatility around reporting dates.
+The NSFR is designed to reduce bank reliance on short-term wholesale funding relative to
+more stable sources of funding. It penalises short-term funding, including repos of shorter
+maturity  than  one  year,  particularly  those  under  six  months.  The  NSFR  also  penalises
+matched book transactions, since  the  negative  impact  of  the  reverse  repo  leg  more  than
+offsets the positive impact of the repo leg. Overall, the impact from the NSFR on short-term
+repo is reckoned to be lower supply, reducing volumes and increasing the price.
+The leverage ratio, which has been implemented in the United States for some time, is a
+deliberately  simplified  way  to  assess  banks’  riskiness.  Traditional  bank  capital  ratios  are
+calculated  as  capital  over  risk-weighted  assets.  The 
+is  calculated
+approximately as capital over total assets, with no attempt to employ risk weights.
+leverage  ratio 
+This  is  important  for  the  repo  market  because  sovereign  bonds  typically  attract  a  zero  risk
+weight. As such, carrying out repo as a large volume, low margin activity is threatened by the
+leverage  ratio. Although  the  exact  parameters  of  the  leverage  ratio  regulations  have  not  been
+ 2 / 5
+BIS central bankers' speeches
+finalised, euro area banks are required to report leverage ratios. Given the higher relative penalty
+given to holding sovereign bonds under the leverage ratio as opposed to the capital ratio, it is
+expected to increase the cost of banks’ repo, and reduce incentives for money market arbitrage
+2
+and market making.
+Reduced incentives for arbitrage and market making in turn affect market liquidity and can lead to
+greater  periods  of  uncertainty.  Furthermore,  since  European  banks  are  required  to  report
+average month-end positions, there are increasing signs of market stress at month-end dates.
+The leverage ratio contains provisions for netting of offsetting cash positions when they are with
+the  same  counterparty  and  settled  through  the  same  system.  This  has  resulted  in  a  much
+greater use of central counterparties (CCPs). The use of CCPs has been strongly supported by
+authorities and brings benefits in terms of smooth market functioning, as well as for individual
+institutions.  Eurosystem  contacts  report  a  wide  difference  in  the  pricing  of  trades  cleared
+bilaterally and those cleared through CCPs – sometimes in the tens of basis points.
+CCPs,  however,  are  also  important  for  repo  markets  for  a  different  reason.  The  increased
+volume of derivative trades centrally cleared at CCPs due to new regulations such as EMIR, as
+well as sporadic bouts of volatility, means that those institutions tend to hold significant quantities
+of cash. Placing that cash as unsecured deposits would represent wrong-way risk for CCPs as
+the  collapse  of  a  significant  financial  institution  would  create  significant  market  volatility  at  the
+same  time  as  potentially  the  loss  of  some  of  the  unsecured  deposits.  CCPs  are  therefore
+increasingly large participants in the repo markets.
+The  requirements  for  trades  to  be  centrally  cleared  are  still  being  introduced,  so  the  demand
+from market infrastructure to exchange cash for collateral will rise.
+The rise in importance of CCPs is indicative of the generally increasing role played by non-bank
+financial institutions in recent years. Since these institutions do not hold accounts at the central
+bank, they are unable to access the deposit facility. The demand from these non-banks to find a
+secure  place  to  deposit  cash  is  a  contributory  factor  to  repo  rates  trading  below  the
+Eurosystem’s Deposit Facility Rate (DFR).
+Last  but  not  least,  changes  in  the  interbank  lending  market  have  led  to  increased  collateral
+demand.  In  the  period  since  the  onset  of  the  crisis,  loan  losses  and  weak  profitability  have
+constrained the availability of capital for banks. Unsurprisingly, there has been a marked trend in
+interbank  markets  away  from  unsecured  towards  secured  lending  in  order  to  achieve  more
+favourable risk weights for interbank lending.
+I would also like to acknowledge at this point the role of the Eurosystem’s monetary policy in
+shifting the balance of the repo market. Since the onset of the crisis, the ECB has undertaken a
+number of necessary and proportionate measures to ensure the efficacy of monetary policy. The
+first measure relevant here was introduced to repair the transmission mechanism, which had
+become impaired and threatened the singleness of monetary policy within the euro area.
+Prior  to  the  crisis,  internal  trade  imbalances  in  the  euro  area  had  been  primarily  financed  via
+transactions between country banking sectors. Following the onset of the crisis, the interbank
+market became fragmented, with a marked reduction in cross-border transactions. It became
+increasingly clear to the ECB that this impairment in the interbank market interrupted the even
+transmission of monetary policy across the euro area. The ECB responded by introducing full
+allotment – we provided as much liquidity as the market required at our main refinancing rate. By
+statute we only lend against good collateral and so more lending by us means more demand for
+collateral.
+The other important monetary policy measure with regards the functioning of the repo markets is
+the asset purchase programme (APP), and in particular the public sector purchase programme
+ 3 / 5
+BIS central bankers' speeches
+(PSPP). It is worth recognising firstly that although the APP has led to a shrinking pool of liquid
+securities,  it  has  also  resulted  in  a  net  increase  in  liquid  assets  through  bank  reserves  in
+exchange of inter alia non-HQLA marketable securities.
+But the APP has clearly reduced the available pool of L1 securities for other investors. To the
+extent that non-banks seek to maintain their holdings of government securities, this is likely to
+cause additional pressure on the repo market.
+These monetary policy measures carried out by the Eurosystem have been necessary to ensure
+the continued orderly transmission of monetary policy throughout the euro area and to provide
+sufficient  stimulus  to  bring  inflation  back  to  our  objective.  They  have  also  been  proportionate
+solutions to the scale of the problems they seek to solve.
+The  ECB  is  aware  of  –  and  closely  monitors  –  the  potential  impact  of  its  monetary  policy
+measures on market functioning. Indeed, as I mentioned earlier, full allotment was put in place
+precisely because the market wasn’t functioning. But in assessing the impact of its policies, the
+ECB  must  have  first  regard  to  its  primary  objective  of  price  stability.  Under  our  mandate,
+considerations of the robustness of the financial system and market functioning are only relevant
+once we have fulfilled that primary objective.
+Nonetheless, in designing the APP programme, the ECB has implemented a number of features
+designed to minimise the impact on market functioning. The hard legal constraints on issue and
+issuer  limits  reduce  the  influence  the APP  has  on  particular  bonds.  Our  recent  widening  of
+eligible maturities and removal of the DFR floor permit purchases to be spread more widely and
+reduce pressure on specials. We have also put in place a number of securities lending facilities.
+Recent  moves  to  improve  these  facilities,  including  the  use  of  cash  collateral,  have  been
+3
+received positively by market participants.
+Future direction for the repo market
+Having described the longer-term trends driving current conditions in the repo market, I would like
+to spend the rest of my speech today discussing prospects for the future.
+I would argue that the supply of safe assets will increase again over time. As I mentioned earlier,
+the volume of safe assets is pro-cyclical. The economic recovery underway in the euro area will
+strengthen government finances. Furthermore, once inflation is sustainably back to our objective,
+monetary policy will normalise, reducing any additional strain our unconventional measures may
+be placing on repo markets today.
+The  LCR  and  NSFR  are  relatively  new  as  regulations,  and  the  exact  future  form  of  leverage
+ratios is still not finalised. European banks are currently somewhat less advanced than their US
+counterparts in re-optimising their business models in the face of these regulations. Yet already
+Eurosystem contacts tell us that repo desks are being reorganised and integrated more tightly
+into banks’ overall decisions on balance sheet and liquidity usage. Certainly a range of potential
+tools exist, from tri-party repo, to trade compression, intra-day margining and so forth.
+Regulation may also encourage a greater use of unsecured lending. With a potentially binding
+leverage ratio, banks may shift their balance sheets towards more risk-weighted assets, trading
+off capital encumbrance against balance sheet encumbrance. Such a shift would reverse the
+current  trend  towards  more  secured  lending  in  the  interbank  market.  Furthermore,  as  the
+economic  recovery  continues,  bank  profitability  will  increase,  bolstering  equity.  With  less
+constrained  equity,  conditions  will  become  more  favourable  for  a  return  to  more  unsecured
+lending.
+ 4 / 5
+BIS central bankers' speeches
+Conclusion
+Let me conclude.
+Banks and other market participants report a decrease in market making activities and collateral
+scarcity  in  repo-markets.  The  perception  of  a  challenging  environment  can  therefore  not  be
+denied.
+Pro-cyclical  market  reactions  during  and  after  the  financial  crisis  and  –  related  –  changes  in
+banking  regulation  clearly  had  an  impact  on  the  functioning  of  the  repo  markets.  But  with  the
+continued economic recovery market stress should fade and conditions for unsecured lending
+might re-gain some attractiveness. Likewise, market players will adjust their business models
+over time amid a new regulatory environment.
+Regarding the ECB’s asset purchase program, two important points have to be made:
+1.  Although  the APP  might  have  some  negative  side  effects  on  the  functioning  of  the  repo
+market  as  compared  to  the  pre-crisis  levels,  other  more  potent  factors  were  at  work.  To
+reduce spill-over effects the ECB has also introduced several mitigation measures.
+2.  Even more important: the ECB has one mandate, which is to ensure price stability. Elevated
+risks to its goal have made unconventional measures necessary on an unpreceded scale
+and on a temporary basis. And they prove successful. Although we try to minimise negative
+side effects, any of these considerations are without prejudice to the obligation to honour our
+mandate.
+3. 
+1
+2
+3
+Rates based on RepoFunds Germany, France, Italy and Spain.
+CGFS  (2015),  ‘Regulatory  change  and  monetary  policy’,  CGFS  Papers  No.  54,  Committee  on  the  Global
+Financial System, Bank for International Settlements.
+ICMA (2017), Regulatory Policy Newsletter, January.
+ 5 / 5
+BIS central bankers' speeches

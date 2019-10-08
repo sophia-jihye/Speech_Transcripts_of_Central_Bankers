@@ -1,0 +1,702 @@
+    
+ 
+The history and future of QE 
+ 
+Speech given by 
+Ben Broadbent, Deputy Governor Monetary Policy 
+   Society of Professional Economists, London  
+23 July 2018 
+  I have benefitted from helpful comments from my colleagues at the Bank of England.  I would 
+particularly like to thank Mette E. Nielsen for valuable research assistance.  The views expressed are 
+my own and do not necessarily reflect those of the Bank of England or other members of the Monetary 
+Policy Committee. 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+1 
+   Hello, and thank you for inviting me today.   
+ 
+In 2002, the University of Chicago held a 90th birthday party for the great American economist  
+Milton Friedman.  One important guest was Anna Schwartz, who four decades earlier had co-written with 
+Friedman the landmark book A Monetary History of the United States.   
+ It’s possible that, even among those of you prepared to give up a pleasant July evening to come to a talk by 
+a central bank official, an 800-page tome entitled “A monetary history of [anywhere]” won’t have found its 
+way to the very top of your holiday reading list.   
+ But it’s actually a gripping read, especially the chapter about the Great Depression.  It also has a claim as 
+the most influential piece of economic history ever written.  The book pioneered a new “narrative” approach 
+to identifying independent changes in monetary policy – the idea being that, to separate these from the more 
+automatic (“endogenous”) reactions of policymakers to the economy you needed to scour the historic record 
+and understand how their decisions were actually taken.1 
+ It changed economists’ perceptions of the role of monetary forces, including monetary policy, in economic 
+fluctuations.  For example, it helped to establish the view that the effects of monetary policy on real variables 
+– real national income or its distribution, for example – are in the long run negligibly small.  You cannot 
+permanently enrich a country, or raise real wages, simply by easing monetary policy and engineering some 
+inflation. 
+ Equally, the book argued that policy can have very powerful effects at shorter, cyclical horizons.  In 
+particular, it claimed that the Great Depression could have been averted had the US Federal Reserve not 
+over-tightened policy in the late 1920s and if had it acted more precipitously to loosen it once the downturn 
+began.  The appropriate measures would have included an earlier abandonment of the gold standard.  They 
+would also have involved “large-scale open-market purchases”, designed to contain the rise in private-sector 
+bond yields and supply reserves to the banking system.  We have a new name for this – we now call it 
+“Quantitative Easing” – but the policy itself is not new.   
+ The book therefore had a profound influence on monetary policy makers everywhere, but especially those in 
+the United States.  One other guest at Friedman’s birthday party, himself an expert on the Great Depression, 
+was the then Fed Governor Ben Bernanke.  Paying tribute, he said this2:  “I first read A Monetary History of 
+the United States early in my graduate school years at M.I.T.  I was hooked, and I have been a student of 
+monetary economics and economic history ever since… I would like to say to Milton and Anna:  Regarding 
+the Great Depression.  You’re right, we did it.  We’re very sorry.  But thanks to you, we won’t do it again”.   
+                                                       
+1 See also Romer and Romer (1989). 
+2 Bernanke (2002).   
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+2 
+ 
+2 
+  Only a few years later, as Fed Chair, he was compelled to put his words into action.  Nor was it just the Fed 
+who responded in this way.  One after the other, in the aftermath of the financial crisis, central banks in 
+developed countries slashed interest rates, extended collateralised loans to banks and purchased significant 
+quantities of government bonds, expanding their balance sheets many times over.   
+ Today I want to take a brief look at what QE has done.  I also want to add some colour to what the MPC has 
+recently said about its approach to unwinding the policy, drawing in part on the experience of the US Fed.   
+ What did QE do?  
+ Despite the title of the book, Friedman and Schwartz didn’t document 100 years of the past for the sake of 
+historical interest alone.  They wanted to understand the effects of monetary policy.   
+ Getting at these is harder than you might think, because empirical economists can’t do experiments.  In a 
+laboratory, a scientist interested in the effects of one thing on another – call them X and Y – can usually do 
+two important things.  He or she can “control” for – in other words hold constant – everything else that might 
+also affect Y.  This allows one to isolate the study purely to what X does.  It’s also possible3 to move the 
+“independent variable” X around at will, observing directly what it does to the “dependent variable” Y.   
+ Empirical economists can’t do either of these things.  Changes in policy are one of only many influences on 
+the economy and it’s not as if we can just switch these other things off.  The best we can do is use large 
+samples of data, coupled with various statistical methods, in an effort to even them out.  And even if we 
+could somehow freeze the rest of the world it would never be possible (or morally justifiable) then to 
+experiment on it by arbitrarily putting up interest rates.  The economy isn’t a lab rat.  What instead tends to 
+happen, in the real world, is that policy reacts to events at least as much as it causes them.  And it’s this 
+relationship – from the economy to policy, rather than the other way around – that dominates the data.4 
+Friedman and Schwartz’s study – the “narrative” method – was an effort to identify the rare occasions when 
+this was not the case.  They were trying to uncover natural experiments.5     
+                                                      
+3 Scientists don’t always have this luxury.  In drug trials, for example, doctors cannot control for every other influence on health.  In 
+judging the impact of lifestyle choices, doctors are in the same position as econometricians:  they can’t control for other influences, nor 
+can they independently change the “X” variable (which is why care is needed in interpreting such studies – see e.g. Ioannidis (2013)).    
+4 For example, interest rates tend to go up when the economy is strong, and inflationary pressure is growing, and down when it’s weak.  
+But one shouldn’t conclude from this correlation that low interest rates cause weak growth.  In fact, the effects run the other way:  it’s 
+precisely when the economy is weak that you need the support of easier monetary policy (as my colleague Jan Vlieghe put it more 
+succinctly, “umbrellas don’t cause rain” (Vlieghe (2016a)). 
+5 In the particular case of the Great Depression, the “natural experiment” was the conflict between the New York Fed, which argued 
+continually for easier policy, and other banks in the Federal Reserve System, including the Board in Washington, that were opposed to 
+it.  It was the others – the reserve banks of the “interior” – that won.  The British economist Roy Harrod, in his review of A Monetary 
+History in 1964, relayed an anecdote that shed some light on those arguments.  It also made plain that QE was under active 
+consideration at the time, at least by some:  “The authors hold that, if the New York Bank could have retained the position of leadership 
+that it had in the preceding period, all might have been managed much better, and special praise is given to its two experts, Carl Snyder 
+and Randolph Burgess.  Perhaps this reviewer may be forgiven for yielding to the strong temptation to introduce a personal note at this 
+point.  I had luncheon with Mr Snyder and Mr Burgess in the Federal Reserve Bank of New York in the late summer of 1930.  I came 
+briefed with statistics and arguments…  With the utmost of my youthful powers I pleaded with them that they should purchase $1 billion 
+worth of US government securities right away.  I argued that, if they did not do this, the US economy would infallibly sink down to lower 
+levels, and that the great slump, which was then proceeding throughout the world, would assume unmanageable dimensions and cause 
+wide-spread havoc and political disturbance.  I do not recall if those two experts accepted my figure of $1 billion…  But on the general 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+3 
+ 
+3 
+  If these challenges exist for conventional monetary policy they surely apply at least as much to QE.  Our 
+experience is more limited, the data sample therefore smaller.  And the policy was very clearly a response to 
+other events, in this case the powerful contractionary forces unleashed by the banking crisis.  This has hardly 
+been a randomised trial.   
+ So you cannot conclude from the fact of the recession of 2008-09, or the weak growth that followed, that QE 
+was of no help.  Alarmingly, things might have been that much worse without it.  They certainly were in the 
+Great Depression.  Within three years of the Wall Street crash, the yield on US corporate bonds had risen to 
+over 11%, even as the economy was collapsing;  thousands of US banks failed, taking a third of deposits 
+with them;  industrial production halved and unemployment rose by over 20% points (Charts 1a-d compare 
+these things with the UK’s experience in the last crisis, with the dashed vertical line drawn at the date of the 
+inception of QE).   
+ 
+Equally, there were many other differences between the last financial crisis and the Great Depression, so we 
+can’t on the face of it give QE all the credit for having avoided that fate.  There was no deposit insurance 
+during the early 1930s, something that surely contributed to the widespread runs on banks and their 
+subsequent failure.  In 2008-09, as well as conducting QE, central banks cut interest rates close to zero and 
+engaged in direct collateralised lending to the banking system.  Governments also provided support to the 
+banking system, via equity bailouts and lending schemes of their own.  They also eased fiscal policy more 
+aggressively and managed to avoid the protectionist measures that had exacerbated the Great Depression.  
+To a greater or lesser extent all these things must have helped.    
+ So what can we say about the specific contribution of QE?  We may not be able to employ their “narrative” 
+method, nor is our experience of QE as extensive as for more conventional monetary policy.  But we do have 
+some advantages over Friedman and Schwartz.  We have more data than they did, including a lot of  
+high-frequency information on the behaviour of financial markets.  This allows us to see the reaction of asset 
+prices to QE announcements over short periods of time, cutting down on extraneous influences.  We also 
+have more advanced statistical techniques, helping to refine the estimates of the effects on economic 
+activity. 
+ I won’t go into all this work in any great detail.  (For that you can read a very good and comprehensive 
+survey by Andy Haldane and other Bank economists,6 and the references therein.)  Let me just try and 
+summarise what it says:  
+   
+Charts 1a-d: Things might have been worse  
+                                                                                                                                                                                
+issue I found that they were in complete agreement with me.  They spoke very frankly about the shift of power within the System.  They 
+earnestly wanted to pursue a policy of this kind, but could not do so without persuading the Banks of the “interior” and they had so far 
+been unable to persuade them.“ (Harrod (1964)).   
+6 Haldane et al (2016).   
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+4 
+ 
+4 
+   
+Chart 1.a:  Corporate bond yields 
+ 
+Chart 1.b:  Deposits 
+Chart 1.c:  Industrial production 
+  
+Chart 1.d:  Unemployment 
+ 
+Sources:  Bank of England;  ICE BoAML;  National Bureau of Economic Research and Board of Governors of the Federal Reserve 
+System, retrieved from FRED, Federal Reserve Bank of St Louis;  ONS;  and Bank calculations.   
+Stalks indicate March 2009.  For Chart 1b, US data on deposits are seasonally adjusted while UK data are not.   
+ 
+ 
+First, and all else equal, asset purchases do seem to have had a significant impact on economic activity.  
+    Some studies get at that effect using existing estimates of the sensitivity of GDP to bond yields and 
+combining those with the impact of QE announcements on those yields.  Others estimate the impact on bond 
+markets and activity jointly.   
+ There is some suggestion in Haldane et al (2016) that the early phases of asset purchases had more 
+powerful effects, and it’s clear that the biggest daily moves in bond yields occurred after the very first QE 
+announcements in early 2009 (Chart 27).  But on average, and whichever method one uses, there does 
+                                                      
+7 The impact of subsequent rounds was bound to be smaller on the day because markets had come to expect them in advance.  Even 
+allowing for that however – Chart 2 plots moves in gilt yields against the surprise in asset purchases, derived from survey measures at 
+the time – the early-2009 moves still look a bit larger than the others.  Note that the impact of the asset purchases in August 2016 
+(“QE4”) is drawn as a spread rather than a dot.  That’s because the MPC purchased corporate as well as government debt.  If you view 
+the two as reasonably close substitutes, you should count the combined purchases as the size of the decision, not just those of gilts 
+(£70bn versus £60bn).  The same issue arises later when considering the impact of QE in the United States.   
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+5 
+ 
+5 
+  seem to have been a significant effect on demand.  The central estimate in Weale and Wieladek (2016), for 
+example, is that purchases worth 1% of GDP boost UK GDP by around 0.25%.    
+ Second, if the effect on long-term bond yields is clear, the impact on share prices is harder to detect.  On 
+some days after QE announcements equity prices went up – the largest rise happened to be after the 
+extension of asset purchases in October 2011, when gilt yields actually went up – but on others they fell.  
+That doesn’t prove there was no impact.  By their nature, prices of risky assets are more volatile.  Such was 
+the flow of negative news about the economy and corporate profits in 2009, even from day to day, that equity 
+markets often weakened even as bond markets strengthened.   
+ Chart 2:  QE1 had the largest impact on yields 
+ 
+Chart 3:  The impact on share prices is harder to 
+detect 
+Sources:  Bloomberg Finance L.P., Tradeweb, Reuters Poll, and 
+Bank calculations.  The reaction is for 5-25 year gilts.  The chart is 
+based on figure 10 in Haldane et al (2016).   
+ 
+ Sources:  Thomson Reuters Datastream, Reuters Poll, and Bank 
+calculations.  The share price reaction is for UK-focused equities.   
+ But it should be borne in mind when reading – as one often does – that QE has done little except boosted 
+prices of assets like shares and houses, or even led to a “boom” or “bubble” in those markets.  It’s also worth 
+looking at Charts 4 and 5.  Chart 4 plots average annual growth of UK house prices over rolling 10-year 
+periods.  The latest figure is 2%.  That’s less than household income growth over the past decade.  It’s also 
+close to lowest rate of growth over any ten-year period since the period following the Second World War. The 
+peak rate of 18% a year was during the 1970s.   
+ The general level of inflation was also very high at that time:  every price was going up rapidly.  It’s therefore 
+more informative to look at asset prices in real terms (i.e. relative to consumer prices).  The level of real 
+house prices is plotted in blue in Chart 5.  As you can see, they went up extremely rapidly between 1996 and 
+2004.  But the latest figure is barely any higher than it was in the middle of the last decade.  As for shares, 
+real equity prices of UK-facing companies (in red) are still 30% lower than immediately before the financial 
+crisis (and almost as far below the earlier peak in the late 1990s).   
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+6 
+ 
+6 
+  Chart 4:  House prices haven’t risen much over 
+the past 10 years 
+Chart 5:  Real equity prices well below pre-crisis 
+levels 
+Sources:  Nationwide and Bank calculations.   
+ Sources: Nationwide, ONS, Thomson Reuters Datastream, and 
+Bank calculations.   
+ Chart 6:  Real equity prices and de-trended GDP 
+  As I say, we can’t conclude from all this that QE 
+had no impact at all on these prices, even at the 
+margin.  Given its effects on longer-term interest 
+rates, and on economic activity, it probably did.  
+But their apparent lack of response does at least 
+demonstrate that the policy had quite a bit to fight 
+against.  To the extent there was such an effect, it 
+would be more accurate to say QE helped to 
+prevent these prices from falling further, rather 
+than that it fuelled any sort of “boom”.   
+  Sources:  ONS, Thomson Reuters Datastream, and Bank 
+calculations.  Output de-trended using a HP filter.    
+ 
+You can tell the same story about QE and the 
+wider economy.  All else equal, the policy 
+supported demand, activity and employment.  But that support was being provided in the face of significant 
+contractionary forces, arising from both the first phase of the financial crisis and then its unwelcome 
+offspring, the euro area crisis of 2010-12.  You can see from Chart 6 that it wasn’t until confidence in the 
+single currency was restored in mid-20128, and a more sustained economic recovery began in the UK (the 
+green line is de-trended GDP9), that these asset prices also recovered.10   
+                                                      
+8 I’ve argued before that one of the critical precursors to that recovery was Mario Draghi’s pledge in the summer of 2012, supported 
+soon after by political leaders in the euro area, to “do whatever it takes” to preserve the integrity of the single currency.  In conjunction 
+with our own Funding for Lending Scheme, this led to a sharp fall in funding costs, particularly for banks, and soon after a resumption in 
+the supply of credit to the domestic economy (Broadbent (2014)).   
+9 The green line is purely a statistical construct (HP-filtered GDP) and, because potential output growth is also stochastic, it won’t 
+necessarily be the same as the “output gap”.  In particular, the decline in the past few years is likely to reflect slower growth of supply 
+rather than a rise in the degree of spare capacity.   
+10 A related criticism of QE is that, because it pushed up prices of assets, it also increased inequality.  But real asset prices haven’t gone 
+up over the past decade, as we’ve seen, nor has inequality, either of wealth or of income.  Furthermore, even though QE probably 
+raised asset prices at the margin (all else equal), the effect on inequality was offset by the support to real activity and employment.  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+7 
+ 
+7 
+  Why the impact of QE might be changeable 
+ Estimates of how QE has affected the economy often assume the effect is invariant:  so many pounds of QE 
+means such-and-such an impact on GDP, no matter what else is going on.  Yet our experience so far 
+suggests the effect may not be fixed.  In particular, it seems to have been larger when QE was first launched 
+than in subsequent rounds.  If that can only be a tentative conclusion from the UK experience what’s 
+happened more recently in the US is surely more striking.   
+ As you know, the Fed has now started 
+to reduce its asset holdings:  it has 
+embarked on what you might call “QT” 
+(T for tightening).   
+ Given the sizeable impact of QE1, 
+including in the US, you might have 
+expected this to result in a material rise 
+in bond yields, especially at a time 
+when the US government is also 
+starting to sell more debt.  The first 
+column in Chart 7 gives you some idea 
+of the predicted effect on this basis.  It 
+takes the median projection for the 
+Chart 7:  US QT has done little to US bond yields 
+Sources:  Bloomberg Finance L.P, BEA, Federal Reserve Bank of New York 
+(2017), academic studies and Bank calculations.  See footnotes 11 and 12 for 
+further details.   
+ decline in the size of its balance sheet over the next three years (as calculated by the New York Fed).  It then 
+multiplies that by the estimated response of Treasury yields, per dollar of purchases, in the first phase of 
+QE.11 
+In the event, things have turned out rather differently.  Despite the various QT announcements in the first 
+nine months of last year (and despite rising short rates and easier fiscal policy) yields actually fell over that 
+period (the right-hand bar).  That, of course, might be due to any number of other influences.  But even if you 
+focus on the particular points at which the policy was communicated12 (the middle bar) there was essentially 
+no reaction in the government bond market.   
+                                                                                                                                                                                
+That’s because cyclical rises in unemployment, which would have been much larger in the absence of QE, are larger at the lower end of 
+the wage distribution.  Taking both into account, the central estimates in a recent study by Bank economists are that QE itself actually 
+had essentially zero (actually marginally negative) net impacts on the inequality of wealth and income (Bunn, Pugh and Yeates (2018)).  
+I include some exhibits illustrating these points at the back of this talk.  See also Broadbent (2016) and Carney (2016).  Economists at 
+the ECB and Princeton University recently reached a similar conclusion (Ampudia et al (2018)).   
+11 The balance sheet projections are from the New York Fed (see Federal Reserve Bank of New York (2017)).  The estimated QE 
+multipliers are an average based on the following studies:  Gagnon et al (2011), Krishnamurthy and Vissing-Jorgensen (2011), D’Amico 
+and King (2013), D’Amico et al (2012), Christensen and Rudebusch (2012), Bauer and Rudebusch (2014), Neely (2015) and Chadha, 
+Turner and Zampolli (2013).  In the chart there’s a wide range for the estimated impact.  That’s because the Fed bought (government 
+guaranteed) mortgage securities as well as government bonds and the per-$ impact depends on whether or not you count both.  If you 
+view those asset classes as perfect substitutes, the quantum of QE1 would be larger and the per-$ estimated impact on bond yields 
+would be smaller.  If you thought Treasury yields had been affected only by purchases of those specific securities the estimated per-$ 
+impact would be larger, as would the predicted effect of QT.  We know the two aren’t perfect substitutes because they have different 
+yields, but they’re probably close substitutes.  The true estimate must lie somewhere in the middle of the range (and therefore within the 
+lighter-shaded part of the bar).   
+12 The impact was estimated using 30-minute decompositions around FOMC balance sheet communications.   
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+8 
+ 
+8 
+   Why might this be?  
+ One thing that might have amplified QE’s impact when it was first used was its sheer novelty value.  Once 
+markets discover the policy is feasible, perhaps the premium required for holding longer-term bonds is 
+permanently lowered, if only to a small extent.13   
+ But there are potentially more important reasons why the later rounds of QE – and in particular the early 
+stages of QT – have had smaller effects.  These are connected with the various ways in which QE actually 
+works.  To understand why, it’s worth stepping back and reminding ourselves what the mechanics of the 
+policy actually are.   
+ QE is sometimes described as “printing money”.  That can be a helpful piece of shorthand.  It can also be a 
+misleading one.  It risks giving the impression that the central bank simply hands out wads of cash, getting 
+nothing in return.14  I’ve often heard, in particular, that QE involves “giving” money to the banks. 
+ What actually happens is this (there’s a stylised depiction at the back of this speech):  the central bank buys 
+government bonds, mainly from non-banks, on the open market.  Imagine we pay for them with a cheque.  
+The seller of the gilt lodges the cheque at its own commercial bank, increasing the size of its deposit 
+holdings;  that commercial bank, in its turn, sends the cheque back to us, increasing its deposits at the 
+central bank (so-called “reserves”).  And there’s no direct effect on anyone’s net financial position.  The seller 
+of the gilt ends up with more money in its bank account but no change in its total assets.  The two banks, of 
+the commercial and central variety, end up with larger balance sheets but the rises in assets and liabilities 
+are of equal size.   
+ So perhaps a more accurate description of the process is that it replaces one liability of the consolidated 
+public sector (longer-term government bonds) with another (deposits at the central bank).  The effect is to 
+depress the average maturity of those consolidated liabilities.  And you might wonder, especially since both 
+bonds and reserves pay interest, why this should do anything at all.  Indeed, there’s a famous neutrality 
+result in finance, originally applied to corporate balance sheets, that says exactly this.  Under certain 
+conditions, when financial markets are functioning smoothly, pure financial transactions of this sort do 
+nothing.  At least in this idealised theoretical setting, it makes no difference to its overall cost of capital if a 
+firm issues interest-bearing debt and buys back its own shares.  The maturity profile of government debt 
+wouldn’t matter for bond yields.  And, viewing central bank money simply as the shortest-maturity liability that 
+the public sector can issue, nor would those yields respond to open-market operations by the central bank 
+                                                      
+13 Roughly speaking, the current price of an asset should correspond to what markets expect it to be in the future (appropriately 
+discounted).  That expectation of future prices will take into account all possible states of the world, including those in which the term 
+and liquidity premia suddenly go up.  If those are also circumstances in which the central bank might choose to buy the assets, then the 
+realisation this is possible could permanently raise their value, however unlikely those circumstances.  They might now include a QE 
+“option value”, if only a small one.   
+14 The phrase “printing money” is closer to Friedman’s “helicopter drop”, a thought experiment designed to illustrate the implications of a 
+pure increase in the supply of money.   
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+9 
+ 
+9 
+  (QE).15  This is what Ben Bernanke was getting at when he quipped that QE is something that “works in 
+practice but doesn’t work in theory”.   
+ So why does it work in practice – why has it had noticeable effects on bond yields (albeit to varying 
+degrees)?  I’m not to go into any great detail here.  There’s masses of stuff you can read – if you wish to – 
+about the various mechanisms involved.16  Economists have generally focussed on three.  The “bank 
+lending” channel emphasises the importance of banks’ liquid assets, and the potential constraints that a lack 
+of reserves can impose on their behaviour, including their appetite to lend.  The “portfolio balance” channel, 
+generally reckoned to be more important after the 2008-09 financial crisis,17 stresses the direct price effects 
+on the assets purchased by the central bank, and sets out what’s necessary for these to exist.  (What’s 
+usually required, in one form or another, is that holders of long-dated assets have “preferred habitats”, and 
+can be persuaded to move out of them – to sell those assets – only by a rise in prices.)  The third – the 
+potential “signalling” effect – says what matters is what QE says about the central bank’s intentions regarding 
+future policy, and in particular the likely path of official interest rates.   
+ The point I want to make here is that all three can change.  One might even say this is intrinsic to the effects 
+involved.   
+ The first two – the “bank lending” and “portfolio balance” channels – rely, in their different ways, on markets 
+being sufficiently imperfect that the neutrality result no longer applies.  But markets are more impaired at 
+some times than others.  Before the crisis, many financial assets were considered liquid.  They could be 
+easily traded, prices were readily quoted and investors would happily switch between them, even in 
+response to relatively small changes in their relative price.  The demand for central bank money was lower – 
+why would you need it if liquidity was easily available elsewhere? – and “preferred habitats” weaker.  In that 
+environment, shifts in the central bank’s balance sheet may not have had much effect.  It was when things 
+started to seize up, and markets became more dysfunctional, that these transactions really mattered.  With 
+fewer assets considered liquid, the demand for central bank money went up.  With preferred habitats more 
+entrenched, the effect of asset purchases on prices were larger.  You might therefore have expected QE, at 
+least through these channels, to have become more important.  Conversely, you might also expect their 
+                                                      
+15 The original result is Modigliani and Miller (1958).  The result is generalised in Stiglitz (1969).  Wallace (1981) applies it to open 
+market operations by the central bank.   
+16 See, for example, Benford et al (2009), Joyce, Tong and Woods (2011), Haldane et al (2016), Bhattarai and Neely (2016), and 
+Bernanke (2017).   
+17 If banks are constrained by a lack of liquid assets, then raising their deposits at the central bank can relax these constraints and 
+encourage an expansion of their balance sheets, including greater lending.  Though Friedman and Schwartz were more concerned 
+about the behaviour of deposits, rather than lending, this is more or less the mechanism emphasised in A Monetary History and it does 
+seem likely that these constraints were very real at the time of the Great Depression.  With no insurance of their deposit liabilities, and a 
+much greater potential for “runs”, banks felt obliged to hold much higher levels of reserves.  In monetarist language, the demand for 
+money – in particular the demand for the most secure and liquid assets of all, physical cash and central bank deposits – rose very 
+significantly.  It was the failure to meet this demand, Friedman and Schwartz argued, that so amplified the downturn.  Circumstances in 
+the recent financial crisis were rather different and it’s unlikely the “bank lending channel” was ever going to be as important as in the 
+1930s.  Statutory reserve requirements are now lower or non-existent and deposits are insured.  In 2008-09 banks were therefore 
+constrained not so much by a lack of “liquidity” as by a lack of equity:  the fear was that, after significant losses, too many of them had 
+insufficient assets, whatever their composition, to cover their interest-bearing liabilities.  That’s not to say the extra reserves supplied by 
+QE (and by direct lending to the banking system) were unimportant.  No central bank would ever have taken the risk of failing to supply 
+them, by whatever means.  But I don’t think this is how they expected the policy to work, nor does the evidence ex post show it to have 
+been that important (Butt et al (2014)).   
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+10 
+ 
+10 
+  impact to diminish once more normal market conditions are restored.  While he was on the MPC my former 
+colleague David Miles gave a very clear and more detailed explanation of this point (Miles (2014)).18   
+ As for the third, it surely makes sense that the strength of the “signalling effect” – what markets infer from QE 
+decisions about future interest rates, and the central bank’s intentions regarding its overall policy stance – 
+depends on what it communicates alongside its decision.   
+ In the early phases of QE the policy was seen as an aggressive attempt to ease monetary conditions for an 
+extended period.  Whatever else it might have done to depress the “term premium” – the extra yield required 
+by long-maturity bondholders, even above their expectations of future short-term interest rates – it also 
+lowered those rate expectations.  QE and forward interest rates were effectively used in a complementary 
+fashion, pushing in the same direction.   
+ Something similar occurred, albeit in the opposite direction, when the Fed suggested in 2013 that it might 
+reduce the pace of its asset purchases (the so-called “taper tantrum”).  This wasn’t yet QT – nor, in the 
+Congressional testimony that triggered the reaction, did Fed Chair Ben Bernanke refer directly to future 
+interest rates (“If we see continued improvement [in the economy] and we have confidence that that is going 
+to be sustained then we could, in the next few meetings, take a step down in our pace of [asset] 
+purchases”).19  But it was taken as a sign of a more hawkish stance overall:  because the Fed was getting 
+more optimistic about the economy, QE would be tapered and, the markets judged, official interest rates 
+would also begin to rise earlier than previously expected.  As a result, and although the move was reversed 
+within a few months, US bond yields also rose significantly.   
+ The communication around the Fed’s “QT” policy was rather different.  When in the early part of last year it 
+first signalled its intention to start shrinking the balance sheet later in 2017, the FOMC went out of its way to 
+say that, to the extent the policy tightened monetary conditions, official interest rates would be that much 
+lower than they otherwise would have been.  This is how Janet Yellen put it in a speech in January 2017:  
+“The downward pressure on longer-term interest rates that the Fed’s asset holdings exert is expected to 
+diminish over time -- a development that amounts to a “passive” removal of monetary policy accommodation.  
+Other things being equal, this argues for a more gradual approach to raising short-term rates”.   
+ In other words, rate rises and any tightening effect of shrinking the balance sheet should be seen as 
+substitutes.  More of the latter would mean less of the former, and the overall stance of policy – the balance 
+sheet and official interest rates taken together – would be whatever it needed to be to meet the Fed’s remit, 
+given the economic conditions prevailing at the time.  Compared with the “taper tantrum” episode this sent a 
+                                                      
+18 Vlieghe (2016b) provides evidence that, at least under more normal market conditions, the “signalling channel” is the most important 
+mechanism.   
+19 The point was emphasised again in the minutes of the FOMC’s April 30 – May 1 meeting released later that day:  “a number of 
+[FOMC] participants expressed willingness to adjust the flow of purchases downward as early as the June meeting”.   
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+11 
+ 
+11 
+  different message about the overall stance of policy and I suspect that played a part in dampening the 
+impact of QT announcements on longer-term bond yields. 
+ The MPC’s approach to unwinding QE  
+ In time the QE will also start to be unwound in the UK. The MPC set out its basic framework for this process 
+some time ago, in the November 2015 Inflation Report.  We said then that we would begin to start reducing 
+the stock of QE only once the official Bank Rate had risen some way.  This was partly because conventional 
+policy is more flexible, better suited to responding to shorter-term economic fluctuations.  It was also a 
+response to the relatively higher degree of uncertainty about the effect of changes in the stock of QE.20   
+ I’ve discussed this at some length today.  The smaller sample means estimates of the impact of 
+unconventional policy are bound to be less precise.  If that’s the case when the impact is unchangeable it 
+can only be truer still if it varies according to economic conditions.  But even in 2015, the MPC felt sufficiently 
+confident in its assessment of what changes in interest rates do – more so, in particular, than in the 
+estimated impact of changes in QE – that it said would prefer to use Bank Rate as the “marginal” or “primary” 
+instrument of policy.  That means getting Bank Rate to a level from which it could be cut (“materially”) as well 
+as raised.  The US Fed subsequently adopted a similar approach, saying that rises in official interest rates 
+should be “well under way” before the unwind process began.   
+ At the time of that initial guidance our version of “well underway” was judged to mean a Bank Rate of “around 
+2%”.  Since then we have also reduced our estimate of the effective lower bound for interest rates (thanks in 
+part to the effectiveness of the Term Funding Scheme, part of the package of measures put in place in 
+August 2016, we now think we can safely cut Bank Rate close to zero, if necessary).  So when we updated 
+the guidance this summer, in the June Monetary Policy Summary, we lowered the estimated threshold to 
+“around 1.5%”.  We don’t know exactly when that will be.  But the framework is designed to ensure that, 
+should inflationary pressures weaken after that date, the first response would be to cut interest rates. 
+ In principle, those disinflationary influences might include the process of QE unwind itself.  To that extent, 
+Bank Rate would be lower than it otherwise would have been.  That’s why we took care to add another 
+sentence to last month’s MPS:  “Decisions on Bank Rate will take into account any impact of changes in the 
+stock of purchased assets on overall monetary conditions, in order to achieve the inflation target”. 
+ In some ways this is no more than the phrase “primary instrument of policy” implies.  As long as they’re free 
+to do so, interest rates will always move around to offset things that affect inflation – in both directions, and 
+                                                      
+20 There’s an important distinction here between the effects of existing stock, such as they are, and those of future changes in the APF.  
+If the there’s material uncertainty about the impact of the existing stock, even many years after it was purchased, there’s an argument 
+for beginning the unwind that much earlier (i.e. for having a lower interest-rate threshold).  If, on the other hand, the more significant 
+uncertainty involves the potential impact of future changes, that argues for a higher threshold.  My own sense is that, because most of 
+the APF was accumulated several years ago, the second is more likely.  We have a good sense of what those earlier purchases did to 
+financial asset prices, and it’s likely that any subsequent impact on demand has also passed its peak.   
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+12 
+ 
+12 
+  wherever those influences come from.  But we were also aware of the US experience and the Fed’s careful 
+communication around QT.      
+ Summary  
+ QE has often been described as a “new-fangled” policy, something that involves “printing money” and has 
+served only to engineer large rises in the prices of financial and other assets, benefiting only the better off.   
+ Broadly speaking I don’t think any of these things is true.  It’s not new;  it’s not exactly printing money;  equity 
+and house prices are in real terms still comfortably below their pre-crisis levels;  inequality hasn’t risen – nor, 
+according to the most detailed analysis available, did easier monetary policy have any net impact on it.21  
+ To be sure, asset prices would probably have fallen further had QE and other measures not been put in 
+place in 2009.  The same goes for the economy itself.  As far as we can tell, asset purchases provided 
+significant support to aggregate demand, even if it wasn’t enough to offset fully the extended contractionary 
+effects of the crisis.  Perhaps Friedman and Schwartz over-emphasised the failures of the US Fed as a 
+cause of the Great Depression.  But I don’t think anyone can reasonably argue it was worth risking those 
+same mistakes a second time.   
+ Later rounds of QE may have been less effective than the first.  In the US, where the Fed has begun to 
+shrink its balance sheet, its “QT” announcements appear to have had very little impact.  At least in part, 
+that’s likely to be by design.  The pace of unwind is very gradual.  And the FOMC emphasised that, to the 
+extent a shrinking balance sheet tightened monetary conditions the official interest rate would be 
+commensurately lower (than it would otherwise have been).  The overall stance of policy would be set to 
+ensure the central bank meets its objectives.  
+ The same is true here.  Our task remains to hit the inflation target and we will always seek to ensure that the 
+combined effects of the APF and of more conventional changes in Bank Rate are set to that end.   
+ Thank you. 
+                                                       
+21 I haven’t spent any time on this question today only because quite a bit has been said already.  See footnote 10, the references 
+therein, and the charts at the back of the speech.   
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+13 
+ 
+13 
+  References 
+ Ampudia, M., Georgarakos, D., Slacalek, J., Tristiani, O., Vermeulen, P., Violante, G. L.  2018.  
+“Monetary policy and household inequality”.  European Central Bank Working Paper No. 2170.   
+ Bauer, M. D. and Rudebusch, G. D.  2014.  “The signalling channel for Federal Reserve bond purchases”.  
+International Journal of Central Banking, Vol. 10, pp. 233-289.   
+ Benford, J., Berry, S., Nikolov, K., Young, C. and Robson, M.  2009.  “Quantitative easing”.  Bank of 
+England Quarterly Bulletin, Q2.   
+ Bernanke, B. S.  2002.  “Remarks by Governor Ben S.  Bernanke at the conference to honor Milton 
+Friedman”.  Available at https://www.federalreserve.gov/BOARDDOCS/SPEECHES/2002/20021108/.   
+ Bernanke, B. S.  2017.  “Monetary policy in a new era”.  Presented at the conference on Rethinking 
+Macroeconomic Policy at the Peterson Institute, available at https://www.brookings.edu/research/monetary-
+policy-in-a-new-era/.   
+ Bhattarai, S. and Neely, C.  2016.  “A survey of the empirical literature on U.S.  unconventional monetary 
+policy”.  Federal Reserve Bank of St.  Louis, Research Division, Working Paper 2016-021A.   
+ Broadbent, B.  2014.  “The UK economy and the world economy”.  Speech given at the Institute of 
+Economic Affairs State of the Economy Conference, available at 
+https://www.bankofengland.co.uk/speech/2014/the-uk-economy-and-the-world-economy.   
+ Broadbent, B.  2016.  “The distributional implications of low structural interest rates and some remarks 
+about monetary policy trade-offs”.  Speech given at the Society of Business Economists Annual Conference, 
+available at https://www.bankofengland.co.uk/speech/2016/the-distributional-implications-of-low-structural-
+interest-rates-and-some-remarks-about-monetary.   
+ Bunn, P., Pugh, A. and Yeates, C.  2018.  “The distributional impact of monetary policy easing in the UK 
+between 2008 and 2014”.  Bank of England Staff Working Paper No.  720, available at 
+https://www.bankofengland.co.uk/-/media/boe/files/working-paper/2018/the-distributional-impact-of-
+monetary-policy-easing-in-the-uk-between-2008-and-2014.pdf.   
+ Butt, N., Churm, R., McMahon M., Morotz, A. and Schanz, J.  2014.  “QE and the bank lending channel in 
+the United Kingdom”.  Bank of England Staff Working Paper No. 511.  Available at 
+https://www.bankofengland.co.uk/working-paper/2014/qe-and-the-bank-lending-channel-in-the-uk.   
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+14 
+ 
+14 
+  Carney, M.  2016.  “The spectre of monetarism”.  Speech given at Roscoe Lecture, Liverpool John Moores 
+University, available at https://www.bankofengland.co.uk/speech/2016/the-spectre-of-monetarism.   
+ Chadha, J. S., Turner, P. and Zampolli, F.  2013.  “The ties that bind: Monetary policy and government 
+debt management”.  Oxford Review of Economic Policy, Vol. 29, pp. 548–81. 
+ Christensen, J. H. E. and Rudebusch, G. D. 2012.  “The response of interest rates to US and UK 
+quantitative easing”.  The Economic Journal, Vol. 122, pp. F385-F414.   
+ D’Amico, S., English, W., López‐Salido, D., and Nelson, E.  2012.  “The Federal Reserve’s large-scale 
+asset purchase programmes: Rationale and effects”.  The Economic Journal, Vol. 122, pp. F415-F446.  .   
+ D’Amico, S.  and King, T. B. 2013.  “Flow and stock effects of large-scale treasury purchases: Evidence on 
+the importance of local supply”.  Journal of Financial Economics, Vol. 108, pp. 425-448.   
+ Federal Reserve Bank of New York.  2017.  “Projections for the SOMA portfolio and net income:  An 
+update to projections presented in the “Report on domestic open market operations during 2016””.  Available 
+at 
+https://www.newyorkfed.org/medialibrary/media/markets/omo/SOMAPortfolioandIncomeProjections_July201
+7Update.pdf.   
+ Friedman, M. and Schwartz, A.  1963.  “A monetary history of the United States, 1867-1960”.  Princeton 
+University Press.   
+ Gagnon, J., Rasking, M., Remanche, J., and Sack, B.  2011.  “The financial market effects of the Federal 
+Reserve’s large-scale asset purchases”.  International Journal of Central Banking, Vol. 7, pp. 3-43.   
+ Haldane, A.  G., Roberts-Sklar, M., Wieladek, T.  and Young, C.  2016.  “QE: The story so far”.  Bank of 
+England Staff Working Paper No. 624, available at https://www.bankofengland.co.uk/working-paper/2016/qe-
+the-story-so-far.   
+ Harrod, R. F.  1964.  “Review of A Monetary History of the United States 1867-1960 by Milton Friedman, 
+Anna Jacobsen Schwartz”.  University of Chicago Law Review, Vol. 32, pp. 188-196.   
+ Hearing before the Joint Economic Committee Congress of the United States.  2013.  First session, 22 
+May.  U.S. Government Printing Office.  Available at https://www.gpo.gov/fdsys/pkg/CHRG-
+113shrg81472/pdf/CHRG-113shrg81472.pdf.   
+ Ioannidis, J. P. A.  2013.  “Implausible results in human nutrition research”.  BMJ 347.   
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+15 
+ 
+15 
+  Joyce, M., Tong, M. and Woods, R.  2011.  “The United Kingdom’s quantitative easing policy:  design, 
+operation and impact”.  Bank of England Quarterly Bulletin, Q3.   
+ Krishnamurthy, A. and Vissing-Jorgensen, A.  2011.  “The effects of quantitative easing on interest rates:  
+Channels and implications for policy”.  NBER working paper No.17555, National Bureau of Economic 
+Research, Inc.   
+ Miles, D.  2014.  “The transition to a new normal for monetary policy”.  Speech given at Mile End Group, 
+Queen Mary College, available at https://www.bankofengland.co.uk/speech/2014/the-transition-to-a-new-
+normal-for-monetary-policy.   
+ Modigliani, F. and Miller, M. H.  1958.  “The cost of capital, corporation finance and theory of investment”.  
+The American Economic Review, Vol. 48, pp. 261-297.   
+ Neely, C. J.  2015.  “Unconventional monetary policy had large international effects”.  Journal of Banking 
+and Finance, Vol. 52, pp. 101-111.   
+ Romer, C. D.  and Romer, D. H.  1989.  “Does monetary policy matter?  A new test in the spirit of Friedman 
+and Schwartz”.  NBER Macroeconomics Annual 1989, Vol. 4.   
+ Stiglitz, J. 1969.  “A re-examination of the Modigliani-Miller Theorem”.  The American Economic Review, 
+Vol. 59, pp. 784-93.   
+ Vlieghe, G.  2016a.  “Umbrellas don’t cause rain”.  Speech given at Sheffield University, available at 
+https://www.bankofengland.co.uk/speech/2016/umbrellas-dont-cause-rain.   
+ Vlieghe, G.  2016b.  “Monetary policy expectations and long term interest rates”.  Speech given at the 
+London Business School, available at https://www.bankofengland.co.uk/speech/2016/monetary-policy-
+expectations-and-long-term-interest-rates.   
+ Wallace, N.  1981.  “A Modigiliani-Miller Theorem for open-market operations”.  The American Economic 
+Review, Vol. 71, pp. 267-274.   
+ Weale, M. and Wieladek, T.  2016.  “What are the macroeconomic effects of asset purchases?”  Journal of 
+Monetary Economics, Vol. 79, pp. 81-93. 
+ Yellen, J.  2017.  “The economic outlook and the conduct of monetary policy”.  Speech given at the Stanford 
+Institute for Economic Policy Research, Stanford University, available at 
+https://www.federalreserve.gov/newsevents/speech/yellen20170119a.htm.   
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  16 
+ 
+16 
+ Annex 1:  Stylised depiction of the effect of QE on balance sheets 
+Before QE 
+    After QE 
+   Assets 
+   Liabilities 
+   Assets 
+   Liabilities 
+             Gilts 
+   Reserves 
+Safe assets 
+   Reserves 
+   Other safe 
+          Banknotes 
+      Reserves 
+   Deposits 
+Loans 
+        Equity 
+        assets 
+          Banknotes 
+       Reserves 
+   Deposits 
+      Loans 
+          Equity 
+    Gilts 
+   Liabilities 
+   Deposits 
+   Liabilities 
+Deposits 
+                            Central bank 
+     Commercial bank 
+    Gilt holder 
+         
+All speeches are available online at www.bankofengland.co.uk/speeches 
+17 
+ 
+17 
+  Annex 2:  Inequality 
+Chart A1:  Income inequality 
+Chart A2:  Wealth inequality 
+  
+Sources:  British Household Panel Survey (BHPS), Wealth and 
+Assets Survey (WAS), and calculations in Bunn, Pugh and Yeates 
+(2018), updated to include 2014-16.   
+ 
+   
+Sources:  Family Resources Survey (FRS) and IFS.   
+The chart updates Chart 5 in Bunn, Pugh and Yeates (2018) to 
+include the 2016-17 financial year.  Income is before housing 
+costs, net of direct taxes and inclusive of state benefits and tax 
+credits.  Data are for calendar years up to and including 1992 and 
+for financial years from 1993-94 onwards.    
+ 
+ 
+ 
+Table A1:  The impact of monetary policy 
+changes since 2007 on inequality 
+  2012-14 data 
+Counterfactual: no change 
+in policy 
+Monetary policy impact 
+Income 
+Gini 
+0.360 
+0.362 
+Net 
+wealth 
+Gini 
+0.612 
+0.630 
+-0.001 
+-0.017 
+Source:  Bunn, Pugh and Yeates (2018).   
+     
+All speeches are available online at www.bankofengland.co.uk/speeches 
+18 
+ 
+18 
+ 

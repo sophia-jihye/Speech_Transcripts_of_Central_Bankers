@@ -1,0 +1,242 @@
+William C Dudley: Financial conditions indexes – a new look after the 
+financial crisis 
+Remarks  by  Mr  William  C  Dudley,  President  and  Chief  Executive  Officer  of  the  Federal 
+Reserve Bank of New York, at the annual US Monetary Policy Forum, University of Chicago 
+Booth School of Business, New York, 26 February 2010. 
+ Thank you for having me to speak as a panelist today. As always my views are my own and 
+do  not  necessarily  reflect  those  of  the  Federal  Open  Market  Committee  (FOMC)  or  the 
+Federal Reserve System.  
+I am glad that Narayana Kocherlakota is here as well as I don’t think I qualify as the most 
+“objective”  person  to  be  a  panelist  on  this  particular  topic.  After  all,  I  have  long  been  a 
+proponent of using a financial conditions framework to think about the economic outlook and 
+monetary  policy.  When  I  was  working  as  the  chief  U.S.  economist  at  Goldman  Sachs,  we 
+built one of the earliest financial conditions indexes, the Goldman Sachs Financial Conditions 
+Index (GSFCI). 
+I  am  going  to  divide  my  remarks  today  into  two  parts.  First,  I  will  discuss  why  a  financial 
+conditions  framework  is  useful  when  thinking  about  the  economic  outlook  and  monetary 
+policy. Second, I will discuss the paper, “Financial Conditions Indexes: A New Look after the 
+Financial Crisis,” by Jan Hatzius, Peter Hooper, Frederic Mishkin, Kermit L. Schoenholtz and 
+Mark  W.  Watson,  in  some  detail  –  evaluating  its  considerable  strengths  and  pointing  out 
+some areas where additional work would be useful. 
+There  are  a  number  of  reasons  that  a  financial  conditions framework  is  likely  to  be  useful 
+when evaluating the economic outlook and the conduct of monetary policy. Most important, 
+monetary policy works its magic through its effect on financial conditions; it does not operate 
+directly  on  real  economic  variables.  That  is  because  the  level  of  the  federal  funds  rate 
+influences other financial market variables such as money  market rates, long-term interest 
+rates, credit spreads, stock prices and the value of the dollar, and it is these variables that 
+influence real economic activity.1 This means that if the linkage between the fed funds rate 
+and this broader constellation of financial indicators is not stable or completely predictable, 
+then knowing what is happening to the fed funds rate is not sufficient to predict economic 
+activity.  The  instability  of  the  linkage  between  the  fed  funds  rate  and  financial  conditions 
+indicators means that these indicators provide additional information about real activity and 
+also  are  relevant  in  deciding  the  appropriate  fed  funds  rate  target.  In  contrast,  if  the 
+transmission mechanism from the fed funds rate to financial conditions and onward to real 
+economic  activity  were  completely  predictable,  then  there  would  be  no  need  to  focus  on 
+financial conditions as an intermediate target variable. The level and path of the fed funds 
+rate matters, but it also matters how this gets transmitted to the real economy through the 
+financial sector. 
+Over the past 15 years, there have been two important instances in which the relationship 
+between the fed funds rate and financial conditions have diverged significantly. The first was 
+the late 1990s technology stock market bubble and its aftermath. The second was the mid-
+2000s  credit  market  bubble  that  culminated  in  the  recent  financial  crisis.  During  these 
+episodes,  the  relationship  between  the  fed  funds  rate  and  financial  conditions  was 
+particularly  unstable.  As  a  result,  developments  in  the  financial  markets  became  very 
+important in the conduct of monetary policy. 
+                                                 
+1  
+In my comments, I am going to assume that inflation expectations are always well anchored so that I do not 
+need to distinguish between the real and nominal fed funds rate. 
+BIS Review 23/2010 
+ 1
+In this respect, I would note that financial conditions indicators have implications for “Taylor 
+Rule” formulations for monetary policy. As you all know, Taylor-type rules provide a short-
+hand metric for the appropriate stance of monetary policy. In such rules, the fed funds rate is 
+set at a level equal to the equilibrium real fed funds rate, plus the inflation objective, plus the 
+weighted deviation of output from its potential and of the inflation objective from actual or, if 
+forward  looking,  expected  inflation.  Often,  analysts  and  economists  assume  that  the 
+equilibrium real fed funds rate is equal to 2 percent, its long-term historical value. Although, 
+in principle, such rules allow the equilibrium rate to be time varying, it typically is assumed to 
+be constant. 
+I  have  always  been  uncomfortable  with  this  usage  of  a  2  percent  equilibrium  real  rate 
+assumption because it ignores the possibility that the equilibrium rate changes in response to 
+technology shocks or in response to changes in how monetary policy is transmitted via the 
+financial system to the real economy. For example, in the late 1990s, when trend productivity 
+growth shifted upward, it seemed logical that this would also push up the equilibrium short-
+term real interest rate. That is because higher productivity growth, by raising the return on 
+capital,  spurs  greater  investment,  thereby  driving  the  equilibrium  rate  higher.  Similarly,  if 
+stock prices rose sharply in response to higher productivity growth, this should also lead to a 
+higher equilibrium real rate through the effect of greater stock market wealth on consumer 
+spending. Higher stock prices meant that financial conditions were easier. This needed to be 
+offset by a somewhat higher fed funds rate target. 
+Financial conditions also appear to have become more important in terms of their influence 
+on business cycles. On the one hand, the fed funds rate has been more stable and the range 
+of the fed funds rate over the cycle has been smaller. However, on the other hand, relative to 
+what  has  happened  to  the  fed  funds  rate  target,  financial  conditions  have  become  more 
+volatile. The hypothesis that Ed McKelvey and I put forward in 1997 in response to evidence 
+of the so-called “Great Moderation” seems to be well supported by the past two economic 
+downturns and their aftermaths: 
+Put  simply,  longer  stretches  of  economic  growth  imply  greater  leverage  and  complacency 
+and thus, greater financial problems when recessions do occur. In brief, longer U.S. business 
+cycles logically lead to four linked consequences – more financial leverage, longer bouts of 
+balance sheet repair, more subdued recoveries and longer periods of decline in inflation and 
+interest rates during the early stages of recovery.2 
+If the economy is more stable, then market participants will have more appetite for risk. This 
+works  fine during  the  expansion  stage,  when  growth  is  relatively  stable.  However,  when  a 
+recession finally arrives, it is a bigger shock than when recessions were more frequent. This 
+surprise  results  in  a  more  substantial  adjustment  in  financial  conditions.  Ironically,  the 
+increased stability of the business cycle during the expansion phase appears to increase the 
+volatility and importance of financial conditions when recessions do occur. 
+At  this  stage,  incorporating  indicators  of  financial  conditions  into  forecasting  and  into 
+evaluating the conduct of monetary policy probably requires relying on constructing a “rough 
+and  ready”  index.  Macroeconomic  models  –  especially  dynamic  stochastic  general 
+equilibrium models – do not incorporate robust financial sectors. Instead, these models have 
+implicitly  assumed 
+financial 
+intermediation process always works smoothly and predictably.3 
+transmission  mechanism  and 
+the  monetary 
+that 
+the 
+                                                 
+2   See The Brave New Business Cycle: No Recession in Sight, William Dudley and Edward McKelvey, January 
+1997, Goldman Sachs Economic Research Group. 
+3   Adding financial intermediation to these models has become a very active area of research. See, for example, 
+the  recent  work  of  Vasco  Curdia  and  Michael  Woodford  in  “Credit  Spreads  and  Monetary  Policy,”  Federal 
+Reserve Bank of New York Staff Report No. 385. 
+2 
+ BIS Review 23/2010
+Events of the past decade confirm that financial conditions matter and that the fed funds rate 
+is  not  a  sufficient  statistic  with  which  to  assess  the  impact  of  monetary  policy  on  the  real 
+economy.  Of  course,  this  is  not  news  to  the  Federal  Reserve,  which  has  explicitly  taken 
+financial  conditions  into  account  in  its  conduct  of  monetary  policy.  This  is  evident  in  the 
+transcripts of the FOMC meetings that are publicly available and the numerous references to 
+financial conditions in the FOMC minutes that go back more than a decade. 
+An analysis of the FOMC minutes over the past decade indicates that references to financial 
+conditions  have  been  frequent,  especially  recently.  Exhibit  1  illustrates  the  percentage  of 
+paragraphs  in  the  minutes  (excluding  the  directive  and  some  other  paragraphs  associated 
+with  administrative  matters  such  as  the  election  of  the  chairman)  that  mention  the  phrase 
+“financial  conditions.”  As  can  be  seen,  there  have  been  frequent  references  over  the  past 
+decade. One peak occurred in 2000 when the stock market peaked and began to deflate. 
+Thereafter,  references  fell  off  a  bit  until  rising  sharply  again  recently.  Clearly,  the  recent 
+financial crisis has underscored the importance of financial conditions. 
+Today’s  paper  makes  clear  the  importance  of  financial  conditions.  The  paper’s  analysis  of 
+the  many  financial  conditions  indexes  that  have  been  constructed  as  proxies  for  overall 
+financial conditions finds that many of these indexes have done better than the fed funds rate 
+or other single-variable financial indicators as predictors of real economic activity. 
+However, as the paper also makes very clear, the indexes that have been developed are still 
+very rudimentary. In particular, most financial conditions indexes are ad hoc and incomplete. 
+In  their  review  of  the  existing  financial  condition  indexes,  the  authors  find  considerable 
+differences  across  the  indexes  in  the  way  that  they  are  constructed  and  in  terms  of  the 
+variables included. 
+In  addition,  there  is  another  difficulty.  As  the  financial  system  changes  over  time,  both  in 
+terms  of  structure  and  in  terms  of  financial  products,  the  financial  variables  that  we  might 
+determine to be important are also changing. For example, in the wake of the recent financial 
+crisis, the variables that the paper’s authors call “neoclassical” – such as the yield curve and 
+stock market prices – appear to have become less important relative to the variables that the 
+authors term “non-neoclassical” – such as quantity and survey measures of credit availability. 
+Variables  that  would  work  best  10  years  ago  as  forecasting  tools  may  no  longer  be  very 
+useful. As the structure of the financial system changes, the identity of variables that capture 
+financial conditions naturally changes. 
+Let me now discuss the paper in more detail. I will do this in two steps. First, I will discuss the 
+considerable contributions of the paper. Second, I will talk about where the paper might be 
+extended and other areas of future research that might seem appropriate. 
+In general, I liked the paper. I think it makes some important contributions in how to construct 
+a  more  complete  and  robust  financial  conditions  index.  In  particular,  I  thought  the  paper 
+makes two important points: 
+ 
+Financial conditions should measure financial innovations, not changes in financial 
+variables  that  are  due  to  past  changes  in  economic  activity.  The  endogenous 
+components  of  financial  conditions  should  be  removed  in  the  construction  of  a 
+financial conditions index.  
+Both  neoclassical  (yield  curve  and  stock  prices)  and  non-neoclassical  (credit 
+availability) variables should be included. The GSFCI that I helped to develop only 
+included neoclassical indictors and I think that was (and is) a shortcoming. 
+ The  authors  deserve  considerable credit  for  constructing  a  financial  conditions index  (FCI) 
+that  is  more  rigorous  and  complete  than  any  that  have  been  developed  in  the  past  – 
+44 financial variables divided across five categories. Moreover, this is not just innovation for 
+its  own  sake.  The  new  FCI  does  a  better  job  than  single-factor  models  in  forecasting  real 
+gross domestic product (GDP). 
+BIS Review 23/2010 
+ 3
+So what are the shortcomings of this approach? First, including 44 variables may generate 
+good  results  more  because  the  additional  variables  add  greater  flexibility  to  soak  up 
+variability  in  real  GDP,  rather  than  providing  a  more  solid  theoretical  underpinning.  As  the 
+authors note, the variables were selected, in part, on the basis of what we know today about 
+which  variables  are  likely  to  be  important.  But  this  type  of  selection  process  –  even  if 
+conducted  on  a  pseudo  real-time  basis  –  introduces  selection  bias,  which  the  authors  do 
+admit could be important. 
+Second, despite the inclusion of a large number of variables, some important ones may still 
+be  missing.  In  particular,  leverage  variables  –  such  as  the  leverage  ratio  of  the  major 
+securities  dealers  –  may  be  an  important  component  of  financial  conditions.  The  work  of 
+Tobias Adrian and Hyun Shin suggests that the increase in leverage of the major securities 
+was a major factor that fueled the asset bubble preceding the recent crisis. If this was indeed 
+the  case  as  seems  likely,  this  type  of  variable  should  also  be  included  in  a  financial 
+conditions framework.4 
+Third, as the authors note, the resulting FCI is complex; it is difficult to estimate, update and 
+to  communicate  what  the  results  mean.  I  think  FCIs  have  value  as  heuristic  devices  in 
+highlighting what is important. One loses that benefit when the number of variables becomes 
+large and the indexes become complex. 
+Fourth, it would be interesting to know how financial conditions indexes for other countries 
+and regions would differ. The authors focus only on the United States. Thus, it is difficult to 
+know whether the value of financial conditions indexes are specific to the United States or 
+should be applied more broadly. 
+Fifth, I thought the paper could have gone further in exploring the implications of its results. 
+The focus of the paper is on how to construct a financial conditions index that does a good 
+job of forecasting economic activity. The paper does not tackle the implications for monetary 
+policy stemming from developments in financial conditions as measured by the new FCI. If 
+financial conditions evolve in an unanticipated way, how should this influence the conduct of 
+monetary policy? 
+In particular, the authors note that during the 2003–06 period, financial conditions tightened 
+less  than  expected  given  the  rise  in  the  fed  funds  rate  and,  during  the  2007–08  period 
+tightened even as the Federal Reserve slashed its fed funds rate target. These results raise 
+a number of interesting questions. In particular, does the behavior of the new FCI imply that 
+the Federal Reserve should have tightened more aggressively during the 2003–06 period or 
+eased more aggressively during the 2007–09 period? The paper’s results seem to imply this, 
+but it would be interesting to see whether this is the case or not. 
+It  also  would  be  useful  to  know  how  qualitatively  important  these  differences  are.  If  the 
+differences  are  worth  only  a  few  basis  points  on  the  fed  funds  rate,  then  having  a  good 
+indicator of financial conditions is not going to be a very important input in the formulation of 
+monetary policy. In contrast, if a shift in financial conditions implies that the fed funds rate 
+path  was  “off”  by  a  hundred  basis  points  relative  to  what  actually  occurred,  then  this 
+obviously has big implications for monetary policy. The development of equilibrium models 
+that incorporate financial conditions in a meaningful manner might prove helpful in answering 
+these types of questions.5 
+In  addition,  I  would  like  to  know  how  the  various  linkages  have  changed  over  time.  Is  the 
+linkage  between  the  fed  funds  rate  and  financial  conditions  as  measured  by  the  new  FCI 
+                                                 
+4   See, for example, Tobias Adrian and Hyun Shin, manuscript in preparation for the forthcoming Handbook of 
+Monetary  Economics,  volume  3,  currently  circulated  as  Federal  Reserve  Bank  of  New  York  Staff  Reports, 
+No. 398, October 2009. 
+5   The work of Vasco Curdia and Michael Woodford referenced above is one step in this direction. 
+4 
+ BIS Review 23/2010
+loosening  over  time  or  not?  If  so,  why  is  this  happening?  Is  it  due  to  financial  market 
+innovation or the growth in share of the non-bank financial sector? I also would like to know 
+how the linkage between financial conditions and the real economy is changing over time. If 
+this  is  happening,  what  are  the  implications  for  macroeconomic  stability  and  monetary 
+policy? 
+Finally, I would like to know about the dynamic properties of the new FCI. Are particularly 
+high  (expansive)  readings  dangerous  and  should  they  be  taken  as  suggestive  of  asset 
+bubbles?  Should  the  Federal  Reserve  try  to  prevent  such  occurrences  because  loose 
+financial conditions precede episodes of financial instability? In this respect, when financial 
+conditions become unusually expansive, is the fed funds rate the right tool to use to constrain 
+or counteract such expansiveness? Or would it be better to use macroprudential tools such 
+as leverage limits or loan-to-value requirements on residential real estate to keep financial 
+conditions  from  becoming  unusually  expansive  in  the  first  place?  I  could  imagine 
+circumstances  in  which  macroprudential  tools  might  be  used  to  tighten  up  the  relationship 
+between the fed funds rate and financial conditions. Would the use of such tools be helpful in 
+achieving greater macroeconomic stability? 
+At this stage, there are many more questions than answers. I would strongly encourage the 
+authors  and  others  to  continue  their  work  on  financial  conditions  and  in  exploring  how 
+developments in the financial sector influence both the real economy and monetary policy. 
+The financial crisis has demonstrated that financial market developments matter greatly. The 
+paper successfully makes the case that it would be useful to have a good set of summary 
+statistics to serve as benchmarks to keep track of such developments. It also would be useful 
+to have a better understanding of how shifts in financial conditions should be considered in 
+the ongoing conduct of monetary policy. 
+Exhibit 1 
+The  percentage  of  paragraphs  in  the  FOMC  minutes  that  mention  the  phrase  “financial 
+conditions,”  excluding  the  directive  and  paragraphs  associated  with  administrative  matters 
+such as election of the chairman. 
+ BIS Review 23/2010 
+ 5

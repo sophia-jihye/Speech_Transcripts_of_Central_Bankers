@@ -1,0 +1,260 @@
+Mr. Thompson discusses the many faces of risk in banking in Australia   Talk
+by the Deputy Governor of the Reserve Bank of Australia, Mr. G.J. Thompson, to the Australian
+Institute of Banking and Finance in Canberra on 12/6/97.
+Introduction
+I would like to talk today about various aspects  of  risk  in  banking.  One  modern
+notion is that banking  essentially  consists  of  processing  information  and  managing  risk.  While
+the  average  person  in  the  street  probably  has  a  more  prosaic  -  not  to  say  jaundiced  -  view  of
+banks, risk management is indeed very much a core activity for bankers.
+And  it  is  of  fundamental  concern  to  bank  supervisors,  such  as  the  RBA,  that
+banks are doing this job reasonably well - that all the big risks are identified clearly, measured
+accurately, monitored continuously and kept within prudent bounds. Bank supervision in recent
+years has focused much more intensively on the quality of the systems which banks use for these
+tasks.
+It  seems  that  banks  and  their  supervisors  are  having  to  contend  with  a  steadily
+growing array of risks.
+Derivatives  risk,  operational  risk  and  environmental  risk  have  all  come  to
+prominence in the past decade or so. And public relations risk is a major ongoing challenge for
+banks!
+One  even  hears  occasionally  of  “regulation  risk”  -  which  seems  to  relate  to  the
+capricious demands of regulatory agencies. Needless to say,  this  one  has  not  been  high  on  our
+list of concerns for the Australian banking system!
+I propose to touch on only three areas of banking risk:
+ old-fashioned credit risk;
+interbank settlement risk; and
+the Year 2000 problem - a kind of operational risk visited upon the world
+by the approach of the new millenium, and the short-sightedness of 1970s
+computer programmers with a penchant for abbreviation!
+Credit risk
+All  of  the  major  periods  of  stress  in  Australian  banking  have  been  caused  by
+credit  losses.  In  the  most  recent  episode  -  in  the  late  1980s  and  early  1990s  -  banks  wrote  off
+over $25 billion in loan losses.
+There  have  been  recent  comments  from  some  bankers  and  others  that  lending
+standards are slackening once again, perhaps threatening another such round.
+One reaction would be that these comments are rather alarmist. After all, on most
+indicators, banks’ asset quality position is very sound. Impaired loans are less than one per cent
+of  their  total  assets,  the  lowest  point  since  we  started  collecting  statistics  seven  years  ago.
+Furthermore, the rate at which assets are becoming impaired has been stable for some time, and
+shows  no  signs  of  an  upturn.  “Past  due”  loans  kicked  up  in  1995  and  early  1996  but  have
+stabilised recently, still at relatively low levels.
+BIS Review   71/1997
+- 2 -
+The broader environment also has fewer worrying features than in the 1980s:
+   aggregate bank credit is expanding much less rapidly than then (although
+inflation rates are also down quite a bit);
+the financial position of business borrowers is generally quite healthy with
+debt to equity ratios lower,  and  interest  coverage  higher,  than  in  the  late
+1980s; and
+while asset prices are rising, there is no sign of the bubbles we saw in the
+1980s;  commercial  property  prices  are  up  only  modestly  from  their  low
+points of 1993.
+We  also  have  the  general  impression  that  banks  have  a  better  handle  on  their
+credit  risks  than  they  did  ten  years  ago.  With  more  centralised  credit  management,  banks  can
+now  aggregate  exposures  to  clients  and  industries,  a  basic  capability  which  was  sadly  lacking
+then. Some of the bigger banks have specialised units to monitor their property exposures. I also
+suspect  that  the  corporate  structures  which  contributed  to  problems  in  the  late  1980s  are  less
+likely to be tolerated by lenders today.
+This is all reassuring, but it is certainly no reason for complacency. There is little
+doubt that current lending standards are less stringent than they were a couple of years ago. Our
+observations during visits to banks support the market anecdotes on this.
+There has been a clear narrowing in interest margins for big corporate borrowers
+and some relaxation in the loan covenants which apply. It’s only a slight exaggeration to say that
+high quality corporate borrowers can virtually write their own  terms  and  conditions;  and  some
+lenders are prepared to lend for very long terms at low margins. For lesser quality clients there
+appears to have been some drift back toward negative pledge and interest-only lending.
+The  main  reason  for  this  is  more  intense  competition  among  all  banks  as  they
+strive to keep or build market share in an environment where it is also becoming easier for major
+corporates to tap debt markets directly.
+At  the  smaller  end  of  the  market  the  signs  of  looser  lending  standards  are  less
+clear. We have, however, seen more facilities where requirements for personal guarantees have
+been  relaxed.  It’s  also  possible  that  some  of  the  regional  banks  might,  in  their  eagerness  to
+diversify loan portfolios, be lending to clients that major banks are turning away.
+It  is,  of  course,  not  possible  to  interpret  all  these  trends  unequivocally  as
+indicators of unsound banking. And it would be unrealistic to expect impaired assets to stay as
+low as they are now. Credit quality necessarily ebbs and flows with the fortunes of the economy
+and particular sectors. What is important is that any deterioration is manageable against banks’
+capital, and that they recognise early the need for additional provisions.
+On  balance,  we  believe  that  some  current  lending  practices  do  risk  sowing  the
+seeds  of  future  credit  quality  problems  for  banks.  Chief  executives  and  boards  should  be
+considering  carefully  whether  the  additional  point  of  market  share  that  might  be  won  now  by
+lending to marginal propositions is worth the pain of future losses, the resources needed for loan
+workouts, and so on. They should also be alert to the possibility that the household sector might
+feature more strongly in the next upswing of losses. Household debt has increased a good deal
+more quickly than incomes in recent years.
+BIS Review   71/1997
+- 3 -
+The  RBA  recently  organised  a  Credit  Conference  to  review  trends  in  credit  risk
+management,  with  participants  including  a  number  of  leading  bankers  and  accountants.  A
+volume of readings and a summary of discussion will be published soon.
+The  main  theme  from  the  Conference  was  how  credit  risk  assessment  and
+management  are  becoming  more  objective,  more  scientific.  One  speaker  described  this  as
+moving from an “experience-centric” approach to “data-centric” models.
+With  standard  products  such  as  mortgages,  consumer  loans,  credit  cards  and  (to
+some  extent)  small  business  loans,  quite  sophisticated  statistical  methods  are  beginning  to  be
+applied to estimating default risk. The aim is to see, from an analysis of history, which data are
+most helpful in predicting the probability of default. Such analysis produces “scorecards” for use
+in processing loan requests.
+Increasingly, consumer loans are being managed on a portfolio basis, with banks
+calculating  expected  losses  for  various  broad  product  categories.  Some  are  tracking  the
+migration of loans through various stages of delinquency to help determine the proportion which
+will ultimately incur a loss. By updating the amounts at each stage, and adjusting migration rates
+in  the  light  of  current  information,  banks  aim  to  measure  more  accurately  the  current  risks  in
+their portfolios.
+At  the  “bigger”  end  of  the  loan  market,  a  lot  of  attention  is  being  given  to  the
+accuracy and  timeliness  of  risk-grading  systems.  To  grade  loans,  the  more  sophisticated  banks
+are now using complex statistical models based on financial information about borrowers or on
+equity prices. These feed into decisions about pricing, provisioning and portfolio balance.
+Securitisation,  the  development  of  secondary  markets  and  the  use  of  credit
+derivatives are other facets of the more scientific management of credit risk.
+These trends are, of course, to be encouraged. The new tools should not, however,
+be regarded as guarantees against unexpected credit problems.
+For one thing, their usefulness depends critically on the quality and relevance of
+the historical information which goes into them. Most banks have detailed asset quality data for
+no  more  than  a  few  years,  covering  not  even  one  full  credit  cycle.  Even  where  good  data  are
+available, it is uncertain how closely past relationships will hold for the future.
+There would be dangers,  therefore,  if  automated  systems  were  used  uncritically,
+without  an  understanding  of  their  limitations.  Even  when  these  models  have  been  extensively
+road tested and their predictions assessed carefully, it is unlikely that they will do away with the
+need  for  overriding  judgments  about  economic  prospects  and  the  outlook  for  particular
+industries and sectors.
+On  the  other  hand,  the  new  techniques  do  provide  an  objective  framework  for
+decisions about pricing and capital allocation. While it would be foolish to rely blindly on them,
+it would be as dangerous if they were too easily overridden by competitive pressures. As another
+participant at our Conference asked: will banks be willing to forego business that is apparently
+priced in line with the prevailing market just because a risk-based model indicates that it would
+dilute shareholder value? There is no doubt that such questions should be resolved at the highest
+levels in banks. They should not be left to business-driven relationship managers.
+BIS Review   71/1997
+- 4 -
+Needless  to  say,  we  will  be  keen  observers  of  banks’  lending  practices  over  the
+next couple of years.
+Interbank settlement risk and RTGS
+Naturally  we  in  the  RBA,  like  almost  everyone  else,  would  prefer  not  to
+contemplate the failure of a bank. But bank failures have happened from  time  to  time  in  other
+countries - despite the best endeavours of managers and regulators. And it would be  foolish  to
+turn a blind eye to this possibility in Australia, because a bank failure is not only very damaging
+for  the  depositors  immediately  affected,  but  it  can  create  a  wave  of  problems  flowing  well
+beyond  that  particular  institution.  This  flow-on  damage  can  occur  in  various  ways,  including
+through effects on depositor confidence, but perhaps the most important channel is the payments
+system.  If  a  bank  in  difficulty  has  large  unsettled  payment  obligations  to  other  banks,  those
+banks will inevitably share some of the pain. There could then be further effects which cannot be
+predicted with any precision.
+In the past Australian banks have not paid much attention to interbank settlement
+risk; indeed, they have had no way of monitoring their exposures to each other during the day.
+They  operated  on  the  presumption  that,  as  long  as  they  exchanged  payments  only  with
+supervised banks, the central bank would “sort out” a settlement problem in the unlikely event
+that one arose. This is hardly a sound basis on which to proceed - from either a commercial or a
+public  policy  viewpoint.  It  leaves  individual  banks  potentially  exposed  to  large  losses  which,
+because of the broader ramifications, tax payers might end up having to cover.
+To  achieve  a  more  satisfactory  position,  Australia  is  now  travelling  the  path  of
+many  other  countries  in  introducing  a  real-time  gross  settlement  -  that  is,  RTGS  -  system  for
+interbank payments.
+Under  RTGS,  high-value  payments  will  be  settled  continuously  across  banks’
+accounts with the RBA - rather than being accumulated, left hanging overnight and settled up in
+one  hit  the  following  morning.  On  an  average  day  payments  exchanged  among  banks  but  not
+settled  until  the  next  day  come  to  over  $90  billion.  RTGS  will,  at  the  outset,  eliminate  about
+two-thirds of that overnight exposure. It will also give Australia a fully-fledged delivery-versus-
+payment system for transactions in debt securities.
+With  banks  and  other  payments  providers,  the  RBA  began  building  the  RTGS
+system in 1995. This has been a major undertaking - with a development cost across the industry
+of around $120 million. The project is technically complex, but its biggest challenges have been
+reaching  agreement  on  the  architecture  and  rules  for  a  system  which  all  high-value  payments
+providers will use on an equal and open basis.
+Progress has not been rapid, or without occasional friction, but it has been steady.
+The key components of the system are now falling into place:
+  last  month,  the  RBA’s  central  site  -  where  interbank  payments  will  be
+processed in real time - became available for testing by the industry;
+by early next month, this central site will be fully operational;
+by  August,  the  industry’s  system  for  delivering  payments  to  the  central
+site using SWIFT messages should be tested and ready to use;
+BIS Review   71/1997
+- 5 -
+ over  subsequent  months,  high-value  interbank  payments  will  be  moved
+progressively onto the new system, although ultimate settlement will, for
+the time being, still be the following morning.
+Full  implementation  of  RTGS  is  scheduled  for  April  next  year.  Whether  this  is
+achieved now depends largely on the commitment of the industry, especially the major banks.
+As  we  get  closer  to  RTGS  “going  live”,  more  thought  is  being  given  to  its
+practical implications for banks and their customers. Perhaps the most important of these is the
+daily management of liquidity.
+With payments able to flow across banks’ settlement accounts at the RBA only if
+the  paying  bank  has  sufficient  funds,  liquidity  will  clearly  become  more  of  an  issue  than  it  is
+now  -  when  a  bank  needs  only  enough  funds  to  extinguish  any  net  obligation  to  others  each
+morning. Under RTGS, banks will need to manage their liquidity more carefully or run the risk
+of being unable to send an important payment at the required time.
+Banks  are  starting  to  give  attention  to  this  task  -  studying  the  patterns  in  their
+payment  flows  and  upgrading  their  systems  so  they  can  monitor  and  manage  flows  on  an
+aggregate basis across their business.
+There  will  inevitably  be  implications  for  corporates  in  this.  RTGS  will  cause
+banks  to  focus  more  sharply  on  the  amount  of  credit  extended  to  customers  during  the  day.
+Because they will have to manage their own liquidity more closely on a  real-time  basis,  banks
+will  (understandably)  want  to  control  their  customer  exposures,  and  the  demands  which  these
+place  on  liquidity,  more  tightly  than  before.  Payment  requests  will  have  priorities  attached.
+Corporates may need to negotiate facilities to ensure that time-critical payments will flow when
+they are expected by suppliers and counterparties. As a result, some will no doubt choose to plan
+their payments and receipts more actively than in the past.
+Our impression from recent discussions with corporate treasurers is that very few,
+if any, banks have yet done much talking to their customers about these issues.
+More careful management  of  liquidity  by  banks  and  their  customers  will  reduce
+the  likelihood  of  payments  “gridlock”  under  RTGS.  For  its  part,  the  RBA  has  taken  various
+decisions aimed at ensuring adequate liquidity will be available, at a reasonable cost, across the
+system  as  a  whole.  We  will  enter  into  securities  repurchase  agreements  with  banks  to  provide
+them with intra-day funds at virtually no cost. We will allow banks to dip into their PAR assets
+for  such  transactions.  The  range  of  assets  eligible  for  repos  with  the  RBA  has  also  just  been
+expanded.  Finally,  as  banker  to  the  Commonwealth,  we  will  use  our  control  over  government
+payments to inject funds early in the day.
+It remains to be seen whether other devices will be needed to lubricate the system.
+In  some  places,  such  as  the  United  Kingdom  and  Hong  Kong,  banks  are  required  to  send  a
+minimum proportion of their payments early in the day to provide liquidity for the market. We
+will monitor flows to assess whether such “affirmative action” is necessary in Australia.
+It will, of course, be essential that most high-value payments are settled real-time
+when the new system is available. Anything less would defeat the purpose for which it is being
+built.  There  have  been  suggestions  that  some  banks  might  by-pass  RTGS  by  using  lower  cost
+(but higher risk) channels, such as the Direct Entry system which is designed for high volumes
+BIS Review   71/1997
+- 6 -
+of small payments and settles on a net deferred basis. If this were to happen, we would have to
+consider  what  incentives  or  sanctions  were  needed  to  ensure  that  high-value  payments  travel
+along the RTGS path.
+RTGS  will  not,  of  itself,  remove  the  risks  that  banks  incur  in  international
+payments - in particular, the risks arising from non-synchronisation of payments and receipts in
+foreign exchange transactions. Having RTGS for domestic transactions is, however, a necessary
+step toward tackling this.
+We’re  currently  investigating  the  extent  of  Australian  banks’  settlement  risks  in
+their foreign exchange business. This is the next major frontier for risk reduction in banking.
+Operational risk and Year 2000
+As  their  business  becomes  more  complex  and  diverse,  banks  are  increasingly
+reliant  on  computers  for  information-processing  and  control.  As  a  result,  they  are  exposed  to
+various kinds of operational risk.
+For  a  bank  active  in  derivatives  trading,  a  breakdown  in  computer  systems  for
+even  a  relatively  short  time  could  be  disastrous  -  preventing  it  from  monitoring  its  changing
+market  positions  and  disrupting  its  capacity  to  trade  and  to  settle  outstanding  transactions.  I
+recently  heard  a  keen  observer  predict  that  the  next  big  banking  disaster  would  come  from  a
+(hypothetical) major international bank losing track of its derivatives positions for 24 hours.
+To  protect  against  such  events,  banks  invest  heavily  in  the  integrity  of  their
+computer systems, as well as in back-up and disaster recovery facilities. The RBA is, of course,
+providing such back-up for the core of the RTGS system.
+The Year 2000 problem poses a rather novel sort of operational risk because it is
+the  result  of  past  programming  decisions  which  have  produced  the  classic  “unintended
+consequence”.  Basically,  the  risk  is  computer  confusion  and  malfunction  when  the  year
+identified in programming as “99” clicks over to “00”.
+The  upshot  for  Australian  banks  is  the  need  to  spend  big  sums  on  replacing  or
+reprogramming their date-dependent computer systems. For the four majors alone, the total cost
+could be well over $350 million.
+As the calendar moves forward, the need to get on with addressing this problem
+becomes more urgent. In the United States, Federal regulators have recommended that financial
+institutions complete all necessary reprogramming by the end of 1998 to allow time for thorough
+testing before January 2000. This will be needed because, in changing a lot of banking software,
+new  bugs  could  be  introduced  along  the  way.  More  aggressive  targets  have  been  set  for  large
+banks where computer problems could do broad damage to the working of the financial system.
+The RBA is currently seeking assurance that Australian banks are giving the Year
+2000 problem the high priority it warrants. We  recently  sent  them  a  questionnaire  asking  each
+about  progress  in  identifying  the  size  of  the  problem  for  its  operations,  in  drawing  up  a
+management  program  to  fix  it  and  in  assigning  the  necessary  resources.  They  should  also  be
+finding out what their major customers are doing about it.
+BIS Review   71/1997
+- 7 -
+Fixing the Year 2000 problem is not a glamorous task - but it is no less important
+for that.
+In this respect, it is much like the challenge of managing banking risks generally.
+BIS Review   71/1997

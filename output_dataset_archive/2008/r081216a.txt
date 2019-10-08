@@ -1,0 +1,172 @@
+Axel A Weber: Risk transfer – challenges for financial institutions and 
+markets  
+Dinner speech by Professor Axel A Weber, President of the Deutsche Bundesbank, at the 
+Joint  Bundesbank-CEPR-CFS  conference 
+for  Financial 
+Institutions and Markets”, Frankfurt am Main, 11 December 2008. 
+“Risk  Transfer:  Challenges 
+ 1 
+Introduction  
+Ladies and gentlemen 
+I wish to extend a warm welcome to you at this conference dinner on the occasion of the joint 
+Bundesbank-CEPR-CFS conference here in Frankfurt. 
+The many aspects of credit risk transfer (CRT) that you addressed in your research papers – 
+from the pricing of subprime mortgage risk through to counterparty risk in financial contracts 
+– reveal just how broad and complex this topic is. And the current financial turmoil provides 
+striking  confirmation  of  how  relevant  this  topic  is,  as  CRT  may  adversely  affect  financial 
+stability.  The  different  forms  of  CRT  are  playing  a  key  role,  not  least  in  the  world  wide 
+discussion  on  regulatory  responses  to  this  crisis.  I  therefore  believe  that  this  conference 
+presents a great opportunity for you as researchers to exchange your findings and views on 
+risk transfer. However, I also hope that it makes a contribution to the current search for an 
+adequate regulatory framework for the financial markets.  
+In my following remarks, I would like to comment briefly on CRT in the recent crisis and on 
+some measures that are about to be taken. 
+Credit Risk Transfer (CRT) in the recent crisis 
+2 
+When  analysing  an  economic  event  such  as  the  current  financial  crisis,  it  is  usually  very 
+helpful to consult some economic theory. In the case of CRT general economic theory tells 
+us that CRT is, in principal, beneficial. 
+First, it may lead to a better risk allocation as it disconnects the originator of a risky asset 
+from  the  ultimate  risk  taker.  Second,  referring  to  a  result  of  the  model  by  Hakenes  and 
+Schnabel  presented  at  this  conference,  better  risk  allocation  provides  scope  for  socially 
+beneficial  projects  that,  otherwise,  would  not  have  been  financed.  Finally,  as  the  Basel 
+Committee  on  Banking  Supervision  points  out  in  The  Joint  Forum  on  Credit  Risk  Transfer 
+(2008), “CRT has made the market pricing of credit risk more liquid and transparent”.  
+However,  in  the  current  financial  crisis  different  methods  of  CRT  applied  by  financial 
+institutions have made for negative headlines in the newspapers: 
+Securitisation – Financial institutions (for example, IKB) that were engaged in the American 
+mortgage  market  through  financial  products  such  as  RMBS  suffered  major  unexpected 
+losses when house prices in the US started to decline.  
+Credit Default Swaps (CDS) – Some insurance companies and other financial institutions 
+are involved in insuring structured products linked to the US mortgage market in the form of 
+CDS. Some of them experienced large losses and had to be rescued by the government (for 
+example,  AIG).  The  bankruptcy  of  a  big  credit  risk  insurer  threatens  the  insured  financial 
+institutions, which often undervalue counterparty risk. The crisis may be exacerbated in this 
+way.  
+Off-balance-sheet vehicles – Banks have transferred their credit risk to off-balance-sheet 
+vehicles, such as SIVs and conduits, in order to save capital costs. The business model of 
+these vehicles built on maturity transformation broke down leading to liquidity problems of the 
+BIS Review 158/2008 
+ 1
+SIVs  and  conduits.  Owing  to  reputation  concerns,  the  banks  took  the  suffering  SIVs  and 
+conduits back on to their balance sheet. This transferred the credit and liquidity risk back to 
+the banks and triggered the loss of confidence in the money market. 
+All  these  examples  show  that  we  are  experiencing  severe  problems  with  CRT.  I  would 
+therefore like to pose two questions. What are the weaknesses in CRT markets? How can 
+we change the institutional framework in order to profit from the social benefits of CRT? 
+Weaknesses in CRT markets 
+3 
+Concerning weaknesses in CRT markets, I would like to draw your attention again to general 
+economic theory as this enables us to identify fundamental problems that are well known to 
+an  economist.  We  deal  with  problems  such  as  wrong  incentives  for  economic  agents, 
+insufficient transparency, and regulatory arbitrage. Let me point out just a few examples. 
+Moral hazard – One possible weakness in the CRT  market results from the securitisation 
+and  subsequent  distribution  of  credit  risk.  Once  the  credit  risk  is  forwarded,  there  is  no 
+incentive for the originator of the credit risk to monitor the debtor. Hence, we are dealing with 
+the  classical  phenomenon  of  moral  hazard.  The  empirical  results  of  a  paper  by  Mora  and 
+Sowerbutts  at  the  conference  indicate  that  this  is  not  only  a  theoretical  reflection,  but  a 
+present mechanism in the securitisation market. They show that retaining a greater fraction 
+of  credit  risk  in  the  balance  sheet  of  the  originator  significantly  lowers  the  probability  of 
+default of the underlying loan. The same problem may arise in the case of CRT via CDS, as 
+Parlour  and  Winton  show  in  their  paper.  In  their  theoretical  model,  the  monitoring  of  the 
+underlying loan is inefficiently low if a bank frees up regulatory capital by buying a CDS. The 
+reason for this is that while the insured originator of the loan has no incentive to monitor, the 
+insurer lacks the control rights. 
+Transparency – Another weakness in the CRT market results from its potential opaqueness. 
+During  the  past  decade,  we  have  experienced  a  hitherto  unique  process  of  credit  risk 
+dispersion  that  had  its  roots  in  the  US  subprime  market.  The  decodification  of  the  actual 
+degree  of  entanglement  is  still  in  progress.  In  a  recently  published  paper,  Gary  B.  Gorton 
+gives a very detailed description of the different steps of CRT. And he argues that while the 
+interlinking  of  securities,  structures  and  derivatives  made  it  possible  for  risk  to  be  spread 
+among many capital market participants, it simultaneously resulted in a loss of transparency 
+as to where these risks ultimately ended up.  
+This  loss  in  transparency  meant  that  market  participants  did  not  evaluate  their  credit  risk 
+adequately.  In  the  CDO  market,  for  example,  the  inherent  systemic  risk  of  certain  CDO 
+products,  such  as  RMBS  on  US  housing  loans,  was  not  taken  into  account.  Market 
+participants often relied solely on credit ratings and were attracted by the fact that these loan 
+securities had larger spreads than similarly-rated corporate bonds. The resulting increase in 
+demand for these products boosted their supply and allowed a decline in the quality of the 
+underlying  loans.  Hence,  securitisation  and  the  “originate  to  distribute”  business  model 
+became  more  and  more  attractive,  which  is  highlighted  by  the  fact  that  in  2005-06  dealer 
+firms transferred more subprime risk to investors than was originated during this period.  
+In the case of credit derivatives, a further aspect heightens the lack of transparency. The vast 
+majority  of  these  agreements  are  made  over  the  counter.  This  not  only  aggravates  the 
+misevaluation  of  counterparty  risk,  it  also  causes  an  evaluation  problem  concerning  the 
+systemic  risk  in  the  CDS  market.  This,  in  turn,  exacerbates  uncertainty  and  loss  of 
+confidence among market participants. 
+Regulatory arbitrage – In addition, the well-functioning of markets in general is at stake as 
+market  participants  usually  try  to  find  methods  to  evade  regulatory  regimes.  Financial 
+institutions  shifting  credit  risk  to  off-balance-sheet  vehicles  was  a  typical  form  of  such  a 
+regulatory arbitrage. In doing so, banks used a loophole in the old regulatory regime, which 
+2 
+ BIS Review 158/2008
+did not capture these vehicles. This loophole has been closed with the introduction of Basel 
+II. 
+Changes to the institutional framework 
+4 
+But how can we change the institutional framework in order to avoid the mentioned frictions 
+in the financial market and gain from the social benefits of CRT? 
+For more than one year, international institutions, central banks, and politicians have been 
+working  together  on  the  lessons  to  be  learnt  from  the  financial  crisis.  At  the  Summit  on 
+Financial Markets and the World Economy held in New York in November of this year, the 
+Heads of State of the G20 agreed on “Common Principles for Reform of Financial Markets”. 
+International  Institutions,  such  as  the  IMF  or  FSF,  published  valuable  reports  and 
+recommendations  on  possible  improvement  of  the  financial  architecture.  Furthermore, 
+national central banks are contributing their expertise to the discussion. However, in order to 
+achieve  improvements  in  the  financial  architecture  that  substantially  strengthen  financial 
+stability,  an  in-depth  analysis  of  the  underlying  reasons  for  the  crisis  is  essential.  In  this 
+respect, the economic research that takes place at universities and various institutions is of 
+great  importance.  For  that  reason,  economic  research  should  have  a  strong  voice  in  the 
+current debate. I therefore believe that events such as this conference are very important. 
+But let me come back to my question about adequate changes to the institutional framework. 
+As you can surely imagine, there are a great number of aspects that I could mention at this 
+point. However, I fear that would go beyond the scope of my speech. I shall therefore confine 
+myself to mentioning two measures, that are about to be taken. 
+Central counterparty (CCP) for OTC derivatives – The first measure aims to enhance the 
+transparency of the CDS market by implementing one or more CCPs for OTC derivatives. 
+The advantages would be a reduction in market participants’ open positions due to netting as 
+well as a better management and possible reduction of counterparty risk – for example, by 
+guarantee funds or insurance schemes. In addition, the implementation of a CCP could be 
+accompanied  by  disclosure  requirements  for  CDS  positions  of  the  originator.  These 
+requirements  could  also  mitigate  the  just  mentioned  moral  hazard  problem  in  the  case  of 
+forwarded  credit  risk  via  CDS.  As  Parlour  and  Winton  showed  in  their  paper,  reputation 
+mechanisms  may  partly  solve  the  problem  of  inefficient  monitoring  incentives  of  the 
+originator. Disclosure requirements are a prerequisite for such a reputation mechanism, as 
+the market participants have to know the track record of the originator. Regulators on both 
+sides of the Atlantic unanimously agree that there is a need for the implementation of a CCP 
+for OTC derivatives. However, there is an ongoing debate on the specific design of such an 
+institution.  The  first  steps  towards  the  implementation  of  a  CCP  were  initiated by  the  New 
+York FED aiming for a single CCP located in the US. More recently, the Governing Council of 
+the ECB discussed the idea of an additional European CCP. 
+The Bundesbank is in favour of this “European solution” as the Eurosystem should be able to 
+influence and to oversee these market infrastructures without any restrictions, especially in 
+times of financial turmoil.  
+Retention of a share of securitised products on the balance sheet of the originator – 
+Another  concept  has  the  objective  of  solving  the  moral  hazard  problem  arising  from  the 
+securitisation  of  credit  risk.  The  idea  is  that  if  the  originator  has  to  retain  a  share  of  the 
+securitised  products  on  his  balance  sheet,  the  incentive  to  monitor  the  underlying  loan 
+remains.  European  Commissioner  McCreevy  has  proposed  a  5%  retention  of  securitised 
+products  on  the  balance  sheet  of  the  originator  and  the  Ecofin  Council  has  agreed  to  this 
+proposal at its meeting on 2 December. Consequently, this issue will now be discussed in the 
+European Parliament.  
+BIS Review 158/2008 
+ 3
+The Bundesbank in general agrees with the European Commission’s proposal as it is a step 
+into the right direction in terms of avoiding moral hazard problems arising from securitisation. 
+Therefore, the Bundesbank welcomes the decision taken by Ecofin. 
+Concluding remarks 
+5 
+So this is my storyline concerning CRT – it is a story of the continual trade-off for financial 
+regulators between the benefits of free markets and the threat of market failures.  
+And I would like to emphasise that I believe this struggle for the right regulatory framework 
+will  go  on.  Certainly,  we  will  learn  from  this  crisis  and  we  will  enhance  regulation  and 
+supervision  in  order  to  erase  the  sources  of  this  crisis.  However,  financial  markets  will 
+generate  new  financial  products;  there  will  emerge  new  forms  of  incentive  problems, 
+insufficient 
+transparency,  and  regulatory  arbitrage.  Financial  regulators  as  well  as 
+researchers  in  the  field  of  financial  regulation  have  to  bear  this  in  mind  so  that  those 
+developments  in  the  financial  markets  that  threaten  financial  stability  can  be  identified  as 
+soon as possible.   
+Thank you very much for your attention. 
+4 
+ BIS Review 158/2008

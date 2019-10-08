@@ -1,0 +1,414 @@
+Benoît Cœuré: The monetary policy of the European Central Bank 
+Speech by Mr Benoît Cœuré, Member of the Executive Board of the European Central Bank, 
+at Barclays’ European Conference, Tokyo, 26 March 2012. 
+ Introduction 
+It is my pleasure to be here at Barclays’ European Conference in Tokyo.  
+Today I would like to provide a simple yet comprehensive description of the ECB’s actions 
+during  the crisis.  Faced  with  severe  turbulence,  all  central  banks  had  to  take  measures  in 
+real time and switch from central banking in “standard operating mode” to “risk control and 
+crisis management” mode. We did so by keeping an eye fixed on our objective. This helped 
+us to stay on course and provided continuity. 
+I  will  start  by  presenting  a  simplistic  model  of  monetary  policy  transmission.  This  is  the 
+sequence of events through which central banks’ decisions transmit to economic magnitudes 
+which  have  an  impact  on  people’s  welfare.  I  will  then  review  the  effectiveness  of  ECB’s 
+monetary  policy  prior  to  the  financial  crisis,  when  the  transmission  mechanism  was 
+functioning  according  to  the  textbook  definitions.  This  period  was  tranquil,  economically 
+speaking, although macroeconomic imbalances were quietly building up beneath the surface.  
+I will then portray the crisis as a creating a break in the transmission mechanism. The crisis 
+however  was  more  than  that:  at  some  point  we  all  feared  that  the  whole  financial  system 
+would  stop  functioning.  But  I  will  analyse  it  from  the  perspective  of  its  implications  for  the 
+chain of events on which monetary policy action depends. Here, I will argue that the standard 
+tool of central banks – changes to the short-term interest rate – can lose some of its potency 
+if  the  sudden  unravelling  of  imbalances  threatens  financial  stability  and  impairs  the 
+transmission mechanism. But I will also claim that new untested instruments were deployed 
+which  largely  replaced  standard  monetary  policy  interventions.  This  is  perhaps  the  most 
+relevant lesson we can draw from the crisis. 
+Monetary policy transmission  
+Let  me  briefly  elaborate  on  the  transmission  mechanism  of  monetary  policy.  You  can  see 
+here on slide 2 why the monetary transmission mechanism is so important for central banks. 
+The  ECB  has  a  statutory  objective  of  price  stability,  which  has  been  defined  as  a 
+year-on-year positive inflation rate below 2%. Within that range, the Governing Council aims 
+at an inflation rate not too far from 2%. We say: “an inflation rate below, but close to, 2%”. 
+However, in order to exert an influence on agents’ decisions which affect prices and inflation, 
+the ECB has to start from the top of this chart and try to reach out to the bottom. The path 
+that connects the two extremes – starting from the policy interest rate that the ECB controls 
+through  its  monetary  policy  operations  –  is  long  and  convoluted.  This  is  the  transmission 
+mechanism: a long and uncertain chain of events during which various asset prices react to 
+actions  taken  by  the  ECB  –  on  the  top  layer  of  decisions  in  this  chart  –  to  change  the 
+overnight rate at which banks lend to each other in the money market.  
+Long-term interest rates form important links in this chain. Aggregate demand is a function of 
+credit market conditions, and credit market conditions are a function of medium to long-term 
+interest rates: interest rates on mortgages, on non-financial corporations’ loans funding long-
+term  investment  projects,  and  so  on.  The  interest  rate  channel  of  monetary  policy  is  the 
+specific transmission path – marked in orange – that starts from the overnight rate that the 
+ECB can manipulate by its policy operations; it works by way of long-term rates.  
+BIS central bankers’ speeches 
+ 1
+The  first  equation  on  my  next  slide  [3]  describes  how  long-term  interest  rates  and  the 
+overnight  rate  are  connected.  Long-term  rates  (  iL
+t)  reflect the  average  expected  overnight 
+MP) plus a premium to reward long-term 
+rate set by monetary policy (which is indicated by it
+investment and lenders’ exposure to uncertainty ( prt).  
+To  influence  long-term  interest  rates  the  central  bank  has  two  levers.  These  levers 
+correspond  to  the  two  terms  on  the  right-hand  side  of  equation  (1).  The  first  term  in 
+parentheses denotes the component of the long-term interest rates that is determined by the 
+expectations of the policy rate. Basic arbitrage conditions ensure that the financial reward on 
+a long-dated security today ( iL
+t) is at least as large as the average of the financial return that 
+investors can expect to reap by holding a short-dated security and rolling it over for as many 
+periods as the maturity of the long-dated security.  
+The central bank can act on those expectations. It can do so by anchoring the current and 
+future  policy  rate  at  levels  that  –  if  solidly  incorporated  in  agents’  expectations  –  can  be 
+conducive to price stability. This is the central bank’s first lever on the transmission process. 
+The  way  the  central  bank  can  influence  expectations  of  its  policy  behaviour  in  the  face  of 
+macroeconomic shocks is critical here. It works through the credibility of the central bank’s 
+governance and through the way in which the central bank is seen – month after month – 
+reacting systematically to the changing economy. In this way, agents start internalising this 
+systematic behaviour in their expectations. But this process – easy as it sounds – is in fact 
+very complex and reversible.  
+No policy rule or macro-model can do justice to the complexity of these interactions. So, it is 
+only for the sake of clarity that I am using the stylised policy rule stated in equation number 
+two  on  my  slide.  According  to  this  simplistic  representation,  the  central  bank  changes  the 
+overnight  policy  interest  rate  by  considering  two  conditions.  First,  it  considers  whether 
+inflation is expected to be in line with levels consistent with its quantitative definition of price 
+stability. Here the term (E tπ t+1 – π*) denotes the difference between expected inflation and 
+its steady state value, in our case below but close to 2%: if inflation expectations exceed the 
+objective, the central bank – all other things being equal – is likely to raise its policy rate. A 
+second  factor  that  influences  the  policy  stance  is  monetary  conditions.  If  the  volume  of 
+money and credit that is created by financial intermediaries exceeds a trend that is consistent 
+with price stability in the long run, the central bank is also expected to increase its policy rate, 
+because excess money and credit creation can herald risks to price stability. In this simple 
+policy  rule,  excess  money  and  credit  growth  is  denoted  by  mt.  The  coefficients  α  and  λ 
+capture the strength of the central bank’s reaction. This is of course a simplified model and a 
+full representation of the ECB decision-making should include a broad set of variables which 
+are leading indicators of future inflation. If consistently followed through, a policy behaviour 
+that – as in this rule – resists inflationary pressures and counters exuberance in the monetary 
+sector can anchor expectations of inflation and, through that channel, of the future path of the 
+policy rate. Ultimately, this anchoring contributes to low and steady long-term rates.  
+I  mentioned  the  risk  premium.  The  second  lever  that  central  banks  can  operate  to  try  to 
+influence the long-term rates is via the risk premium, prt. Now, the risk premium itself can be 
+decomposed into three elements, as stated in the third equation on my slide. Two elements 
+reflect  macroeconomic  uncertainty  –  as  measured  by  the  variance  of  inflation  and  the 
+variance of real economic activity. If the variance of inflation and the variance of real growth 
+are  large,  the  quantum  of  macroeconomic  uncertainty  is  high,  and  lenders  will  charge  a 
+higher premium on long-term finance as a remuneration for their risk.  
+The  quantum  of  macroeconomic  uncertainty  that  the  premium  compensates  for  can  be 
+influenced by the central bank. By avoiding erratic behaviour – again, by following a steady 
+and predictable pattern of reaction to the evolving state of the economy – the central bank 
+can push volatility out of the system and contribute to a lower premium.  
+2 
+ BIS central bankers’ speeches
+But the premium includes a third element which is beyond the control of the central bank. I’m 
+calling this component “d”, because it is associated with credit default risk. But I’ll leave the 
+“d” factor aside for now and I will come back to it at the end. 
+Measures of performance  
+How well has the ECB managed the transmission mechanism and the macroeconomy? 
+Since  the  inception  of  the  single  currency  the  ECB  has  fulfilled  its  price  stability  mandate. 
+Taking  the  long-term  average  as  a  performance  indicator,  inflation  rates  in  the  euro  area 
+have been on average a few basis points above 2%. You can see their exact evolution over 
+time on this slide [4]. The slight overshoot relative to our aim – close to, but below, 2% – is 
+due to the recent renewed pressures on volatile components of the price basket. It certainly 
+remains within the strictest tolerance bands.  
+Simultaneously, the ECB has managed to compress the volatility of inflation in the euro area. 
+Slide  5  shows  a  breakdown  of  the  volatility  of  headline  inflation  into  the  volatility  of  core 
+inflation which central banks can influence over the medium term – the solid yellow bars – 
+and  the  volatility  of  food  and  energy  prices  –  in  blue  and  grey  respectively.  The  left-hand 
+chart  indicates  the  results  for  the  euro  area.  You  see  that  since  the  launch  of  the  euro, 
+overall  inflation  volatility  has  decreased  despite  a  substantial  increase  in  energy  and  food 
+price  volatility.  During  the  same  period  of  time,  inflation  volatility  in  the  US  has  actually 
+increased, as the drop in core inflation volatility was not offset by the surge in the variance 
+introduced by energy inflation.  
+Did  systematic  compression  of  inflation  volatility  come  at  the  price  of  more  erratic  real 
+activity? Let me move on to my next slide [6]. Here, each dot represents a major economy: it 
+gives information on the standard deviation of inflation and the standard deviation of output 
+growth which each economy has experienced since 1999. In this space, you want to be as 
+close  as  possible  to  zero.  Why?  Because  the  lower-left  part  of  the  chart  is  populated  by 
+economies  with  low  macroeconomic  instability,  i.e.  low  inflation  volatility  and  low  growth 
+volatility.  Indeed,  you  can  see  that  the  euro  area  has  been  closer  to  zero  than  any  other 
+economy except one, Switzerland – the dot to its left. The low variance of inflation rates in 
+the euro area did not come at the expense of unsteady economic growth.  
+Low  macroeconomic  volatility  has  meant  lower  long-term  interest  rates  and  lower  inflation 
+compensation  in  financial  contracts.  My  next  slide  [7]  illustrates  a  standard  technique  to 
+disentangle long-term euro area bond yields into premia remunerating investors for the risks 
+they bear on long-dated securities.1 Two facts are noteworthy. The first fact is a steep decline 
+–  since  pre-monetary  union  times  –  in  the  nominal  yield  paid  on  average  by  euro  area 
+governments to borrow at a ten-year maturity. This is the blue line in the chart. The second 
+fact is that such a steep fall in ten-year yields has resulted from the three components which 
+determine nominal interest rates: the real rate, the inflation expectation – which compensates 
+investors for the average expected inflation over the life of the security – and the inflation risk 
+premium – which compensates investors for inflation volatility. The real rate is the red line, 
+and  the  two  risk  premia  are  visible  as  wedges  between  the  nominal  and  the  real  rate. 
+Borrowing money in the euro area is cheaper today – in real and nominal terms – than it was 
+a decade and a half ago, and the lower cost of borrowing is largely related to a less uncertain 
+and a more predictable macroeconomy.  
+The euro area has been a stable economy, not a static one. My next slide [8] shows the real 
+per  capita  income  progression  of  the  euro  area  and  the  US  since  1999.  Contrary  to  long-
+standing beliefs, the euro area’s dynamism has not lagged that of the US. 
+                                                 
+1  See  García,  J.A.  and  T.  Werner  (2010),  “Inflation  risks  and  inflation  risk  premia,”  ECB  Working  Paper 
+No 1162. 
+BIS central bankers’ speeches 
+ 3
+I would conclude that the euro and its guardian, the ECB, have made a solid contribution to 
+low and stable borrowing conditions, and – through that channel – to moderate fluctuations 
+and economic prosperity. The data that I have shown you are in fact even more noteworthy, 
+since they cover the long and difficult upheaval suffered by financial markets after the demise 
+of Lehman Brothers in the fall of 2008.  
+I would now like to consider that particular period.  
+The first phase of the crisis  
+The  financial  panic  that  followed  Lehman’s  collapse  undermined  the  ability  of  markets  to 
+price financial assets. The resulting turmoil disrupted the mechanism which, in normal times, 
+central  banks  use  to  transmit  policy  signals  to  the  broader  economy.  The  interest  rate 
+channel ceased operating (see slide [9]). The impact of our policy rate on the interest paid on 
+securities of different maturities via expectations control was weakened: this is visible in the 
+left-hand chart on this slide [10]. The euro area money market froze – as shown by the surge 
+of the cross-sectional standard deviation of overnight rates across Member States. (See the 
+right-hand chart on slide 10). Banks located in different jurisdictions could no longer obtain 
+liquidity  on  the  unsecured  money  market  at  comparable  costs.  Likewise,  parts  of  the  euro 
+area  banking  system  had  problems  obtaining  long-term  funding  on  the  financial  markets. 
+Slide 11 shows the results of the ECB’s Bank Lending Survey for 2008. Throughout 2008, 
+but  increasingly  as  the  year  elapsed,  banks  reported  difficulties  accessing  the  wholesale 
+market for virtually all maturities, with the very short-term money market being less affected.  
+To address downside risks to price stability, the ECB responded to the shock with a forceful 
+application of its standard policy tool, as did many other central banks. We reduced policy 
+rates to an all-time low of 1%. (See slide 12). 
+At the same time, the disappearance of market arbitrage was a challenge that interest rate 
+action could not tackle in full. We therefore started acting as market makers and we played 
+an intermediation role which the market was unwilling or unable to perform. We tried to get 
+round  the  obstructions  facing  the  standard  transmission  mechanism  by  following  a  new 
+route,  the  liquidity  channel.  (See  slide  13).  It  worked  by  being  a  confidence-boosting 
+measure: enough central bank liquidity would be forthcoming in case market liquidity dried 
+up. 
+Our system – centred on overnight and term credit to banks, rather than outright purchases 
+of securities – was tailor-made to be used as an instrument to fend off a banking crisis. In the 
+event,  it  was  flexible  enough  to  be  activated,  with  only  limited  adjustments,  in  emergency 
+conditions. We had to tackle the collapse of private arbitrage, which meant that the market 
+could not distribute liquidity across institutions and over time. This was the rationale for two 
+main  features  of  our  extraordinary  credit  support.  The  full,  unlimited  accommodation  of 
+banks’  demands  for  central  bank  credit  at  our  policy  interest  rate  stepped  into  the  breach 
+when inter-bank lending collapsed. The extension of central bank credit provision to longer 
+maturities, up to one year in June 2009, replaced market inter-temporal trading, which had 
+largely disappeared. (See slide 14). 
+Important  for  the  design  was  the  structure  of  euro  area,  where  small  and  medium-sized 
+enterprises are particularly important for growth and job creation and banks provide most of 
+the financing. The importance of banks in the flow of credit to the real economy in the euro 
+area can be seen here (slide 15). Fully accommodating the overall higher liquidity needs of 
+banks  and  alleviating  bank  funding  stress  is,  therefore,  essential  to  support  the  wider 
+economy.  Equally  important  for  the  design  is  the  institutional  set-up  of  euro  area  – 
+comprising 17 sovereign states sharing a single currency. Offering unlimited liquidity at the 
+discretion  of  banks  makes  it  possible  to  target  exactly  those  parts  of  the  banking  system 
+which are subject to particularly high funding stress. This, in turn, contributes to a uniform 
+4 
+ BIS central bankers’ speeches
+cross-border  transmission  so  that  households  and  businesses  throughout  the  euro  area 
+enjoy credit conditions that are largely homogeneous.  
+The impact of this action is evident here [slide 16]; it shows the Eurosystem balance sheet as 
+a consequence of the increased lending assistance to our counterparties. As you can see, 
+actual  liquidity  demand  exceeded  the  levels  necessary  for  minimum  reserve  requirement 
+purposes:  look  at  the  significant  volumes  of  cash  deposited  overnight  with  the  ECB  by 
+counterparties on the liabilities side of the balance sheet.  
+The  measures  stabilised  the  economy.  Slide  17  depicts  the  economy’s  plunge  after  the 
+Lehman shock, with the bell-shaped distributions of market forecasts for the year 2009 GDP 
+growth  rates  revised  downward  from  one  update  to  the  next  by  a  few  annual  percentage 
+points.2  This  was  an  unprecedented  experience  for  the  ECB  and  for  the  national  central 
+banks.  From  the  second  half  of  2009,  growth  prospects  resumed  and  macroeconomic 
+uncertainty  –  measured  by  the  dispersion  of  those  forecast  distributions  –  declined 
+significantly.  The  densities  become  “thinner”  as  a  larger  probability  mass  concentrates 
+around the mean, while the mean growth forecast itself turns positive.  
+The second phase of the crisis  
+As I mentioned already, the “d” factor is the loose end in the transmission mechanism. It is 
+an  important  determinant  of  long-term  interest  rates.  But  it  is  not  controlled  by  the  central 
+bank. (See slide 18).  
+Between  October  2009  and  May  2010  the  “d”  factor  –  which  had  remained  dormant  for  a 
+long  time  after  monetary  union  –  became  destabilised.  Fiscal  sustainability  concerns 
+exacerbated  credit  risk  perceptions  and  prompted  investors  to  seek  higher  credit  risk 
+compensation. The debt markets of sovereign issuers in precarious fiscal conditions found 
+themselves  under  attack.  Starting  in  the  summer  of  2011,  market  distress  spread  more 
+broadly. In the end, a massive credit risk re-appreciation took place which affected bank and 
+non-bank  borrowing  with  pervasive  effects  on  the  viability  of  the  transmission  mechanism. 
+Banks’ creditworthiness as measured via CDS premia correlated strongly with their lending 
+to  countries  under  stress  (See  slide  19,  left-hand  chart).  At  times,  this  correlation  was 
+reinforced by the perception that governments bore significant contingent liabilities linked to 
+“too-big-to-fail”  financial  institutions.  In  response  to  stressed  funding  conditions  and  in 
+anticipation of a worsening macroeconomic outlook, banks tightened credit supply standards 
+sharply.3 (See slide 19, right-hand chart).  
+Once more, private financial intermediation was threatened. In the money market, confidence 
+was rapidly draining away and trades were becoming rare. The market for government paper 
+was  seriously  impaired.  It  was  against  this  background  that,  in  May  2010,  the  ECB 
+announced  its  intervention  in  debt  markets.  As  our  focus  in  that  phase  was  to  preserve 
+normal  conditions  for  asset  pricing  in  the  markets  for  securities,  we  called  our  policy  the 
+“Securities Markets Programme”. 
+Among  fixed-income  securities,  government  bonds  are  very  important  for  three  reasons. 
+First, low liquidity and uncertain prices for government bonds have a degrading effect on the 
+value  and  acceptability  of  collateral  which  is  used  in  secured  finance.  The  growing  role  of 
+secured  lending  in  financial  markets  means  that  financial  intermediation  would  suffer 
+enormously from any paralysis in sovereign bond transactions. Second, sharply lower bond 
+prices can cause significant losses in the portfolios of financial and non-financial institutions. 
+                                                 
+2  Forecasts were based on different vintages of Eurozone barometer forecast results. 
+3  See ECB Bank Lending Surveys for October 2011 and January 2012, http://www.ecb.int/stats/money/surveys/ 
+ 
+lend/html/index.en.html 
+BIS central bankers’ speeches 
+ 5
+For  banks,  this  would  reduce  their  ability  to  provide  loans  to  the  economy.  Third,  interest 
+rates on government bonds influence the level of interest rates that firms have to pay when 
+issuing their bonds and that banks use to price their loans. Government bond yields are the 
+basis for the pricing of all assets, from fixed-income instruments to equity.  
+The decision to intervene was a decision to support the discovery of prices in markets which 
+are key to transmitting our policy intentions and which had become highly dysfunctional.  
+As tensions grew in the summer and autumn of 2011, we strengthened our response further. 
+(See slide 20). In our first three-year longer-term refinancing operation in December last year 
+we  provided  around  €489  billion  of  stable  funding  to  523  banks  in  the  euro  area.  In  the 
+second one – conducted on 29 February this year – we supplied €530 billion to 800 banks. 
+Both long-term credit operations aimed to break a vicious circle in which sovereign funding 
+stress impedes bank access to longer-term financing and ultimately disrupts the flow of credit 
+to households and companies. It’s worth noting that the second operation reached a much 
+wider group of banks – among them many small banks providing funds specifically to small 
+and medium-sized enterprises. Its effect was heightened by an expanded range of collateral, 
+which particularly facilitated the participation of small and medium-sized banks. Importantly, 
+risks  related  to  the  expansion  of  collateral  have  been  mitigated  by  stringent  risk  control 
+measures. For instance, the haircuts on additional credit claims are very high so as to make 
+the  riskiness  of  these  additional  credit  claims  about  the  same  as  that  of  the  rest  of  the 
+collateral, for which the haircuts are lower. We are confident that wider participation by banks 
+can lead to a broader dissemination of credit to small and medium-sized borrowers.  
+The  right  half  of  this  picture  shows  the  impact  of  the  new  measures  on  the  Eurosystem’s 
+balance sheet. (See slide 21).  
+At  present,  we  are  seeing  some  encouraging,  albeit  early,  signs  of  normalisation  across 
+financial market segments. Broad money growth increased in January, as did loan growth to 
+private sectors. We are also seeing lower stock market volatility (slide 22, left-hand chart). 
+Money  market  credit  spreads  have  edged  lower  recently  (slide  22,  right-hand  chart). 
+Similarly, corporate bond credit spreads for both financial and non-financial enterprises have 
+decreased  (slide  23).  These  developments  remain  to  be  confirmed  and  we  are  closely 
+monitoring them. 
+I want to stress one important principle which has guided us consistently, particularly over 
+the  second  phase  of  the  crisis.  We  did  not  try  to  influence  the  “d”  factor:  we  could  not 
+possibly  have  done  so.  The  “d”  factor  originates  elsewhere,  outside  the  monetary  policy 
+sphere of influence. It is not the role of the ECB to cure the root cause of the malaise: weak 
+fiscal 
+fiscal  sustainability,  reinforced  by  diverging 
+competitiveness  among  euro  area  countries  and  low  growth  potential  in  a  wide  range  of 
+countries due to delayed structural reforms. Monetary policy is not and cannot be a substitute 
+for  sustainable  fiscal  policies,  structural  reforms  and  adequate  governance.  These  policies 
+are indeed in the remit of governments.  
+Governments did not remain inactive – they have contributed to the normalisation. Some of 
+them  have 
+the  root  cause  of  market 
+malfunctioning.  Collectively,  at  euro  area  level,  several  initiatives  are  under  way  or  have 
+been implemented. I would like to mention only the most recent ones regarding euro area 
+governance.  The  so-called  “six-pack”  introduces  a  macroeconomic  surveillance  procedure 
+which  will  detect  and  correct  divergences  at  an  early  stage.  Fiscal  surveillance  has  been 
+strengthened  and  procedures  for  correction  have  been  made  more  automatic  and 
+dependable.  A  so-called  “fiscal  compact”  will  introduce  fiscal  rules  in  binding  national 
+legislation.  In  the  pipeline  is  the  so-called  “two-pack”  that  is  expected  to  strengthen 
+surveillance  mechanisms  in  the  euro  area  even  further  and  might  become  the  first  step 
+towards  a  fully-fledged  fiscal  union.  Fiscal  federations  impose  strict  controls  on  regional 
+budgets and on this basis – and only on those conditions – they build mechanisms for cross-
+regional financial solidarity. This is the route that euro area governments are following now. 
+institutions  and  concerns  about 
+towards  addressing 
+important  steps 
+taken 
+6 
+ BIS central bankers’ speeches
+Structural  reforms  promoting  growth  and  job  creation  will  ease  pressure  on  government 
+finance. Similarly – as recommended by the European Banking Authority – the build-up of 
+capital buffers by banks will reassure markets of the resilience of the banking system and 
+create  the  conditions  for  a  more  stable  financial  industry  in  Europe.  Stronger  fiscal 
+institutions  combined  with  reforms  boosting  the  long-term  growth  and  competitiveness  of 
+euro area economies and a more resilient banking system are the right way to address the 
+“d” factor.  
+The overarching principles guiding monetary policy 
+Knowing  that  monetary  policy  does  not  cure  structural  economic  malaise  is  one  of  the 
+overarching principles guiding central banks. Equally important are price stability – as a clear 
+overriding objective – as well as central bank independence and credibility. Let me elaborate 
+on  these  principles  and  on  how  they  have  supported  the  ECB’s  monetary  policy  in  recent 
+times.  
+Independence  is  essential  for  central  banks,  particularly  in  periods  of  sovereign  funding 
+stress.  Whenever  state  finances  are  unsustainable,  the  likelihood  of  governments  exerting 
+pressure on central banks to monetise their debts increases. In a monetary union founded on 
+monetary independence and a clear mandate for the central bank, this temptation is ruled 
+out. In such a union, shocks to the "d" factor can even have desirable collateral effects. They 
+can provide incentives to sovereigns to pursue sustainable state finances and to undertake 
+the necessary structural reforms. Switching this mechanism off would weaken incentives to 
+conduct the right economic policies.  
+Monetary  policy  committed  to  price  stability  and  conducted  independently  and  credibly  will 
+not only deliver low inflation rates but also contribute to financial stability. I deliberately use 
+the word “contribute” as price stability is a necessary but insufficient condition for financial 
+stability. Financial stability is the joint outcome of:  
+ 
+sound  prudential  regulation,  supervision  and  oversight  of  financial  intermediaries, 
+financial markets and financial market infrastructures, and of 
+sound macroeconomic policies – comprising monetary policy and fiscal policy.  
+ 
+Nevertheless, its contribution to financial stability can be significant. In particular, a timely exit 
+from non-standard measures and a return to a less accommodative policy stance – once the 
+economic  conditions  are  ripe  –  are  essential  for  several  reasons.  First,  because  monetary 
+policy  accommodation  for  prolonged  periods  of  time  might  fuel  excessive  risk-taking, 
+leverage  and  asset  price  bubbles.  Second,  it  might  discourage  banks,  companies  and 
+governments from strengthening their balance sheets and therefore create a dependence on 
+low rates. 
+Let  me  develop  here  how  exit  can  take  place.  All  the  ECB’s  crisis-response  measures 
+involving liquidity provision over long horizons share an important feature: credit is granted at 
+a low but adjustable rate. We have already been explicit about the fact that the exact interest 
+rate on long-term liquidity will be determined ex post, and be equal to the average policy rate 
+prevailing over the life of the respective open market operation. We have also given banks 
+the option of reversing the long-term repurchase operation in advance, after one year, if the 
+conditions that had warranted the long maturity of central bank credit are no longer in place. 
+In any case, we can withdraw the ample liquidity created as a side effect of the long-term 
+operation whenever the Governing Council deems liquidity conditions are excessive in view 
+of the outlook for price stability. All the tools necessary for large-scale liquidity withdrawal are 
+already in place or will be readily available when needed. 
+This  is  consistent  with  our  monetary  policy  strategy.  It  emphasises  the  monitoring  of 
+monetary and credit developments, which are linked to both financial imbalances and threats 
+to  price  stability  over  longer  horizons.  It  ensures  a  more  symmetric  policy  with  respect  to 
+BIS central bankers’ speeches 
+ 7
+financial  misalignments  and  some  “leaning  against  the  wind”  if  monetary  trends  signal 
+inflationary  pressures  over  and  beyond  what  standard  conjunctural  analysis  and 
+macroeconomic projects imply.4  
+Conclusion 
+In conclusion, I return to where I started: the transmission mechanism and how a stability-
+oriented strategy can influence its multiple paths (see slide 24). The most important link in 
+the long chain is the monetary policy strategy. Clarity about the objective and about the key 
+indicators can anchor expectations and empower monetary policy decisions. As you know, 
+adjustments to expectations can amplify any action taken by a credible central bank.  
+Our  strategy  has  supported  this  mechanism  in  normal  times.  In  crisis  times,  as  markets 
+ceased to transmit price signals, our tools had to change. The Eurosystem’s response has 
+been  timely;  all  non-standard  measures  have  been  temporary  and  tailored  to  the  special 
+features  of  the  euro  area.  Our  tools  have  changed  but  our  strategy  has  not  –  it  is  in  fact 
+supporting a gradual process of normalisation.  
+The euro area is an economic and monetary union (EMU). Its monetary pillar has performed 
+well  so  far  and  will  continue  its  work  in  the  future.  The  economic  pillar  is  now  being 
+considerably  strengthened.  The  new  fiscal  framework  should  now  be  promptly  ratified  and 
+forcefully implemented under the leadership of the European Commission; as a complement, 
+growth initiatives will be welcome, insofar as they address the long-term growth potential.  
+                                                 
+4  See Fahr, S., R. Motto, M. Rostagno, F. Smets and O. Tristani (2011) “Lessons for monetary policy strategies 
+from the recent past” In “Approaches to monetary policy revisited – lessons from the crisis”, ed. M. Jarocinski, 
+F. Smets and C. Thimann, pp. 26–67, European Central Bank. 
+ 8 
+ BIS central bankers’ speeches
+ BIS central bankers’ speeches 
+   9
+ 10 
+   BIS central bankers’ speeches
+ BIS central bankers’ speeches 
+   11
+ 12 
+   BIS central bankers’ speeches
+ BIS central bankers’ speeches 
+   13
+ 14 
+   BIS central bankers’ speeches
+ BIS central bankers’ speeches 
+   15
+ 16 
+   BIS central bankers’ speeches
+ BIS central bankers’ speeches 
+   17
+ 18 
+   BIS central bankers’ speeches
+ BIS central bankers’ speeches 
+   19

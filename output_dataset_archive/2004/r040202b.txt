@@ -1,0 +1,724 @@
+Mervyn King: The institutions of monetary policy 
+Lecture by Mr Mervyn King,1 Governor of the Bank of England, at the American Economic Association 
+Annual Meeting, San Diego, 4 January 2004. 
+The references can be found on the Bank of England’s website (www.bankofengland.co.uk) 
+ President, Ladies and Gentlemen, 
+To have one central bank governor address you today may be regarded as a misfortune, but to invite 
+two looks like carelessness! 
+It  is  a  great  honour  to  be  invited  by  this  year’s  President-Elect,  Marty  Feldstein,  to  deliver  the  Ely 
+lecture. Marty has been my teacher, mentor, colleague and friend for over thirty years, and I never 
+cease  to  be  amazed  by  the  energy  and  imagination  which  he  devotes  to  the  study  of  economic 
+problems. 
+I  got  to  know  Marty  during  my  time  as  a  Kennedy  Scholar  at  Harvard  in  1971.  The  Kennedy 
+Scholarships form one part of Britain’s national memorial to President Kennedy. The other part is an 
+acre  of  land,  now  American  territory,  at  Runnymede.  At  the  ceremony  to  open  the  Runnymede 
+memorial  in  1965,  Prime  Minister  Harold  Wilson  remarked  about  President  Kennedy  that  “his  eyes 
+were  on  the  horizon,  but  his  feet  were  on  the  ground”.  Almost  thirty  years  earlier  Richard  T.  Ely 
+published  his  autobiography  entitled  “Ground  under  Our  Feet”.  Whereas  I  found  the  experience  of 
+coming  from  Europe  to  the  United  States  intellectually  liberating  and  exhilarating,  a  hundred  years 
+earlier Ely found academic freedom by making the reverse journey. As he wrote in his autobiography, 
+“When I first went to Germany I seemed to breathe a new and exhilarating atmosphere of freedom … 
+[which]  did  not  exist  in  [American  universities]”  (Ely,  1938).  Two  journeys,  separated  by  a  hundred 
+years, reveal much about what occurred in Europe and America between them. Upon his return, Ely 
+“undertook to draw up a project for the formation of a society to be called ‘The American Economic 
+Association’, which should be broad enough to appeal to all the younger economists who, irrespective 
+of their personal views, felt the stirring of the new life in economics”. His actions helped the AEA to 
+develop into the great institution it is today. 
+I have the privilege to work for another great institution, the Bank of England. And, as we celebrate the 
+150th anniversary of Ely’s birth, I thought it would be appropriate to choose as the theme of my lecture 
+today the role that institutions play in the conduct of monetary policy. In brief, I want to argue that the 
+core  of  the  monetary  policy  problem  is  uncertainty  about  future  social  decisions  resulting  from  the 
+impossibility  and  the  undesirability  of  committing  our  successors  to  any  given  monetary  policy 
+strategy. The impossibility stems from the observation that collective decisions cannot be enforced so 
+that it is impossible to commit to future collective decisions; the undesirability reflects the fact that we 
+cannot  articulate  all  possible  future  states  of  the  world.  It  is  not  possible  collectively  to  commit  to 
+enforce a monetary policy contract with an institution such as a central bank. And, even if we could, 
+we would not want to because that would prevent us from exploiting new knowledge about the world. 
+In  essence,  I  want  to  argue  that  the  relevant  theoretical  framework  could  be  described  as  “public 
+goods meet incomplete contracts”. Institutional design is at the heart of collective decisions in a world 
+of incomplete contracts, and, interestingly, discussion of monetary issues in recent years has focussed 
+on institutional arrangements.  
+I shall illustrate the importance of institutional design for the operation of monetary policy by reference 
+to  three  case  studies:  the  collapse  of  exchange  rate  regimes  in  Brazil  and  the  United  Kingdom; 
+currency arrangements in Iraq and their reform after the war last year; and the relationship between 
+central banks and governments when the zero constraint on nominal interest rates is binding.  
+                                                      
+1  
+I am deeply grateful to James Proudman, Jan Vlieghe and Tony Yates for their research collaboration and for many of the 
+ideas in this lecture. They are truly co-authors. I am also grateful to Peter Andrews, Andrew Bailey, John Campbell, Forest 
+Capie, Philip Evans, Niall Ferguson, Charles Goodhart, Simon Gray, Oliver Hart, John Moore, Tom Sargent, Lars Svensson, 
+Greg  Thwaites  and  Geoffrey  Wood  for  their  helpful  comments.  Kath  Begley  and  Ed  Bolingbrooke  provided  valuable 
+research assistance. All errors and omissions are my responsibility. 
+BIS Review 5/2004 
+ 1
+Money and monetary policy can be traced back to the dawn of civilisation itself. In contrast, central 
+banks are a recent development. The first central bank was the Riksbank in Sweden, set up in 1668.2 
+To  celebrate  its  tercentenary  it  endowed  the  Nobel  Prize  in  Economics.  The  Bank  of  England,  the 
+oldest continuing central bank, opened for business in 1694. Our tercentenary was a more low-key 
+event: we published a book of conference proceedings. By 1900 there were still only 18 countries with 
+a  central  bank.  Today  the  number  is  174.  The  Federal  Reserve  has  yet  to  reach  its  centenary.  As 
+institutions go, most central banks are youthful. Indeed, the reputation of central banks as wise and 
+disciplined institutions, in contrast with the wild excesses of finance ministries, belies their respective 
+ages. So the history of monetary policy cannot be equated with the history of central banks. But it is a 
+story about institutions. 
+Externalities in the theory of money 
+I. 
+In the history of money, the two key events are the emergence of a medium of exchange and the rise 
+of institutions governing its management. Those events raise two basic questions which are central to 
+understanding the nature of monetary institutions. First, why did money evolve as a social or public 
+rather than a private institution? Second, how can societies reduce the costs of being unable to make 
+commitments  about  future  collective  decisions?  The  answers  to  these  two  questions  determine  the 
+nature of modern central banks.  
+The  two  questions  relate  to  two  different  externalities.  The  first  is  a  network  externality.  Money 
+overcomes the constraint of the double coincidence of wants implied by barter exchange, a view set 
+out in detail by Carl Menger (1892) and which is modelled explicitly in Nobuhiru Kiyotaki and Randall 
+Wright (1989). More recently, the existence of money has been linked to the information structure of 
+the economy. Agents have imperfect information about their potential trading partner’s credit history 
+which  explains  the  emergence  of  a  private  sector  medium  of  exchange  as  an  alternative  to  an 
+extension of credit (Narayana Kocherlakota, 1998). Our willingness to use and hold money is greater 
+the more that money is used by other people. There is, therefore, a network effect.  
+One can imagine, and indeed Friedrich Hayek (1976) advocated, a system in which anyone is allowed 
+to issue money. The private sector may well co-ordinate on using the money of the ‘best’ issuer, and 
+that  issuer’s  behaviour  may  be  kept  in  check  by  the  threat  of  entry.  But  competitive  monies  have 
+arisen  only  rarely  and  in  situations  where  government  money  is  either  absent  (as,  for  example,  in 
+Robert  Radford’s  (1945)  study  of  cigarette  money  in  POW  camps)  or  very  badly  managed  (as  in 
+periods  of  hyperinflation).  Despite  the  abolition  of  foreign  exchange  controls,  as  recommended  by 
+Hayek, competition among national currencies has not lessened the dominance, within each economy, 
+of a single public money. Network externalities make it difficult for competing currencies to emerge.  
+The existence of public money generates a second type of externality to do with intertemporal choices. 
+The willingness to hold money as either a store of value or a means of payment, or use money as a 
+unit in which contracts are denominated, depends upon expectations of the stability of the value of that 
+money. If money takes the form of competing private currencies then there is no inherent problem for 
+private issuers to maintain the value of their liabilities by backing them appropriately, a commitment 
+that  can  be  enforced by  the  legal system.  Alternatively,  where a private  commodity  standard  is  the 
+solution to the exchange problem, then there is no ability -and therefore no temptation - to devalue. 
+But a public monopoly means that the demand for money today depends upon expectations of our 
+collective decisions about the supply of money tomorrow. The key question for a public currency is 
+how do we prevent the government - ourselves - abusing its issuing power in the future? Collective 
+decisions  today  cannot  bind  future  collective  decisions.  And  when  monetary  policy  is  set  period  by 
+period inefficient outcomes result. The key insight of Finn Kydland and Edward Prescott (1977) was 
+that the inability to make commitments leads to a failure to internalise the impact of public policies on 
+the expectations of the private sector.  
+Dynamic inconsistency was used by Kydland and Prescott (1977) and Robert Barro and David Gordon 
+(1983a) to demonstrate that rational expectations could lead to an equilibrium in which inflation was 
+higher than desired. Ex post it would always seem attractive to create surprise inflation. More recently, 
+research by Lars Svensson (1997), Michael Woodford (2003) and others has shown that even when 
+                                                      
+2   Strictly speaking, it is not clear that the Riksbank was what we would today recognise to be a central bank until considerably 
+later. 
+2 
+  BIS Review 5/2004
+there is no inflation bias there can be a “stabilisation bias” from the exercise of discretionary monetary 
+policy: one that would lead to a suboptimal combination of output and inflation variability. Those results 
+have prompted a large volume of research exploring different ways in which the commitment to price 
+stability  could  be  made  credible.  And  central  banks  themselves  have  devoted  no  less  energy  to 
+establishing the importance of their credibility.  
+Two very different approaches to the time-consistency problem have been discussed in the literature. 
+One examines contractual relationships between the public and monetary decision-makers that reduce 
+or  eliminate  the  degree  of  inflation  and  stabilization  biases  resulting  from  discretionary  policy. 
+Examples  include  formal  adoption  of  monetary  policy  rules,  a  contract  between  government  and 
+central  bank  instructing  the  latter  to  target  price  stability,  the  delegation  of  monetary  policy  to  a 
+conservative  central  banker,  and  investment  in  a  reputation  by  current  decision-makers.  But  those 
+answers  from  the  literature  on  rules  versus  discretion  are  not  really  solutions.  They  only  move  the 
+time-consistency issue one step back - the policy rule may be abandoned, the central banker fired, the 
+contract reinterpreted or rewritten.3  
+The  other  approach  says 
+that  real  central  bankers  do  not  and  need  not  worry  about  
+time-inconsistency; they “just do it”, (Bennett McCallum, 1995). Central bankers should simply resist 
+the temptation to deviate from the time-inconsistent policy, and private agents will eventually come to 
+accept that resolve. Attractive as such a solution may appear to central bankers, it fails to answer the 
+challenge posed by the game-theoretic result of Kydland and Prescott. And it fails to explain why it is 
+that  some  countries  in  some  periods  just  do  it  and  others  do  not.  Central  bankers  who  have  the 
+determination  and  strength  of  purpose  to  “take  the  punch  bowl  away  just  when  the  party  is  getting 
+going”,  in  McChesney  Martin’s  memorable  phrase,  clearly  have  the  “right  stuff”  -  so  why  don’t  they 
+“just do it”? 4 A deeper explanation of how this problem can be overcome requires an analysis of what 
+might be called the “technology of collective decisions”. 
+Individual agents can make contracts because they believe that the legal system is external to both 
+parties  to  the  contract.  But  it  is  difficult  to  write  contracts  that  commit  future  collective  behaviour. 
+Collectively, we can either meet our previous commitments or we can ignore them. To take just one 
+example:  only  a  few  weeks  ago  ECOFIN,  the  council  of  economic  and  finance  ministers  of  the 
+European Union, decided to suspend the excessive deficit procedure - a key feature of the Stability 
+and Growth Pact - that had been initiated against France and Germany. Ernst Welteke, the President 
+of the Bundesbank, has since raised serious doubts about whether politicians in Europe are willing to 
+embrace the collective fiscal discipline, backed up by real sanctions, that is necessary to prevent fiscal 
+free-riding inside a monetary union.5  
+The role of institutions 
+II. 
+The technology of collective decisions describes the feasible set of institutional arrangements that can 
+be constructed to reduce the costs of the commitment problem. That problem may lead to inefficient 
+outcomes - the Coase theorem does not apply to collective decisions.6 It is useful to think about the 
+optimal design of monetary institutions using the insights from the theory of incomplete contracts. That 
+theory discusses what contracts would look like if certain aspects of the world could not be verified by 
+an outside enforcer of the contract. In terms of monetary policy, there are two related though distinct 
+aspects  of  the  commitment  problem.  First,  the  inability  to  enforce  commitment,  because  monetary 
+arrangements  can  always  be  changed  in  the  absence  of  an  outside  enforcer,  means  that  no  such 
+                                                      
+3   Torsten  Persson  and  Guido  Tabellini  (1999)  argue  that  if  it  takes  sufficient  time  for  a  government  to  tear  up  contracts 
+designed  to  eliminate  the  inflation  bias  (longer  than  the  duration  of  nominal  contracts)  promises  not  to  inflate  can  be 
+credible. 
+5  
+4   Svensson (2002) takes the same view of McCallum (1995) in his comments on Stokey (2002), thus: “…to my knowledge 
+neither McCallum nor anyone else has presented a model where ‘just do it’ is an equilibrium outcome.”[p4]. 
+“The institutional structure of monetary union forms the basis for public trust in the euro and rests on two pillars: the stability-
+oriented monetary constitution enshrined in the Maastricht treaty, and the stability and growth pact. Both pillars are being 
+undermined,  leaving  European  monetary  union  in  a  very  grave  predicament”.  (Ernst  Welteke,  The  Times,  4  December 
+2003). 
+6   Daron Acemoglu (2003) argues that inefficient policies can occur in a democracy because those in political power cannot 
+commit to maintaining the policies that are required to achieve efficient outcomes. In other words, the Coase theorem does 
+not apply at the level of society as a whole. 
+BIS Review 5/2004 
+ 3
+arrangement is sacrosanct for all time. Thomas Jefferson believed that the US Constitution should be 
+rewritten every 20 years or so at a new constitutional convention.7 Second, we cannot fully describe 
+an optimal monetary arrangement because we do not know all possible states of the world and hence 
+the policy rule to which we would like to commit. Those two aspects of the technology of collective 
+decisions create a role for institutions.  
+But they differ in important ways. If there were only a commitment problem, then we could describe an 
+optimal  state-contingent  monetary  policy  reaction  function.  Mechanisms  could  then  be  devised  to 
+make it less likely that policy would deviate from this optimal plan - perhaps by writing the optimal rule 
+in the form of a constitutional provision which could be overturned only by a substantial majority, or 
+financing deficits by issuing index-linked debt. Such mechanisms would make it incentive compatible 
+collectively to stick to the optimal plan. None of this would have come as a surprise to the authors of 
+the American Constitution. In Federalist Paper No.10 James Madison points out that “our governments 
+are too unstable” (p173) and in No. 37 he writes: “the people of this country, enlightened as they are 
+with regard to the nature ... of good government, will never be satisfied till some remedy be applied to 
+the  vicissitudes  and  uncertainties  which  characterise  the  State  administrations”  (p243).  Outside 
+observers agreed. In 1835 Alexis de Tocqueville wrote that, “the authority which public men possess in 
+America is so brief and they are so soon commingled with the ever changing population of the country 
+that the acts of the community frequently leave fewer traces than events in a private family. .... The 
+instability of administration has penetrated into the habits of the people”. 
+The  stability  of  institutions  is,  therefore,  one  of  their  greatest  assets.  Barro  and  Gordon  (1983b) 
+assumed the existence of an ongoing government or central bank which had an interest in preserving 
+a reputation for “good” behaviour. A substantial literature, reviewed by Nancy Stokey (2002), analyses 
+the circumstances in which it is attractive for a “good” government to distinguish itself from a “bad” 
+government. Stokey shows that if it is not easy to do so, then it may be optimal to impose a monetary 
+policy  rule  on  all  governments  in  order  to  reduce  the  damage  done  by  the  prospect  of  a  bad 
+government in the future. But how can society convince itself that it can eliminate bad government by 
+adopting a policy rule? A really bad government will simply restore discretion to itself. Good and bad 
+governments are not independent actors. They reflect the degree of consensus on how to construct 
+institutions that will pursue consistent objectives.  
+The experience of high and variable inflation itself can be an important force shaping public attitudes 
+towards the design of institutions to control it. Differences among cohorts may lead to variations over 
+time in the optimal shape of institutions, rather as Jefferson advocated. For example, Robert Shiller 
+(1996) reports that 90% of those born before 1940 in Germany agreed with the statement that ‘The 
+control of inflation is one of the most important missions of German economic policy’, compared with 
+51% of those born from 1950 onwards. Memories of hyperinflation can be vivid: Niall Ferguson cites 
+the diary of one Frankfurt resident in 1923: “it was more than disorder that smashed over people, it 
+was something like daily explosions… the smallest, the most private, the most personal events always 
+had  one  and  the  same  cause;  the  raging  plunge  of  money”  (p154).  So  it  is  not  surprising  that  the 
+generation  of  Germans  which  created  the  Bundesbank  saw  it  as  a  crucial  component  of  their  new 
+constitution. Countries, or indeed cohorts, which have not experienced hyper-inflation may be more 
+willing to adopt monetary arrangements that are less entrenched in constitutional form than the post-
+war generation in Germany.  
+The second aspect of the technology of collective decisions that creates a role for institutions is our 
+ignorance of all possible future states of the world. That means that even if we were able to commit to 
+a policy rule, we would choose not to do so. The exercise of some discretion is desirable in order that 
+we may learn. The most cogent argument against the adoption of a fixed monetary policy rule is that 
+no  rule  is  likely  to  remain  optimal  for  long.  Nor  is  this  just  a  question  of  learning  about  parameter 
+values. That would yield an optimal state-contingent procedure for updating the monetary policy rule. It 
+is that we are unwilling to commit now never to learn from future experience. So we would not want to 
+embed any rule deeply into our decision-making structure, such as giving it the force of law or making 
+it  part  of  the  constitution.  Instead,  we  delegate  the  power  of  decision  to  an  institution  that  will 
+implement policy period by period exercising “constrained discretion”. The status and purpose of such 
+institutions can be embedded into the law or constitution, which may increase the cost of reversing the 
+delegated powers, but the optimal policy path should be open to change in response to learning. Since 
+                                                      
+7   As reported by Gore Vidal (2003). 
+4 
+  BIS Review 5/2004
+we cannot hope to describe ex ante what it is we expect to learn, and since new ideas are unlikely to 
+be  uniformly recognised  and  instantly  accepted,  it  may  be  sensible  to  delegate  both  the  immediate 
+policy decision and the process of learning to the same institution.8 
+An interesting example of seeking flexibility to allow for learning occurred during the writing of the US 
+constitution. One draft clause specified that Congress should be allowed to “… emit bills on the credit 
+of the United States”. There was a debate on a proposition to strike out the clause. Madison’s notes 
+describe George Mason’s position on the subject: “Though he had a mortal hatred to paper money, 
+yet, as he could not foresee all emergencies, he was unwilling to tie the hands of the legislature”.9 
+Edmund  Randolph  was  of  a  similar  opinion:  “…  notwithstanding  his  antipathy  to  paper  money,  [he] 
+could not agree to strike out the words, as he could not foresee all the occasions that might arise.”  
+So the ideal is a framework that will implement what we currently believe to be the optimal monetary 
+policy  strategy  and  will  deviate  from  that  only  if  collectively  we  change  our  view  about  what  that 
+strategy should  be.  Our  ignorance  is  too  pervasive  to  allow  the adoption  of  a rule  for how  learning 
+should  occur.  So  if  it  is  sensible  to  delegate  both  policy  decisions  and  the  process  of  learning  to 
+institutions  such as  central  banks,  that  in  turn requires  those  institutions  to have  political  legitimacy 
+and an acceptance that they will not redistribute income and wealth in favour of some groups rather 
+than  others  at  the  expense  of  the  objective  given  to  them.10  Where  such  institutions  are  difficult  to 
+create, the ‘external effect’ - as Stokey (2002) called it - of good monetary policy will not be captured. 
+And if the result is a monetary policy that is sufficiently bad, it may result in a radical switch to a unit of 
+account determined externally, an obvious example of which is dollarisation. 
+Monetary institutions, therefore, play two different roles. First, they expand the possibility frontier of the 
+technology of collective decisions and can be designed to raise the cost of those decisions deviating 
+from  pre-announced  contingent  paths.  Second,  they  are  set  up  explicitly  to  exercise  a  degree  of 
+discretion  -  “constrained  discretion”  -  subject  to  the  broad  objective  of  price  stability.  Discretion  is 
+inevitable because of the need to learn about the economic environment. Institutions thereby become 
+repositories of experience and knowledge which they communicate to society as a whole. 
+Case Study I: Exchange rate regimes in Brazil and the UK 
+III. 
+I  want  to  illustrate  the  importance  of  institutions  and  the  credibility  of  their  stability  by  three  case 
+studies.  My  first  example  concerns  the  collapse  of  exchange  rate  regimes  in  Europe  and  Latin 
+America. It demonstrates that economic institutions require a broad base of political support if financial 
+markets are to believe that those institutions are likely to survive.  
+For  a  while  fixed  exchange  rate  regimes  enjoyed  a  degree  of  support  in  both  Europe,  with  the 
+Exchange  Rate  Mechanism  (ERM),  and  Latin  America.  But  experience  shows  that,  in  terms  of 
+credibility in financial markets, the design of those policy regimes was less important than the fact of 
+their having broad political support.  
+Brazil in 1998-99 is a case in point. In 1998 Brazil operated a crawling peg exchange rate regime. As 
+can be seen from Chart 1, throughout that year markets expected the Real to depreciate as evidenced 
+by the fact that the implied forward exchange rate was lower than the spot rate by more than the crawl 
+would imply.11 In order to defend the crawling peg, the central bank raised interest rates in September 
+1998 from 20% to 40% a year. The implied forward exchange rate promptly fell. Raising interest rates 
+actually increased the expectation that the peg would be abandoned, since markets knew that high 
+interest rates were likely to prove politically unsustainable. Any government prepared to keep interest 
+rates that high was not likely to win re-election. In January 1999 a second speculative attack on the 
+peg occurred. And this time the peg was abandoned. Although short-term interest rates were raised 
+                                                      
+8   Svensson  (2003)  takes  a  view  that  is  related  to  the  argument  here.  In  his  opinion,  commitment  to  ‘targeting  rules’  - 
+objectives that the central bank must pursue - are workable, while commitment to ‘instrument rules’ - reaction functions - are 
+not, since it is “impossible” that “every conceivable contingency be anticipated” [p439]. 
+9   This is cited in David Dewey (1918), page 68. 
+10   The costs and benefits of discretion in a world where we cannot describe future possible states of the world are set out in 
+Philippe Aghion and Patrick Bolton (2002). 
+11   The forward rate was below the spot rate even allowing for the devaluation implied by the crawling peg. 
+BIS Review 5/2004 
+ 5
+while  the  peg  was  being  defended,  they  were  soon  lowered  to  more  sustainable  levels.  The 
+expectations that had been built into forward exchange rates were proved correct.  
+ 
+Chart 1: Exchange rates and monetary 
+policy in Brazil, Jan 1998-Dec 1999
+Per cent
+Reais/$ 
+rate (rhs)
+Spot exchange 
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Jan-98 May-98 Sep-98
+ (rhs)
+Implied 
+forward 
+exchange rate
+Overnight 
+interest rate
+(lhs)
+0
+0.5
+1
+1.5
+2
+2.5
+3
+Jan-99 May-99 Sep-99
+Source: JP Morgan and Banco Central do Brasil
+ In  the  literature  on  target  zones  for  exchange  rates,  it  is  assumed  that  raising  interest  rates  is  a 
+successful  method  for  supporting  the  exchange  rate  because  of  uncovered  interest  parity.  But  this 
+ignores the possibility that raising interest rates to defend a fixed exchange-rate regime will simply call 
+into question the durability of the regime itself and raise the probability that the peg or target zone will 
+be abandoned. In such circumstances an increase in interest rates may lead to a fall in the exchange 
+rate. 
+A second example of the same phenomenon is the pressure on sterling during 1992 and its forced 
+departure from the Exchange Rate Mechanism on 16 September of that year. Massive speculation on 
+that day led to the announcement in the morning of a 2 percentage points rise in interest rates and, 
+when that failed to dampen the pressure on sterling, of a further 3 percentage points rise in rates. That 
+second announcement, far from bolstering the exchange rate, merely convinced financial markets that 
+Britain’s  membership  of  the  ERM  could  no  longer  be  sustained  politically.  The  strong  political 
+commitment to joining European monetary union, which was the effective support for other currencies 
+in the ERM, was absent in the United Kingdom. 
+Following its departure from the ERM, the UK introduced an inflation target regime for monetary policy. 
+It succeeded in bringing inflation down to around 2½ percent (see chart 2).  
+6 
+  BIS Review 5/2004
+Chart 2: UK inflation and inflation 
+expectations, Oct 1991-Oct 2003
+Per cent
+7
+Implied inflation
+from IGs
+RPIX inflation rate
+(a )
+6
+5
+4
+3
+2
+1
+Bank 
+independence
+Inflation
+target
+announced
+0
+Oct-91 Oct-93 Oct-95 Oct-97 Oct-99 Oct-01 Oct-03
+(a )Implied average inflation expectations from 5 to 10 years ahead, derived from index-linked
+gilts. Source: Bank of England, ONS
+ But long-term inflation expectations did not fall as quickly. Only after the announcement in May 1997 
+by  the  new  Labour  government  that  the  Bank  of  England  would  be  made  independent  did  inflation 
+expectations  fall  quickly  to  the  target  level,  as  can  be  seen  from  chart  2.  That  reform  created  an 
+expectation that it would be in the interests of all political parties not to repeal the legislation. For the 
+first time since the Second World War, there was a broad-based and credible commitment in the UK to 
+stable and low inflation. 
+The need for any monetary regime to command sufficient support in order to acquire a reasonable life-
+expectancy was given insufficient weight in the discussions that took place at the IMF and elsewhere 
+on Brazil and other financial crises of the 1990s. The point is made by Guillermo Calvo and Frederic 
+Mishkin (2003) when they write, “the key to macroeconomic success in emerging market countries is 
+not primarily their choice of exchange rate regime, but rather the health of the countries’ fundamental 
+macroeconomic  institutions,  ...  less  attention  should  be  focused  on  the  general  question  whether  a 
+floating  or  a 
+institutional  
+arrangements” (p5).12 
+is  preferable,  and  more  on 
+fixed  exchange  rate 
+these  deeper 
+Case Study 2: Currency reform in Iraq 
+IV. 
+The importance of expectations about the future of monetary institutions is illustrated by the recent 
+monetary history of Iraq. This second case study demonstrates that expectations of future collective 
+decisions  can  have  a  major  impact  on  the  value  of  a  currency  quite  independently  of  the  policies 
+pursued by the current government. Expectations of monetary decisions within a given policy regime 
+may be less significant than expectations of changes in the regime itself. In Iraq, regime change took 
+on  a  new  meaning. What  is  particularly  interesting about  Iraq  is  the  link  between  expectations  of a 
+change in political regime and movements in currency values. 
+Prior to the Gulf War in 1991 the Iraqi currency was the dinar. Following that war Iraq was divided into 
+two parts that were politically, militarily and economically separate from each other: southern Iraq was 
+under  the  control  of  Saddam  Hussein  and  the  enforcement  of  the  northern  no-fly-zone  meant  that 
+northern  Iraq  became  a  de  facto  Kurdish  protectorate.  In  the  South,  Saddam’s  regime  struggled  to 
+cope with UN sanctions, and resorted to printing money to finance growing fiscal deficits. Unable to 
+import  notes  printed  abroad  because  of  sanctions,  the  regime  printed  low-quality  notes  in  Iraq  that 
+                                                      
+12   This quote appears on page 5 of the NBER working paper number 9808 (Cambridge, MA) version of their paper. At the time 
+of writing, the Journal of Economic Perspectives version, which appears in the list of references, was still forthcoming. 
+BIS Review 5/2004 
+ 7
+bore Saddam’s image. In May 1993, the Central Bank of Iraq announced that the 25 dinar note, then 
+the highest denomination note in circulation, would be withdrawn and replaced by a new locally printed 
+note.  These  were  known  as  ‘Saddam’  or  ‘print’  (because  of  the  offset  litho  print  technology  used) 
+dinars. Citizens had three weeks to exchange old for new notes. So many notes were printed that the 
+face value of cash in circulation jumped from 22 billion dinars at the end of 1991 to 584 billion only four 
+years later. Inflation soared to an average of about 250% a year over the same period. As a result the 
+smaller denomination notes became worthless in Southern Iraq.  
+In the North, however, matters were rather different. Residents in that part of Iraq had no opportunity 
+to exchange their notes. And it was no accident that, because of expropriation of cash in the banks by 
+the Saddam regime, the holders of the high denomination notes were disproportionately in the North. 
+Of  the  seven  billion  25  dinar  notes  in  circulation  in  Iraq  at  that  time,  about  five  billion  circulated  in 
+Kurdish-controlled Iraq. So the Saddam dinar did not circulate in the North, and the old dinar notes 
+continued to be used. They were known as the ‘Swiss’ dinar - so-called because although the notes 
+had  been  printed  by  the  British  company  De  La  Rue,  the  plates  had  been  manufactured  in 
+Switzerland. The Swiss dinar developed a life of its own and in effect became the new currency in the 
+North. No Swiss dinar notes were issued after 1989, and since there was no issuing authority there 
+was at most a fixed, and probably a declining money stock in the North. As a result the Swiss and 
+Saddam dinars developed into two separate currencies. 
+For ten years, therefore, Iraq had two currencies: one issued by the official government and the other 
+backed  by  no  government  at  all.  The  Swiss  dinar  continued  to  circulate  in  the  North,  even  though 
+backed by no formal government, central bank, nor any law of legal tender. For a fiat currency this was 
+an unusual situation. Whatever gave the Swiss dinar its value was not the promise of the official Iraqi 
+government, or indeed any other government.13 
+Although  there  was  little  or  no  trade  between  North  and  South  Iraq,  both  the  Swiss  and  Saddam 
+dinars were traded against the dollar. The implied Swiss to Saddam dinar cross-exchange rate from 
+1997 onwards is shown in Chart 3.14 
+Chart 3: Saddam/Swiss Dinar 
+exchange rate, Jul 1997-Oct 2003
+Saddam/Swiss Dinars
+(log scale)
+400
+200
+100
+50
+Jul-97
+Jul-98
+Jul-99
+Jul-00
+Jul-01
+Jul-02
+Jul-03
+Source: United Nations, Central Bank of Iraq
+After 1993 the Swiss dinar deviated from parity and rose to around 300 Saddam dinars to the Swiss 
+dinar  by  the  time  Saddam’s  regime  was  deposed  in  2003.  The  appreciation  of  the  Swiss  dinar  is 
+                                                      
+13   At no stage did the Kurdish groups lay claim to the Swiss dinar as their currency - they had no control over it - as shown by 
+the interview given to Gulf News on 30 January 2003 by the Kurdistan Regional Government Prime Minister Barzani who 
+said, “We don’t have our own currency”. 
+14   Sources for these data include the United Nations (from the oil-for-Food program) and the Central Bank of Iraq.  
+ 8 
+  BIS Review 5/2004
+clearly  a  consequence  of  the  evolution  of  the  actual  and  expected  money  supplies  in  the  two 
+territories. 
+Given  the  monetary  and  fiscal  policies  pursued  by  the  Saddam  regime,  the  rise  of  the  Swiss  dinar 
+against  the  Saddam  dinar  is,  perhaps,  understandable.  But  what  is  less  obvious  is  the  path  of  the 
+Swiss  dinar  against  the  US  dollar.  Chart  4  shows  the  Swiss  dinar-dollar  exchange  rate  from  1997 
+onwards.  
+Chart 4: The Swiss Dinar/Dollar 
+exchange rate, Jul 1997-Oct 2003
+Swiss Dinar/$
+Swiss Dinar/$
+0
+5
+10
+15
+20
+25
+30
+35
+Jul-97
+Jul-98
+Jul-99
+Jul-00
+Jul-01
+Jul-02
+Jul-03
+Source: United Nations, Central Bank of Iraq
+ After fluctuating in the early 1990s, the Swiss dinar rose sharply against the US dollar from the middle 
+of  2002  as  the  prospect of  an  end  to the  Saddam regime  increased.  It  rose  from around  18  to  the 
+dollar in May 2002 to about 6 to the dollar by the beginning of May 2003 when the war ended. That 
+appreciation  reflected  expectations  about  (i)  the  durability  of  the  political  and  military  separation  of 
+Kurdish from Saddam-controlled Iraq and (ii) the likelihood that a new institution would be established 
+governing monetary policy in Iraq as a whole that would retrospectively back the value of the Swiss 
+dinar.  The  political  complexion  of  Northern  Iraq  led  to  the  assumption  that  the  currency  used  there 
+would have value once regime change had occurred.  
+In other words, the value of the Swiss dinar had everything to do with politics and nothing to do with 
+the  economic  policies  of  the  government  issuing  the  Swiss  dinar  because  no  such  government 
+existed. As someone might have said, “it’s the political economy, stupid!”  
+Another illustration of this is shown in Chart 5 which plots the Swiss dinar/dollar exchange rate against 
+the  values  of  futures  contracts  showing  how  expectations  about  the  political  order  in  Iraq  were 
+evolving. 
+BIS Review 5/2004 
+ 9
+Chart 5: Exchange rates and regime change 
+in Iraq, Sep 2002-Dec 2003
+Swiss Dinar/$
+Cents
+Saddam deposed by
+end June 03
+Saddam captured by
+end Dec 03
+b
+a
+Swiss Dinar/$ (rhs)
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+20
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Sep-02
+Dec-02 Mar-03
+Jun-03
+Sep-03
+Source: United Nations, Central Bank of Iraq, Tradesport Exchange Limited
+a Value in cents of a contract that paid 100 cents if Saddam is deposed by the end of June 2003, and 0 otherwise
+b Value in cents of a contract that paid 100 cents if Saddam was captured by the end of December 2002, and 0 otherwise
+ One futures contract paid out 100 cents if Saddam was deposed by the end of June 2003 and nothing 
+otherwise. As the chance of Saddam’s regime being deposed (and the price of the future) rose, the 
+Swiss dinar appreciated against the dollar. Later there was also a future that paid 100 cents if Saddam 
+was captured by the end of December 2003, and nothing otherwise. As the chance of this happening 
+(and the price of the future) fell last autumn, the Swiss dinar fell against the dollar. It has just risen 
+again.  Again,  expectations  about  the  future  political order  in  Iraq,  which have repercussions  for  the 
+likely monetary regime in northern Iraq, influence the value of the Swiss dinar today. 
+Much of this was understood by Kurds in the North where the exchange rate of the Swiss dinar to the 
+dollar was a matter of both concern and interest. The minutes of a meeting of the Kurdish Regional 
+Government on 14 October 2002 state: “KRG Prime Minister Nechirvan Barzani chaired a meeting to 
+discuss the ongoing problem of the weak US dollar in the local currency markets. Discussion focussed 
+on the … unprecedented 45% decrease in the value of the US dollar against the Iraqi Swiss dinar, 
+possible causes of the problem, and effects on the market”. Realising that the effect of a change in 
+the exchange rate cannot be understood without an analysis of the causes of the change, the minutes 
+continue, in a manner that would do justice to the minutes of any G7 central bank, “It was pointed out 
+that the US dollar is currently stable in foreign markets so there must be other explanations for the 
+sharp slide in value in Iraqi Kurdistan”.15 In other words, an explanation was needed for a rise in the 
+real value of the Swiss dinar. 
+Of course, as we now know, the expectation that a future institution guaranteeing the integrity of the 
+Kurdish area, and of the value of their currency, turned out to be correct. Coalition forces assumed 
+control of the whole territory, and on 7 July 2003 the head of the Coalition Provisional Authority, Paul 
+Bremer,  announced  that  a  new  Iraqi  dinar  would  be  printed  and  exchanged  for  the  two  existing 
+currencies at a rate that implied that one Swiss dinar was worth 150 Saddam dinars. The exchange 
+was  to  take  place  over  the  period  15  October  to  15  January.  It  is  now  virtually  complete.  The  new 
+dinars, like the Swiss, were printed by De la Rue in a very short space of time using plants in Britain 
+and  several  other  countries,  and  were  flown  into  Iraq  on  22  flights  using  Boeing  747  and  other 
+aeroplanes.  The  fact  that  the  populations  of  both  North  and  South  Iraq  have  been  prepared  to 
+exchange their old notes for new dinars reflects the confidence which they have in the future of the 
+institutions backing the new Iraqi dinar.  
+The 150 parity is barely half the rate the Swiss dinar reached at its peak (see Chart 6).  
+                                                      
+15   The minutes are archived on the KRG web site www.krg.org/news. 
+10 
+  BIS Review 5/2004
+Chart 6: The Saddam/Swiss Dinar 
+exchange rate, Jan 2002-Dec 2003
+Saddam/Swiss Dinar
+350
+300
+250
+200
+150
+100
+50
+Announcement of currency 
+reform, 7 July
+End of war, 1 May
+Invasion of Iraq, 20 Mar
+0
+Jan-02 May-02
+Sep-02
+Jan-03 May-03 Sep-03
+Source: United Nations, Central Bank of Iraq
+ But it is above the average rate that prevailed over the past six years, and above the rate that would 
+equalise  the  purchasing  power  of  the  two  currencies.  For  example,  around  the  time  when  the  new 
+conversion rate was being determined, it was estimated that 128 Saddam dinars to the Swiss would 
+equalise the wages of an engineer in the two parts of Iraq, 100 would equate the price of the shoes he 
+wore to work, and 133 the price of his suit.16  
+From Chart 6, it is clear that the exchange rate hovered above 150 after the parity was announced on 
+7 July. There are two reasons for this. First, the 10,000 Saddam dinar note was heavily counterfeited, 
+easy  to  do  given  the  primitive  local  technology  used  to  print  them.  The  exchange  rate  of  this  note 
+against the dollar is consistently less than the 250 dinar note which, as a smaller denomination note, 
+was  less  heavily  counterfeited.  The  Swiss  notes,  printed  using  more  sophisticated  technology,  are 
+virtually  free  of  counterfeits.  The  Swiss  notes  traded  at  above  the  parity  because  of  the  risk  that 
+holders of the 10,000 note would find that they had a forgery and could not exchange it at the central 
+bank. Second, before the capture of Saddam Hussein there was inevitably some uncertainty about the 
+prospects of the new regime and the new currency that it issued. 
+The circulation of Swiss dinars in Kurdish controlled Iraq during the 1990s was a market solution to the 
+problem of devising a medium of exchange in the absence of a government with the power to issue 
+currency. Changes in the relative price of Swiss and Saddam dinars show that the value of money 
+depends on beliefs about the probability of survival of the institutions that define the state itself. 
+Case Study 3: Monetary policy in Japan and the zero bound on interest rates 
+V. 
+My third case study shows that institutional arrangements need to be consonant with the underlying 
+economics,  or  failure  will  result.  Recent  experience  in  Japan  has  led  to  the  rebirth  of  interest  in 
+monetary  policy  when  official  interest  rates  are  constrained  by  the  zero  lower  bound.  Official  short-
+term interest rates in Japan have been approximately zero since the beginning of 1999. Of particular 
+interest in this context is the question of how responsibilities should be divided between the central 
+bank, on the one hand, and the finance ministry, on the other.  
+Guy  Debelle  and  Stanley  Fischer  (1994)  introduced  the  distinction  between  instrument  and  goal 
+independence of central banks. That distinction has become the standard framework within which to 
+analyse the optimal constitution of central banks. But such a distinction presumes the existence of a 
+                                                      
+16   Source: compiled by the Central Bank of Iraq, based on data collected by the United Nations World Food Program. 
+BIS Review 5/2004 
+ 11
+policy instrument that is uniquely available to the central bank. That instrument is the level of official 
+short-term  interest  rates.  But  when  interest  rates  are  constrained  at  their  lower  bound  of  zero,  the 
+position is much less clear. Indeed, I shall argue that in such circumstances both instrument and goal 
+independence are impossible. Rather when interest rates are at their zero lower bound, policy relies 
+on successful cooperation between central bank and finance ministry.  
+I  shall  assume  that,  when  interest  rates  are  zero,  monetary  policy  takes  the  form  of  open  market 
+purchases or sales of government securities using central bank money.  
+A well-known policy prescription, which has become known as unconventional monetary policy, is that 
+the  central  bank should  buy  long-term Government bonds  rather  than  the more  conventional  short-
+term bills. The Bank of Japan did indeed follow this prescription. The logic of such a proposal is as 
+follows. Long-term bonds are likely to contain a significant premium to compensate investors for their 
+lack  of  liquidity  -  the  fact  that,  in  practice,  investors  face  significant  costs  when  switching  between 
+bonds  and  goods.  When  the  central  bank  offers  to  buy  illiquid  long-term  bonds,  it  increases  the 
+average liquidity of the private sector’s portfolio, replacing less liquid with more liquid securities. The 
+private sector will therefore be more willing to hold other illiquid instruments, such as private sector 
+bonds and equities. As a result, liquidity premia fall across a broad category of securities, raising their 
+market value. That will stimulate spending by firms and consumers.17 Such a policy is preferable to 
+conventional open market purchases of short-term bills or bonds because when interest rates are zero 
+such  bills  become  perfect  substitutes  for  cash.  Hence  purchases  of  short  bonds  have  no  effect  on 
+spending or other real variables.  
+It  is  a  short  step  to  show  that  this  argument  implies  an  equivalence  proposition  between 
+unconventional quantitative operations, on the one hand, and a combination of neutral conventional 
+operations and government debt management, on the other. The purchase of a long-term bond by the 
+central bank is equivalent to a combination of two other operations: a purchase of a short-term bill, 
+followed  by  an  operation  that  swaps  the  short-term  bill  for  the  long  term  bond.  In  either  case,  the 
+central bank balance sheet ends up with an additional liability in cash, and an additional asset in long-
+term bonds. The first of these two operations, the purchase of a short-term bill, is neutral in its effect 
+as it replaces one private sector asset, a short-term bill, with another, cash, that is a perfect substitute 
+for  it.  The  second  is  debt  management,  which  is  normally  seen  as  the  responsibility  of  the  finance 
+ministry.  So  when  interest  rates  are  zero  unconventional  quantitative  operations  and  debt 
+management are indistinguishable. 
+The interplay between monetary policy and debt management may not matter too much when short-
+term interest rates are positive because the central bank can control the level of interest rates, even if 
+debt management affects the optimal level of rates. But when rates are at their zero bound then the 
+central  bank  no  longer  has  instrument  independence.  Indeed,  because  its  actions  can  be  offset  by 
+appropriate  sales  or  purchases  in  the  government  debt  market,  it  loses  goal  independence  too.  It 
+becomes crucial that fiscal and monetary authorities cooperate. An alternative strategy, equivalent in 
+terms of its monetary effects but avoiding the risk to the Bank of Japan’s balance sheet from holding 
+large  quantities  of  government  bonds,  would  have  been  for  the  Ministry  of  Finance  to  have  issued 
+short-term bills to the BoJ, using the proceeds to purchase and retire long-term government bonds. 
+Similar  arguments  apply  to  other  unconventional  monetary  policies,  such  as  purchases  of  foreign 
+currency, which conflict with the responsibilities of the fiscal authorities for the ownership of foreign 
+exchange reserves.  
+A serious problem for the Japanese authorities was that the Bank of Japan was granted independence 
+not  long  before  it  became  necessary  for  policy  to  be  coordinated  between  MoF  and  the  BoJ.18 
+Inevitably, the desire on both sides to respect the newly-won independence of the central bank came 
+into  conflict  with  the  growing  realisation  that  monetary  policy  was  operating  in  a  zero-interest  rate 
+environment. The clarity of communication about the objectives of monetary policy diminishes when it 
+is no longer possible to identify clear and distinct responsibilities for the two institutions. A desirable 
+long-term reform - central bank independence - led to short-term difficulties. 
+                                                     
+ 
+17   How large are these effects is an open question. The absence of a compelling general equilibrium theory of liquidity makes 
+it  difficult  to  produce  reliable  empirical  estimates.  For  the  purposes  of  the  equivalence  proposition  the  magnitude  of  the 
+effect is irrelevant. 
+18   The legislation was published in 1997, and took effect in April 1998. 
+12 
+  BIS Review 5/2004
+Conclusions 
+VI. 
+I  am  conscious  that  I  have  raised  more  questions  than  I  have  answered  -  perhaps  that  is  what 
+happens  when  you  become  a  central  banker.  I  hope  I  have  not  copied  my  room-mate  at  Harvard 
+whose PhD supervisor wrote, “he chewed more than he had bitten off”.19 But the search for institutions 
+that improve our ability to handle the two problems associated with public money - the impossibility 
+and undesirability of committing our successors - is never ending, and our knowledge is limited. At the 
+very  first  gathering  of  economists  to  create  the  American  Economic  Association,  in  Saratoga  in 
+September 1885, Richard Ely showed that he had the makings of a good central banker when he said, 
+“We acknowledge our ignorance, and if we claim superiority to others it is largely on the very humble 
+ground that we know better what we do not know”. Or, in Hayek’s words, “It is high time we took our 
+ignorance more seriously”. 
+The  inability  to  bind  future  generations  means  that  institutions  do  not  resemble  an  optimal  time-
+invariant  design  chosen  from  behind  the  “veil  of  ignorance”.  They  reflect,  in  Hayek’s  words,  “how 
+nations in the darkness stumble upon institutions which are in fact the result of human actions, not the 
+implementation of a human plan”.20  
+Suitably  designed,  though,  monetary  institutions  can  help  to  reduce  the  inefficiencies  resulting  from 
+the time-consistency problem and can incorporate new ideas into a discretionary monetary strategy 
+constrained by a mandate that has widespread support in the population as a whole. A central bank 
+needs to explain to the population both what it knows and what it does not know. Such a framework of 
+“constrained  discretion”  for  central  banks  is  far-removed  from  the  world  of  1930  when  the  Deputy 
+Governor of the Bank of England explained to the Macmillan Committee that “it is a dangerous thing to 
+start to give reasons”.  
+In  1908  Congress  set  up  the  National  Monetary  Commission  to  report  on  “what  changes  are 
+necessary  or  desirable  in  the  monetary  system  of  United  States”.  Before  recommending  the 
+establishment of the Federal Reserve System - a plan which it described as “essentially an American 
+system, scientific in its methods, and democratic in its control” - the Commission produced 22 volumes 
+on the monetary and banking systems elsewhere, especially in Europe. Copies of these volumes sit 
+proudly  in  the  Governor’s  anteroom  in  the  Bank  of  England.  The  authors  noted  that  “the  important 
+place which the Bank of England holds in the financial world is due to the wisdom of the men who 
+have controlled its operations and not to any legislative enactments”. But they did not see the Bank of 
+England  as  a  model,  and  they  recommended  the  creation  of  an  institution  framed  by  legislation.  It 
+would be ninety years before Britain finally learnt the lessons of the National Monetary Commission 
+and passed legislation to buttress whatever wisdom the Bank could command. 
+Institutions embody accumulated wisdom and experience, and they should not be meddled with lightly. 
+From time to time, however, it is necessary to rethink the role of our institutions. The changes made to 
+the Bank of England in recent years, including an inflation target and a high degree of transparency, 
+have, I believe, improved Britain’s monetary arrangements. Whether either the men and women or the 
+current institutional arrangements of the Bank of England will have any more success in influencing 
+monetary arrangements in the United States today than in 1908 is a matter I leave to you. 
+ 
+                                                     
+19   The supervisor (in English literature) was citing a letter from Mrs Henry Adams to her father, December 1881: “Its not that he 
+bites  off  more  than  he  can  chaw  as  T.G.  Appleton  said  of  Nathan,  but  he  chaws  more  than  he  bites  off.”  (Nathan  was 
+Appleton’s son). The remark is also sometimes attributed to Mark Twain as a comment on Henry James’ writing. 
+20   Hayek (1960), cited by Otmar Issing (2003). 
+BIS Review 5/2004 
+ 13

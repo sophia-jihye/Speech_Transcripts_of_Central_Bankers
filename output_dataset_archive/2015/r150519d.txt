@@ -1,0 +1,330 @@
+  Benoît Cœuré: How binding is the zero lower bound? 
+Speech by Mr Benoît Cœuré, Member of the Executive Board of the European Central Bank, 
+at the conference “Removing the zero lower bound on interest rates”, organised by Imperial 
+College  Business  School  /  Brevan  Howard  Centre  for  Financial  Analysis,  CEPR  and  the 
+Swiss National Bank, London, 18 May 2015. 
+ I  would  like  to  thank  Anton  Nakov  and  Oreste  Tristani  for  their  contribution  to  the  speech.  I  remain  solely 
+responsible for the opinions expressed herein. 
+Summary 
+The notion of an effective lower bound on policy interest rates, that is lower than zero, has 
+become a concrete concern for monetary policy. While the effective lower bound for short-
+term rates exists, it does not impose a binding constraint on the effectiveness of monetary 
+policy.  There  are  tools  for  dealing  with  the  lower  bound  constraint,  which  at  the  ECB  go 
+under  the  name  of  “non-standard  monetary  policy  measures”.  We  saw  that  the  short-term 
+interest rate going below zero does not pose the difficulties for monetary policy.  
+While removing the effective lower bound by abolishing cash can be envisaged, it should be 
+based  on  changing  technologies  and  social  perceptions,  not  of  policy  prescriptions.  Also 
+political  capital  could  be  better  spent  on structural  reforms  of  euro  area economies, which 
+would raise the natural real rate of interest and thereby make the lower bound less binding. 
+ Ladies and gentlemen, 
+It’s a great pleasure for me to speak to you tonight. 
+The existence of an arbitrage relationship between the return on short-term nominal bonds 
+and the return on cash has long been known in the academic literature. To quote John Hicks, 
+“So long as rates of interest are positive, the decision to hold money rather than lend it, or 
+use  it  to  pay  off  old  debts,  is  apparently  an  unprofitable  one”.1  From  a  portfolio  choice 
+perspective, cash is, under normal circumstances, a strictly dominated asset, because it is 
+subject to the same inflation risk as bonds but, in contrast to bonds, it yields zero return. It 
+has  also  long  been  known  that  this  relationship  would  be  reversed  if  the  return  on  bonds 
+were negative. In that case, an investor would be certain of earning a profit by borrowing at 
+negative  rates  and  investing  the  proceedings  in  cash.  Ignoring  storage  and  transportation 
+costs, there is therefore a zero lower bound (ZLB) on nominal interest rates. 
+In the years of relatively high inflation rates, the zero lower bound was merely a theoretical 
+notion  taken  into  account  when  characterising  the  solutions  of  monetary  models.  It  has, 
+however,  become  a  concrete  concern  for  monetary  policy  in  the  last  two  decades,  first  in 
+Japan, then in most other developed economies. Central banks have consequently become 
+interested in the formerly abstract ZLB topic. And, because storage and transportation costs 
+of cash are non-negligible in reality, the notion of an “effective lower bound “of policy rates 
+has emerged that is lower than zero. 
+That monetary theory is thinking ahead once again and investigating options to remove this 
+constraint is in my view welcome. It is therefore a pleasure to be at this conference and I am 
+looking forward to learning more about all the proposals presented today. 
+                                                
+1   J. R. Hicks, 1935. “A Suggestion for Simplifying the Theory of Money” Economica, New Series, Vol. 2, No. 5 
+(Feb., 1935), pp. 1–19 
+BIS central bankers’ speeches 
+ 1 
+  In my remarks, however, I will argue that while the effective lower bound for short-term rates 
+exists, it does not in fact impose a binding constraint on the effectiveness of monetary policy. 
+There are readily available tools for dealing with the lower bound constraint that at the ECB 
+go under the name of “non-standard monetary policy measures”. Moreover, even if structural 
+changes in payment habits could soften the constraint on short-term policy rates imposed by 
+the  effective  lower  bound,  I  consider  such  ideas  –  in  the  euro  area  at  least  –  to  be  for 
+tomorrow and not for today. 
+The effective lower bound is not at zero 
+Let me begin however with an important question: where is the effective lower bound in the 
+euro area? As you know, the ECB operates on the basis of the corridor system. We have an 
+interest  rate  at  which  we  normally  provide  most  of  our  liquidity  to  monetary  and  financial 
+institutions,  the  rate  on  the  main  refinancing  operations,  or  MRO  rate.  We  then  have  the 
+marginal  lending  rate  –  a  rate  incorporating  a  spread  over  the  MRO  at  which  banks  can 
+obtain overnight liquidity from our standing marginal lending facility. And we finally have the 
+deposit  rate,  that  is,  the  interest  rate  on  the  deposit  facility  where  banks  can  place  their 
+reserves in excess of the reserve requirement and which is fixed at a spread below the MRO 
+rate. 
+Since  our  September  2014  monetary  policy  decisions,  the  MRO  rate  has  been  fixed  at  5 
+basis  points,  the  marginal  lending  rate  at  30  basis  points,  and  the  deposit  facility  rate  at 
+minus 20 basis points. 
+Under  normal  circumstances,  the  so-called  “policy  rate”  of  macroeconomic  models  would 
+correspond  to  our  MRO  rate.  This  is  the  rate  that  typically  relates  to  the  rate  on  private 
+interbank transactions on the overnight market, the EONIA rate. However, in an environment 
+of  excess  liquidity  and  persistent  frictions  in  financial  markets,  as  we  see  today,  it  is  no 
+longer  possible  to  define  our  stance  by  a  unique  “main”  policy  rate.  If  one  were  willing  to 
+proxy such a rate with the EONIA, one would conclude that our policy rates stand at around 
+minus 10 basis points. From this macroeconomic perspective, our effective lower bound is 
+therefore slightly negative. From an operational perspective, the lower bound corresponds to 
+the deposit rate, which can in theory be kept at an even more negative level because of the 
+cost of storing and shipping physical currency. The key point is that, however defined, the 
+lower bound has been found to be below zero. 
+Equally  importantly,  we  now  also  have  evidence  that  a  large fraction  of unsecured  money 
+market transactions can take place at negative rates without hampering market functioning.2 
+Following the decisions of June and September 2014, the lower policy rates were transmitted 
+smoothly throughout the money market. As expected, EONIA forwards curves flattened and 
+shifted down, and the volatility of EONIA rates dropped. In spite of the EONIA hovering much 
+of the time in negative territory, no adverse effects on market conditions have been recorded. 
+On  the contrary,  negative  EONIA  rates  have  coincided  with  stable  and  even  rising  trading 
+volumes, and with homogenous transmission to closely substitutable market segments. 
+All  this  suggests  that  the  short-term  interest  rate  going  below  zero  does  not  pose  the 
+difficulties for monetary policy that we might have imagined. So could we reduce the main 
+policy rates in the euro area even further? On this point we have been very clear: the current 
+constellation  of  policy  rates  is for  us the  effective  lower  bound. We  do not  intend to  lower 
+short-term policy rates further. And an important reason for this is that the lower bound for 
+short-term rates is, in fact, not a hard constraint on monetary policy. 
+                                                
+2   See  B.  Cœuré,  2014.  “Life  below  zero:  Learning  about  negative  interest  rates”,  presentation  at  the  annual 
+dinner of the ECB’s Money Market Contact Group, Frankfurt am Main, 9 September, and European Central 
+Bank (2015), “Euro Money Market Survey 2014”, Box 4, p. 23, 30 April. 
+2 
+ BIS central bankers’ speeches 
+  The lower bound and non-standard measures 
+Monetary conditions depend not just on short-term rates, but on the entire range of market 
+interest rates. Indeed, when the central bank alters short-term rates it is aiming to steer the 
+medium- to long-term rates that determine investment and consumption decisions in the real 
+economy. An inability to cut short-term rates even more does not therefore make monetary 
+policy ineffective if other tools are available that can influence the shape of the yield curve. At 
+the extreme, one could argue that the true lower bound for monetary policy is reached only 
+when the entire yield curve is flat at the effective lower bound. This is where non-standard 
+measures come in. 
+Non-standard  measures  are  a  variant  of  standard  monetary  policy  that  utilises  different 
+instruments,  intermediate  targets  and  communication  devices  to  achieve  the  same  final 
+objective, namely maintaining price stability over the medium term. Following a version of the 
+Tinbergen  principle,  we  can  view  non-standard  measures  as  assigning  a  large  array  of 
+instruments  –  asset  purchases  at  different  maturities  –  to  a  correspondingly  large  set  of 
+intermediate targets, i.e. the corresponding market interest rates. The effective lower bound 
+for monetary policy should be seen in this functional space, and not along a one-dimensional 
+line. Through this expanded set of instruments, we are able to exert direct influence on many 
+long-term  interest  rates,  rather  than  only  control  a  very-short  term  interest  rate  on  banks’ 
+reserves. 
+This  view  puts  into  a  different  perspective  models  and  model-based  simulations  aiming  at 
+assessing stabilisation policies when monetary policy is constrained by the lower bound. In 
+standard  DSGE  simulations,  the  ZLB  is  captured  by  the  policy  rate  being  non-negative  at 
+each  point  in  time  along  the  future  path  of  the  economy.  But  taking  into  account  the 
+possibility for monetary policy to exert influence on longer-term interest rates would lead to a 
+more  benign  assessment  of  the  impact  of  the  lower  bound  on,  say,  the  size  of  fiscal 
+multipliers, or on the welfare impact of structural reforms.3 
+We  have  two  main  instruments  to  flatten  the  yield  curve  across  the  full  spectrum  of 
+maturities. The first is forward guidance, which works both by anchoring expectations about 
+the level of future short-term rates, and by reducing the volatility around that level. However, 
+forward  guidance  is  only  credible  over  the  horizon  of  visibility  of  the  monetary  policy 
+committee.  If  the  central  bank  intends  to  steer  interest  rates  at  maturities  beyond  that 
+horizon, it has to do so by directly targeting the term premium through private or public asset 
+purchases. 
+As our short-term rates have fallen towards the lower bound, and hence the signalling power 
+of  rate  movements  has  decreased,  the  ECB  has  progressively  resorted  to  both  these 
+instruments. We have provided and then reinforced our forward guidance and, when rates 
+reached the effective lower bound in September last year, we moved to asset purchases as 
+the main tool of monetary policy, starting with two programmes of purchasing private assets 
+and then expanding them to include public sector bonds last January. We buy public sector 
+assets with remaining maturities of two to 30 years, and the weighted average maturity of our 
+portfolio  is  eight  years.  This  is  an  unprecedented  lengthening  of  the  horizon  at  which  we 
+influence interest rates.4 
+Both  these  instruments  have  been  effective  in  overcoming  the  lower  bound  constraint. 
+Forward guidance has led to a decline in the uncertainty about future monetary policy, and 
+the sensitivity of money market forward rates at various horizons to news and data surprises 
+                                                
+3  
+In the former case, see e.g. C. L., Eichenbaum, M., and S. Rebelo, 2011. “When Is the Government Spending 
+Multiplier Large?”, Journal of Political Economy, Vol. 119, No. 1, pp. 78–121. In the latter case, see A.Ferrero 
+G. Eggetson and A. Raffo, 2014, “Can Structural Reforms Help Europe?”, Journal of Monetary Economics, 61, 
+January 2014, pp. 2–22. 
+4   Our three-month liquidity tenders are still called “long-term refinancing operations”. 
+BIS central bankers’ speeches 
+ 3 
+  has  diminished.  It  is  also  clear  from  the  data  we  have  so  far  that  some  of  the  expected 
+transmission mechanisms of large-scale assets purchases are already at work. 
+For example, following the announcement of the expanded asset purchase programme on 
+22 January, we saw a decline in the forward interest rates across all maturities on sovereign 
+and, with a lag, on corporate bonds, showing that the portfolio rebalancing channel was in 
+play. Some investors appear to have been taking profit on corporate bonds and reallocating 
+investments  towards  equity  and  foreign  markets,  as  the  upside  potential  in  the  euro  area 
+corporate  bond  market  is  judged  to  be  relatively  limited.  This  suggests  that  the  portfolio 
+rebalancing  channel  of  our  public  sector  purchase  programme  is  playing  out  in  a  very 
+different way than for US quantitative easing, which started at a time when there remained 
+significant scope for domestic credit spread compression, and that it involves both domestic 
+and international rebalancing. 
+Interestingly,  both  measures  –  forward  guidance  and  asset  purchases  –  have  been 
+reinforced by the fact that the effective lower bound has proven to be slightly negative. When 
+policy interest rates reach zero, even with credible forward guidance the term structure can 
+steepen as markets anticipate that future short-term rates can only rise. If however they can 
+be convinced that the lower bound for short-term rates is not zero but can be made negative, 
+then the probability distribution of future rate movements changes. After we introduced our 
+negative  deposit  rate  last  year  we  saw  long-term  interest  rates  starting  to  flatten.  The 
+probability  distribution  of  future  EONIA  rates  (with  the  forward  rate  standing  at  –15  basis 
+points  at  end-2015)  indeed  includes  an  expectation  that  our  deposit  facility  rate  can  be 
+lowered further. 
+A  negative  deposit  rate  can  also  complement  our  asset  purchase  programme  by  inducing 
+banks which are selling securities to the Eurosystem, and receiving bank reserves in return, 
+to lend on those balances. It compensates the lack of capital relief for banks in a regulatory 
+environment  which  treats  government  bonds  as  risk  free.  In  this  way  it  can  increase  the 
+velocity  of  circulation  of  reserves  and  accelerate  the  portfolio  rebalancing  transmission 
+channel. 
+As you know, this combination of measures has created strong price effects in certain asset 
+markets,  going  beyond  what  many  observers  initially  anticipated.  German  yields,  for 
+example, were briefly negative out to around the 8-year maturity point and were below the 
+deposit  rate  until  almost  the  4-year  maturity. We  have  always  stressed,  however,  that  the 
+objective of our programme is to influence prices but not to impair price discovery. For this 
+reason I do not see the recent reversal in the price of Bunds and other sovereign bonds as a 
+cause  for  concern,  insofar  as  it  reflects  a  market  correction,  recreates  two-way  risk  in  the 
+market  and  reflects  the  fact  that,  as  our  programme  takes  effect,  some  of  the  more 
+pessimistic  assumptions  of  future  growth  and  inflation  trends  are  being  revised.  It  is  the 
+rapidity of the reversal that worries me more. After several similar episodes, it is yet another 
+incident of extreme volatility in global capital markets showing signs of reduced liquidity.5 
+Against  this  background,  we  are  also  aware  of  seasonal  patterns  in  fixed-income  market 
+activity with the traditional holiday period from mid-July to August characterised by notably 
+lower market liquidity. The Eurosystem is taking this into account in the implementation of its 
+expanded asset purchase programme by moderately frontloading its purchase activity in May 
+and June, which will allow us to maintain our monthly average of €60 billion, while having to 
+buy less in the holiday period. If need be, the frontloading may be complemented by some 
+backloading in September when market liquidity is expected to improve again. The slightly 
+                                                
+5   For  a  discussion  of  the  financial  stability  consequences  of  lower  market  liquidity,  see  A.  Bailey,  2015. 
+“Financial  Markets:  identifying  risks  and  appropriate  responses”,  speech  given  at  Hughes  Hall,  Cambridge 
+University, 15 May. 
+4 
+ BIS central bankers’ speeches 
+  higher purchase volume that market analysts may observe in the coming weeks is therefore 
+unrelated to the recent episode of market volatility. 
+Other options for dealing with the lower bound 
+The fact that non-standard measures can help to overcome the lower bound constraint does 
+not mean that there might not be other, even more effective ways to deal with it. 
+In this context two types of policy have been put forward: those that take the existence of the 
+effective lower bound as a given and seek to improve the traction of monetary policy in that 
+environment; and those which aim to remove the lower bound constraint altogether. 
+As regards the first type, several options have been proposed in the literature, but most are 
+unfortunately not very appealing to policy-makers. For instance, Blanchard and Ball, among 
+others, suggest increasing the inflation objective, for example from 2% to 4%.6 This option, 
+however, would impose permanent costs on the economy in terms of the inefficient allocation 
+of resources associated with a higher inflation rate. Another important casualty would be the 
+credibility of the ECB, given that economic agents would entertain the possibility of further 
+changes in the objective in response to future shocks. All in all, raising the inflation target is 
+“too blunt an instrument” for achieving the desired objective of stabilising the economy in a 
+low interest rate environment. 
+Additional proposals are even more far-reaching. They involve the use of “active” fiscal policy 
+to  create  inflation,  or  to  increase  policy  interest  rates  to  coordinate  expectations  on  the 
+desired  equilibrium  of  inflation  of  below  but  close  to  2%.7  But  neither  proposal  is  practical 
+given our context in the euro area. Our forward guidance is based on the notion that we do 
+not intend to raise rates for an extended period of time. And explicit monetary-fiscal policy 
+coordination  is  neither  possible  within  our  institutional  framework  of  19  different  national 
+fiscal policies, nor is it desirable given our independence from fiscal authorities. Moreover, 
+the aggregate stance is broadly neutral today, and if its allocation across countries can be 
+questioned,  it  would  not  be  desirable  for  it  to  become  much  more  active  given  the  high 
+legacy debt and the requirements of our fiscal rules. 
+As regards the second type of policy – those aimed at removing the effective lower bound on 
+short-term rates – perhaps the most prominent proposal is to either to tax currency holding à 
+la  Gesell  or  abolish  it  altogether,  and  hence  to  remove  the  arbitrage  between  bonds  and 
+cash.8 One can indeed imagine several advantages associated with such a policy, on top of 
+pushing the lower bound further into negative territory. For example, tax on cash can act like 
+a  tax  on  illegal  activities  and  would  foster  greater  transparency.  In  addition,  we  could 
+economise on the costs of storage and use of currency, which are not insignificant. 
+There are important reasons, however, why it is difficult for policy-makers to give this option 
+serious consideration. They have mainly to do with psychological and operational factors. 
+The use of cash with a zero guaranteed nominal rate of return and a non-negative nominal 
+interest  rate  on  deposits  is  deeply  ingrained  in  the  psyche  of  economic  agents.  Savers 
+                                                
+6   See O. Blanchard, G. Dell’Ariccia, and P. Mauro, 2010. “Rethinking Macroeconomic Policy”, IMF Staff Position 
+Note, February 12, 2010; and L. Ball, 2013. “The case for 4% inflation,” Voxeu. 
+7   See  C.  Sims,  2014.  “Coordinating  Monetary  and  Fiscal  Policy  to  Exit  the  Zero Lower  Bound”.  Presentation 
+made  at  the  European  Central  bank.  https://www.ecb.europa.eu/events/pdf/conferences/141215/slides/ 
+SIMS_slides.pdf. Also, “Commentary on Policy at the Zero Lower Bound”. (2010) CEPS Working Paper No. 
+201. And S. Schmitt-Grohé and M. Uribe, 2014. “Liquidity Traps: An Interest-Rate-Based Exit Strategy”, The 
+Manchester School, 82, S1, September 2014, 1–14. 
+8   See  W.  Buiter,  2009.  “Negative  Nominal  Interest  Rates:  Three  ways  to  overcome  the  zero  lower  bound”, 
+NBER Working Paper, No. 15118, and K. Rogoff, 2014. “Costs and Benefits to Phasing Out Paper Currency”, 
+presented at the NBER Macroeconomics Annual Conference, 11 April. 
+BIS central bankers’ speeches 
+ 5 
+  already  perceive  a  negative  nominal  interest  rate  on  deposits  as  an  unfair  wealth  tax  and 
+extending it to cash would deepen this perception and affect even more vulnerable members 
+of our society. Beyond looking for a different bank which might offer slightly better conditions, 
+depositors would have no other option than to keep hold of their savings, unless there were 
+to be rapid shift in attitudes towards saving in more risky types of assets such as equities. In 
+addition, this would raise serious financial inclusion issues as not all people today can use 
+computers or operate smartphones. 
+In  short,  while  I  can  very  well  envisage  a  world  without  cash,  I  view  it  as  the  outcome  of 
+changing technologies and social perceptions, not of policy prescriptions. 
+Besides, I do not believe that it would be desirable to remove the zero lower bound in the 
+euro area at the current juncture. I say this for three reasons. 
+First, removing the lower bound would not solve all problems related to monetary policy. The 
+experience  of  the  global  financial  crisis  taught  us  that  the  type  of  shocks  which  can  drive 
+policy interest rates to the lower bound are also shocks which produce severe impairments to 
+the  monetary  policy  transmission  mechanism.  Suppose,  for  example,  that  the  interbank 
+market freezes and prevents a smooth transmission of the policy interest rate throughout the 
+banking sector and financial markets at large. In this case, any cut in the policy rate may be 
+almost completely ineffective in terms of influencing the macroeconomy and prices. 
+Given  the  persistent  signs  of  fragmentation  in  some  euro  area  financial  markets,  it  is 
+therefore not clear that the ability to lower key ECB rates deep into negative territory would 
+by itself help ensure a faster return to growth in the euro area. On the contrary, this could 
+have an impact on the business model of banks and insurance companies, and impair their 
+capacity to perform financial intermediation and support monetary policy transmission. And 
+where fragmentation is now receding, our non-standard measures have in any event pushed 
+real rates well below the long-term growth rate, creating sufficiently strong price incentives to 
+invest. 
+Second, we are mindful of the risks of persistently low interest rates to financial stability.9 It is 
+accepted today that real rates will remain below the long-term growth rate for as long as is 
+necessary in order for investment to recover. Throughout this period, private agents may be 
+tempted to borrow to purchase assets of which the supply is limited or inflexible, such as real 
+estate.10 We  are  prepared  to  use  our  micro-  and  macro-prudential  instruments to face the 
+risks of bubbles and excessive leverage, but if the lower bound were effectively abolished, 
+those risks would increase and may lead to macroeconomic instability along this dynamically 
+inefficient path. 
+Third, we have to reflect on why we have reached the lower bound in the euro area in the 
+first place. An important issue here is the possibility that the natural real rate may have fallen 
+very low or even gone negative; this could occur for various reasons such as low productivity 
+or  a  slowdown  in  population  growth,  both  of  which  are  relevant  for  the  euro  area.  A 
+protracted period of deleveraging in the euro area, similar to the one which occurred in Japan 
+in the 1990s, could also have pushed the natural real rate down, even into negative territory, 
+                                                
+9   See  M.  Draghi  ,  2015.  “The  ECB’s  recent  monetary  policy  measures:  effectiveness  and  challenges”, 
+Camdessus Lecture, International Monetary Fund, Washington DC, 14 May. 
+10   See G. Claeys and Z. Darvas, 2015. “The Financial Stability Risks of Ultra-Loose Monetary Policy”, Bruegel 
+policy Contribution, Issue 2015/03. 
+6 
+ BIS central bankers’ speeches 
+  
+ 
+and  potentially  for  a  long  time.11  This  is  related  to  the  so-called  “secular  stagnation” 
+hypothesis.12 
+This  scenario  may  also  be  consistent  with  a  gloomier  view  of  recent  bond  market 
+developments  than  the  one  I  have  provided  above.  Real  forward  interest  rates  indeed 
+suggest that the expected short-term real interest rate about ten years ahead is around –1%, 
+while expected euro area GDP growth for the period six to ten years ahead stands at 1.4% 
+(according to the Consensus Forecast). If forward markets were correct, then the fall in long-
+term yields would not due to a generalised reduction in the market price of risk, and thus a 
+flattening  of  term  and  risk  premia  induced  by  our  extended  asset  purchase  programme.  It 
+would  be  rather  a  reflection  of  a  generalised  fall  in  real  interest  rates,  signifying  bleaker 
+prospects  for  euro  area  growth.  For  monetary  policy  to  remain  “neutral”  in  such  an 
+environment, a lastingly low or negative actual real rate would be needed. 
+It is in response to this that some are proposing to remove the effective lower bound. But my 
+question  is,  why  not  instead  focus  on  raising  the  natural  real  rate?  Why  not  introduce 
+structural reforms that will raise investment demand? This would be unambiguously positive 
+for  employment  and  productivity  growth  and,  as  I  have  discussed  elsewhere,  could  have 
+positive effects even over a relatively short time horizon. The answer could in principle be to 
+do both, but we know that in reality political capital is often scarce, and my suspicion is that 
+taxing  deposits  would  use  up  much  of  the  political  capital  that  could  be  better  spent  on 
+structural reforms. 
+                                                
+11   See G. B. Eggertsson and P. Krugman, 2012. “Debt, Deleveraging, and the Liquidity Trap: A Fisher-Minsky-
+Koo Approach,” The Quarterly Journal of Economics, Oxford University Press, vol. 127(3), pages 1469–1513. 
+12   For a detailed overview of the discussion see R. J. Gordon, 2015. “Secular Stagnation: A Supply-Side View”; 
+L. H. Summers, 2015. ”Demand Side Secular Stagnation” ; B. Eichengreen, 2015, “Secular Stagnation: The 
+Long View”, all published in the American Economic Review: Vol. 105 No. 5 (May 2015). 
+BIS central bankers’ speeches 
+ 7 

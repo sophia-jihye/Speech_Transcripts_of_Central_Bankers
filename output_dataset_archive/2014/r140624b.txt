@@ -1,0 +1,474 @@
+  Vítor Constâncio: The ECB and macro-prudential policy – from research 
+to implementation 
+Speech by Mr Vítor Constâncio, Vice-President of the European Central Bank, at the Third 
+Conference of the Macro-prudential Research Network, Frankfurt am Main, 23 June 2014. 
+ Ladies and Gentlemen, 
+It  is  a  great  pleasure  to  open  the  Third  Conference  of  the  Macro-prudential  Research 
+Network (MaRs). MaRs was established by the General Council of the European Central 
+Bank  (ECB)  in  the  spring  of  2010  with  the  objective  of  developing  core  conceptual 
+frameworks,  models  and/or  tools  that  would  provide  research  support  in  order  to  improve 
+macro-prudential  supervision  in  the  European  Union  (EU).  This  was  a  very  significant 
+collective  undertaking  of  the  European  System  of  Central  Banks  (ESCB),  i.e.  all  EU 
+central banks, in order to broaden our analytical foundations in this area. Nobody would have 
+expected when we launched MaRs that the ECB would soon become a banking supervisor 
+with distinct macro-prudential policy competencies.  
+Now, that the Single Supervisory Mechanism (SSM) starts in only a few months, we are 
+glad that we started this investment so much in advance. Moreover, macro-prudential policy 
+is  again  very  much  on  the  agenda.  Take  the  historically  low  interest  rates  and  range  of 
+unconventional  monetary  policies  around  the  world  in  order  to  support  modest  recoveries 
+and too low rates of inflation. This is an environment where investors search for yield and 
+financial  imbalances  can  build  up.  And,  in  fact,  the  ECB’s  and  the  IMF’s  financial  stability 
+analyses  confirm  that  specific  asset  segments,  among  which  real  estate,  point  to  some 
+overheating in several countries. The issue then arises as to whether macro-prudential policy 
+needs to react. In fact, in the last quarter, and considering only the euro area, four countries 
+– Belgium, The Netherlands, Slovenia and Estonia – have activated macro-prudential policy 
+tools (all capital-related measures), in line with the EU regulatory framework. This new policy 
+area  is  getting  traction  and  robust  analysis  is  needed  to  allow  for  timely  and  adequate 
+interventions. 
+In my remarks today, I want to first start from the concept of systemic risk and discuss the 
+way  our  understanding  of  systemic  risk  shapes  the  objectives  of  macro-prudential  policy. 
+Most importantly, I will argue that the build-up of systemic risk over the financial cycle is 
+an endogenous outcome – a man-made construct – and the job of macro-prudential policy 
+is to try to smoothen this cycle as much as possible. Beyond increasing the resilience of the 
+system,  I  will  argue  that  macro-prudential  policy  should  be  ambitious  in  leaning  against 
+imbalances and if so, it has to be prepared to be bold and intrusive. Decisions on the timing, 
+design  and  calibration  of  interventions  need  to  be  underpinned  by  robust  analysis.  While 
+monetary policy should not be employed to smoothen the credit cycle, under the principle of 
+“one  objective,  one  tool”,  the  macro-prudential  policy  function  should  rest  under  the 
+responsibility of central banks given synergies and the interactions between the two policy 
+functions. This reflects the macro-prudential policy framework adopted for the ECB/SSM. 
+The nature of systemic risk and the objectives of macro-prudential policy 
+Macro-prudential  policies  aim  to  maintain  the  stability  of  the  financial  system  as  a  whole 
+through  containing  systemic  risks.  Systemic  risks  can  be  defined  as  risks  that,  if 
+materialised, have the potential to make financial instability become so widespread that the 
+functioning  of  the  financial  system  is  impaired  to  an  extent  that  growth  and  welfare  suffer 
+materially (ECB 2009). ECB staff, combining available  literature and practical experiences, 
+has  developed  a  conceptual  framework  that  relies  on  three  mechanisms  that  can  lead  to 
+systemic financial  instability:  risk  coming from  large  aggregate  shocks,  contagion  risk,  and 
+BIS central bankers’ speeches 
+ 1 
+  the  risk  from  the  unravelling  of  widespread  financial  imbalances  that  have  built  up 
+endogenously over time.1 
+Contagion occurs when the failure of one institution “infects” other hitherto “healthy” 
+institutions. Prominent recent examples of the materialisation of contagion risk include the 
+drying up of interbank funding following the collapse of Lehman Brothers. Large aggregate 
+shocks  have  always  been  an  important  source  of  widespread  financial  instability 
+through  history.  Gorton  (1988)  documented  how  negative  economic  news  were  the  best 
+leading indicators of the likelihood of banking panics in 19th century USA. 
+The third, and, in my view, most important source of systemic risk is the risk of the 
+unravelling  of  financial  imbalances.  These  imbalances  may  build  up  gradually,  mostly 
+endogenously, and can then unravel abruptly. They form part of the inherent pro-cyclicality of 
+the financial system.2 
+It  is  crucial  to  recognise  that  the  financial  cycle  has  an  important  endogenous 
+component which arises because banks take too much solvency and liquidity risk. The aim 
+of  macro-prudential  policy  should  be  to  temper  the  financial  cycle  rather  than  to  merely 
+enhance the resilience of the financial sector ahead of crises. 
+It  seems  unacceptable  that  macro-prudential  authorities  would  passively  watch  the 
+development  of  a  bubble  in  housing  prices  and  other  asset  prices,  comforted  by  the 
+idea that the banking sector is prepared to weather the storm and that the central bank would 
+deal  with  the  painful  aftermath.  The  crisis  showed  that  the  amount  of  risk  endogenously 
+generated  by  a  financial  cycle  spinning  “out-of-control”  dwarfs  the  “mopping  up”  ability  of 
+fiscal and monetary policy due to fiscal capacity limits and the zero lower bound on nominal 
+interest rates. In matters of financial instability, prevention is always better than cure. 
+Taming the financial cycle 
+The  challenge  of  taming  the  financial  cycle  is,  no  doubt,  formidable.  The  nature  of 
+systemic  instability  is  not fully  understood,  and by  the  same token,  analytical  tools  for risk 
+detection, risk assessment and to support policy responses are being developed. This is why 
+the progress of researchers in MaRs and elsewhere has been very welcome. Despite all the 
+difficulties,  the  new  field  of  macro  finance  has  already  identified  a  number  of  important 
+financial amplification channels. 
+“Collateral amplification” has been an important way to think about procyclicality ever 
+since  the seminal  work of  Kiyotaki  and  Moore  (1997).3  This  mechanism operates  because 
+easier credit would by itself increase the value of collateral, thereby further encouraging the 
+supply  of  credit.  During  the  boom,  firms  and  households  borrow  too  much  because  they 
+ignore the fact that their collective leverage decisions make the economy more vulnerable to 
+                                                
+1  See de Bandt, O., P. Hartmann and J.L. Peydró (2009), Systemic risk: An update, in A. Berger et al. (eds.), 
+Oxford Handbook of Banking, Oxford University Press, and the special features on “The concept of systemic 
+risk” and “Analytical models and tools for the identification and assessment of systemic risks” in the December 
+2009 and June 2010 ECB Financial Stability Review, respectively. 
+2  Borio,  C.,  2009.  “Implementing  the  Macroprudential  Approach  to  Financial  Regulation  and  Supervision”, 
+Banque  de  France  Financial  Stability  Review,  Vol.  13;  Shin,  H.S.  2011,  “Macroprudential  policies  beyond 
+Basel III”, in Macroprudential regulation and policy, BIS papers 60. 
+3  Kiyotaki, N. and Moore, J. (1997), “Credit Cycles”, Journal of Political Economy.  
+2 
+ BIS central bankers’ speeches 
+  
+ 
+negative  shocks  (Lorenzoni  (2008),4  Bianchi  and  Mendoza  (2010),5  Korinek  and  Jeanne 
+(2010).6 
+In  Brunnermeier  and  Sannikov  (2014)7  the  same  “collateral  amplification”  mechanism  is 
+taken a step further and shown to generate endogenous leverage and volatility cycles. Long 
+booms  boost  bank  capital  ratios  to  such  an  extent  that  credit  availability  stops  being  a 
+constraint  on  economic  activity.  This  endogenously  leads  to  a  Great  Moderation  in  output 
+and  asset  price  volatility  which  encourages  banks  to  lever  up  further.  Then  the  system 
+becomes highly vulnerable to shocks in what is now widely known as the “stability paradox”. 
+MaRs  has  made  significant  contributions  to  the  modelling  of  boom-bust  cycles.  Boissay, 
+Collard and Smets (2012),8 for example, tackle the idea that long booms endogenously sow 
+the  seeds  of  crises.  In  their  framework,  a  long  boom  leads  to  excessive  liquidity  in  the 
+banking  system,  a  reduction  in  interest  rates  and  the  entry  of  bad  banks.  Eventually,  the 
+boom unravels because banks lose trust in one another and the interbank market freezes up. 
+This  model  captures  two  important  aspects  highlighted  by  the  empirical  evidence  of 
+Schularick and Taylor (2012):9 crises tend to follow long booms and periods of low interest 
+rates. The results are also consistent with the findings of Hahm, Shin and Shin (2013)10 and 
+the MaRs paper by Bonfim and Kim (2013).11 Both show that financial crises are associated 
+with a build-up of liquidity risk. 
+The  three  papers  we  will  see  in  the  first  session  of  the  conference  (Clerc  et.  al.  (2013),12 
+Nguyen  (2013)13  and  Benes,  Kumhof  and  Laxton  (2013)14  contribute  to  a  literature  that 
+motivates  financial  imbalances  and  excessive  risk-taking  from  over-optimism  or  from  the 
+implicit  safety  net  guarantees  for  banks.  In  these  models,  too,  the  build-up  of  imbalances 
+activates the kinds of adverse feedbacks between the financial sector and the real economy 
+that we know can cause deep and prolonged downturns in activity. 
+These studies are welcome first steps on the road towards a new framework for the 
+analysis  of macro-prudential  policy.  They  integrate  boom-bust  cycles  in  state  of  the  art 
+macro-models and thus may support the introduction of macro-prudential tools or regulatory 
+measures as a pre-emptive policy in the context of credit and asset price booms. 
+                                                
+4  Lorenzoni, G. (2008), “Inefficient Credit Booms”, Review of Economic Studies.  
+5  Bianchi, J. and Mendoza, E. (2010), “Overborrowing, Financial Crises and ‘Macro-prudential’ Taxes”, NBER 
+WP 16091.  
+6  Korinek,  A.  and  Jeanne,  O.  (2010),  “Managing  Credit  Booms  and  Busts:  A  Pigouvian  Taxation  Approach”, 
+NBER WP 16377.  
+7  Brunnermeier,  M.  and  Sannikov,  Y.  (2014),  “A  Macroeconomic  Model  with  a  Financial  Sector”,  American 
+Economic Review. 
+8  Boissay, F., Collard, F. and Smets, F. (2013), “Booms and Banking Crises”, mimeo.  
+9  Schularick,  M.  and  Taylor,  A.  (2012),  “Credit  Booms  Gone  Bust:  Monetary  Policy,  Leverage  Cycles  and 
+Financial Crises, 1870–2008”, American Economic Review.  
+10  Hahm, J.H., Shin, H.S., and K. Shin, 2013, “Non-Core Bank Liabilities and Financial Vulnerability”, Journal of 
+Money,  Credit  and  Banking.  Shin,  H.S.,  2010  “Risk  and  Liquidity”,  Clarendon  Lecture  in  Finance,  Oxford 
+University Press.  
+11  Bonfim, D. and M. Kim, “Liquidity Risk in Banking: is there herding?”, mimeo, Banco de Portugal, 2013. 
+12  Clerc, L., Derviz, A., Mendicino, C., Moyen, S., Nikolov, K., Suarez, J., Stracca, L. and Vardoulakis, A. (2013), 
+“Assessing Capital Regulation in Macroeconomic Model with Three Layers of Defaults”, mimeo.  
+13  Nguyen, T. (2013), “Bank Capital Requirements: A Quantitative Analysis”, mimeo.  
+14  Benes,  J.,  Kumhof,  M.  and  Laxton,  D.  (2013),  “Examples  of  Macro-prudential  Policy  Experiments  in 
+MAPMOD” IMF Working Paper.  
+BIS central bankers’ speeches 
+ 3 
+  
+ 
+Earlier  and  decisive  action  seems  to  be  paramount  in  this  respect,  necessitating 
+reliable early warning tools. The beneficial impact of higher credit depends on the extent to 
+which  credit  booms  contribute  to  a  permanent  financial  deepening.15  It  is  therefore 
+encouraging that we have new “early warning” models and considerable work on the topic 
+(Alessi  and  Detken  (2013),16  Alessi  et.  al.  (2014)17  and  Gregory  et.  al.  (2014)18  presented 
+here at the MaRs conference. These analytical tools exploit multiple and novel data sources, 
+variables and models in order to generate accurate crisis predictions. Many of these tools are 
+already in use in regular macro-prudential surveillance work at the ECB. 
+Let me summarise. Systemic risk is a largely endogenous phenomenon due to the inherent 
+procyclicality  of  the  financial  system.  Preventing  instability  from  occurring  is  better  than 
+dealing with its consequences and therefore leaning against the financial cycle should be the 
+key  objective  of  macro-prudential  policies.  Of  course, this  implicitly  assumes  that  we  have 
+effective and efficient tools at our disposal. I will now turn to the issue of effectiveness.  
+What instruments should we use to lean against imbalances? 
+Understanding transmission channels of macro-prudential policies 
+In advanced economies, actual experience on the use of macro-prudential policies is 
+relatively limited, with the exception of the administrative interventions that were usual in 
+many  European  countries  in  the  60s  to  the  80s,  like  limits  to  credit  or  minimum  down 
+payments  for  consumer  credit.  These  instruments  played  a  containment  role  on  the  credit 
+cycle  but  these  were  times  of  less  sophisticated  financial  systems.  Nowadays,  the 
+transmission channels of stylised macro-prudential instruments are far more complex which 
+makes their calibration especially hard. Policy makers will inevitably have to start with some 
+trial-and-error  approaches,  that  will  help  identifying  and  addressing  the  main  operational 
+issues.  Having  said  that,  I  would  also  underline  that  MaRs  and  relevant  research  in  the 
+macro-prudential  policy  area  have  shed  light  on  the  transmission  channels  of  financial 
+instability as well as of selected policy and regulatory instruments. 
+But enhancing our understanding with more analytical work is very much needed to 
+support the choice and implementation of policy instruments. Macro-prudential policies 
+may  address  financial  imbalances  building  up  in  specific  sectors,  by  using  targeted 
+instruments. This could facilitate the analysis of transmission mechanisms. At the same time, 
+though, the variety of possible combinations of macro-prudential instruments also makes the 
+implementation  of  macro-prudential  policy  a  complex  endeavour,  which  has  to  take  into 
+account  interactions,  leakages  and waterbed  effects.  Going forward,  analytical  frameworks 
+also need to take these elements into account. 
+Macro-prudential policy: Implementation issues and effectiveness 
+It is  worthwhile to  group  macro-prudential  policies into  two  categories  according  to 
+the way they operate. A simple distinction can be made between measures that act through 
+cost-price incentives, like capital requirements, and those that depend on quantitative limits, 
+like large exposures or LTV/DTIs limits. Capital based instruments act to restrain the boom 
+as long as banks’ overall cost of funds is sensitive to the structure of its liabilities. We know 
+                                                
+15  Since  countries  with  more  credit  booms  also  experienced  more  crises  (on  average),  there  seems  to  be  a 
+trade-off between macroeconomic performance and stability (Rancière, Tornell, and Westermann, 2008).  
+16  Alessi, L. and Detken, C. (2014), “Identifying Excessive Credit Growth and Leverage”, mimeo.  
+17  Alessi et. al. (2014), “Comparing Different Early Warning Systems: Results from a Horse Race Competition 
+Among Members of the MaRs Network”, mimeo.  
+18  Gregory,  D.,  Kapadia,  K.,  Nyman,  R.,  Smith,  R.  and  Tuckett,  D.  (2014)  “News  and  Narratives  in  Financial 
+Systems: Exploiting Big Data for Systemic Risk Assessment”, mimeo.  
+4 
+ BIS central bankers’ speeches 
+  that as long as cost of equity is not too high and not too insensitive to the riskiness of equity 
+itself, this condition will not hold. Higher capital requirements will increase banks’ resilience 
+but may add little to the cost of loans. In an environment of exuberant expectations of house 
+price  appreciation,  such  measures  may  therefore  do  little  to  restrain  excessive  credit 
+demand. Quantitative limits such as the LTV/DTI ratio are cruder and therefore more likely to 
+work as long as there are many borrowers who will be affected by them. I will discuss these 
+two types of measures in turn. 
+Capital-based instruments 
+In the Basel III framework, the CCB is the main counter-cyclical tool. It is designed to 
+increase banks’ resilience by making them set aside capital in good times and draw it down 
+in bad times. If a release of the buffer in the downturn fosters bank lending in recessions, the 
+CCB  will  also  have  a  countercyclical  effect.  Of  course  the  CCB  can  also  lean  against  the 
+financial cycle in the upswing phase. However, I see two limitations of the CCB. 
+First, given the relatively long lags in its implementation and impact, the CCB might 
+not have a timely influence on the financial cycle. The CCB should be activated relatively 
+early in the cycle to give it time to display its effects. This increases the possibility of false 
+alarms, which in turn will most likely lead to setting it at relatively low levels to mitigate the 
+effect of a potential false alarm. In such a scenario though, the CCB runs the risk of being 
+ineffective. 
+Second,  such  a  tool  could  also  be  subject  to  so-called  “waterbed  effects”  or 
+“leakages”.  Macro-prudential  policies  are  no  exception  to  the  usual  search  for  regulatory 
+arbitrage. Affected financial intermediaries may have incentives to circumvent regulation by 
+moving  activities  outside  the  regulatory  perimeter.  By  pushing  financial  intermediation 
+towards  the  “shadow  banking”  sector,  this  could  make  the  policy  less  effective  (if  no  less 
+desirable) as Bengui and Bianchi (2014)19 will show at the conference tomorrow. 
+Another  possibility  concerns  the  leakages  towards  branches  of  foreign  institutions 
+from  countries  which  do  not  use  reciprocation.  There  is  convincing  evidence  of  such 
+leakages in the work of Aiyar, Calomiris and Wieladek (2013)20 which draws on recent UK 
+experience. For example, for certain risks, e.g. by buoyant credit markets, the CCB can be 
+set  above  2.5%.  In  this  case  the  recognition  of  the  higher  buffer  rate  by  other  designated 
+authorities  is  voluntary.  This  lack  of reciprocity  might  generate  substitution  effects  towards 
+branches of foreign banks thus mitigating the intent of the buffer itself. Therefore, in order to 
+make  an  effective  use  of  the  CCB,  international  cooperation  will  be  very  important.  In  the 
+Euro Area, the SSM framework helps internalizing some issues. For example, the ECB can 
+take action in the case of reciprocation if needed. 
+Such leakages may explain why, in practice, macro-prudential policies, at times, seem 
+to have had mixed results, that vary widely across countries. Most of the evidence on 
+the effectiveness of those policies comes from experiences in emerging market economies. 
+Borio  and  Shim  (2007),21  for  example,  argue  that  these  measures  have,  in  some  cases, 
+slowed  down  credit  expansion  temporarily  and  restrained  imprudent  practices.  It  seems 
+therefore  possible,  under  certain  conditions,  to  control  financial  developments  in  order  to 
+avoid the boom-and-bust cycle. 
+                                                
+19  Bengui, J. and Bianchi, J. (2014), “Macro-prudential Capital Controls and the Shadow Economy”, mimeo.  
+20  Aiyar,  S.,  Calomiris,  C.  and  Wieladek,  T.  (2013),  “Does  Macro-Pru  Leak?  Evidence  from  a  UK  Policy 
+Experiment”, NBER Working Papers 17822.  
+21  Borio,  C.  and  I.  Shim:  “What  can  (macro-)prudential  policy  do  to  support  monetary  policy?”,  BIS  Working 
+Papers No 242, 2007.  
+BIS central bankers’ speeches 
+ 5 
+  LTV/DTI instruments 
+The  main  weakness  of  capital  instruments,  such  as  the  CCB  or  sectoral  capital 
+requirements  is  that  they  have  their  impact  on  the  evolution  of  the  cycle  mainly 
+through their effect on the cost/price of credit. In an exuberant financial market, this may 
+not be enough to offset the prospects of gain that seem readily available when every asset 
+price is going up. Instruments with quantitative limits like the LTV/DTIs can be more effective 
+in  dealing  with  housing  booms  because  they  restrict  borrowing  in  a  more  direct  way.  Of 
+course these instruments are not perfect. Ono et. al. (2013)22 (which will be presented here 
+later  today)  presents  a  cautionary  tale  in  this  respect  based  on  the  Japanese  experience. 
+The paper shows that LTV ratios in small business lending voluntarily declined during booms 
+even in the absence of regulation, casting doubt on whether an LTV ratio cap will really bind 
+and  help  to  restrain  the  boom.  Kuttner  and  Shim  (2013)23  also  argue  that  LTV  ratios  are 
+relatively less effective at dampening housing price volatility compared to DTI limits. 
+An interesting MaRs paper (Gelain, Lansing and Mendicino (2013)24 which was presented at 
+last  year’s  MaRs  conference)  may  provide  a  convincing  explanation  for  these  empirical 
+findings. The  paper finds  that  a generalised  borrowing  limit  that  includes  elements  of  both 
+LTV and DTI is the best way to restrain housing booms. LTV limits may be ineffective during 
+periods  of  rapid  house  price  appreciation  because  leveraged  borrowers  experience  large 
+increases  in  wealth  and  the  down-payment  constraint  becomes  less  important.  Tightening 
+LTV limits further may then have a rather limited impact on house prices and leverage. DTI 
+limits,  in  contrast,  tighten  by  definition  whenever  housing  values  expand  faster  than 
+incomes.25  They  begin  to  bind  for  an  increasing  number  of  borrowers  helping  to  exert  a 
+counter-cyclical influence. The simulation results in Gelain et. al. (2013) show that the strong 
+counter-cyclical properties of the DTI cap helps to moderate the financial cycle. 
+My take on this evidence is that LTVs/DTIs need to be used aggressively and it may be 
+necessary to use several instruments at the same time. Two telling practical examples 
+are  Singapore  and  China.  Singapore  has  been  a  pioneer  in  the  use  of  macro-prudential 
+policies to moderate financial stability risks arising from the housing market. Since 2009, a 
+series  of measures  targeting  housing  has  been implemented,  with  a  tightening  of  the  LTV 
+ratio for individual borrowers from 90% in 2009 to 40% in 2013. The cumulative impact of 
+these  measures  has  been  slow,  and  residential  property  prices  stabilised  only  recently.  In 
+China, the introduction of an 80% LTV ceiling in 2001 did not have much of a bite until it was 
+complemented with 50% DTI limits in 2005–06. But even then, the combination of the two 
+measures was credited with reducing mortgage credit growth by only 2 percentage points of 
+GDP over 2004–08. This is a sobering fact when one notes that LTV/DTIs seem so far the 
+most effective type of macro-prudential instruments. 
+To summarise, macro-prudential policy has to be pre-emptive, deployed timely and in 
+a bold fashion. We may doubt that capital instruments, such as the CCB with a maximum of 
+2.5 percentage points, can be sufficiently effective to achieve more than merely building up 
+the  resilience  of  banks.  Quantitative  instruments  such  as  the  LTV/DTI  ratio  limit  can  work 
+better but even these instruments may need to be used boldly in order to have a significant 
+dampening impact on housing booms. 
+                                                
+22  Ono,  T,  Uchida,  H,  Udell,  G.  and  Uesugi,  I.  (2013),  “Lending  Pro-cyclicality  and  Macro-prudential  Policy: 
+Evidence from Japanese LTV Ratios”, mimeo.  
+23  Kuttner, K. and Shim, I., 2013. “Can Non-Interest Rate Policies Stabilize Housing Markets? Evidence from a 
+Panel of 57 Economies”, NBER WP 19723.  
+24  Gelain,  P.  Lansing,  K.  and  Mendicino,  C.  (2013),  “House  prices,  credit  growth  and  excess  volatility: 
+implications for monetary and macro-prudential policy”, International Journal of Central Banking.  
+25  Equally, the limit endogenously loosens whenever housing prices decline relative to incomes. 
+6 
+ BIS central bankers’ speeches 
+  
+ 
+Macro-prudential tools in the EU are governed by two legal texts: the CRR and CRD IV. 
+The appropriate analytical underpinning needs to be gathered for the adequate design 
+and calibration of tools at the disposal of macro-prudential authorities. At the same 
+time, the range of tools might need to be expanded. The Countercyclical Capital Buffer 
+(Art.  130,  135–140),  Systemic  Risk  Buffer  (Art.  133–134)  and  Capital  surcharge  on 
+systemically important institutions (Art. 131) fall under the CRD IV. The CRR includes (under 
+Art. 458): minimum Capital Requirements, Large Exposure limits, the Capital Conservation 
+Buffer, Sectoral Risk Weights (in the residential and commercial property sectors) and Intra-
+financial Sector Exposures whereby higher risk weights can be set vis-à-vis financial sector 
+exposures.  Furthermore,  it  includes  the  Liquidity  Requirements  (LCR  and  NSFR)  and 
+requirements  on  Public  Disclosure  aimed  at  enhancing  market  discipline  and  mitigating 
+informational  asymmetries.  While  the  range  of  tools  might  appear  quite  broad,  it  would 
+gain in being enlarged with some instruments less dependent on cost/incentives and 
+more on quantitative limits, like for instance large exposures limits by sector and not just 
+by clients. Other possible toolkit extensions to consider are the LTVs or DTIs ratios or the 
+loans to deposit ratio. 
+A final consideration relates to the fact that the cyclical behaviour of the parts of the 
+financial sector which fall outside of the scope of regulation and supervision, need to 
+be influenced by other policies, possibly by monetary policy. To a large extent, this is 
+because  the  macro-prudential  tools  assigned  to  EU  authorities  (and  the  ECB)  concern 
+primarily,  of  not  exclusively,  the  banking  sector.  For  a  central  bank  with  macro-prudential 
+responsibilities,  the  link  between  macro-prudential  and  monetary  policies  is  therefore  of 
+particular relevance. It is this point that I will turn to next. 
+Interactions with monetary policy 
+The fact that the financial crisis led to large disruptions in the economy is a strong 
+reason to make the financial cycle a subject of stabilisation policies.26 Monetary policy 
+has traditionally been defined in terms of the business cycle. The financial cycle, while not 
+disconnected from the business cycle, has larger amplitude and is at least twice as long as 
+the  business  cycle.  Its  dynamics  are  driven  more  directly  by  credit  and  property  price 
+developments. 
+As part of its monetary policy strategy, the ECB already assigns a prominent role to 
+financial developments, by taking into account the medium-term effects of booming credit 
+and  asset  markets  for  the  assessment  of  risks  to  price  stability.  Nonetheless,  standard 
+monetary  policy  may  not  be the  most  appropriate  tool  to  address  all  the  underlying forces 
+driving  the  financial  cycle.  This  view  is  supported  by  the  findings  of  a  number  of  MaRs 
+studies  (see  for  example  Angelini,  Neri  and  Panetta  (2012),27  Beau,  Clerc  and  Mojon 
+(2012)28 and Lambertini, Mendicino and Punzi (2013).29  
+First, it is not clear what would be the appropriate magnitude of changes in the policy 
+rate to curb excessive developments in asset prices and credit. While monetary policy 
+                                                
+26  See, for example, Borio, C., “The financial cycle and macroeconomics: What have we learnt?”, Working Paper 
+Series, No 395, Bank for International Settlements, 2012; Aikman, D., Haldane, A. and Nelson, B., “Curbing 
+the  credit  cycle”,  Economic  Journal,  forthcoming;  and  Claessens,  S.,  Kose,  M.A.  and  Terrones,  M.E., 
+“Financial Cycles: What? How? When?”, IMF Working Papers, No 11/76, International Monetary Fund, 2011.  
+27  Angelini, P., Neri, S. and Panetta, F. (2012), “Monetary and Macro-prudential Policies” ECB Working Paper 
+1449.  
+28  Cahn,  C.,  Beau,  D.,  Clerc,  L.  and  Mojon,  B.  (2012),  “Macro-prudential  policy  and  the  conduct  of  monetary 
+policy”, Proceedings of the Central Bank of Chile 2012 Annual Conference.  
+29  Mendicino,  C.,  Lambertini,  L.  and  Punzi,  M.  (2012),  “Leaning  against  boom  and  bust  cycles  in  credit  and 
+housing prices: monetary and macro-prudential policies”, Journal of Economic Dynamics and Control.  
+BIS central bankers’ speeches 
+ 7 
+  
+ 
+could be a powerful instrument in a boom that is driven by increasing leverage30 the financial 
+cycle  differs  from  the  business  cycle  in  its  amplitude,  which  could  at  times  require  much 
+larger shifts in the policy rate than would be warranted by the outlook for inflation.31  
+Second,  financial  cycles  across  euro  area  countries  are  still  heterogeneous,  while 
+monetary policy is the same across the board. The ECB’s monetary policy is responsible 
+for ensuring medium-term price stability in the euro area as whole. Tailoring monetary policy 
+decisions  to  specific  sectoral  or  regional  differences  in  credit  or  asset  price  developments 
+might have inappropriate side effects in other areas. 
+These  considerations  suggest  that  two  different  objectives  warrant  the  use  of  two 
+different sets of instruments, in the spirit of Tinbergen. The objective of monetary policy 
+remains  the  safeguarding  of  medium-term  price  stability.  As  I  have  mentioned  earlier,  the 
+main task of macro-prudential policy is to address risks to financial stability and to ultimately 
+curb  the  financial  cycle,  so  that  the  risk  of  financial  crises  occurring  is  reduced  and  real 
+economic effects of financial crises are dampened. This separation is also consistent with the 
+“principle of effective market classification”, according to which policies should be linked to 
+those objectives on which they have the strongest impact.32  
+Whether the two different policy functions give rise to friction depends on the degree 
+of complementarity of the respective policy objectives. Most of the time, there is no 
+trade-off  between  price  stability  and  financial  stability.  Price  stability  contributes  to 
+financial stability by eliminating inflation-related distortions in financial markets. At the same 
+time,  financial  stability  facilitates  the  central  bank’s  task  of  maintaining  price  stability  by 
+contributing to a stable monetary transmission mechanism – a precondition for a central bank 
+to be able to discharge its task – and by avoiding that risks to price stability emanate from 
+financial instability. Therefore, in those cases, the respective objectives of macro-prudential 
+policy and monetary policy are mutually reinforcing. 
+However  in  certain  situations,  the  two  policies  may  have  different  directions,  one 
+restricting while the other is expanding, without this implying that they are in conflict 
+but rather that they are being complementary. That is precisely what happened during the 
+time  of  the  so-called  “great  moderation”  and  in  the  present  moment.  Right  now,  the  low 
+nominal  growth  requires  low  interest  rates  and  this  creates  the  possibility  of  activating  the 
+“the  risk-taking  channel”33  and  search  for  yield  and  restrictive  macro-prudential  measures 
+become necessary. In general, the two policy areas interact, and their effects on each 
+other  have  to  be  considered.  Macro-prudential  policy  influences  credit  conditions,  and 
+thereby also feeds back into the overall economy and, hence, the outlook for price stability. 
+Monetary  policy  can,  in  the  pursuit  of  price  stability,  affect  systemic  risk  via  a  number  of 
+transmission channels. 
+The  interaction  effects  of  monetary  policy  and  macro-prudential  policy  suggest  that 
+coordination between the two policy functions is beneficial. The need for coordination and the 
+fact  that  both  monetary  policy  and  macro-prudential  policy  take  a  macroeconomic 
+perspective  provide  a  strong  motivation  for  integrating  the  two  policy  functions  within  one 
+                                                
+30  See,  for  example,  Adrian,  T.  and  Shin,  H.-S.,  “The  Changing  Nature  of  Financial  Intermediation  and  the 
+Financial Crisis of 2007–09”, Staff Reports, No 439, Federal Reserve Bank of New York, March 2010.  
+31  See,  for  example,  Bean,  C.,  Paustian,  M.,  Penalver,  A.  and  Taylor,  T.,  “Monetary  Policy  after  the  Fall”, 
+Macroeconomic Challenges: The Decade Ahead, Federal Reserve Bank of Kansas City, 2011.  
+32  See also Mundell (1962) who discussed this question in the context of monetary and fiscal policy.  
+33  The risk-taking channel suggests that monetary policy affects risk premia via lenders’ or investors’ willingness 
+to take risk, e.g. via sticky return targets or an inherent counter-cyclicality of investor risk aversion. See Borio, 
+C.  and  Zhu,  H.,  “Capital  regulation,  risk-taking  and  monetary  policy:  a  missing  link  in  the  transmission 
+mechanism?”, BIS Working Papers, No. 268, December 2008; and the references therein.  
+8 
+ BIS central bankers’ speeches 
+  institution, the central bank, an entity with broad knowledge of markets, financial stability and 
+the independence to take bold decisions when needed. 
+It has therefore been decided that the Governing Council will have a prominent role to 
+play  in  matters  related  to  macro-prudential  policy.  Regular  joint  meetings  will  be  held 
+with the Supervisory Board of the SSM to assess the relevant financial stability situation in 
+the euro area and in each of its member countries. Following the assessment of risks and 
+vulnerabilities  to  financial  system  stability  and  possible  remedial  action,  discussions  may 
+conclude on the need for the activation of a specific macro-prudential tool. Robust analysis is 
+needed  to  contradict  possible  inaction  bias  on  the  timing  of  intervention  as  well  as  on  the 
+design and implementation features of such tools. The Governing Council also needs to be 
+alert to leakages and issues of coordination of macro-prudential actions where measures are 
+addressed to a specific country. Detailed procedures for the activation of macro-prudential 
+policy  tools  have  also  been  spelled  out,  along  challenging  timelines,  in  line  with  the  SSM 
+regulation, whereby the ultimate responsibility lies with the Governing Council. 
+Conclusion 
+Impressive progress has been made in understanding transmission mechanisms of macro-
+prudential policy instruments but this is the beginning of a long journey, as we prepare the 
+analytical toolkit for this new policy area. I am encouraged by the wide range of empirical and 
+theoretical modelling approaches of financial instability which are being presented here at the 
+MaRs conference. 
+For the decisions we have to take in the near term, we will have to rely more on incompletely 
+tested theories and sometimes precarious econometric evidence. This means that we have 
+to  accept  uncertainty  and  cautious  experimentation  when  we  decide  what  is  necessary  to 
+stabilise the financial system. As I mentioned recently: “Macro-prudential policy faces a major 
+test  going  forward:  will  there  be  determination  and  boldness  to  try  to  smooth  the  financial 
+cycle,  or  will  the  authorities  just take  refuge  in  building  buffers  and  strengthening financial 
+institutions?”34 
+This  would  imply  that  significant  reliance  on  monetary  policy  would  remain  to  address  a 
+posteriori the regrettable results of the boom/bust feature of the financial system. Only time 
+will tell, but the answer to that question will depend, in my view, whether the central banks 
+will be given or not a predominant role in macro-prudential policy decision-making. 
+Let me conclude. 
+Many policies in history have been developed through trial and error. It is rare that a perfect 
+theory or academic paradigm is established before at the time when a new policy needs to 
+be used for the first time. But it is important that once the policy community has realised that 
+a  new  policy  is  indispensable  and  starts  “field  experiments”,  the  analytical  foundations  are 
+developed in parallel. And, I would argue that we, in the ECB and the European System of 
+Central  Banks,  have  made  a  major  and  timely  step  through  MaRs.  I  hope  that  the 
+presentation  of  the  final  MaRs  report  after  my  speech  and  the  papers  in  the  conference 
+programme today and tomorrow will testify this. Other authorities, like the BIS or the IMF as 
+well  as  a  part  of  the  academic  community  have  taken  similar  steps.  Many  of  the  people 
+involved are represented here at the concluding MaRs conference. 
+But this is only a start. As I tried to illustrate, policy-makers need well-established foundations 
+for their actions. They also know that in order to be effective, these actions will have to be 
+bold.  Many  years  of  experience  across  countries  and  a  variety  of  instruments  need  to  be 
+                                                
+34  “Making macro-prudential policy work”, speech by Vítor Constâncio, Vice-President of the ECB,  at the high-
+level seminar organised by De Nederlandsche Bank, 10 June 2014.  
+BIS central bankers’ speeches 
+ 9 
+  acquired. The macro-prudential policy area needs to become part of the regular economics 
+curriculum. Seminal papers which can be referred to when such policies are addressed need 
+to be written. Furthermore, a large body of research, from which university teachers distil the 
+main  principles,  institutional  features,  policy  instruments  and  transmission  mechanisms 
+needs  to  be  built.  This  would  enable  equipping  students  with  the  basic,  policy-relevant 
+knowledge. 
+In the macro-prudential field we are still very far from this ideal situation. More experience in 
+the  application  of  macro-prudential  tools  and  in  the  use  of  new  frameworks  for  the 
+assessment of macro-prudential regulatory instruments needs to be acquired. More research 
+work  along  the  lines  of  MaRs  and  related  initiatives  needs  to  be  pursued.  We  invite  all 
+researchers from outside the ESCB, whether at other policy authorities or academia, to join 
+forces with us and pursue this goal. 
+I am now at your disposal for questions, if you wish. Thank you for attention.  
+10 
+ BIS central bankers’ speeches 

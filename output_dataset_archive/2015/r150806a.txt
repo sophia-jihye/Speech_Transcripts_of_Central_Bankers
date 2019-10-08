@@ -1,0 +1,432 @@
+  Harun R Khan: IT governance and IT strategy – Board’s eye view 
+Valedictory address by Mr Harun R Khan, Deputy Governor of the Reserve Bank of India, at 
+the seminar on IT Governance for Directors of Banks at the Institute for Development and 
+Research in Banking Technology (IDRBT), Hyderabad, 28 July 2015. 
+ Assistance provided by Shirish C. Murmu and Kumar Rajesh Ranjan is gratefully acknowledged. 
+1. 
+Dr.  A.  Ramasastri,  Director,  Institute  for  Development  and  Research  in  Banking 
+Technology  (IDRBT),  Prof.  Sivakumaran,  co-ordinator  of  the  programme,  participating 
+Directors from banks, faculty of IDRBT, ladies and gentlemen. I am glad to be in the midst of 
+this distinguished gathering to take part in the valedictory session on the programme on ‘IT 
+Governance for Directors of Banks’. I thank IDRBT for arranging this topical seminar, which I 
+believe,  will  greatly  contribute  to  improved  IT  governance  in  banks  under  the  guidance  of 
+their Board members. 
+2. 
+I am sure the experts who have addressed and interacted over the last one and a 
+half  day  have  shared  their  thoughts  on  the  changes  that  banking  in  India  and  globally  is 
+undergoing and the challenges lying ahead. The basic underlying theme that runs through 
+this changing landscape is the ever increasing reliance on technology to cater to the needs 
+of faster, accurate, and efficient banking operations, both in volume and value terms, across 
+the  entire  spectrum  from  routine  backend  operations  to  the  data  intensive  computing  for 
+regulatory  compliance  to  sophisticated  front  end  multimedia  interface  with  the  customers. 
+Before I come to the central theme of the just concluded seminar, let me begin with a brief 
+outline of the adoption of IT by the banks in India. 
+Banking sector and the information technology 
+3. 
+As is known to the participants while the foreign banks operating in India led the way 
+in IT adoption in the beginning, the new generation private sector banks aggressively started 
+pursuing technology-based service offering in a big way in the Indian banking sector in the 
+90s. Indeed, early adoption of technology by the new private sector banks leapfrogged them 
+in customer acquisition and business expansion while protecting their margin. For the public 
+sector banks and, also to certain extent, the old generation private sector banks the transition 
+was,  however,  not  easy  mainly  due  to  legacy  issues.  The  technology  adoption  by  these 
+banks was largely driven by regulatory roadmap, recommendations of various committees, 
+such  as  Rangarajan,  Saraf  and  Vasudevan  Committees  and  also  the  instructions  of  the 
+Central Vigilance Commission (CVC), rather than as a proactive strategy to further business 
+interests. The poor communication infrastructure and the staff issues of the era also did not 
+help  the  cause  either.  Increasing  competition  from  the  tech  savvy  new  generation  private 
+sector  banks,  rapid  innovations  in  the  ICT  sector,  particularly  internet  as  well  as  nudgings 
+from the Reserve Bank, however, enabled these banks to catch up with the leaders in the 
+banking sector as far as IT adoption in banks was concerned. Establishment of IDRBT by 
+RBI in March 1996 can be considered as a major milestone in this regard and the IDRBT has 
+been playing a significant role in adoption of technology in the Indian banking sector since 
+then. 
+4. 
+In the recent times, almost all the business activities in the banking industry have 
+undergone  rapid  changes  due  to  various  factors  with  IT  being  the  most  significant.  The 
+banking  products,  services,  processes,  delivery  channels,  etc,  have  largely  moved  from 
+physical to electronic. So we have come to a stage in banking, where IT is an enabler, one of 
+the most important business drivers and also a crucial component of the business process 
+itself. In a way a large part of the ‘Internal Transformation’ of banking organizations could be 
+attributed to IT adoption. Further, as all the stake holders for banks, including the regulators, 
+BIS central bankers’ speeches 
+ 1 
+  are  adopting  more  and  more  technology  platforms,  banking  sector  has  got  an  ideal  IT 
+ecosystem to flourish,  so  to say.  Resultantly,  now  we  are  in  a  situation  when  not  only  the 
+digital assets constitute a significant portion of a bank’s assets in comparison to the physical 
+assets, its share is also growing day by day. 
+Corporate governance and IT governance 
+5. 
+Before I dwell upon the core issues of IT governance and IT strategy, let me briefly 
+highlight the importance of corporate governance in the banks and recent developments in 
+this  area.  Participants  may  recall  that,  in  the  recent  past,  the  Reserve  Bank  and  the 
+Government have taken a number of steps to strengthen corporate governance, particularly 
+in  the  public  sector  banks,  as  recommended  by  the  Committee  on  Governance  of  Banks 
+(Chairman Shri P. J. Nayak) (Nayak Committee). Very recently, in May 2015, Reserve Bank 
+has done way with calendar of review for banks’ boards and instead advised boards to focus 
+on seven critical themes suggested by the committee, namely, business strategy, financial 
+reports  and  their  integrity,  risk,  compliance,  customer  protection,  financial  inclusion  and 
+human resources. If one looks in to these seven areas, one would notice that IT plays a very 
+significant  role  for  achieving  strategic  goals  in  all  these  areas  of  focus.  Therefore,  IT 
+governance  and  IT  strategy  by  themselves  also  need  to  be  a  major  responsibility  of  the 
+board. Unfortunately while the concept of corporate governance is well appreciated for long, 
+the IT Governance has started getting the rightful attention by banks only recently. 
+Why and what of IT governance 
+6. 
+In one way IT governance can be defined as the decision rights and accountability 
+framework for encouraging desirable behavior in the use of IT1. The IT governance provides 
+a framework for  ensuring that the  information  technology  decisions  take  into  consideration 
+the  business  goals  and  objectives  of  an  organization.  As  is  the  case  with  corporate 
+governance which aids an organization to ensure that major decisions are in alignment with 
+the  organizational  vision,  mission  and  strategy,  IT  governance  ensures  that  IT-related  key 
+decisions match the organization-wide objectives over a long term horizon. 
+The IT governance exists within corporations to guide IT initiatives and ensure that 
+7. 
+the performance of IT meets the corporate objectives. A well placed IT policy and structured 
+IT  governance  set-up  along  with  corporate  managers  combine  to  ensure  that  IT  is 
+synchronized  with  the  business  and  delivers  value  to  the  firm.  In  the  IT  governance 
+framework, issues and strategic importance of IT need to be clearly understood so that the 
+organization can implement its strategies effectively to face the growing market competition 
+on  a  sustained  basis.  A  bank’s  vision  for  IT  governance  must  incorporate  ideas  and 
+information  about  the  way  it  executes  its  business  strategy.  It  is  about  how  one 
+operationalises the strategy and subsequently capitalizes on market opportunity. It is only at 
+the  lower  levels  of  framework  that  the  IT  governance  is  about  decision  rights,  compliance 
+with regulations, setting standards, etc. And while I do not intend to minimize the importance 
+of these operational elements in the IT governance, I do feel that if a bank’s IT governance is 
+primarily  about  being  compliant  and  secondarily  about  business  execution,  then  banks’ 
+business  is  not  likely  to  benefit  strategically  from  the  IT.  One  would  then  miss  out  on  the 
+larger opportunity that IT governance offers. 
+                                                
+1  Weill, P. & Ross, J. W., 2004, IT Governance: How Top Performers Manage IT Decision Rights for Superior 
+Results”, Harvard Business School Press, Boston. 
+2 
+ BIS central bankers’ speeches 
+  Board driven IT strategy 
+8. 
+IT strategy being a part of corporate strategy, should be driven by the board. All the 
+aspects  of  technology  management,  namely,  cost,  human  capital,  hardware  and  software, 
+vendors  and  service  providers,  risk  management  including  disaster  recovery  should  be 
+factored in the IT strategy of the bank. The Chief Information Officer (CIO) in a bank needs to 
+work in close coordination with business, finance and legal departments as well as with other 
+user groups within the bank. 
+While  a  bank’s  IT  strategy  can  be  a  codified  document,  it  must  have  enough 
+9. 
+flexibility 
+to  accommodate  emerging  circumstances,  business  priorities,  budgetary 
+constraints, regulatory requirements, skill sets, etc. Banks should look at technology adoption 
+as a core business driver rather than a compliance requirement. Better IT adoption can not 
+only be leveraged to achieve balance sheet growth but also to protect margins and provide 
+seamless customer service across different geographies. If one can summarise what could 
+be  the  key  elements  of  an  effective  IT  strategy,  then  it  may  comprise  seven  C’s: 
+Codification (of IT policies and practices with flexibility built into it), Control ( over systems 
+and processes), Continuity (of services and facilities), Confidence (about the robustness of 
+the system), Convenience (to the customers and the staff), Cost (implying optimisation of 
+investments  made  and  Confidentiality  (meaning  protection  of  customer  information  and 
+organizational data safety). 
+ICT and financial inclusion 
+10. 
+It is well understood that ICT could provide a major opportunity in reaching out to 
+hitherto  financially  excluded  segment  of  customers,  thereby  tapping  the  enormous 
+opportunities at the Bottom of the Pyramid (BOP) by bridging the urban-rural digital divide. 
+As we, from the Reserve Bank, have always been emphasizing, the moot point is how can 
+banks leverage technology to offer hitherto excluded customers products which are simple, 
+safe, low-cost and easy to use. With the ubiquitous presence of mobile phones, the potential 
+for mobile banking as a delivery channel for financial services is a huge opportunity in India. 
+Banks  may  have  to  strive  to  deepen  mobile  banking  penetration  to  existing  (including 
+PMJDY)  and  new  customers.  Putting  into  practice  the  policy  pronouncements  on  JAM  
+(Jan-Dhan  accounts,  Aadhar  identity  numbers  and  Mobile  phone  availability)  has  to  be  a 
+major  focus  area  of  banks,  if  the  large  number  of  accounts  opened  under  PMJDY  has  to 
+become  operational  and  remunerative.  Entry  of  a  sizable  number  of  new-generation 
+customers to the banking fold is a great opportunity in this regard. While new customers can 
+ab initio be on boarded to mobile banking, efforts may be made to bring a certain minimum 
+percentage of existing customers to the fold of mobile payments. Banks may run customer 
+education  and  awareness  campaigns  focused  on  mobile  banking  including  its  security 
+aspects.  The  rural  branches  in  a  sense  have  to  become  learning  centers  for  ICT  based 
+banking. Here the role of staff, particularly the frontline staff, of the banks and the field staff of 
+the  Business  Correspondents/agents  is  very  critical  in  handholding  the  new  generation 
+customers as they transit from assisted mode to self service mode of digital banking. This 
+would also require partnering with merchants for acceptance of mobile payments. The key to 
+cheap  and  universal  payments  and  remittances  will  be  if  we  can  find  a  safe  way  to  allow 
+funds to be freely transferred between bank accounts and mobile wallets as well as cashed 
+out of mobile wallets through a wide spread network of business correspondents. Leveraging 
+technology  for  remittance  assumes  criticality  when  a  new  set  of  players  in  the  form  of 
+Payment Banks will emerge sooner than later. 
+IT Infrastructure and governance: supervisory perspectives 
+11. 
+As the regulator and supervisor of banks, let me focus a bit on our perspectives on 
+the IT infrastructure and governance. As key areas of focus, I would like to list a few of the 
+unfinished agenda items which banks need to pursue more vigorously: 
+BIS central bankers’ speeches 
+ 3 
+  c. 
+b. 
+a. 
+d. 
+Quality of returns generated by the Core Banking Solution (CBS) of the banks is not 
+up to the mark in many cases and it is not able to provide the data in customised 
+formats as required by the regulator / supervisor. Banks have to examine the need 
+for making their CBS systems capable of meeting, inter alia, not only all their internal 
+MIS  requirements  but  also  of  generating  regulatory/supervisory  returns  on  a  real 
+time basis. 
+System driven identification of NPAs has not been found robust enough in certain 
+banks. Though banks are taking remedial actions in such cases, it does not alleviate 
+the supervisory discomfort with this kind of situation. 
+Automated  Data  Flow  (ADF)  application  is  yet  to  get  fully  implemented  in  all  the 
+banks.  In  absence  of  full  ADF  implementation,  MIS  reports  are  open  for  manual 
+intervention and operational errors apart from delay in submission. The system also 
+needs  to  address  the  integration  issues  of  the  legacy  data  in  the centralised  data 
+server  for  a  robust  MIS.  To  test  the  accuracy  of  returns  generated  through  ADF 
+system  around  3000  unique  data  elements  covered  in  the  returns  already  under 
+XBRL  process,  Reserve  Bank  will  forward  to  banks  for  generation  of  values  for 
+these elements from their ADF system. As is well known, XBRL system adopted by 
+the Reserve Bank in 2008 is already benefitting the banks as well as the Reserve 
+Bank as an online single point data submission/dissemination platform following the 
+international  standards.  So  far  97  out  of  total  267  returns  have  been  taken  up  in 
+XBRL system. Banks have to gear up to meet the requirements in this regard as fast 
+as possible. 
+Recently released guidelines of Basel Committee on Banking Supervision (BCBS) 
+on corporate governance principles for banks highlights the board members having 
+knowledge, inter alia, relating to role of information technology in risk governance. 
+The  guidelines  also  prescribe  that  the  degree  of  sophistication  of  a  bank’s  risk 
+management  infrastructure  –  including,  in  particular,  a  sufficiently  robust  data 
+infrastructure,  data  architecture  and  information technology  infrastructure  –  should 
+keep pace with developments such as balance sheet and revenue growth. Realising 
+that  banks’  information  technology  and  data  architectures  were  inadequate  to 
+support  the  broad  management  of  financial  risks  during  the  global  financial  crisis 
+that began in 2007, BCBS released the “Principles for effective risk data aggregation 
+and risk reporting” in 2013. The Principles, inter alia, highlight that improving banks’ 
+risk  data  aggregation  capabilities  would  lead  to  improvements  in  terms  of 
+strengthening the capability and the status of the risk function to make judgments 
+and  in  turn  to  gain  in  efficiency,  reduced  probability  of  losses  and  enhanced 
+strategic  decision-making,  and  ultimately  increased  profitability.  Banks  in  India, 
+therefore,  have  to  strengthen  the  IT  systems  for  creating  a  robust  compliance 
+infrastructure  to  meet  the  international  and  national  regulatory  best  practices. 
+Boards of banks, especially of the Public Sector Banks, will have a critical role to 
+play in this regard. 
+12. 
+Banks should also enable an adequately skilled people  in the Audit Committee to 
+manage  the  complexity  of  the  IS  Audit  oversight.  A  designated  member  of  the  Audit 
+Committee needs to possess the relevant knowledge of information systems, IS controls and 
+audit issues. The designated member should also have relevant competencies to understand 
+the ultimate impact of deficiencies identified in IT internal control framework by the IS Audit 
+function. The Board or its Audit Committee members could seek training to fill any gaps in 
+the  knowledge  related  to  IT  risks  and  controls.  Where  needed  in  the  interregnum  period 
+services of an outside expert may be taken as a special invitee. 
+4 
+ BIS central bankers’ speeches 
+  that  an 
+information  system  needs 
+Information security and cyber threats 
+13. 
+Banks face a difficult challenge in the area of security management. With a growing 
+population of internal and external users accessing an increasing number of applications, the 
+need has grown exponentially for banks to always deploy the latest security tools that can 
+help them secure their digital assets, prevent data theft and ensure better compliance with 
+regulations. In addition, security management is ever changing. The security measures must 
+be highly responsive, quickly deployable and adaptable to new threats and emerging risks. 
+Moreover, it should be capable of satisfying a new generation of customers who want more 
+personal and customized experiences that match their lifestyles. In other words, convenience 
+of the customer has to be balanced with the confidence in the robustness of the system. 
+14. 
+Human  factor  continues  to  be  the  single  most  important  security  management 
+challenge, which also needs to be addressed effectively. The core mitigant in this regard is 
+imparting  customer  education  and  creating  awareness.  In  recent  times,  SMAC  (Social, 
+Mobile, Analytics and Cloud) is the concept which is driving innovation worldwide, making the 
+security  even  bigger  challenge.  Besides,  other  related  developments  like  virtualisation,  big 
+data,  mobile  and  working  from  home  as  well  as  globalisation  of  markets  and  other 
+demographic  changes  with  their  concomitant  security  implications  have  all  added  to  the 
+significance of IT security. In this age, banks cannot afford to leave IT security to chance and 
+assume that its vulnerability  will not be known to outsiders, the so called “security through 
+obscurity”. While banks should be conscious of the external threat, the internal threats from 
+within the organization should also be given due attention. 
+Any model of IT security implemented by banks must be able to respond to the three 
+15. 
+to  maintain.  These  are 
+known  core  attributes 
+Confidentiality,  Integrity  and  Availability  (CIA).  While  it  is  essential  that  the  digital 
+data/information are not made available or disclosed to un-authorised individuals or entities, 
+it is also required to be ensured that the accuracy and completeness of the digital assets are 
+maintained.  At  the  same  time  the  data/information  should  be  accessible  and  usable  upon 
+demand by every authorised person or entity. 
+16. 
+The incidents of cyber frauds, inter alia, could bring disrepute to the technology led 
+banking services delivery channels. In the recent past, the volume of electronic based retail 
+payments as a percent of total non-cash retail payments has been going up steadily, from 
+47%  to  55%  and  further  to  65%  during  the  years  2011–12,  2012–13  and  2013–14, 
+respectively.  The  increasingly  high  volumes  of  banking  transactions  being  routed  through 
+internet banking, mobile banking, usage of debit/credit cards, etc. by both sophisticated and 
+technologically  uninitiated  customers  forces  banks  to  lay  due  emphasis  on  automated 
+system for frauds detection based on advanced algorithms, rather than excessive reliance on 
+manual  process.  Besides,  customer  education,  particularly,  of  the  large  number  of  first 
+generation  customers  is  the  responsibility  that  banks  must  take  upon  themselves  and 
+educate these customers, for example, about does and don’ts of online and mobile banking. 
+17. 
+A  truly  effective  security  management  will  require  the  layering  of  a  number  of 
+solutions that focus on people, process, technology and risk. The management of each layer 
+will  need  to  be  based  on  its  context  among  the  diverse  capabilities  and  limitations  of  the 
+others. When all the layers are combined, it creates a powerful tool that can offer banks a 
+much more successful way to manage their security challenges than any single stand-alone 
+solution. Given that sharing the cyber attack experience among banks and drawing lessons 
+is very critical, it is important that banks are proactively engaged with Indian Banks – Center 
+for Analysis of Risks and Threats (IB-CART) of the IDRBT for incident sharing and benefiting 
+from each others’ experience. At the end, an effective interplay of seven S’s viz. Strategy (in 
+terms of long term objectives), Surveillance (as there is no substitute for eternal vigilance), 
+Sharing (of  experience  without  which  individual  cyber  breaches  will  snowball  into  system-
+wide epidemic), Sensitisation (of cyber risks as a serious issue from the top to the bottom of 
+the  organization),  Simulation  (by  way  of  scenario  building  for  possible  situations  of 
+BIS central bankers’ speeches 
+ 5 
+  
+ 
+vulnerabilities), Safeguarding (of customers’ interest and organization’s reputation) and Skill 
+(technical, legal and operational skill upgradation and orientation of the staff) should form the 
+bedrock of a robust IT security system. 
+Operational issues in IT infrastructure 
+18. 
+Coming to the IT infrastructure and operational aspects of IT implementation, banks 
+were  beset  with  numerous  issues  as  enumerated  in  the  Working  Group  on  “Information 
+security,  electronic  banking,  technology  risk  management  and  tackling  cyber  frauds” 
+(Chairman Shri G. Gopalakrishna). As this has been discussed in the seminar, I would like to 
+list only a few points, which need more attention by banks: 
+a. 
+for  assessing 
+future  capability,  and 
+The  requirements  of  trained  resources  with  requisite  skill  sets  for  the  IT  function 
+need  to  be  understood  and  assessed  appropriately  by  every  bank.  A  periodic 
+assessment  of  the  training  requirements  for  human  resources  should  be  made  to 
+ensure that sufficient, competent and capable human resources are available. In this 
+regard,  acquisition  and  retention  of  IT  trained  human  resources  with  attractive 
+service conditions has been and will remain a challenge for banks, particularly the 
+Public Sector Banks. 
+Justification  of  IT  investment  on  Return  on  Investment  (ROI)  parameter  could 
+require  implementation  of  an  IT  balanced  scorecard  to  measure  IT  performance 
+along  different  dimensions,  such  as,  financial  aspects,  customer  satisfaction, 
+process  effectiveness, 
+IT  management 
+performance. 
+The  board  and  senior  management  are  ultimately  responsible  for  outsourced 
+operations  and  for  managing  risks  inherent  in  such  outsourcing  relationships. 
+Responsibilities  for  due  diligence,  oversight  and  management  of  outsourcing  and 
+accountability for all outsourcing decisions continue to rest with the bank, board and 
+senior  management.  For  example,  banks  must  have  a  system  of  ensuring  the 
+integrity of the currency loaded by outsourced agencies in their ATMs and should 
+own full responsibility in this regard. 
+The IT Act, 2000 as amended in 2008, also exposes a bank, as an intermediary, to 
+various  criminal  and  civil  liabilities  for  breach  in  data  security.  For  example,  the 
+newly  inserted  Section  43A  of  the  Act,  states  that  a  firm  possessing,  dealing  or 
+handling any sensitive personal data or information in a computer resource which it 
+owns, controls or operates, is negligent in implementing and maintaining reasonable 
+security  practices  and  procedures  and  thereby  causes  wrongful  loss  or  wrongful 
+gain  to  any  person,  such  a  firm  shall  be  liable  to  pay  damages  by  way  of 
+compensation  to  the  person  so  affected.  Banks  should,  therefore,  give  utmost 
+priority  to  data  protection  in  the  IT  security  framework  and  develop  a  dynamic 
+liability management framework. 
+b. 
+c. 
+d. 
+Way forward – things of future 
+19. 
+Before  I  conclude,  let  me  briefly  dwell  upon  my  take  on  the  future  of  technology 
+based  banking,  in  particular  ICT  backed  payment  system  instruments  which  are  all  set  to 
+occupy  the  retail  financial  space  in  a  big  way.  Take  for  example  e-commerce  business  in 
+India which is on a higher growth trajectory. Though initially it started with Cash-on-Delivery 
+(CoD), net-banking, credit and debit card modes of payment, later on with the introduction of 
+e-wallet/mobile  wallet  as  an  alternate  mode  of  payment,  the  business  has  got  the  desired 
+impetus.  CoD  involved  a  cost  for  the  e-tailers  whereas  consumers  /buyers  were  probably 
+having  lack  of  trust  in  online  transaction  using  net-banking,  credit/debit  card  details. 
+Therefore, the wallet has emerged as a safe and secure mode of payment. Such wallets are 
+vying  for  the  space  which  was  earlier  occupied  by  debit  cards.  Reserve  Bank  has  been 
+6 
+ BIS central bankers’ speeches 
+  authorizing  banks/non-banks  for  issuing  e-wallets/mobile  wallets  which  is  being  used 
+extensively  for  bill  payment,  recharge  apart  from  e-commerce  transaction.  In  fact,  we  are 
+already at the stage, when the e-commerce has encroached in to the banking territory. The 
+day is not far off when the banks would be viewed more as technology companies offering 
+banking products and services. While this will be a new challenge for the sector, I see this as 
+opportunity for banks to find new growth driver. 
+Prime Minister’s Digital India initiative 
+20. 
+The recently launched Prime Minister Digital India initiative aims at integrating the 
+government  and  related  departments  and  the  public  with  the  objective  of  making  public 
+services available to citizens electronically by reducing paperwork. The Digital India initiative 
+aims  at  creation  of  nationwide  digital  infrastructure  (broadband  /  high  speed  internet), 
+delivery of government services digitally and also increasing digital literacy. This initiative, in 
+my  view,  will  bring  in  enormous  opportunity  for  banks  to  innovate  and  expand  services  to 
+vast  majority  of  rural  population  though  electronic  deliverables.  As  discussed  in  the  last 
+year’s  banking  conclave  (Gyan  Sangam)  in  Pune,  the  top  30  processes  in  a  public  sector 
+bank  account  for  around  50%  of  costs  in  back  office  and  over  80%  of  customer  facing 
+activities.  If  banks  can  take  steps  to  digitise  the  top  30  processes  quickly  to  improve 
+customer experience and cut costs then they can reap huge efficiency and profitability gains. 
+This would involve: a) defining the revised workflow, b) redefining technology where needed 
+to  transform  the  processes,  and  c)  driving  change  management  across  the  bank  to  adopt 
+new processes. 
+Big Data 
+21. 
+As the participants would be aware, Big Data (BD) is a broad term for data sets so 
+large or complex that traditional data processing applications are inadequate to handle such 
+data.  An  example  of  big  data  might  be  petabytes  (1,024  terabytes)  or  exabytes 
+(1,024 petabytes) of data consisting of billions to trillions of records of millions of customers. 
+With the amount of data generated today, one would not be surprised that very soon all of us 
+have  to  deal  with  BD  in  day-to-day  operations. In  the  scenario,  the  new  challenges  would 
+include  data  capture,  data  curation,  search,  sharing,  storage,  transfer,  information  privacy, 
+analysis  of  data,  etc.  While  BD  throws  up  these  challenges,  the  use  of  BD  analytics  in  a 
+meaningful  way  would  offer  a  significant  competitive  advantage.  Implementation  of 
+appropriate  BD  analytics  by  banks  is  going  to  be  the  key  in  achieving  greater  customer 
+centricity and for acquiring a deeper understanding of customer needs given the proliferation 
+of customers’ external data, such as, social media activities and online behavior. Rather than 
+being dazzled by the volume of data, banks should be in a position to convert it into 3 I’s of 
+Insights, Innovations and Income. 
+Business analytics 
+22. 
+As we anticipate challenges of BD, there would be emerging technology and skill to 
+deal with the BD in a meaningful way. Business analytics (BA) is one such field which can be 
+used  by  banks  to  further  their  business  interest  in  the  increased  IT  environment.  BA  in 
+general  refers  to  the  skills,  technologies,  practices  for  continuous  iterative  exploration  and 
+investigation  of  past  business  performance  to  gain  insight  and  drive  business  planning. 
+Business  analytics  can  hold  the  key  to  better  performance,  informed  decisions,  actionable 
+insights  and  trusted  information.  By  bringing  together  all  relevant  information  in  an 
+organization, banks can answer fundamental questions, such as what is happening? why is it 
+happening? what is likely to happen in the future? and how should we plan for that future? 
+Data and analytics provide very big opportunities for banks. At some level, actually, one can 
+think of it as a way to transform the institution, much the same way in the 1980s and 1990s 
+and early 2000s when IT systems transformed the banks in their business processes. 
+BIS central bankers’ speeches 
+ 7 
+  Internet of Things (IoT) 
+23. 
+We are already in the era of ever increasing Internet of Things (IoT). IoT describes a 
+world where just about anything can be connected to communicate in an intelligent fashion. 
+One study says world today has 15 billion connected devices and in the next five years the 
+number may go up to 50 billion. In other words, with the IoT, the physical world is becoming 
+one big global information system. For banks the IoT will deliver an unprecedented level of 
+data and data-driven customer insight. This will allow banks to provide their customers a truly 
+bespoke  experience  with  insights,  advice,  and  offers  that  reflect  the  day-to-day  events  in 
+customers’  lives.  The  IoT  is the key factor  that will  enable  a  bank  to fully  transform  into  a 
+bank of things. Of course, as I had mentioned earlier, this increases cyber risk manifold as 
+attackers can spread viruses and malware from myriad remote devices, thus turning IoT to 
+what as someone has described as “gateway to hackers’ paradise”. As Marc Goodman has 
+very aptly put it: when everything is connected everyone is vulnerable2. 
+24. 
+At  the  end,  I  would  like  to  draw  your  attention  to  the  major  challenge  that  awaits 
+banks in the near future. Three years ago Brett King authored a book that focussed on how 
+banking  is going to  be undertaken  without  involving  the  banks3. The message  was  that to 
+make banking relevant in the fast changing technology and ICT based payment ecosystem, 
+banks have to realise that technology is a great enabler and its powers need to be harnessed 
+in every sphere of modern day banking without losing focus on safety and security. As I had 
+mentioned earlier, in near future banks will, whether through conviction or compulsion, have 
+to transform into technology companies. While leveraging the ubiquitous power of technology 
+the focus has to be on what I can call five P’s. They are Products (in terms of offerings), 
+Processes (that ensure efficiency of operations), People (both customers and staff that take 
+to  technology  engagement  with  maximum  ease  without  losing  sight  of  security  needs), 
+Productivity  (by  enhancing  margins)  and  Prudence  (by  building  more  robust  risk 
+management system and regulatory compliance culture). For this, appropriate IT governance 
+and  IT  strategy  driven  by  Boards  of  the  banks  is  of  paramount  importance.  I  am  sure, 
+Directors  are fully  geared  to  accept  the  challenges  of  harnessing  the  power  of  IT for their 
+banks and this one and half day’s seminar has been a great catalyst in this pursuit. 
+Thank you very much for patient listening ! 
+                                                
+2  Marc  Goodman,  2015,  Future  Crimes:  A  journey  to  the  dark  side  of  technology  –  and  how  to  survive  it, 
+Doubleday. 
+3  Brett King, 2012, Banks 3.0- Why Banking is No Longer Somewhere You Go, But Something You Do, Wiley. 
+8 
+ BIS central bankers’ speeches 

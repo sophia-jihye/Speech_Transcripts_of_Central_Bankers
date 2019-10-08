@@ -1,0 +1,279 @@
+V K Sharma: The financial innovations that never were 
+Keynote address by Mr V K Sharma, Executive Director of the Reserve Bank of India, at the 
+Finnoviti 2012, organised by Banking Frontiers, Mumbai, 8 November 2012. 
+ The views expressed are those of the author and not of the Reserve Bank of India. 
+I  deem  it  an  honour  and  privilege  to  be  addressing  this  very  distinguished  and  august 
+audience. Right at the outset, I would like to impress upon this very learned and discerning 
+audience that responsible Financial Innovation is not an end in itself, but instead, a means to 
+an end of sub-serving the real sector and in that sense it is consistent with, and a natural fit 
+to,  public  policy  purpose  of  “financial  sector-real  sector  balance”.  As  this  distinguished 
+audience is aware, there is broad consensus and unanimity now among all key stakeholders 
+that it was the unsustainable “financial sector-real sector imbalance” due to certain financial 
+innovations that was the real cause of the last global financial crisis. 
+Generic financial innovation has typically evolved in the form of both on-balance sheet and 
+off-balance  sheet  derivative  instruments.  While  Collateralized  Debt  Obligations  (CDOs), 
+CDO-squared, CDO-cubed, Credit Linked Notes (CLNs) etc., are the typical examples of on-
+balance  sheet  financial  innovations,  Currency  Swaps,  Interest  Rate  Swaps  (IRS),  Futures, 
+Options,  Credit  Default  Swaps  (CDS),  etc.,  are  those  of  off-balance  sheet  financial 
+innovations. In both the types, the underlying theory and practice has been the so-called law 
+of one price or, what is the same thing as the no-arbitrage argument, involving replication of 
+derivatives cash flows in the cash markets. In other words, a derivative of an underlying cash 
+market  asset  will  be  so  priced/valued  that  it  is  not  possible  to  arbitrage between  the  cash 
+market and the derivative market, provided the derivative in question is fairly priced/valued. 
+For, if a derivative were priced expensive relative to the underlying asset, an arbitrageur will 
+engage in riskless arbitrage by selling the expensively priced derivative and buying the asset 
+in the cash market by financing it at the going repo rate. In the opposite case, an arbitrageur 
+will  engage  in  riskless  arbitrage  by  shorting  the  asset  in  the  cash  market,  investing  the 
+proceeds  of  short  sale  at  the  higher  going  repo  rate  and  buying  the  relatively  cheap 
+derivative until, in equilibrium, the derivative was fairly priced/valued relative to the asset in 
+the cash market. Another way to posit the above is to say that a derivative’s cash flows/pay 
+offs  can  be  exactly  replicated  in  the  cash  market  provided,  of  course,  seamless,  and 
+frictionless,  arbitrage  is  allowed.  Significantly,  and  interestingly,  such  seamless  and 
+frictionless  arbitrage  also  applies,  just  as  much,  to  derivatives  themselves!  Illustratively,  a 
+long position in forward can be replicated by buying a call option and selling a put option with 
+the strike prices for both at the current forward price. If the actual forward price is expensive 
+relative to the “synthetic” forward (call + put options), an arbitrageur will engage in risk-less 
+arbitrage by selling the expensively priced forward and buying the relatively cheap “synthetic” 
+forward  (call  +  put  options)  and  vice  versa!  The  reason  why  I  am  laboring  this  point  is 
+because this is very central to the key message of my address today. 
+Specifically,  I  propose  to  cover  in  my  address today  three financial  innovations  proxied  by 
+three derivative instruments, viz., Interest Rate Swap (IRS), Credit Default Swap (CDS) and 
+Interest Rate Futures (IRF) as they evolved, or did not evolve, in India. 
+Interest Rate Swap (IRS) market 
+The  Report  of  the  Committee  on  Financial  Sector  Assessment  (Chairman:  Dr.  Rakesh 
+Mohan) noted that the notional principal amount of outstanding Interest Rate Swaps (IRS) of 
+all commercial banks increased from Rs. 10 trillion+ as on 31st March 2005 to Rs. 80 trillion+ 
+as  of  31st  March  2008.  However,  due  to  trade  compression,  involving  multilateral  early 
+termination, by the Clearing Corporation of India Ltd. (CCIL), the notional principal amount of 
+outstanding  IRS  of  commercial  banks  declined  to  Rs.  50  trillion+  as  of  30th  June  2012.  A 
+BIS central bankers’ speeches 
+ 1 
+granular  analysis  reveals  that  of  all  the  commercial  banks  engaging  in  IRS,  public  sector 
+banks with about 74% of total bank assets accounted for less than 2% of notional principal 
+amount of outstanding IRS and private sector and foreign banks, with about 19%, and 7%, of 
+total  bank  assets,  accounted  for  18%,  and  80%,  of  total  notional  principal  amount  of 
+outstanding IRS, respectively. In other words, with combined assets of just Rs. 6 trillion or so, 
+foreign banks accounted for notional principal amount of outstanding IRS of Rs.40 trillion. 
+Significantly, it is disturbing to note that, day in, and day out, the IRS yields trade way below 
+yields of comparable maturity Government securities. Specifically, currently the 5 year IRS 
+yield is trading at a negative spread of 120 basis points to 5 year G-Sec! Besides, while the 
+G-Sec yield curve is almost flat, the IRS yield is steeply inverted to the extent of 120 basis 
+points defying term, credit risk and liquidity risk premia which typically characterize a normal 
+yield curve of risk assets! A typical, but fallacious, and vacuous, rationalization offered of this 
+counter-intuitive,  warped,  weird  and  preposterous  feature  is  that  while  IRS  yields  are 
+influenced by expected path of future interest rates, those of G-Secs are influenced by their 
+supply!! Nothing could be farther from the truth for this rationalization turns the very logic and 
+reason on their head. For, as I said, being pure time value of money, G-Secs are influenced 
+by, and immediately price in, inflationary expectations arising from higher fiscal deficit which, 
+in turn, is the cause of additional supply of G-Secs and not the other way round. Thus, here 
+we have an IRS market completely up side down and running on its head. This is completely 
+anti-thetical to the law of one price, or the no-arbitrage argument. For, if this law held, given 
+hugely negative spreads to Govts., fixed rate receivers, who far exceed, and overwhelmingly 
+outnumber,  fixed  rate  payers,  would  have  engaged  in  a  very  simple  arbitrage,  involving 
+buying corresponding maturity G-Sec in the cash market by financing it in the overnight repo 
+market, and paying fixed, and receiving overnight, in the IRS market! This very normal, and 
+logical,  arbitrage  would  have  had  the  effect  of  benefiting  all  the  three  stake-holders,  viz., 
+(a) fixed rate receivers receiving much higher yield than they are currently, (b) Government 
+of  India  borrowing  at  much  lower  cost,  and  (c)  business  and  industry  in  general,  and 
+infrastructure sector, in particular, getting long-term-fixed-rate-low-cost financing solutions. In 
+other words, this would  have been a  win-win for all key stake- holders but, the fact of the 
+matter is that, if anything, this is just not happening. As to the explanation of this almost a 
+permanent, structural, though quirky and weird, counter-intuitive, perverse, and preposterous 
+feature of the Indian IRS market, the stock, but specious, refrain is that arbitrage, involving 
+receiving fixed on G-Secs and paying fixed in IRS, is not possible because of the so-called 
+“basis risk”! But this is totally untenable for the simple reason that “basis risk” applies just as 
+much to “hedging” as indeed it does to “arbitrage”! In other words, “basis risk” is “arbitrage-
+hedging”  agnostic  and,  therefore,  it  inevitably,  and  incontrovertibly,  follows  that  the  IRS 
+market is also not being used even for “hedging”. If that be so, as indeed it is, the question, 
+especially,  but  significantly,  when  one  also  considers  the  fact  that  only  2%  of  the  notional 
+principal  amount  of  the  outstanding  IRS  is  accounted  for  by  the  real  sector  i.e.  business 
+customers, it begs is what then is 98% of this Rs. 50 trillion+ IRS market being used for. In 
+other  words,  in  the  case  of  the  Indian  IRS  market,  what  holds  instead  is  the  “law-of-two-
+prices-AND-no-arbitrage-argument”! In this background, it would be no exaggeration to say 
+that  these  hugely  negative  spreads  of  IRS  to  G-Secs  are  as  counter-intuitive,  quirky, 
+anomalous,  warped  and  preposterous  as  a  father’s  negative  age  spread  to  his  son’s  is! 
+Indeed, in the analytical framework of my Singapore Speech for identifying systemic financial 
+risks, this situation can be reasonably interpreted, in a disturbing and sit-up-and-take-notice 
+manner of speaking, as a veritable IRS “Super-Bubble”, signifying “huge huge” under-pricing 
+of interest rate/credit risks. This I say with analytical conviction because a “bubble”, signifying 
+“huge” under-pricing of risks, is typically diagnosed with spreads of riskier assets to risk-free 
+G-Secs being unusually low, but still positive, whereas, here in the IRS segment, spreads to 
+G-Secs have persistently, and consistently, been negative to the extent of 100 to 150 basis 
+points  for  5  year  maturity!  It  thus  follows  that  the  situation  here  in  IRS  segment  is  almost 
+getting to the point where the IRS market, instead of being a means to an end of sub serving 
+the  real  sector  is,  to  all  intents  and  purposes,  existing,  almost  entirely  for  its  own  sake  to 
+2 
+ BIS central bankers’ speeches 
+almost  complete  exclusion  of  the  needs  of  the  real  sector,  creating  a  massive  “financial 
+sector-real sector imbalance”. On this touch-stone, and hallmark, the IRS market in India is 
+then a non-derivative, nay, a financial innovation that never was. 
+Credit Default Swap (CDS) 
+Like Interest Rate Swap, or for that matter any other derivative, Credit Default Swap is no 
+exception  to  cash  market  replication  principle  of  derivatives  pricing.  Without  going  into 
+mathematical gymnastic proper, price of a CDS, in spread terms, is reasonably approximated 
+by the difference between the spread of a reference bond to corresponding maturity G-Sec 
+yield and the spread of IRS to the same maturity G-Sec yield. Thus, if Sc be corporate bond 
+spread  and  Ss  be  IRS  spread  to  risk-free  G-Sec  yield  of  corresponding  maturity,  then  the 
+fair/theoretical/model  value/price  of  a  CDS  is  approximately  equal  to  Sc  minus  Ss. 
+Tautologically,  since  G-Sec  yield  is  common  to  both  spreads,  another way  to  approximate 
+CDS price is simply to take the difference between the yield of the reference bond and the 
+same  maturity  IRS  yield.  As  this  learned  audience  is  aware,  finally  when  the  product  was 
+launched  on  7th  December,  2011,  it  was  a  stillborn.  In  fact,  its  epitaph  was  written  in  the 
+warped, anomalous, quirky and preposterous feature of hugely negative IRS yield spreads to 
+corresponding maturity G-Sec yields itself! For, as this discerning audience will readily see 
+from the above formula, because of hugely negative IRS spread, fair price of a CDS would 
+be so high as to make it both pointless, and useless, to buy a reference bond and also hedge 
+it with a CDS! In other words, one is much better off straightaway buying a corresponding 
+maturity  risk-free  G-Sec  itself!!  Significantly,  if  actual  CDS  premium/price/spread  is  higher 
+than  the  above  theoretical/model  price,  then  an  arbitrageur  will  sell  a  CDS  (which  is 
+equivalent to going long the reference corporate bond) and receive this actual spread and 
+short the reference bond and invest the proceeds of short sale at the going corporate bond 
+repo rate and receive fixed, and pay overnight, in an IRS, and do the opposite arbitrage if the 
+actual  CDS  spread  is  lower  than  the  theoretical/model  spread/price  until  the  arbitrage 
+opportunity disappears and theoretical/model and actual market prices align again. But sadly, 
+like in a classical catch-22, this arbitrage is just not possible simply because of its complete 
+absence, as I said before, in the IRS market and, therefore, alas, much as we would all wish, 
+a  happening  corporate  bond  market  cannot  happen,  inter  alia,  to  supplement  huge 
+infrastructure funding needs of the Indian economy. 
+Interest Rate Futures (IRFs) 
+If  the  CDS  was  a  stillborn,  IRF  too  suffered  mortality  in  its  infancy  the  second  time  round 
+after  its  2003  version  which  itself  was  almost  a  stillborn.  For,  after  their  second  launch  in 
+August  2009,  Interest  Rate  Futures  on  10-year  notional  government  bond  had  seen  two 
+settlements, viz. the December 2009 contract and  March 2010 contract. Significantly, both 
+traded  volumes  and  Open  Interest  (OI),  witnessed  decline  over  the  two  settlements, 
+eventually  decaying  very  quickly  to  zero  permanently.  In  particular,  the  December  2009 
+contract,  which  had  a  peak  Open  Interest  of  Rs.  980  million  declined  to  a  pre-settlement 
+Open  Interest  of  Rs.  610  million  and  settled  “entirely”  by  physical  delivery,  representing 
+physical settlement of 62% of the peak Open Interest. In contrast, the March 2010 contract, 
+which witnessed a peak Open Interest of Rs. 570 million declined to a pre-settlement Open 
+Interest of Rs. 420 million and also settled entirely by physical delivery, representing physical 
+settlement of 72%! Both these settlements were a far cry from the hall-mark and touch-stone 
+of an efficient, frictionless, seamlessly coupled, and organically connected, physically-settled 
+futures market even where physical delivery typically does not exceed 1% to 3% of the peak 
+Open Interest! This happened because of the inefficient “disconnect” and “friction” in the IRF 
+market  due  to  only  one  way  arbitrage  viz.  buying  the  cheapest-to-deliver  (CTD),  with  the 
+highest  implied  repo  rate  (IRR),  by  financing  the  same  at  the  actual  repo  rate  and 
+simultaneously  selling  futures.  In  fact,  as  ascertained  from  one  market  participant,  who 
+accounted for almost the entire Rs. 600 million worth of physical delivery into the December 
+BIS central bankers’ speeches 
+ 3 
+2009 contract, the implied repo rate of the CTD was 6.75% as against the actual repo rate of 
+3.4%, representing a risk-free arbitrage profit of 3.35%!! Unlike this, on the other side, for the 
+so-called  benchmark,  and  most  expensive-to-deliver,  Government  security,  the  IRR  was 
+almost  zero to  negative,  suggesting  an  arbitrage  opportunity  of  short-selling  this  bond  and 
+investing the proceeds of short sale at much higher actual repo rate and buying the futures 
+contract! But this arbitrage could not be engaged in for want of short selling for a period co-
+terminus  with  that  of  the  futures  contract.  It  is  the  possibility  of  this  two-way  arbitrage, 
+working in the opposite directions, that, like a “good conductor” of “heat” and “electricity” in 
+physics, will seamlessly  conduct/transmit liquidity from the relatively more liquid (the most-
+expensive-to-deliver) benchmark government bonds to the so-called illiquid (the cheapest-to-
+deliver) bonds in the deliverable basket! Here, I hasten to caution that the totally misplaced 
+temptation, and impatience, to introduce/launch “cash-settled” IRF, any how, some how, and 
+at any cost, must be firmly, and decisively, resisted for such medicine will be worse than the 
+disease!  The  reason  is  that  unlike  assets  such  as  equity,  foreign  currencies,  commodities 
+which are “homogeneous”, government bonds, except , of course, for their same credit risk, 
+are,  given  their  differing  coupons  and  maturities,  “heterogeneous”  and,  therefore,  for  the 
+cogent  arguments  adduced  above,  “physically-settled”  contracts  will  make  for  seamless 
+transmission/conduction  of  liquidity  from  the  most  liquid  benchmark  bonds  to  the  relatively 
+less liquid bonds in the deliverable basked and thus impart, and permeate, “much-needed” 
+homogeneity in the entire deliverable basket of government bonds! But I again hasten to add 
+that I am not even remotely suggesting that it is perfectly legitimate to have “cash-settled” 
+derivatives  contracts  in  the  case  of  “homogeneous”  assets  like  equity,  currencies  and 
+commodities!! For any “cash-settled” derivative, where physical settlement is possible, tends 
+to  become  a 
+the  cardinal  principle  of  arbitrage-free 
+pricing/valuation and, therefore, as I said before, comes to exist almost entirely for its own 
+sake and to almost complete exclusion of the larger public policy purpose of sub-serving the 
+hedging needs of the real sector, creating a massive “financial sector-real sector imbalance” 
+and, thus, in turn, become the very antithesis of responsible financial innovation. 
+“non-derivative”,  violating 
+instantaneous  monetary 
+for  effective,  efficient  and 
+Market segmentation 
+Continuing market segmentation in India is the biggest undoing of an efficient, deep, liquid, 
+organically connected, and seamlessly integrated financial market which is also a “sine qua 
+non” 
+transmission.  Market 
+fragmentation/segmentation contributes to price distortion and inefficiency. The most tangible 
+and manifest evidence of market segmentation in India is the “dis-connect” between IRS, IRF 
+and  government  securities  markets  as  reflected  in  the  IRS  (bank  credit  risk)  yields  being 
+100 to 125 basis points below G-Sec yields and IRF yields (when last traded) being about 
+70 basis points higher than their fair value, signifying almost complete absence of arbitrage 
+and thus a pernicious violation of the “no-arbitrage”, or what is the something as, the “law-of-
+one-price, argument” which, as the discerning audience is by now  well  aware, is the most 
+fundamental  basis  of  “fair  value  derivatives  pricing”.  Such  manifest  “dis-connect”  militates 
+against  the  development  of  a  seamlessly  integrated  financial  market  with  coupling  and 
+organic connect between all the three! However, this market segmentation can be credibly, 
+effectively and decisively addressed if the nuts-and-bolts reforms propositioned below, which 
+are,  if  you  will,  equally  also  the  necessary,  and  sufficient,  conditions,  are  synchronously 
+orchestrated in all-at-the-same-time-no-piecemeal- and-no-half-way-house manner: 
+(i) 
+For the cogent reasons elucidated in the paragraph 7 above, the totally misplaced 
+temptation, and impatience, to introduce/launch cash settled IRF must be firmly, and 
+decisively,  resisted.  For  else,  this  will,  to  quote  Jamie  Dimon,  Chairman  of  JP 
+Morgan Chase, tantamount to “doing the “easy’ and not the ‘right’ thing” and, in the 
+process, replicating an IRS genie in the IRF/CDS markets which then grows so fast 
+so much that it becomes difficult to put it back into the regulatory bottle. 
+4 
+ BIS central bankers’ speeches 
+(ii) 
+(iii) 
+(iv) 
+(v) 
+(vi) 
+(vii) 
+(viii) 
+(ix) 
+What  must  certainly  not  be  done  is  even  to  contemplate,  much  less  permit,  the 
+most-liquid-single-bond IRF for the very simple reason that this benchmark security 
+represents less than 10% of the current 10-year IRF deliverable basket and would, 
+therefore,  at  a  time,  when  we  are  talking  about  “inclusion”,  this  will  amount  to 
+veritable “exclusion” of 90% of the 10-year Government securities from the benefit of 
+hedging which arguably runs counter to the public policy purpose of IRF providing 
+hedging to as wide a universe of government securities as possible. 
+What  also  must  certainly  not  be  done  is  even  to  contemplate,  much  less  allow, 
+selling/repoing  of  securities  acquired  under  market  repo,  another  name  for 
+“rehypothecation”, if the IMF finding in the wake of the 2007-Global Financial Crisis 
+is anything to go by! The IMF noted that pre-2007, thanks to re-hypothecation, the 
+shadow-banking system in the USA generated funding/liquidity of US $ 4 trillion with 
+the underlying “original collateral” of just US $ 1 trillion, implying astronomical and 
+whopping margins/haircuts of “minus” US $ 3 trillion! 
+What also must certainly not be done is allocate specific government securities to 
+different Primary Dealers for market making as this will be a “triple whammy” in that 
+this  will  straight  away  fragment/segment  market,  lead  to  concentration  of  risk  and 
+militate against portfolio diversification. 
+Symmetrical  and  uniform  accounting  treatment  of  both  cash  and  derivatives 
+(IRF/IRS/CDS) markets. 
+Removal  of  the  “hedge  effectiveness”  criterion  of  80%  to  125%  which  militates 
+against use of derivatives for hedging purposes for it is better to have “ineffective” 
+hedge than to have no hedge at all! 
+Roll-back  of  the  Held  to  Maturity  (HTM)  protection  i.e.  substituting  the  current 
+“accounting hedge” with “derivative hedge”. This is because with HTM, there is no 
+incentive/compulsion  whatsoever  for  use  of  market-based  solutions  like  IRS/IRF 
+which  also  require  constant  monitoring,  infrastructure,  transaction  costs  like 
+brokerage and margins etc. Indeed, fears that such roll-back may be disruptive, and 
+disorderly, are totally unfounded if one considers the fact that there is “overwhelming 
+net fixed rate receiving” appetite/ interest in the Rs. 50 trillion+ IRS market which will 
+be even more so with the introduction of IRF, what with the total outstanding amount 
+of  dated  Government  securities  at  Rs.  30  trillion  being  much  less  than  the 
+outstanding amount of IRS of Rs. 50 trillion!! 
+Delivery-based short-selling in the cash market for a term co-terminus with that of 
+the futures contract and introduction of term repo, and reverse repo, markets, co-
+terminus again with the tenure of futures contract for borrowing and lending of cash 
+and G-Secs. 
+Both for IRS and IRF, actual notional/nominal amount of IRS/IRF must be allowed 
+on  duration-weighted  basis  unlike  the  current  regulation  which  restricts  the 
+maximum  notional/nominal  amount  of  hedging  instrument  to  no  more  than  the 
+notional/principal amount of the exposure being hedged resulting in under-hedging 
+of risk. 
+While  lavishing  praise  on  a  speech,  of  course,  in  his  characteristically  inimitable  style,  the 
+illustrious and very distinguished Governor of the Reserve Bank of India, Dr. D. Subbarao, 
+famously  remarked  and  I  quote  “The  Speech  is  significant  not  because  of  the  answers  it 
+provides  but  because  of  the  questions  it  raises”! With  the  very  fond  hope  that  my  today’s 
+speech measures upto, and passes muster on, Governor’s touch-stone and hall-mark, I wish 
+all stakeholders God speed so that at the next edition of this event, some Keynote Speaker 
+delivers a speech titled “The Financial Innovations That Are Since There”! 
+Finally, I wish Finnoviti 2012 all the success that it so very much deserves! 
+Thank you all so very much indeed!  
+BIS central bankers’ speeches 
+ 5 

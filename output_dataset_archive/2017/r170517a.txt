@@ -1,0 +1,230 @@
+Benoît  Cœuré:  Dissecting 
+perspective
+Welcome remarks by Mr Benoît Cœuré, Member of the Executive Board of the European Central
+Bank, at the annual meeting of the ECB’s Bond Market Contact Group, Frankfurt am Main, 16
+May 2017.
+the  yield  curve  –  central  bank
+Ladies and gentlemen,
+ Let  me  welcome  you  again  and  thank  you  for  coming  to  Frankfurt  to  share  your  views  and
+1
+insights with us.
+As you might know, just a few weeks ago I gave a speech  in Paris that addressed possible spill-
+overs from the repo market to the government bond market – a topic that you also discussed
+today and where I believe further work is needed to develop our understanding and guide policy
+deliberations.
+2
+In  my  remarks  this  evening  I  would  like  to  address  a  different  topic,  but  one  that  is  no  less
+important:  how  central  banks  interpret  yield  curve  movements,  and  how  this  process  might
+influence our monetary policy considerations.
+Policy actions and the yield curve
+Let me start by clarifying what I mean by “yield curve”.
+This is not a trivial discussion in a currency union with 19 different yield curves. Among these, we
+generally  consider  that  two  curves  in  particular  provide  us  with  insight  and  inform  our  policy
+decisions: the overnight index swaps (OIS) curve and the Bund curve, as these have become
+3
+widely accepted proxies for risk-free yields in the euro area.  As such, they serve as the bedrock
+for pricing virtually all credit products and related derivatives.
+These  curves  are  vital  for  the  transmission  of  monetary  policy,  as  they  have  a  significant
+influence on broad asset valuations and the pricing of bank loans and, ultimately, they affect the
+investment and saving decisions of households and firms.
+This means that we need to understand – as much as you do – what drives changes in these
+curves, so we can draw correct inferences regarding the appropriateness of our monetary policy
+stance.  This  has  become  all  the  more  important  in  an  environment  where  central  banks  no
+longer only control very short-term policy rates but also influence long-term yields through asset
+purchases.
+In other words, we need to make a quantitative distinction as to what part of a given change in the
+yield curve is likely due to policy itself – our actions and often also our words – and what part is
+due to other factors, such as spillovers from abroad or improved growth expectations.
+A natural starting point for such an analysis is the use of dynamic term structure models that
+divide yields into two key components – an expectations component and a term premium.
+The  expectations  component  reflects  the  average  of  current  and  future  expected  short-term
+rates over the maturity of the bond. If the pure expectations hypothesis of the term structure were
+to hold, this would be all that mattered in terms of explaining movements in long-term rates.
+But broad empirical evidence suggests that the pure expectations hypothesis fails to hold true in
+practice, and that there is indeed a time-varying premium that investors require in order to hold a
+ 1 / 6
+4
+BIS central bankers' speeches
+4
+long-term bond instead of simply rolling over a series of short-term bonds.
+Monetary policy – and there we are increasingly certain – cannot only influence the expectations
+component, but also the term premium.
+Three examples demonstrate this more clearly.
+First, by changing our key policy rates, we can directly impact the short end of the curve – the
+footing of the expectations component. In normal times, medium to long-term rates would adjust
+to the extent that market participants would see a change in policy rates as the beginning of an
+incremental series of changes.
+But with short-term policy rates approaching levels closer to zero during the early phases of the
+most recent easing cycle, this channel had become less effective. Markets – in the belief that
+rates could not enter negative territory – stopped short of pricing in the degree of accommodation
+they would normally have expected in the face of downside risks to our price stability mandate.
+Our decision in June 2014 to introduce negative deposit facility rates restored our ability to steer
+market  expectations  and  thereby  also  medium  to  long-term  rates.  Indeed,  by  signalling  to  the
+market that policy rates could go below zero, we ultimately succeeded in shifting downwards the
+entire  distribution  of  future  expected  short-term  rates,  thereby  providing  important  additional
+5
+accommodation.
+Second,  and  related,  by  communicating  about  where  we  see  the  economy  heading,  and  by
+clarifying  our  ‘reaction  function’  –  that  is,  by  providing  forward  guidance  –  we  can  directly
+influence expectations regarding future short-term rates.
+Forward guidance has served us well and has contributed to keeping the short to medium end of
+the yield curve well anchored at times when external shocks were threatening to unduly tighten
+financial conditions.
+I will come back to this in a minute. But to the extent that forward guidance reduced uncertainty
+about the future path of interest rates, it has not only affected the expectations component but
+also the term premium.
+Yet, the main channel through which we – and other major central banks – have recently exerted
+measurable downward pressure on the term premium, and this is my third example, is through
+asset purchases. We now have a growing body of evidence that suggests that central banks can
+lower long-term rates by removing duration risk from the market.
+For example, according to ECB estimates, our monetary policy measures have contributed to
+reducing euro-area long-term risk-free rates by around 80 basis points since June 2014.  Asset
+purchases have contributed significantly to this drop and have therefore been an indispensable
+tool  to  create  the  financial  conditions  necessary  for  inflation  to  move  back  towards  levels
+consistent with price stability.
+An assessment of recent long-term yield dynamics
+6
+So, you can now easily see that the increased use of non-standard measures also meant that
+there  was  a  pressing  need  to  upgrade  our  internal  analytical  toolkit.  Standard  term  structure
+models alone were no longer sufficient.
+We needed to broaden our set of models to also capture the effects that changes in the amount
+of  bonds  available  for  private  investors  would  have  on  the  term  premium. And  we  needed  to
+refine our event study methodologies and make use of other models and tools, with a view to
+developing  our  understanding  of  the  extent  to  which  our  actions  are  reflected  in  yield
+7
+ 2 / 6
+BIS central bankers' speeches
+7
+movements.
+Put differently, these efforts were necessary in order to map (expected) purchases in billions of
+euro  into  long-term  yields  in  basis  points  that  would  help  the  Governing  Council  calibrate  the
+pace and size of our purchases.
+The residual movement in rates – subject of course to the general large uncertainty one faces
+when relying on model-based analysis – would then be due to other forces largely outside our
+direct control. These include, for instance, spillovers from other major economies, flight-to-quality
+related movements into safe assets, or changes in investors’ outlook for growth and inflation.
+And as central bankers we also need to carefully disentangle those residual driving forces to help
+us understand the possible implications for our policy stance.
+Let me give you a simple example: an unexpected increase in long-term rates. This is neither
+good nor bad, per se, from a monetary policy perspective. The implications for monetary policy
+depend, crucially, on the sources of this movement.
+For  example,  if  the  increase  reflects  a  re-pricing  based  on  better  current  or  prospective
+economic  conditions,  this  would  not  be  a  source  of  concern  for  policy  makers.  However,  if  it
+were induced by markets overreacting to news or misunderstanding our policy intentions, this
+increase would be undesirable from a policy perspective.
+It also matters for policymakers whether movements in nominal yields are driven by their real or
+inflation components, in particular at longer maturities. And changes in the inflation component, in
+turn, do not necessarily signal changes in expected inflation – they may also reflect changes to
+the inflation risk premium as I will explain in a minute.
+The  academic  literature  has  come  up  with  a  range  of  techniques  that  we  can  draw  from  to
+8
+separate these unobservable underlying driving factors from observable yield movements.
+However, unlike academic studies that have the luxury of looking at past events over extended
+periods  to  distinguish  certain  patterns  and  develop  convincing  economic  stories,  we  have  to
+make such judgements in real time.
+Let me illustrate this by focusing on the repricing in bond markets that started around the end of
+September last year.
+By that time, the ten-year OIS rate had reached a low point of slightly below zero. Since then –
+and looking through the occasional ups and downs – it has risen by about 65 basis points.
+At face value, such tightening of financial conditions looks inconsistent with the stance required
+to bring inflation back to levels closer to 2%.
+But the set of models currently in use by ECB staff generally tell one consistent story: for the
+most part, the steepening of yield curves over the past few months reflects an overall benign
+increase in the term premium – only around a quarter of the change in yields reflect changes in
+the  expected  future  policy  path.  By  and  large  this  is  also  what  we  have  seen  in  other  major
+economies, in particular in the US.
+We think two factors can mainly account for this. First, a decomposition of euro-based inflation-
+linked swap rates points to a measurable increase in the compensation for inflation risk from
+historically  low  and  probably  negative  levels.  So,  from  this  angle,  the  increase  in  the  term
+premium is likely to reflect a pricing out of deflationary tail risks. This in itself is certainly good
+news.
+The second factor that is likely to have added to the increase in the term premium is uncertainty,
+ 3 / 6
+BIS central bankers' speeches
+mainly  coming  from  outside  the  euro  area.  One  reason  might  be  that  although  markets  have
+generally become more optimistic about global growth prospects – buttressed by the undeniable
+upswing in the global business cycle – they may have also become less certain about the future
+course of fiscal policy in some jurisdictions as well as about other policies, including trade and
+regulation.  This,  in  turn,  may  increase  uncertainty  about  future  duration  supply,  impacting  the
+term premium.
+Uncertainty,  by  and  of  itself,  is  undesirable.  But  to  the  extent  that  the  increase  in  the  term
+premium  likely  reflected  a  reassessment  of  global  economic  conditions  after  a  long  period  of
+subdued  macroeconomic  expectations  –  as  also  reflected  in  the  adjustment  of  inflation  risk
+premia – it may not constitute an unwarranted tightening.
+The  role  of  foreign  factors  in  driving  euro  area  yields  becomes  clearer  when  considering  the
+indications from another class of models: researchers at the IMF have developed a simple yet
+powerful  methodology  to  identify  yield  curve  drivers  using  cross-asset  correlations  involving
+9
+stock, bond and exchange markets.
+And these models confirm – as you can see from the chart in front of you – that the bulk of the
+increase  in  euro  area  long-term  yields  initially  came  from  shocks  originating  from  outside  the
+euro area – the green part.
+You can also see, however, that after the first initial sharp upward movement in yields following
+the US presidential elections, it was increasingly an improvement in euro area domestic growth
+prospects  that  contributed  to  upward  pressure  on  yields.  You  can  see  this  reflected  in  the
+increasing contribution of the yellow component in the chart.
+But  what  is  even  more  important  is  that  during  this  period,  and  despite  stronger  global  and
+domestic growth prospects, expectations regarding our monetary policy have, on balance, had a
+ 4 / 6
+BIS central bankers' speeches
+stabilising effect on yields, according to our analysis. This is the blue part in the chart, which you
+can see shifted into negative territory after our decision in early December to extend the intended
+horizon of the APP by another nine months.
+In  other  words,  market  participants  understood  our  reaction  function  and  agreed  with  our
+assessment in December last year that the absence of a sustained adjustment in the path of
+inflation warranted continued monetary accommodation.
+Conclusion
+This implies, and with this I would like to conclude, that the recent measurable increase in long-
+term  yields  has  not  affected  our  monetary  policy  stance:  current  financial  conditions  remain
+highly supportive of the ongoing recovery.
+However, and this is what I wanted to convey in my short remarks this evening, identifying the
+drivers of yield curve movements in real time is a challenging task. For this reason, we look at a
+wide range of information and models to obtain a robust assessment. This also means that we
+don’t want to over-interpret any uptick or downtick that we observe, but rather accept as a fact
+that some volatility is natural and healthy for the market to function.
+At the same time, we don’t want to contribute to that volatility ourselves. This is why we try to
+carefully explain the strategy underlying our actions and the resulting contingent plans. This is
+especially important when we are in uncharted territory with negative interest rates and asset
+purchase programmes.
+I am convinced that clear and time-consistent communication on our part will avoid unwarranted
+volatility in financial markets and help preserve the financial conditions necessary for inflation to
+reach levels closer to 2% in the medium term.
+Thank you for your attention and “guten Appetit”.
+1
+2
+3
+4
+5
+6
+7
+8
+I would like to thank W. Lemke and A. Saint-Guilhem for their contributions to this speech. I remain solely
+responsible for the opinions contained herein.
+ Cœuré, B. (2017), “Bond scarcity and the ECB’s asset purchase programme”, Speech at the Club de Gestion
+Financière d’Associés en Finance, Paris, 3 April 2017.
+ See also ECB (2014), “Euro area risk-free interest rates: measurement issues, recent developments and
+relevance to monetary policy”, Monthly Bulletin, July 2014.
+ In principle the term premium can be positive or negative. Empirical studies find that recently the term premium
+has turned negative in certain regions.
+ For the effect of decreasing the lower bound on the yield curve see, e.g., Rostagno, M. et al. (2016), “Breaking
+through the zero line: The ECB’s Negative Interest Rate Policy”, Brookings Institution, Washington DC, 6 June
+2016 (presentation available on the Brookings website) and Lemke, W. and A. Vladu (2017), “Below the zero
+lower bound: a shadow-rate term structure model for the euro area”, ECB Working Paper No 1991.
+ See also ECB (2017), “Impact of the ECB’s non-standard measures on financing conditions: taking stock of
+recent evidence”, Economic Bulletin, Issue 2/2017; and Praet, P. (2017), “Calibrating unconventional monetary
+policy”, Speech at the ECB and Its Watchers Conference, Frankfurt am Main, 6 April 2017.
+ See, e.g., Altavilla, C., G. Carboni and R. Motto (2015) “Asset purchase programmes and financial markets:
+lessons from the euro area”, ECB Working Paper No 1864; Andrade, P., J. Breckenfelder, F. De Fiore, P. Karadi
+and O. Tristani (2016), “The ECB’s asset purchase programme: an early assessment”, ECB Working Paper No
+1956; and Blattner, T. and M. Joyce (2016), “Net debt supply shocks in the euro area and the implications for
+QE”, ECB Working Paper No 1957.
+ See, e.g. Joslin, S., K. J. Singleton and H. Zhu (2011), “A new perspective on Gaussian dynamic term structure
+ 5 / 6
+BIS central bankers' speeches
+models”, Review of Financial Studies, vol. 24; and Abrahams, M., T. Adrian, R. K., Crump, E. Moench and R. Yu
+(2016), “Decomposing real and nominal yield curves”, Journal of Monetary Economics, vol. 84.
+9
+ See Matheson, T. and E. Stavrev (2014), “News and Monetary Shocks at a High Frequency: A Simple Approach”,
+IMF Working Paper 167.
+ 6 / 6
+BIS central bankers' speeches

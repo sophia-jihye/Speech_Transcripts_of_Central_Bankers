@@ -1,0 +1,280 @@
+  Benoît Cœuré: Life below zero – learning about negative interest rates 
+Speech by Mr Benoît Cœuré, Member of the Executive Board of the European Central Bank, 
+at  the  annual  dinner  of  the  ECB’s  Money  Market  Contact  Group,  Frankfurt  am  Main, 
+9 September 2014. 
+ Accompanying slides can be found here: http://www.ecb.europa.eu/press/key/date/2014/html/sp140909.en.pdf 
+I would like to thank Florian Heider for his contribution to this presentation. All opinions expressed remain mine. 
+Ladies and Gentlemen (Slide 1), 
+It is a pleasure to be here with you tonight. The Money Market Contact Group plays a key 
+role in informing the ECB’s decision making process. As a tribute to your collective foresight, 
+I  would  like  to  recall  that  in  your  meeting  on  25  June  2012,  you  were  among  the  first  to 
+discuss the operational consequences of lowering the ECB’s Deposit Facility Rate (DFR) to 
+zero or below zero. This will be the topic of my remarks tonight.1  
+A  few  months  ago,  on  5  June,  the  ECB  lowered  the  main  refinancing  rate  to  0.15%,  the 
+marginal lending rate to 0.40%, and – maybe most noteworthy – the Deposit Facility Rate to 
+minus  0.10%.  Last  week,  on  4  September,  these  rates  were  cut  to  0.05%,  0.30%  and  –
+0.20% respectively, and it was stated that the lower bound had now been reached. The ECB 
+also  decided  in  June  to  remunerate  current  account  balances  in  excess  of  the  minimum 
+reserve  requirements  at  the  deposit  facility  rate  as  opposed  to  zero  as  was  the  case 
+previously. With these measures, we entered practically uncharted territory. 
+When Gregory Mankiw in 2009 stated in the New York Times that “it may be time […] to go 
+negative”, he revived an idea that may seem odd at first. If lowering interest rates stimulates 
+the economy and policy rates are already very low or even zero, then why not keep cutting 
+rates and have negative interest rates? The idea of negative rates, that is, lending 100 and 
+getting back say 95, may seem absurd “but remember this: Early mathematicians thought the 
+idea of a negative number was absurd [too]”.2  
+In fact, the idea of negative interest rates, or “taxing money”, goes back to the late nineteenth 
+century,  to  Silvio  Gesell,  the  German  founder  of  “Freiwirtschaft”.  The  historic  academic 
+opinion on Gesell is divided. Irving Fisher supported him and John Maynard Keynes called 
+him “a strange, unduly neglected prophet”, others a “typical monetary crank”.3  
+So  where  do  we  stand  in  the  euro  area?  I  would  like  to  answer  this  question  today  by 
+addressing the following points: 
+• 
+What does it mean to have one of our policy rates, the deposit facility rate, below 
+zero? 
+Why did we go negative? 
+                                                 
+1  ECB DG Market Operations, 2012, Summary of the discussion of the Money Market Contact Group, 25 June 
+2012, available on the ECB website. For an early discussion, see also Cœuré, B., 2012. “Central banks and 
+the challenges of the lower bound”. Intervention at the Meeting on the Financial Crisis hosted by the Initiative 
+on Global Markets, at the University of Chicago Booth School of Business, Miami, 19 February.  
+2  Mankiw, G., 2009, “It may be time for the Fed to go negative”, New York Time (April 19). See also W. Buiter, 
+2009. “Negative interest rates: when are they coming to a central bank near you?”, May 2009. 
+3  See Ilgmann, C. and M. Menner, 2011, “Negative nominal rates: history and current proposals”, International 
+Economics  and  Economic  Policy,  8,  383–405.  See  also  Gesell,  S.,  1958.  The  Natural  Economic  Order. 
+London: Peter Owen Ltd., and Fisher, I., 1933. Stamp Script. New York: Adelphi.  
+BIS central bankers’ speeches 
+ 1 
+  What are in principle the benefits and costs of such a move? 
+And, with the benefit of some hindsight since June, what is the initial assessment? 
+• 
+• 
+To begin with, it is important to point out that the deposit facility rate has a specific, narrow 
+meaning: under a negative DFR, banks that have more funds in their account with the ECB 
+than  what  they  need  to  fulfil  their  reserve  requirement  lose  some  money.  Suppose,  for 
+instance, that a bank has €100 million of excess reserves continuously for one year, then at 
+an interest rate of –0.20% it receives back € 99.8 million, so the cost of depositing funds with 
+the ECB for a full year is € 200,000. 
+Why do banks accept such a cost of depositing excess reserves with the central bank? The 
+answer is that the alternatives to depositing excess reserves are also costly. In fact, the cost 
+of using alternatives to central bank deposits determines to what extent the rate on excess 
+reserves can go negative in practice. 
+Banks  can  always  choose  to  hold  physical  currency  instead  of  electronic  money  in  their 
+accounts with the ECB. Since physical currency has a zero nominal rate of return, there is 
+what I would call an “economic lower bound” for the rate on excess reserves. It is difficult to 
+identify but it is not zero because the effective rate of return on currency is negative. One 
+does not even need to impose a demurrage rate or regular stamping on banknotes, as Irving 
+Fischer has proposed based on Gesell’s ideas.4 There is a cost of storing, holding, and more 
+importantly,  using  physical  currency.5  This  involves  the  cost  of  renting,  maintaining  and 
+securing storage facilities such as vaults as well as the cost of shipping currency around in a 
+safe and timely manner. A recent ECB study estimated the private cost of cash payments to 
+be  1.1%  of  GDP  on  average  in  the  participating  countries.6  The  unit  social  cost  was 
+estimated at 2.3 cents per euro of transaction. This is substantially higher than the unit social 
+cost  of  a  credit  transfer  or  other  non-cash  means  of  payments  per  euro  of  transaction. 
+Because the overnight unsecured money market alone currently involves hundreds of banks 
+with  an  aggregate transaction  volume  of  around  €  40–50  billion  every  day,  replicating  this 
+scale  of  transacting  with  physical  money  would  be  a  formidable  and  costly  task,  both 
+privately and socially. 
+I would not go as far as Kenneth Rogoff and conclude that having only electronic money, by 
+pushing  down  the  economic  lower  bound,  would  recreate  room  for  manoeuvre  for  central 
+banks  in  a  protractedly  low  inflation  environment.7  The  ECB  is  committed  to  bringing  euro 
+area inflation back at a level below but close to 2%, in line with its mandate.  
+But what is then the rationale for a negative rate on the deposit facility? Why impose a cost 
+on banks’ excess reserves?  
+One  should  view  the  negative  rate  in  the  context  of  the  ECB’s  aim  to  provide  further 
+monetary policy accommodation inter alia by lowering policy rates without impairing market 
+intermediation.8 There are a number of reasons why it is desirable to keep a certain distance 
+                                                
+4  Stamping of banknotes was famously tried in the city of Wörgl, Austria, in 1932. Bills were introduced with a 
+devaluation  rate  of  1%  per  month  unless  holders  would  buy  stamps  to  extend  their  nominal  value.  See 
+Champ, B., 2008. Stamp script: Money people paid to use. Economic Commentary, Federal Reserve Bank of 
+Cleveland, April.  
+5  Beyond the direct opportunity cost, moving the deposit rate into deeply negative territory may involve indirect 
+costs, depending on the ability of banks to pass it to their customers, in particular retail ones.  
+6  Schmiedel,  H.,  Kostova,  G.,  and  W.  Ruttenberg,  2012.  “The  social  and  private  costs  of  retail  payment 
+instruments. A European perspective”, ECB Occasional Papers Series , No. 137.  
+7  Rogoff, K., 2014, “Costs and benefits to phasing out paper currency”, NBER Working Paper 20126 
+8  For an early explicit analysis of this rationale in a New-Keynesian model, see Buiter, W. and N. Panigirtzoglou, 
+2003,  “Overcoming  the  zero  bound  on  nominal  interest  rates  with  negative  interest  on  currency:  Gesell’s 
+solution”, The Economic Journal, 113, 723–746.  
+2 
+ BIS central bankers’ speeches 
+  between the main refinancing and the deposit rates. The relative difference between the cost 
+of  borrowing  from  the  ECB  and  the  benefit  of  depositing  with  the  ECB  determines  the 
+incentive to lend in the interbank market. Having an active interbank market is important to 
+obtain  price  signals  about  the  transmission  of  policy  rates  into  the  economy.  It  is  also 
+important to reduce bank excessive reliance on central bank money, which has been a key 
+factor of resilience in the post-crisis environment. 
+In  the  words  of  Michael  Woodford,  “the  demand  for  [overnight  funds]  is  a  function  of  the 
+location  of  the  overnight  rate  relative  to  the  lending  rate  and  the  deposit  rate,  but 
+independent of the absolute level of any of these interest rates.”9  
+To see the role of the relative difference, consider the following thought experiment. For the 
+sake of the argument, let me abstract from credit risk in the overnight market and assume 
+that there  is  enough  eligible  collateral  to  borrow  from the  ECB.  Hence,  there  would  be  no 
+material difference between very short-term secured and unsecured borrowing and lending. 
+Banks with excess reserves would only lend in the interbank market at a rate that is above 
+the  deposit  rate.  Banks  with  a  shortage  of  reserves  would  only  borrow  in  the  interbank 
+market at a rate that is below the main refinancing rate. Suppose now the main refinancing 
+rate is equal to the deposit rate. Then there is no rate at which trade is possible. Hence, it is 
+important  to keep  a  spread  between  the  main  refinancing  and  the  deposit  rate  in  order  to 
+support market activity. 
+Another benefit of lowering the deposit rate together with the main refinancing rate is that in 
+the current situation with excess liquidity, short-term interest rates such as EONIA track the 
+deposit rate more closely than the main refinancing rate.10 The banking system as a whole 
+has excess liquidity, which currently stands at around € 130 billion. When the excess liquidity 
+increases, rates fall since less must be borrowed in the interbank market (the demand curve 
+shifts down). In order to make sure that the monetary policy accommodation is passed on to 
+the  interbank  market  under  fixed-rate  full  allotment  and  excess  liquidity,  it  is  therefore  not 
+enough  to  lower  just  the  main  refinancing  rate.  In  fact,  the  deposit  rate  may  be  the  most 
+important policy rate of a central bank in an environment of excess liquidity. 
+The  decision  to  lower  rates,  which  was  accompanied  by  a  number  of  other  measures  to 
+stimulate credit to the economy such as “targeted” long-term operations (to induce banks to 
+lend more to the real sector) and an announcement of purchases of asset-backed securities 
+and covered bonds based on claims on the euro area real economy, is also fully in line with 
+the ECB’s forward guidance. Forward guidance implies that interest rates remain at present 
+or lower levels for an extended period of time conditional on an assessment of the economic 
+outlook. 
+Following  the  June  decision,  the  lower  policy  rates  were  transmitted  well  to  the  money 
+market  and,  in  line  with  forward  guidance,  market  uncertainty  about  the  expected  path  of 
+policy rates fell. EONIA forwards curves flattened and shifted down (Slide 2). In addition, the 
+volatility  of  EONIA  rates  as  well  as  the  option-implied  volatility  of  short-term  interest  rates 
+dropped.  The  lower  policy  rates  were  also  transmitted  to  longer  maturities  and  to  market 
+segments  other  than  the  unsecured  money  market.  EURIBOR  rates  and  rates  implied  by 
+EURIBOR futures fell after the June decision and again after the September decision (Slide 3 
+and  4).  Unsecured  money  market  interest rates  are  now  negative for  a  maturity  of  up  two 
+weeks.  Besides, the General  Collateral  (GC)  pooling  repo  curve  as  well  as  yields  on  euro 
+area Treasury bills and notes have further adjusted. 
+                                                
+9  Woodford, M., 2001, “Monetary policy in the information economy”, Paper presented at the Federal Reserve 
+Bank of Kansas City Economic Symposium at Jackson Hole (30 August–1 September). 
+10  For a review of the impact of non-standard monetary policy on money market functioning, see Monnet, C. and 
+M. Bech, 2013, “The impact of unconventional monetary policy on the overnight interbank market”, Reserve 
+Bank of Australia 2013 Annual Conference Volume on “Liquidity and Funding Markets”.  
+BIS central bankers’ speeches 
+ 3 
+  The EONIA has regularly been set in negative territory since 28 August together with stable 
+trading  volumes  (the  average  daily  EONIA  volume  from  January  to  June  2014  was 
+€ 26.1 billion and was € 28.9 billion since June) (Slide 5) and homogenous transmission to 
+closely substitutable market segments, such as GC pooling repo, are evidence that a large 
+fraction  of  unsecured  money  market  transactions  can  take  place  at  negative  rates  without 
+hampering market functioning. This reflects an effective and well-coordinated preparation of 
+market participants since the ECB first mentioned the possibility of bringing the DFR below 
+zero. 
+The fact  that money  market trading  volumes  did  not fall  (they  actually  rose)  is  remarkable 
+given the fears some observers had expressed, informed by the Japanese experience of the 
+1990s,  on  the  potential  impact  on  market  functioning  of  a  negative  DFR  and  of  very  low 
+policy rates more generally. 
+Will the transmission of lower short-term rates to a lower cost of credit for the real economy 
+be as smooth? While bank lending rates have come down in the past in line with lower policy 
+rates, there is a limit to how cheap bank lending can be. The mark-up that banks add to the 
+cost of obtaining funding from the central bank compensates for credit risk, term premia and 
+the  cost  of  originating,  screening  and  monitoring  loans.  The  need  for  such  compensation 
+does  not  necessarily  fall  when  policy  rates  are  lowered.  If  anything,  a  central  bank  lowers 
+rates when the economy needs stimulus, which is precisely when it is difficult for banks to 
+find good loan making opportunities. It remains to be seen whether and to what extent the 
+recent monetary policy accommodation translates into cheaper bank lending.11  
+Another concern with lowering rates is that it may contribute to the instability of the financial 
+sector. While this can be a valid concern, in practice, a causal chain is difficult to establish. 
+Do low rates really lead to instability (e.g., though an excess search for yield) or are rates low 
+because  there  has  been  instability  in  the  financial  system  and  the  economy  is  in  need  of 
+stimulus?12  That  said,  reducing  excessive  risk  aversion  in  financial  markets  has  been  a 
+welcome  (side)  effect  of  central  bank  policies  during  the  crisis.  The  question  is  whether 
+risk-taking  in  the  financial  sector  has  now  already  gone  too  far,  contributing  to  growing 
+financial  imbalances,  frothy  asset  price  valuations  and  too  loose  credit  standards. 
+Irrespective of the answer to this question, given the low inflation environment, it is clear that 
+monetary policy cannot currently assume the role of addressing such concerns for the euro 
+area.  It  is  therefore  the  task  of  macro-prudential  policies  to  deal  with  potential  financial 
+imbalances. The supervisory set-up in Europe has undergone significant improvements that 
+will help to ensure the soundness of the financial system. As we enter an extended period of 
+low interest rates, we must stand ready to use to their full extent the new macro-prudential 
+instruments that the national competent authorities and the ECB are now entrusted with.  
+An important aspect of lowering policy rates was that it also reaffirmed our forward guidance 
+and  helped  to  clarify  the  ECB’s  commitment  to  ensure  that  the  monetary  policy  stance 
+remains appropriate to the needs of the euro area economy. This is reflected in the EONIA-
+OIS  curve  being  now  flat  and  in  negative  territory  for  a  maturity  of  up  to  three  years, 
+reflecting market expectations of negative EONIA fixings well into 2017  (Slide 6), and in a 
+widening gap between the expected path of US and euro area interest rates. (Slide 7). 
+A  negative  deposit  rate  can,  however,  also  have  adverse  consequences.  For  a  start,  it 
+imposes a cost on banks with excess reserves and could therefore reduce their profitability. 
+                                                
+11  For a recent review of the bank lending channel of monetary policy transmission with a special focus on the 
+crisis  experience,  see  Gambacorta,  L.  and  D.  Marques-Ibanez,  2011,  “The  bank  lending  channel:  Lessons 
+from the crisis”, BIS Working Paper No. 345. 
+12  For causal evidence that lower interest rates lead to more risk-taking by banks, see Jimenez, G., Peydro, J., 
+Ongena, S. and J. Saurina, 2012, “Hazardous time for monetary policy: What do 23 million loans say about 
+the impact of monetary policy on credit risk-taking?”, Econometrica, forthcoming.  
+4 
+ BIS central bankers’ speeches 
+  Note, however, that this applies to any reduction of the deposit rate and not just to those that 
+make the rate negative. For sure, lower bank profitability could hamper economic recovery, 
+especially  in  times  when  banks  have  to  deleverage  owning  to  stricter  regulation  and 
+enhanced  market  scrutiny.  But  whether  bank  profitability  really  falls  when  policy  rates  are 
+lowered  depends  more  generally  on  the  slope  of  the  yield  curve  (as  banks’  funding  costs 
+may  also  fall),  on  banks’  investment  policies  (as  there  is  scope  for  them  to  diversify  their 
+cash investment both along the curve and across the credit universe) and on factors driving 
+non-interest income.13 More fundamentally, banks are profitable in a healthy economy where 
+households and companies strive to finance their projects, which is what our accommodative 
+monetary policy aims to achieve in the first place. 
+In fact, both ensuring a smooth transmission of our low policy rates to the cost of credit to the 
+economy  and  supporting  the  profitability  of  banks  will  ultimately  depend  on  whether 
+economic  policies  at  the  euro  area  and  at  the  country  level  are  successful  in  putting  euro 
+area economies back on a path of strong and stable growth, by mobilising both supply-side 
+and, where available, demand-side instruments. A prudent, well-capitalised banking system 
+is needed in any case, and the ECB’s Comprehensive Assessment together with the start of 
+the Single Supervisory Mechanism are key in this respect. 
+In order to avoid the cost of excess reserves, banks may also, decide to borrow less from the 
+ECB. This would reduce excess liquidity in the banking system and put upward pressure on 
+interest  rates  in  the  interbank  and  bond  market,  which  could  counteract  the  reduction  of 
+policy rates. But this is not what we have seen so far. 
+Despite the discussion on the adverse consequences of a negative deposit rate, there was 
+no significant impact on the functioning of money markets. I already mentioned the smooth 
+transmission of rates and the stable trading volume in EONIA. Similarly, the level of excess 
+liquidity or the amount of deposits with the ECB (Slide 8) has been largely unaffected. 
+However, one possible reason for the stable level of the money market function could be the 
+declining,  but  still  existing  fragmentation  of  the  money  markets.  While  a  lot  has  been 
+achieved, for example TARGET2 imbalances have fallen by nearly half since their peak in 
+mid-2012 (at € 572bn on 3 September, € 541bn below their peak level reached in July 2012), 
+market fragmentation in the euro area is still present.14  
+If  banks  with  excess  reserves  are  predominately  highly  profitable  banks  located  in 
+non-stressed countries, then a potential adverse effect on bank profitability may be less of a 
+concern  from  the  financial  stability  perspective.  Similarly,  if  banks  have  good  reason  to 
+borrow from the ECB, for instance when other sources of funding are not available, and if 
+those banks that borrow are not necessarily the same as those that deposit with the ECB, 
+then excess liquidity in the banking system may not fall. 
+What about the impact of negative rates on market fragmentation in the euro area? Evidence 
+from actual money market transactions shows that fragmentation still significantly hampers 
+the smooth transmission of lower rates across the euro area. Banks located in non-stressed 
+countries  can  now  borrow  in  the  overnight  unsecured  market  at  negative  rates.  Rates  for 
+borrowers  located  in  stressed  countries  are  mostly  positive  and  the  distribution  of  rates  is 
+wide, ranging from slightly negative to slightly above the main refinancing rate. 
+That said, there is some evidence that lower rates have reduced fragmentation in secured 
+markets.  The  search  for  yield  in  the  low  rate  environment  has  increased  the  demand  for 
+                                                
+13  There  is  evidence  that  the  lower  interest  rate  environment  in  the  United  States  adversely  affects  money 
+market funds, see Kacperczyk, M. and M Di Maggio, 2014, “The unintended consequences of the zero lower 
+bound  policy”,  Working  Paper,  Columbia  Business  School.  This  is,  however,  less  of  a  concern  in  Europe 
+where money market funds are not central to the financial system.  
+14  For more information, see the ECB Report “Financial Integration in Europe” (April 2014). 
+BIS central bankers’ speeches 
+ 5 
+  higher yielding, but still safe products such as repo or sovereign bonds, including those of 
+non-core  countries.15  The  higher  demand  has  pushed  down  and  thus  compressed  interest 
+rates in secured markets. 
+Let me conclude. Given the theoretical arguments for and against lowering some policy rates 
+into  negative  territory,  and  given  the  practical  experience  so  far,  what  is  the  verdict?  Or, 
+coming  back  to  the  opinions  on  Gesell:  should  he  be  considered  a  prophet  or  monetary 
+crank? 
+While the final verdict is certainly still out, based on the presented evidence so far, it seems 
+fair  to  say  that  the  lowering  of  policy  rates,  with  the  deposit  rate  moving  into  negative 
+territory,  has  provided  an  appropriate monetary  policy  stimulus  to  the  euro  area  economy, 
+comforted  the  forward  guidance  of  the  ECB,  and  contributed  to  some  reduction  in  market 
+fragmentation, without having an adverse impact on the functioning of money markets. 
+As  the  money  market  settles  in  negative  territory,  and  other  market  segments  start 
+experiencing negative yields, we now have to make sure that the broader market community 
+is prepared to cope with this new environment. 
+Thank you for your attention.  
+                                                
+15  According to the latest ICMA survey of 4 September, the repo market size increased by 3.3% during the last 
+6 months from EUR 5,499 billion to EUR 5,782 billion.  
+6 
+ BIS central bankers’ speeches 

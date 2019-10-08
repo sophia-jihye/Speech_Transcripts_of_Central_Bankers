@@ -1,0 +1,125 @@
+Yves Mersch: Reaping the benefits of payment services in a new
+regulatory environment
+Speech by Mr Yves Mersch, Member of the Executive Board of the European Central Bank, at
+the European Banking Federation's Executive Committee, Frankfurt am Main, 22 February 2018.
+ The  revised  Payment  Services  Directive  (PSD2)  has  featured  high  on  the  agenda  of  the
+payments industry for some time and it will continue to do so. The regulatory technical standards
+(RTS)  on  strong  customer  authentication  and  common  and  secure  open  standards  of
+communication, which have been submitted by the European Commission to the co-legislators
+for scrutiny, strike a fair balance between the previously diverging views of the different players.
+They should soon be finalised and then published in the Official Journal.
+The new legislative framework will support innovation and competition in retail payments; it will
+enhance  the  security  of  payment  transactions  and  the  protection  of  consumer  data.  It  will
+introduce major changes to which all payment service providers (PSPs) will have to adapt, and I
+encourage all PSPs to ensure the highest level of security in their payment services and adopt
+the requirements of the RTS ahead of time. Banks should also grasp the opportunity to work
+towards a single and standardised interface to communicate with third-party providers (TPPs)
+across Europe in a safe and efficient manner. Cooperation with TPPs and users is crucial in this
+context in order to deliver innovative, efficient and competitive services to the people of Europe.
+Let me explain this in more detail.
+Security requirements during the transition period
+As co-chair of the European Forum on the Security of Retail Payments (SecuRe Pay), the ECB
+has  contributed  in  particular  to  the  RTS  in  respect  of  strong  customer  authentication  and
+common and secure open standards of communication, the Guidelines on security measures for
+operational  and  security  risks  of  payment  services  and  the  Guidelines  on  major  incident
+reporting.  It  is  still  involved  in  the  finalisation  of  the  Guidelines  on  fraud  data  reporting
+requirements.
+Now that Member States have transposed or are about to transpose the PSD2 and almost all
+pieces of secondary legislation have been finalised, I think we can say that the European market
+has taken a major step towards:
+increasing  the  protection  of  payment  service  users  against  fraud  and  possible  abuses  of
+their financial information,
+fostering the resilience of PSPs through harmonised minimum security requirements, and
+towards
+enabling  competition  in  the  field  of  payment  services  by  introducing  innovative  payment
+services such as payment initiation services, account information services and issuing card-
+based payment instruments where a confirmation on the availability of funds is requested,
+as well as clarifying the applicable liability regime for such services.
+I am aware that the market still has some concerns and that clarifications with respect to the
+PSD2, and the RTS in particular, have been requested. The ECB will continue to provide support
+and expertise in this field as an active observer in the API Evaluation Group, which was recently
+established by the European Commission.
+Beyond this, I am convinced that it is in your particular interest as payment service providers –
+and in the interest of the security of the retail payments market more generally – to implement the
+ 1 / 3
+BIS central bankers' speeches
+RTS and other related PSD2 requirements as soon as possible. Please do not wait 18 months
+until you are obliged to comply with the security requirements enshrined in the RTS. Take action
+soon,  as  these  measures  are  necessary  to  mitigate  threat  scenarios  of  which  you  are  well
+aware.
+For example, strong customer authentication solutions with dynamic linking of the authorisation
+to the specific amount and payee will help to prevent man-in-the-middle attacks. Transaction and
+device monitoring is essential to identify unusual payment patterns and potential fraud cases. It is
+also  essential  to  start  offering  well-functioning  and  reliable  access  interfaces  to  the  payment
+service  user  accounts  in  order  to  protect  the  confidentiality  and  integrity  of  your  customer
+information.
+It is also paramount that TPPs be authorised or registered as soon as possible, and comply with
+all legal requirements at an early stage. TPPs need to bear their share of the responsibility by
+testing and using the access interfaces in a prompt and cooperative fashion, and by contributing
+constructively to the ongoing efforts aimed at the standardisation of these interfaces.
+Standardisation
+Standardisation is a basis for the efficient and pan-European provision of payment services in an
+integrated  market.  Already  shortly  after  the  adoption  of  PSD2,  members  of  the  Euro  Retail
+Payments  Board  (ERPB)  voiced  concern  that  the  legal  requirements  alone  would  not  be
+sufficient for the provisioning of efficient and integrated pan-European payment initiation services
+(PIS)  and  that  the  industry  should  agree  on  common  technical,  operational  and  business
+requirements to complement the legal requirements.
+“Business” in this sense means, for instance, the processes for incident handling between PSPs
+but excludes commercial aspects. “Operational” refers to matters such as a directory service
+that banks could address 24/7 to check whether a TPP contacting them is indeed still a licensed
+PSP. “Technical” relates mainly to the interfaces that banks are obliged to offer according to the
+PSD2 and the RTS.
+The  PSD2  and  the  RTS  do  not  provide  technical  specifications;  they  only  set  high-level
+requirements.  In  order  to  remain  technologically  neutral,  and  to  cater  for  potentially  different
+approaches  by  PSPs,  the  RTS  give  the  account-servicing  PSP  the  choice  of  establishing  an
+interface dedicated to payment initiation services or allowing TPPs the use of the online banking
+interface used by their normal customers.
+As a consequence, the approximately 4,000 banks offering SEPA credit transfer could in theory
+finally  try  to  meet  the  legal  requirements  of  PSD2  and  its  RTS  by  developing  and  offering  a
+proprietary interface. Thus, in a worst-case scenario, any TPP would need to manage 4,000
+bespoke IT-projects to connect to each of those banks, thereby clearly going against the spirit of
+the new directive.
+Back in February 2014 in the ECB’s legal opinion on the proposed PSD2, we pointed out the
+importance  of  working  towards  a standardised  European  interface  to  facilitate  pan-European
+PIS.  The  European  Commission  has  also  clearly  articulated  recently  that  a  standardised
+interface is their preference, since it provides the technical basis for competition and allows even
+the smallest players, including start-ups (fintechs), to enter the market with new and innovative
+services that could be offered with a pan-European reach.
+It is a step in the right direction that only a few initiatives are currently developing standardised
+specifications  for Application  Programming  Interfaces  (APIs)  and  the  ERPB  already  called  for
+close cooperation between these projects. I would even go a step further and encourage these
+initiatives to join forces and agree on one common technical specification so that the whole of
+Europe could base their systems upon one or a few technical API standards. This will greatly
+ 2 / 3
+BIS central bankers' speeches
+facilitate market entry, avoid fragmentation and allow for competition at the service level, avoiding
+obstacles at the technical level.
+To  promote  the  uptake  of  standardised APIs,  the  European  Commission  has  invited  market
+participants to establish an API Evaluation Group, which has just started its work. I call on the
+banks  to  actively,  substantively  and  speedily  contribute  to  the  activities  of  this  Group,  as  its
+findings  are  essential  for  the  competent  authorities,  after  consulting  the  EBA,  to  grant  an
+exemption from the RTS obligation to offer a fallback solution for the dedicated interface.
+I am of course aware that a bank can also be compliant with the RTS by offering an adaptation of
+its  customer  online  banking  interface  instead  of  a dedicated interface. Such interfaces would
+meet the legal requirements, but would not meet the market needs of efficient and pan-European
+provision of payment initiation services. So I was disappointed when I heard that some banks
+seem  to  be  seriously  considering  this  option.  I  strongly  encourage  them  to  offer  a  dedicated
+interface, based on a standardised specification, as this is one pillar of successful PIS.
+Last, but certainly not least, the ERPB extended the mandate of its Working Group on payment
+initiation services to follow up several common requirements related to operational and business
+elements, which together are the other pillar of successful PIS. I appreciate the commitment that
+the banks have shown to this important task and expect to complete the work by June 2018. It is
+important that the API Evaluation Group and the ERPB Working Group progress in parallel so
+that PSPs have clarity by the summer and can plan their investments that need to be made.
+Then they can prepare for a timely implementation of PSD2 and the RTS and be ready for the
+competition that PSD2 aims to foster.
+Conclusion
+To conclude, I would strongly encourage European payment service providers to embrace the
+opportunities  the  PSD2  provides  for  competition  and  innovation,  to  cooperate  in  the
+standardisation  of APIs  that  should  preferably  result  in  a  single API,  and  to  implement  all  the
+security requirements of the new directive and its RTS as soon as possible, even before they
+become mandatory.
+I  count  on  the  full  commitment  of  the  European  Banking  Federation  and  the  entire  payments
+industry to work towards safe, efficient and innovative payment services.
+ 3 / 3
+BIS central bankers' speeches

@@ -1,0 +1,521 @@
+William C Dudley: Conducting monetary policy – rules, learning and risk 
+management 
+Remarks  by  Mr  William  C  Dudley,  President  and  Chief  Executive  Officer  of  the  Federal 
+Reserve Bank of New York, at the C Peter McColough Series on International Economics, 
+Council on Foreign Relations, New York, 24 May 2012. 
+ It is a great pleasure to have the opportunity to speak here today. My remarks will focus on 
+how I think about monetary policy in today’s challenging economic environment. As part of 
+this,  I  will  discuss  how  simple  policy  rules  might  appropriately  be  used  as  a  guide  to 
+decisionmaking. I do this not because policy rules play a dominant role in my own thinking, 
+but  because  the  use  of  these  tools  is  widespread,  with  many  framing  their  arguments  this 
+way. To start with the punch line, although I believe simple policy rules can provide useful 
+input  into  the  policymaking  process,  it  would  be  unwise  to  rely  on  them  mechanically.  As 
+always,  what  I  have  to  say  today  reflects  my  own  views  and  not  necessarily  those  of  the 
+Federal Open Market Committee (FOMC) or the Federal Reserve System. 
+Policy  must  strive  to  promote  the  dual  mandate  objectives  of  maximum  employment  and 
+price stability given to the Federal Reserve by Congress. I believe that this should be done in 
+a transparent and systematic manner because this will help us to achieve our objectives. In 
+particular, a well-articulated framework for policy that explains our goals and how we use our 
+tools to promote these goals helps market participants, businesses, and workers to anticipate 
+how the Federal Reserve will respond under different circumstances and plan accordingly.1  
+This helps to anchor private sector expectations in ways that make it easier to achieve the 
+dual mandate objectives. In contrast, if we acted in an unpredictable way, policy would be 
+ineffective at anchoring expectations and this shortcoming would disrupt the transmission of 
+the monetary policy impulse to the real economy. 
+Over the years, this logic has led the Federal Reserve to become increasingly transparent 
+and systematic in its decisionmaking.2 In January, the Federal Open Market Committee took 
+another important step in this direction, endorsing a public statement of longer-run goals and 
+monetary  policy  strategy.  This  document  articulated  a  2  percent  inflation  objective  and 
+committed the FOMC to a “balanced approach” with respect to promoting the dual mandate 
+objectives. 
+For  me,  the  key  issue  is  how  to  interpret  these  principles  and  put  them  into  practice.  I 
+interpret  the  strategy  document  as  expressing  a  relatively  straightforward  proposition:  The 
+Fed  should  seek  the  policy  setting  that  generates  the  best  achievable  path  back  to  full 
+employment  and  price  stability  following  shocks  that  push  us  away  from  either  of  our 
+objectives. 
+I  regard  the  policymaking  process  as  a  systematic  effort  to  investigate  what  policy  setting 
+would  deliver  the  best achievable set  of  economic  outcomes,3  taking  into  consideration  all 
+available information, including risks not fully summarized in the base case point forecasts. 
+Our  approach  is  not  greatly  different  from  those  of  central  banks  that  operate  inflation 
+                                                 
+1  But,  of  course,  predictability  is  not  an  end  in  itself.  A  policy  could  be  completely  predictable,  but  also 
+incompatible with the central bank’s goals. 
+2  The policy response to the extreme shock of the financial crisis was predictably vigorous, even if its detail was 
+hard to specify in advance, and the knowledge that the Federal Reserve would act “as needed” to promote the 
+dual mandate anchored inflation expectations and helped to avoid a deflation outcome. 
+In formal terms, this approach would be described as a target-rule or forecast-targeting rule. 
+3 
+BIS central bankers’ speeches 
+ 1
+the 
+inflation  objective  and 
+level  of  potential  output  consistent  with 
+targeting  regimes,  but  in  our  case  we  explicitly  seek  to  promote  both  aspects  of  our  dual 
+mandate.4  
+The  basic  question  is  how  the  FOMC  should  implement  monetary  policy  to  best  push  the 
+economy back to its dual objectives. Prescriptions from simple policy rules such as Taylor 
+Rules,  named  after  Stanford  economist  John  Taylor,  have  a  legitimate  role  to  play  in  this 
+evaluation as do more complex simulations such as optimal control rules. In a Taylor Rule, 
+the nominal federal funds rate depends on the equilibrium or neutral real short-term rate of 
+interest, the deviation of the level of economic activity from estimates of the level of activity 
+that would be consistent with long-run price stability, and the deviation of inflation from the 
+central bank’s target.5  
+The Taylor Rule formulation has a number of characteristics that make it a useful input into 
+the  policy-setting  process.  First,  it  very  explicitly  focuses  on  the  two  parameters  –  the 
+long-term 
+that  
+objective  –  that  map  directly  to  the  Federal  Reserve’s  dual  mandate  objectives.  Second, 
+standard Taylor Rules are self-equilibrating. They respond to economic shocks and forecast 
+errors in a way that pushes the economy back toward the central bank’s objectives. Third, 
+academic  research shows  that  Taylor-type  rules  typically  perform  quite  well  across  a  wide 
+range of economic models. This is important because we want rules that are robust; that is, 
+not overly sensitive to model-specific assumptions about how the economy performs or how 
+households and businesses alter their expectations and behavior in response to changes in 
+monetary policy.  
+Fourth,  with  respect  to  the  United  States,  the  most  popular  versions  of  the  Taylor  Rule 
+approximate  how  policy  has  evolved  since  the late  1980s –  a  period  in  which  the  Federal 
+Reserve  has  been  successful  in  keeping  inflation  in  check  (Figure  1).  This  suggests  that 
+policymakers,  faced  with  the  economic  conditions  of  that  period,  weighted  deviations  from 
+their goals in a manner similar to the weights used in these versions of the Taylor Rule.  
+Despite these attractive features, I do not believe that simple policy rules can take the place 
+of  in-depth  analysis  of  economic  conditions,  evaluation  of  alternative  policy  plans,  and 
+ultimately  policy  judgment.  While  simple  policy  rules  provide  useful  information  to 
+policymakers, their very virtue – simplicity – means they cannot capture all information that is 
+relevant  for  policymaking.  For  example,  such  rules  cannot  easily  incorporate  asymmetric 
+risks or financial stability issues.  
+Moreover,  the  usefulness  of  simple  policy  rules  depends  critically  on  the  stability  of  the 
+relationship  between  monetary  policy  and  economic  outcomes.  If  the  relationship  between 
+                                                 
+4 
+In  practice,  so-called  inflation-targeting  central  banks  also  tend  to  take  into  account  employment  and  other 
+aspects of the real economy; hence, their approach is often referred to as “flexible inflation targeting.” 
+FFR = r* + π + a(π-π*) + b[100(Y-Y*)/Y*] 
+FFR = federal funds rate  
+r* = neutral real federal funds rate  
+5   More formally, a Taylor Rule can be represented as: 
+ 
+  where: 
+ 
+ 
+  π = rate of inflation 
+  π* = target inflation rate  
+  Y = output 
+  Y* = output at full employment 
+a = weight put on inflation gap 
+ 
+ 
+b = weight put on output gap 
+2 
+ BIS central bankers’ speeches
+monetary  policy  and  the  real  economy  were  stable  over  time,  following  a  relatively  simple 
+and unchanging policy rule would likely generate acceptable results. However, if the linkage 
+between monetary policy and the real economy is more variable, as I believe it is, then an 
+approach  that  is  more  pragmatic  and  updates  the  policy  setting  in  a  clear  and  systematic 
+manner based upon what the FOMC learns over time will be more effective. 
+In particular, a simple policy rule can generate poor macroeconomic outcomes when either 
+the structure of the economy or the transmission mechanism of monetary policy changes in a 
+significant way (whether the change is temporary or permanent). If private sector economic 
+agents  –  workers,  businesses,  investors  –  thought  we  would  implement  a  particular  policy 
+rule regardless of changes of these kinds, policy would not be effective at stabilizing private 
+sector  expectations  in  ways  that  promote  the  dual  mandate  objectives.  This  is  particularly 
+relevant in the unusual environment that we find ourselves in – the aftermath of a housing 
+bust and a financial crisis. 
+In the current context, there is an additional complication that is extremely important. Simple 
+policy  rules  implicitly  assume  that  monetary  policy  is  unconstrained  and  that  the  Fed  can 
+always achieve the federal funds rate policy setting the rule proposes – even if it is negative. 
+By extension, they also assume that it is as easy to ease policy as it is to tighten policy if 
+certain  risks  materialize.  In  practice  this  is  not  the  case.  Because  our  traditional  tool,  the 
+federal  funds  rate,  is  already  at  its  effective  zero  lower  bound,  we  may  want  to  react 
+differently  to  a  given  economic  outlook  and  set  of  risks  than  we  would  if  policy  were 
+unconstrained. We are certainly not completely constrained: we have additional tools such as 
+the  balance  sheet  and  forward  policy  guidance  that  we  can  use  to  provide  additional 
+monetary policy stimulus. But these tools have costs as well as benefits. Moreover, we can 
+only imperfectly translate the impact of these policy instruments into interest rate equivalents 
+for the purposes of evaluation using simple rules. 
+So for many reasons, I focus my attention primarily on how we are progressing and expect to 
+progress relative to our dual mandate objectives. In this context, simple policy rules are an 
+input,  but  my  judgment  also  is  informed  by  the  economic  environment  and  what  we  learn 
+about the responsiveness of the economy to monetary policy.  
+Nevertheless, it is possible to translate my assessments into a language that would be more 
+familiar to those who think in terms of a Taylor-type rule.  
+Recall that in a Taylor Rule framework, five major parameters can be adjusted: 
+ 
+ 
+The inflation objective and the estimated output gap.  
+Different weights can be placed on deviations of output relative to its potential and 
+inflation relative to the Fed’s objective.  
+The estimate for the neutral real short-term rate of interest.  
+ 
+Thus, while the Taylor Rule generally is viewed as a fixed formula, its underlying framework 
+is  sufficiently  flexible  that  such  a  rule  could  be  modified  to  reflect  certain  types  of  new 
+information.  
+What values should we use? In the United States, the inflation objective is well specified – a 
+2 percent annual rate for the personal consumption expenditures deflator.6 The FOMC has 
+formally committed itself to this objective.  
+In  contrast,  there  is  disagreement  among  FOMC  participants  about  how  far  the  U.S. 
+economy  is  operating  from  potential.  Our  staff  forecast  at  the  New  York  Federal  Reserve 
+estimates that the long-term unemployment rate is about 5 percent. The central tendency in 
+                                                 
+6  Over  the  past  25  years,  CPI  inflation  has  averaged  about  30  basis  points  to  50  basis  points  above  PCE 
+inflation. 
+BIS central bankers’ speeches 
+ 3
+the  most  recent  Summary  of  Economic  Projections  is  a  bit  higher  at  5.2  percent  to 
+6.0 percent, but the degree of dispersion is not particularly wide.  
+More difficult is the judgment about what weights to put on deviations of output from potential 
+versus deviations in expected inflation from the Fed’s inflation target. This will differ among 
+policymakers based on their views about the costs of deviations from the dual objectives and 
+the  structure  of  the  economy.  This  debate  can  be  summed  up  by  looking  at the  two  most 
+well-known versions of the Taylor Rule – the original version put forward by Mr. Taylor, which 
+is commonly referred to as Taylor 1993, and a later version updated by other economists that 
+Mr. Taylor has discussed but does not endorse, which is referred to as Taylor 1999.7 Taylor 
+1999 puts more weight on deviations of output from potential than Taylor 1993. Thus, Taylor 
+1999  would  lead  to  a  later  liftoff  of  the  federal  funds  rate  as  the  economy  returns  to  full 
+employment. 
+Which set of weights is better is a matter of judgment. John Taylor prefers Taylor 1993. My 
+own thinking, when translated into Taylor Rule terms, favors the weights in the Taylor 1999 
+formulation.  I  believe  that  Taylor  1999  is  likely  to  perform  better  in  achieving  the  Federal 
+Reserve’s dual mandate objectives. Compared with Taylor 1993 it can achieve significantly 
+greater  stability  in  employment  without  sacrificing  the  medium-term  inflation  objective  or 
+significantly increasing the variability of inflation outcomes.  
+Finally,  the  remaining  parameter  in  the  Taylor  Rule  is  the  neutral,  real  short-term  interest 
+rate.  This  is  the  interest  rate  adjusted  for  inflation  that  neither  stimulates  nor  slows  the 
+economy. It is typically set at 2 percent. Although there is no reason why the neutral real rate 
+cannot change over time, the 2 percent rate is typically plugged in without further attention. 
+Whether this is appropriate is a critical question in today’s economic environment that I will 
+return to a bit later. 
+Let  me  now  discuss  the  economic  outlook,  and  examine  some  of  the  implications  for 
+monetary policy. In doing so I will look at results obtained by applying some variants of the 
+Taylor  Rule,  and  explain  some  of  my  concerns  about  using  simple  policy  rules  in  a 
+mechanical way for setting monetary policy.  
+As  I  see  it,  the  U.S.  economy  is  continuing  to  slowly  recover  from  the  after-effects  of  the 
+housing  boom  and  bust  and  the  financial  crisis.  But  the  recovery  has  been  disappointing. 
+Indeed, when we look back at economic forecasts made over the past three or four years it is 
+notable  that  growth  has  systematically  fallen  short  of  both  the  Federal  Reserve  and 
+private-sector forecasts.  
+Despite what has been an unusually accommodative monetary policy by historical standards, 
+the economy has grown at only a 2.1 percent pace over the last four quarters and the Blue 
+Chip consensus forecast only anticipates a modest acceleration to a 2.4 percent rate over 
+the next four quarters (Figure 2). 
+The  headwinds  retarding  recovery  are  well  known.  Consumers  have  been  deleveraging  in 
+response to the large losses in wealth generated in large part by the collapse in home prices. 
+Housing  activity  remains  depressed  for  many  reasons.  These  include  the  large  shadow 
+inventory  making  its  way  through  the  foreclosure  pipeline,  tight  underwriting  standards  for 
+new mortgage origination, and the sharp slowdown in household formation.  
+                                                 
+7  For Taylor 1993, the output gap and inflation gap parameters are both 0.5. For the Taylor 1999 version, which 
+updates  the  original  formulation  to  take  into  account  data  over  a  longer  period  of  time,  the  output  gap 
+parameter is 1.0: 
+Taylor 1993 FFR=2% + π + 0.5(π-2%) + 0.5[100(Y-Y*)/Y*]  
+Taylor 1999 FFR=2% + π +0.5(π-2%) + 1.0[100(Y-Y*)/Y*] 
+ 4 
+ BIS central bankers’ speeches
+Although the corporate sector as a whole is now reasonably healthy, there still is a significant 
+constraint on the availability of credit to small business. Fiscal policy has become restrictive 
+as state and local governments have cut expenditures in response to revenue shortfalls; and 
+the  uncertainty  about  how  Congress  and  the  Administration  will  address  the  2013  federal 
+“fiscal cliff” is likely to inhibit hiring and investment by business. Global economic growth has 
+slowed as European activity has stagnated and this is capping the demand for U.S. exports.  
+On the brighter side, some of these headwinds appear to be subsiding. Employment growth 
+has  picked  up  somewhat  (Figure  3),  which  should  eventually  lead  to  faster  household 
+formation and more demand for housing. U.S. banks are healthier so that credit conditions, 
+while  still  tight,  are  gradually  easing.  And,  households  appear  quite  far  along  in  the 
+deleveraging  process  by  a  number  of  important  measures.  For  example,  the  ratio  of 
+household  debt  service  relative  to  income  is  back  to  levels  last  seen  in  early  1990s 
+(Figure 4). 
+For  these  reasons,  I  expect  that  growth  will  gradually  strengthen  over  the  next  few  years. 
+Nevertheless, significant downside risks remain, especially those related to the challenges in 
+Europe and how the potential “fiscal cliff” in the United States will be resolved after the fall 
+elections. Even if these risks do not materialize, I anticipate only slow progress toward full 
+employment. 
+On the inflation side, in recent years our forecasts have been noticeably more accurate than 
+on the growth side, and we have succeeded in delivering inflation very close to our 2 percent 
+price  stability  objective.  Through  March,  as  measured  by  the  personal  consumption 
+expenditures  deflator,  overall  consumer  prices  have  risen  2.1  percent  over  the  past 
+12 months, and prices excluding food and energy have risen 2.0 percent (Figure 5). 
+But  price  trends  have  been  a  bit  stickier  than  one  might  have  anticipated  given  the  large 
+amount of slack in the economy. To some degree, this likely reflects the anchoring exerted 
+by stable inflation expectations. But some of the price pressures can be attributed to other, 
+more temporary, factors: 
+ 
+Higher oil and gasoline prices and their pass-through into the costs of other goods 
+and services.  
+Upward pressure on imputed homeowners rents due to increased demand for rental 
+housing.  
+Higher import prices for goods, such as apparel. This reflects many factors including 
+commodity prices pressures and higher wage inflation in countries such as China.  
+  Some  of  these  upward  pressures on  inflation appear  to  be  fading.  Oil  and  gasoline  prices 
+have fallen in recent months. Apparel price inflation should gradually ease, given the sharp 
+drop  seen  in  cotton  prices.  Owners’  equivalent  rent  should  also  eventually  stabilize  as 
+multi-family  construction  picks  up  and  programs  that  shift  real  estate  owned  by  banks  to 
+investors so they can be rented gear up.  
+More  generally,  there  are  several  reasons  to  think  that  inflation  will  remain  moderate  and 
+close  to  our  objective.  First,  and  most  obviously,  the  economy  continues  to  operate  with 
+significant  slack.  Second,  measures  of  underlying  inflation  show  little  upward  pressure.  In 
+fact, one – the Federal Reserve Bank of New York’s Underlying Inflation Gauge – is turning 
+down.  This  measure  uses  a  very  wide  set  of  variables  to  forecast  the  underlying  inflation 
+trend (Figure 6). Third, it is hard to be very concerned about inflation risks when the growth 
+rate  of  nominal  labor  compensation  is  so  low  and  stable.  It  is  noteworthy  to  me  that  the 
+employment cost index has risen only 2.1 percent over the past four quarters and has shown 
+no acceleration (Figure 7). Fourth, inflation expectations remain well-anchored (Figure 8). 
+This  is  critically  important  because  inflation  expectations  are  an  important  driver  of  actual 
+inflation  outcomes.  Taking  into  account  the  current  stance  of  monetary  policy,  I  anticipate 
+BIS central bankers’ speeches 
+ 5
+that inflation will decline to slightly below our 2 percent long-run objective over the next few 
+years. 
+So  what  does  this  all  imply  for  monetary  policy?  I  currently  anticipate  that  the  Federal 
+Reserve’s federal funds rate target will remain exceptionally low – that is at the current level 
+– at least through late 2014. 
+This  policy  setting  is  more  accommodative  than  the  setting  prescribed  by  the  Taylor  1999 
+rule discussed earlier.8 Using the Federal Reserve Bank of New York’s current staff forecast, 
+the Taylor 1999 rule – unadjusted for the Federal Reserve’s balance sheet actions  – implies 
+liftoff in 2014.9  
+But  this  is  incomplete  because  it  does  not  incorporate  any  adjustment  for  the  Federal 
+Reserve’s  balance  sheet  actions.  I  estimate  that  the  current  balance  sheet  provides  the 
+equivalent of roughly 150 to 200 additional basis points of federal funds rate easing.10 But as 
+time  passes,  we  will  come  closer  to  the  date  when  the  balance  sheet  will  begin  to  be 
+normalized.  This  implies  that  the  amount  of  stimulus  from  the  balance  sheet  will gradually 
+lessen over time. Putting these adjustments into the Taylor 1999 formulation would pull the 
+liftoff date to 2013 (Figure 9). 
+So,  why  do  I  believe  the  policy  that  promotes  the  best  achievable  path  back  to  our  dual 
+mandate  objectives 
+implied  by  
+Taylor 1999 – adjusted or unadjusted? Taylor 1999, like other simple rules, does not take 
+into account two key considerations: 
+ 
+The likelihood that the relationship between monetary policy and the economy has 
+changed significantly following the financial crisis.  
+ 
+The need to apply a risk-management framework to policymaking at the zero bound.  
+I don’t believe that the standard Taylor 1999 formulation is a good guide for policy right now 
+because the neutral real rate assumption embedded in this rule of 2 percent simply doesn’t 
+look plausible. This is important because the degree of stimulus depends not on the current 
+policy  setting  but  on  the  difference  between  the  current  level  and  the  neutral  level.  For 
+example, a short-term rate that appears highly stimulative under standard assumptions may 
+in fact be much less so under alternative estimates of the neutral real rate. If the neutral real 
+should  be  more  accommodative 
+than 
+that 
+                                                 
+8 
+In contrast, optimal control simulations using FRBUS put the federal funds rate liftoff in 2015; see Vice Chair 
+Yellen’s speech of April 12 (http://www.federalreserve.gov/newsevents/speech/yellen20120411a.htm). 
+9  For  more  details  on 
+this 
+forecast,  go 
+to:  http://libertystreeteconomics.newyorkfed.org/2012/05/ 
+just-released-the-new-york-fed-staff-forecast-may-2012.html. 
+ 10  This estimate should be considered very imprecise. To generate this estimate we first need to estimate how 
+much  long-term  rates  have  been  pushed  down  because  of  the  Federal  Reserve  balance  sheet  programs. 
+Although there is considerable uncertainty, New York Fed staff has estimated that the Fed’s programs have 
+pushed down the term premium by about 50 basis points.  
+The question then becomes how much would the federal funds rate have to fall to generate the same result? 
+That  depends  on  how  changes  in  the  federal  funds  rate  pass  through  to  longer-term  interest  rates.  If 
+reductions in the federal funds rate were viewed as permanent, then the pass-through would presumably be 
+1 to  1.  However,  if  the  federal  funds  rate  reductions  were  viewed  as  fully  transitory,  then  there  would  be 
+virtually no pass-through. Econometric estimates indicate a value of about 4 to 1, a four basis points reduction 
+in the federal funds rate would lead to a one basis point reduction in long-term rates. However, this degree of 
+pass-through seems too low in the current environment in which the reductions in the federal funds rate have 
+been in place for some time and are expected to continue for several more years. If one assumes a parameter 
+value of 3 to 4 and uses 50 basis points as the estimate of the balance sheet impact on longer-term rates, 
+then this implies that these actions have been equivalent to a 150 to 200 basis point reduction in the federal 
+funds rate currently.  
+  As  the  onset  of  balance  sheet  normalization  comes  closer  over  time,  the  effect  of  the  Federal  Reserve’s 
+balance sheet actions  on the term premium  will  gradually  diminish. This means that the size  of the federal 
+funds rate adjustment should also diminish over time. 
+6 
+ BIS central bankers’ speeches
+rate has fallen, as I believe it has, then the entire trajectory of short-term rates implied by 
+Taylor  1999  shifts  down  and  this  pushes  back  the  liftoff  date  implied  by  Taylor  1999 
+significantly.  
+So how strong is the evidence that the neutral real rate has fallen significantly at least in the 
+short term? First, and most importantly, if the neutral real rate were really 2 percent, then the 
+U.S.  economy  should  be  growing  faster11 as  monetary  policy  would  be  extraordinarily 
+stimulative right now. But, if that is the case, then why do we see such a lackluster economic 
+performance? Thomas Laubach and John Williams have devised a means of estimating how 
+the equilibrium real interest rate varies over time based on how the economy has actually 
+performed.  The  estimate  generated  by  their  model  for  the  first  quarter  of  2012  is 
+0.3 percent.12  
+Second, we can identify good reasons why the neutral real rate is depressed currently. The 
+channels  through  which  monetary  policy  stimulates  the  economy  are  weaker  than  normal 
+right now.13  
+Monetary  policy  works  through  its  effect  on  financial  conditions  that  influence  economic 
+activity. Thus, the linkage between the policy setting and the economy can be affected by 
+changes  in  the  relationships  between  policy  and  financial  conditions  or  between  financial 
+conditions and the economy.  
+Let’s consider the linkage between the policy setting and financial conditions first. In my view, 
+the major components of financial conditions include: 1) the value of the equity market; 2) the 
+level  of  real  interest  rates  across  the  yield  curve;  3)  the  level  of  credit  spreads;  4)  the 
+availability of credit; and 5) the exchange value of the dollar. There are certainly others, but 
+these are probably the most important ones. If we look at these financial indicators as a set, 
+financial conditions do not appear to be unusually tight or easy in aggregate:  
+ 
+ 
+For the equity market, the evidence is mixed (Figure 10).  
+On one hand, the equity risk premium actually appears to be quite elevated relative 
+to  historical  levels  and  price/earnings  ratios  based  on  current  year  expected 
+earnings are not unusually high. On the other hand, based on valuation measures 
+using  trailing  10-year  earnings,  the  U.S.  stock  market  valuation  may  be  more 
+stretched. 
+For  interest  rates,  conditions  are  accommodative.  Real  rates  are  unusually  low 
+(Figure 11).  
+For credit spreads, the level is well within normal ranges – neither as narrow as in 
+2005 or 2006 nor as wide as during 2008 and 2009 (Figure 12).  
+Although credit availability is improving, the sharp tightening that occurred in 2008 
+and 2009 has not fully reversed (Figure 13).  
+Credit  availability  remains  unusually  tight  for  certain  sectors  such  as  housing  and 
+small business.  
+The  exchange  value  of  the  dollar  remains  in  the  middle  of  a  long-run  channel 
+showing a gentle decline (Figure 14).  
+                                                      
+11  Or, if we were wrong about spare capacity, inflation should be higher. 
+12  See Thomas Laubach and John Williams, “Measuring the Natural Rate of Interest,” Review of Economics and 
+is: 
+Statistics,  November 
+http://www.frbsf.org/economics/economists/jwilliams/Laubach_Williams_updated_estimates.xls. 
+pp.1063-1070. 
+estimates 
+updated 
+2003, 
+The 
+link 
+the 
+to 
+13  Impairment to the transmission mechanism implies that the neutral rate that neither stimulates nor slows the 
+economy will be lower than it would otherwise be. 
+BIS central bankers’ speeches 
+ 7
+the  neutral 
+Similarly,  there  is  evidence  that  the  linkage  between  financial  conditions  and  economic 
+activity is attenuated as well. The most obvious example of this is the housing sector. But the 
+subdued overall rate of credit expansion for both households and the business sector is also 
+noteworthy. This has occurred despite a monetary policy that would be judged on its face as 
+one of the most stimulative in history.  
+Finally,  market  expectations  suggest  that  the  equilibrium  real  rate  of  interest  will  remain 
+depressed. To  me,  it  is  particularly  noteworthy  that  the  real  forward  interest  rate  expected 
+5 to 10 years in the future is currently only 0.3 percent. It has been moving lower recently 
+and  is  far  lower  than  at  any  time  in  recent  memory  (Figure  15).  While  this  pattern  likely 
+reflects in part a very low term premium, it may also be driven by an assessment that the 
+equilibrium real rate has fallen and will remain unusually low for years. 
+This  evidence  implies  that  current  circumstances  warrant  the  use  of  a  significantly  lower 
+neutral  real  short-term  rate  in  the  Taylor  Rule  formulations.  As  economic  conditions 
+normalize,  supported  by  accommodative  monetary  policy, 
+interest  rate 
+presumably  would  gradually  rise  back  toward  its  long  run  level  over  time.  For  example, 
+adjusting Taylor 1999 for a zero percent neutral real rate that gradually normalizes over time 
+would push liftoff beyond 2014 (Figure 16). 
+Risk management considerations also suggest that a more stimulative monetary policy than 
+prescribed by Taylor 1999 is appropriate. In particular, simple policy rules implicitly treat the 
+welfare  losses  generated  by  deviations  from  the  central  forecast  path  symmetrically.  But  I 
+don’t believe that the potential losses are currently symmetric. In my view, the distribution of 
+potential  outcomes  is  currently  skewed  to  the  downside,  reflecting  risks  posed  by 
+developments in Europe and the impending U.S. fiscal cliff.  
+Moreover, the costs associated with such downside outcomes are likely to be considerably 
+higher  than  the  costs  of  realizing  upside  surprises.  For  example,  consider  two  alternative 
+scenarios:  an  economy  that  grows  very  quickly,  but  starting  with  some  genuine  spare 
+capacity,  versus  an  economy  operating  way  below  potential  that  stagnates,  pushing  the 
+United States into a liquidity trap.  
+In the first case, we have good tools with which to respond. As the economy moved closer to 
+full employment, we could raise short-term interest rates and subsequently sell assets from 
+our  portfolio.  By  doing  this,  we  would  tighten  financial  conditions,  slow  the  economy  and 
+ensure  it  remained  on  a  path  consistent  with  our  dual  mandate  objectives.  The  losses  to 
+society from this scenario should not be very large, provided we act in a manner that keeps 
+medium-term inflation expectations in check.  
+But the losses to society may be very high in the second case. That is because – as Japan 
+has discovered over the past two decades – once in a liquidity trap it is not easy to return to 
+full employment and price stability. Pinned at the lower bound, we don’t have as good a set 
+of  tools  as  we  would  ordinarily  have  to  push  the  economy  back  toward  our  dual  mandate 
+objectives. As a result of this asymmetry, we should give somewhat more weight to avoiding 
+the liquidity trap outcome.  
+Embedded within the traditional Taylor Rule formulations is the implicit return path back to 
+full  employment  and  price  stability  that  the  FOMC  achieved  in  the  past  when  faced  with 
+shocks that pushed economic activity below its potential level.14  
+                                                 
+14  Obviously, there is a cost to those who are unemployed longer than necessary with no offsetting gain in terms 
+of greater price stability. But there also is another potential long-run cost. Those who have been unemployed 
+for a long period of time may lose their job skills and become less employable in the future. This can push up 
+the non-inflationary rate of unemployment (NAIRU). Not only is this bad for those who are unemployed due to 
+the loss of their job skills, it is bad for the nation as a whole because the rise in the NAIRU lowers the effective 
+productive capacity of the economy and, with it, the capacity of the country to service its debts. 
+8 
+ BIS central bankers’ speeches
+In  the  current  economic  cycle,  I  think  it  is  apparent  that  the  path  back  to  the  Fed’s  dual 
+mandate objectives has been much slower than the one that the FOMC found acceptable in 
+the past. Growth has consistently been disappointing relative to both our own and consensus 
+forecasts. Recent performance and forecasts relative to the dual mandate objectives suggest 
+that  standard  rules  calibrated  in  earlier  times  understate  the  degree  of  accommodation 
+required to achieve the desired return path to the dual mandate objectives. 
+We should focus on how fast we are moving toward our employment and inflation objectives, 
+and  be  wary  of  the  risks  that  we  see  around  that  path.  If  progress  toward  the  mandate 
+objectives is slower than desired, then this is telling us that monetary policy needs to be kept 
+at  a  more  accommodative  setting  for  a  longer  time  period  than  a  standard  rule  would 
+suggest.  As  downside  risks  continue  to  be  present,  the  case  for  accommodation  is  even 
+stronger. 
+Given our forecast of stable prices and a still slow path back to full employment, there is an 
+argument for easing further. But, unfortunately, our tools have costs associated with them as 
+well as benefits. Thus, we must weigh these costs against the benefits of further action. 
+As  long  as  the  U.S.  economy  continues  to  grow  sufficiently  fast  to  cut  into  the  nation’s 
+unused economic resources at a meaningful pace, I think the benefits from further action are 
+unlikely  to  exceed  the  costs.  But  if  the  economy  were  to  slow  so  that  we  were  no  longer 
+making  material  progress  toward  full  employment,  the  downside  risks  to  growth  were  to 
+increase  sharply,  or  if  deflation  risks  were  to  climb  materially,  then  the  benefits  of  further 
+accommodation  would  increase  in  my  estimation  and  this  could  tilt  the  balance  toward 
+additional easing.  
+Under  such  circumstances,  further  balance  sheet  action  might  be  called  for.  We  could 
+choose between further extension of the duration of the Federal Reserve’s existing Treasury 
+portfolio  and  another  large-scale  asset  purchase  program  of  Treasuries  or  agency 
+mortgage-backed securities.  
+Conversely,  I  would  be  willing  to  consider  tightening  policy  at  a  somewhat  earlier  stage  if 
+growth  strengthened  sufficiently  to  materially  improve  the  medium-term  outlook  and 
+substantially reduce tail risks, or if there was evidence of a genuine threat to medium-term 
+inflation, including a rise in inflation expectations. In such a case, I would anticipate that the 
+first step would be to bring in the late 2014 date of the policy guidance. This would effectively 
+tighten  financial  conditions  not  only  by  changing  the  expected  path  of  short-term  interest 
+rates, but also by bringing forward the expected start of balance sheet normalization.  
+To sum up, I see substantial advantages in behaving in as systematic fashion as possible in 
+setting  monetary  policy.  But  that  should  be  done  in  a  way  that  fully  accounts  for  any 
+constraints  on  policy  imposed  by  the  economic  environment,  the  presence  of  asymmetric 
+risks, and allows us to learn as we go. The fact is that the economy is recovering after an 
+unusually deep recession and a severe financial crisis. We don’t have much experience with 
+this type of episode and how the economy is likely to perform. What we need to focus on is 
+not  what  interest  rate  a  given  rule  generates,  but  what  policy  setting  can  be  expected  to 
+deliver the appropriate return path to the dual mandate objectives – the type of return path 
+that standard Taylor Rule formulations achieved in different economic circumstances in the 
+past. 
+Thank you very much for your kind attention. I would be happy to take a few questions. 
+BIS central bankers’ speeches 
+ 9
+  10 
+ BIS central bankers’ speeches
+ 11
+BIS central bankers’ speeches 
+  12 
+ BIS central bankers’ speeches
+ 13
+BIS central bankers’ speeches 
+  14 
+ BIS central bankers’ speeches
+ 15
+BIS central bankers’ speeches 
+  16 
+ BIS central bankers’ speeches
+ 17
+BIS central bankers’ speeches 
+  18 
+ BIS central bankers’ speeches
+ 19
+BIS central bankers’ speeches 
+  20 
+ BIS central bankers’ speeches
+ 21
+BIS central bankers’ speeches 
+  22 
+ BIS central bankers’ speeches
+ 23
+BIS central bankers’ speeches 
+  24 
+ BIS central bankers’ speeches
+ 25
+BIS central bankers’ speeches 
+ 

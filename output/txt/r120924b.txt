@@ -1,0 +1,487 @@
+B Mahapatra: Underlying concepts and principles of dynamic 
+provisioning 
+Keynote address by Mr B Mahapatra, Executive Director of the Reserve Bank of India, at the 
+Conference  on  “Introduction  of  dynamic  provisioning  framework  for  banks  in  India”, 
+organised by the Centre for Advanced Financial Research and Learning (CAFRAL), Mumbai, 
+21 September 2012. 
+ The contributions made by Mrs Usha Janakiraman and Mrs Tariqa Singh are gratefully acknowledged. 
+Thank you very much for inviting me to this conference to share with you my understanding 
+of the underlying concepts and principles of dynamic provisioning. A discussion paper on the 
+subject was brought out by the Reserve Bank of India (RBI) in March 2012. We are still in the 
+process of examining the comments received from banks and other stakeholders and it may 
+take us a while to finalise anything in this regard. 
+Why make provisions? 
+Let me start the discussion with a question: why make provisions? To my mind provision is 
+an  accounting  concept.  Accounting  standards  define  provision  as  a  liability  of  uncertain 
+timing or amount which can be measured only by using a substantial degree of estimation. 
+The term “provision” is also used in the context of items such as depreciation, impairment of 
+assets and doubtful debts: these are adjustments to the carrying amounts of assets. 
+It is a requirement for any entity to assess at the end of each reporting period whether there 
+is any objective evidence that any asset has been impaired as also whether a liability needs 
+to be recognised in settlement of an obligation involving an outflow of resources. When such 
+is  the  case,  the  amount  is  required  to  be  recognised  in  the  profit  or  loss  account  for  the 
+reporting period. This enables presenting a “true and fair” financial position of the entity for 
+the period, which is the raison d’être of accounting. 
+Entities have strong incentives for under-provisioning, because: 
+• 
+• 
+It is generally not fully tax deductible in many jurisdictions; and 
+Many business executives take a short term view of showing enhanced profits. High 
+provisioning  reduces  profits,  and  hence  dividend  distribution  and  share  price;  and 
+more importantly, bonus payment to top management and staff. 
+The same holds good for banks also. However, banking business adds another dimension to 
+the issue, that is, of pro-cyclicality. Banks are more prone to business cycles. In good times, 
+there is demand for credit and banks become aggressive loosening credit standards. Debtors 
+also do well and service the loans in time. Loan loss rates are below the long-run average, 
+and  need  for  loan  loss  provisions  are  less.  Therefore,  loan  loss  provisions  are  usually 
+under-funded during a boom period. 
+When the business cycle turns and economic conditions deteriorate, borrowers’ credit quality 
+tends  to  worsen  leading  to  a  higher  probability  towards  default  in  servicing  interest  and 
+principal  payment.  These  loans  become  non-performing  assets  (NPAs).  Banks’  profits  go 
+down  but  at  the  same  time  they  are  required  to  make  higher  loan  loss  provisions  for  the 
+non-performing  loans.  This  is  the  cyclical  property  of  credit  losses.  This  results  in  banks 
+becoming cautious and restricts lending; as a result the risk spills over to the real sector of 
+the economy. Procyclicality thus has the impact of amplifying business cycles. 
+In  terms  of  the  accounting  standard  for  recognizing  credit  losses,  the  IAS  39  –  Financial 
+Instruments:  Recognition  and  Measurement,  a  financial  asset  is  impaired  and  impairment 
+losses are incurred if and only if, there is objective evidence of impairment as a result of one 
+BIS central bankers’ speeches 
+ 1 
+or more events (i.e., loss event/s) that occurred after the initial recognition of the assets, and 
+that loss event (or events) has an impact on the future cash flows of the financial asset that 
+can be reliably estimated. 
+This  approach  to  provisioning,  also  known  as  “incurred  loss”  based  approach  waits  for 
+certain  events  to  happen  such  as  default,  delinquency  in  interest  or  principal  payments, 
+significant financial difficulty of the borrower, etc., before losses can be recognized. Provision 
+for  losses  can  only  be  made  after  the  loss  event  has  been  identified,  or  loss  has  been 
+incurred,  and  not  in  a  proactive  manner  ex  ante  before  the  event,  based  on  “expected 
+losses”. 
+The incurred loss model came under severe criticism after the recent global financial crisis 
+for delaying loss recognition. There is a view that earlier recognition of loan losses based on 
+“expected losses” could have potentially reduced the cyclical impacts of the recent crisis. 
+However,  accountants  were  not  comfortable  with  the  expected  loss  based  provisioning  on 
+the fear that it could foster earnings management by profit smoothening and compromise the 
+raison d’être of accounting to give a “true and fair” or transparent picture of the financials of 
+an entity as on the reporting date. 
+Improvements  in  credit  risk  models  have  supported  the  concept  of  expected  losses  and 
+unexpected  losses.  From  a  conceptual  point  of  view,  loan  loss  provisions  should  cover 
+expected  losses  while  capital  provides  an  adequate  buffer  for  unexpected  losses.  The 
+internal  rating  based  (IRB)  model  approach  under  Basel  II  credit  risk  capital  computation 
+gave  a  fillip  to  the  expected  loss  based  provisioning  and  unexpected  loss  based 
+capitalisation. 
+In  the  immediate  aftermath  of  the  crisis,  in  April  2009,  the  G20  leaders  called  upon  the 
+accounting  standard  setters  to  work  urgently  with  banking  supervisors  and  regulators  to 
+improve  standards  on  valuation  and  provisioning  and  achieve  a  single  set  of  high  quality 
+global accounting standards. 
+The  Basel  Committee  on  Banking  Supervision  (BCBS)  took  it  forward  by  publishing  a 
+document in August 2009 titled Guiding principles for replacement of IAS 39 that was also 
+sent to the International Accounting Standards Board (IASB). These principles state that loan 
+loss provisioning should be robust and based on sound methodologies that reflect expected 
+credit losses in the banks’ existing loan portfolio over the life of the portfolio. The accounting 
+model  for  provisioning  should  allow  early  identification  and  recognition  of  losses  by 
+incorporating a broader range of available credit information than presently included in the 
+incurred  loss  model.  For  the  purpose  of  these  principles,  expected  credit  losses  are 
+estimated  losses  on  a  loan  portfolio  over  the  life  of  the  loans  and  considering  the  loss 
+experience over the complete economic cycle. 
+Post-crisis, there is convergence of views among the prudential regulators and accounting 
+standard setters on the desirability of a forward looking expected loss approach to loan loss 
+provisioning. In reality, financial results do objectively worsen in an economic downturn in a 
+way  similar  to  the  rise  in  unemployment  rates.  Therefore  applying  an  impairment  model 
+based  on  expected  losses  is  arguably  a  faithful  representation  of  current  conditions.  The 
+IASB,  Financial  Accounting  Standards  Board  (FASB)  as  well  as  the  BCBS  are  actively 
+engaged  in  finding  a  solution  to  this  complex  problem.  In  this  context,  the  expected  loss 
+based provisioning approach is a topic of significant interest for the global financial markets. 
+Even  when  banks  and  accountants  were  making  incurred  loss  based  provisioning  for 
+identified  losses,  called  “specific”  provisions,  they  also  voluntarily  did  make  some  sort  of 
+“general” provisions or “floating” provisions. These “general” provisions are not based on any 
+expected loss model, but as a prudent practice to strengthen the balance sheets. The Basel 
+Committee also incentivises general provision up to 1.25% of credit risk weighted assets by 
+counting towards Tier 2 capital. 
+2 
+ BIS central bankers’ speeches 
+Concepts and principles 
+Dynamic provisioning is a technique that allows banks to build up loan loss provisions when 
+their profits are growing to draw on these provisions during an economic downturn. There are 
+several variants of dynamic provisioning. However, the underlying principle behind dynamic 
+provisioning  is  that  provisions  should  be  set  in  line  with  estimates  of  long-run,  or 
+through-the-cycle  expected  losses.  This  will  help  in  breaking  pro-cyclicality  and  creating 
+countercyclical provision buffers. Dynamic provisioning builds on this and can be generally 
+expressed as: 
+Dynamic provision = Expected loss provision – Specific provision, or 
+Dynamic  provisions  =  Through-the-cycle  loss  ratio  *  Flow  of  new  loans  –  Flow  of  specific 
+provision, where specific provisions correspond to realised or incurred losses, or simply put: 
+Dynamic provisions = Expected loss provisions – Incurred loss provisions. ----- (1) 
+17. A close look at the formula shows that during good times dynamic provisions are positive 
+and add to loss provisions as realised or incurred losses, that is, specific provisions are lower 
+than  their  through-the-cycle  estimates.  During  bad  times,  the  opposite  takes  place  and 
+negative  dynamic  provisions  deplete  the  loss  provision  buffer.  Therefore,  provisioning, 
+instead of becoming pro-cyclical, becomes countercyclical. 
+The Spanish model 
+Let  me  now  talk  about  the  dynamic  provisioning  as  implemented  in  Spain.  Prior  to 
+introduction of dynamic provisioning in Spain, the Spanish banks’ provisioning patterns were 
+close  to  those  that  currently  prevail  in  most  countries.  According  to  the  standard  system, 
+banks  were  required  to  make  two  types  of  provisions  for  loan  losses.  First,  a  general 
+provision was made as a fixed percentage of credit growth. This intends to account for losses 
+incurred  on  an  average  on  a  homogeneous  portfolio  without  specifically  identifying  the 
+suspect  loans.  Second,  specific  provisions  for  delinquent  assets  i.e.,  incurred  losses  on 
+individual loans were made which depended on the level of risk of the loan and on the time 
+overdue. 
+Dynamic provisioning system was put in place in Spain by its Central Bank, Bank of Spain in 
+July  2000  to  cope  with  a  sharp  increase  in  credit  risk  on  Spanish  banks’  balance  sheets 
+following  a  period  of  significant  credit  growth  during  the  late  1990s.  Intense  competition 
+among  banks  had  resulted  in  inadequate  loan  pricing.  Moral  suasion  also  proved  to  be 
+inadequate  in  inducing  banks  to  become  more  conservative.  There  was  a  significant 
+reduction in non-performing loans in the second half of the 1990s indicating very low specific 
+provisions. In fact, in 1999 Spain had the lowest ratio of loan loss provisions to total loans 
+among  OECD  countries.  It  also  had  the  highest  correlation  between  the  provisioning  ratio 
+and the GDP growth rate (–0.97) for the period 1991–1999. Thus loan loss provisions were 
+very  pro-cyclical  in  Spain:  they  were  very  low  during  periods  of  expansion  and  very  high 
+during recessions, while credit risk and under-pricing of risk spread during the boom period. 
+Under the new system (2000 regime) in addition to specific and general provision, statistical 
+provision  was  added  which  was  the  difference  between  the  latent  risk  (risk  parameter 
+dependent upon the credit growth) and the specific provision. The statistical provision  was 
+charged quarterly. This implied that statistical provisions for a given period could be positive 
+or  negative,  depending  on  credit  growth  and  contemporary  bad  loans.  When  statistical 
+provisions accumulate they generate a fund called statistical provision fund. The fund had an 
+upper and lower limit. 
+After the introduction of the statistical provision, the upswing of the economic cycle turned 
+out to be much stronger and longer than anticipated. This, together with an initial design of 
+the limits of the fund that was based on very rough estimates led to a rapid increase in the 
+BIS central bankers’ speeches 
+ 3 
+statistical  provision  fund,  whereas  specific  provisions  were  kept  to  a  minimum,  in  an 
+environment of historically low non-performing loans. 
+In  2004  it  became  evident  that  the  accumulation  of  statistical  provisions  was  probably 
+excessive.  At  the  same  time,  the  Bank  of  Spain  was  being  increasingly  criticised  in 
+international  accounting  fora  for  applying  a  mechanism  that  appeared  to  favour  profit 
+smoothing,  which  was  considered  contrary  to  the  “fair  value”  principles  and  International 
+Accounting Standards. To correct this excessive accumulation and to counter the criticisms 
+of accountants, a new accounting regulation was adopted in 2004. 
+The changes involved reverting to only two types of loan loss provisions, viz., general and 
+specific  provisions.  General  provision  was  the  sum  of  two  components  based  on  two 
+important parameters, alpha and beta. Alpha was the average estimate of credit losses, say 
+expected losses based on past experience and beta was the historical average of specific 
+provisions.  The  underlying  principles  behind  dynamic  provisions  in  Spain  was  to  build  up 
+general  provisions  that  account  for  (i)  expected  losses  in  new  loans  extended  in  a  given 
+period; and (ii) historical average losses on the outstanding stock of loans at the end of that 
+period after netting off specific provisions incurred during the period. Formula-wise: 
+General  provisions  during  a  period  =  [alpha  *  incremental  loans]  +  [(beta  –  delta  specific 
+provision / outstanding loans) * (outstanding loans)] or 
+General provisions during a period = [alpha * incremental loans] + [(beta * outstanding loans) 
+– (delta specific provision)] -------- (2) 
+The first component of the general provision was alpha times the incremental loans granted 
+by a bank. This component therefore recognised the credit risk expected during expansions 
+although  the  loan  losses  have  not  yet  been  identified  in  a  specific  loan.  The  second 
+component  was  beta  times  the  stock  of  outstanding  loans  reduced  by  specific  provisions 
+made  during  the  period.  One  can  observe  that  in  the  second  component,  beta  which  is 
+historical average specific provision is compared with the current level of specific provision. 
+This difference would be positive during periods of boom when the current levels of specific 
+provisions  are  lower  than  the  historical  average  and  thus  adds  towards  the  balance  of 
+general provision. Similarly, in periods of downturns/recession, the current level of specific 
+provision  may  be  higher  than  the  historical  average  of  specific  provision;  in  that  case,  the 
+second  component  becomes  negative  and  this  component  is  subtracted  from  the  first 
+component and may cause the general provision fund to be drawn down. Thus the second 
+component is countercyclical in nature which builds up during upturns and is drawn during 
+downturns.  The  second  component  is  also  reflective  of  the  strength  and  weakness  of  the 
+lending cycle depending upon the addition/drawals made from the general provision. 
+Alpha  and  beta  were  calibrated  by  Bank  of  Spain  for  six  homogeneous  risk  categories 
+ranging  from  zero  risk  (cash,  public  sector  debt,  etc.)  to  high  risk  (credit  cards  and 
+overdrafts). An option was also given to banks to use their own calibrated parameters based 
+on their own credit histories and experiences, subject to supervisory approval. 
+Let me give an example to make things clearer. Assume outstanding stock of loans in a bank 
+X to be Rs. 1000 and the previous year balance of loans to be Rs. 800, thus assuming the 
+incremental  growth  in  credit  to  be  Rs.  200.  Further  assume  that  the  alpha  and  beta 
+component as given by the supervisor to be 2% and 1% respectively. Assume the specific 
+provision required for the current year to be Rs. 8. For the first year, bank X would make a 
+general provision equal to alpha times incremental loans i.e. 2% of Rs. 200 i.e., Rs. 4 plus 
+difference  between  beta  times  outstanding  loans  and  specific  provision  which  in  this  case 
+works out to 1% of Rs. 1000 – Rs. 8 = Rs. 2. Thus, a total general provision of Rs. 6 (4+2) 
+would be made by the bank X during the year. Total provision made during the year would be 
+the sum of general provision and specific provision i.e., Rs. 6 + Rs. 8 = Rs. 14. 
+To  avoid  under  provisioning  and  excess  provisioning  and  to  satisfy  the  accountants,  the 
+general provisions had a floor of 33% and a cap of 125% of alpha times outstanding loans. 
+4 
+ BIS central bankers’ speeches 
+These limits were placed in 2004 when most banks were already at the new upper limit at the 
+time  of  the  application  of  this  regulation.  In  general,  excess  provisioning  would  occur  in  a 
+long expansionary phase as specific provisions remain below the betas and the alphas also 
+contribute positively. The cap is intended to avoid loan loss provisions growing for too long a 
+period,  producing  coverage  ratios  (ratios  of  provisions  to  non-performing  loans)  that  are 
+unrealistic. 
+The  total  provisions  under  the  dynamic  provisioning  model  viz.,  summation  of  general 
+provisions and specific provision thus worked out to alpha times incremental loans plus beta 
+times outstanding credit. The Spanish model is conservative as it creates general provision 
+equal to alpha times incremental credit growth i.e., the general provision still increases due to 
+the  first  component  even  if  the  current  level  of  specific  provisions  are  equal  to  historical 
+average specific provision. However, during economic downturns the second component is 
+solely responsible for reduction in the stock of provisions. 
+The FSA model 
+Having explained the basic tenets behind the Spanish dynamic provisioning model, it is also 
+important  to  briefly  cover  the  FSA,  UK  model  of  dynamic  provisioning  suggested  in  the 
+Turner Review of March 2009. Under the FSA model, dynamic provisions are the difference 
+between  long  term  loan  loss  estimate  and  incremental  specific  provision.  Thus,  dynamic 
+provisions will be created when the incremental specific provision will be lower than the long 
+term loan loss estimate which is akin to expected losses. The total provisions required during 
+a year under the model viz., dynamic and specific works out to long term loan loss estimate. 
+Under the FSA model, the flow of dynamic provisions is calculated using the stock of loans 
+outstanding at the beginning of each year and is set as under: 
+Dynamic  provisions  (to  be  made  during  the  year)  =  Long  term  loan  loss  estimate 
+– Incremental specific provisions ---- (3) 
+I have taken the following example from the RBI’s discussion paper: 
+BIS central bankers’ speeches 
+ 5 
+Key assumptions in the example are: 
+i. 
+ii. 
+Ten-year economic cycle, 
+An average long-run loss rate of 0.8% of loans, an unchanged mix of loans within 
+the portfolio, and 
+An average risk weight of 60% for the loans. It is also assumed that, mainly through 
+the application of a variable scalar approach to Probability of Default (PDs), this risk 
+weight does not itself vary with the cycle. 
+iii. 
+The example starts with a loan book of Rs. 100 during the downturn, but before a dynamic 
+provisioning approach has been implemented. In the early years, the dynamic provisioning 
+reserve has no impact. Because it had not been set up in the good part of the cycle, prior to 
+the downturn, there is no balance that may be run down in those years when actual credit 
+losses exceed the long-run average. 
+As the economy reverts to more normal conditions, growth starts to return and credit losses 
+fall.  During  years  4  to  9  the  latter  are  less  than  the  long  run  average,  and  this  allows  a 
+dynamic provisioning reserve to be built up. This can then be automatically reduced in years 
+11 and 12 in order to provide substantial coverage of the above average losses of the next 
+downturn. 
+The example shows how a dynamic approach would operate to build up a buffer in the good 
+part  of  the  cycle,  and  which  could  then  be  used  up  when  the  downturn  materializes.  It  is 
+based  upon  the  existing  Spanish  approach;  however,  there  is  no  separate  alpha  factor 
+covering growth in the stock of loans. 
+6 
+ BIS central bankers’ speeches 
+The Peruvian model 
+Some South American countries have also introduced dynamic provisioning, the notable one 
+is Peru. Peru has introduced cyclical provisioning in the form of general provisions, linked to 
+the rate of growth of GDP. When GDP growth exceeds a certain threshold rate (i.e., booming 
+period),  the  cyclical  provisioning  is  activated;  and  when  GDP  growth  rate  falls  below  a 
+threshold level, cyclical provisioning is deactivated. It is assumed that GDP growth precedes 
+credit growth and GDP is a better systemic growth indicator than credit. 
+Proposed Indian framework 
+Let me now come to the need for introduction of a dynamic provisioning framework in India 
+and the theoretical model suggested in the discussion paper of March 2012. 
+Although  RBI  has  been  following  a  policy  of  countercyclical  variation  of  standard  asset 
+provisioning  rates  based  on  available  data  and  judgement,  the  current  provisioning 
+framework does not have any inbuilt countercyclical or cycle smoothening element based on 
+an  analysis  of  credit  cycles  and  loss  history.  The  need  for  introducing  a  countercyclical 
+provisioning  framework  was  long  recognized  by  RBI.  However,  the  lessons  from  global 
+financial  crisis further  strengthened the  need  to introduce  such  a framework. In  December 
+2009, a minimum provisioning coverage ratio (PCR) was introduced by RBI to ensure build 
+up  of  provisioning  buffer  when  banks  in  general  were  making  good  profits.  However,  the 
+same was intended to be an interim measure till the time any comprehensive scientific study 
+based on credit history of our banks was attempted by RBI. 
+As  mentioned  above,  the  concept  of  dynamic  provisioning  generated  a  lot  of  interest from 
+supervisors world over as most of the Spanish banks remained profitable during the global 
+financial  crisis.  As  we  in  India  were  already  thinking  about  implementing  a  countercyclical 
+approach, dynamic provisioning as a concept came handy in starting further work in the area. 
+After studying various approaches of dynamic provisioning implemented by various countries 
+viz.  Spain,  Peru,  etc,  a  dynamic  provisioning  framework  was  designed  by  RBI  keeping  in 
+view the uniqueness of Indian banking system. Let me now briefly talk about the theoretical 
+model discussed by RBI in its discussion paper of March 2012. 
+Dynamic  provisioning  framework  in  India  is  more  or  less  based  on  the  FSA  model.  The 
+theoretical formula is as under: 
+Delta  dynamic  provisions  =  Expected  losses  –  incremental  specific  provisions  =  alpha  * 
+outstanding loans – incremental specific provisions ----- (4) 
+The  provisioning  framework  suggested  by  RBI  has  two  components  viz.  (i)  specific 
+provisions  and  (ii)  dynamic  provisions.  While  specific  provisions  would  be  as  per  the  RBI 
+guidelines  on  NPA  provisioning,  dynamic  provisions  would  be  the  difference  between  the 
+long  run  average  expected  loss  of  the  portfolio  for  one  year  and  specific  provisions  made 
+during the year. Thus, this will ensure that every year the charge to profit and loss account 
+on account of specific provisions and dynamic provisions  is maintained  at a level of alpha 
+times outstanding loans i.e., expected losses. 
+As is observed from above, dynamic provisions are created only when the specific provisions 
+are lesser than the expected losses. The framework thus ensures that at any point of time, 
+provisioning  equivalent  to  expected  losses  should  be  made.  Thus,  the  objective  of  the 
+dynamic provisioning framework is to smoothen the impact of incurred losses on the profit 
+and  loss  account  through  the  cycle,  and  not  to  provide  general  provisioning  cushion  for 
+expected losses. That is the essence of Indian dynamic provision framework. 
+Let  me  now  discuss  some  of  the  important  aspects  relating  to the  proposed framework of 
+dynamic provisioning. Although these are still being reviewed in light of the suggestions and 
+feedback received from banks, I will briefly touch upon some of the important aspects of the 
+framework: 
+BIS central bankers’ speeches 
+ 7 
+Loss given default (LGD) used in the calculation of expected loss is based on downturn LGD 
+(instead of normal LGD) as used in the internal ratings-based approach for credit risk (IRB) 
+of Basel II. However, this was moderated by putting a cap on this. In India, we have not really 
+seen  a  severe  downturn/cycle.  The  parameters  calibrated  by  us  are  based  on  a  data  of 
+5–10 years.  Calibration  of  loss  parameters  based  on  say  10  years  of  data  may  not 
+adequately reflect the severity of probable losses which may occur if there is a downturn in 
+the  current  cycle.  In  order  to  make  a  sound  estimation,  the  actual  loss  data  of  at  least 
+2–3 cycles, say 20–25 years is generally required. Therefore, there is risk in calibrating the 
+dynamic provisioning rates based on average loss rate of just 10 years, and a reasonable 
+element of conservatism is required to be added to the calibration. It was therefore felt that 
+the downturn LGD rates based on the data for last 10 years could be a good measure of the 
+required  conservatism.  However,  to  ensure  that  banks  are  not  unnecessarily  burdened,  a 
+cap is put in place. 
+When the dynamic provisioning framework is first implemented, banks will transfer the entire 
+amount of general provisions and floating provisions to the balance of dynamic provisions. 
+Thereafter,  dynamic  provisions  will  grow  with  an  amount  equal  to  the  difference  between 
+expected losses and specific provisions made during the year. 
+For  the  purpose  of  determining  the  provisions  that  may  be  counted  towards  capital,  in 
+addition to calculation of dynamic provisions based on downturn LGD, banks would also be 
+required  to  compute  dynamic  provisions  based  on  normal  LGD  on  notional  basis.  The 
+difference  between  the  two  would  be  treated  as  general  provisions  counting  towards 
+Tier 2 capital, while dynamic provisions based on normal LGD would be treated as specific 
+provisions. 
+In order to ensure that banks do not draw down from dynamic provisions to absorb higher 
+losses  due  to  their  own  credit  appraisal  and  credit  supervision  weaknesses  and  deplete  it 
+before  the  slowdown  occurs,  its  draw  down  is  proposed  to  be  allowed  specifically  by  RBI 
+based on evidence of a slowdown. A suitable framework for release of dynamic provisions 
+will be formulated by RBI. 
+In times when dynamic provisions have not been released by RBI, banks will not be allowed 
+to dip into dynamic provisions if their profitability is not sufficient to accommodate the specific 
+provisions. 
+Methodology adopted for calibration of alpha (expected losses) 
+Expected losses over next one year was calculated using Basel II IRB formula i.e., PD*LGD. 
+Movement  of  NPA  data  over  5–10  years  was  used  to  calibrate  PD  and  LGD.  Alpha  was 
+calculated on a system wide basis for all the banks as well as for four asset classes, viz., 
+Housing,  Retail,  Corporates  (other  than  Infrastructure  and  SME)  and  Others  based  on  a 
+sample of 9 banks comprising 32.53% of gross advances of scheduled commercial banks as 
+on March 31, 2010. 
+Impact of the proposed framework 
+While  the  impact  of  the  proposed  framework  on  individual  banks  was  not  assessed,  on 
+system  wide  basis,  the  provisioning  charge  on  profit  and  loss  account  stood  at  1.37%  of 
+gross advances annually. From the system-wide data collected at RBI, the average annual 
+charge  on  profit  and  loss  account  on  account  of  standard  asset  provision  and  specified 
+provisions  (including  write  offs)  over  the  8  year  period  (from  2003  to  2010)  amounted  to 
+1.04% of gross advances. The additional charge is mainly attributed to calibration of alpha 
+based on downturn LGD. 
+8 
+ BIS central bankers’ speeches 
+Issues 
+Some of the issues worth debating and considering while implementing dynamic provisioning 
+are the following: 
+Data challenges 
+For the calibration of alpha, apart from the “bank as a whole” data, data was called from all 
+the banks in respect of 8 segments viz. Infrastructure, Commercial Real Estate (CRE), Small 
+and Medium Enterprises (SME), Other Corporate, Retail, Housing, Credit cards and Others. 
+However, useful data for the purpose of this study could be submitted only by 9 banks for 
+Retail,  Housing  and  Other  Corporate  (corporate  excluding  infrastructure,  SME  and  CRE). 
+Due to this, the study was limited to Retail, Housing, Other Corporate (corporates excluding 
+infrastructure, SME and CRE) and Others (which was a residual category). 
+Ideally,  alpha  (expected  loss)  should  be  calculated  for  different  loan  segments  which  may 
+exhibit  different  levels  of  riskiness  and  thus  warrant  a  higher  provisioning.  Calibration  of 
+alpha should be based on forward-looking through-the-cycle probability of default of various 
+asset  classes/rating  classes  and  should  be  based  on  the  credit  history  of  individual  banks 
+and reflect their own credit risk profile. However, it is not possible for all banks to have alpha 
+calibrated based on their individual credit histories at this stage as the requisite data is not 
+captured  by  them.  Further,  system-level  alpha  could  not  be  calculated  at  this  stage  for  all 
+important segments requiring a separate alpha factor owing to the data issue. However, to 
+ensure  improved  calibration,  the  discussion  paper  proposes  to  increase  the  number  of 
+segments apart from increasing the number of years of data and size of the sample in due 
+course. 
+Calibration of parameters 
+Requiring  banks  to  make  provisioning  based  on  standardized  parameters  calculated  on 
+system wide basis may penalize some banks which manage their credit portfolio in a better 
+manner  and  has  the  risk  of  under-provisioning  in  case  of  riskier  banks  having  poor  credit 
+portfolio.  However,  this  may  be  addressed  by  requiring  banks  to  gradually  move  over  to 
+calculation of alpha based on their own credit history. 
+Timing of implementation 
+It is argued that dynamic provisioning should be implemented in an upturn so that the same 
+can  ensure  build  up  of  some  cushion  which  may  be  used  during  a  downturn. With  Indian 
+economy and banking system experiencing some asset quality stress presently, a conscious 
+call will be taken to implement dynamic provisioning at this stage of cycle. 
+Lending cycle effect 
+A dynamic provisioning system is usually designed using information on credit losses over 
+the previous lending cycle. But there is no guarantee that a system designed in this way will 
+be enough to cope with all the credit losses of the next downturn. Even in Spain, where the 
+period used for the calibration included the worst recession in 40 years, it is not clear that the 
+system will be enough to cover all credit losses. 
+Profit smoothing 
+There  is  widespread  criticism  that  the  dynamic  provisions  disguises  crucial  information  by 
+lumping  together  provisioning  costs  for  incurred  and  expected  losses  in  the  income 
+statement  and  is  therefore  counter  to  the  objective  of  ensuring  availability  of  timely  and 
+reliable  information  on  bank  performance.  This  can,  however,  be  overcome  by  adequate 
+disclosures about the extent of both specific and dynamic provisions. Such disclosures signal 
+to the users of financial statements the differences between dynamic provisions representing 
+BIS central bankers’ speeches 
+ 9 
+loss  expectations  based  on  historical  data  and  specific  provisions  for  losses  actually 
+identified in the loan portfolio. 
+Interaction with the accounting standards 
+One  question  which  will  invariably  arise  on  implementing  dynamic  provisions  would  be 
+whether the concept is in accordance with the international accounting standards? Thus far, 
+the answer is negative since the concept of dynamic provisions deviates from the principle of 
+incurred losses as followed currently in accounting. However, in the wake of the crisis, the 
+two major global standard setters the IASB and the FASB have agreed in principle that the 
+incurred loss model has its limitations and needs to be replaced by an expected loss model. 
+The “trigger events” that is required for loans to be written down under the current incurred 
+loss model of IAS 39 is proposed to be replaced by a forward looking expected loss based 
+provisioning approach in the new IFRS 9 which is set to replace IAS 39. 
+As per the current update on IFRS 9, it is proposed that in implementing an expected loss 
+model, entities shall take into account information about past loss events, current conditions 
+and reasonable forecasts of economic conditions and future events. It is therefore doubtful 
+whether the dynamic provisioning system will fully be in accordance with the principles in the 
+forthcoming IFRS 9 since it is exclusively based on historical loss experience. We need to 
+carefully  watch the developments on the accounting front to figure out how to dovetail the 
+dynamic provisioning concept with the accounting principles. However, the progress made by 
+IASB and FASB in developing an expected loss based provisioning standard is very slow. 
+Why Spanish banks face problem now? 
+The  Spanish  banking  system  was  credited  as  one  of  the  most  equipped  among  western 
+economies to cope up with the global financial crisis and was appreciated for its conservative 
+and  prudent  banking  rules  –  specially  the  dynamic  provisioning  which  was  seen  in  policy 
+making circles as a model for the rest of the world. However, the crisis presently faced by the 
+banking system in Spain mainly due to the real estate bubble that burst in 2007 has become 
+the focal  point  of  interest for  supervisors  and  regulators.  Apprehensions  have  been  raised 
+about whether Spanish banks actually faced the crisis or they merely postponed their losses, 
+making it even worse for the banking sector. 
+It is now apparent that banks in Spain were not reporting all their losses. This thinking was 
+given  a  boost  when  Bankia, the  largest mortgage  lender  of  Spain, revised  its  earnings for 
+2011 from €309 million profit to €4.3 billion loss. There were newspaper reports stating that 
+by exploiting the terms such as dynamic provisioning which became a euphemism for an old 
+accounting  trick  called  cookie  jar  accounting,  Spanish  banks  understated  past  profits,  and 
+shifted them to later periods to mask future losses. Spanish banks claimed to have excess 
+reserves long after they were depleted and in effect there was profit smoothing and earnings 
+management, which made banks look healthy when they were in fact, quite the opposite. 
+The  Spanish  case  exemplifies  the  limitations  of  any  provisioning  framework  in  preventing 
+exuberance in bank lending to inherently risky sectors of the economy. Economic cycles can 
+be  too  powerful  to  negate  the  impact  of  prudential  rules  to  some  extent  if  there  is  serial 
+underestimation of risks. While partial recognition of loan losses can buy some time in the 
+short run, in the long run it leads to more problems due to loss of credibility. With specific 
+reference to Spain again, the loan loss reserves proved insufficient for the housing collapse. 
+In 2004, the Spanish Central Bank put a cap of 125% on the general provisions reportedly 
+under pressure from banks. Also, the floor of 33% placed in 2004 was later removed. From 
+that time onwards, Spanish bank lending which was already growing at 14 per cent annually 
+went into a further boom, growing over 25% in 2005 and 2006. The reserves naturally proved 
+insufficient when crisis struck. This further strengthens the belief that economic cycles which 
+are  harsher  and  deeper  than  previous  ones  can  wipe  out  the  provisions  based  on  earlier 
+cycles. 
+10 
+ BIS central bankers’ speeches 
+It should be noted that dynamic provisions are no panacea for all ills plaguing the financial 
+system.  It  needs  to  be  accompanied  by  other  macro-prudential  tools  aimed  at  mitigating 
+pro-cyclicality and systemic risks. Further, while calibrating a dynamic provisioning system, 
+care needs to be taken to maintain countercyclical reserves in line with expected losses so 
+as to avoid both insufficient buffers and excessive provision coverage. There is no guarantee 
+that dynamic provisions will be enough to cope with all the credit losses of a downturn if the 
+cycle turns out to be deeper than anticipated. 
+Conclusion 
+The  crisis  experienced  by  Spain  cannot  dilute  the  efficacy  of  the  concept  of  dynamic 
+provisioning.  Dynamic  provisioning  is  a  tool  that  certainly  deserves  attention  from  policy 
+makers and regulators for it distributes the loan losses evenly over the credit cycle and so 
+applies  the  breaks  on  an  important  source  of  pro-cyclicality  in  banking.  No  prudential 
+rules/regulations can help save a banking system if there is failure of corporate governance. 
+To avoid the pitfalls observed in the Spanish model, RBI has preferred to take downturn LGD 
+in calibrating expected losses or alpha. This is a prudent approach. 
+Let  me  now  conclude.  We  discussed  about  the  need  for  provisioning;  drawbacks  of  an 
+incurred loss based provisioning model; post-crisis, the need for countercyclical provisioning 
+tools  based  on  expected  losses;  the  underlying  concepts  and  principles  of  dynamic 
+provisioning; the framework as implemented in Spain; and the proposed framework in India; 
+issues in implementation and the lessons from the recent crisis in Spain. 
+Dynamic or expected loan loss provisioning can contribute to financial stability by recognizing 
+the  losses  early  in  the  cycle  at  the  time  of  loan  origination  by  building  up  buffers  in  good 
+times that can be used in bad times, thereby limiting the consequences during a downturn. 
+While there is no guarantee that dynamic provisions will be enough to cope with all the credit 
+losses of a downturn and therefore may not tame credit cycles by itself, the time has come 
+for  forward  looking  provisions  which  when  properly  calibrated  can  act  as  a  dependable 
+macro-prudential policy instrument, to hedge against risks in banks’ balance sheets thereby 
+enhancing the resilience of both individual banks as well as banking system as a whole. 
+BIS central bankers’ speeches 
+ 11 

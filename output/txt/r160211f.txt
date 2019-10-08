@@ -1,0 +1,325 @@
+  Peter Praet: The European Central Bank and its role as lender of last 
+resort during the crisis 
+Speech by Mr Peter Praet, Member of the Executive Board of the European Central Bank, at 
+“The  Lender  of  Last  Resort:  An International  Perspective”,  a  conference  sponsored  by  the 
+Committee on Capital Markets Regulation, Washington DC, 10 February 2016. 
+ Accompanying charts can be found at the end of the speech or on the European Central Bank’s website. 
+I am grateful for the assistance of F. Hammermann, S. Holton and J. Hutchinson. 
+Introduction 
+Ladies and gentlemen, 
+Since tensions emerged in the interbank market in August 2007, central banks have been at 
+the  forefront  –  and  centre  –  of  the  response  to  the  financial  crisis.  Such  prominence  is 
+directly  linked  to  their  ability  to  create  liquidity  for  the  entire  financial  system  as  well  as 
+solvent individual banks experiencing funding difficulties and to a central bank’s function as 
+lender of last resort (LOLR). This distinctive role was first identified more than two centuries 
+ago by Henry Thornton (1802) and elaborated on 70 years later by Walter Bagehot (1873). 
+According to their dictum, central banks should lend freely to solvent but illiquid firms against 
+good  collateral,  at  a  high  rate  of  interest  (Tucker,  2014). While  much  has  changed  in  the 
+intervening period, these overarching principles have influenced central banks ever since. 
+In responding to the worst financial crisis in a century, the European Central Bank faced two 
+challenges  which  we  tried  to  address  with  two  different  approaches to  our  LOLR function. 
+First, we had to deal with a system-wide liquidity shock of unprecedented magnitude which, if 
+left  unattended,  would  have  developed  into  a  liquidity  crunch  and,  later,  a  disorderly 
+contraction of the stock of broad money and nominal income. We addressed this formidable 
+stress  by  resorting  to  what  I  will  term  the  “monetary  approach”  to  LOLR.  In  this  way,  we 
+sought to deter a contraction in the stock of bank-created money and to compensate for a 
+decline in its velocity of circulation, which could otherwise have provoked a more severe fall 
+in spending, employment and prices than what was observed in reality. 
+Second,  and  in  parallel,  we  kept  intervening  in  support  of  particularly  acute  idiosyncratic 
+liquidity  strains  faced  by  individual  solvent  credit  institutions  (or  groups  thereof)  under  the 
+“credit  approach”  to  LOLR,  which  is  embedded  in  the  Eurosystem’s  emergency  liquidity 
+assistance (ELA) – a responsibility of the national central banks. 
+In my remarks today, I would like to provide a brief overview of the ECB’s standard liquidity 
+provision  framework  before  discussing  our  policy  response  to  the  crisis  and  the  rationale 
+behind our decisions. 
+Monetary policy operations and the lender of last resort function in the pre-crisis 
+years 
+In the euro area, the vast majority of firms and households meet their financing needs via 
+direct bank intermediation, reflecting the fact that market financing and securitisation are less 
+developed than in other major jurisdictions. As a result, the euro area banking system lies at 
+the heart of the conduct of our monetary policy. In the pre-crisis period the ECB’s conduct of 
+monetary  policy  was  founded  on  temporary  credit  operations  in  the  form  of  repurchase 
+agreements, or repos, with over 1,500 eligible monetary financial institutions (MFIs). 
+When implementing monetary policy via repos, the ECB’s Governing Council decides on two 
+parameters.  First,  the  desired  degree  of  monetary  stimulus,  as  reflected  in  the  short-term 
+BIS central bankers’ speeches 
+ 1 
+  interest rate that is charged under the main refinancing operations (MROs) and, second, the 
+expected aggregate demand for liquidity in the market. By calibrating the amount of liquidity 
+to  be  auctioned  in  the  MROs  so  that  it  was  just  enough  to  meet  the  system’s  expected 
+demand for cash balances at the intended main refinancing rate (MRO rate), the ECB could 
+steer the market rate for overnight liquidity close to the MRO rate during the pre-crisis period. 
+Indeed,  in  that  era,  our  prime  overnight  market  rate,  the  euro  overnight  index  average 
+(EONIA), was fluctuating closely around the MRO rate. 
+The  MRO  is  complemented  by  the  two  standing  facilities  which  form  the  monetary  policy 
+corridor.  The  corridor’s  floor  is  the  deposit  facility,  where  banks  can  place  overnight  their 
+reserves in excess of reserve requirements and other liquidity needs and earn interest at a 
+(pre-set) rate lower than the MRO rate. The corridor’s ceiling is the marginal lending facility, 
+where banks can receive overnight liquidity at an interest rate (also pre-set) above the MRO 
+rate.  This  marginal  lending  facility  has  a  dual  function:  it  acts  as  a  “built-in”  lender  of  last 
+resort for shortfalls in overnight liquidity. But, at the same time, its role in the overall policy 
+framework is broader, as it serves as the backstop for fluctuations in overnight money market 
+conditions.  It  is  because  of  this  latter  function  in  the  settings  of  the  stance  that  the 
+responsibility  for  marginal  lending  is  shared,  as  a  Eurosystem  facility,  among  all  national 
+central banks (NCBs) of the euro area and the ECB. 
+Euro  area  credit  institutions  can  receive  central  bank  credit  not  only  through  Eurosystem 
+monetary policy operations but, exceptionally, also through ELA. Cases in point are banks 
+which have run out of collateral considered as eligible under our monetary policy framework 
+or whose counterparty status has been suspended on the grounds of prudence. Technically, 
+emergency  liquidity  assistance  is  activated  when  a  Eurosystem  national  central  bank 
+provides  central  bank  money  and/or  any  other  assistance  that  may  lead  to  an  increase  in 
+central  bank  money  to  a  financial  institution  or  a  group  of  financial  institutions  outside 
+monetary policy operations. Unlike the marginal lending facility, liquidity provision via ELA is 
+at the discretion of the providing NCB and this is why I refer to ELA as embedding the credit 
+approach to LOLR. The main responsibility for the provision of ELA lies at the national level, 
+i.e. with the NCBs concerned. This means that any costs and risks arising from the provision 
+of  ELA  are  incurred  by  the  relevant  NCBs.  Nevertheless,  in  order  to  ensure  that  ELA 
+operations  do  not  interfere  with  the  single  monetary  policy,  the  ECB’s  Governing  Council 
+may object to or restrict the provision of ELA, in line with the Statute of the European System 
+of  Central  Banks  and  of  the  European  Central  Bank  and  the  NCB  concerned  and  the 
+institutions receiving ELA are subject to a special information-sharing framework. 
+Furthermore,  ELA  provision  is  monitored  for  compliance  with  the  prohibition  on  monetary 
+financing  which  applies  to  the  Eurosystem  –  and,  in  fact,  to  all  the  central  banks  of  EU 
+Member  States  –  and  is  laid  down  in  the  Treaty.  More  specifically,  the  Treaty  stipulations 
+pertaining  to  the  prohibition  of  monetary  financing  ban  any  ELA  transactions  akin  to  an 
+overdraft facility or any other type of credit facility for a Member State, and any financing of 
+the public sector’s obligations vis-à-vis third parties, or any cases in which, through ELA, the 
+central  bank  de  facto  takes  over  a  state  task.  Moreover,  ELA  provision  is  prohibited  for 
+insolvent  institutions  and  institutions  for  which  insolvency  proceedings  have  been  initiated 
+according to national laws. 
+In the context of this institutional set-up with many safeguards, the provision of ELA has a 
+broader scope than monetary policy operations. First, ELA is not limited to monetary policy 
+counterparties,  but  is  available  to  a  broader  set  of  credit  institutions,  provided  they  are 
+solvent.  The  wider  focus  takes  into  account  the  fact  that  financial  institutions  outside  the 
+narrow  realm  of  our  eligible  counterparties  can  run  into  temporary  liquidity  shortages  that 
+could challenge financial stability. Second, the set of assets accepted as collateral for ELA 
+purposes  is  wider  than  the  one  required  for  Eurosystem  monetary  policy  operations. 
+Therefore, the cost of liquidity drawn under ELA is also higher than the marginal lending rate. 
+2 
+ BIS central bankers’ speeches 
+  The ECB’s response to the crisis 
+As  the  crisis  unfolded, our  approach  to the  LOLR  function  evolved  in  parallel.  Three main 
+phases can be identified. 
+The first and second phases of the crisis: system-wide liquidity strains 
+The first and early phase was the immediate post-Lehman Brothers liquidity crisis. Not unlike 
+in  other  advanced  economies,  the financial  trauma  that followed  the  demise  of  one  of  the 
+largest  global  investment  banks  created  anxiety  about  the  magnitude  of  European  banks’ 
+exposure  to  subprime  products  of  uncertain  quality.  This  prompted  a  sudden  stop  in  the 
+availability  of  money  market  funding  for  many  credit  institutions  in  the  euro  area  and  a 
+systemic  rush  to  cash.  As  interbank  markets  seized  up,  the  strains  were  diffused  with 
+virtually no region or sector being spared. 
+The  second  phase  of  the  crisis  came  as  a  consequence  of  a  much  more  targeted  and 
+disruptive loss of confidence: the sovereign debt crisis. This was special to Europe; it brought 
+on  the  development  of  redenomination  risk  and  thereby  threatened  the  integrity  of  our 
+currency.  Banks’  exposures  to  selected  governments  came  under  intense  market  scrutiny 
+and entire national banking systems lost access to wholesale funding. 
+Note that during both the first and the second phase, banks faced an urgent need to replace 
+a source of market funding that had suddenly become unavailable – primarily an impaired 
+access  to  money  market  borrowing  in  the  post-Lehman  phase  and  the  impossibility  to  roll 
+over  maturing  bank  bonds  during  the  debt  crisis.  In  both  episodes,  however,  the  original 
+source of stress was investors’ distrust in the quality of banks’ exposures – to the private and 
+the public sectors. Our role was the same in both phases, namely to create new reserves, on 
+demand, for cash-stripped banks with viable business models, and thus to help these banks 
+go through an emergency liability substitution operation without being forced to make large-
+scale fire sales of assets that would lead to insolvency. 
+Concretely,  for  the  Eurosystem  this  meant  abandoning  its  conventional  framework  for 
+liquidity provision. We discontinued the practice to auction a pre-set quantity of liquidity and 
+moved instead to an unlimited allotment of funds at a fixed rate. The tenors of our longer-
+term refinancing operations were extended from the pre-crisis standard of three months to 
+six months in 2008 and to three years in 2011. We also expanded the universe of eligible 
+collateral. 
+In essence, we adopted a genuinely classical approach to our LOLR responsibilities. 
+This approach can be described by using the classical equation of exchange: B*m*V = P*Y. 
+This simple equation states that base money (B) times the money multiplier (m) times broad 
+money  velocity  (V)  –  or  the  turnover  rate  of  the  broad  money  supply  –  is  always  equal  to 
+nominal income, i.e. the price level (P) times real output (Y). The central bank is concerned 
+with  preserving  price  stability  and  supporting  the  economy,  but  it  can  do  so  only  very 
+indirectly  and  imprecisely  by  controlling  base  money,  i.e.  the  sum  of  currency  and  bank 
+reserves. Therefore, in keeping with the monetary approach to LOLR, base money should be 
+expanded  sufficiently  aggressively  with  two  intermediate  objectives  and  one  ultimate 
+objective  in  mind.  The  intermediate  objectives  are:  compensate  for  the  fall  in  the  money 
+multiplier – and the decline in broad money velocity. The ultimate objective is to prevent the 
+possibility  of  a  collapse  in  broad  money  leading  to  a  downward  adjustment  in  nominal 
+income. 
+Why do the money multiplier and broad money velocity tend to fall during confidence crises? 
+The money multiplier is a complex function of the public’s preferred ratio of currency holdings 
+to  deposits  and  of  banks’  desired  ratio  of  reserves  to  deposits.  Increases  in  uncertainty 
+during times of crisis can impact on the behaviour of banks and the money-holding sector, 
+leading to changes in these ratios, as banks prefer to hold larger reserves with the central 
+bank  as  perceptions  of  counterparty  risk  increase,  and  –  in  the  most  severe  episodes 
+BIS central bankers’ speeches 
+ 3 
+  featuring bank runs – the public may try to convert bank deposits into currency. All of this 
+alters the association between base money and broad money and increases the quantity of 
+base  money  that  the  system  demands  in  order  to  hold  a  given  amount  of  broad  money. 
+Turning  to  velocity,  crisis-induced  uncertainty  can  also  lead  to  a  decrease  in  velocity  as 
+people prefer to hoard broad money as a precautionary measure to prepare for difficult days 
+and reduce spending. Because velocity has a tendency to fall in tandem with the multiplier, in 
+episodes  of  financial  dislocation  the  central  bank  has  one  more  reason  to  increase  base 
+money in order to keep nominal income from falling. 
+This  is  in  essence  what  we  did  over  the  first  two  phases  of  the  crisis.  During  this  period 
+(2008–12), the volume of base money was endogenously determined by banks’ demand for 
+it, which was accommodated fully by the Eurosystem, the only restriction being availability of 
+eligible  collateral.  This  can  be  seen  by  comparing  Chart  1  and  Chart  2.  As  the  multiplier 
+started to fall early on, the money base expanded strongly and this cushioned pressures on 
+M3 which could have accentuated its trend deceleration (Chart 1). Even more evidently, as 
+the  debt  crisis  reached  its  climax  in  mid-2012,  and  banks  started  to  pay  down  the  bonds 
+which  the  market  was  refusing  to  roll  over  using  newly  borrowed  Eurosystem  funds,  the 
+sharp expansion in base money permitted banks to keep the broad money stock from falling. 
+Chart 2 shows a disaggregation of broad money growth by counterparts: in other words, it 
+documents the items on banks’ balance sheets which account for and offset the expansion of 
+M3.  It  is  clear  that,  starting  in  2012,  the  possibility  offered  to  banks  to  redeem  maturing 
+bonds with base money and thus pay them off with newly created deposits (dark green bars) 
+provided critical support for M3 expansion. 
+The  extraordinary  injection  of fresh  liquidity  into  the  system  had  a  profound  impact  on  the 
+Eurosystem’s balance sheet. With hindsight, it proved very successful in building a firewall 
+against  financial  contagion  and  a  further  decimation  of  value.  Banks  could  refinance 
+themselves  in  the  aggregate,  preserving  a  level  of  intermediation  which  could  bridge  the 
+economy  through  a  sharp  contraction  and  avoid  a  more  severe  degradation  of  confidence 
+and macroeconomic stability.1 
+The third phase: addressing a new round of deleveraging 
+However, as the macroeconomic contraction morphed into a prolonged slump, banks in large 
+parts of the euro area finally started to engage in a drawn-out process of downsizing their 
+exposures and de-risking their operations. In those countries most severely hit by the debt 
+crisis, the risk-adjusted returns on loans had declined to the point where banks had a strong 
+incentive to redeem loans and deleverage. The crisis had evolved into its third stage: a stage 
+characterised  by  a  chronic  malfunctioning  of  bank-based  transmission,  growing  signs  of  a 
+credit crunch and a rising risk that the dearth of credit and finance for households and firms 
+would feed back into consumption and investment, thereby magnifying the chance that the 
+economy might be trapped in a deflationary spiral. 
+As  banks  were  actively  deleveraging,  their  funding  conditions  were  normalising  too,  and 
+liquidity ratios were being restored. In fact, as the debt runs of 2011 and early 2012 faded, 
+banks  were  eager  to  accelerate  reimbursement  of  central  bank  credit  as  the  pressure  to 
+                                                
+1  Critical as they were in preventing a deeper cataclysm, liquidity operations were only one set of tools deployed 
+within a more encompassing crisis control strategy. The Outright Monetary Transaction (OMT) initiative was 
+another  major  plank  of  that  strategy  which  proved  key  to  the  resolution  of  the  debt  crisis.  As  markets  lost 
+confidence in the capacity of certain euro area countries to refinance their public debt, it was imperative that 
+the  guardian  of  the  currency  ward  off  any  unwarranted  tail  risk  threatening  the  dissolution  of  the  currency 
+union.  OMT  was  a  clear  commitment  to  eliminate  the  redenomination  risk  premia  from  the  price  of  the 
+securities issued by stressed jurisdictions on the condition that those economies undergo economic reforms 
+and  fiscal  adjustment.  The  announcement  of  OMT  had  an  extraordinary  effect  and  proved  to  be  a  potent 
+circuit-breaker by successfully truncating the most extreme tail of the distribution of possible macroeconomic 
+outcomes and, as a result, financial stability was restored. 
+4 
+ BIS central bankers’ speeches 
+  refinance  a  leaner  balance  sheet  had  diminished  and  they  viewed  less  dependency  on 
+official  borrowing  as  a  way  to  project  a  positive  image  of  financial  health  to  their  investor 
+base.  Along  this  process  of  retrenchment,  borrowing  conditions  were  being  tightened  at 
+precisely the time when the economy needed support. 
+Under these conditions, the ECB had to resort to a different strategy, one which would shift 
+focus  from  banks’  liabilities  to  banks’  assets.  Inducing  banks  to  arrest  and  reverse  asset 
+redemptions  and  keep  credit  flowing  to  the  real  economy  became  our  policy  priority.  We 
+introduced  three  new  instruments:  a  series  of  targeted  longer-term  refinancing  operations 
+(TLTROs), a negative interest rate policy, and an asset purchase programme which included 
+both private and public sector securities. The TLTROs are a sequence of eight refinancing 
+operations  offering  banks  long-term  refinancing  (of  up  to  four  years)  on  the  condition  that 
+they  use  the  funds  to  expand  lending.  Indeed,  banks  have  responded  to  the  targeting 
+incentives embedded in the new facility by reducing lending rates and increasing their loan 
+supply. The asset purchase programme, together with a negative rate on excess reserves, 
+quickens  the  pace  at  which  banks  and  other  lenders  are  resuming  providing  credit  to  the 
+economy  at  more  favourable  conditions.  Lower  term  spreads  on  public  sector  securities 
+encourage a shift in the composition of banks’ portfolios towards other types of exposure with 
+a  higher  risk-adjusted  return,  which  primarily  includes  loans.  The  negative  interest  rate  on 
+reserves discourages liquidity hoarding and speeds up the process of asset reallocation. 
+With the start of the third phase of the crisis, the monetary approach to LOLR had reached its 
+limits. Importing LOLR elements into the conduct of monetary policy had been a critical and 
+far-sighted decision in a phase when the primary purpose was assisting banks in an orderly 
+exercise of liability substitution. But when our priorities shifted towards the need to re-engage 
+banks  in  active  credit  intermediation,  those  elements  lost  traction.  The  non-discretionary, 
+passive generation of liquidity which is characteristic of systemic LOLR operations had to be 
+replaced by a more active strategy of control over the size and composition of our balance 
+sheet. 
+The credit approach 
+Throughout this whole period, in each of its three phases, the credit approach to LOLR has 
+remained in place. National central banks have continued to assist banks that are unable to 
+take  part  in  standard  Eurosystem  monetary  policy  operations  by  exercising  their  LOLR 
+function  under  ELA.  But  the  credit  approach  to  LOLR  that  is  embedded  in  ELA  has  not 
+remained static over the crisis period. 
+During the early phase of the crisis, ELA support was limited to individual banks. Its original 
+construction,  which  foresees  that  funds  be  provided  on  a  discretionary  basis  –  not 
+automatically – and be conditional on the Governing Council’s judgement that ELA extension 
+does  not  interfere  with  the  determination  of  the  monetary  policy  stance,  was  preserved. 
+Discretion  and  conditionality  on  the  Eurosystem’s  non-objection  are  safeguards  against 
+moral hazard. 
+But as the crisis intensified, and a number of euro area countries became the target of debt 
+runs and exhausted their fiscal capacity, entire national banking sectors were deprived of the 
+natural port of call which in other circumstances would have acted as a provider of solvency 
+support: their  national fiscal  authority.  Very  often, these  countries  had to  have  recourse  to 
+multilateral financial assistance programmes which – while replacing the local fiscal authority 
+as  the  ultimate  source  of  capital  support  –  placed  banks  under  an  enhanced  regime  of 
+supervisory scrutiny and imposed various forms of regulatory conditionality. 
+This situation led to two types of innovation in the governance of ELA interventions: first, the 
+duration  of  assistance  lengthened;  second,  the  scope  of  assistance  broadened  from 
+individual  institutions  to  entire  banking  systems.  For  example,  in  Greece  last  year  the 
+combined lending of the ECB and the Bank of Greece to Greek banks reached 71% of the 
+country’s GDP. Most of this liquidity was provided via banks’ recourse to ELA. 
+BIS central bankers’ speeches 
+ 5 
+  This evolution  was proportional to the severity of the circumstances and has proven to be 
+effective. 
+In  the  case  of  Greece,  provision  of  ELA  was  certainly  necessary  in  order  to  ensure  the 
+functioning of the Greek banking system and the continuation of lending to businesses and 
+households.  A  discontinuation  of  ELA  would  have  thrown  all  Greek  banks  into  default  and 
+would have forced the country to leave the currency union, a decision the Eurosystem could 
+not  have  taken  without  violating  the  Treaty.  ELA  provision  was  proportional  as  it  was 
+disciplined  and  justified  by  rules.  We  granted  ELA  for  as  long  as  the  Governing  Council 
+judged that prospects were favourable for a positive outcome to the negotiations between the 
+government of Greece and the European institutions. Its expansion was suspended when it 
+appeared that these conditions were no longer confirmed (Draghi, 2015). 
+Institutional challenges 
+The incomplete institutional construct of the euro area, especially the lack of an integrated 
+banking  system,  has  at  times  severely  complicated  the  management  of  the  crisis. 
+Fortunately, a great deal of progress has been made in this area in recent years, but it is 
+imperative that the banking union be completed, as well as the integration of the euro area 
+banking sector. 
+With the Single Supervisory Mechanism (SSM) now fully operational, we have a system of 
+supervision  that  is  less  liable  to  capture  or  forbearance.  And  the  Bank  Recovery  and 
+Resolution  Directive  (BRRD)  provides  a  harmonised  and  predictable  framework for  private 
+sector risk-sharing across the EU. 
+Financial  stability  considerations  are  a  key  driver  behind  the  new  regulatory  landscape. 
+Indeed, there are many instances where the framework acknowledges the need to strive for 
+exceptional  solutions  in  order  to  achieve  the  overall  goal  of  preserving  the  stability  of  the 
+entire  financial  system,  which  is  a  precondition  –  from  the  ECB’s  perspective  –  for 
+accomplishing its primary objective of price stability. For example, there is a financial stability 
+exception  from  the  general  rule  that  a  bank  which  needs  extraordinary  public  financial 
+support  is  deemed  to  be  failing  or  likely  to  fail  and  thus  has  to  be  either  resolved  or 
+liquidated.  The  EU  resolution  framework  explicitly  clarifies  that  the  need  for  emergency 
+liquidity assistance from a central bank, per se, does not necessarily trigger the resolution of 
+a bank, and it acknowledges the role of central banks in providing liquidity to the financial 
+system in times of stress.2 
+Euro area governments are also on the way to establishing a European public backstop for 
+the Single Resolution Mechanism. But significant further steps are still required to complete 
+banking union, including the establishment of a common deposit guarantee scheme. 
+A  complete  banking  union  would  have  beneficial  macroeconomic  effects,  but  it  would  also 
+have positive implications for the central bank’s function as lender of last resort. 
+Conclusion 
+Please allow me to conclude. 
+                                                
+2  See recitals 2 and 41 and Article 32(4)(d) of the BRRD. More specifically, access to liquidity facilities including 
+ELA  by  central banks  does  not  constitute  “state  aid”,  which  is prohibited  by  our  state  aid  framework,  if  the 
+following cumulative conditions are met: the credit institution is temporarily illiquid but solvent at the moment of 
+the liquidity provision, which occurs in exceptional circumstances and is not part of a larger aid package; the 
+facility  is  fully  secured  by  collateral  to  which  appropriate  haircuts  are  applied,  in  function  of  its  quality  and 
+market value; the central bank charges a penal interest rate to the beneficiary; the measure is taken at the 
+central bank’s own initiative, and in particular is not backed by any counter-guarantee of the state. 
+6 
+ BIS central bankers’ speeches 
+  The severity and nature of the financial crisis resulted in an extraordinary response by central 
+banks; one which was very much in the spirit of Thornton and Bagehot. 
+In  a  complex  and  incomplete  institutional  environment,  the  Eurosystem  has  been  able  to 
+adapt  its  set  of  interventions  by  using  all  the  flexibility  allowed  by  our  instruments  in  a 
+principled way to address both systemic and idiosyncratic liquidity problems. We will continue 
+to do so. And we will be supported to a greater extent than in the past by a more complete 
+and consistent institutional framework. 
+References 
+Bagehot, W., Lombard Street: a description of the money market, London: H. S. King, 1873. 
+Draghi, M., Speech at the Università Cattolica del Sacro Cuore, Milan, 5 November 2015. 
+Thornton,  H.,  An  enquiry  into  the  nature  and  effects  of  the  paper  credit  of  Great  Britain 
+(1802). 
+Tucker,  P.,  “The  lender  of  last  resort  and  modern  central  banking:  principles  and 
+reconstruction”, contribution to Re-thinking the lender of last resort, BIS Papers, No 79, 2014. 
+ 
+ 7 
+BIS central bankers’ speeches 
+ 

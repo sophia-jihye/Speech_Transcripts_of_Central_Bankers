@@ -1,0 +1,289 @@
+Benoît Cœuré: The implications of bail-in rules for bank activity and 
+stability 
+Opening  speech  by  Mr  Benoît  Cœuré,  Member  of  the  Executive  Board  of  the  European 
+Central Bank, at the conference on “Financing the recovery after the crisis – the roles of bank 
+profitability, stability and regulation”, Bocconi University, Milan, 30 September 2013. 
+ I  wish  to  thank  Paolo  Emilio Mistrulli  for his  contributions  to  these  remarks.  I  remain solely  responsible for the 
+opinions contained herein. 
+Ladies and Gentlemen, 
+I  would  like  to  thank  CAREFIN  and  the  Department  of  Finance  at  Università  Bocconi  for 
+inviting me to speak today in Milan. I would like to use this opportunity to focus on what is in 
+my  view  a  crucial  aspect  of  bank  stability,  namely,  the  existence  of  effective  resolution 
+mechanisms.  
+Excessive risk-taking by banks is at the origin of the financial crisis. One of the many factors 
+contributing to their risk-taking behaviour was the distorted incentive structure resulting from 
+the  lack  of  an  effective  resolution  mechanism.  Establishing  a  strong  approach  to  bank 
+resolution is an essential component of properly realigning incentives towards risk.  
+Why  is  this  the  case?  As  you  know,  bank  resolutions  are  often  costly,  complex  and  time-
+consuming,  in  particular  for  large  institutions.  Without  alternative  ways  to  restore  their 
+viability, governments have too often found themselves compelled to bail-out entities using 
+taxpayer money. This government support may be successful in avoiding financial contagion 
+within closely interconnected banking system. But the expectation of assistance via publicly 
+funded bailouts amplifies moral hazard, leading to excessive risk-taking.  
+Moreover,  in  the  euro  area  it  has  nurtured  what  became  the  nexus  of  the  crisis,  the  fatal 
+feedback  loop  between  bank  and  sovereign  creditworthiness.  So  these  are  already  two 
+reasons to rethink the allocation of losses in bank resolution. The former is general and the 
+latter is specific to the fragmented structure of the euro area. 
+A  third  reason,  which  I  will  not  discuss  here,  relates  to  the  political  economy  of  bank 
+resolution.  Even  if  it  were  efficient  for  financial  stability  reasons  to  let  taxpayers  bear  the 
+burden of losses in resolution, it would be unpalatable to them, and it would be unfair unless 
+they can exert effective control on the risk-taking behaviour of banks – which has not been 
+the case so far. 
+Existing bank resolution mechanisms are being overhauled in many countries following the 
+adoption  in  2011  of  the  Financial  Stability  Board  (FSB)’s  Key  Attributes  for  Effective 
+Resolution Regimes1. In Europe, where most countries did not have a resolution framework 
+before  the  crisis,  extraordinary  efforts  have  been  made  to  design  a  new  regulatory 
+framework,  the  Bank  Recovery  and  Resolution  Directive  (BRRD).  The  BRRD,  which  has 
+been agreed by the EU Council and is now being discussed by the European Parliament, will 
+set harmonised standards for national resolution regimes across Europe in compliance with 
+the  FSB  Key  Attributes.  It  aims  to  reduce  the  costs  of  bank  resolution,  make  banks 
+resolvable  without  using  taxpayer  funds,  and  hence  induce  bank  creditors  to  exert  more 
+market discipline. 
+                                                
+1  See  Financial  Stability  Board,  “Key  Attributes  for  Effective  Resolution  Regimes  for  Financial  Institutions”, 
+October 2011. 
+BIS central bankers’ speeches 
+ 1 
+I would like to use my remarks today to comment on this new Directive, and in particular the 
+introduction  of  creditor-funded  recapitalisation  –  otherwise  known  as  bail-in.  I  want  to 
+explore, on the basis of the economic literature, how this is likely to affect bank funding and 
+lending and hence, as suggested by the title of this conference, the financing of the recovery. 
+I will not discuss here resolution strategies, which are at the heart of the FSB discussion and 
+can be particularly challenging for large and internationally active banking groups.  
+The proposal for a bank recovery and resolution directive  
+Let me begin by briefly reviewing the main features of the new bail-in tool. Bail-in rules are 
+envisaged to apply no later than four years after the entry into force of the new resolution 
+Directive.  If  this  is  1st  January  2014,  as  is  currently  planned,  then  they  will  have  to  be 
+incorporated in national laws by 1st January 2018 at the latest. I will comment this timeline 
+later. 
+The scope of bail-in clauses is generally broad, encompassing all liabilities apart from those 
+explicitly  excluded.  Non-excluded  liabilities  will  be  bailed-in  following  the  order  of  their 
+ranking in national insolvency laws.  
+The only exception to the seniority rankings in national insolvency laws relates to customer 
+deposits.  The  latest  Council  compromise  text  introduces  a  “super  priority”  for  insured 
+deposits  (up  to  €  100  000)  and  a  “simple  priority”  for  retail  deposits  (deposits  of  natural 
+persons,  micro  and  SMEs  above  €100  000).  The  latter  category  will  rank  below  insured 
+deposits, but above all other senior unsecured claims.2  
+It is important to stress that the Directive does not exclude other funding sources to manage 
+banking  crises.  Privately-funded  national  resolution  funds  may  step  in,  but  only  up  to  a 
+certain limit and only after some losses have been borne by shareholders and creditors.3 In 
+addition,  the  Directive  does  not  completely  exclude  the  possibility  of  a  bail-out  via 
+extraordinary public financial support. However, the principle is that support has to be given 
+exceptionally and temporary in nature.4  
+In  order  to  prevent  banks  from  circumventing  the  bail-in  rules,  the  Directive  also  defines 
+minimum  requirements  for  own  funds  and  eligible  liabilities  (MREL),  ensuring  that  banks 
+have sufficient loss-absorbing capacity, i.e. sufficient bail-inable liabilities. The requirements 
+are currently based on the size, risk characteristics and the corresponding business model of 
+banks. In 2016, the proposal aims at introducing harmonised MREL for all banks based on 
+recommendations by the European Banking Authority (EBA).  
+Additional to the bail-in rules, the European Commission adapted temporary state aid rules, 
+applicable  as  of  the  1st  August,  2013.  These  rules  demand  mandatory  capital  write-down 
+and bail-in of subordinated debt before any public supports is granted. Therefore, these rules 
+further clarify the interaction between bail-in and bail-out in the European Union, even before 
+the  BRRD  becomes  effective,  and  provide  for  a  level  playing  field  between  similar  banks 
+located in different Member States.  
+                                                
+2  This differs from the US where the depositor preference applies to all deposits, both insured and uninsured. 
+3  National resolution funds (RF) have to be set up in each Member State and financed by ex-ante contributions 
+of the institutions. They can only be used to absorb losses and finance resolution after losses of at least 8% 
+have been borne by shareholders and creditors. When the RF steps in its total contribution is limited to 5% of 
+total liabilities. 
+4  Public  support  may  be  given  as  (i)  State  guarantee  backing  central  bank  liquidity;  (ii)  State  guarantee  for 
+newly  issued  liabilities;  or  (iii)  capital  injection  at  market  price,  as  long  as  the  institution  still  fulfils  the 
+authorisation requirements and is solvent. 
+2 
+ BIS central bankers’ speeches 
+The impact of mandatory bail-ins on bank funding 
+The  implementation  of  bail-in  rules  can  be  expected  to  affect  banks  activity  in  several 
+respects that matter not only for bank stability but more broadly for the funding of economic 
+activity. Here I want to focus on two in particular: bank funding and bank lending.  
+Starting  with  bank  funding,  the  bail-in  rules  transfer  risk  from  taxpayers  to  unsecured 
+bondholders.  In  this  way,  they  counterbalance  the  perceived  implicit  subsidy  from  which 
+some very large or highly interconnected institutions have benefited, leading to excessively 
+low funding costs, particularly in good times. As a result of this increased risk, holders of bail-
+inable liabilities may be expected to ask, everything being equal, for a higher return. The cost 
+of funding for such liabilities would reflect more accurately their actual risks.  
+How  will  this  affect  banks’  overall  cost  of  funding?  This  is  not  easy  to  answer  definitively. 
+There are many factors that we have to take into account. Let me list four of them. 
+First, the systemic importance of the bank. The greatest effect of the new bail-in rules should 
+in principle be on those banks that would in the past have benefited most from an implicit 
+guarantee. In other words, it should affect more significantly systemically important financial 
+institutions (SIFIs). And among the SIFIs, it should affect the riskiest banks the most.  
+Second, the bank’s liability structure. For those banks that fall short of the bail-inable debt 
+requirements,  the  Directive  will  force  them  to  increase  their  unsecured  liabilities,  since 
+secured  ones  cannot  be  bailed-in.  This  could  increase  overall  funding  costs,  as  it  would 
+require banks to adapt their liability structure such that more costly debt plays a greater role. 
+But equally, the higher share of senior unsecured liabilities could also result in a lower level 
+of  encumbered  assets,  possibly  lowering  the  overall  cost  of  funding.  Indeed,  asset 
+encumbrance  makes  balance  sheets  more  complex  and  poses  significant  challenges  to 
+investors in assessing banks’ riskiness, which may result in higher risk premia for unsecured 
+debt,  especially  at  a  time  where  the  overall  demand  for  collateral  assets  is  expected  to 
+increase.5  
+Moreover,  we  need  to  consider  the  effect  on  the  overall  cost  of  funding  from  the 
+strengthening  of  depositor  protection,  which  has  a  potential  to  reduce  the  relative  interest 
+rate paid on deposits compared to unsecured debt. While depositors have, in normal times, 
+low sensitivity to risk and any decline in their cost is expected to be limited; deposits typically 
+represent a large share of the overall bank debt. As a result, even small reductions in the 
+remuneration of deposits could produce a significant impact on the overall cost of funding. 
+On top of this, banks that already meet the minimum bail-inable debt requirement may adjust 
+their liability structure to incorporate a larger fraction of deposits.  
+Third, to assess the overall impact of bail-in rules on bank funding, we have to consider their 
+interaction with other initiatives in the field of regulation. Let me give me two examples. There 
+is a possibility that the higher cost of senior unsecured long-term debt could lead banks to 
+raise more short-term debt, resulting in a higher maturity mismatch and greater liquidity and 
+interest rate risks. This could happen in particular for those banks that have already a high 
+level  of  encumbered  assets  and  so  are  unable  to  issue  long-term  secured  liabilities.  Such 
+reshuffle of liabilities will be limited by the proposed Basel III requirements on the Liquidity 
+Coverage  Ratio  (LCR)  and  the  net  stable  funding  ratio  (NSFR).  Similarly,  recourse  to  the 
+repo market, which we know is inherently fragile,6 will be constrained by the envisaged FSB 
+rules on shadow banking. 
+                                                
+5  Committee on the Global Financial Stability (2013), “Asset encumbrance, financial reform and the demand for 
+collateral assets”, CGFS Papers, n. 49. 
+6  See G. Gorton and A. Metrick (2012), “Securitized Banking and the Run on the Repo”, Journal of Financial 
+Economics, Vol. 104, No. 3, pp. 425–451. 
+BIS central bankers’ speeches 
+ 3 
+As  another  example,  as  there  is  at  least  in  theory  a  risk  that  bail-in  rules  could  trigger 
+financial contagion if a significant proportion of banks’ liabilities are held by other banks or by 
+systemically  important  non-banks  such  as  insurance  companies,7  we  need  to  understand 
+and if necessary limit such cross-exposures.  
+Fourth, we have to take into account the effect of bail-in on banks investment and lending 
+behaviour.  Let’s  not  forget  that  one  objective  of  an  efficient  resolution  mechanism  is  to 
+mitigate  excessive  risk-taking.  As  a  result  of  the  removal  of  an  implicit  bail-out  guarantee, 
+bank  debt-holders  should  exert  more  efforts  in  monitoring  banks,  thus  mitigating  moral 
+hazard phenomena. Such market discipline may mean that the expected rise in the cost of 
+bank funding would be counterbalanced by an overall reduction in bank risk and hence the 
+cost of funding may not rise. 
+By redistributing the risk between tax-payers, depositors and debt holders, bail-in rules can 
+reduce the overall risk in the system. The corporate finance literature has pointed out the role 
+of secured bank debt as an equilibrium response to the agency problems of equity financing.8 
+This highlights the risk of a “race to the bottom” towards a liability structure that would leave 
+bank  managers  unchecked.  It  is  therefore  crucial  that  all  sources  of  bank  financing  are 
+subject to adequate monitoring.  
+The economic literature clearly points out that exposure to credit risk should be left primarily 
+to  those  actors  who  have  the  best  information  on  counterparty  risk,  namely,  shareholders 
+and  debt-holders,  hence  the  new  capital  requirements  and  the  bail-in  rules.  Let  me  note 
+however that inducing greater monitoring efforts is a necessary, but not a sufficient condition 
+to  mitigate  excessive  risk-taking.  Bank  debt-holders  have  to  be  able  to  monitor  banks 
+(market monitoring), but by monitoring them and pricing risk correctly they are also effectively 
+influencing  banks’  behaviour  (market  influence).  Making  market  discipline  work  calls  for  a 
+more comprehensive regulatory and supervisory framework of which bail-in rules are only a 
+part, even if a significant one. And since bail-in rules have confirmed that insured depositors 
+are  protected  by  deposit  guarantee  schemes,  i.e.  ultimately  by  the  taxpayer,  the  banking 
+supervisor can be represented as the public authority to whom insured depositors delegate 
+the monitoring of bank behaviour. 
+All in all, while a good resolution framework is needed, it can only be a complement, and not 
+a substitute for market discipline and supervisory vigilance. 
+What does the empirical evidence of the effect of bail-in on funding costs say so far? 
+The evidence points to a possible increase in the cost of funding for senior unsecured debt. 
+For instance, a recent survey9 suggests that under a bail-in regime investors would demand 
+around 90 basis points more for a senior bond issued by a single “A” bank. The investors 
+surveyed also expect that the implementation of a bail-in framework will lead to an increase 
+in  price  differentials  across  issuers  with  diverse  credit  quality.  However,  all  this  has  to  be 
+weighed against the offsetting considerations that I just described. 
+Indeed, econometric results undertaken at the ECB for a sample of European banks suggest 
+that  the  announcement  of  the  Directive  had  so  far  limited  impact  on  the  cost  of  senior 
+unsecured  debt.  But  for  the  financial  sector,  there  are  still  two  sources  of  uncertainty  with 
+                                                
+7  See M. Dewatripont and X. Freixas (2012), “Bank Resolution: Lessons from the crisis” in M. Dewatripont and 
+X.  Freixas  (eds.),  The  Crisis  Aftermath:  New  Regulatory  Paradigms,  eReport,  Centre  for  Economic  Policy 
+Research. 
+8  This literature can be traced back to D. Diamond (1984), “Financial intermediation and delegated monitoring”, 
+Review  of  Economic  Studies,  Vol.  51,  pp.  393–414.  See  also  the  discussion  in  A.  Kashyap,  R.  Rajan  and 
+J. Stein  (2008),  “Rethinking  Capital  Regulation”,  in  Federal  Reserve  Bank  of  Kansas  City,  2008  Economic 
+Symposium, "Maintaining Stability in a Changing Financial System", pp. 431–471. 
+9  European bank bail-in will cost +87 basis points”, Financial Times , October 25, 2010. 
+4 
+ BIS central bankers’ speeches 
+regards  to  the  bail-in  rules.  First,  about  the  timing  of  the  implementation  of  bail-in.  The 
+European  Parliament,  for  example,  wants  to  have  bail-in  from  2016.  Second,  about  the 
+degree  of  discretion  national  resolution  authorities  will  have  in  applying  the  bail-in  rules, 
+which in my view should be as constrained as possible. 
+This would seem to suggest that, although likely to be priced in to a considerable extent, the 
+ultimate effect of bail-in on funding costs, and its success as a market discipline device, will 
+depend on the final design of bail-in and how markets see it being used in practice. This calls 
+for an early implementation of bail-in as a way to reduce uncertainty for banks themselves 
+and market participants, and allow for a once-for-all repricing of risk.10  
+The impact on lending  
+Turning  now  to  the  effect  of  bail-in  on  bank  lending,  my  baseline  assumption  is  that  the 
+higher cost of bail-inable liabilities will have a limited impact on bank lending. Let me explain. 
+Clearly,  if  overall  funding  costs  were  to  rise,  this  could  in  theory  have  an  effect  on  banks’ 
+lending activity: banks may respond by providing less credit and charging higher loan interest 
+rates. That said, I am not certain how realistic this scenario would be in practice. Building on 
+the vast literature on the bank lending channel, one can argue that even if overall funding 
+costs increase, there are several factors that can mitigate the transmission of funding shocks 
+to lending. For instance, capital and liquidity buffers11 allow banks to shield borrowers from 
+funding  shocks  and  these  are  in  the  process  of  being  strengthened  by  the  Basel  III 
+requirements. Moreover, the type of relationship between banks and borrowers may affect 
+the  way  banks  translate  shocks  into  their  lending  activity.12  A  very  recent  paper,  to  be 
+presented in this conference, suggests that banks more reliant on relationship lending are in 
+a better position to shield borrowers from shocks.  
+Finally, any assessment of the effect of bail-in on bank lending and ultimately on economic 
+welfare should take into account the general equilibrium benefits of reallocating risk to those 
+who have the ability to monitor and eventually absorb it: shareholders and debt-holders. As 
+noted by Paul Tucker, there is no place to hide risk: if the risk in banking is not incorporated 
+in  the  yields  of  bonds  issued  by  banks  themselves,  then  it  will  be  reflected  in  higher 
+                                                
+10  To  give  a  flavour  of  the  issues  markets  will  have  to  consider,  we  can  look  at  the  literature  on  contingent 
+convertibles bonds tied to market evaluation, or CoCos – see among others, O. Hart and L. Zingales, 2011, “A 
+New  Capital  Regulation  for  Large  Financial  Institutions”,  Journal  of  Antitrust  Enforcement,  Vol.  13,  
+pp. 453–490. The literature have shown that if bail-in takes place at too low share values, a “death spiral” can 
+occur whereby the bail-in leads to a decrease in stock prices which triggers additional bail-in (P. Hillion and 
+T. Vermaelen, 2004, “Death Spiral Convertibles”, Journal of Financial Economics, Vol. 71, pp. 381–415). At 
+the same  time,  it  is  essential that  the conversion  is  triggered  early  enough  and  leads  to enough  dilution  of 
+existing shareholders. If not, then the conversion of the debt into capital will increase the value of the firm for 
+shareholders after losses arise, with the perverse effect of increasing risk-taking incentives (See C. Berg and 
+T. Kaserer  (2012),  “Does  contingent  capital 
+induce  excessive  risk-taking  and  prevent  an  efficient 
+recapitalization of banks?”, New York University and Humboldt University.) A somewhat related issue is that 
+banks may have a perverse incentive to increase the risk of its assets’ returns in order to transfer value from 
+contingent  capital  investors  to  the  original  bank  shareholders  (G.  Pennacchi,  2011,  “A  structural  model  of 
+contingent capital”, Federal Reserve Bank of Cleveland, Working paper No. 10-04). In principle, this is less an 
+issue in the case of mandatory bail-ins, since the conversion of debt into equity occurs at the point of non-
+viability.  In  practice,  however,  it  is  difficult  to  establish  what  this  point  of  non-viability  actually  entails,  so 
+effectively these concerns could also be relevant in the case of bail-ins. 
+11  See A. Kashyap and J. Stein (2000), “What do a million observations on banks say about the transmission of 
+monetary policy?” American Economic Review, 90(3), pp. 407–428. R. Kishan and T. Opiela (2000). “Bank 
+size,  bank  capital,  and  the  bank  lending  channel,”  Journal  of  Money,  Credit  and  Banking,  vol.  32(1), 
+pages 121–41. 
+12  See P. Bolton, X. Freixas, L. Gambacorta and P.E. Mistrulli (2013), “Relationship and Transaction Lending in 
+a Crisis”, CEPR Discussion Paper, No. 9662. 
+BIS central bankers’ speeches 
+ 5 
+sovereign  borrowing  costs.13  The  euro  area  crisis  has  shown  the  negative  and  potentially 
+highly non-linear consequences of such an increase in today’s situation of high public debt.  
+including  creditor-funded 
+Conclusion 
+Let me conclude. 
+Creating an efficient mechanism to swiftly resolve insolvent banks is a crucial step towards 
+making the  costs  of  tackling  bank  crises  less  onerous for  taxpayer. While  there  is  a  lot  of 
+work  ahead,  a  well-designed,  comprehensive  and  consistent  regulatory  framework  for 
+banking  resolution, 
+recapitalisation  schemes,  will  mitigate 
+excessive  risk-taking  phenomena.  By  improving  financial  stability,  it  would  also  have  a 
+favourable long-term impact on the real economy. 
+While  a  good  resolution  framework  is  needed,  it  can  only  be  a  complement,  and  not  a 
+substitute 
+for  market  discipline  and  supervisory  vigilance.  The  Single  Supervisory 
+Mechanism  (SSM)  and  its  founding  act,  the  balance  sheet  assessment  and  asset  quality 
+review of all directly supervised euro area banks that will take place in 2014, can therefore be 
+seen as complementing and supporting the new resolution framework. 
+Effective resolution is not only about strong rules creating sound incentives, but also about 
+quick judgment and decision-making. Given the inherent instability of financial markets, there 
+is  no  time for  a  negotiation  between  bank  creditors  and  shareholders  leading  to  an  equity 
+write off and a conversion of debt into equity, as would be usual outside the financial sector – 
+and in the case of a large systemic bank, such a process would have the potential to impose 
+significant negative externalities on the economy. In this respect, the creation of a strong and 
+independent  Single  Resolution  Authority  (SRA)  is  needed  in  Europe  as  a  necessary 
+complement to the SSM. The SRA should have the capacity to take swift decisions in the 
+European interest and to tap a Single Resolution Fund financed by the industry.  
+If these steps are taken, bail-in rules will be conducive to a better monitoring of banks’ risk 
+behaviour  and  will  thereby  lead  to  a  better  banking  system  –  a  system  that  fulfils  its 
+economic role without creating an excessive risk for society. 
+I thank you for your attention. 
+                                                
+13  P. Tucker (2012), “Resolution – a progress report”, speech at the Institute for Law and Finance Conference, 
+Frankfurt, 3 May. 
+6 
+ BIS central bankers’ speeches 

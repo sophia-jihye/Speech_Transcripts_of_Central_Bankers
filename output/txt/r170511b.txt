@@ -1,0 +1,225 @@
+Richard Dzina: Advancing the Fed's wholesale services in an era of
+unprecedented challenge and change
+Remarks by Mr Richard Dzina, Executive Vice President of the Financial Services Group of the
+Federal  Reserve  Bank  of  New  York,  at  the  Securities  Industry  and  Financial  Markets
+Association's Operations Conference and Exhibition 2017, Boca Raton, Florida, 9 May 2017.
+ Thank  you  and  good  morning.  In  leading  the  Federal  Reserve’s  wholesale  services  I  am
+continually reminded that my stewardship responsibilities for this extraordinary business run in at
+least  three  directions.  Organizationally,  I  am  accountable  to  principals  across  the  Federal
+Reserve System and to the Directors of the Federal Reserve Bank of New York. Managerially, I
+am accountable to the men and women who make this business function, as capable and as
+dedicated a cadre of public servants as has served our nation anytime, anywhere. Operationally,
+and  the  sensation  I  feel  most  keenly  standing  before  this  audience  of  industry  leaders,  I  am
+accountable to our depository  institution  customers,  and  their  end  users,  which  rely  upon  our
+services  to  send  and  receive  time  critical  payments;  to  transfer,  maintain,  and  provide
+safekeeping for Fedwire-eligible securities; and to settle positions derived from transactions in
+other markets. I’d like to thank SIFMA for the opportunity to participate in today’s program, and for
+the visceral reminder of accountability that comes with this invitation.
+I have long maintained that the Federal Reserve’s wholesale services represent the franchise
+when  it  comes  to  our  nation’s  financial  market  infrastructure.  It  is  a  bold  assertion,  but  not
+necessarily an unreasonable one, reflecting the dollar value of transactions processed across
+the  Fedwire  Funds,  Fedwire  Securities,  and  National  Settlement  Services; 
+inter-
+connectedness  and  dependencies  between  these  services  and  other  systemically  important
+infrastructures;  our  role  as  central  securities  depository  and  as  fiscal  agent  for  the  issuance,
+maintenance, and redemption of all Fedwire-eligible securities; and as the platform across which
+the Federal Reserve ultimately settles its monetary policy operations. Any one of these elements
+would  likely  qualify  the  wholesale  services  as  “systemic”;  in  the  aggregate  they  represent  a
+staggering  portfolio  on  which  the  execution  of  both  our  nation’s  fiscal  and  monetary  policies
+ultimately depends.
+the 
+In recognition that a wholesale service outage risks a significant shock to the United States, and
+in light of the escalating threat landscape in which collectively we operate, last year before this
+audience I shared a series of reflections endeavoring to advance a new paradigm for resiliency
+and security for financial market infrastructures. This year I’d like to provide an update on our
+progress on this front, and then to elaborate on the portfolio of wholesale service initiatives that
+we  are  endeavoring  to  advance  to  add  value  for  customers  and  end  users. As  always,  my
+remarks reflect my own views and do not necessarily represent those of the Federal Reserve
+Bank of New York or the Federal Reserve System.
+The anchor premise of my remarks last year was an appeal for greater technological diversity in
+our  third  level  resiliency  and  security  schemes,  representing  an  impregnable  firebreak,  and  a
+platform  for  recovery,  should  the  core  of  an  infrastructure  become  corrupted.  This  work
+complements our traditional focus on geographic dispersion of infrastructure and human capital,
+but recognizes a fundamental distinction between cyber resiliency and traditional resiliency: what
+works  for  us  in  conventional  resiliency  scenarios,  namely  the  automatic  and  instantaneous
+replication  of  data,  works  against  us  in  cyber  scenarios,  reflecting  risks  that  a  pernicious
+malware,  or  a  severe  data  corruption,  or  even  an  application  failure  propagates  itself  across
+primary, secondary, and tertiary operating sites, rendering a systemic infrastructure functionally
+inoperable.
+Examples  of  technological  diversity  may  take  many  forms,  from  the  application  code  to
+ 1 / 5
+BIS central bankers' speeches
+middleware  components  to  the  operating  platform,  and  may  canvass  physical,  distributed,
+hosted, or cloud-based solutions. Reflecting their unique circumstances and assessments of the
+threat,  financial  market  infrastructures  will  likely  respond  differently  to  the  present  challenge.
+Without  prescribing  any  particular  solution,  I  will  merely  suggest  that  in  the  event  of  severe
+disruption efforts to enhance technological diversity represent an infrastructure’s best chance to
+achieve the two hour recovery objective promulgated by the Committee on Payment and Market
+Infrastructures  (CPMI)  and 
+International  Organization  of  Securities
+Commissions (IOSCO).
+the  Board  of 
+the 
+Beyond measures to enhance technological diversity in our core infrastructure, we continue to
+make  meaningful  progress  developing  manual  contingency  procedures  in  the  event  of  a
+protracted wholesale service disruption from which we cannot recover on a same day basis, our
+best  efforts  to  ensure  resiliency  notwithstanding.  Recognizing  the  constraints  on  operating
+capacity in such a scenario, this work seeks to maintain critical functionality and to identify and
+support systemically important payments in our transaction flow to mitigate customer and market
+impacts.
+Increasingly, this work extends beyond the Federal Reserve to include infrastructure peers and
+other systemically important market participants to test our protracted outage hypotheses and
+manual contingency procedures. It also complements a number of industry initiatives, including
+the  work  of  the  Payments  Risk  Committee  and  the  newly  established  Financial  Systemic
+Analysis  and  Resilience  Center,  to  consider  systemic  risk  mitigants  in  the  event  of  a  major
+outage of a large payments processing financial institution. Notwithstanding progress advancing
+these  important  initiatives,  and  in  recognition  of  their  enormous  complexity,  the  message  for
+policy makers, boards of directors, and senior management of systemically important institutions
+is  to  invest  sufficiently  in  resiliency  and  security  such  that  we  never  find  ourselves  reliant  on
+manual  contingency  measures  whose 
+to  produce  profound,  and
+unpredictable, consequences.
+invocation 
+likely 
+is 
+One sphere of resiliency that has grown in prominence for payment and market infrastructures
+over the past year has been the focus on endpoint security, a theme that has also captured the
+attention  of  global  policy  makers.  Work  in  support  of  this  collective  interest  proceeds  across
+multiple  fronts,  including  efforts  to  enhance  end-to-end  understanding  of  the  links  and
+relationships  within  a  network;  initiatives  to  enhance  assurance  that  external  endpoints  are
+operating  in  adherence  with  an  operator’s  security  requirements;  and  the  development  of
+centralized information services and application tools to enhance a participant’s management of
+fraud risk. Examples of  these  services  and  tools  might  include  features  that  restrict  transfers
+beyond a maximum dollar threshold, or to foreign beneficiaries, or outside of specified hours.
+Historically, and understandably, market infrastructures have operated on the presumption that
+endpoint  security  is  principally  the  responsibility  of  the  endpoint,  and  infrastructure  security  is
+principally  the  responsibility  of  the  operator.  Increasingly,  reflecting  the  elevated  cyber  threat
+landscape,  this  distinction  is  not  so  clear,  especially  as  endpoint  security  breaches  can
+potentially  have  implications  for  public  confidence  in  the  network  as  a  whole,  even  in
+circumstances when the operator’s infrastructure, applications, and security perimeter have not
+been compromised.
+Arguably, the collective industry focus on resiliency and security represents the challenge of our
+generation, with direct implications not merely for the functioning of financial markets but, even
+more fundamentally, for the commercial and economic activity they support. At the same time,
+and notwithstanding their consuming focus, security and resiliency do not represent ends, but
+means to an end. I’d therefore like to spend the balance of my valuable time with you reviewing a
+series of initiatives we are undertaking to enhance the value proposition of the Federal Reserve’s
+wholesale service suite.
+ 2 / 5
+BIS central bankers' speeches
+The industry environment is complex far beyond the security and resiliency domain. Financial
+market  infrastructures  face  an  unprecedented  volume  of  technological  change,  market
+developments,  and  regulatory  scrutiny.  For  the  Fedwire  Funds  Service,  at  least  two  market
+developments promise to have major strategic implications over a 3-5 year horizon: the advent of
+real time retail payments, which the Federal Reserve is actively promoting as a desired outcome
+in its Strategies for Improving the Payments System; and the trend toward global adoption of ISO
+20022  payment  message  standards.  For  the  Fedwire  Securities  Service,  the  successful
+modernization in November 2015 of the application suite and hardware platform supporting this
+critical  business  presents  an  historic  opportunity  to  articulate  a  future  vision  that  responds  to
+customer and stakeholder needs. Straddling both domains, the emergence of new technologies
+such as distributed ledgers presents both challenge and opportunity.
+A key desired outcome identified in the Federal Reserve’s Strategies for Improving the Payment
+System (SIPS) is to increase the speed of retail payments. An unmistakable global trend toward
+real time retail payments has emerged reflecting the advent of new technologies, the rapid pace
+of private sector innovation, the proliferation of mobile payment devices, and the recognition that
+a  world  of  24x7  commerce  requires  a  payment  system  that  can  keep  pace.  As  this  trend
+inevitably accelerates, the question of interbank settlement to address credit exposures that may
+accumulate outside of conventional banking hours must be addressed.
+Reflecting  the  Federal  Reserve’s  historical  interest  in  the  mitigation  of  settlement  risk,  and  in
+anticipation of the emergence of real time retail payments in the United States, we are currently
+exploring an expansion in operating hours of the National Settlement Service to support the final
+and irrevocable settlement of interbank positions in central bank money. We are pursuing this
+interest in three phases. In 2015, we expanded the NSS operating window modestly, opening an
+hour earlier at 7:30am and closing a half hour later at 5:30p.m. Subsequently, we announced our
+readiness  to  open  NSS  as  early  as  9:00  p.m.  on  the  prior  calendar  date,  consistent  with  the
+operating window of the Fedwire Funds Service, if requested. Finally, we are currently evaluating
+prospects for weekend settlement hours, perhaps encompassing a 24x7 operating window for
+NSS, for which we are validating demand prior to finalizing our direction. It is critical to consider
+these matters in advance of the advent of real time retail payments to anticipate the needs of
+customers and to respond to the interests of policy makers.
+The  Federal  Reserve’s  Strategies  for  Improving  the  Payment  System  also  aspire  to  achieve
+greater end-to-end efficiency in cross-border payments, an historical pain point for end users. In
+support of this interest, and following an exhaustive season of consultation with industry leaders,
+we are currently in the midst of a multi-year effort to adopt the ISO 20022 payment message
+formats for the Fedwire Funds Service. This body of work reflects the emergence of ISO 20022
+as  the  global  standard  in  payment  systems,  and  seeks  to  achieve  greater  efficiency  and
+interoperability in cross border payments for financial institutions and end users. Moreover, the
+structured  and  robust  nature  of  the  ISO  20022  message  format  provides  an  opportunity  to
+enhance the information content carried in a payment message, including remittance information
+to support straight through processing of corporate payments, and to promote greater innovation
+across a common message suite. Finally, for both the long term competitiveness of our financial
+institutions and end users, and for the primacy of the dollar as a global settlement currency, it is
+imperative that the anchor element of our nation’s payment system remains well integrated in an
+increasingly global marketplace. With detailed planning well underway, by the end of 2017 we
+expect to announce ISO 20022 message format specifications and an implementation timeline.
+While  I  recognize  that  I  am  speaking  principally  to  an  audience  of  securities  professionals,  I
+appreciate your indulgence of these critically important and strategic payment themes, especially
+given  the  inter-connectedness  and  mutual  dependencies  that  exist  across  payment,  clearing,
+and settlement infrastructures.
+Closer to your world, and as previously mentioned, we migrated the Fedwire Securities Service
+ 3 / 5
+BIS central bankers' speeches
+in November 2015 to a new hardware and software platform. This undertaking was, by far, the
+largest element of the Fedwire Modernization Program and the most significant change to the
+Federal  Reserve’s  wholesale  services  in  a  generation.  If  you  heard  nothing  of  it,  or  have
+subsequently  forgotten,  that  is  the  greatest  affirmation  of  success.  Notwithstanding  the
+significance of this accomplishment, the conversion was “like for like”, meaning no new service
+enhancements for customers or in support of policy interests. In parallel to System-wide efforts
+to advance Strategies for Improving the Payments System, we have therefore embarked on a
+corresponding set of Strategies for Improving the Fedwire Securities Service (SIFSS).
+The formation of these strategies actually commenced before the modernization even concluded
+in consultation with a range of stakeholders including securities issuers, depository institutions,
+financial  market  infrastructures,  and  policy  makers.  Prospective  service  enhancements  were
+identified  and  assessed  based  upon  their  capacity  to  increase  operational  efficiency,  mitigate
+risk, and reduce costs, among other factors, and were subsequently categorized in four main
+strategies:
+Strategy  1  seeks  to  improve  and  expand  the  Fedwire  Securities  Automated  Claims
+Adjustment Process (ACAP). ACAP is a service that enables Fedwire participants to redirect
+principal and interest payments related to repo transactions or to failures to deliver or return
+securities by an agreed-upon date. The new offering, targeted for 2019, expands the service
+from  MBS  securities  to  Treasury  and Agency  securities;  adds  the  capability  for  Fedwire
+participants  to  identify  transfers  related  to  securities  lending  activity  in  addition  to  repo;
+increases  operational  and  technology  efficiencies,  and  reduces  the  time  (and  thus  risk)
+between  when  P&I  payments  are  made  and  their  repatriation.  Members  of  the  SIFMA
+Government  Operations  Committee  and  the  Wholesale  Securities  Customer  Advisory
+Group  have  consistently  expressed  their  desire  for  this  enhancement,  which  reflects  an
+important opportunity for customers to realize value from the modernized Fedwire Securities
+platform.
+Strategy 2 seeks to  provide  customers  with  greater  and  more  flexible  access  to  Fedwire
+Securities  Service  data 
+to  support  reconciliation,  perform  analytics,  enhance  risk
+management reporting, and project liquidity needs.
+Strategy  3  seeks  to  improve  credit  and  liquidity  risk  management  tools  available  to
+depository institutions and the Reserve Banks to manage and control daylight overdrafts that
+derive from the delivery-versus-payment nature of the Fedwire Securities Service.
+Strategy  4  seeks  to  examine  the  costs  and  benefits  of  expanded  operating  hours  for  the
+Fedwire  Securities  Service,  reflecting  an  increasingly  global  world  in  which  financial
+institutions  and  their  customers  conduct  transactions  at  all  hours  across  multiple
+jurisdictions. Many stakeholders have suggested that expanded hours will enhance the ability
+of  financial  institutions  to  mobilize  collateral  in  domestic  and  international  markets  and
+provide  participants  with  better  access  to  liquidity,  especially  during  periods  of  stress,
+recognizing that we serve as central securities depository for the largest, deepest, and most
+liquid  pool  of  collateral  in  the  world.  While  these  prospective  benefits  must  be  assessed
+against  potential  costs,  and  require  more  comprehensive  study  across  a  wide  range  of
+stakeholders  before  any  commitment  can  be  made,  the  time  to  assess  an  expansion  in
+operating hours for the Fedwire Securities Service has come.
+As  a  final  reflection,  and  to  the  surprise  of  no  one  in  this  room,  we  are  experiencing  an
+unprecedented  period  of  innovation  in  financial  services,  with  nascent  technologies  such  as
+distributed  ledger  garnering  substantial  attention.  These  emerging  technologies  possess  the
+potential to revolutionize financial services, making them faster, more efficient, and more secure.
+Notwithstanding this promise, challenges remain in their application to critical financial market
+infrastructures  whose  operational  integrity  represent  a  non-negotiable  pre-requisite  for  our
+financial system. As we enhance existing services or develop new ones, our consideration of
+new  technologies  must  strike  an  appropriate  balance  to  ensure  the  risks  are  thoroughly
+ 4 / 5
+BIS central bankers' speeches
+understood before their transformative potential is realized.
+In pursuing this suite of initiatives straddling the wholesale services, we seek to advance both the
+interests  of  customers  and  policy  makers  during  this  era  of  unprecedented  challenge  and
+change. Standing before you today convicts me that our success as stewards of this business
+depends absolutely upon our active engagement with the depository institutions and end users to
+which we are operationally accountable. Across this sphere and all others, either intentionally we
+are progressing or inevitably we are regressing; there is no idleness.
+Thank you for your generous attention today. I’d be pleased to respond to a few questions.
+ 5 / 5
+BIS central bankers' speeches

@@ -1,0 +1,730 @@
+ Speech 
+   Embargo 
+5 April 2018, 6.00 pm 
+The financial markets in changing times 
+Changes today and tomorrow: the digital future 
+Money Market Event 
+ 
+Andréa M. Maechler 
+ 
+Member of the Governing Board* 
+Swiss National Bank 
+Zurich, 5 April 2018 
+© Swiss National Bank, Zurich, 2018 (speech given in German) 
+ * The speaker would like to thank Nino Landerer, Andreas Wehrli, Carolin Reiss and Claudia Aebersold Szalay for their support in drafting 
+this speech, and her thanks also go to Giuseppe D’Alelio, Rita Fleer, Adriel Jost, Sébastien Kraenzlin, Susanne Mühlemann, Nicolas Stof-
+fels and SNB Language Services. 
+   Page 1/8 
+       
+Ladies and Gentlemen 
+In his speech, my colleague Dewet Moser has demonstrated how being open to innovations 
+can pay off. However, he also underscores the point that it is entirely appropriate to carefully 
+examine their purpose and the benefits they offer. I would now like to apply this scrutiny to 
+the fintech innovations that are currently attracting a great deal of attention among the general 
+public and in the financial industry. 
+Bitcoin is one of the most talked-about topics at present, and the hype that has built up around 
+cryptocurrencies in general is considerable. It is estimated that well over 1,000 of these 
+currencies are in circulation today. If you search the internet for the word ‘bitcoin’ you will 
+find more than 300 million entries. By contrast, the term ‘Swiss franc’ generates just over 30 
+million hits. Furthermore, bitcoin has a very modest market capitalisation by comparison with 
+conventional currencies and investments, as we can see in the left-hand chart on the slide 1. 
+This highlights the marked difference between the level of public interest and the actual use of 
+cryptocurrencies.  
+Alternative private currencies are nothing new. We need only think of WIR money, or 
+regional currencies in French-speaking Switzerland such as the léman and farinet. In the 
+digital era, such currencies can be created more or less at the click of a mouse. Despite their 
+name, however, cryptocurrencies are not comparable with money – far from it. Money has to 
+fulfil several fundamental functions. It should serve as a viable medium of exchange in the 
+economy, that is to say it must be widely accepted as a means of payment. It also has to be a 
+stable unit of account for the value of the goods and services that are exchanged. And it 
+should also be used as a long-term store of value, for example for saving. Cryptocurrencies 
+such as the much-discussed bitcoin do not perform these functions adequately, if at all.  
+Trust is the very essence of a stable currency. This trust cannot evolve without a solid 
+framework, including a state governed by the rule of law, a sustainable economic and fiscal 
+policy, and also an independent central bank. Cryptocurrencies that have no link to a 
+conventional currency (the Swiss franc for instance) display a high level of price volatility. 
+They are more of a speculative investment instrument than a means of payment capable of 
+retaining its value. The chart on the right-hand side of the slide illustrates this. Compared with 
+exchange rates, commodities and equities, cryptocurrencies are subject to very high volatility, 
+and investors must be aware of the financial risks they are taking on when buying them.  
+Cryptocurrencies therefore do not meet the requirements of a currency. However, this does 
+not mean we can simply dismiss them out of hand, for behind all of the hype there is an array 
+of technological innovations. Particularly important among these is the distributed ledger 
+technology, known as DLT for short and often also referred to as blockchain. In other words: 
+it is important to make a clear distinction between cryptocurrencies as assets, and the 
+underlying technology, which does indeed have potential.   
+DLT could facilitate solutions in various areas of the economy that would enhance the safety 
+  Page 2/8 
+     and efficiency of digital information flows. A distributed ledger is essentially a decentralised 
+and synchronised database that allows participants to read, write and save information. DLT 
+makes it possible to unequivocally define ownership structures within a computer network, 
+without the need for a central third party. These facets also give rise to interesting possibilities 
+for the financial sector, and DLT is therefore regarded as one of the biggest innovations in the 
+fintech area.  
+Today I would like to look at the effect fintech innovations could have on a key element of 
+the financial system, namely the financial market infrastructure. The financial market 
+infrastructure, FMI for short, comprises trading platforms, securities settlement systems and 
+payment systems via which financial transactions are conducted electronically. The FMI is 
+generally not in the spotlight. Nevertheless, both the financial sector and the Swiss economy 
+as a whole depend on a secure and efficient FMI. The SNB monitors developments in this 
+area very closely given that facilitating and securing the operation of cashless payment 
+systems is one of its statutory tasks.  
+In this speech I will be discussing the significance of fintech for the financial market 
+infrastructure. First, I will address DLT’s potential in the FMI. Second, I will be talking about 
+the tried-and-tested division of roles between the central bank and commercial banks. I will 
+look at how this two-tier system paves the way for harnessing fintech innovations that could 
+enhance efficiency, while ensuring that this is not to the detriment of either safety or 
+reliability. Third, using the example of retail payments, I will show that there is a lot more to 
+fintech than just DLT, and that private sector players are much better suited to providing 
+timely solutions and flexibly addressing the needs of customers in this area. And finally, I will 
+take a brief look at digital central bank money for the general public, a subject currently 
+generating a lot of debate, and will outline why there is no need for it if the system for 
+cashless retail payments is efficient and innovative. 
+The potential of DLT for the FMI 
+So let me begin with the potential that DLT has to offer for the FMI. The FMI is the bedrock 
+of our financial system, facilitating the reliable transfer of securities and money between 
+buyers and sellers.  
+The slide 2 shows a simplified FMI process chain for the settlement of a securities 
+transaction. Transactions are first made via a trading platform, for instance a security is 
+bought on the Swiss Exchange. This purchase is then cleared and settled. Security and money 
+are simultaneously transferred between buyer and seller. In Switzerland, this takes place via 
+the securities settlement system SECOM and the payment system Swiss Interbank Clearing, 
+or SIC for short.  
+It is entirely possible that distributed ledger technology could take hold in various fields. I 
+would like to look here at two possible areas of application: securities settlement and cross-
+border payments.  
+  Page 3/8 
+     One of DLT’s key characteristics is that it makes verified information available to a large 
+number of parties simultaneously. It is therefore particularly appealing in the case of complex 
+processes where coordination is required across a whole range of participants. This is the case 
+in the securities business, which comprises a network of many different participants trading, 
+settling and managing securities. Examples of these market participants – brokers, banks, 
+settlement service providers and custodians – are shown on the slide 3. With every 
+transaction, a wide array of booking information has to be reconciled bilaterally between the 
+parties involved (slide 4). For example, banks have to reconcile and monitor their securities 
+holdings at custodians against their own internal accounts. The coordination requires 
+considerable effort, which in turn leads to high operating costs. DLT could help in this regard 
+by ensuring that all of the involved parties have the same information at the same time. The 
+slide 5 illustrates this step. Thanks to the synchronised distribution of information, the 
+aforementioned, highly complex reconciliation would no longer be necessary. 
+The potential for efficiency gains is indeed considerable, which is why extensive research is 
+now being conducted in this area. And innovations that enhance the efficiency of the financial 
+system or the economy as a whole are certainly worthy of closer inspection. The Australian 
+Securities Exchange ASX, for example, has recently announced that it is to use DLT in 
+redeveloping its core system for clearing and settling of equity transactions and recording 
+shareholdings.  
+In addition to the securities business, potential uses of DLT are also being envisaged in the 
+field of cross-border payments. The latter are slow, costly and lacking in transparency 
+compared with domestic payment transactions, and so the potential for efficiency gains is 
+particularly high. Certain central banks – those of Singapore and Hong Kong, for example – 
+are now focusing on this, as are private initiatives. Should the anticipated advantages 
+materialise, the attendant efficiency gains would be substantial. That said, for both of these 
+potential applications there are high barriers that have to be overcome in order for new 
+solutions to be implemented in practice and find their place in the market. The current 
+ecosystem comprises a large number of stakeholders, who would have to adapt their systems 
+and processes. The high level of investment this entails is curbing the pace of developments, 
+as are the technical and legal questions still to be resolved.  
+Tried-and-tested division of roles between banks and central banks 
+What is the SNB’s take on these developments? We welcome innovations that enhance the 
+efficiency of processes. But while the initial experiments have been promising, there is still a 
+long way to go before market-ready DLT solutions become a reality in the FMI. DLT has still 
+to prove that the hoped-for efficiency gains can actually be delivered in practice. Furthermore, 
+simply enhancing efficiency alone is not enough. Such gains must not come at the expense of 
+the availability and resilience of the systems or the integrity of the data. This applies 
+especially to those parts of the FMI that are systemically important. Here we set the highest of 
+standards when it comes to stability and security. 
+  Page 4/8 
+     The secure settlement of large-value payments is a prerequisite for the stability of the 
+financial system. Financial transactions, which as a rule involve substantial amounts and are 
+time-critical, are of great significance for the real economy. This is why it is so important to 
+have the settlement of large-value payments as a reliable foundation.  
+To avoid risks with regard to payments in this systemically important segment, there needs to 
+be a risk-free payment instrument. Today, time-critical, large-value payments in a currency 
+area are therefore usually settled in central bank money and via central banks’ payment 
+systems, referred to as real-time gross settlement systems or RTGS for short. Switzerland’s 
+RTGS system is Swiss Interbank Clearing (SIC). An RTGS system ensures that payments are 
+made when – and only when – there is sufficient money on the account of the paying bank. If 
+there are adequate funds to cover the payments, they are settled irrevocably and in real time. 
+This assures the safety of the settlement process. Using central bank money also eliminates 
+the risk of default by the settlement institution. Central banks can provide additional liquidity 
+if required at any time, and also serve as the lender of last resort. In this way, they ensure that 
+there is a reliable foundation for the FMI. This has proved effective to date, and also stood up 
+well during the financial crisis. 
+Could DLT also be used in RTGS systems in the future, i.e. as part of the reliable foundation? 
+We see a number of questions that are still to be resolved here. The technology itself does not 
+yet meet the requirements expected of the RTGS systems in terms of scalability, data security 
+and reliability. Modern RTGS systems such as SIC are already demonstrably efficient and 
+crisis-resilient. In this area, a payment system not only has to prove its efficiency; the 
+reliability of the RTGS systems is also absolutely crucial for the stability of the financial 
+system. New technologies therefore have to meet very high standards in this respect. 
+However, it is quite possible that DLT may take hold in other areas. If DLT were to become 
+established in the securities business, for example, these systems would be linked to the 
+reliable foundation in some manner or other. It is hard to envisage DLT-based system 
+environments developing in isolation.  
+So the next question is what form the coexistence of new DLT solutions and conventional 
+RTGS systems might take. There are different scenarios. One possibility would be a simple 
+technical interface between the DLT system and the existing RTGS system, as illustrated on 
+the slide 6. Payment instructions would be exchanged via this interface, in much the same 
+way as the current solution between SECOM and SIC. However, direct delivery-versus-
+payment settlement would require certain adjustments, for example to the opening times and 
+participant structure of both systems.  
+A second and more far-reaching possibility would be to integrate the cash leg into the DLT-
+based infrastructure. This could be achieved by having the private operators of this 
+infrastructure issue a ‘settlement token’ on the DLT system, with the securities then being 
+settled against these tokens. An initiative launched by a consortium with Swiss participation is 
+working on such an approach under the project name ‘Utility Settlement Coin’. This example 
+shows how a market solution could ensure cash-side settlement of securities on the distributed 
+  Page 5/8 
+     ledger. This scenario is outlined on the slide 7. Such a privately issued settlement token 
+would be equivalent to commercial bank money, and fully secured by central bank money. 
+However, it would also be possible in principle for central bank money to be tokenised for the 
+settlement of interbank transactions. Central banks in some countries – Singapore among 
+them – are conducting experiments to gain a better understanding of the associated risks. As 
+you can see on the slide 8, this is similar in concept to the previous option. However, there are 
+a number of questions still to be answered in this respect as well. 
+As you can see, there would be various forms that this coexistence could take. What is crucial 
+is that the safety and reliability of the FMI be maintained. The central bank has an important 
+part to play in the reliable foundation, that is to say with regard to payments in the RTGS 
+system. Around this solid foundation, however, it is the market that has the main role. Here it 
+is the commercial banks and other private sector stakeholders that choose the best 
+technologies and solutions. 
+The division of roles between central banks and commercial banks results in a good balance 
+between safety and efficiency. At the first level, the central banks facilitate the settlement of 
+interbank transactions on secure systems and in electronic central bank money. In so doing, 
+they minimise the risks in the systemically important segment of payment transactions, 
+beyond which the risks can be borne by the market. At this second level, settlement can take 
+place via alternative channels, without necessarily having to be based on central bank money. 
+This division of roles between central banks and commercial banks epitomises our current 
+two-tier financial system. In the first tier, the central bank acts as the banker to the banks. In 
+the second tier, the commercial banks act as the interface to the end customers. And it is the 
+competing commercial banks that decide which services they want to provide for companies 
+and private individuals. This system is efficient and proven.  
+There is much more to fintech than just DLT 
+In connection with fintech, I have so far focused mainly on DLT. However, there is of course 
+much more to fintech than just DLT. In addition to DLT, a whole array of promising 
+innovations could potentially be applied to traditional financial services. We need only think 
+of mobile payments, robo advisers, crowd lending or big data. The multifaceted interplay of 
+ever greater processing power and storage capacity, together with the increase in the mobile 
+use of services, are opening up entirely new business areas. This is also reflected in the large 
+number of different business models currently represented in the Swiss fintech industry. The 
+slide 9 shows the different business models in Switzerland. Only 15% of the enterprises 
+within this segment are focusing on DLT, while the remainder are spread across other fields 
+of application. 
+One of the key areas for fintech is retail payments, i.e. payment transactions for companies 
+and private individuals. A well-functioning system of payment transactions for end customers 
+is a key pillar in any efficient economy. This payments area is undergoing a period of rapid 
+technological change. 
+  Page 6/8 
+     As with all fintech innovations, the primary focus is on the user-friendliness and speed of the 
+services offered. Technological advances have led to marked changes in consumer 
+expectations and requirements. Consumers want payment services to be ever faster and more 
+user-friendly, and they want to be able to use them wherever they may be. End consumers 
+these days are asking why it should take them longer to make a cashless payment than to send 
+a WhatsApp message. As elsewhere, customers expect immediate service when it comes to 
+payment transactions, and demand round-the-clock availability as well. 
+To satisfy these demands, fintech companies and banks are working on new solutions, such as 
+new applications, functionalities and services. Examples include linking the payment 
+application to retailers’ customer programmes, or cross-institutional analysis and visualisation 
+of end customers’ payment data. Experiments are being conducted in China on linking face 
+recognition technology and payment transactions, opening up the possibility of making 
+payments in the future by smiling into the seller’s camera. In this process of innovation, it is 
+of course essential that the key questions relating to aspects such as misuse or criminal usage 
+as well as the protection of customers are addressed effectively and coordinated 
+internationally. It is therefore important that the same business models with the same risks be 
+subject to the same regulation. 
+As part of its statutory mandate, the SNB also has a role to play when it comes to innovations 
+in the field of cashless payments. Specifically, it is the commissioning party and system 
+manager of SIC. At infrastructure level, the latter’s function is to offer the most attractive 
+framework possible for a cashless payment system that is fast and ensures high availability. 
+The SNB works together with stakeholders on the ongoing development of the SIC system. 
+One year ago, for example, the operating hours of this system were adjusted at the request of 
+the participants. 
+However, end customers’ needs in respect of payment transactions are best met by private 
+sector solutions. Here, too, the advantages of the two-tier system come into play. The slide 10 
+illustrates the point, taking payment transactions as an example. As I explained earlier, the 
+SNB as the bankers’ bank ensures that there is a reliable foundation for the settlement of 
+payments. In the retail payments space, financial services providers use this as a platform for 
+delivering their services to customers, doing so in competition with one another. Operating on 
+these two levels, this system ensures that the financial sector remains agile and safe, and that 
+the best ideas can thus take hold in the market without this compromising the systemically 
+important segment.  
+Digital central bank money – few advantages, significant risks 
+Ladies and Gentlemen, before I sum up I would like to say a few words on the subject of 
+digital central bank money for the general public. A more prominent role for central banks in 
+the end customer segment is currently being discussed, involving this and other associated 
+terms such as ‘cryptofranc’ and ‘e-franc’. However, we are convinced that private sector 
+solutions are better suited for meeting end customers’ needs in this area. Digital central bank 
+  Page 7/8 
+     money for the general public is not necessary to ensure an efficient system for cashless retail 
+payments. It would deliver scarcely any advantages, but would give rise to incalculable risks 
+with regard to financial stability by calling into question the tried-and-tested two-tier system. 
+Instead of operating as the bankers’ bank as it does today, the SNB would be acting as a 
+commercial bank for end customers. This would exacerbate the threat posed by bank runs in 
+times of crisis. Moreover, Switzerland would be alone in adopting such a solution: no other 
+central bank has implemented such a solution to date. 
+This brings me to the end of my speech. Please allow me to briefly sum up the key points. 
+Conclusion  
+I hope I have been able to demonstrate clearly why cryptocurrencies are not genuine rivals to 
+conventional currencies. That said, the underlying distributed ledger technology does indeed 
+have potential, especially in complex areas such as securities settlement and cross-border 
+payment transactions. Nevertheless, the technology still has to prove itself in practice.  
+As well as being efficient, DLT-based solutions must not give rise to any systemic risks in the 
+financial market infrastructure. In the systemically important segment of cashless interbank 
+payments, the SNB plays an active role by providing a reliable foundation. Any future DLT-
+based systems will have to be linked with the latter in some form or other. 
+In turn, in the area of cashless retail payments, the private sector is better placed to address 
+customers’ needs. The division of roles between the central bank (as the bankers’ bank) and 
+commercial banks (as the interface to the end customers) has certainly proved its worth over 
+the years. This brings me to an important conclusion: If cashless payment transactions are 
+efficient and innovative, there is no need for digital central bank money. 
+What is important is that we remain agile. Our existing set-up contributes to the stability of 
+the financial system, while at the same time allowing sufficient leeway for innovation. This 
+can be said of both the financial market infrastructure and the two-tier financial system as a 
+whole. In safeguarding this stability, we should nonetheless remain open to new 
+developments.  
+The SNB will continue to keep a close watch on developments to ensure that we are always 
+able to assess their potential impact on the financial system in good time. Flexible and safe 
+solutions often evolve from cooperation between market participants, regulators and central 
+banks. So let us shape the digital future together. 
+Thank you for your attention. 
+ 
+  Page 8/8 
+ The financial markets in changing times
+Changes today and tomorrow: the digital future
+Andréa M. Maechler, Member of the Governing Board
+Zurich, 5 April 2018
+Cryptocurrencies: low market capitalisation, high volatility
+  1
+5 April 2018
+Money Market Event  |  Andréa M. Maechler |  © Swiss National Bank
+l
+ 
+d
+o
+g
+ 
+f
+o
+ 
+s
+k
+c
+o
+t
+s
+ 
+d
+n
+u
+o
+r
+g
+-
+e
+v
+o
+b
+a
+ 
+f
+ o
+e
+c
+i
+r
+p
+ 
+t
+e
+k
+r
+a
+M
+  
+.
+l
+i
+l
+c
+n
+u
+o
+C
+ 
+d
+o
+G
+ 
+d
+l
+r
+o
+W
+ D
+E
+F
+ g
+r
+e
+b
+m
+o
+o
+B
+l
+ m
+o
+c
+.
+p
+a
+c
+t
+e
+k
+r
+a
+m
+n
+o
+C
+i
+ 
+:
+s
+e
+c
+r
+u
+o
+S
+%
+n
+ l
+d
+o
+G
+i
+ 
+y
+t
+i
+l
+i
+t
+l
+a
+o
+v
+ 
+y
+a
+d
+-
+0
+3
+t
+ 
+*
+*
+ 
+e
+a
+g
+e
+r
+g
+g
+a
+  2
+M
+ D
+S
+U
+ 
+*
+d
+e
+s
+i
+l
+a
+e
+R
+ 
+*
+*
+*
+Financial market infrastructure: bedrock of financial system
+Trading platform
+(Swiss Exchange)
+Securities settlement
+(SECOM)
+Trading platform
+Trade
+Securities settlement
+Settle-
+ment
+RTGS payment system
+(SIC)
+RTGS
+2
+5 April 2018
+Money Market Event  |  Andréa M. Maechler |  © Swiss National Bank
+B
+N
+S
+ e
+c
+r
+u
+o
+S
+Financial market infrastructure: linking market participants
+Trading platform
+Trade
+Securities settlement
+Settle-
+ment
+RTGS
+Broker
+Bank
+Settlement service
+provider
+Custodian
+3
+5 April 2018
+Money Market Event  | Andréa M. Maechler
+Central bank
+B
+N
+S
+ e
+c
+r
+u
+o
+S
+Today: complex centralised and bilateral reconciliation
+Buyer
+Trading platform
+Trade
+Securities settlement
+Settle-
+ment
+RTGS
+Seller
+Bank
+Settlement service
+provider
+Custodian
+4
+5 April 2018
+Money Market Event  | Andréa M. Maechler
+Central bank
+B
+N
+S
+ e
+c
+r
+u
+o
+S
+DLT: decentralised and automated synchronisation
+Buyer
+Trading platform
+Trade
+Securities settlement
+Securities settlement
+Settle-
+ment
+RTGS
+Broker
+Seller
+Bank
+Settlement service
+provider
+Custodian
+5
+5 April 2018
+Money Market Event  | Andréa M. Maechler
+Central bank
+B
+N
+S
+ e
+c
+r
+u
+o
+S
+Coexistence: message exchange via interface
+Buyer
+Trading platform
+Trade
+Securities settlement
+Settle-
+ment
+RTGS
+Broker
+Seller
+Bank
+Settlement service
+provider
+Custodian
+6
+5 April 2018
+Money Market Event  | Andréa M. Maechler
+Central bank
+B
+N
+S
+ e
+c
+r
+u
+o
+S
+Coexistence: settling payment leg using private token
+Buyer
+Trading platform
+Trade
+Broker
+Seller
+s
+e
+h
+s
+a
+C
+Securities settlement
+i
+t
+i
+r
+u
+c
+e
+S
+Token
+RTGS
+Central bank
+7
+5 April 2018
+Money Market Event  | Andréa M. Maechler
+Bank
+Settlement service
+provider
+Custodian
+B
+N
+S
+ e
+c
+r
+u
+o
+S
+Coexistence: tokenisation of central bank money 
+Buyer
+Trading platform
+Trade
+Broker
+Seller
+s
+e
+h
+s
+a
+C
+Securities settlement
+i
+t
+i
+r
+u
+c
+e
+S
+Token
+RTGS
+Central bank
+8
+5 April 2018
+Money Market Event  | Andréa M. Maechler
+Bank
+Settlement service
+provider
+Custodian
+B
+N
+S
+ e
+c
+r
+u
+o
+S
+Fintech: more than just DLT
+SWISS FINTECH INDUSTRY (220 COMPANIES)
+22%
+15%
+12%
+15%
+12%
+24%
+DLT
+Payments
+Deposits & lending
+Investment management
+Analytics
+Banking infrastructure
+9
+5 April 2018
+Money Market Event  |  Andréa M. Maechler |  © Swiss National Bank
+t
+8
+1
+0
+2
+ 
+y
+d
+u
+S
+h
+c
+e
+n
+F
+Z
+F
+ t
+ i
+I
+ 
+:
+e
+c
+r
+u
+o
+S
+Two tiers: allowing flexible market solutions for end customers
+RTGS
+Central bank
+10
+5 April 2018
+Money Market Event  | Andréa M. Maechler
+B
+N
+S
+ e
+c
+r
+u
+o
+S
+Thank you for your attention.
+© Swiss National Bank

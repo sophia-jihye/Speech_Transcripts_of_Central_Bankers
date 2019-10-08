@@ -1,0 +1,168 @@
+Paul Tucker: Clearing houses as system risk managers 
+Speech  given  by  Mr  Paul  Tucker,  Deputy  Governor  for  Financial  Stability  at  the  Bank  of 
+England,  at  the  Depository  Trust  &  Clearing  Corporation  (DTCC)-Centre  for  the  Study  of 
+Financial Innovation (CSFI) Post Trade Fellowship Launch, London, 1 June 2011. 
+ It is a real pleasure to be here this evening. The new “Post-Trade Fellowship” is an excellent 
+idea, and I am delighted Peter Norman is the first incumbent. Like CSFI, Peter has made a 
+very considerable contribution to thinking about the financial system – and no more so than 
+in his latest book, The Risk Controllers. There is hardly a more important topic right now. The 
+community  has  rediscovered  the  importance  of  the  financial  system’s  plumbing.  Your  new 
+Fellowship will help to sustain that interest as the years pass. And that is of special interest to 
+the  Bank  of  England  given  the  government’s  plan  to  transfer  to  us  responsibility  for 
+supervising critical financial infrastructure – settlement systems and clearing houses.  
+CCPs and the financial network 
+Right now, the biggest “plumbing” issues follow from the decision of the G20 that more of the 
+over-the-counter derivatives market should be cleared via central counterparties.  
+But  this  is  not  just  about  derivatives  markets.  Compared  to  their  origins  in  clearing 
+commodity futures and then exchange-traded financial derivatives, CCPs have increasingly 
+been  clearing  cash  instruments  –  notably  equities  and,  in  recent  years,  government  bond 
+repos.  In  London,  LCH’s  move  to  clear  repos  in  Spanish  government  bonds  helped  that 
+market stay open during some dark days last year. 
+Why  are  CCPs  important?  There  has  been  a  resumption  of  interest  in  the  network 
+characteristics  of  the  financial  system.  CCPs  simplify  the  complex  web  of  counterparty 
+exposures  through  multilateral  netting  –  precisely  what  the  US  authorities  contemplated 
+trying to achieve ad hoc towards the end of a weekend when Lehman was slipping away. But 
+they  do  more  than  facilitate  multilateral  netting.  They  substitute  themselves  as  the 
+counterparty to the trades they clear – hence a central counterparty.  
+This  makes  them  unusual  financial  institutions,  because  they  run  a  completely  matched 
+book,  and  so  ordinarily  are  not  exposed  to  market  risk  in  their  core  activity.  They  are 
+exposed  in  a  big  way  to  counterparty  credit  risk.  If  a  counterparty  defaults,  they  have 
+uncovered  market  risk  positions,  and  need  to  enter  the  market  to  get  back  to  square. 
+Everything  important  about  a  CCP  concerns  how  they  manage  those  risks.  In  essence, 
+having centralised risk upon themselves, they redistribute it to their clearing members. They 
+do that through a waterfall under which, in the event of a counterparty defaulting, the CCP 
+can draw on, first, the margin pledged by the firm, then its contribution to the default fund, 
+then the rest of the default fund etc.  
+CCPs as risk managers  
+Given that CCPs centralise and concentrate risk, their job is not just to deliver ever greater 
+operational and capital efficiency for their clearing members. It is not just about IT. It is about 
+making it less likely that their clearing members will default on their obligations to the clearing 
+house;  containing  the  spillovers  from  any  failure  of  clearing  members;  and,  above  all, 
+ensuring  their  own  financial  integrity.  They  are  de  facto  regulators  and  supervisors  for  the 
+markets they clear; and risk managers of their own balance sheet. In protecting themselves, 
+they  impose  some  financial  discipline  on  their  clearing  members.  They  do  this  through 
+financial  soundness  and  operational-capacity  requirements  for  access;  initial  and  variation 
+BIS central bankers’ speeches 
+ 1
+margining;  and  levying  contributions  to  a  default  fund.  And  they  act  as  a  central  market 
+authority for valuing positions and setting minimum margin levels. 
+To  deliver  those  quasi  regulatory  and  supervisory  responsibilities,  CCPs  need  to  adopt 
+prudent collateral policies; but also to monitor the robustness of their clearing members and 
+risks from the business that they are bringing to the CCP. Amongst other things, that means 
+collecting and analysing information from clearing members on large positions taken by their 
+customers. I am not convinced that that is sufficiently recognised by clearing houses or by 
+standard setters.  
+CCPs  are,  in  truth,  system  risk  managers.  They  absolutely  must  think  of  themselves  as 
+that, and organise themselves accordingly.  
+Margining and systemic risk  
+The margining policy of CCPs matters enormously to the stability of the system.  
+CCPs should take care to avoid having margining policies that are unnecessarily procyclical 
+– chasing after events and amplifying market moves. At the other end of the spectrum, there 
+is an important question of whether the macroprudential authorities should be able to require 
+changes in initial margin levels in the face of market exuberance. In the UK, there will be a 
+debate about whether the Bank of  England’s Financial Policy Committee should have that 
+power. The Basel Committee of the Global Financial System has already produced a report 
+on it.1 
+In  a  different  dimension,  there  is  an  important  question  about  whether  clearing  houses 
+should adopt what is called Gross Margining rather than Net Margining. What this means is 
+that a clearing member – ie a dealer – could not net off positions of their various customers 
+and their own house position when the amount of margin they have to hold with the clearing 
+house  is  determined.  That  would  affect  the  incentives  of  clearing  members  to  collect 
+minimum  margin  amounts  from  their  customers.  And,  more  generally,  it  would  probably 
+reduce  the  amount  of  leverage  in  the  system  and  simplify  the  chain  of  credit.  In  terms  of 
+public  policy  objectives,  this  is,  therefore,  about  more  than  investor  protection  through  the 
+segregation  of  client  moneys,  and  so  needs  to  be  debated  against  the  goal  of  preserving 
+stability without impairing efficiency. 
+The resolution of CCPs  
+If  CCPs  can  do  a  lot  of  good  by  simplifying  the  network  of  counterparty  exposures  and 
+imposing standard valuations and margin requirements, conversely it is an understatement 
+that  it  would  be  a  disaster  if  a  clearing  house  failed.  Commentators  have,  indeed,  been 
+emphasising  that  CCPs  are  becoming  systemic.  To  my  own  way  of  thinking,  they  have 
+already been systemic for the markets they clear for a very long time.   
+Three  clearing  houses  have  failed  in  recent  decades.  In  1974,  the  Caisse  de  Liquidation 
+failed in Paris, due to default on margin calls when sugar-futures prices fell sharply. In 1983, 
+it was the turn of the Kuala Lumpur Commodities Clearing House, when half a dozen large 
+brokers  defaulted  following  a  crash  in  palm-oil  futures.  And,  most  dramatically,  the  Hong 
+Kong Futures Exchange clearing house failed in the wake of the global stock market crash in 
+1987.  The  effects  were  devastating.  The  Futures  Exchange  had  to  close.  Traders  had 
+hedged margin-financed cash equity positions in the futures market. They faced margin calls 
+on their cash positions but, with the futures market closed and the clearing house bust, they 
+                                                 
+1  
+“The role of margin requirements and haircuts in procyclicality”, Committee on the Global Financial System, 
+March 2010. 
+2 
+ BIS central bankers’ speeches
+could not get margin moneys returned on their profitable futures positions. For that and other 
+reasons, the stock market closed too. The upshot was that Hong Kong’s main capital market 
+shut down. Reopening the market was no small feat. World markets had fallen further in the 
+meantime, so there was a risk that a modestly “recapitalised” Clearing House would go broke 
+again  if  positions  had  to  be  marked  down  immediately.  In  the  event,  the  Hong  Kong 
+Government and the clearing banks underpinned the Clearing House.  
+This episode warrants more study than it has received. Had it been London, Chicago or New 
+York, it would have entered the folklore of policy memory.  
+As  with  banks,  public  policy  has  to  have  two  components.  First,  minimum  standards  to 
+ensure that CCPs do not fail. IOSCO/CPSS are currently consulting on updated standards. 
+(My earlier remarks go to that.) But second, a clear ex ante framework is needed for limiting 
+disorder if, nevertheless, a CCP does in fact fail. 
+I shall therefore close with a few preliminary thoughts on frameworks for handling the failure 
+of a CCP. As with any business activity, if an institution is insolvent or otherwise cannot pay 
+its debts, it has to stop trading, close and go into liquidation. That can be a disastrous course 
+for a major financial institution at the very heart of important capital markets. Policy in this 
+general area revolves around building regimes that avoid taxpayer solvency support but are 
+less disruptive than orthodox corporate liquidation. In the banking sphere, where a great deal 
+of work is underway internationally, this is known as “resolution”. 
+In the case of a distressed CCP, it is most likely that it would have been brought down by the 
+failure of a very large clearing member and so would have unmatched positions as well as 
+continuing matched positions. For the surviving clearing members, they would suddenly find 
+themselves  having  unmatched  positions,  with  continuing  obligations  to  clients  but  a 
+non-performing CCP on the other side. Two strategies come to mind, which I am airing for 
+debate. The first would be “recapitalising” the CCP so that it can carry on. The second would 
+be to aim to bring off a more or less smooth unwinding of the CCP’s book of transactions.  
+On  the  former  route,  in  the  banking  sphere  the  basic  strategy  is  to  develop  regimes  for 
+bondholders  to  share  in  the  losses  after  the  equity  is  wiped  out;  a  distressed  bank  gets 
+“recapitalised” in some way through a reconstruction of its liabilities. But CCPs do not issue 
+debt,  so  there  is  not  obviously  an  economic  equivalent  of  recapitalisation  by  way  of 
+haircutting the debt claims of bondholders. Recapitalisation would seem to entail an injection 
+of new outside capital. That should not come from the public sector. So the only options are 
+the surviving clearing members themselves or a new “owner”. On the face of it, the clearing 
+members would have to be involved, as surely the stricken CCP’s default fund would also 
+need replenishing in order for it to continue. 
+If  the  default  fund  were  to  be  replenished  by  its  surviving  clearing  members,  that  could  in 
+principle be sorted out at the time or it could be pre programmed. In practice, making it up at 
+the time must be dangerous. A pre-programmed allocation of losses would be akin to the old 
+“Down To The Last Drop” rule that used to be employed by a Chicago clearing house, under 
+which  surviving  clearing  members  ultimately  had  collectively 
+losses: 
+mutualisation.  (It  was  dropped  because,  as  banks  became  futures-exchange  clearing 
+members, bank supervisors didn’t like the unlimited exposure of CMs who were banks. An 
+example of unjoined-up thinking.) 
+That’s the option around propping up the clearing house to keep it going.  
+The other option is some kind of wind down of the Clearing House’s book. That involves a 
+combination  of  closing  out  part  of  the  book  in  the  market,  and  doing  something  with  any 
+residue that can’t be dealt in the market. One obvious thing to do with the residue is to put it 
+back, pro rata, to the surviving (and fit) clearing members. But that is also a variant of the 
+DTTLD rule, but “in kind” rather than cash. 
+to  absorb  all 
+BIS central bankers’ speeches 
+ 3
+Maybe  I’ve  got  this  wrong  but,  in  summary,  it  seems  to  me  that  questions  about  orderly 
+resolution of a failed CCP have to involve clarity around the extent to which surviving clearing 
+members pick up the pieces.  
+Summary 
+The  design,  management  and  oversight  of  CCPs  is  something  that  we  are  going  to  come 
+back to again and again in the years ahead.  
+I want, therefore, to conclude, if I may, with a quote from the post-‘87 crash Report of the 
+Hong Kong Securities Review Committee, published in the summer of 1988, nearly a quarter 
+of a century ago:  
+“When  everything  else  is  stripped  away,  the  most  pressing  issue  is  the 
+management  of  risk.  The  focus  of  this  is  ......increasingly,  the  central  clearing 
+houses  –  indeed  [their] prudent  operation  is  perhaps  the  single  most  important 
+objective for the market authorities and regulators.”2 
+It is time to catch up with that insight. Your new Post-Trade Fellowship will surely help us to 
+do so. 
+                                                 
+2  Paragraph 3.21, Report of the Hong Kong Securities Review Committee, 1988. I should disclose that I was an 
+Advisor to the SRC. 
+4 
+ BIS central bankers’ speeches

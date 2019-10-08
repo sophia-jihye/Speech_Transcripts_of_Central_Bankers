@@ -1,0 +1,273 @@
+Ben S Bernanke: Monetary policy under uncertainty 
+Remarks  by  Mr  Ben  S  Bernanke,  Chairman  of  the  Board  of  Governors  of  the  US  Federal 
+Reserve System, at the 32nd Annual Economic Policy Conference, Federal Reserve Bank of 
+St. Louis, (via videoconference), 19 October 2007.  
+The original speech, which contains various links to the documents mentioned, can be found on the US Federal 
+Reserve System’s website.  
+ Bill Poole's career in the Federal Reserve System spans two decades separated by a quarter 
+of a century. From 1964 to 1974 Bill was an economist on the staff of the Board's Division of 
+Research and Statistics. He then left to join the economics faculty at Brown University, where 
+he  stayed  for  nearly  twenty-five  years.  Bill  rejoined  the  Fed  in  1998  as  president  of  the 
+Federal Reserve Bank of St. Louis, so he is now approaching the completion of his second 
+decade in the System.  
+As it happens, each of Bill's two decades in the System was a time of considerable research 
+and  analysis  on  the  issue  of  how  economic  uncertainty  affects  the  making  of  monetary 
+policy, a topic on which Bill has written and spoken many times. I would like to compare the 
+state of knowledge on this topic during Bill's first decade in the System with what we have 
+learned during his most recent decade of service. The exercise is interesting in its own right 
+and has the added benefit of giving me the opportunity to highlight Bill's seminal contributions 
+in this line of research. 
+Developments during the first period: 1964-74 
+In  1964,  when  Bill  began  his  first  stint  in  the  Federal  Reserve  System,  policymakers  and 
+researchers were becoming increasingly confident in the ability of monetary and fiscal policy 
+to  smooth  the  business  cycle.  From  the  traditional  Keynesian  perspective,  which  was  the 
+dominant viewpoint of the time, monetary policy faced a long-term tradeoff between inflation 
+and unemployment that it could exploit to keep unemployment low over an indefinitely long 
+period  at  an  acceptable  cost  in  terms  of  inflation.  Moreover,  improvements  in  econometric 
+modeling  and  the  importation  of  optimal-control  methods  from  engineering  were  seen  as 
+having the potential to tame the business cycle. 
+Of  course,  the  prevailing  optimism  had  its  dissenters,  notably  Milton  Friedman.  Friedman 
+believed that the inherent complexity of the economy, the long and variable lags with which 
+monetary  policy  operates,  and  the  political  and  bureaucratic  influences  on  central  bank 
+decisionmaking  precluded  policy  from  fine  tuning  the  level  of  economic  activity.  Friedman 
+advocated the use of simple prescriptions for monetary policy – such as the k percent money 
+growth rule – which he felt would work reasonably well on average while avoiding the pitfalls 
+of attempting to fine-tune the economy in the face of pervasive uncertainty (Friedman, 1968).  
+Other economists were more optimistic than Friedman about the potential benefits of activist 
+policies.  Nevertheless,  they  recognized  that  the  fundamental  economic  uncertainties  faced 
+by  policymakers  are  a  first-order  problem  and  that  improving  the  conduct  of  policy  would 
+require  facing  that  problem  head  on.  During  this  decade,  those  researchers  as  well  as 
+sympathetic  policymakers  focused  especially  on  three  areas  of  economic  uncertainty:  the 
+current  state  of  the  economy,  the  structure  of  the  economy  (including  the  transmission 
+mechanism of monetary policy), and the way in which private agents form expectations about 
+future economic developments and policy actions. 
+Uncertainty about the current state of the economy is a chronic problem for policymakers. At 
+best, official data represent incomplete snapshots of various aspects of the economy, and 
+even then they may be released with a substantial lag and be revised later. Apart from issues 
+BIS Review 118/2007 
+ 1
+of  measurement,  policymakers  face  enormous  challenges  in  determining  the  sources  of 
+variation in the data. For example, a given change in output could be the result of a change 
+in aggregate demand, in aggregate supply, or in some combination of the two. 
+As  most  of  my  listeners  know,  Bill  Poole  tackled  these  issues  in  a  landmark  1970  paper, 
+which  examined  how  uncertainty  about  the  state  of  the  economy  affects  the  choice  of  the 
+operating instrument for monetary policy (Poole, 1970). In the simplest version of his model, 
+Bill  assumed  that  the  central  bank  could  choose  to  specify  its  monetary  policy  actions  in 
+terms  of  a  particular  level  of  a  monetary  aggregate  or  a  particular  value  of  a  short-term 
+nominal interest rate. If the central bank has only partial information about disturbances to 
+money  demand  and  to  aggregate  demand,  Bill  showed  that  the  optimal  choice  of  policy 
+instrument depends on the relative variances of the two types of shocks. In particular, using 
+the  interest  rate  as  the  policy  instrument  is  the  better  choice  when  aggregate  demand  is 
+relatively  stable  but  money  demand  is  unstable,  with  money  growth  being  the  preferable 
+policy instrument in the opposite case. 
+Bill was also a pioneer in formulating simple feedback rules that established a middle ground 
+between  the  mechanical  approach  advocated  by  Friedman  and  the  highly  complex 
+prescriptions  of  optimal-control  methods.  For  example,  Bill  wrote  a  Federal  Reserve  staff 
+paper  titled  "Rules-of-Thumb  for  Guiding  Monetary  Policy"  (Poole,  1971).  Because  his 
+econometric  analysis  of  the  available  data  indicated  that  money  demand  was  more  stable 
+than aggregate demand, Bill formulated a simple rule that adjusted the money growth rate in 
+response to the observed unemployment rate. Bill was also practical in noting the pitfalls of 
+mechanical adherence to any particular policy rule; in this study, for example, he emphasized 
+that the proposed rule was not intended "to be followed to the last decimal place or as one 
+that is good for all time [but] . . . as a guide – or as a benchmark – against which current 
+policy may be judged" (p. 152). 
+Uncertainty about the structure of the economy also received attention during that decade. 
+For  example,  in  his  elegant  1967  paper,  Bill  Brainard  showed  that  uncertainty  about  the 
+effect  of  policy  on  the  economy  may  imply  that  policy  should  respond  more  cautiously  to 
+shocks than would be the case if this uncertainty did not exist. Brainard's analysis has often 
+been cited as providing a theoretical basis for the gradual adjustment of policy rates of most 
+central banks. Alan Blinder has written that the Brainard result was "never far from my mind 
+when I occupied the Vice Chairman's office at the Federal Reserve. In my view, . . . a little 
+stodginess at the central bank is entirely appropriate" (Blinder, 1998, p. 12). 
+A key source of uncertainty became evident in the late 1960s and 1970s as a result of highly 
+contentious debates about the formation of expectations by households and firms. Friedman 
+(1968)  and  Ned  Phelps  (1969)  were  the  first  to  highlight  the  central  importance  of 
+expectations formation, arguing that the private sector's expectations adjust in response to 
+monetary  policy  and  therefore  preclude  any  long-run  tradeoff  between  unemployment  and 
+inflation. However, Friedman and Phelps retained the view that monetary policy could exert 
+substantial  effects  on  the  real  economy  over  the  short  to  medium  run.  In  contrast,  Robert 
+Lucas  and  others  reached  more  dramatic  conclusions,  arguing  that  only  unpredictable 
+movements in monetary policy can affect the real economy and concluding that policy has no 
+capacity to smooth the business cycle (Lucas, 1972; Sargent and Wallace, 1975). Although 
+these studies highlighted the centrality of inflation expectations for the analysis of monetary 
+policy,  the  profession  did  not  succeed  in  reaching  any  consensus  about  how  those 
+expectations evolve, especially in an environment of ongoing structural change.  
+Developments during the second period: 1998-2007 
+Research  during  the  past  ten  years  has  been  very  fruitful  in  expanding  the  profession's 
+understanding  of  the  implications  of  uncertainty  for  the  design  and  conduct  of  monetary 
+policy. 
+2 
+ BIS Review 118/2007
+On the issue of uncertainty about the state of the economy, Bill's work continues to provide 
+fundamental insights regarding the choice of policy instrument. Money demand relationships 
+were relatively stable through the 1950s and 1960s, but, in the wake of dramatic innovations 
+in  banking  and  financial  markets,  short-term  money-demand  relationships  became  less 
+predictable, at least in the United States. As a result, consistent with the policy implication of 
+Bill's  1970  model,  the  Federal  Reserve  (like  most  other  central  banks)  today  uses  the 
+overnight interbank rate as the principal operating target of monetary policy. Bill's research 
+also raised the possibility of specifying the operating target in other ways, for example, as an 
+index  of  monetary  or  financial  conditions;  and  it  provided  a  framework  for  evaluating  the 
+usefulness of intermediate targets – such as core inflation or the growth of broad money – 
+that are only indirectly controlled by policy. 
+More generally, the task of assessing the current state of the economy remains a formidable 
+challenge. Indeed, our appreciation of that challenge has been enhanced by recent research 
+using  real  time  data  sets.1  For  example,  Athanasios  Orphanides  has  shown  that  making 
+such real-time assessments of the sustainable levels of economic activity and employment is 
+considerably  more  difficult  than  estimating  those  levels  retrospectively.  His  2002  study  of 
+U.S. monetary policy in the 1970s shows how mismeasurement of the sustainable level of 
+economic activity can lead to serious policy mistakes.  
+On a more positive note, economists have made substantial progress over the past decade 
+in developing new econometric methods for summarizing the information about the current 
+state of the economy contained in a wide array of economic and financial market indicators 
+(Svensson and Woodford, 2003). Dynamic-factor models, for example, provide a systematic 
+approach  to  extracting  information  from  real-time  data  at  very  high  frequencies.  These 
+approaches have the potential to usefully supplement more informal observation and human 
+judgment  (Stock  and  Watson,  2002;  Bernanke  and  Boivin,  2003;  and  Giannone,  Reichlin, 
+and Small, 2005). 
+The past decade has also witnessed significant progress in analyzing the policy implications 
+of  uncertainty  regarding  the  structure  of  the  economy.  New  work  addresses  not  only 
+uncertainty about the values of specific parameters in a given model of the economy but also 
+uncertainty about which of several competing models provides the best description of reality. 
+Some  research  has  attacked  those  problems  using  Bayesian  optimal-control  methods 
+(Brock,  Durlauf,  and  West,  2003).  The  approach  requires  the  specification  of  an  explicit 
+objective function as well as of the investigator's prior probabilities over the set of plausible 
+models  and  parameter  values.  The  Bayesian  approach  provides  a  useful  benchmark  for 
+policy  in  an  environment  of  well-defined  sources  of  uncertainty  about  the  structure  of  the 
+economy,  and  the  resulting  policy  prescriptions  give  relatively  greater  weight  to  outcomes 
+that have a higher probability of being realized. In contrast, other researchers, such as Lars 
+Hansen and Thomas Sargent, have developed robust-control methods – adapted from the 
+engineering  literature  –  that  are  aimed  at  minimizing  the  consequences  of  worst-case 
+scenarios, including those with only a low probability of being realized (Hansen and Sargent, 
+2007). 
+An  important  practical  implication  of  all  this  recent  literature  is  that  Brainard's  attenuation 
+principle  may  not  always  hold.  For  example,  when  the  degree  of  structural  inertia  in  the 
+inflation  process  is  uncertain,  the  optimal  Bayesian  policy  tends  to  involve  a  more 
+pronounced  response  to  shocks  than  would  be  the  case  in  the  absence  of  uncertainty 
+(Söderstrom,  2002).  The  concern  about  worst-case  scenarios  emphasized  by  the  robust-
+control approach may likewise lead to amplification rather than attenuation in the response of 
+the optimal policy to shocks (Giannoni, 2002; Onatski and Stock, 2002; and Tetlow and von 
+zur Muehlen, 2002). Indeed, intuition suggests that stronger action by the central bank may 
+                                                 
+1   A recent example is Faust and Wright (2007). 
+BIS Review 118/2007 
+ 3
+be warranted to prevent particularly costly outcomes.  
+Although  Bayesian  and  robust-control  methods  provide  insights  into  the  nature  of  optimal 
+policy, the corresponding policy recommendations can be complex and sensitive to the set of 
+economic models being considered. A promising alternative approach – reminiscent of the 
+work  that  Bill  Poole  did  in  the  1960s  –  focuses  on  simple  policy  rules,  such  as  the  one 
+proposed by John Taylor, and compares the performance of alternative rules across a range 
+of possible models and sets of parameter values (Levin, Wieland, and Williams, 1999 and 
+2003). That approach is motivated by the notion that the perfect should not be the enemy of 
+the good; rather than trying to find policies that are optimal in the context of specific models, 
+the  central  bank  may  be  better  served  by  adopting  simple  and  predictable  policies  that 
+produce reasonably good results in a variety of circumstances.  
+Given  the  centrality  of  inflation  expectations  for  the  design  of  monetary  policy,  a  key 
+development  over  the  past  decade has  been  the  burgeoning  literature on  the  formation  of 
+these  expectations  in  the  absence  of  full  knowledge  of  the  underlying  structure  of  the 
+economy.2 For example, considerations of how the public learns about the economy and the 
+objectives  of  the  central  bank  can  affect  the  form  of  the  optimal  monetary  policy  (Gaspar, 
+Smets, and Vestin, 2006; Orphanides and Williams, 2007). Furthermore, when the public is 
+unsure about the central bank's objectives, even greater benefits may accompany achieving 
+a stable inflation rate, as doing so may help anchor the public's inflation expectations. These 
+studies also show why central bank communications is a key component of monetary policy; 
+in a world of uncertainty, informing the public about the central bank's objectives, plans, and 
+outlook can affect behavior and macroeconomic outcomes (Bernanke, 2004; and Orphanides 
+and Williams, 2005). 
+Conclusion 
+Uncertainty – about the state of the economy, the economy's structure, and the inferences 
+that  the  public  will  draw  from  policy  actions  or  economic  developments  –  is  a  pervasive 
+feature  of  monetary  policy  making.  The  contributions  of  Bill  Poole  have  helped  refine  our 
+understanding  of  how  to  conduct  policy  in  an  uncertain  environment.  Notably,  we  now 
+appreciate that policy decisions under uncertainty must take into account a range of possible 
+scenarios about the state or structure of the economy, and those policy decisions may look 
+quite different from those that would be optimal under certainty. For example, policy actions 
+may be attenuated or augmented relative to the "no-uncertainty benchmark," depending on 
+one's judgments about the possible outcomes and the costs associated with those outcomes. 
+The  fact  that  the  public  is  uncertain  about  and  must  learn  about  the  economy  and  policy 
+provides  a  reason  for  the  central  bank  to  strive  for  predictability  and  transparency,  avoid 
+overreacting to current economic information, and recognize the challenges of making real-
+time assessments of the sustainable level of real economic activity and employment. Most 
+fundamentally, our discussions of the pervasive uncertainty that we face as policymakers is a 
+powerful reminder of the need for humility about our ability to forecast and manage the future 
+course of the economy.  
+References 
+Bernanke, Ben S. (2004). "Fedspeak", speech delivered at the Meetings of the American 
+Economic Association, San Diego, January 3, 
+www.federalreserve.gov/boarddocs/speeches/2004/200401032/default.htm. 
+                                                 
+2   Bernanke (2007) and the references therein. 
+4 
+ BIS Review 118/2007
+_________ (2007). "Inflation Expectations and Inflation Forecasting", speech delivered at the 
+Monetary Economics Workshop of the National Bureau of Economic Research Summer 
+Institute, Cambridge, Mass., July 10, 
+www.federalreserve.gov/newsevents/speech/bernanke20070710a.htm. 
+Bernanke, Ben S., and Jean Boivin (2003). "Monetary Policy in a Data-Rich Environment", 
+Journal of Monetary Economics, vol. 50 (April), pp. 525-46. 
+Blinder,  Alan  S.  (1998).  Central  Banking  in  Theory  and  Practice.  Cambridge,  Mass.:  MIT 
+Press. 
+Brainard,  William  C.  (1967).  "Uncertainty  and  the  Effectiveness  of  Policy",  American 
+Economic Review, vol. 57 (May, Papers and Proceedings), pp. 411-25.  
+Brock,  William  A.,  Steven  N.  Durlauf,  and  Kenneth  D.  West  (2003).  "Policy  Analysis  in 
+Uncertain Economic Environments", Brookings Papers on Economic Activity, vol. 2003 (no. 
+1), pp. 235-322. 
+Faust, Jon, and Jonathan H. Wright (2007). "Comparing Greenbook and Reduced Form 
+Forecasts Using a Large Realtime Dataset (259 KB PDF)," paper presented at "Real-Time 
+Data Analysis and Methods in Economics," a conference held at the Federal Reserve Bank 
+of Philadelphia, April 19-20, 
+www.phil.frb.org/econ/conf/rtconference2007/papers/Paper-Wright.pdf. 
+Friedman, Milton (1968). "The Role of Monetary Policy", American Economic Review, vol. 58 
+(March), pp. 1-17. 
+Gaspar, Vitor, Frank Smets, and David Vestin (2006). "Adaptive Learning, Persistence, and 
+Optimal Monetary Policy", Journal of the European Economic Association, vol. 4 (April-May), 
+pp. 376-85. 
+Giannone,  Domenico,  Lucrezia  Reichlin,  and  David  Small  (2005).  "Nowcasting  GDP  and 
+Inflation: The Real-Time Informational Content of Macroeconomic Data Releases", Finance 
+and Economics Discussion Series 2005-42. Washington: Board of Governors of the Federal 
+Reserve System, October, www.federalreserve.gov/pubs/feds/2005. 
+Giannoni,  Marc  P.  (2002).  "Does  Model  Uncertainty  Justify  Caution?  Robust  Optimal 
+Monetary Policy in a Forward-Looking Model", Macroeconomic Dynamics, vol. 6 (February), 
+pp. 111-44. 
+Hansen,  Lars  Peter,  and  Thomas  J.  Sargent  (2007).  Robustness.  Princeton:  Princeton 
+University Press. 
+Levin, Andrew, Volker Wieland, and John Williams (1999). "Robustness of Simple Monetary 
+Policy Rules under Model Uncertainty", in Taylor, John, ed., Monetary Policy Rules. Chicago: 
+University of Chicago Press, pp. 263-99. 
+_________  (2003).  "The  Performance  of  Forecast-Based  Monetary  Policy  Rules  under 
+Model Uncertainty", American Economic Review, vol. 93 (June), pp. 622-45. 
+Lucas,  Robert  E.,  Jr.  (1972).  "Expectations  and  the  Neutrality  of  Money",  Journal  of 
+Economic Theory, vol. 4 (June), pp.103-24. 
+Onatski,  Alexei,  and  James  H.  Stock  (2002).  "Robust  Monetary  Policy  under  Model 
+Uncertainty  in  a  Small  Model  of  the  U.S.  Economy",  Macroeconomic  Dynamics,  vol.  6 
+(March), pp. 85-110. 
+Orphanides, Athanasios (2002). "Monetary-Policy Rules and the Great Inflation", American 
+Economic Review, vol. 92 (May, Papers and Proceedings), pp. 115-20. 
+Orphanides, Athanasios, and John C. Williams (2005). "Inflation Scares and Forecast-based 
+Monetary Policy", Review of Economic Dynamics, vol. 8 (April), pp. 498-527. 
+BIS Review 118/2007 
+ 5
+_________ (2007). "Robust Monetary Policy with Imperfect Knowledge", Journal of Monetary 
+Economics, vol. 54 (July), pp. 1406-35. 
+Phelps, Edmund S. (1969). "The New Microeconomics in Inflation and Employment Theory", 
+American Economic Review, vol. 59 (May, Papers and Proceedings), pp. 147-60. 
+Poole,  William  (1970).  "Optimal  Choice  of  Monetary  Policy  Instruments  in  a  Simple 
+Stochastic Macro Model", Quarterly Journal of Economics, vol. 84 (May), pp. 197-216. 
+_________ (1971). "Rules-of-Thumb for Guiding Monetary Policy", in Open Market Policies 
+and Operating Procedures – Staff Studies. Washington: Board of Governors of the Federal 
+Reserve System, pp. 135-89. 
+Sargent, Thomas J., and Neil Wallace (1975). "'Rational' Expectations, the Optimal Monetary 
+Instrument,  and  the  Optimal  Money  Supply  Rule",  Journal  of  Political  Economy,  vol.  83 
+(April), pp. 241-54. 
+Söderstrom, Ulf (2002). "Monetary Policy with Uncertain Parameters", Scandinavian Journal 
+of Economics, vol. 104 (February), pp. 125-45. 
+Stock,  James,  and  Mark  Watson  (2002).  "Forecasting  Using  Principal  Components  from  a 
+Large  Number  of  Predictors",  Journal  of  the  American  Statistical  Association,  vol.  97 
+(December), pp. 1167-79. 
+Svensson, Lars E.O., and Michael Woodford (2003). "Indicator Variables for Optimal Policy", 
+Journal of Monetary Economics, vol. 50 (April), pp. 691-720. 
+Tetlow,  Robert,  and  Peter  von  zur  Muehlen  (2001).  "Robust  Monetary  Policy  with 
+Misspecified Models: Does Model Uncertainty Always Call for Attenuated Policy?" Journal of 
+Economic Dynamics and Control, vol. 25 (June), pp. 911-49. 
+6 
+ BIS Review 118/2007

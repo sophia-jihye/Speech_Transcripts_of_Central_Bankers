@@ -1,0 +1,287 @@
+Simon M Potter: The implementation of current asset purchases 
+Remarks  by  Mr  Simon  M  Potter,  Executive  Vice  President  of  the  Markets  Group  of  the 
+Federal Reserve Bank of New York, at the Annual Meeting with Primary Dealers, New York 
+City, 1 March 2013. 
+ Thank you all for attending today’s annual primary dealer meeting. Primary dealers play an 
+important  role  in  financial  markets  and  an  integral  role  as  counterparties  for  operations  to 
+implement monetary policy. You are also an important source of market intelligence for the 
+Desk,  providing  insight  into  market  developments,  structure,  and  functioning  dynamics.  A 
+meeting  like  this  provides  a  valuable  opportunity  to  communicate  our  counterparty 
+expectations, as well as strengthen our ongoing relationship. Given your important role in the 
+implementation  of  monetary  policy,  I  thought  I  would  take  this  opportunity  to  discuss  the 
+Federal Reserve’s ongoing purchases of Treasury and agency mortgage-backed securities 
+(MBS). 
+As  you  are  well  aware,  at  the  September  2012  Federal  Open  Market  Committee  (FOMC) 
+meeting, the FOMC decided to increase policy accommodation by purchasing $40 billion per 
+month  of  agency  MBS  and  continue  the  Maturity  Extension  Program  (MEP).  Then  at  its 
+December meeting, the Committee chose to continue buying $45 billion per month in longer-
+term Treasury securities following the completion of the MEP. As a result of these decisions, 
+the Federal Reserve is currently adding $85 billion in longer-term securities each month to its 
+holdings, in addition to reinvesting principal payments from its holdings of agency MBS and 
+agency  debt  securities  into  agency  MBS.1  Under  this  program,  we  have  bought  about 
+$90 billion in Treasury securities since January and about $220 billion in agency MBS since 
+mid-September, bringing the total par value of the Federal Reserve’s SOMA (System Open 
+Market Account) portfolio to over $2.8 trillion.2 
+In my comments today, I will describe the key differences and similarities between the recent 
+policy  action  and  previous  programs  and  discuss  how  the  Desk  implements  these  asset 
+purchases. As always, the views expressed here are my own and do not necessarily reflect 
+those of the Federal Reserve Bank of New York or the Federal Reserve System.3 
+Outcome-based purchases 
+The FOMC’s current asset purchase program has some key differences from earlier policy 
+initiatives.  When  announcing  previous  programs  to  change  the  size  or  composition  of  its 
+balance  sheet,  the  FOMC  communicated  an  expected  total  size  of  each  program  and  an 
+anticipated date by when it would be completed. Under the current asset purchase program, 
+the FOMC has announced only the monthly pace and composition of purchases and noted 
+that  purchases  will  continue  until  there  is  a  substantial  improvement  in  the  outlook  for  the 
+labor market in the context of price stability. The Committee has also indicated that it will take 
+appropriate account of the likely efficacy and costs of its purchases when adjusting their size, 
+pace, and composition. While noting that purchase activity will depend on these factors, the 
+                                                
+1   The FOMC also directed the Desk to reinstate its previous policy of rolling over maturing Treasury holdings 
+into new issues. See the Desk’s Frequently Asked Questions for more information. In practice, the amount of 
+maturing proceeds will be quite small, since securities maturing within the next three years were sold as part 
+of the MEP 
+2   This excludes about $100 billion of MBS trades scheduled to settle in the future. 
+3  
+I  would  like to  thank members  of  the  Markets  Group  Staff,  including  Katherine  Femia, Lorie  Logan, Linsey 
+Molloy, Roman Shimonov, and Nathaniel Wuerffel, who contributed to the preparation of these remarks. 
+BIS central bankers’ speeches 
+ 1 
+Committee  has  not  specified  the  time  at  which  purchases  will  be  complete  or  the  total 
+expected  size  of  the  purchases.  Instead,  under  this  conditional,  outcome-based  approach, 
+the  Committee  has  enacted  a  policy  that  will  adjust  to  incoming  information  about  labor 
+market  conditions  and  the  broader  economy,  as  well  as  its  ongoing  assessment  of  the 
+efficacy and costs of purchases. Retaining the flexibility to adjust purchases is an important 
+feature  of  the  program, given  our  relatively  limited  experience  with  the  use  of  the  balance 
+sheet as a monetary policy tool and the uncertainty about the policy’s effects. 
+One  of  the  potential  costs  of  additional  purchases  is  that  they  could  disrupt  functioning  in 
+Treasury and MBS markets – a cost that the Desk carefully assesses when it implements the 
+FOMC’s  policy  directive.  As  you  know,  there  is  a  finite  supply  of  Treasury  and  agency 
+securities available to purchase, in terms of both total amount and amounts available in the 
+market at any given time. If the Federal Reserve were to become too dominant a buyer or 
+holder, it could reduce the tradable supply of these securities and discourage trading among 
+market  participants,  leading  to  diminished  liquidity  and  price  discovery.  A  significant 
+deterioration in liquidity could lead investors to demand a premium for transacting in these 
+markets,  ultimately  raising  borrowing  costs  and  undermining  the  program’s  policy  goal.4 
+However, as discussed later, the purchases have gone smoothly so far, and market liquidity 
+seems to be holding up well. 
+Although  the  current  program  is  different  in  some  respects  from  prior  balance  sheet 
+programs,  its  intended  purpose  and  the  ways  the  Committee  anticipates  it  will  impact  the 
+economy are similar. The purchases are conducted to achieve the FOMC’s dual mandate of 
+maximum  employment  and  price  stability.  Asset  purchases  help  achieve  this  mandate  by 
+putting downward pressure on longer-term interest rates, supporting mortgage markets, and 
+helping to make broader financial conditions more accommodative. 
+The current purchases reduce interest rates and ease financial conditions through the same 
+transmission channels as previous balance sheet programs. As has been widely discussed 
+in  the  academic  literature,  one  of  the  most  important  channels  is  the  portfolio  balance 
+channel.5 This theory relies on the premise that financial assets are imperfect substitutes in 
+investors’  portfolios,  and,  as  a  result,  a  rise  in  the  demand  for  a  particular  financial  asset 
+relative  to  its  supply  –  reflecting  the  Federal  Reserve’s  asset  purchase  programs,  for 
+example – will increase its price and reduce its yield. After selling that asset to the Federal 
+Reserve,  investors  may  rebalance  their  portfolios  by  investing  in  other  assets,  raising  the 
+prices of those assets, lowering their yields, and easing overall financial conditions. 
+The  Federal  Reserve’s  asset  purchase  programs  were  designed  to  remove  risk  from  the 
+portfolios  of  private  investors.  For  example, Treasury  and  agency  MBS  purchases remove 
+duration  risk,  thereby  lowering  longer-term  interest  rates  and  reducing  private  sector 
+borrowing costs. Furthermore, agency MBS purchases also remove prepayment risk in the 
+market.  Since  homeowners  can  prepay  their  mortgage  at  any  time,  MBS  investors  do  not 
+know when they will receive their cash flows. Investors generally demand an extra return to 
+bear this risk, which is incorporated into MBS yields and in part passed along to borrowers. 
+The removal of a considerable amount of this risk by the Fed’s purchases would be expected 
+to lower MBS rates by lowering this extra return, thereby reducing primary mortgage rates, 
+stimulating demand for housing and prompting increased refinancing activity. 
+Even  though  the  Committee  is  communicating  a  monthly  pace  and  composition  of 
+purchases, the predominant effect of those purchases on interest rates likely still comes from 
+the expectations of the total stock of risk that will be removed from private investors and the 
+length of time that the Federal Reserve will hold this risk. One feature of the current program 
+                                                
+4   For more information about Treasury market liquidity, see Fleming (2002) and Fleming (2000). 
+5   For  example,  see  Li  and  Wei  (2012),  Gagnon  et  al  (2010),  Krishnamurthy  and  Vissing-Jørgensen  (2011), 
+Wright (2012), and Hancock and Passmore (2011). 
+2 
+ BIS central bankers’ speeches 
+is that market participants’ expectations of the total amount and composition of securities that 
+the  Desk  will  purchase  –  and  thus,  the  amount  of  monetary  policy  accommodation  –  will 
+evolve  over  time,  along  with  incoming  information  about  the  economy,  as  well  as 
+considerations about policy efficacy and costs. 
+The  Desk’s  most  recent  Survey  of  Primary  Dealers  indicates  that  the  median  respondent 
+expects the FOMC to purchase about $1 trillion in securities, roughly equally split between 
+Treasuries  and  agency  MBS,  over  the  course  of  2013  and  early  2014.  However,  the 
+uncertainty around this expectation is large – at $500 billion it is almost as large as the entire 
+size  of  the  large-scale  asset  purchases  announced  in  November  2010  or  the  Maturity 
+Extension  Program  announced  in  September  2011.6  This  likely  reflects  uncertainty  about 
+how  the  economy  will  evolve  and  how  the  FOMC  will  adjust  its  purchases  in  response  to 
+changes in the economic outlook or the costs and benefits of the policy. 
+Implementation of the current asset purchase program 
+In implementing the current purchase program, the Desk has operated in a similar manner as 
+in  past  programs.  As  always,  outright  purchases  in  Treasuries  and  agency  MBS  are 
+conducted  through  operations  that  seek  to  acquire  securities  at  competitive  prices  while 
+minimizing any market disruptions. 
+There are some key differences between our Treasury and MBS operations that I would like 
+to discuss. As counterparties in our operations, you know that outright purchases of Treasury 
+securities  are  conducted  through  large-scale,  multiple-security  auctions  via  the  Desk’s 
+FedTrade platform, which allows all primary dealers to place multiple offers across all eligible 
+securities  simultaneously.  Purchases  of  MBS,  on  the  other  hand,  are  currently  conducted 
+using TradeWeb, a commercial trading platform.7 The platform allows buyers to solicit offers 
+for  one  security  at  a  time  from  up  to  four  counterparties,  so  the  Desk  includes  dealers  in 
+operations on a rotating basis. As a result, the Desk purchases MBS in a series of smaller-
+scale, more frequent auctions. We are currently expanding the FedTrade platform, in order to 
+have more flexibility in conducting MBS auctions in the future. 
+In the Treasury market, purchases are distributed across securities with different maturities, 
+with  the  intent  of  removing  a  specified  amount  of  duration  risk  from  the  market  without 
+causing significant market disruption. For recent programs, this maturity distribution has been 
+announced at the outset, and a schedule of specific operations is released at the beginning 
+of each month.8 Such transparency is possible because the composition of Treasury coupon 
+securities available for purchase is reasonably predictable. Within this purchase distribution, 
+both  newly  issued  (on-the-run)  and  more  seasoned  (off-the-run)  securities  are  often 
+purchased. 
+Outright purchases of MBS are executed in the TBA (To-Be-Announced) market. The TBA 
+market is built around a trading convention that allows market participants to trade thousands 
+of different MBS backed by millions of individual mortgages using only a few standardized 
+contracts, which are grouped based on key characteristics such as the coupon of the security 
+that  will  be  delivered.  These  factors  help  make  the  TBA  market  homogeneous  and  highly 
+liquid – useful characteristics given the scale of Desk operations.9 Mortgage originators sell 
+                                                
+6   Using the individual answers to Question 8 in the January 2013 Survey of Primary Dealers on the probability 
+of  the  size  of  the  balance  sheet  at  the  end  of  2013  and  2014,  one  can  calculate  the  average  individual 
+uncertainty around each dealers’ point forecast. For the end of 2014, this is around $500 billion. 
+7   The Desk also has the ability to execute agency MBS trades by other means. 
+8   Of  course,  this  maturity  distribution  could  change  as  part  of  the  Committee’s  ongoing  assessment  of  the 
+efficacy and costs of asset purchases. 
+9   For more information on the TBA market, see Vickery and Wright (2013). 
+BIS central bankers’ speeches 
+ 3 
+MBS  backed  by  new  loans  into  the  TBA  market  because  of  the  market’s  liquidity  and 
+because  the  TBA  market  is  a  forward  market,  which  allows  originators  to  hedge  the  risk 
+associated with locking in loan rates with new borrowers.10 The Desk concentrates its TBA 
+purchases in “production coupons,” since the yields and prices for production coupons are 
+directly related to the primary mortgage rate. 
+In general, the Desk purchases MBS in the TBA market across different agencies, maturities, 
+and  coupons  in  amounts  that  are  roughly  proportional  to  anticipated  issuance  of  those 
+securities. Issuance of new TBA securities varies over time, based on the level of refinancing 
+and  home  purchase  activity.  Moreover,  because  the  coupon  at  which  new  MBS  are 
+originated depends on the overall level of interest rates, the possibility of future fluctuations in 
+the primary mortgage rate makes it difficult to determine well in advance which coupons will 
+be issued. As a result, the Desk is not able to provide the same detailed guidance about the 
+composition  of  its  MBS  purchases  as  is  possible  with  Treasury  purchases.  At  times,  we 
+adjust  our  purchases  when  certain  market  functioning  indicators  suggest  that  particular 
+securities are less readily available for settlement relative to other securities.11  
+As it has always done, the Desk closely monitors how its activities impact financial market 
+functioning.  Good  market  functioning  is  integral  for  the  successful  implementation  of  the 
+FOMC’s directive and for the effective transmission of monetary policy to the real economy. 
+When  evaluating  market  functioning,  we  consider  measures  of  market  activity,  such  as 
+trading volumes, bid-ask spreads, trade sizes, quote sizes, financing costs, and settlement 
+fails,  as  well  as  other  indicators.  We  also  monitor  the  performance  of  our  operations  (for 
+example, the prices at which we can execute in comparison to prevailing market quotes or 
+the  total  amount  of  competitively  priced  propositions),  the  concentration  of  market 
+participants’ holdings in securities with certain characteristics, the extent and concentration of 
+dealer participation in operations, and the pace of settlement of our MBS purchases. Based 
+on  these  types  of  measures,  purchases  of  both  Treasury  securities  and  MBS  have  gone 
+smoothly so far, and market liquidity seems to be holding up well. 
+In  addition  to  this  monitoring,  we  have  developed  active  policies  to  help  prevent  market 
+dysfunction as a result of our operations. In the Treasury market, the Desk ceases purchases 
+of  a  specific  security  once  SOMA  holdings  of  that  security  reach  70  percent  of  the 
+outstanding stock. In addition, when SOMA holdings of a specific issue exceed 30 percent of 
+outstanding securities, the Desk limits the rate at which it acquires new holdings of that issue 
+based  on  a  predetermined,  graduated  schedule.  The  Desk  also  refrains  from  purchasing 
+certain Treasury securities in its operations if investors’ demand for those specific securities 
+as collateral in the repurchase market or as deliverables into Treasury futures contracts is 
+relatively high. In the event of significant market demand for specific Treasury collateral held 
+by  the  SOMA,  investors  can  borrow  these  holdings  through  competitive  securities  lending 
+operations. 
+In the MBS market, the Desk is supportive of market functioning in two main ways. First, as I 
+mentioned earlier, we adjust our purchase allocation as necessary to respond to concerns 
+about  relative  scarcity  in  particular  contracts.  Second,  we  use  dollar  roll  transactions  to 
+facilitate  the  orderly  settlement  of  our  unsettled  purchases.  Selling  dollar  roll  contracts 
+essentially  postpones  the  settlement  of  an  outstanding  purchase,  while  buying  dollar  roll 
+contracts brings it forward. The Desk actively monitors implied financing rates on dollar roll 
+                                                
+10   Since  TBA  transactions  settle  on  a  forward  basis,  the  Desk  is  exposed  to  the  risk  that a  primary  dealer  is 
+unable or unwilling to meet its contractual obligations. If a counterparty does not deliver on its obligation, the 
+Desk could be forced to replace the transaction at a higher prices. As a result of this risk, the Desk requires 
+primary dealers to post collateral, or margin, in response to changes in the market value of the security 
+11   For  example,  in  January, the Desk decreased  its  purchases  of  30-year  fixed-rate 3.5 percent  coupon  MBS 
+relative  to  projected  issuance  as  a  result  of  concerns  about  the  near-term  availability  of  this  coupon  for 
+settlement and increased its purchases of 3 percent coupon MBS. 
+4 
+ BIS central bankers’ speeches 
+contracts for the level of supply of the securities that the Desk expects to be delivered. When 
+implied  financing  rates  reach  levels  notably  below  the  general  level  of  short-term  interest 
+rates,  thereby  signaling  supply  concerns,  the  Desk  sells  dollar  roll  contracts  to  postpone 
+settlement  of  that  outstanding  purchase.12  Our  dollar  roll  activity  is  consistent  with  the 
+guidelines  laid  out  by  the  Treasury  Market  Practices  Group  (TMPG),  an  industry  group 
+sponsored  by  the  Federal  Reserve  Bank  of  New  York.  TMPG  Best  Practices  encourage 
+market  participants  who  have  amassed  a  particularly  large  position  in  the  agency  MBS 
+market to manage that position mindful of the need to support market liquidity and to take 
+care  that  sudden  changes  in  trading  strategies  do  not  adversely  impact  liquidity  or 
+settlement.13 The Desk has consistently transacted in the dollar roll market when purchasing 
+MBS  to  facilitate  the  orderly  settlement  of  its  purchases  and  will  continue  to  do  so  as 
+necessary to avoid deterioration in the liquidity of these contracts.14  
+So far, there seems to be little evidence that the current pace of purchases is straining the 
+market’s ability to deliver securities to us. The current monthly pace is within the range seen 
+during the Federal Reserve’s previous asset purchase programs, whether measured in par 
+terms or when adjusted for duration risk. Treasury purchases make up only about 25 percent 
+of monthly gross issuance of coupon securities, and current SOMA holdings are less than 
+20 percent  of  coupon  Treasuries  outstanding,  although  in  some  maturity  sectors  these 
+percentages are significantly larger. 
+The  FOMC’s  capacity  to  purchase  MBS  is  somewhat  more  difficult  to  gauge,  given  the 
+uncertainty around future mortgage origination discussed earlier. Since the beginning of the 
+current purchase program in 2012, we have purchased nearly $75 billion in MBS on average 
+per month, including reinvestments. This translates into about 50 percent of monthly gross 
+issuance,  below  the  monthly  purchase  rate  of  roughly  two-thirds  during  the  first  round  of 
+large-scale MBS purchases in 2009. If refinancing activity declines, leading to a decrease in 
+gross  issuance,  our  purchases  could  exceed  these  levels.  Of  course,  the  pace  of  asset 
+purchases  is  not  strictly  limited  by  the  amount  of  new  mortgage  origination,  as  market 
+participants  can  also  deliver  older  securities  into  TBA  contracts.  As  the  pace  of  MBS 
+issuance  evolves,  the  Desk  will  continue  to  watch  the  market  functioning  indicators 
+discussed  above,  with  a  particular  emphasis  on  the  market’s  ability  to  settle  further 
+purchases. 
+Conclusion 
+Overall, I believe the Desk has effectively and efficiently carried out the FOMC’s directive to 
+purchase  additional  Treasury  securities  and  agency  MBS  in  a  transparent  fashion  that 
+achieves  the  FOMC’s  policy  objectives,  supports  orderly  market  functioning,  and  obtains 
+competitive market prices. I also believe that the Federal Reserve’s balance sheet policies 
+have  been  effective  in  easing  financial  conditions,  particularly  with  respect  to  making 
+historically low borrowing costs available to existing and prospective American homeowners, 
+as well as lowering interest rates to spur business investment and household spending. To 
+achieve  our  policy  mandate,  we  rely  on  your  continued  ongoing  and  active  participation  in 
+our  operations  both  for  your  own  accounts  and  for  the  accounts  of  your  customers, 
+consistent  with  your  role  as  primary  dealers.  We  will  continue  to  implement  the  FOMC’s 
+                                                
+12   The  Desk  also  purchases  dollar  roll  contracts  when  implied  financing  rates  are  sufficiently  positive.  Such 
+operations occurred in December 2011. 
+13   See TMPG Best Practices. 
+14   Selling dollar rolls when concerns arise about the availability of certain TBA contracts is conceptually similar to 
+making  SOMA  Treasury  holdings  available  to  the  market  through  our  securities  lending  program.  One  key 
+difference  is  that  the  Desk  offers  settled  Treasury  holdings  to  the  market  through  its  securities  lending 
+program, whereas the Desk only rolls unsettled MBS holdings. 
+BIS central bankers’ speeches 
+ 5 
+directive,  with  the  goal  of  supporting  a  stronger  economic  recovery  in  the  context  of  price 
+stability. 
+References 
+Fleming, Michael (2000). “The Benchmark U.S. Treasury Market: Recent Performance and 
+Possible Alternatives.” Federal Reserve Bank of New York Economic Policy Review, Vol. 6, 
+no. 1 (April): 129–45. 
+Fleming,  Michael  (2002).  “Are  Larger  Treasury  Issues  More  Liquid?  Evidence  from  Bill 
+Reopenings.” Journal of Money, Credit, and Banking, Vol. 34, no. 3 (August): 707–35. 
+Gagnon,  Joseph,  Matthew  Raskin,  Julie  Remache,  and  Brian  Sack  (2010).  “Large-Scale 
+Asset Purchases by the Federal Reserve: Did They Work?” Federal Reserve Bank of New 
+York Staff Reports, no. 441, March. 
+Hancock, Diana, and Wayne Passmore (2011). “Did the Federal Reserve's MBS Purchase 
+Program  Lower  Mortgage  Rates?”  Journal  of  Monetary  Economics,  Vol.  58  (July):  
+498–514. 
+Krishnamurthy, Arvind, and Annette Vissing-Jorgensen (2011). “The Effects of Quantitative 
+Easing  on  Interest  Rates:  Channels  and  Implications  for  Policy.”  Brookings  Papers  on 
+Economic Activity, no. 2: 215–65. 
+Li,  Canlin,  and  Min  Wei  (2012).  “Term  Structure  Modelling  with  Supply  Factors  and  the 
+Federal  Reserve’s  Large  Scale  Asset  Purchase  Programs.”  Finance  and  Economics 
+Discussion  Series  2012–37.  Washington:  Board  of  Governors  of  the  Federal  Reserve 
+System, May. 
+Vickery, James and Joshua Wright (2013). “TBA Trading and Liquidity in the Agency MBS 
+Market.” Federal Reserve Bank of New York Economic Policy Review, Forthcoming. 
+Wright, Jonathan H. (2012). “What Does Monetary Policy Do to Long-Term Interest Rates at 
+the Zero Lower Bound?” NBER Working Paper Series 17154. Cambridge, Mass.: National 
+Bureau of Economic Research, June. 
+6 
+ BIS central bankers’ speeches 

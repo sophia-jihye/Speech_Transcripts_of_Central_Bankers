@@ -1,0 +1,1517 @@
+Andrew G Haldane: The dog and the frisbee 
+Speech by Mr Andrew G Haldane, Executive Director, Financial Stability, Bank of England, 
+and Mr Vasileios  Madouros, Economist, Bank of England, at the Federal Reserve Bank of 
+Kansas  City’s  366th  economic  policy  symposium,  “The  changing  policy  landscape”, 
+Jackson Hole, Wyoming, 31 August 2012. 
+ The views are not necessarily those of the Bank of England or the Financial Policy Committee. We would like to 
+thank Dele Adeleye, Rita Babihuga, Tamiko Bayliss, James Benford, Charles Bean, Johanna Cowan, Jas Ellis, 
+Sujit Kapadia, Kirsty Knott, Priya Kothari, David Learmonth, Colin Miles, Emma Murphy, Paul Nahai-Williamson, 
+Tobias Neumann, Victoria Saporta, Rhiannon Sowerbutts, Gowsikan Shugumaran and Iain de Weymarn for their 
+comments  and  contributions.  We  are  particularly  grateful  to  Gerd  Gigerenzer  for  stimulating  conversations  on 
+these issues. 
+Introduction 
+(1)  
+Catching a frisbee is difficult. Doing so successfully requires the catcher to weigh a complex 
+array  of  physical  and  atmospheric  factors,  among  them  wind  speed  and  frisbee  rotation. 
+Were a physicist to write down frisbee-catching as an optimal control problem, they  would 
+need to understand and apply Newton’s Law of Gravity.  
+Yet  despite  this  complexity,  catching  a  frisbee  is  remarkably  common.  Casual  empiricism 
+reveals that it is not an activity only undertaken by those with a Doctorate in physics. It is a 
+task  that  an  average  dog  can  master.  Indeed  some,  such  as  border  collies,  are  better  at 
+frisbee-catching than humans.  
+So what is the secret of the dog’s success? The answer, as in many other areas of complex 
+decision-making, is simple. Or rather, it is to keep it simple. For studies have shown that the 
+frisbee-catching dog follows the simplest of rules of thumb: run at a speed so that the angle 
+of gaze to the frisbee remains roughly constant. Humans follow an identical rule of thumb.  
+Catching a crisis, like catching a frisbee, is difficult. Doing so requires the regulator to weigh 
+a  complex  array  of  financial  and  psychological  factors,  among  them  innovation  and  risk 
+appetite.  Were  an  economist  to  write  down  crisis-catching  as  an  optimal  control  problem, 
+they would probably have to ask a physicist for help. 
+Yet  despite  this  complexity,  efforts  to  catch  the  crisis  frisbee  have  continued  to  escalate. 
+Casual empiricism reveals an ever-growing number of regulators, some with a Doctorate in 
+physics.  Ever-larger 
+improved  watchdogs’ 
+Frisbee-catching  abilities.  No  regulator  had  the  foresight  to  predict  the  financial  crisis, 
+although some have since exhibited supernatural powers of hindsight. 
+So  what  is  the  secret  of  the  watchdogs’  failure?  The  answer  is  simple.  Or  rather,  it  is 
+complexity.  For  what  this  paper  explores  is  why  the  type  of  complex  regulation  developed 
+over  recent  decades  might  not  just  be  costly  and  cumbersome  but  sub-optimal  for  crisis 
+control. In financial regulation, less may be more.  
+Section  2  sets  out  the  reasons  why  that  might  be,  drawing  on  examples  from  outside 
+economics  and  finance.  Section  3  contrasts  that  thinking  with  the  rapidly  rising-tide  of 
+financial regulation. Sections 4 to 6 consider some experiments to assess whether less could 
+be more in financial systems. Section 7 draws out some public policy implications. 
+litters  have  not,  however,  obviously 
+When less is more 
+(2)  
+Mainstream economics and finance is dominated by models of decision-making under risk. 
+Modern  macroeconomics  has  its  analytical  roots  in  the  general  equilibrium  framework  of 
+Kenneth  Arrow  and  Gerard Debreu  (Arrow  and  Debreu  (1954)).  In  the  Arrow-Debreu 
+BIS central bankers’ speeches 
+ 1 
+framework, the probability distribution of future states of the world is known by agents. Risk 
+can be securitised and thereby priced and hedged. 
+Modern finance has its origins in the portfolio allocation framework of Harry Markowitz and 
+Robert  Merton  (Markowitz  (1952),  Merton  (1969)).  This  Merton-Markowitz  framework 
+assumes a known probability distribution for future market risk. This enables portfolio risk to 
+be calculated and thereby priced and hedged.  
+Together, the Arrow-Debreu and Merton-Markowitz frameworks form the bedrock of modern 
+macroeconomics  and  finance.  They  help  explain  patterns  of  behaviour  from  consumption 
+and investment to asset pricing and portfolio allocation. This has been a well-trodden path for 
+the past 50 years. 
+The path less followed has been to study optimal choice under uncertainty – the inability to 
+form priors on the distribution of future outcomes – rather than risk (Knight (1921)). Neither 
+the  Arrow-Debreu  nor  Merton-Markowitz  frameworks  admit  such  uncertainty.  Instead, 
+modern  macro  and  finance  has  been  built  on  often  stringent  assumptions  about  humans’ 
+state of knowledge and cognitive capacity. 
+For the past 40 years, the most popular of those informational assumptions has been rational 
+expectations  (Muth  (1961)).  That,  too,  has  dominated  modern  macro  and  finance  for  a 
+generation. In its strongest form, rational expectations assumes that information collection is 
+close to costless and that agents have cognitive faculties sufficient to weight probabilistically 
+all future outturns.  
+Those strong assumptions about states of knowledge and cognition have not always been at 
+the  centre  of  the  economics  profession.  Many  of  the  dominant  figures  in  20th  century 
+economics  –  from  Keynes  to  Hayek,  from  Simon  to  Friedman  –  placed  imperfections  in 
+information  and  knowledge  centre-stage.  Uncertainty  was  for  them  the  normal  state  of 
+decision-making affairs.  
+Hayek’s  Nobel  address,  “The  Pretence  of  Knowledge”,  laid  bare  the  perils  of  over-active 
+policy if we assumed omniscience (Hayek (1974)). For Friedman, lack of knowledge justified 
+a k% monetary policy rule (Friedman (1960)). For physicist Richard Feynman: “It is not what 
+we know, but what we do not know which we must always address, to avoid major failures, 
+catastrophes  and  panics.”  Through  Arrow-Debreu  and  Merton-Markowitz,  economists  may 
+have failed to heed Feynman’s catastrophe warning.  
+Despite occupying a small corner of the profession, decision-making under uncertainty has 
+begun to attract recent interest (Hansen and Sargent (2010)). That is in part recognition of 
+the  limitations  of  the  rational-expectations-cum-general-equilibrium  framework  for  capturing 
+key elements of the current crisis (Kirman (2010)). More positively, it may also be because it 
+yields powerful, and in some cases surprising, insights. 
+Take  decision-making  in  a  complex  environment.  With  risk  and  rational  expectations,  the 
+optimal  response  to  complexity  is  typically  a  fully  state-contingent  rule  (Morris  and  Shin 
+(2008)).  Under  risk,  policy  should  respond  to  every  raindrop;  it  is  fine-tuned.  Under 
+uncertainty,  that  logic  is  reversed.  Complex  environments  often  instead  call  for  simple 
+decision rules. That is because these rules are more robust to ignorance. Under uncertainty, 
+policy may only respond to every thunderstorm; it is coarse-tuned. 
+Herbert Simon, the father of decision-making under uncertainty, believed human behaviour 
+followed  simple  rules.  More  than  that,  it  was  precisely  because  humans  operated  in  a 
+complex  environment  that  they  sought  such  simple  behavioural  rules.  “Human  beings, 
+viewed as behaving systems, are quite simple. The apparent complexity of our behavior over 
+time is largely a reflection of the complexity of the environment in which we find ourselves.”1  
+                                                
+1   Simon (1972). 
+2 
+ BIS central bankers’ speeches 
+Simon used the word “heuristics” to describe these simple rules. These heuristics were not 
+plucked  from  the  ether.  Rather  they  were  evolutionary  responses,  honed  in  the  light  of 
+experience passed down generationally from the past (nature) or accumulated locally in the 
+present (nurture). Neurological and experimental research has since lent support to Simon’s 
+thinking (for example, Selten (2001)).  
+In the 1970s and 1980s, Daniel Kahneman and Amos Tversky used heuristics as a means of 
+explaining  violations  of  the  rational  expectations  axioms,  often  drawn  from  psychological 
+experiments (Kahneman and Tversky (1974)). Like Simon, these simple rules of thumb had 
+neurological  roots.  Kahneman  and  Tversky’s  work  laid  the  foundations  for  behavioural 
+economics (for example, Camerer (2003)).  
+Part of the attraction of these approaches is that they fit the decision-making facts. In many 
+real-world  settings  heuristics  are  the  rule,  not  the  exception.  This  is  not  confined  to 
+Frisbee-catching  dogs  (Gigerenzer (2007))  –  though  heuristic  decision-making  is  found 
+throughout the animal world, in complex decisions such as the choice of mate. It has also 
+been found to be true in many aspects of human decision-making, from finding a soulmate to 
+finding a checkmate (Gigerenzer (2007)).  
+So why are such simple rules of thumb ubiquitous? And what are their implications?  
+The costs of cognition  
+(a)  
+The  simplest  explanation  is  that  collecting  and  processing  the  information  necessary  for 
+complex decision-making is costly, perhaps punitively so. Fully defining future states of the 
+world, and probability-weighting them, is beyond anyone’s cognitive limits. Even in relatively 
+simple games, such as chess, cognitive limits are quickly breached. Chess grandmasters are 
+unable  to  evaluate  fully  more  than  5 chess  moves  ahead.  The  largest  super-computers 
+cannot fully compute much beyond 10 moves ahead (Gigerenzer (2007)). 
+Most real-world decision-making is far more complex than chess – more moving pieces with 
+larger numbers of opponents evaluated many more moves ahead. Simon coined the terms 
+“bounded  rationality”  and  “satisficing”  to  explain  cost-induced  deviations  from  rational 
+decision-making  (Simon  (1956)).  A  generation  on,  these  are  the  self-same  justifications 
+being  used  by  behavioural  economists  today.  For  both,  less  may  be  more  because  more 
+information comes at too high a price.  
+Ignorance can be bliss 
+(b) 
+There is a second, quite different, rationale for simple decision rules. This does not rely on 
+the  sub-optimality  of  satisficing  behaviour.  Instead  it  states  that  heuristics  may  be  the 
+optimising response to a complex environment. Disregarding information can make not only 
+for cheaper but also for better decisions. Ignorance can be bliss (Gigerenzer (2010)). 
+Oscar Wilde said of cynics that they knew the price of everything and the value of nothing.2 
+Autistic savants have an acute case of this problem. Often, they combine prodigious memory 
+skills  (knowing  “the  price  of  everything”)  with  serious  deficiencies  in  value  judgements 
+(understanding “the value of nothing”). They are penny-wise and pound-foolish. 
+These neurological traits are linked. Too great a focus on information gathered from the past 
+may  retard  effective  decision-making  about  the future.  Knowing  too  much  can  clog  up  the 
+cognitive  inbox,  overload  the  neurological  hard  disk.  One  of  the  main  purposes  of 
+sleep – doing less – is to unclog the cognitive inbox (Wang et al (2011)). That is why, when 
+making a big decision, we often “sleep on it”.  
+                                                
+2   Wilde (1893). 
+BIS central bankers’ speeches 
+ 3 
+“Sleeping on it” has a direct parallel in statistical theory. In econometrics, a model seeking to 
+infer behaviour from the past, based on too short a sample, may lead to “over-fitting”. Noise 
+is  then  mistaken  as  signal,  blips  parameterised  as  trends.  A  model  which  is  “over-fitted” 
+sways  with  the  smallest  statistical  breeze.  For  that  reason,  it  may  yield  rather  fragile 
+predictions about the future. 
+Experimental evidence bears this out. Take sports prediction. In principle, this should draw 
+on a complex array of historical data, optimally weighted. That is why complex, data-hungry 
+algorithms are used to generate rankings for sports events, such as the FIFA world rankings 
+for football teams or the ATP world rankings for tennis players. These complex algorithms 
+are designed to fit performance data from the past.  
+Yet, when it comes to out-of-sample prediction, these complex rules perform miserably. In 
+fact,  they  are  often  inferior  to  simple  alternatives.  One  such  alternative  would  be  the 
+“recognition  heuristic”  –  picking  a  winning  team  or  player  purely  on  the  basis  of 
+name-recognition.  This  simple  rule  out-performs  the  ATP  or  FIFA  rankings  (Serwe  and 
+Frings (2006), Scheibehenne and Broder (2007)). One good reason beats many. 
+It is not just sports prediction. Experimental evidence has found the same to be true across a 
+range of other activities. Among physicians diagnosing heart attacks, simple decision trees 
+beat  a  complex  model.3  Among  detectives  locating  serial  criminals,  simple  locational  rules 
+trump  complex  psychological  profiling.4  Among  investors  picking  stocks,  simple  passive 
+strategies  outperform  complex  active  ones.5  And  among  shopkeepers  understanding 
+spending patterns, repeat purchase data out-predict complex models.6 
+Applying  complex  decision  rules  in  a  complex  environment  may  be  a  recipe  not  just  for  a 
+cock-up  but  catastrophe.  In  “Natural  Accidents”,  sociologist  Charles  Perrow  demonstrated 
+how  catastrophe  was  more 
+interconnected  –  “tightly 
+coupled”  –  systems  (Perrow  (1984)).  Drawing  on  experience  from  a  variety  of  real  world 
+systems  –  nuclear  power  plants,  oil  rigs,  aircraft  navigation  systems  –  Tim  Harford  (2011) 
+illustrates how complex control of a complex environment has often been calamitous.  
+The general message here is that the more complex the environment, the greater the perils 
+of  complex  control.  The  optimal  response  to  a  complex  environment  is  often  not  a  fully 
+state-contingent rule. Rather, it is to simplify and streamline (Gigerenzer (2010)). In complex 
+environments, decision rules based on one, or a few, good reasons can trump sophisticated 
+alternatives. Less may be more. 
+In Isaiah Berlin’s famous essay “The Hedgehog and the Fox” (Berlin (1953)), the fox knew 
+many  things,  the  hedgehog  one  big  thing.  Philosophers  continue  to  debate  their  relative 
+merits.  But  sports  fans,  doctors  and  detectives  have  made  their  choice.  They  think  the 
+hedgehog  has  the  upper  paw.  Selective  unclogging  of  the  cognitive  inbox  can  make  for 
+better decisions.  
+in  complex, 
+to  strike 
+likely 
+Weighting may be in vain 
+(c)  
+John  von  Neumann  and  Oskar  Morgenstern  established  that  optimal  decision-making 
+involved  probabilistically-weighting  all  possible  future  outcomes  (von  Neumann  and 
+Morgenstern  (1944)).  Multiple  regression  techniques  are  the  statistical  analogue  of  von 
+Neumann-Morgenstern  optimisation,  with  behaviour  inferred  by  probabilistically-weighting 
+explanatory factors. 
+                                                
+3   Gigerenzer and Kurzenhäuser (2005). 
+4   Snook et al (2005). 
+5   DeMiguel et al (2007). 
+6   Wübben and von Wangenheim (2008)).  
+4 
+ BIS central bankers’ speeches 
+In  an  uncertain  environment,  where  statistical  probabilities  are  unknown,  however,  these 
+approaches  to  decision-making  may  no  longer  be  suitable.  Probabilistic  weights  from  the 
+past may be a fragile guide to the future. Weighting may be in vain. Strategies that simplify, 
+or perhaps even ignore, statistical weights may be preferable. The simplest imaginable such 
+scheme would be equal-weighting or “tallying”. Gigerenzer and Brighton (2009).7 
+In complex environments, tallying strategies have been found to be superior to risk-weighted 
+alternatives. Take avalanche prediction. Avalanches are difficult to predict, as they are drawn 
+from a fat-tailed (Power Law) distribution. Yet simple tallying of a small number of avalanche 
+indicators has been found capable of predicting over 90% of historical accidents. It has also 
+been  found  to  be  superior  to  more  complex  decision  methods  (McCammon  and  Hägeli 
+(2007)). 
+A  similar  finding  has  emerged  from  studies  of  asset  prices.  They  too  are  drawn  from  a 
+fat-tailed  distribution.  When  investing  across  N  assets,  the  Merton-Markowitz  portfolio 
+strategy  would  weight  by  risk  and  return.  A  far  simpler  strategy  would  equally-weight  all 
+assets  –  a  1/N  rule.  In  out-of-sample  trials,  the  1/N  rule  outperforms  complex  optimising 
+alternatives, including Merton-Markowitz (DeMiguel et al (2007)). Indeed, Markowitz himself 
+pursued a 1/N, rather than Markowitz, strategy when investing for retirement. 
+Small samples and simple rules 
+(d)  
+The  choice  of  optimal  decision-making  strategy  depends  importantly  on  the  degree  of 
+uncertainty  about  the  environment  –  in  statistical  terms,  model  uncertainty.  A  key  factor 
+determining that uncertainty is the length of the sample over which the model is estimated. 
+Other things equal, the smaller the sample, the greater the model uncertainty and the better 
+the performance of simple, heuristic strategies. 
+Small samples increase the sensitivity of parameter estimates. They increase the chances of 
+inaccurately  over-fitting  historical  data.  This  risk  becomes  more  acute,  the  larger  the 
+parameter space being estimated. Complex models are more likely to be over-fitted. And the 
+parametric  sensitivity  induced  by  over-fitting  makes  for  unreliable  predictions  about  the 
+future.  Simple  models  suffer  fewer  of  these  parametric  excess-sensitivity  problems, 
+especially when samples are short. 
+Experimental evidence again bears out that conclusion. For example, simple rules have been 
+shown to outperform complex ones when tracking serial criminals, provided the number of 
+committed crimes in a sequence is in single figures (Snook et al (2005)).  
+Investment strategies tell a similar story. Simple tallying rules, like 1/N, outperform complex 
+strategies, like mean-variance, unless the sample size is very large. In the study by DeMiguel 
+et  al  (2007),  the  sample  threshold  at  which  complex  rules  out-perform  simple  ones  is  in 
+excess  of  3000  months  (around  250  years)  of  data.  Less  is  more,  at  least  without  much 
+(much) more data. 
+Complex rules and defensive behaviour 
+(d)  
+There is a final, related but distinct, rationale for simple over complex rules. Complex rules 
+may cause people to manage to the rules, for fear of falling foul of them. They may induce 
+people to act defensively, focussing on the small print at the expense of the bigger picture.  
+Studies  of  the  behaviour  of  doctors  illustrate  this  pattern  (Gigerenzer  and  Kurzenhäuser 
+(2005)). Fearing misdiagnosis, perhaps litigation, doctors are prone to tick the boxes. That 
+may mean over-diagnosing drugs or over-submitting patients to hospital. Both are defensive 
+actions, reducing risks to the doctor. But both are a potential health hazard to the patient. For 
+                                                
+7   Gigerenzer and Brighton (2009). 
+BIS central bankers’ speeches 
+ 5 
+example,  submitting  patients  to  hospital  increases  significantly  their  risk  of  secondary 
+infection. Hospitals are, after all, full of sick people.  
+Doctors unencumbered by a complex rulebook will have fewer incentives to act defensively. 
+They may also be better able to form their own independent judgements when diagnosing 
+medical problems, using their accumulated experience. That ought to more closely align a 
+doctor’s risk incentives with their patient’s. The same is likely to be true of other professions, 
+from lawyers to policemen to bank supervisors. 
+Of course, simple rules are not costless. They place a heavy reliance on the judgement of 
+the  decision-maker,  on  picking  appropriate  heuristics.  Here,  a  key  ingredient  is  the 
+decision-maker’s  level  of  experience,  since  heuristics  are  learned  behaviours  honed  by 
+experience.  A  dog  will  outperform  a  puppy  at  frisbee-catching  because  it  has  had  time  to 
+fine-tune its “gaze heuristic”. An expert baseball player or cricketer will outperform a novice 
+sportsman  for  the  same  reason.  So  too  will  an  experienced  doctor  or  detective  or  fund 
+manager or shopkeeper.  
+These are “Five Commandments” of decision-making under uncertainty. That description is 
+apt.  Like  disease  detection,  frisbee  catching,  sports  prediction  and  stock-picking,  living  a 
+moral life is a complex task. The Ten Commandments are heuristics to help guide people 
+through  that  moral  maze,  the  ultimate  simple  rules.  They  have  proven  remarkably  robust 
+through the millennia. Less has been more.  
+Finance – more is more? 
+(3)  
+The  response  to  the  financial  crisis  by  banks  and  regulators  has  been  swift  and  sizeable. 
+Gaps  in  risk  management  have  been  filled,  deficiencies  in  regulation  plugged,  errors  by 
+regulators corrected. This is a self-healing and familiar response. Past crises have also been 
+met by a combination of more risk management, more regulation and more regulators. More 
+has been more.  
+The Tower of Basel 
+(a)  
+The foundations for today’s financial regulatory framework were laid in the 1980s. The Basel 
+Accord  of  1988  was  a  landmark.  It  was  the  first-ever  genuinely  international  prudential 
+regulatory agreement. For the first time in financial history, a minimum standard had been 
+established for all internationally-active banks. Yet despite its breadth, the Basel I agreement 
+was only 30 pages long.8 
+This brevity came courtesy of focussing on a limited set of credit risks measured at a broad 
+asset  class,  rather  than  individual  exposure,  level.  Only  five  different  risk  weights  were 
+defined under Basel I, varying from zero to 100%. Calculating regulatory capital ratios was 
+possible using pad and pen.  
+In taking this simplified approach, the Basel Committee fully recognised its limitations. It was 
+recognised that the role of regulatory rules was not to capture every raindrop. Rather, they 
+served as a backstop to banks’ own risk assessments. Basel rules were there to support, not 
+supplant, commercial risk decisions. 
+During  the  1990s,  the  bluntness  of  the  risk  judgements  embodied  in  Basel  I  came 
+increasingly  to  be  questioned  –  and  arbitraged.  Basel  I  was  perceived  as  lacking 
+risk-sensitivity, at least by comparison with the new wave of credit and market risk models 
+emerging  at  the  time.  Change  came  in  1996  with  the  Market  Risk  Amendment.9  This 
+                                                
+8   Basel Committee on Banking Supervision (1988). 
+9   Basel Committee on Banking Supervision (1996). 
+6 
+ BIS central bankers’ speeches 
+introduced the concept of the regulatory trading book and, for the first time, allowed banks to 
+use internal models to calculate regulatory capital against market risk. 
+With hindsight, a regulatory rubicon had been crossed. This was not so much the use of risk 
+models as the blurring of the distinction between commercial and regulatory risk judgements. 
+The  acceptance  of  banks’  own  models  meant  the  baton  had  been  passed. The  regulatory 
+backstop had been lifted, replaced by a complex, commercial judgement. The Basel regime 
+became, if not self-regulating, then self-calibrating.  
+A revised Basel Accord, Basel II, was agreed in 2004. It followed closely in the footsteps of 
+the  trading  book  amendment.  Internal risk  models  were  allowed  as  a  means  of  calibrating 
+credit  risk.  Indeed,  not  so  much  permitted  as  actively  encouraged,  with  internal  models 
+designed to deliver lower capital charges. By design, Basel II served as an incentive device 
+for banks to upgrade their risk management technology. 
+As  a  by-product,  there was  a  step  change  in  the  granularity  of  the  Basel  framework.  Risk 
+exposures were no longer captured at a broad asset class level. And risk weights on these 
+exposures were no longer confined to five buckets. That meant greater detail and complexity. 
+Reflecting these changes, Basel II came in at 347 pages – an order of magnitude longer than 
+its predecessor.10 
+The  ink  was  barely  dry  on  Basel  II  when  the  financial  crisis  struck.  This  exposed  gaping 
+holes in the agreement. In the period since, the response has been to fill the largest of these 
+gaps, with large upwards revisions to the calibration of the Basel framework. Agreement on 
+this  revised  framework,  Basel  III,  was  reached  in  2010.  In  line  with  historical  trends  the 
+documents making up Basel III added up to 616 pages, almost double Basel II.11 
+The  length  of  the  Basel  rulebook,  if  anything,  understates  its  complexity.  The  move  to 
+internal models, and from broad asset classes to individual loan exposures, has resulted in a 
+ballooning  in  the  number  of  estimated  risk  weights.  For  a  large,  complex  bank,  this  has 
+meant a rise in the number of calculations required from single figures a generation ago to 
+several million today (Haldane (2011)). 
+That increases opacity. It also raises questions about regulatory robustness since it places 
+reliance on a large number of estimated parameters. Across the banking book, a large bank 
+might  need  to  estimate  several 
+loss-given-default 
+parameters  (Table  1).  To  turn  these  into  regulatory  capital  requirements,  the  number  of 
+parameters increases by another order of magnitude. 
+It is close to impossible to determine with complete precision the size of the parameter space 
+for a large international bank’s banking book. That, by itself, is revealing. But a rough guess 
+would  put  it  at  thousands,  perhaps  tens  of  thousands,  of  estimated  and  calibrated 
+parameters. That is three, perhaps four, orders of magnitude greater than Basel I.  
+If that sounds large, the parameter set for the trading book is almost certainly larger still. To 
+give some sense of scale, consider model-based estimates of portfolio Value at Risk (VaR), 
+a commonly-used technique for measuring risk and regulatory capital in the trading book. A 
+large firm would typically have several thousand risk factors in its VaR model. Estimating the 
+covariance  matrix for  all  of  the risk factors means  estimating several  million  individual  risk 
+parameters. Multiple pricing models are then typically used to map from these risk factors to 
+the valuation of individual instruments, each with several estimated pricing parameters.  
+Taking all of this together, the parameter space of a large bank’s banking and trading books 
+could  easily  run  to  several  millions.  These  parameters  are  typically  estimated  from  limited 
+thousand  default  probability  and 
+                                                
+10   Basel Committee on Banking Supervision (2004). 
+11   Basel Committee on Banking Supervision (2010). This refers to the sum of Basel II, Basel II.5 and Basel III 
+and covers liquidity, leverage and risk-based capital requirements. 
+BIS central bankers’ speeches 
+ 7 
+past samples. For example, a typical credit risk model might comprise 20-30 years of sample 
+data  –  barely  a  crisis  cycle.  A  market  risk  model  might  comprise  less  than  five  years  of 
+data – far less than a crisis cycle. 
+Regulatory  complexity  has  also  found  its  way  into  the  numerator  of  the  capital  ratio  –  the 
+definition of capital. Under Basel I, the focus was on common equity capital, with restrictions 
+on non-equity instruments. Progressively, a complex undergrowth of new non-equity capital 
+instruments  began  to  emerge.  Additional  “tiers”  of  regulatory  capital,  and  tiers  within  tiers, 
+were added. 
+In the  end,  it  did  all  end  in  tears.  During the  crisis,  investors  lost confidence  in  non-equity 
+capital  instruments.  Basel  III  simplified  the  definition  of  core  regulatory  capital,  basing  it 
+around  a  common  equity  Tier  1  definition.  Yet  measuring  capital  remains  a  complex  task. 
+The  numerator  of  the  capital  ratio  adds  dozens,  perhaps  hundreds,  of  parameters  to  the 
+complexity quotient.  
+This degree of complexity complicates greatly the task for investors pricing banks’ financial 
+instruments. For example, serious concerns have been expressed about the opacity of the 
+Basel  risk  weights  and  their  consistency  across  firms  (Haldane  (2011),  Le  Leslé  and 
+Avramova (2012)). Their granularity makes it close to impossible to account for differences 
+across banks. It also provides near-limitless scope for arbitrage.  
+This  degree  of  complexity  also  raises  serious  questions  about  the  robustness  of  the 
+regulatory  framework  given  its  degree  of  over-parameterisation.  This  million-dimension 
+parameter set is based on the in-sample statistical fit of models drawn from short historical 
+samples. If previous studies tell us it may take 250 years of data for a complex asset pricing 
+model to beat a simple one, it is difficult to imagine how long a sample would be needed to 
+justify a million-digit parameter set.  
+The legislative blanket 
+these  non-statutory  agreements  with  national 
+(b) 
+Basel  Accords  are  non-statutory.  But  since  the  1980s,  the  trend  has  been  towards 
+underpinning 
+legislation  or  additional 
+rule-making. At first, this was simple. The 30 pages of Basel I were translated into 18 pages 
+in  the  US  and  13  pages  in  the  UK.  By  the  time  of  Basel  III,  the  domestic  documentation 
+topped 1,000 pages in both countries.  
+Viewed over an historical sweep, this pattern is even more striking. Contrast the legislative 
+responses  in  the  US  to  the  two  largest  financial  crises  of  the  past  century  –  the  Great 
+Depression and the Great Recession. The single most important legislative response to the 
+Great Depression was the Glass-Steagall Act of 1933. Indeed, this may have been the single 
+most influential piece of financial legislation of the 20th century. Yet it ran to a mere 37 pages. 
+The  legislative  response  to  this  time’s  crisis,  culminating  in  the  Dodd-Frank  Act  of  2010, 
+could  not  have  been  more  different.  On  its  own,  the  Act  runs  to  848  pages  –  more  than 
+20 Glass-Steagalls. That is just the starting point. For implementation, Dodd-Frank requires 
+an  additional  almost  400  pieces  of  detailed  rule-making  by  a  variety  of  US  regulatory 
+agencies.  
+As  of  July  this  year,  two  years  after  the  enactment  of  Dodd-Frank,  a  third  of  the  required 
+rules  had  been  finalised.  Those  completed  have  added  a  further  8,843  pages  to  the 
+rulebook.  At  this  rate,  once  completed  Dodd-Frank  could  comprise  30,000  pages  of 
+rulemaking.  That  is  roughly  a  thousand  times  larger  than  its  closest  legislative  cousin, 
+Glass-Steagall. Dodd-Frank makes Glass-Steagall look like throat-clearing. 
+The situation in Europe, while different in detail, is similar in substance. Since the crisis, more 
+than a dozen European regulatory directives or regulations have been initiated, or reviewed, 
+covering capital requirements, crisis management, deposit guarantees, short-selling, market 
+abuse, investment funds, alternative investments, venture capital, OTC derivatives, markets 
+in financial instruments, insurance, auditing and credit ratings.  
+8 
+ BIS central bankers’ speeches 
+These are at various stages of completion. So far, they cover over 2000 pages. That total is 
+set to increase dramatically as primary legislation is translated into detailed rule-writing. For 
+example, were that rule-making to occur on a US scale, Europe’s regulatory blanket would 
+cover over 60,000 pages. It would make Dodd-Frank look like a warm-up Act.  
+The regulatory response 
+(c)  
+The density and complexity of financial regulation has had predictable consequences for the 
+scale and scope of regulatory resources. One metric for that would be the number of human 
+resources devoted to financial regulation. In the UK up until the late-1970s, bank supervision 
+was  performed  by  the  Bank  of  England  on  an  informal  basis,  with  a  team  of  around 
+30 employees.  Even  when  the  Bank  was  given  statutory  responsibility  in  1979, fewer  than 
+80 people were engaged in the supervision of financial firms. 
+In the period since, the number of UK financial supervisors has increased dramatically, rising 
+almost forty-fold (Chart 1). In response to the current crisis, regulatory numbers are set to 
+rise  further.  Over  the  same  period,  the  number  of  people  employed  in  the  UK  financial 
+services sector has risen fractionally. In 1980, there was one UK regulator for roughly every 
+11,000  people  employed  in  the  UK  financial  sector.  By  2011,  there  was  one  regulator  for 
+every 300 people employed in finance. 
+The pattern in the US, looked at over a longer historical sweep, is broadly similar. The FDIC 
+and SEC were set up as part of the regulatory response to the Great Depression. In 1935, 
+together  with  the  OCC  and  supervisors  housed  in  the  Federal  Reserve  banks,  they  had 
+combined regulatory resources of around 4,500 people. There was one regulator for every 
+three  banks  in  the  US  (Chart  2).  Today,  the  combined  regulatory  resources  of  the  FDIC, 
+OCC, Federal Reserve banks and SEC is closer to 18,500 people. That is three regulators 
+for every US bank.  
+As numbers of regulators have risen, so too have regulatory reporting requirements. In the 
+UK, regulatory reporting was introduced in 1974. Returns could have around 150 entries. In 
+the Bank of England archives is a memo to George Blunden, who was to become Deputy 
+Governor,  on these  proposed  regulatory  returns.  Blunden’s  handwritten comment  reads:  “I 
+confess that I fear we are in danger of becoming excessively complicated and that if so we 
+may miss the wood from the trees”.12  
+Today, UK banks are required to fill in more than 7,500 separate cells of data – a fifty-fold 
+rise.  Forthcoming  European  legislation  will  cause  a  further  multiplication.  Banks  across 
+Europe could in future be required to fill in 30–50,000 data cells spread across 60 different 
+regulatory forms. There will be less risk of regulators missing the wood from the trees, but 
+only because most will have needed to be chopped down.  
+In  the  US,  regulatory  reporting  has  a  history  going  back  to  the  early  19th  century. 
+Nationally-chartered banks began to submit quarterly returns after the formation of the OCC 
+in 1863. In 1869, following a legislative amendment, these became “call reports”, so named 
+because  banks  were  asked  to  report  on  surprise  dates  to  prevent  window-dressing.  The 
+Federal Reserve Act of 1913 required all state-chartered member banks to file reports with 
+the OCC and in 1917 responsibility for collecting these passed to the Federal Reserve. By 
+1930, these reports might contain around 80 entries. 
+Today,  regulatory  reporting  is  on  an  altogether  different  scale.  Since  1978,  the  Federal 
+Reserve has required quarterly reporting by bank holding companies. In 1986, this covered 
+547  columns  in  Excel,  by  1999,  1,208  columns.  By  2011,  it  had  reached  2,271  columns. 
+Fortunately,  over  this  period  the  column  capacity  of  Excel  had  expanded  sufficiently  to 
+capture the increase. 
+                                                
+12   Bank of England Archive number 7A222/2. 
+BIS central bankers’ speeches 
+ 9 
+Taken together, the emerging picture is of a steadily-rising regulatory tower. New floors have 
+been added in response to each crisis episode. Extra filing cabinets have been ordered and 
+installed to house the explosion in regulatory returns. And many new skulks of supervisory 
+foxes (together with the occasional hedgehog) have been installed on the upper floors.  
+The costs of constructing and maintaining this regulatory skyscraper are not trivial. A recent 
+study  by  McKinsey  estimates  the  compliance  costs  of  Basel  III.  For  a  midsize  European 
+bank, these are put at up to 200 full-time jobs.13 Given that Europe has around 350 banks 
+with total assets over €1 billion, this translates into over 70,000 new full time jobs to comply 
+with Basel III requirements. 
+The picture in the US is similar. Dodd-Frank rulemaking in the 12 months after its enactment 
+covered  thirty  new  rules  or  less  than  10%  of  the  total.  A  survey  of  the  Federal  Register 
+showed  that  complying  with  these  new  rules  would  require  an  estimated  2,260,631  labour 
+hours every year, equivalent to over 1,000 full-time jobs.14 Scaling this up, the compliance 
+costs of Dodd-Frank will run to tens of thousands of full-time positions.  
+Of  course,  the  costs  of  this  regulatory  edifice  would  be  considered  small  if  they  delivered 
+even  modest  improvements to  regulators’  ability  to  avert future financial  crises. The  public 
+policy question is – will they? In financial regulation, is more more or is more less? To begin 
+to  answer  that,  consider  a  set  of  empirical  experiments  on  the  performance  of  regulatory 
+rules, simple and complex.  
+Risk-weighting capital – simple or complex? 
+(4)  
+The  primary  source  of  complexity  in  the  Basel  framework  is  granular,  model-based 
+risk-weighting.  Heightened  risk-sensitivity  of  the  regulatory  framework  was  intended  to 
+improve  the  detection  of  bank  weakness.  But  if  the  financial  environment  is  uncertain, 
+complex  risk-weighting  may  be  sub-optimal.  As  when  predicting  Alpine  avalanches  or 
+Wimbledon winners, simpler weighting measures may be more robust.  
+This is a testable proposition. To do so, we take a sample of about 100 large, complex global 
+banks, defined as those with total assets over $100 billion at end-2006.15 These large banks 
+are likely to hold a diverse array of assets and to use complex, internal models to calibrate 
+regulatory capital against these assets. So at least in principle, risks to these banks should 
+be better captured by granular, risk-sensitive capital measures. Von Neumann-Morgenstern 
+principles, with probabilistic-weighting, ought to apply. 
+Consider the relative performance of two measures of capital in predicting bank failure during 
+the course of the crisis: the Basel Tier 1 regulatory capital ratios with assets risk-weighted 
+and simple leverage ratios with assets equally-weighted – a 1/N rule. To predict bank failure, 
+a  definition  is  needed.  We  use  the  classification  scheme  of  Laeven  and  Valencia  (2010), 
+defined  as  those  institutions  that  went  into  resolution  or  which  required  government 
+intervention. In the sample, that amounts to 37 banks. 
+Chart  3  plots  the  Basel  risk-based  capital  ratios  for  the  sample  of  global  banks  on  an 
+ascending scale, distinguishing “failed” and “surviving” banks. There is little visual correlation 
+between  levels  of  regulatory  capital  and  subsequent  bank  failure.  That  is  confirmed  in 
+Chart 4  which,  in  the  left-hand  panel,  compares  levels  of  risk-based  capital  in  failed  and 
+surviving banks. These are not statistically significantly different. 
+                                                
+13   Härle et al (2010). 
+14   Financial Services Committee (2010). 
+15   This  analysis  draws  on  the  preliminary  results  of  research  being  undertaken  by  Gerd  Gigerenzer  and  Sujit 
+Kapadia.  
+10 
+ BIS central bankers’ speeches 
+Chart 5 plots the simple leverage ratio for the same set of banks. Visually, the pattern now 
+seems  more  systematic,  with  lower  leverage  ratios  associated  with  failing  banks.  The 
+right-hand panel in Chart 4 confirms that. The pre-crisis leverage ratio of failing banks was 
+statistically  significantly  lower  than  surviving  banks  at  the  1%  significance  level,  by  on 
+average 1.2 percentage points. 
+For  a  set  of  the  world’s  most  complex  banks,  simple-weighted  measures  appear  to  have 
+greater  pre-crisis  predictive  power  than  risk-weighted  alternatives.  Running  a  simple 
+horse-race of the two capital measures in a logit regression confirms the dominance of the 
+simpler  measure  (Table  2).  Measures  of  risk-weighted  capital  are  statistically  insignificant, 
+while the leverage ratio is significant at the 1% level. Contrary to the risk-sensitivity doctrine, 
+less appears to have offered more. 
+These  results  are  robust  to  the  inclusion  of  a  broader  set  of  macro  factors,  such  as  GDP 
+growth and credit (Table 3). Using different methods and samples, other studies support the 
+predictive  superiority,  or  at  least  equivalence,  of  leverage  over  capital  ratios  (IMF  (2009), 
+Demirguc-Kunt et al (2010), Estrella et al (2000)).  
+A second source of regulatory complexity is the definition of capital. Table 4 considers the 
+predictive performance of a selection of measures of capital for a sub-set of banks. Two key 
+conclusions  emerge.  First,  simpler measures  of accounting  capital  based  on  equity  capital 
+(core Tier  1)  outperform  broader, more  complex,  measures.  Second,  simple  market-based 
+measures  of  banks’  equity  dominate  accounting  measures  in  their  crisis-predictive 
+performance. Simple, once again, beats complex. 
+Put  another  way,  consider  a  straight  horse-race  between  the  most  complex  measure  of 
+banks’ capital position (the Basel Tier 1 ratio) and the simplest (the market value of equity 
+relative  to  unweighted  assets).  The  explanatory  power  of  the  simple  measure  is  about 
+10 times  greater  than  the  complex  measure.  However  well  they  perform  in  theory  or  in 
+sample,  complex  capital  rules  do  not  appear  to  have  performed  well  in  practice  and 
+out-of-sample. That is a sobering message for the architects of the Tower of Basel.  
+Predicting bank failure – simple or complex? 
+(5)  
+In theory, the choice of optimal regulatory rule depends importantly on the environment. The 
+simpler the environment, the more robust are likely to be sophisticated regulatory rules. To 
+assess  that,  consider  a  sample  of  simpler  banks  –  FDIC-insured  banks  in  the  US.  This 
+covers 8,500 institutions, the majority small regional banks. How well did solvency metrics, 
+simple  and  complex,  perform  in  predicting  pre-crisis  failure  among  this  very  different  bank 
+cohort? 
+Charts 6 and 7 plot the pre-crisis Tier 1 capital and leverage ratios of these banks, with the 
+failed institutions again identified, while Table 5 shows the results of a formal logit regression. 
+Failure  is  defined  here  as  those  banks  entering  receivership.  Since  2007,  this  totals 
+442 institutions, almost all of which had assets below $100 billion.  
+Both  solvency  metrics  enter  with  the  right  sign:  lower  capital  and  leverage  ratios  signal  a 
+higher probability of bank failure in a univariate regression. In general, however, the ranking 
+of the solvency metrics is reversed. Risk-based capital ratios are significant at the 1% level, 
+while the leverage ratio is not significant at the 10% level.  
+There are two potential explanations for this finding. One is that, during the sample period, 
+US banks were already subject to a leverage ratio. This may have encouraged them to seek 
+higher-risk  assets  which  would  tend  to  be  better  reflected  in  risk-based  capital  ratios.  An 
+alternative explanation, consistent with the complexity literature, is that risk-based rules are 
+more robust in an easier to calibrate risk environment.  
+Which explanation is more likely? Some insight can be provided by assessing whether, even 
+in a simple environment, a complex predictive rule outperforms a simple one. To assess that, 
+BIS central bankers’ speeches 
+ 11 
+consider  a  wider  range  of  potential  predictors  of  bank  failure  than  just  capital.  A  natural 
+starting point would be the well-known CAMEL (capital, asset quality, management, earnings 
+and liquidity) indicators of bank strength. These are a commonly-used performance metric, 
+including by bank supervisors.16 
+Table  6  presents  the  results  of  a  logit  regression  of  US  bank  failure  using  the  CAMEL 
+indicators as predictors. All five CAMEL measures are correctly signed, although not all are 
+statistically  significant.  The  in-sample  fit  suggests  an  important  explanatory  role  for  the 
+CAMEL  measures.  When  fitting  bank  failure  from  the  past,  many  indicators  dominate  the 
+few. 
+But how would this model have performed out-of-sample in situations where information was 
+partial? As one way of exploring that question, consider estimating the model using a subset 
+of the sample of banks and using that sub-set to predict bank failure for the remainder of the 
+sample. This can be done for a sequence of random samples of varying sizes.17 The size of 
+these samples proxies the degree of information imperfection – the smaller the sample, the 
+greater the model uncertainty. 
+These  random  bank  samples  of  varying  sizes  are  used  to  re-estimate  a  set  of  models  of 
+bank  failure.  These  range  from  the  complex  (the  multi-indicator  CAMEL  model)  to  the 
+relatively simple (only one of each of the CAMEL indicators) to the very simple (a constant 
+–  similar 
+these 
+restricted-sample models can then be considered.  
+Charts 8 and 9 show the performance of the different models estimated across two sample 
+sizes (100 and 1000 banks). Lower values imply better model performance. With a sample of 
+100  banks,  the  complex  model  performs  poorly.  It  is  out-performed  by  every  one  of  the 
+single-indicator models. Indeed, it is even out-performed by the constant. The sample mean 
+beats the CAMEL-estimated model as a bank failure predictor for a small-enough sample.  
+Expanding  the  sample  to  1000  banks,  the  complex  model  now  out-performs  the  simplest 
+rule. But it still falls short of the performance of a model which comprises a single liquidity 
+indicator. Chart 10 summarises the performance of three of the models (complex CAMEL, 
+single liquidity indicator and 1/N) for samples of varying sizes. The complex model performs 
+worst  of  all  for  smallish  samples.  And  even  with  1000  banks,  the  complex  CAMEL  model 
+under-performs the single liquidity indicator.  
+This  evidence  suggests  that,  even  among  simple  banks  in  a  simple  environment, 
+imperfections  in  information  can  mean  that  less  is  more.  As  when  tracking  serial  killers  or 
+serial shoppers, one good reason may be enough.  
+rule).  The  out-of-sample  predictive  performance  of 
+the  1/N 
+to 
+Modelling financial risks – simple or complex? 
+(6)  
+The final set of experiments looks at modelling risk in financial markets. This is relevant to 
+how  banks  themselves  might  estimate  risk  to  their  asset  portfolios  through  their  internal 
+                                                
+16   The definitions of these variables are as follows: capital is the risk-based Tier 1 ratio; asset quality is proxied 
+by loans past due as a per cent of total loans; management is proxied by the cost to income ratio, with lower 
+values pointing to greater efficiency and, in principle, better managerial quality; earnings is measured by the 
+return on assets; and liquidity is defined as US government bonds, cash and deposits with banks as a per cent 
+of total assets. 
+17   Specifically, from the overall sample of about 8,500 banks, we pick random sub-samples of 100, 250, 500, 
+1,000  and  4,279  observations.  We  estimate  the  models  using  the  smaller  sub-samples  and  use  the 
+parameters to predict failure out-of-sample for the remaining 4,279 observations in the dataset. To minimise 
+the  risk  that  our  results  are  distorted  by  the  specific  choice  of  sub-sample,  we  repeat  this  exercise 
+10,000 times.  So,  for  example,  we  end  up  looking  at  the  out-of-sample  performance  of  10,000  estimated 
+models using samples of 100 observations. Throughout, we reject sub-samples if there are no observations of 
+bank failures. 
+12 
+ BIS central bankers’ speeches 
+models. It enables us to ask what size of time-series sample is needed before less-is-more 
+effects dissipate. It also enables us to assess the effects of expanding the range of assets on 
+the choice of simple versus complex rules. 
+Imagine  a  hypothetical  financial  asset  which  follows  a  well-defined  stochastic  process. 
+Assume that the underlying asset price data are generated by a GARCH (3,3) process. It is 
+well-known  that  asset  prices  in  general,  and  stock  prices  in  particular,  can  exhibit 
+GARCH-like features  (Bollerslev  (1987),  Lamoureux  and  Lastrapes  (1990)). This  particular 
+specification describes, in broad terms, the historical distribution of daily stock prices returns 
+in the US over the past 80 or so years, though it clearly under-estimates the fatness of the 
+tails (Chart 11). 
+The true model is known, but not to outside investors. To manage their assets, investors use 
+a  model  to  forecast  return  volatility.  The  success  of  these  models  is  measured  by  their 
+out-of-sample  prediction  errors.  These  errors  can  be  further  decomposed  into  two 
+components: bias (deviations of estimated values from their “true” value) and variance (the 
+degree  of  variation  across  the  set  of  estimators).  The  second  component  captures  model 
+uncertainty. 
+The  models  used  by  investors  are  assumed  only  to  vary  by  their  degree  of  parametric 
+complexity. In particular, the models are assumed to range from the parsimony of a GARCH 
+(1,1)  to  the  complexity  of  a  GARCH  (5,5).  Clearly,  both  simpler  and  more  complex 
+specifications are possible, as are different dimensions of complexity. By generating random 
+samples  from  the  underlying  stochastic  process,  the  out-of-sample  performance  of  these 
+different models can be compared.18 
+Charts  12  to  17  show  the  estimated  mean  squared  prediction  errors  (MSPE)  from  the 
+different models, together with their breakdown into bias and variance. This MSPE is shown 
+using  different-sized  data  samples for  estimation  of  the model, ranging from  20  days  (one 
+month) to 250,000 days (one millennium).  
+When sample sizes are small, simpler models are unambiguously superior (Charts 12 to 13). 
+With  highly  imperfect  information,  adding  model  complexity  simply  increases  prediction 
+errors.  Indeed,  in  this  hypothetical  setup,  for  samples  smaller  than  around  two  years,  the 
+simple model does better even than the true model. Simple does not just defeat complex; it 
+trumps the truth.  
+As  the  sample  size  expands,  model  uncertainty  decreases  and  prediction  errors  fall.  The 
+performance  of  the  complex  models  begins  to  improve  relative  to  the  simple  ones.  In 
+general,  prediction  errors  converge to  a  U-shaped  pattern  centred  on the  true model,  with 
+models  which  are  either  too  simple  or  too  complex  inferior.  This  is  a  standard  statistical 
+finding.  
+But it is only at sample sizes  in excess of 100,000 days (400  years) that estimates of the 
+“true” model outperform a much simpler one. Moreover, the simple model is only materially 
+worse  than  complex  models  when  the  sample  size  rises  to  around  250,000  days 
+(1,000 years). According to this experiment, the sample sizes which would be necessary for 
+complex models to outperform much simpler ones are very large indeed.  
+This experiment is only illustrative, as it is based on a hypothetical distribution. By drawing on 
+actual  financial  market  data,  it  is  possible  to  assess  more  precisely  the  impact  of  model 
+complexity and sample size on out-of-sample performance. Consider first a portfolio of three 
+commodities using monthly data from 1890. 
+                                                
+18   Specifically, we generate 100,000 random series of data from the underlying process. We use these series to 
+forecast conditional volatilities and then compare these with actual conditional volatilities. 
+BIS central bankers’ speeches 
+ 13 
+to  estimate 
+three  models 
+Determining the risk of this portfolio in a Value-at-Risk (VaR) framework involves estimates 
+of  asset  volatilities  and  correlations.  We  consider 
+the 
+variance-covariance  matrix  of  returns  which  vary  in  complexity  from  the  simple  (a  sample 
+average  covariance  matrix  (MA))  to  the  relatively  simple  (an  exponentially-weighted 
+covariance matrix (EWMA)) to the complex (a multivariate GARCH(1,1)). 
+Using historical samples of different sizes, these models are used to generate forecasts of 
+VaR over the period 1970–2010. These VaR estimates can be compared with actual losses 
+over this period. We report the ratio of actual to expected VaR violations – the “violation ratio” 
+– at the 95% confidence interval. The closer this ratio is to unity, the better the performance 
+of the model. 
+The violation ratios are shown in Chart 18. The simpler moving-average models materially 
+outperform  the  complex  GARCH  model  when  samples  are  around  20–30  years.  The 
+performance of the complex models improves as the sample size is increased. But even with 
+a sample size of three-quarters of a century, the simple models perform at least as well as 
+the complex one.  
+Another  dimension  to  complexity  is  the  number  of  assets  in  a  portfolio.  So  consider  a 
+different  portfolio  of  200  equities  since  1973.  To  reduce  the  risk  that  the  results  are 
+portfolio-specific, we construct the maximum number of combinations of portfolios of different 
+sizes (ranging between two and 100 assets per portfolio) using daily returns. 
+For each of these sets of portfolios, we forecast VaRs for the period 2005–2012 using the 
+EWMA and GARCH models. To keep things simple, these models are all estimated over a 
+common  sample  period.  The  expected  losses  can  then  be  compared  with  actual  losses, 
+allowing “violation ratios” for portfolios of differing sizes to be calculated.  
+The results are summarised in Chart 19. For very simple portfolios of two or three assets, the 
+performance of the simple and complex models is not so different. As the number of assets 
+increases, however, the simple model progressively out-performs the complex one. That is a 
+direct result of the uncertainties associated with over-fitting the complex model relative to the 
+simple one.  
+The  message  from  these  experiments  is  clear  and  consistent.  Complexity  of  models  or 
+portfolios  generates  robustness  problems  when  understanding  a  complex  financial  system 
+over plausible sample sizes. More than that, simplicity rather than complexity may be better 
+capable of solving these robustness problems.  
+Public policy – more or less? 
+(7)  
+In forgone output, financial crises can be as costly as wars. The public policy issue, then, is 
+whether the war on crises is best waged with the weapons of the past. Einstein wrote that: 
+“The  problems  that  exist  in  the  world  today  cannot  be  solved  by  the  level  of  thinking  that 
+created them”. Yet the regulatory response to the crisis has largely been based on the level 
+of thinking that created it. The Tower of Basel, like its near-namesake the Tower of Babel, 
+continues to rise.  
+An alternative point of reference when regulating a complex system would be to simplify and 
+streamline  the  control  framework.  Based  on  the  evidence  here,  this  might  be  achieved 
+through  a  combination  of  five,  mutually-supporting  policy  measures:  de-layering  the  Basel 
+structure;  placing  leverage  on  a  stronger  regulatory  footing;  strengthening  supervisory 
+discretion  and  market  discipline; 
+regulating  complexity  explicitly;  and  structurally 
+re-configuring the financial system. 
+Reconstructing the Tower of Basel 
+(a)  
+The  quest  for  risk-sensitivity  in  the  Basel  framework,  while  sensible  in  principle,  has 
+generated  problems  in  practice.  It  has  spawned  startling  degrees  of  complexity  and  an 
+14 
+ BIS central bankers’ speeches 
+is  at  risk  of 
+over-reliance  on  probably  unreliable  models.  The  Tower  of  Basel 
+over-fitting – and over-balancing. It may be time to rethink its architecture. 
+A useful starting point might be to take a more sceptical view of the role and robustness of 
+internal risk models in the regulatory framework. These are the main source of opacity and 
+complexity. With thousands of parameters calibrated from short samples, these models are 
+unlikely to be robust for many decades, perhaps centuries, to come. It is close to impossible 
+to tell whether results from them are prudent. 
+One  simple  response  to  that  concern  may  be  to  impose  strict  limits,  or  floors,  on  model 
+outputs. These would provide a binding regulatory backstop. There are precedents for such 
+an approach. At the introduction of Basel II, temporary floors were introduced into aggregate 
+capital requirements, set at 80% of Basel I requirements. And under the Collins amendment 
+to the Dodd-Frank Act, banks using internal models will be subject to a 100% floor based on 
+the simpler standardised approach.19  
+But these measures only take us so far. Regulatory-imposed floors do little by themselves to 
+simplify  the  underlying  regulatory  architecture.  Only  by  removing  internal  models  from  the 
+regulatory  framework  can  this  be  achieved.  As  an  alternative  foundation  stone,  simplified, 
+standardised approaches to measuring credit and market risk, on a broad asset class basis, 
+could  be  used.  Indeed,  there  have  been  already  been  small  steps  in  this  direction.  A 
+consultation document on the fundamental review of the trading book issued in May this year 
+proposed a greater role for standardised approaches.20  
+This would be a turning back of the clock, restoring the regulatory framework as a backstop 
+to  commercial  risk  management.  Legal  rules  and  regulatory  rules  have  followed  a  similar 
+historical path. In response to crisis events and case law, both have evolved into a complex 
+tapestry.  In  his  book  “Simple  Rules  for  a  Complex  World”,  Richard  Epstein  suggests  this 
+legal  tapestry  can  be  unravelled  into  six  basic  threads  (Epstein  (1995)).  The  same 
+unravelling ought to be possible in banking.  
+Leverage versus capital 
+(b)  
+The  Basel  III  framework  will  introduce  for  the  first  time  an  internationally-agreed  leverage 
+ratio – a 1/N rule. That is good news from a robustness perspective. Less good is the fact 
+that  there  will  be  a  clear  hierarchy  of  solvency  rules,  with  the  frontstop  provided  by  a 
+risk-weighted capital ratio and with the leverage ratio serving as backstop. In the hierarchy, 
+leverage will be second-in-line. 
+At  least  for  the  world’s  largest  and  most  complex  banks  –  the  ones  for  which  Basel  was 
+designed – that hierarchy is difficult to justify. On the evidence presented here, the hierarchy 
+should  if  anything  be  reversed,  with  the  leverage  ratio  playing  the  frontstop  role  given  its 
+simplicity and superior predictive performance. The more complex the bank, the stronger is 
+this case.  
+The case against leverage ratios is that they may encourage banks to increase their risk per 
+unit of assets, reducing their usefulness as an indicator of bank failure – a classic Goodhart’s 
+Law.  Indeed,  that  was  precisely  the  rationale  for  seeking  risk-sensitivity  in  the  Basel 
+framework in the first place. A formulation which would avoid this regulatory arbitrage, while 
+preserving robustness, would be to place leverage and capital ratios on a more equal footing. 
+That is why, in its recommendations on macroprudential instruments, the Bank of England’s 
+Financial Policy Committee has given capital and leverage ratios equal billing.21 
+                                                
+19   Wall Street Reform and Consumer Protection Act, Section 171. 
+20   Basel Committee on Banking Supervision (2012). 
+21   Bank of England (2012). 
+BIS central bankers’ speeches 
+ 15 
+The evidence presented here suggests that there may also be a case for reconsidering the 
+measurement of equity capital. Basing this on market values rather than accounting cost is 
+not  only  simpler,  but  appears  superior  as  a  guide  to  banks’  dynamic  viability.  Certainly, 
+adding market-based indicators of capital adequacy to regulators’ and investors’ indicator set 
+would seem worthwhile.22  
+On calibration, at present Basel III rules prescribe a 3% leverage ratio – that is, banks’ equity 
+can in principle be leveraged up to 33 times. Most banks would say a loan-to-value ratio of 
+97%  was  imprudent  for  a  borrower.  A  3%  leverage  ratio  means  banks  are  just  such  a 
+borrower. For the world’s largest banks, the leverage ratio needed to guard against failure in 
+this crisis would have been above 7%. The leverage ratio that would have minimised Type I 
+and II crisis errors is around 4%. Both lie well above the current Basel backstop. 
+Pillars 1, 2 and 3 
+(c)  
+The  Tower  of  Basel  is  underpinned  by  three  pillars:  Pillar  1  (regulatory  rules);  Pillar  2 
+(supervisory discretion); and Pillar 3 (market discipline). To date, the weight borne by these 
+three  pillars  has  been  heavily  unbalanced,  with  most  of  the  strain  taken  by  Pillar  1. 
+Simplifying  Pillar  1  rules  would  help  rebalance  the  Basel  scales.  That  would  not  only 
+strengthen Pillar 1, but could simultaneously strengthen Pillars 2 and 3. 
+A  rebalancing  away  from  prescriptive  rules  provides  greater  scope  for  supervisory 
+judgement,  Pillar  2.  In  other  professions,  such  as  medicine,  prescriptive  rules  have 
+generated a wood-from-trees problem. They have also caused defensive, backside-covering 
+behaviour. Both may have increased risk in the system. 
+What is true of doctors is almost certainly true of bank supervisors. In the pre-crisis period, 
+being  required  to  monitor  many  small,  rule-based  risks  may  have  caused  supervisors  to 
+overlook potentially life-threatening ones. This ticked-box approach failed to save the banks, 
+just as in medicine it fails to save lives. Supervision suffered the same fate as the autistic 
+savant – penny-wise but pound-foolish. 
+Breaking  free  of  that  psychological  state  calls  for  a  fresh  approach,  one  which  is  less 
+rules-focussed, more judgement-based. That alternative approach to financial supervision is 
+beginning to be recognised. For example, this approach will underpin the Bank of England’s 
+new  supervisory  model  when  it  assumes  prudential  regulatory  responsibilities  next  year 
+(Bank of England and FSA (2011)).  
+Accompanying this will be a streamlined approach to regulatory reporting in the UK. In line 
+with US reporting from the 1860s, more regulatory data will be available “on call”. In future, 
+the limits of Excel will hopefully no longer be tested. This will reduce the complexity quotient, 
+making  easier  the  wood-and-trees  task  for  supervisors.  It  will  also  hopefully  streamline 
+compliance costs for both regulator and regulated. 
+This  approach  does  not  come  without  risks.  As  when  catching  a  frisbee  or  a  criminal, 
+catching  crises  relies  on  a  lengthy  sample  of  past  experience.  Good  supervision  means 
+developing well-honed rules of thumb. So one of the secrets to making this new supervisory 
+approach  a  success  will  be  the  accumulated  experience  of  supervisory  staff.  That  means 
+having staff with a nose for a crisis (like a hedgehog) as well as ears and eyes (like a fox).  
+Therein  lies  a  dilemma.  Galbraith  observed  that:  “There  can  be  few  fields  of  human 
+endeavour in which history counts for so little as in the world of finance.”23 A full crisis cycle 
+might last 20–30 years. A systemic crisis might only occur once or twice a century. Among 
+                                                
+22   A number of authors have proposed basing contractual triggers in banks’ debt instruments on market-based 
+measures of capital adequacy (Calomiris and Herring (2011), Flannery (2010)). 
+23   Galbraith (2008). 
+16 
+ BIS central bankers’ speeches 
+risk managers, typical levels of experience are significantly less than a full crisis cycle. The 
+same is true among bank supervisors. Historically, financial supervision has been long foxes 
+and short hedgehogs.  
+Ever-expanding  numbers  of  regulators  will  not  solve  this  problem  –  if  anything,  that  may 
+cause  average  levels  of  experience  to  fall,  not  rise.  Nor  will  ever-expanding  amounts  of 
+regulatory reporting – if anything, that breeds more complexity, not less. A strong case can 
+be made for a reversal of the historical trajectory in which “more is more”. This strategy has 
+comprehensively, and repeatedly, failed the crisis test. 
+This  calls  for  a  different  supervisory  direction  of  travel.  Practically,  that  may  mean  fewer 
+(perhaps  far  fewer),  more  (ideally  much  more)  experienced  supervisors,  operating  to  a 
+smaller,  less  detailed  rulebook.  That  would  reduce  the  risk  of  self-defeating  defensive 
+supervisory actions. It would mean being brave enough to allow less to deliver more. 
+Market  discipline,  Pillar  3,  would  also  be  strengthened  by  simplified  regulatory  rules  and 
+practices.  For  investors  today,  banks  are  the  blackest  of  boxes.  One  area  of  conspicuous 
+darkness  is  banks’  risk  weights.  More  than  half  of  all  investors  do  not  understand  or  trust 
+banks’  risk  weights  (Barclays  Capital  (2012)).  Their  multiplicity  and  complexity  have 
+undermined transparency and, with it, market discipline. 
+Greater simplicity and consistency of risk weight information would help restore discipline. In 
+2009,  the  UK  Financial  Services  Authority  (FSA)  asked  banks to  estimate  the  capital  they 
+would hold against a common hypothetical portfolio.24 Repeating that exercise internationally 
+would shed some sunlight on international banks’ capital treatment, helping restore market 
+discipline.  
+Beyond  risk  weights, there  is  a  case for  re-considering the  wider  disclosure  agenda.  Here 
+again, more is not necessarily more. The explosion in banks’ reporting over the past decade 
+has not conspicuously helped in pricing bank risk. Important detail is often lost in the thicket 
+of  figures,  with  investors  and  regulators  seeking  the  needle  in  the  rising  haystack  of 
+information.  Cutting  back  the  thicket,  re-sizing  the  haystack,  could  actually  enhance 
+transparency and bolster market discipline. 
+Taxing complexity  
+(d)  
+Until  recently,  complexity  had  not  been  penalised  by  the  regulatory  framework.  To  the 
+contrary,  by  providing  an  explicit  capital  incentive  to  pursue  internal  models,  the  Basel 
+framework  effectively  provided  a  subsidy  to  complexity.  Conceptually,  that  is  difficult  to 
+justify. Complexity has externality-type properties, making risk more difficult to monitor and 
+manage, not less. 
+Rather than subsidising it, there is a conceptually coherent case for taxing complexity within 
+the  regulatory  framework.  A  degree  of  progress  has  already  been  made  on  this  front.  For 
+example,  the  capital  surcharge  to  be  levied  on  the  world’s  most  systemically  important 
+institutions has been calibrated with half an eye on the complexity and connectivity of banks’ 
+balance  sheets.25  And  the  recovery  and  resolution  plans  being  drawn  up  for  these  same 
+firms may, as a by-product, simplify corporate structures in banking. 
+But  there  is  a  case  for  tackling  complexity  directly  and  at  source.  Recent  events  have 
+re-demonstrated the problems that arise in risk-managing large, complex financial firms with 
+multiple  models  and  management  information  systems.  They  make  the  world’s  largest 
+banks,  arguably,  too  big  to  manage.  At  present,  no  explicit  regulatory  charge  is  levied  on 
+                                                
+24   Financial Services Authority (2010). 
+25   Basel Committee on Banking Supervision (2011). 
+BIS central bankers’ speeches 
+ 17 
+those complexity externalities. Doing so would help protect the system against failure, while 
+providing explicit incentives to simplify balance sheets. 
+What  is  true  within  firms  is  also  true  across  them.  Cross-system  complexity  has  exploded 
+over recent decades due to the growth in opaque, intra-financial system chains of exposure. 
+That  complexity  externality  is  currently  largely  unrecognised  and  un-priced  by  regulatory 
+rules. Indeed, under the current Basel rules intra-financial system exposures carry a much 
+lower  capital  charge  than  exposures  outside  the  financial  sector.26  From  a  system-wide 
+complexity perspective, this may be the wrong relative risk-ranking. 
+Structural change  
+(e)  
+Over the past 30 years or so, the regulatory direction of travel has been towards pricing risk 
+in the financial system, rather than prohibiting or restricting it. In the language of Weitzman, 
+regulators  have  pursued  price  over  quantity-based  regulation  (Weitzman  (1974)).  That 
+makes sense when optimising in a risky world. 
+It may make less sense when optimising in an uncertain world. Quantity-based restrictions 
+may be more robust to mis-calibration. Simple, quantity-based restrictions are the equivalent 
+of  a  regulatory  commandment:  “Thou  shalt  not”.  These  are  likely  to  be  less  fallible  than: 
+“Thou shalt provided the internal model is correct”. That is one reason why Glass-Steagall 
+lasted for 60 years longer than Basel II. 
+Quantity-based regulatory solutions have gained currency during the course of the crisis. In 
+the  US,  the  Volcker  rule  is  a  quantity-based  regulatory  commandment:  “Thou  shalt  not 
+engage  in  proprietary  trading”.  In  the  UK,  the  Independent  (“Vickers”)  Commission  on 
+Banking  has  also  proposed  structural,  quantity-based  reforms:  “Thou  shalt  not  co-mingle 
+retail deposit-taking and investment banking”.  
+Yet even these notionally simple, structural proposals run some risk of backdoor complexity. 
+For example, the consultation document accompanying Volcker already runs to 298 pages. 
+Were these proposals to become mired in detail, they risk sinking, like the Tower of Basel, 
+into the swamp. This is not because these proposals go too far but because they may not go 
+far  enough.  These  reform  efforts  have  too  many  commas,  semi-colons  and  sub-clauses. 
+They would benefit from a few more full stops.  
+ That logic suggests cleaner solutions than are currently being implemented, if not than are 
+currently  being  contemplated.  Strict  size  limits  and  forced  separation  of  commercial  and 
+investment  banking  are  two  frequently  cited  such  radical  options  (Haldane  (2010),  Fisher 
+(2011),  Johnson  and  Kwak  (2010)).  The  debate  on  them  has  waxed  and  waned  on  both 
+sides of the Atlantic. A stalemate has been reached.  
+Having risen to a peak of almost three in 1928, the largest US banks’ price-to-book ratios 
+had by 1931 plummeted to below one. They remained close to these levels for several years 
+afterwards  (Chart  20). This  discount  implied  that  investors  in  the  bank  could  improve  their 
+wealth by selling-off the banks’ assets separately. Investor pressures to separate began to 
+mount. 
+In response, a number of banks began selling off their equity brokerage affiliates, including 
+the two largest banks, Chase National Bank and National City Bank in 1933. A number of 
+banks delisted their shares. This response, led by the market, paved the way for the passage 
+of Glass-Steagall in 1933. As Fuller (2009) puts it: “Divorce made a virtue of necessity and 
+cursed and condemned bankers jumped at the opportunity to demonstrate their virtue”. The 
+market was leading where regulators had feared to tread.  
+                                                
+26   Bank of England (2011). 
+18 
+ BIS central bankers’ speeches 
+Today,  the  situation  is  not  so  dissimilar.  As  then,  many  of  the  world’s  global  banks  have 
+fallen  from  heady  heights  to  trade  at  heavy  discounts  to  the  book  value  of  their  assets.  If 
+anything,  the  discounts  to  book  value  are  even  greater  today  than  in  the  early  1930s 
+(Chart 20). As then, this conjunction is stirring market pressures to separate. Bankers today, 
+many  cursed  and  condemned,  could  make  a  virtue  of  necessity.  The  market  could  lead 
+where regulators have feared to tread. 
+Conclusion 
+(8)  
+Modern finance is complex, perhaps too complex. Regulation of modern finance is complex, 
+almost certainly too complex. That configuration spells trouble. As you do not fight fire with 
+fire, you do not fight complexity with complexity. Because complexity generates uncertainty, 
+not risk, it requires a regulatory response grounded in simplicity, not complexity. 
+Delivering  that  would  require  an  about-turn  from  the  regulatory  community  from  the  path 
+followed for the better part of the past 50 years. If a once-in-a-lifetime crisis is not able to 
+deliver  that  change,  it  is  not  clear  what  will.  To  ask  today’s  regulators  to  save  us  from 
+tomorrow’s crisis using yesterday’s toolbox is to ask a border collie to catch a frisbee by first 
+applying Newton’s Law of Gravity. 
+BIS central bankers’ speeches 
+ 19 
+at 
+and 
+banks 
+resilient 
+available 
+for  more 
+References 
+Arrow, K J and Debreu, G (1954), “Existence of an Equilibrium for a Competitive Economy”, 
+Econometrica, Vol. 22, No. 3, pp 265–290. 
+Bank  of  England  (2012),  “Record  of  the  interim  Financial  Policy  Committee,  16  March 
+2012”, 
+http://www.bankofengland.co.uk/publications/Documents/records/ 
+fpc/pdf/2012/record1203.pdf. 
+Bank  of  England  (2011),  “UK  banks’  assets  and  the  allocation  of  regulatory  capital”, 
+Financial Stability Report, December, pp 26–27, available at http://www.bankofengland.co.uk 
+/publications/Documents/fsr/2011/fsrfull1112.pdf. 
+Bank  of  England  and  Financial  Services  Authority  (2011),  “Our  approach  to  banking 
+supervision”, available at http://www.bankofengland.co.uk/publications/other/financialstability/ 
+uk_reg_framework/pra_approach.pdf. 
+Barclays Capital (2012), “Bye Bye Basel”, May. 
+Basel Committee on Banking Supervision (2012), “Consultative document: Fundamental 
+review of the trading book”, available at http://www.bis.org/publ/bcbs219.pdf. 
+Basel Committee on Banking Supervision (2011), “Global systemically important banks: 
+Assessment  methodology  and  the  additional  loss  absorbency  requirement”,  available  at 
+http://www.bis.org/publ/bcbs207.pdf. 
+Basel  Committee  on  Banking  Supervision  (2010),  “Basel  III:  A  global  regulatory 
+framework 
+at 
+http://www.bis.org/publ/bcbs189_dec2010.htm. 
+Basel Committee on Banking Supervision (2004), “International Convergence of Capital 
+Measurement  and  Capital  Standards:  a  Revised  Framework”,  available  at 
+http://www.bis.org/publ/bcbs107.pdf. 
+Basel  Committee  on  Banking  Supervision  (1996),  “Overview  of  the  amendment  to  the 
+capital accord to incorporate market risks”, available at http://www.bis.org/publ/bcbs23.pdf.  
+Basel  Committee  on  Banking  Supervision  (1988),  “International  convergence  of  capital 
+measurement and capital standards”, available at http://www.bis.org/publ/bcbs04a.pdf. 
+Berlin, I (1953), “The Hedgehog and the Fox”, Simon and Schuster, New York. 
+Bollerslev,  T  (1987),  “A  conditionally  heteroscedastic  time  series  model  for  speculative 
+prices and rates of return”, The Review of Economics and Statistics, 69(3), pp 542–547. 
+Calomiris,  C  W  and  Herring,  R  J  (2011),  “Why  and  How  To  Design  a  Contingent 
+Convertible Debt Requirement”, Columbia Business School Working Paper, February. 
+Camerer, C F (2003), “Behavioral Game Theory”, Princeton.  
+Capie, F (2010), “The Bank of England: 1950s to 1979 (Studies in Macroeconomic History)”, 
+Cambridge University Press. 
+DeMiguel, V, Garlappi, L and Uppal, R (2007), “Optimal Versus Naive Diversification: How 
+Inefficient  is  the  1/N  Porfolio  Strategy”,  The  Review  of  Financial  Studies,  22  (5), 
+pp 1915–1953. 
+Demirguc-Kunt, A, Detragiache, E and Merrouche, O (2010), “Bank capital: lessons from 
+the financial crisis“, Policy Research Working Paper Series 5473, World Bank. 
+Dodd-Frank  Wall  Street  Reform  and  Consumer  Protection  Act  (2010),  available  at 
+www.sec.gov/about/laws/wallstreetreform-cpa.pdf. 
+Epstein, R (1995), “Simple Rules for a Complex World”, Harvard University Press. 
+systems”, 
+available 
+banking 
+20 
+ BIS central bankers’ speeches 
+Estrella, A, Park, S and Peristiani, S (2000), “Capital ratios as predictors of bank failure”, 
+Federal Reserve Bank of New York Economic Policy Review, Vol 6, No 2, pp 33–52. 
+Federal  Deposit  Insurance  Corporation  (1984),  “The  First  Fifty  Years:  A  History  of  the 
+FDIC, 1933–1983”, available at http://www.fdic.gov/bank/analytical/firstfifty/index.html. 
+Financial  Services  Authority  (2010),  “Results  of  2009  hypothetical  portfolio  exercise  for 
+sovereigns,  banks  and 
+large  corporations”,  available  at  http://www.fsa.gov.uk/pubs/ 
+international/sbc_hpe.pdf.  
+Financial  Services  Committee  (2010),  “One  year  later:  The  consequences  of  the 
+Dodd-Frank Act”. 
+Fisher,  R  W  (2011),  “Taming  the  Too-Big-To-Fails:  Will  Dodd-Frank  be  the  Ticket  or  is 
+Lap-Band  Surgery  Required?”,  available  at  http://dallasfed.org/news/speeches/fisher/ 
+2011/fs111115.cfm. 
+Flannery,  M  J  (2010),  “Stabilizing  Large  Financial  Institutions  with  Contingent  Capital 
+Certificates”, CAREFIN Research Paper, No. 04/2010. 
+Friedman, M (1960), “A program for monetary stability”, Fordham University Press.  
+Fuller,  R  L  (2009),  “Drifting  towards  mayhem:  The  bank  crisis  in  the  United  States, 
+1930–1933”, Rayleigh, North Carolina. 
+Galbraith, J K (2008), “A Short History of Financial Euphoria”, Niranjan. 
+Gigerenzer,  G  (2010),  “Moral  satisficing:  Rethinking  Moral  Behavior  as  Bounded 
+Rationality”, Topics in Cognitive Science, Vol 2, Issue 3, pp 528–554. 
+Gigerenzer, G (2007), “Gut Feelings: Short cuts to Better Decision Making”, Allen Lane.  
+Gigerenzer, G and Brighton, H (2009), “Homo Heuristicus: Why Biased Minds Make Better 
+Inferences”, Topics in Cognitive Science, Vol 1, pp 107–143. 
+Gigerenzer, G and Kurzenhäuser, S (2005), “Fast and frugal heuristics in medical decision 
+making”,  in  Bibace,  R,  Laird,  J  D,  Noller,  K  L  and  Valsiner,  J  (ed.)  (2005),  “Science  and 
+medicine in dialogue”, pp 3–15, Westport, CT, Praeger. 
+Haldane,  A  G  (2011),  “Capital  Discipline”,  available  at  http://www.bankofengland.co.uk/ 
+publications/Documents/speeches/2011/speech484.pdf. 
+Haldane,  A  G  (2010),  “The  $100  billion  question”,  available  at  http://www.bankofengland. 
+co.uk/publications/Documents/speeches/2010/speech433.pdf. 
+Hansen,  L  and  Sargent,  T  J  (2010),  “Fragile  beliefs  and  the  price  of  uncertainty”, 
+Quantitative Economics (1), pp 129–162. 
+Harford, T (2011), “Adapt: Why success always starts with failure”, Little, Brown.  
+Härle,  P,  Lüders,  E,  Pepanides,  T,  Pfetsch,  S,  Poppensieker,  T  and  Stegemann, 
+U (2010),  “Basel  III  and  European  banking:  Its  impact,  how  banks  might  respond,  and  the 
+challenges of implementation”, McKinsey Working Papers on Risk, Number 26. 
+Hayek, F A (1974), “The Pretence of Knowledge”, Nobel Memorial Prize Lecture. 
+International  Monetary  Fund  (2009),  “Global  Financial  Stability  Report”,  Chapter  3, 
+available at http://www.imf.org/external/pubs/ft/gfsr/2009/01/pdf/chap3.pdf.  
+Johnson,  S  and  Kwak,  J  (2010),  “13  bankers:  the  Wall  Street  takeover  and  the  next 
+financial meltdown”, Pantheon.  
+Kahneman,  D  and  Tversky,  A  (1974),  “Judgement  under  Uncertainty:  Heuristics  and 
+Biases”, Science, New Series, Vol. 185, No. 4157 (Sep), pp 1124–1131.  
+BIS central bankers’ speeches 
+ 21 
+Kirman,  A  (2010),  “Complex  Economics:  Individual  and  Collective  Rationality”,  Routledge, 
+London.  
+Knight, F H (1921), “Risk, Uncertainty and Profit”, Houghton Mifflin Company, Boston. 
+Laeven, L and Valencia, F (2010), “Resolution of Banking Crises: The Good, the Bad and 
+the Ugly”, IMF working paper, 10/146. 
+Laeven,  L  and  Levine,  R  (2007),  “Is  there  a  diversification  discount  in  financial 
+conglomerates,” Journal of Financial Economics, 85(2), pp 331–367.  
+Lamoureux, C G and Lastrapes, W D (1990), “Persistence-in-variance, structural change 
+and the GARCH model”, Journal of Business and Economic Statistics, Vol 8, No 2 (April), 
+pp 225–234. 
+Le Leslé, V and Avramova, S (2012), “Revisting Risk-Weighted Assets”, IMF working paper 
+12/90. 
+Markowitz, H M (1952), “Portfolio Selection.” Journal of Finance, 7 (1), pp 77–91. 
+McCammon,  I  and  Hägeli,  P  (2007),  “Comparing  avalanche  decision  frameworks  using 
+accident  data  from  the  United  States”,  Cold  Regions  Science  and  Technology  (47), 
+pp 193–206. 
+Merton, R C (1969),  “Lifetime  Portfolio  Selection  under  Uncertainty: The  Continuous-Time 
+Case”, Review of Economics and Statistics, 51 (3), August, pp 247–57. 
+Molitor, J S and Philips, C (2012), “The case for index fund investing in the UK”, Vanguard 
+research, February.  
+Morris,  S  and  Shin,  H  S  (2008),  “Financial  Regulation  in  a  System  Context”,  Brookings 
+Papers on Economic Activity, pp 229–274. 
+Muth,  J  F  (1961),  “Rational  Expectations  and 
+Econometrica, Vol. 29, No. 3 (July). 
+Perrow, C (1984), “Normal accidents: living with high-risk technologies”, New York.  
+Scheibehenne,  B  and  Broder,  A  (2007),  “Predicting  Wimbledon  2005  tennis  results  by 
+mere player name recognition”, International Journal of Forecasting (3), pp 415–426. 
+Selten,  R  (2001),  “What  is  bounded  rationality?”  In  G.  Gigerenzer  &  R.  Selten  (Eds.), 
+“Bounded rationality: The adaptive toolbox”, pp 13–36, Cambridge, MIT Press. 
+Serwe,  S  and  Frings,  C  (2006),  “Who  will  win  Wimbledon?  The  recognition  heuristic  in 
+predicting sports events”, Journal of Behavioral Decision Making, 19, pp 321–332. 
+Simon, H A (1972), “The Sciences of the Artificial”, MIT Press.  
+Simon, H A (1956), “Rational Choice and the Structure of the Environment”, Psychological 
+Review, 63 (2), pp 129–138.  
+Snook, B, Zito, M, Bennell, C and Taylor, P J (2005), “On the Complexity and Accuracy of 
+Geographic Profiling Strategies”, Journal of Quantitative Criminology, Vol. 21, No. 1, March. 
+von Neumann, J and Morgenstern, O (1944), “Theory of games and economic behaviour”, 
+Princeton University Press. 
+Wang, G, Grone, B, Colas, D, Appelbaum, L and Mourrain, P (2011), “Synaptic plasticity 
+in sleep: learning, homeostasis and disease”, Trends in Neurosciences. 
+Weitzman,  M  (1974),  “Prices  versus  Quantities”,  Review  of  Economic  Studies,  41(4), 
+pp 477–91. 
+Wilde, O (1893), “Lady Windermere’s Fan”, J W Luce.  
+the  Theory  of  Price  Movements”, 
+22 
+ BIS central bankers’ speeches 
+Wübben, M and von Wangenheim, F (2008), “Instant customer base analysis: managerial 
+heuristics often “get it right”“, Journal of Marketing, 72, pp 82–93. 
+BIS central bankers’ speeches 
+ 23 
+ Table 1:  
+Approximate number of estimated parameters 
+for a typical large international bank(a)(b) 
+ Probability of default 
+Loss given default 
+Number of models 
+Range of parameters 
+Retail mortgages 
+Credit cards 
+SME retail 
+Wholesale 
+SME corporate 
+10–15 
+10–15 
+10–15 
+5–15 
+5–15 
+10–15 
+3 
+3 
+5–15 
+5–15 
+40 
+15 
+6 
+100 
+2 
+400–600 
+100–140 
+40–50 
+500–1500 
+10–30 
+(a)  Number of parameters required to determine credit risk capital charges under the internal ratings-based 
+approach. 
+(b)  The  number  of  parameters  used to  estimate  PD and LGD,  as  well  as  the  number  of  models  used  for 
+each  portfolio,  have  been  estimated  based  on  a  large  representative  UK  bank,  so  they  are  a  broad 
+approximation  only.  To  calculate  the  range  of  total  parameters  we  have  assumed  that  half  the  models  are 
+used to estimate PD and the other half are used to estimate LGD.  
+Risk-based capital versus leverage for major global banks 
+Table 2:  
+Variable 
+Leverage ratio 
+Risk-based capital ratio 
+Model 1 
+–0.37 *** 
+(0.13) 
+ Model 2 
+ –0.16  
+(0.11) 
+Model 3 
+–0.35*** 
+(0.13) 
+–0.07 
+(0.11) 
+Notes:   For  all  models,  the  dependent  variable  is  “failure”.  Standard  errors  are 
+shown in brackets. 
+(*) Significant at the 10% level 
+(**)  
+(***)  
+Significant at the 5% level 
+Significant at the 1% level 
+24 
+ BIS central bankers’ speeches 
+Risk-based capital versus leverage for major global banks  
+Table 3:  
+Variable(a) 
+Leverage ratio 
+Risk-based capital ratio 
+GDP 
+Current account 
+Credit-to-GDP 
+Model 1 
+–0.53 *** 
+(0.19) 
+ 
+–0.82 *** 
+ (0.24) 
+–0.04 
+(0.05) 
+ 0.001 
+(0.006) 
+Model 2 
+ 
+–0.09 
+(0.12) 
+–0.89 *** 
+(0.24) 
+0.04 
+(0.04) 
+–0.002 
+(0.006) 
+(a) “GDP”  is  defined  as  average  GDP  growth  over  the  period  2007–2011; 
+“current account” is defined as the current account balance as a per cent of 
+GDP in 2007; and “credit-to-GDP” is defined as the stock of bank lending to 
+the domestic private sector as a per cent of GDP in 2007.  
+Notes:  
+are shown in brackets. 
+ (*)  
+(**)  
+(***)  
+Significant at the 10% level 
+Significant at the 5% level 
+Significant at the 1% level 
+For all models, the dependent variable is “failure”. Standard errors 
+ BIS central bankers’ speeches 
+ 25 
+ Table 4:  
+Horse-race between different indicators of 
+bank solvency for major global banks(a) 
+Model 1 
+ Model 2 
+Model 3 
+Model 4 
+Model 5 
+Model 6 
+Model 7 
+T1 Risk-based 
+T1 Leverage 
+CT1 Risk-based 
+CT1 Leverage 
+Market risk-based 
+Market leverage 
+McFadden R2 
+–0.23 
+(0.20) 
+ 
+     –0.55 ***  
+(0.18) 
+ 
+     –0.44 * 
+(0.25) 
+ 
+     –0.70 *** 
+(0.23) 
+ 
+ 0.023 
+0.177 
+0.070 
+0.203 
+    –0.08 
+(0.05) 
+ 
+0.071 
+     –0.20 *** 
+(0.06) 
+0.216 
+0.97 
+(1.47) 
+–0.48 
+(2.04) 
+–1.52 
+(1.36) 
+1.22 
+(1.99) 
+0.13 
+(0.11) 
+–0.35 * 
+(0.20) 
+0.317 
+For all models, the dependent variable is “failure”. Standard errors are shown in brackets. 
+(a) 
+Regression  based  on  a  smaller  sample  (45  global  banks).  This  is  because  of  missing  information  on 
+market  capitalisation  (where  banks  were  not  publicly  listed)  or  on  consistent  pre-crisis  estimates  of 
+Core Tier 1 capital.  
+Notes:  
+ (*) 
+Significant at the 10% level 
+(**)   Significant at the 5% level 
+(***)   Significant at the 1% level 
+ 
+Risk-based capital versus leverage, FDIC-insured banks(a) 
+Table 5:  
+Variable 
+Leverage ratio 
+Risk-based capital ratio 
+Model 1 
+–0.01  
+(0.01) 
+ Model 2 
+ –0.06*** 
+(0.01) 
+Model 3 
+0.27*** 
+(0.03) 
+–0.22*** 
+(0.03) 
+Sample  excludes  outlier  banks  with  very  large  risk-based  capital  and  leverage 
+(a)  
+ratios. Excluded observations account for approximately 0.5% of the entire sample.  
+Notes:   For all models, the dependent variable is “failure”. Standard errors are shown in 
+brackets. 
+ (*) 
+(**)  
+(***)  
+Significant at the 10% level 
+Significant at the 5% level 
+Significant at the 1% level 
+ 26 
+ BIS central bankers’ speeches 
+Table 6: 
+CAMEL-based determinants of bank failure 
+for FDIC-insured banks(a) 
+Variable 
+Coefficient 
+Risk-based capital ratio 
+Asset quality 
+Efficiency ratio 
+Return on assets 
+Liquid asset ratio 
+McFadden R2 
+Likelihood Ratio (Chi-square) 
+–0.04*** 
+(0.01) 
+0.05 
+(0.03) 
+0.001 
+(0.001) 
+–0.16** 
+(0.07) 
+–0.07*** 
+(0.01) 
+0.075 
+261.12*** 
+leverage 
+(a)   Sample  excludes  outlier  banks  with  very  large 
+risk-based  capital  and 
+ratios.  Excluded 
+observations account for approximately 0.5% of the entire 
+sample.  
+Notes:  
+“failure”. Standard errors are shown in brackets. 
+ (*)  Significant at the 10% level 
+(**)   Significant at the 5% level 
+(***)   Significant at the 1% level 
+For  all  models,  the  dependent  variable  is 
+BIS central bankers’ speeches 
+ 27 
+ 
+Chart 1: Number of employees in UK regulatory 
+bodies and the finance industry, 1979–2012(a) 
+Chart 2: Number of employees in US Federal 
+regulatory bodies and number of commercial 
+banks, 1935–2010(a) 
+Source: Bank of England, Securities and Investment Board, 
+Financial Services Authority annual reports, Capie (2010), Office 
+for National Statistics and Bank calculations. 
+  
+ 
+ 
+(a)  Prior to 1997, data cover staff employed in banking 
+ supervision at the Bank of England and staff employed at the 
+Securities and Investment Board. Thereafter, data cover staff 
+employed at the Financial Services Authority. Where data are 
+not available, they are interpolated.  
+  Source: Federal Deposit Insurance Corporation (FDIC), Board of 
+Governors of the Federal Reserve, Office of the Comptroller of the 
+Currency (OCC), Securities and Exchange Commission (SEC) 
+annual reports, FDIC (1984), Budget of the US government and 
+Bank calculations. 
+ 
+(a)  Covers staff employed at the FDIC, the OCC, the SEC and 
+the Federal Reserve System (bank supervision and 
+regulation area only). Where data are unavailable, they are 
+interpolated. For the Federal Reserve System, there is no 
+information on the number of employees in the area of bank 
+supervision regulation prior to 1984. It is assumed that the 
+proportion of staff employed in that area remained constant 
+at its average level between1984 and 2010. 
+ 
+Chart 3: Risk-based capital ratios of major global 
+banks, end-2006(a) 
+   Source: Capital IQ, SNL, published accounts, Laeven and 
+Valencia (2010). 
+ 
+(a)  The classification of bank failure is based on Laeven and 
+Valencia (2010), updated to reflect failure or government 
+intervention since August 2009. 
+  28 
+ BIS central bankers’ speeches 
+ 
+Chart 4: Average solvency ratios of major global 
+banks, end-2006(a)(b)  
+Chart 5: Leverage ratios of major global banks, 
+end-2006(a)(b) 
+ Source: Capital IQ, SNL, published accounts, Laeven and 
+Valencia (2010) and Bank calculations. 
+ 
+(***) Denotes null hypothesis of mean equality rejected at the 
+1% significance level.  
+ 
+(a)  The classification of bank distress is based on Laeven and 
+Valencia (2010), updated to reflect failure or government 
+intervention since August 2009. 
+Source: Capital IQ, SNL, published accounts, Laeven and 
+Valencia (2010) and Bank calculations. 
+ 
+ 
+ 
+ 
+(a)  The classification of bank distress is based on Laeven and 
+Valencia (2010), updated to reflect failure or government 
+intervention since August 2009. 
+ (b) 
+ For the purposes of the leverage ratio calculation, total 
+assets have been adjusted on a best-efforts basis to achieve 
+comparability between institutions reporting under US GAAP 
+and IFRS.  
+(b)  Total assets have been adjusted on a best-efforts basis to 
+achieve comparability between institutions reporting under 
+US GAAP and IFRS.  
+ 
+ 
+Chart 6: Risk-based capital ratios of FDIC-insured banks, end-2006(a) 
+ Source: FDIC and Bank calculations.  
+ 
+(a)  Sample has been truncated to remove outlier observations with very large risk-based capital ratios. 
+  BIS central bankers’ speeches 
+ 29 
+Chart 7: Leverage ratios of FDIC-insured banks, end-2006(a) 
+Source: FDIC and Bank calculations.  
+ 
+(a)  Sample has been truncated to remove outlier observations with very large leverage ratios. 
+ Chart 8: In- and out-of-sample performance of different models of bank risk (100 
+observations)(a)(b)(c) 
+Source: FDIC and Bank calculations.  
+ 
+(a)  Different models estimated using 10,000 random samples of 100 observations each. Samples are rejected if there are no 
+ observations of bank failure. The different models are used to predict bank failure for approximately 4,300 banks 
+out-of-sample. 
+(b) 
+In-sample performance is measured by deviance and out-of-sample performance by the mean squared prediction error. 
+For both statistics, a lower number implies better performance. 
+(c)  The data set excludes outlier banks with very large risk-based capital and leverage ratios. Excluded observations account 
+for approximately 0.5% of the entire sample. 
+ 30 
+ BIS central bankers’ speeches 
+Chart 9: In- and out-of-sample performance of different models of bank risk (1000 
+observations)(a)(b)(c) 
+Source: FDIC and Bank calculations.  
+ 
+(a)  Different models estimated using 10,000 random samples of 1,000 observations each. Samples are rejected if there are no 
+ observations of bank failure. The different models are used to predict bank failure for approximately 4,300 banks 
+out-of-sample. 
+(b) 
+In-sample performance is measured by deviance and out-of-sample performance by the mean squared prediction error. 
+For both statistics, a lower number implies better performance. 
+(c)  The data set excludes outlier banks with very large risk-based capital and leverage ratios. Excluded observations account 
+for approximately 0.5% of the entire sample. 
+ BIS central bankers’ speeches 
+ 31 
+Chart 10: Summary of out-of-sample model 
+performance(a)(b) 
+Chart 11: Distribution of daily stock price 
+returns, 1928–2012(a) 
+Source: FDIC and Bank calculations. 
+Source: Bloomberg and Bank calculations. 
+  (a)  GARCH innovations are normally-distributed. 
+(a)  Different models estimated using 10,000 random samples 
+of different size. Samples are rejected if there are no 
+observations of bank failure. The different models are 
+used to predict bank failure for approximately 4,500 
+banks out-of-sample. 
+(b)  Out-of-sample performance is measured by the mean 
+squared prediction error. A lower number implies better 
+performance. 
+  32 
+ BIS central bankers’ speeches 
+Charts 12–17: Mean Squared Prediction Errors (MSPE) and Decomposition(a)(b) 
+Chart 12: Sample size = 20 
+Chart 13: Sample size = 500 
+Chart 14: Sample size = 2500 
+ Chart 15: Sample size = 25,000 
+ Chart 16: Sample size = 100,000 
+ Chart 17: Sample size = 250,000 
+Source: Bank calculations. 
+ 
+(a) MSPE equals the sum of the squared bias and variance. 
+(b) Data generating process: GARCH (3,3) with normally-distributed innovations. 
+ BIS central bankers’ speeches 
+   33 
+Chart 18: VaR violation ratios for portfolio of 
+commodities(a) 
+Chart 19: VaR violation ratios for portfolios of 
+equities(a) 
+Source: Global Financial Data and Bank calculations. 
+ 
+(a)  Equally-weighted portfolio of silver, wheat and hogs. Validation 
+period starts in 1970. 95% VaR using monthly returns.  
+(b)  EWMA: lambda = 0.94. 
+ Chart 20: Evolution of bank price to book ratios, 
+historical and present day(a)(b) 
+Source: Thomson Reuters Datastream, Calomiris and Wilson (2004) and 
+Bank calculations. 
+ 
+(a)  Sample includes Bank of America, Barclays, Bank of Ireland, 
+Citigroup, Goldman Sachs, HSBC, JP Morgan Chase & Co., Lloyds 
+Banking Group, Morgan Stanley, National Australia Bank, Northern 
+Rock, Royal Bank of Scotland and Santander. 
+(b)  2012 data to date. 
+ 
+  Source: Global Financial Data and Bank calculations. 
+ 
+(a)  For each k-sized portfolio, the result shown is the average of 
+ 100 random k-sized combinations of equities out of a universe 
+of 210 stocks in the S&P 500. Validation period starts in 2005. 
+95% VaR using daily returns. 
+(b)  EWMA: lambda = 0.94.  
+   34 
+ BIS central bankers’ speeches 

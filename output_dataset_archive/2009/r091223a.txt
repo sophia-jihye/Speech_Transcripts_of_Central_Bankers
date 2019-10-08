@@ -1,0 +1,456 @@
+Masaaki Shirakawa: Macroprudence and the central bank 
+Speech  by  Mr  Masaaki  Shirakawa,  Governor  of  the  Bank  of  Japan,  at  the  Seminar  of  the 
+Securities Analysts Association of Japan, Tokyo, 22 December 2009. 
+ Introduction 
+It is my honor to speak today at the Securities Analysts Association of Japan. 
+I believe that most of you here today have been directly or indirectly involved in the securities 
+market, and that, needless to say, efforts by many related parties are essential for the sound 
+growth of the securities market. One critical element of such efforts is the expert provision of 
+securities analysis, and in this, securities analysts have been playing an important role. The 
+Securities  Analysts  Association  of  Japan  was  established  in  1962  in  order  to  train  such 
+securities  analysts,  and  since  then  has  consistently  and  greatly  contributed  to  the 
+development of Japan’s securities market. So let me start by expressing herewith my sincere 
+respect for the Association’s many years of effort. 
+Sparked by the recent global financial crisis, there have been active discussions on how to 
+prevent a recurrence of such a crisis. Those discussions cover securities market as well as 
+financial markets more generally and the financial system. Last week, the Basel Committee 
+on Banking Supervision (Basel Committee), for example, announced a package of proposals 
+on capital adequacy rules and liquidity regulations and made this available for consultation 
+until mid-April 2010.1 Given that the recent crisis originated in the United States and Europe, 
+there  appear  to  be  some  mixed  feelings  at  Japanese  financial  institutions  about  the 
+discussions  in  progress.  However,  any  instability  in  the  global  financial  system  inevitably 
+affects  Japanese  financial  institutions.  Moreover,  just  as  one  of  the  causes  of  the  recent 
+crisis was that concerned parties in the United States and Europe had not sufficiently learned 
+the lessons from the bubble and financial crisis in Japan and the Asian financial crisis, so 
+Japanese  financial  institutions  might  face  similar  problems  in  the  future  if  they  fail  to 
+sufficiently learn the lessons from the recent financial crisis in the United States and Europe. 
+For this reason, it is important for Japanese financial institutions to actively take part in these 
+discussions. 
+Because  discussions  revolve  around  a  large  number  of  issues,  it  is  difficult  to  summarize 
+them  in  a  few  simple  words.  However,  when  it  comes  to  lessons  from  the  crisis  and 
+measures  to  prevent  a  recurrence,  the  most  important  keywords  in  my  view  are  “liquidity” 
+and  “macroprudence.”  Against  this  background,  today  I  would  like  to  focus  on  the  role  of 
+“macroprudence”  and  discuss  initiatives  by  the  Bank  as  well  as  efforts  that  private  market 
+participants  and  public  authorities  should  make  to  ensure  the  stability  of  the  financial 
+system.2 
+                                                 
+1   Basel  Committee  on  Banking  Supervision,  “Strengthening  the  Resilience  of  the  Banking  Sector”  and 
+for  Liquidity  Risk  Measurement,  Standards  and  Monitoring,”  Consultative 
+“International  Framework 
+Documents, December 2009. 
+2   On the importance of the concept of liquidity in discussing the causes of and policy responses to the recent 
+crisis, see Shirakawa, M., “Liquidity” and “Payment and Settlement Systems”, speech given at the Center for 
+Advanced Research in Finance, The University of Tokyo, November 2008, and Borio, C., “Ten Propositions 
+about Liquidity Crises,” BIS Working Papers, No. 293, November 2009. 
+BIS Review 168/2009 
+ 1
+Microprudence and macroprudence 
+I. 
+I should start with an explanation of the concept of “macroprudence,” but in order to do so, it 
+is useful to first explain the concept of “microprudence,” with which it contrasts. It could be 
+said  that  microprudence  describes  the  conventional  ideas  behind  the  policy  approach  to 
+ensure financial system stability. Simplifying somewhat, microprudence consists of the idea 
+that if the management of individual financial institutions is sound, the financial system, which 
+is  the  aggregate  of  individual  financial  institutions,  should  be  stable,  and  regulations  and 
+supervision should therefore focus on realizing soundness at such micro level. On the other 
+hand,  the  idea  underlying  the  concept  of  macroprudence  is  that  stability  of  the  financial 
+system  cannot  be  achieved  solely  by  such  micro-level  efforts,  and  that  it  is  necessary  to 
+assess risks in the financial system as a whole by taking account of the interconnectedness 
+of economic activities, financial markets, and the behavior of financial institutions, and to take 
+conscious steps to base institutional design and policy responses on such assessments. As I 
+will  discuss  in  detail  later,  relying  on  only  one  of  the  two  approaches  is  not  sufficient  to 
+ensure financial system stability. Rather, both approaches are necessary, and one of the key 
+lessons  from  the  recent  global  financial  crisis  is  that  we  need  to  pay  greater  heed  to  the 
+approach that incorporates what the term “macroprudence” seeks to capture. In order to see 
+what this means specifically, let us consider the background of the recent financial crisis. 
+Background of the global financial crisis 
+The  recent  financial  crisis  may  have  reached  a  global  scale  and  involved  new  financial 
+products and players, but essentially it is a classic example of the rise and collapse of an 
+economic  bubble.3  In  the  period  preceding  the  recent  crisis,  especially  around  the  mid-
+2000s, the United States and some European economies experienced a large-scale credit 
+bubble. It was the bursting of that credit bubble that triggered the financial crisis, which was 
+further  aggravated  by  the  failure  of  Lehman  Brothers  in  the  autumn  of  2008.  During  the 
+bubble period, risk-taking was excessive. Looking at the behavior of financial institutions, for 
+example,  this  involved  the  accumulation  of  excessive  leverage  and  maturity  mismatches 
+between assets and liabilities. Typically, excessive leverage is taken to refer to an increase 
+in debt beyond a point where there is an appropriate balance between capital and debt. More 
+generally,  however,  excessive  leverage  can  be  taken  to  mean  excessive  risk-taking, 
+including  off-balance  transactions,  relative  to  the  capital  base.  At  a  time  of  financial  crisis, 
+excessive leverage will show itself in capital shortages and solvency problems suffered by 
+financial institutions. On the other hand, the term “maturity mismatch” refers to the financing 
+of  long-term  assets  using  short-term  debt,  and  in  the  run-up  to  the  recent  financial  crisis, 
+there  was  a  considerable  increase  in  such  mismatches.  A  typical  example  of  this  is 
+structured  investment  vehicles  (SIVs).  These  SIVs  invested  in  medium-  to  long-term 
+securitized products related to subprime mortgages and raised funds by issuing short-term 
+asset-backed  commercial  papers  with  those  securitized  products  as  underlying  assets. 
+However,  once  some  kind  of  a  shock  occurs,  funding  becomes  difficult,  and  such  liquidity 
+risks  materialize  not  only  in  terms  of  the  domestic  currency  but  also  in  terms  of  foreign 
+currencies.  In  the  recent  global  financial  crisis,  apart  from  the  United  States,  U.S.  dollar 
+liquidity risk was particularly serious for European financial institutions and, as you will know, 
+Japanese financial institutions, too, faced shortages of U.S. dollar funds from the autumn of 
+2008 through the beginning of 2009. Once there is a liquidity shortage, financial institutions 
+are forced to sell their assets, resulting in a fall in asset prices, and, for financial institutions 
+as  a  whole,  further  intensifies  liquidity  shortages.  Thus,  during  the  financial  crisis,  the 
+                                                 
+3   The extent of the financial crisis, however, has differed across regions, and financial systems in Asia, including 
+Japan’s, have  proved to  be relatively robust. For details, see Shirakawa, M., “Reforming the Framework of 
+Financial  Regulation  and  Supervision:  An  International  and  Asian  Perspective,”  speech  given  at  the  Bank 
+Negara Malaysia – Bank for International Settlements High Level Seminar in Malaysia, December 2009. 
+2 
+ BIS Review 168/2009
+negative spiral intensified as capital shortages and liquidity shortages mutually affected each 
+other. 
+Responses based on microprudence 
+Crises – as I just discussed – appear in the shape of capital and liquidity shortages suffered 
+by financial institutions. Therefore, a natural regulatory and supervisory approach to prevent 
+the recurrence of a crisis is to sufficiently raise the minimum levels of required capital and 
+liquidity financial institutions should hold. This approach focuses on reducing the possibility 
+that individual financial institutions fail and could therefore be described as a response based 
+on microprudence. 
+With regard to capital shortages suffered by financial institutions, the recent crisis revealed a 
+variety of issues. One of these is that the most remarkable increase in leverage took place 
+not  in  the  traditional  banking  business  but  outside  the  banking  business.  For  example, 
+financial  institutions  held  securitized  products  on  their  trading  books,  for  which  risk 
+weightings under capital adequacy regulations are small, although they later turned out to be 
+highly risky financial products. While the size of trading books was less than 10 percent of 
+total  assets  for  Japanese  financial  institutions,  for  some  financial  institutions  in  the  United 
+States  and  Europe,  it  reached  about  40  percent.  Consequently,  when  risk-asset  based 
+capital  ratios  were  used  as  a  yardstick,  major  financial  institutions’  leverage,  at  least 
+superficially,  did  not  seem  that  excessive,  and  their  capital  bases  appeared  sufficient. 
+Investments in securitized products by major financial institutions were carried out through 
+SIVs they had set up, and the funding for these SIVs was provided through credit from their 
+parent  financial  institutions.  As  a  result,  as  later  revealed,  risks  were  shouldered  by  the 
+parent financial institutions themselves. In a case such as this, the necessary regulatory and 
+supervisory  response  would  have  been  to  accurately  gauge  the  risks  carried  by  financial 
+institutions and the necessary capital, and to require individual financial institutions to hold 
+more capital. 
+Can problems be solved through microprudence alone? 
+Such  regulatory  and  supervisory  responses  based  on  microprudence  are  necessary  and 
+their importance should not be underestimated. As I will explain in detail later, the Bank also 
+conducts  on-site  examinations  and  off-site  monitoring  of  financial  institutions,  carrying  out 
+various  examinations  of  financial  institutions’  capital,  liquidity,  and  risk  management,  and 
+giving necessary advice. However, I believe that the recent global financial crisis has shown 
+that  it  is  difficult  to  achieve  financial  system  stability  and  to  contribute  to  the  sustainable 
+growth of the economy, which is the ultimate aim of financial system stability, relying only on 
+such regulation and supervision based on microprudential principles. 
+The first reason is that without considering the relationship between economic and financial 
+activities,  it  is  essentially  impossible  to  determine  the  optimal  level  of  capital  and  liquidity 
+requirements.  If  absolute  priority  is  given  to  financial  system  stability,  then  capital  and 
+liquidity requirements inevitably have to be raised significantly, but the inherent role expected 
+of financial institutions is to engage in leveraging and maturity mismatches between assets 
+and  liabilities.  Financial  institutions  carry  out  financial  intermediary  functions  with  a  certain 
+amount of capital, raising funds with short-term debt instruments and investing in long-term 
+assets, and provide value added through the provision of liquidity and settlement services. If 
+financial institutions cannot properly fulfill their financial functions, the economy will not grow. 
+Of  course,  in  reality,  a  capital  adequacy  ratio  of  100  percent  is  not  required,  but  as 
+highlighted  here,  conventional  regulation  and  supervision  has  also  in  fact  been  based  on 
+some  sort  of  macroeconomic  assessment  of  the  relationship  between  the  financial  system 
+and  economic  activity  as  well  as  the  interaction  between  financial  systems.  However,  I 
+believe  that  efforts  to  take  such  a  macroeconomic  perspective  into  account  in  a  more 
+systematic manner have been insufficient. 
+BIS Review 168/2009 
+ 3
+financial 
+institutions  and 
+The  second  reason  why  I  think  microprudence  alone  is  insufficient  is  that  financial 
+institutions’ incentives are greatly affected by macroeconomic factors. On this point, I recall 
+the famous remark made before the surfacing of the subprime mortgage problem by the then 
+CEO of a major financial institution that “while the music is playing, you have to dance.” If, in 
+the  future,  benign  economic  conditions  similar  to  that  time,  namely  high  economic  growth, 
+low  inflation,  low  interest  rates,  and  low  market  volatility  continue  for  a  long  time,  would 
+managers  of 
+investors  choose  different  management  and 
+investment  strategies?  Moreover,  even  if  one  were  to  choose  a  different  strategy  oneself, 
+what  strategy  would  one  expect  competitors  to  take?  Following  this  line  of  reasoning,  it 
+becomes clear that there will always be someone who takes on the risks. Ultimately, the risks 
+in  the  financial  system  as  a  whole  are  affected  not  only  by  micro-level  incentives  but  to  a 
+great extent also by macro-level incentives, that is, the economic and financial environment. 
+If  we  follow  this  line  of  reasoning,  in  order  to  ensure  the  stability  of  the  financial  system, 
+microprudence,  which  secures  the  soundness  of  individual  financial  institutions,  and 
+macroprudence, which pays attention to risks to the financial system as a whole, are both 
+equally necessary. 
+Macroprudential perspectives 
+II. 
+There are various ways in which to assess risks in the financial system as a whole from a 
+macroprudential  perspective,  that  is,  from  a  perspective  that  pays  attention  to  the 
+interconnectedness  between  economic  activity,  financial  markets,  and  financial  institutions’ 
+behavior.  Recently,  two  perspectives  or  “dimensions”  have  been  recognized  as  important: 
+the  first  concerns  the  cross-sectional  risk  at  a  particular  point  in  time,  while  the  second 
+concerns the evolution of risk in the future. 
+The cross-sectional dimension 
+The  “cross-sectional  dimension”  concerns  risks  in  the  financial  system  as  a  whole  at  a 
+particular  point  in  time  and  particularly  focuses  on  the  interconnectedness  of  the  risks  of 
+each financial institution’s portfolio and financial products. When the loans and investments 
+of  a  financial  institution  are  concentrated  in  a  specific  industry,  the  financial  institution 
+assumes  a  large  risk.  The  concentration  of  loans  to  the  real  estate  industry  is  a  classic 
+example. And what goes for a specific financial institution goes also for the financial system 
+as a whole. Even if the exposure of each individual financial institution is not concentrated in 
+a  specific  industry,  if  many  financial  institutions  are  taking  similar  positions,  the  financial 
+system as a whole assumes a large risk. If there is a shock that affects the value of a specific 
+type of exposure, for example, the value of real estate, financial institutions will try to reduce 
+their exposure to such assets all at the same time, but when all financial institutions take the 
+same  action,  such  a  reduction  of  exposure  will  be  difficult.  Under  these  circumstances, 
+market liquidity of the assets in question and funding liquidity decline significantly, and that 
+will further exacerbate losses. Such herding behavior is called “crowded trade” and can arise 
+for  a  variety  of  reasons.  While  it  typically  arises  through  a  convergence  of  market 
+participants’  view  of  economic  prospects,  it  can  also  be  spurred  by  a  convergence  of  risk 
+management  methods.  As  financial  techniques  advance,  the  management  of  risk  also 
+becomes more complicated. In this situation, the incentive for financial institutions that do not 
+have sufficient resources to develop their own risk management methods to adopt the risk 
+management methods developed by other financial institutions increases. When this kind of 
+situation  becomes  widespread,  not  only  does  financial  institutions’  exposure  to  types  of 
+assets become similar, but market swings also become volatile as the timing of transactions 
+becomes more synchronized. 
+4 
+ BIS Review 168/2009
+The time dimension 
+The second macroprudential dimension, the “time dimension,” concerns dynamic changes in 
+risks, focusing on how risks inherent in the financial system change over time. In the run-up 
+to  a  crisis,  as  seen  in  the  period  prior  to  the  recent  crisis,  benign  economic  conditions 
+continue for some time, economic actors become too optimistic in their risk assessment, and 
+their risk tolerance increases. As a result, as economic actors’ risk-taking stance becomes 
+more aggressive, asset prices rise and leverage increases, leading to even more aggressive 
+risk-taking  stances.  Our  understanding  of  such  endogenous  changes  in  the  risk-taking 
+stance, that is, the risk-taking channel, is extremely limited. What is clear, however, is that 
+such  changes  are  greatly  influenced  by  the  economic  and  financial  environment,  as  I 
+mentioned earlier. 
+Financial  imbalances  that  accumulate  in  the  process  of  risk-taking  cannot  be  sustained 
+indefinitely  and  eventually  balance  sheet  adjustments  will  take  place.  Such  adjustments 
+proceed gradually in the beginning. However, triggered by some kind of a shock, a crisis will 
+emerge  in  the  form  of  funding  liquidity  shortages  and  become  more  severe  as  confidence 
+among market participants in each other collapses. This phenomenon that the profit-seeking 
+behavior of financial institutions amplifies the financial and economic cycle is referred to as 
+“procyclicality”  and 
+the 
+aforementioned cross-sectional network perspective. 
+important  dimension  of  assessment  apart 
+is  another 
+from 
+Approaches taking account of macroprudence 
+III. 
+With  the  importance  of  macroprudence  having  been  recognized,  what  sort  of  approaches 
+should central banks and regulatory and supervisory authorities take to protect the stability of 
+the financial system? 
+Monetary policy 
+First, it is necessary for the central bank to take a macroprudential perspective in the conduct 
+of  monetary  policy.  Needless  to  say,  the  purpose  of  monetary  policy  is  to  contribute  to 
+sustainable  growth  through  price  stability.  Looking  back  at  price  developments  in  the  past 
+quarter century, inflation gradually declined and it can be said that many central banks have 
+been successful in terms of achieving price stability. However, in terms of financial system 
+stability,  the  frequency  of  bubbles  and  financial  crises  has  increased  in  the  past  quarter 
+century,  with  major  episodes  including  Japan’s  financial  crisis  following  the  burst  of  the 
+bubble, the East Asian financial crisis, the credit bubble in the United States and Europe, and 
+the  recent  global  financial  crisis.  Moreover,  ironically,  all  these  bubbles  arose  in  an 
+environment of low inflation. While the causes of bubbles are complex, one major cause in all 
+cases has been the emergence of a sense, amid continued benign economic conditions of 
+high growth, low inflation, and low interest rates, that liquidity is always available at the drop 
+of a hat. While I do not think that accommodative monetary conditions alone can lead to a 
+bubble,  it  seems  that  it  also  cannot  be  denied  that  expectations  of  a  prolonged 
+accommodative monetary environment lead to excessive leverage and maturity mismatches, 
+thereby  accelerating  the  generation  of  a  bubble.  Price  stability  is  an  extremely  important 
+policy  objective  for  a  central  bank,  but  if  a  central  bank  conducts  monetary  policy  by  just 
+watching  short-term  price  developments,  this  may  induce  large  economic  fluctuations  and 
+result  in  harming  price  stability  in  the  medium-  to  long-term.  Although  a  frequently  used 
+phrase in this context is that there is “a trade-off between price stability and financial system 
+stability,” this should in fact be understood in the sense that the true trade-off lies between 
+“current  economic  stability  and  future  economic  stability.”  The  intensified  discussions 
+following the recent financial crisis on the appropriate monetary policy framework, including 
+discussions  in  countries  that  have  adopted  inflation  targeting,  reflect  these  considerations. 
+Therefore, in the conduct of monetary policy, it is necessary to get into the habit of assessing 
+the economy both through the lens of price developments and through the lens of financial 
+BIS Review 168/2009 
+ 5
+imbalances. This is exactly what the Bank of Japan with its assessment of monetary policy 
+from “two perspectives” aims at. 
+Financial supervision based on risk assessment of the financial system as a whole 
+Second, I would like to emphasize the importance of proper supervision. The experience of 
+the recent crisis reconfirmed that the behavior of financial institutions sometimes becomes 
+excessive,  and  proper  supervision  is  necessary  to  prevent  that  from  happening.  In  this 
+context,  it  is  of  course  important  for  supervisory  authorities  to  assess  the  soundness  of 
+individual financial institutions by focusing on risks unique to those financial institutions and 
+to provide the appropriate supervision. In addition, it is also important to assess, while noting 
+the “dimensions” I have explained, the risk in the financial system as a whole and utilize the 
+information  gained  to  conduct  supervision  of  individual  institutions.  This  may  be  a  typical 
+example of “easier said than done,” but it represents an unavoidable challenge. 
+Designing financial regulation and supervision 
+The third point concerns the design of financial regulation and supervision taking account of 
+a macroprudential perspective. Various discussions on this issue are going on at the moment 
+and one of them focuses on reviewing capital adequacy requirements from the perspective of 
+mitigating  procyclicality.  Concerning  capital  adequacy  ratios  for  banks,  one  issue  that  has 
+been identified is the procyclicality caused by the decrease in credit risk during an economic 
+boom  and  the  increase  in  credit  risk  during  a  recession,  but  profits  and  losses  related  to 
+financial market transactions show a similar procyclical tendency. When benign financial and 
+economic conditions continue for a certain period, the market risk being estimated by using 
+data obtained during that period is likely to underestimate the actual size of the risk. As a 
+result,  during  an  economic  boom,  financial  institutions  lend  aggressively  as  their  capital 
+bases  increase  due  to  high  profits,  leading  to  further  increases  in  lending  through,  for 
+example,  a  further  rise  in  asset  prices.  Similarly,  the  reverse  occurs  during  a  recession. 
+Discussions  are  therefore  underway  on  how  to  mitigate  such  procyclicality,  with  ideas 
+including  the  lengthening  of  the  period  assets  are  included  in  risk  accounting  to  avoid 
+excessive  fluctuation  in  risk-weighted  assets  and  whether  to  introduce  a  framework  for 
+countercyclical  capital  buffers.  The  underlying  idea  of  such  a  framework  is  to  implement 
+capital adequacy rules in a countercyclical manner by requiring financial institutions to build 
+up capital when economic conditions are favorable, which could then be drawn down when 
+economic conditions deteriorate. 
+I  believe  that  proposals  to  use  capital  adequacy  regulations  to  mitigate  procyclicality  and 
+reinforce capital bases go in the right direction and are likely to contribute to financial system 
+stability.  However,  from  a  macroeconomic  perspective,  it  must  be  avoided  that  the 
+strengthening  of  regulations  impairs  economic  stability.  For  this  reason,  it  is  important  to 
+secure  flexibility,  for  example,  in  the  procedure  and  timing  of  the  implementation  of  new 
+capital adequacy rules by taking financial and economic conditions in countries around the 
+world  into  account.  In  this  regard,  as  also  articulated  in  the  consultative  proposals  for  the 
+review  of  rules  recently  released  by  the  Basel  Committee,  the  new  rules  should  be 
+implemented once financial conditions have improved and economic recovery is ensured. 
+The accounting system 
+The accounting system is also an element affecting the behavior of financial institutions in 
+addition to monetary policy and financial regulation and supervision. 
+The  accounting  system  directly  affects  the  assessment  and  profitability  of  assets  held  by 
+financial institutions. For instance, from autumn 2008, as the functioning of markets declined, 
+prices of securitized products fell all at once, leading to concerns about capital shortages at 
+financial institutions. This further paralyzed market functioning and intensified the downward 
+6 
+ BIS Review 168/2009
+spiral.  This  course  of  events  illustrated  once  more  that  the  method  of  assessing  financial 
+products  and  the  accounting  system  overall  affect  financial  institutions’  behavior  and  the 
+financial  system.  Therefore,  various  international  discussions  are  taking  place  to  design  a 
+system  in  the  field  of  accounting  that  could  contribute  to  financial  system  stability.  For 
+example, it was shown that when market liquidity appeared to have dried up, it was possible 
+to value financial assets at prices calculated by models. There are also proposals regarding 
+a  revision  of  loan  loss  provisions.  The  reason  is  that  current  accrual  basis  accounting 
+methods  tend  to  reinforce  procyclicality  as  banks’  profits  are  rapidly  squeezed  when 
+economic  conditions  deteriorate  because  banks  have  to  increase  provisions.  While 
+provisioning methods on the basis of expected losses, which allow for earlier recognition of 
+future losses, are currently being discussed, my view is that it is necessary to consider such 
+proposals from a variety of aspects, such as to what degree they would fulfill the intended 
+goal of mitigating procyclicality, whether they can be put into practice, and whether they will 
+be able to ensure transparency, which after all is the primary role of accounting. 
+The role of the Bank of Japan 
+IV. 
+Having explained the role of macroprudence, I would now like to explain the role of the Bank 
+in ensuring stability of the financial system. I would like to emphasize the following five points 
+in particular. 
+The  first  point  is  that  the  Bank  of  Japan  not  only  aims  at  price  stability  but  also  financial 
+system stability. The Bank of Japan Act clearly stipulates that one of the Bank’s institutional 
+objectives  is  “to  ensure  smooth  settlement  of  funds  among  banks  and  other  financial 
+institutions, thereby contributing to the maintenance of stability of the financial system.” The 
+fact that the Bank of Japan during the recent financial crisis decided to implement measures 
+that are extraordinary for a central bank, such as the purchase of stocks held by financial 
+institutions and the provision of subordinated loans, was ultimately to achieve the objective 
+stipulated in the Bank of Japan Act. 
+The second point is that the Bank plays the role of “lender of last resort.” The Bank of Japan 
+is “the bank of banks” and can contribute to ensuring financial system stability by providing 
+funds  as  the  lender  of  last  resort  when  it  judges  this  to  be  necessary  to  prevent  the 
+materialization  of  systemic  risk.  To  avoid  that  the  provision  of  funds  gives  rise  to  moral 
+hazard, the Bank has clarified its basic thinking in the form of the so-called “four principles for 
+special loans.” 
+The third point is that the Bank collects various types of information from financial institutions 
+to secure the objective of ensuring the stability of the financial system. While macroprudence 
+is important, as a prerequisite for that, microprudence is also critical. As long as the Bank 
+extends loans to financial institutions as the “lender of last resort,” it needs to have sufficient 
+knowledge of financial institutions’ business performance and the quality of their assets. For 
+this reason, the Bank of Japan Act grants the Bank the right to conduct on-site examinations 
+of financial institutions that have deposit accounts with the Bank. Of course, it is conceivable 
+that  a  situation  arises  where,  by  the  time  a  financial  institution  comes  to  the  Bank,  it  is 
+already too late. Therefore, in conducting on-site examinations, the Bank not only carries out 
+inspections but also provides various kinds of advice and guidance when the need arises. In 
+addition  to  conducting  such  on-site  examinations,  the  Bank  also  strives  to  gauge  the 
+business performance and risk management, such as the liquidity management, of a wide 
+range  of  financial  institutions,  including  securities  companies,  through  daily  off-site 
+monitoring.  At  a  time  that  financial  markets  are  undergoing  substantial  changes,  it  is 
+important  to  have  a  channel  for  obtaining  information  directly  from  financial  institutions  – 
+something that was strongly reaffirmed in the phase from the autumn of 2008 onward. 
+The  fourth  point  is  that  the  Bank  conducts  risk  assessments  of  the  financial  system  as  a 
+whole.  The  Bank  analyzes  and  assesses  the  financial  system  as  a  whole  from  a 
+macroprudential  perspective  by  making  use  of  information  from  individual  financial 
+BIS Review 168/2009 
+ 7
+institutions as well as information obtained through its daily monetary policy operations and 
+operation of the payment and settlement system. At the same time, the Bank strives to use 
+the  macro-assessment  obtained  in  this  way  to  inform  its  on-site  examinations  and  off-site 
+monitoring.  However,  although  everyone  would  agree  that  integrating  macro  and  micro 
+perspectives  is  an  important  task,  to  do  this  properly,  research  is  indispensable.  Because 
+they are charged with the conduct of monetary policy, the necessary organizational culture to 
+assess the economic situation based on macroeconomic analyses is well established within 
+central banks. As for us at the Bank of Japan, we will continue to attach great importance to 
+the information and insights we gather through on-site examinations, off-site monitoring, and 
+the  Bank’s  banking  business,  and  to  strive  to  accurately  gauge  the  risks  to  the  financial 
+system as a whole through our macroeconomic analyses and research activities. 
+The fifth point is that the Bank is participating in the international discussions on regulation 
+and supervision and is engaged in the review of such regulation and supervision. Reflecting 
+the globalization of finance, there is a growing tendency for the broad framework of financial 
+regulation and supervision to be determined in international discussions. The Bank, together 
+with the Financial Services Agency (FSA), has been taking part in discussions on financial 
+regulatory  and  supervisory  reform  at  various  international  forums  such  as  the  Basel 
+Committee on Banking Supervision and the Financial Stability Board, and I myself have been 
+attending many of those forums. Given that a robust global financial system is in the common 
+interest of all countries, I believe it is critical for each country to contribute to the construction 
+of  internationally  consistent  rules  and  to  establish  a  regulatory  and  supervisory  framework 
+that properly reflects differences between countries, such as in their financial structure. The 
+Bank will continue to make contributions in these areas. 
+When comparing systems to ensure financial system stability immediately before the recent 
+crisis from a central bank’s point of view, countries can be divided into two groups. In one, 
+which  includes  the  United  States,  Italy,  the  Netherlands,  and  many  Asian  countries, 
+regulation and supervision was carried out by the central bank, either alone or in cooperation 
+with other authorities. In the other group, which includes the United Kingdom and Australia, 
+the central bank was not involved in regulation and supervision. Japan could be regarded as 
+falling in between these two groups: the Bank of Japan does not have regulatory authority 
+over  financial  institutions,  but,  as  mentioned  earlier,  based  on  provisions  in  the  Bank  of 
+Japan  Act,  it  conducts  on-site  examinations  of  financial  institutions  and  provides  various 
+kinds of advice and guidance when the need arises. 
+Financial  regulatory  and  supervisory  systems  around  the  world  have  been  decided  upon 
+reflecting  differences  in countries’  financial  structure,  stage  of  economic  development,  and 
+historical background, and thus there is no uniform set-up that is correct for all countries. Be 
+that as it may, the recent crisis has shown clearly that it is indispensable for central banks to 
+be involved in one form or another in ensuring the stability of the financial system and that 
+central banks should play a significant role in the area of macroprudential supervision. Here 
+in Japan, we have a system where the FSA, which is in charge of financial administration 
+dealing with regulation and supervision, and the Bank of Japan, which is the central bank, 
+cooperate with each other and each fulfills its respective functions to ensure the stability of 
+the financial system. While it seems fair to say that Japan’s financial system has remained 
+relatively  stable  compared  with  those  of  the  United  States  and  Europe  during  the  recent 
+crisis, the Bank will, in cooperation with the FSA, continue to strive to ensure the stability of 
+the financial system. 
+Closing remarks 
+In closing, I would like to say a few words about the importance of information infrastructure 
+in ensuring financial system stability. In order to analyze the financial system as a whole, it is 
+essential to have information that is accessible to investors and other market participants. On 
+this point, disclosure regarding risks inherent in individual financial institutions and specific 
+8 
+ BIS Review 168/2009
+financial products is critical. In addition, from a macroprudential perspective the importance 
+of  statistics  that  cover  financial  markets  as  a  whole  needs  to  be  underscored.  At  the 
+beginning, I pointed out as one of the causes of the recent global financial crisis the widening 
+of maturity mismatches at financial institutions with regard to liquidity and the lack of a habit 
+to check such developments on a macro basis. Although, with the crisis having erupted, we 
+now have the benefit of hindsight, the locational banking statistics released quarterly by the 
+Bank  for  International  Settlements  do  show  a  remarkable  increase  in  U.S.  dollar  maturity 
+mismatches  for  financial  institutions  from  advanced  economies,  and  particularly  European 
+economies,  in  recent  years.4  Moreover,  although  the  experience  of  past  bubbles  clearly 
+shows that fluctuations in real estate prices have a great impact on the financial system, in 
+Japan, for example, little price information on real estate transactions has been gathered and 
+the statistics in this field are far from satisfactory. Although the compilation of such statistics 
+places  a  burden  on  those  providing  the  data,  such  data  represents  one  critical  part  of  the 
+information necessary to ensure the stability of the financial system. 
+While I have pointed out the importance of disclosure information and statistics concerning 
+financial  institutions  and  financial  products,  it  goes  without  saying  that  what  is  ultimately 
+required  is  a  proper  analysis  based  on  such  information.  During  the  recent  crisis,  trust  in 
+credit  rating  information  declined.  Regarding  credit  ratings,  various  problems  have  been 
+highlighted.5 But while these are indeed important issues, it would not be very balanced to 
+criticize  only  credit  ratings.  I  mentioned  that  when  thinking  about  macroprudence,  two 
+dimensions are important, that is, the cross-sectional dimension and the time dimension, but 
+to properly reflect these two dimensions in the analysis of securities seems like a particularly 
+difficult challenge. However, if this challenge is not addressed, the value of micro analysis 
+also declines. At any rate, it goes without saying that the role played by securities analysts, 
+who  are  experts  in  this  kind  of  analysis,  is  substantial.  One  major  element  that  underpins 
+liquidity in financial markets is variety, and in that regard the role of securities analysts who 
+provide  variety  of  analysis  based  on  their  independent  judgment  is  quite  important. 
+Information is given meaning through the knowledge, experience, and philosophy of experts, 
+and in this regard, too, we have high hopes and expectations of securities analysts. 
+Thank you. 
+                                                 
+4   For a more detailed discussion of this issue, see the March 2009 issue of the Financial Markets Report. 
+5   See, for example, “Stocktaking on the Use of Credit Ratings” by the Joint Forum under the aegis of the Basel 
+Committee  on  Banking  Supervision,  the  International  Organisation  of  Securities  Commissions,  and  the 
+International Association of Insurance Supervisors, June 2009. 
+BIS Review 168/2009 
+ 9

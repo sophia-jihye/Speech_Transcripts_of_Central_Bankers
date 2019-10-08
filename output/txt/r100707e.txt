@@ -1,0 +1,435 @@
+Joseph S Tracy: What the Fed did and why 
+Remarks by Mr Joseph S Tracy, Executive Vice President of the Federal Reserve Bank of 
+New  York,  at  the  Westchester  County  Bankers  Association,  Tarrytown,  New  York, 
+25 June 2010. 
+ In  my  remarks  this  morning,  I  would  like  to  look  back  over  the  events  of  the  past  several 
+years and offer my perspective on what were the essential drivers of the financial crisis and 
+the Federal Reserve’s interventions.1 I will review the changes that have been taking place in 
+the  U.S.  financial  system  and  how  these  changes  created  the  conditions  conducive  to  the 
+crisis. I will then discuss the developments in residential real estate financing that provided 
+the catalyst for the crisis.  
+With  this  background,  I  will  outline  the  interventions  that  were  carried  out  to  mitigate  the 
+crisis, focusing on those conducted by the Federal Reserve. I will direct my remarks to the 
+facilities  that  were  created  rather  than  to  the  actions  taken  for  individual  institutions  since 
+these have been discussed extensively elsewhere. The lessons learned from the crisis are 
+important for the design of the policy response aimed at reducing the likelihood that the U.S. 
+economy ever again experiences this degree of trauma. 
+I begin with the simple exercise of what name we should assign to this past crisis. At first 
+blush, this may not seem like a useful exercise. But, as Shakespeare reminded us, names 
+are important as they convey a sense of our understanding of the event. One name that has 
+gained popularity is the “Great Recession”, which is dated as beginning with the bankruptcy 
+of Lehman Brothers on September 15, 2008. This name conveys both the severity of what 
+occurred, as well as the calamity of what was avoided. The contraction in real output in the 
+six months following the demise of Lehman Brothers exceeded in size any other post World 
+War II recession – in that sense, it was a great recession. However,  aggressive monetary 
+and  fiscal  policy  actions  both  domestically  and  abroad  were  successful  in  preventing  a 
+complete  meltdown  of  the  U.S.  and  the  world  economy.  In  that  sense,  the  name  also 
+emphasizes what the crisis was not. However, the name tends to focus one’s attention too 
+much on the effect and not the cause of the crisis. 
+An  alternative  name  is  the  “Panic  of  2007”,  which  is  dated  as  beginning  with  the 
+announcement  by  BNP  Paribus  on  August  9,  2007,  of  its  suspension  of  redemptions  for 
+three  of  its  investment  funds.  This  name  stresses  the  financial  crisis  as  the  precipitating 
+event  leading  up  to  the  severe  decline  in  real  economic  activity  slightly  more  than  a  year 
+later. The name conveys that at its very basic level, the crisis was a form of a banking panic. 
+The parallel to the name “Panic of 1907” is also a reminder to us that history has a way of 
+repeating itself unless we learn and apply its lessons well. For this reason, it is useful to take 
+a moment to recall the events of 1907. 
+At the turn of the 20th century there was no Federal Reserve System. Banks then as today 
+borrow short term in order to lend long term, making their profit on the difference in rates. At 
+the  time,  the  banks’  short-term  liabilities  took  the  form  of  demand  deposits.  If  depositors 
+began to worry about the quality of a bank’s loans and its ability to pay back its depositors, a 
+run  on  the  bank  could  develop.  Once  started,  no  bank  on  its  own  can  stop  a  run  by  its 
+depositors.  To  deal  with  these  liquidity  problems,  the  banks  developed  a  clearinghouse 
+system whereby member banks could backstop each other. This system would work well as 
+                                                 
+1   These views are my own and do not necessarily reflect the views of the Federal Reserve Bank of New York or 
+the Federal Reserve System. 
+BIS Review 92/2010 
+ 1
+long as banking problems were sufficiently localized so that unaffected member banks could 
+provide liquidity to those member banks facing a liquidity problem. 
+The  problem  in  1907  was  that  credit  was  also  being  supplied  by  trust  companies  that 
+operated  outside  of  the  clearinghouse  system.  Many  of  these  trusts,  including  the 
+Knickerbocker  Trust,  lent  money  to  speculators  in  the  copper  market,  which  was 
+experiencing a boom. So long as copper prices kept rising, these loans paid off. However, 
+when copper prices began to fall, there was a wave of loan defaults leading to a run on the 
+trusts that could not be stopped by the clearinghouse system. The resulting credit contraction 
+sent the economy into recession, transmitting the problems to the banking sector. In the end, 
+more than 240 banks failed even though the problem started outside of the banking sector. 
+The basic mechanics of a bank run have remained the same over time. Due to the maturity 
+mismatch  involved  in  credit  intermediation,  banks  in  particular  and  financial  institutions  in 
+general  must  rely  on  trust  by  their  “depositors”  that  the  institution’s  assets  will  provide  the 
+ability  to  pay  back  the  depositors.  The  fundamental  connection  between  liquidity  and  trust 
+was well described by Walter Bagehot in 1873: 
+“Every banker knows that if he has to prove that he is worthy of credit, however 
+good may be his arguments, in fact his credit is gone.”2 
+There are two problems that depositors face. The first is that they typically know very little 
+about  a  particular  bank’s  investments.  This  reflects  both  the  lack  of  transparency  in  how 
+banks  are  investing  their  funds,  and  a  lack  of  incentive  by  individual  borrowers  to  expend 
+effort to try and learn this information – what economists call a public goods problem. The 
+second  problem  is  that  a  depositor  does  not  know  what  other  depositors  think  about  the 
+solvency of the bank. A bank may be solvent and a depositor may be convinced of that fact, 
+but if most other depositors think differently and decide to withdraw their funds, then the bank 
+will  have  to  sell  its  assets  and  will  likely  become  insolvent  leaving  the  patient  depositor 
+unable  to  reclaim  his  funds  –  what  economists  call  a  coordination  failure  problem.  The 
+combination of these two problems implies that increases in uncertainty regarding values of 
+assets on a bank’s balance sheet create an environment susceptible to deposit runs. 
+The  failure  of  the  clearinghouse  system  in  1907  was  a  catalyst  for  the  formation  of  the 
+Federal  Reserve  System  and  its  power  as  a  lender  of  last  resort.  The  problem  of  deposit 
+runs was effectively solved in 1934 with the institution of deposit insurance. Insurance solves 
+the public goods and coordination failure problems discussed above. A depositor need not 
+invest resources in determining which bank is a safe place to put his funds. Additionally, the 
+depositor is guaranteed to get his funds back regardless of whether other depositors decide 
+to  withdraw  their  funds.  The  moral  hazard  problems  created  by  deposit  insurance 
+necessitated  that  the  banks  covered  be  subject  to  supervision  and  that  a  mechanism  was 
+established  so  that  problem  banks  could  be  resolved  quickly  in  order  to  safeguard  the 
+taxpayers’ money. 
+There are many parallels between the Panic of 1907 and the events of 2007. In both cases, 
+credit  intermediation  had  shifted  outside  of  the  core  banking  sector.  An  investment  boom 
+preceded each panic – the earlier in copper and the later in housing – with much of the credit 
+being  funded  by  sources  outside  of  any  existing  liquidity  protections.  When  the  bubbles 
+began  to  deflate  and  prices  began  to  fall,  loan  defaults  quickly  developed  precipitating 
+funding  runs  on  the  institutions  involved  in  extending  this  credit.  What  seemed  like  large 
+liquidity  buffers  by  individual  firms  were  quickly  drawn  down.  Funding  withdrawals 
+precipitated asset sales, which put further downward pressure on asset prices. The resulting 
+credit contractions adversely affected the real economy, setting up an adverse feedback loop 
+that exacerbated the initial losses. 
+                                                 
+2   Walter Bagehot, 1873. Lombard Street. London: Henry S. King and Co. 
+2 
+ BIS Review 92/2010
+Given  the  parallels  between  the  events  of  1907  and  2007  and,  more  importantly,  the 
+similarities of the lessons learned from those episodes, I believe the most instructive name 
+for our latest financial crisis is the “Panic of 2007”. In the rest of my remarks, I will explore in 
+greater detail the factors behind the panic, as well as the responses by the Federal Reserve. 
+The first question to explore is the extent to which the financial system had evolved over the 
+past several decades.3 Over this period, demand deposits lost their market share to money 
+market  mutual  funds,  which,  while  considered  safe,  are  not  guaranteed  like  deposits.  This 
+made  it  increasingly  difficult  and  less  profitable  for  banks  to  fund  loans  on  their  balance 
+sheets  using  deposits.  Securitization  markets  developed  where  loans  could  be  funded 
+through the market by investors. In addition, money market mutual funds, securities lenders, 
+institutional investors and businesses needed a safe way to deposit funds where they would 
+earn  interest  but  retain  ready  access  to  their  funds.  Repurchase  agreements  or  “repos” 
+developed  to  serve  this  need.  A  repo  is  a  short-term  collateralized  loan  that  shares  many 
+characteristics  with  a  demand  deposit  except  that  repos  are  not  guaranteed.  At  the  same 
+time, large firms increasingly raised funds by issuing commercial paper in the market rather 
+than relying on bank loans – with the money market mutual funds being large investors in 
+this paper. Large banks, as well, came to rely at the margin on non-deposit funding through 
+the interbank funding market. The Fed acted as the lender of last resort for this market. 
+This  system  of  market-based  credit  intermediation  has  been  called  the  “shadow  banking 
+system”. The shadow banking system grew at a very fast rate over the past several decades. 
+Chart 1 shows that by 1990, mortgage originations in the shadow banking system equaled 
+originations in the banking system, and grew to more than double the level in the banking 
+system by 2008. Chart 2 highlights the growth in securitization across many different asset 
+categories besides residential mortgages, such as commercial real estate loans, auto loans, 
+credit  card  loans  and  student  loans.  A  direct  consequence  of  this  growth  was  that  the  
+short-term  liabilities  associated  with  the  shadow  banking  system  –  repos  and  commercial 
+paper  –  exceeded  the  level  of  demand  deposits  as  seen  in  Chart  3.  Despite  this  rapid 
+transformation  of  the  financial  system,  the  liquidity  protections  put  in  place  for  demand 
+deposits (deposit insurance and access to the Fed’s discount window) were not available to 
+these new funding sources. 
+This lack of liquidity protection was a source of systemic risk that was building in the financial 
+system – akin to underbrush that builds up in a forest over time increasing the risk of a major 
+fire.  The  Panic  of  2007,  however,  required  a  trigger  –  a  spark  to  ignite  the  fire.  As  I  will 
+describe in more detail in a moment, subprime mortgages provided the spark. Once the fire 
+was started, the Fed was confronted with fighting the fire using a set of tools designed for a 
+20th century banking crisis – not a 21st century shadow banking crisis. As a result, the Fed 
+had to improvise and design new tools as it battled the financial blaze. Another choice would 
+have  been  to  let  the  fire  burn  on  the  theory  that  this  is  the  best  way  to  clear  away  the 
+underbrush that has built up over time. The great risk with this strategy is that the fire burns 
+out of control creating considerable collateral damage in the process. If the choice is to fight 
+the fire, then once the fire is extinguished the job remains to aggressively act to remove the 
+underbrush – thus the urgent need for regulatory reform. 
+There  were  two  necessary  ingredients  for  a  catalyst  for  a  financial  panic  in  the  shadow 
+banking  system.  The  first  was  the  realization  by  investors  of  the  possibility  of  incurring 
+significant  losses  on  some  securities.  The  second  was  uncertainty  over  which  securities 
+would  sustain  these  losses  and  consequently  who  held  these  securities.  This  uncertainty 
+enabled the financial crisis to also impact the banking system. Finding a way to reduce this 
+uncertainty would prove to be a key step to dealing with the crisis. 
+                                                 
+3   For  a  good  review,  see  Tobias  Adrian  and  Hyun  Song  Shin.  2010.  “The  Changing  Nature  of  Financial 
+Intermediation and the Financial Crisis of 2007–2009”. Federal Reserve Bank of New York Staff Reports, no. 
+439, Revised April. 
+BIS Review 92/2010 
+ 3
+The housing boom had pushed house values significantly above fundamental values in some 
+markets,  creating  the  possibility  of  substantial  losses  on  mortgages  written  on  houses  in 
+these markets. The largest run-ups in house prices occurred in the “sand states” of Arizona, 
+California, Florida and Nevada. One approach to measuring the degree to which houses had 
+become overvalued is to compare the evolution of house prices to their replacement costs. 
+For housing markets such as Las Vegas, which are surrounded by open land, the price of 
+houses should not differ significantly from the cost of building a new house. These markets 
+are characterized by what economists call a horizontal long-run housing supply curve. 
+Chart 4 shows the ratio of house prices to estimated replacement costs over time for the four 
+sand  cities  of  Las  Vegas,  Vallejo,  Phoenix  and  Miami.4  In  all  four  cities,  prices  relative  to 
+estimated  replacement  costs  largely  stayed  in  a  tight  range  between  0.8  and  1.2  over  the 
+1980s  and  1990s.  However,  by  2002  to  2003,  house  prices  broke  out  of  this  range  and 
+reached values well in excess of 200 percent of the replacement cost in Vallejo and Miami, 
+and 180 percent of replacement costs in Las Vegas and Phoenix. When the bubble burst in 
+these markets, house prices were likely to drop by a large magnitude. 
+Two  factors  were  important  in  creating  uncertainty  over  which  assets  were  going  to  suffer 
+losses  given  a  burst  of  the  housing  bubble.  The  first  is  that  not  all  housing  markets 
+experienced a boom. Chart 5 shows the ratio of house prices to replacement costs for Dallas 
+and Chicago. This ratio never broke above 1.2 for Dallas, and peaked at 1.4 for Chicago. An 
+implication is that the default risk on a mortgage (as well as the loss given default) depended 
+not just on the risk profile of the borrower, but also on the specific location of the property. 
+The second factor contributing to the uncertainty over the value of mortgage securities was 
+the lack of transparency in their design. Key information about the specific mortgages was 
+lost  in  the  process  of  securitizing  mortgages  in  the  first  place,  and  then  later  repackaging 
+these mortgage securities into collateralized debt obligations (CDOs) and CDOs-squared.5 In 
+addition,  the  complexity  of  the  securities  meant  that  it  would  be  difficult  to  understand  the 
+risks  even  if  an  investor  had  access  to  all  of  the  relevant  mortgage-level  information. 
+Investors  in  AAA  rated  mortgage-backed  securities  were  initially  sanguine  about  these 
+information problems since these securities were thought to have a very low loss probability 
+as determined by the credit rating agencies. Once that assumption was no longer true, it was 
+very difficult to acquire and process that information. 
+How did house prices manage to depart so significantly from their fundamental value in some 
+housing  markets?  Asset  booms  and  busts  have  been  a  feature  of  financial  markets  for 
+centuries as documented by Reinhart and Rogoff in their recent book This Time is Different.6 
+During  a  boom,  a  strong  motivation  for  purchasing  an  asset  is  the  expected  price 
+appreciation  on  the  asset.  In  the  case  of  housing,  rising  prices  however  should  ration 
+demand  through  two  constraints.  The  first  is  the  downpayment  constraint.  For  a  given 
+required downpayment percentage, as house prices increase a borrower must come up with 
+more cash for the downpayment. The second is the cash flow constraint. For a given interest 
+rate and downpayment percentage, as house prices increase, the mortgage payment relative 
+to  the  borrower’s  income  increases  making  the  mortgage  less  affordable.7  If  lenders  had 
+maintained minimum downpayment percentages and maximum debt-to-income ratios as the 
+                                                 
+4   These charts were created by Joseph Gyourko, Wharton Real Estate Group. 
+5   See Gary Gorton. 2008. “The Panic of 2007”. Prepared for the Federal Reserve Bank of Kansas City, Jackson 
+Hole Conference, August. 
+6   Carmen  Reinhart  and  Kenneth  Rogoff.  2009.  This  Time  is  Different:  Eight  Centuries  of  Financial  Folly. 
+Princeton: Princeton University Press. 
+7   For speculators, the downpayment constraint is likely to be the more relevant since they do not intend to hold 
+the mortgage for very long. 
+4 
+ BIS Review 92/2010
+housing boom began, then rising prices would have done a better job of rationing demand, 
+thereby limiting the duration of the bubble and the extent of overvaluation in the markets. 
+However, as Reinhart and Rogoff demonstrate repeatedly, “this time is different” so house 
+prices were expected to continue to increase, which “justified” lenders’ decisions to lower the 
+downpayment percentages and raise the allowable debt-to-income ratios. In 2001, at least 
+half  of  new  subprime  mortgages  had  downpayments  of  20  percent  or  less,  and  at  least  a 
+quarter  had  downpayments  of  11  percent  or  less.  By  2006,  at  least  half  of  new  subprime 
+mortgages  had  downpayments  of  10  percent  or  less,  and  at  least  a  quarter  had  no 
+downpayment at all. Similarly, in 2001, 42 percent of new subprime mortgages had debt-to-
+income ratios that exceeded 34 percent (which is considered a high ratio meaning borrowers 
+may  face  some  payment  stress),  while  by  2006  this  had  increased  to  62  percent.8  The 
+continued increase in house prices eventually came to a stop when lending standards could 
+not be eased any further to offset the effects of the higher prices. 
+The  turndown  in  house  prices  quickly  led  to  a  significant  increase  in  subprime  mortgage 
+defaults. This happened for two reasons. First, most subprime mortgages were designed in a 
+way that created rollover risk. The typical subprime mortgage was a hybrid adjustable rate 
+mortgage with the initial “teaser” interest rate fixed for two or three years, and then adjusting 
+every six months thereafter. The first rate adjustment could be quite substantial and provided 
+a strong incentive for the borrower to refinance the mortgage at that point in time. So long as 
+house prices were rising, borrowers were able to refinance and roll over the loan. However, 
+when  house  prices  began  to  decline,  lenders  were  unwilling  to  refinance,  and  as  a 
+consequence, borrowers were often unable to pay the higher interest rates, which prompted 
+defaults.  Second,  as  the  housing  boom  continued,  an  increasing  share  of  new  purchases 
+were by investors (declared or undeclared) rather than by borrowers who intended to live in 
+the house. The default decisions by investors are much more sensitive to declining house 
+prices than those by owner-occupied borrowers. 
+The  vast  majority  of  subprime  loans  were  financed  by  investors  through  placing  the  loans 
+into  securities  that  were  sold  onto  the  market.  Most  of  the  securities  derived  from  these 
+subprime mortgages were deemed  to be AAA rated by the rating agencies. The subprime 
+mortgage  securities  differed  in  an  important  way  from  those  based  on  prime  conforming 
+mortgages. For prime conforming mortgage-backed securities, the degree of credit protection 
+for  the  AAA  investors  is  fixed  in  advance.  In  contrast,  for  subprime  mortgage-backed 
+securities,  the  degree  of  credit  protection  for  AAA  investors  started  out  “thin”  and  built  up 
+over the initial couple of years so long as mortgages did not default early in their life.9 At the 
+peak of the housing boom, not only was leverage high for the individual subprime borrower, 
+but leverage was high for the investors in lower rated subprime mortgage securities.10 This 
+dynamic buildup of credit protection worked well so long as house prices kept increasing, but 
+proved to be disastrous for investors in AAA subprime securities when house prices began to 
+decline. 
+The  AAA  rated  subprime  securities  were  then  used  as  collateral  against  repurchase 
+agreements.  Given  how  safe  the  assets  were  thought  to  be,  very  small  haircuts  were 
+required  for  these  loans.  In  addition,  the  composition  of  repo  loan  terms  shifted  toward 
+                                                 
+8   Andrew Haughwout, Richard Peach and Joseph Tracy. 2008. “Juvenile Delinquent Mortgages: Bad Credit or 
+Bad Economy?” Journal of Urban Economics 64 (September): 246–257. 
+9   Gary  Gorton.  “The  Panic  of  2007”.  Prepared  for  the  Federal  Reserve  Bank  of  Kansas  City,  Jackson  Hole 
+Conference, August 2008. 
+10   You can think of the investors of the lower rated tranches as “buying” all of the subprime mortgages contained 
+in the securities and borrowing funds from the investors in the highly rated securities. The thinner the initial 
+credit  protection,  the  higher  the  initial  leverage  that  was  being  used  to  essentially  purchase  the  underlying 
+subprime mortgages. Repackaging these securities into CDOs and CDO-squared securities further increased 
+the effective leverage. 
+BIS Review 92/2010 
+ 5
+overnight,  reaching  75  percent  in  2008.11  These  small  haircuts  implied  that  the  broker 
+dealers  could  use  considerable  leverage  themselves  in  purchasing  these  securities.  So, 
+leverage was high at all levels of the financial chain from the individual subprime borrowers, 
+to the investors in the lower rated securities, and to the broker dealers who invested in the 
+highly rated securities. At their peak, subprime mortgage related securities amounted to only 
+around $1.2 trillion dollars – a relatively small size given the overall size of the repo market. 
+Leverage, however, amplified the losses as house prices began to decline. 
+Why did the point at which house prices peaked and started to fall in some housing markets 
+spark a run on the repo market? Additionally, why did the problems in subprime mortgage 
+assets  spread  quickly  to  other  assets?  Gary  Gorton  uses  the  analogy  of  an  E.  coli 
+breakout.12 Suppose that E. coli is thought to have infected a small quantity of the country’s 
+meat supply. The difficulty is that no one knows which batches of meat have been infected. If 
+eating infected meat will cause the individual to become very sick, then the natural reaction is 
+for  everyone  to  immediately  stop  eating  meat  altogether.  This  will  continue  until  the  entire 
+meat supply has been recalled and inspected. Subprime mortgage defaults were the E. coli 
+that infected the financial system. Some mortgage assets would lose significant value as a 
+result,  but  it  was  difficult  to  know  which  mortgage  assets  were  “infected”  and  who  was 
+holding these assets. The natural response was to pull back from these assets. 
+In  a  deposit  run,  when  the  quality  of  a  bank’s  assets  is  brought  into  question,  depositors 
+immediately  withdraw  their  funds  from  the  bank.  In  the  case  of  the  repo  market,  lenders 
+raised  the  haircuts  required  for  the  repo  loans  or  refused  to  roll  over  the  repo  loans 
+collateralized  by  subprime  mortgage  assets.  This  is  equivalent  to  a  partial  or  a  complete 
+withdrawal of funds from the market by the lenders.13 In addition, the higher haircuts forced 
+the  owners  of  the  assets  to  come  up  with  additional  cash  which  typically  meant  that  they 
+were forced to sell assets. Given that there was little appetite to purchase mortgage-related 
+assets,  high-quality  assets  had  to  be  sold  in  order  to  raise  this  cash.  This  put  downward 
+pressure on the prices of these assets and increased the uncertainty regarding their future 
+values leading to demands for higher haircuts on these assets, as well. The haircut spiral, 
+can be seen in Chart 6. A fire sale dynamic developed, which depressed asset prices further 
+leading to additional upward pressure on haircuts. 
+The rapid deleveraging of the shadow banking system as the run progressed led to a sharp 
+contraction in credit. We saw this earlier in Chart 2 with the near complete collapse in the 
+asset-backed  security  market.  Banks  were  also  adversely  affected  by  this  run  on 
+securitization markets since they used these markets as well to fund many types of loans. 
+Several  banks  had  to  bring  onto  their  balance  sheets  previously  off-balance  sheet  entities 
+that they had used to securitize loans. This used up balance-sheet capacity making it more 
+difficult  for  banks  to  make  up  for  the  credit  contraction  going  on  outside  of  the  banking 
+system.  The  problems  in  the  financial  system  spread  to  the  real  economy.  When  Lehman 
+Brothers declared bankruptcy, a money market mutual fund – the Reserve Fund – “broke the 
+buck”. The unanticipated losses incurred by the Reserve Fund expanded the bank run to the 
+money market mutual funds. Since these funds were significant investors in the commercial 
+paper  market,  this  transmitted  the  strains  to  the  commercial  paper  market.  Dollar  funding 
+pressures were also increasing for firms operating outside the United States as their ability to 
+access  dollars  through  the  foreign  exchange  markets  began  to  become  strained.  The 
+                                                 
+11   An overnight repo loan as compared with a longer term repo loan is the closest in nature to a demand deposit. 
+See Tobias Adrian, Christopher Burke and James McAndrews. 2009. “The Federal Reserve’s Primary Dealer 
+Credit Facility”. Current Issues in Economics and Finance 15, no. 4 (August). 
+12   Gary  Gorton.  2010.  “Questions  and  Answers  about  the  Financial  Crisis”.  National  Bureau  of  Economic 
+Research, Working Paper No. 15787, February. 
+13   Gorton, ibid. 
+6 
+ BIS Review 92/2010
+subprime  “E.  coli  scare”  had  effectively  been  transmitted  far  and  wide  across  financial 
+markets. 
+Let me turn now to the interventions used to combat the financial crisis. The Fed knew much 
+less  back  in  the  autumn  of  2007  than  we  know  now  about  how  far  and  wide  the  financial 
+crisis was to spread and the implications this would have for the real economy. The initial 
+response by the Fed was to use its traditional liquidity tools. On August 10, 2007, the Federal 
+Open  Market  Committee  (FOMC)  issued  a  statement  indicating  that  the  discount  window 
+was available as a source of liquidity to those firms that had access to the window. A week 
+later, the FOMC cut the discount rate (the interest rate charged on discount window loans) by 
+50 basis points (a half of a percentage point) and extended the available term for these loans 
+from overnight to 30 days. Given that the liquidity strains were affecting many firms that did 
+not have direct access to the discount window, a key for this intervention to be helpful was 
+that depository institutions would pass the liquidity on to those firms that needed it the most. 
+Using the earlier forest fire analogy, it was as if the Fed could not drop water directly on the 
+burning section of the forest; rather, it had to drop the water on an adjacent section of forest 
+and hope that somehow the water got to where it was needed. 
+Several problems became apparent with this strategy. First, few discount loans were being 
+taken out. There is a history of “stigma” associated with borrowing from the Fed’s discount 
+window. Given the high degree of uncertainty in the financial markets in the autunm of 2007, 
+this stigma effect likely became amplified. Second, given uncertainty about their own future 
+liquidity needs, banks developed a strong “precautionary demand” for liquidity. This implied 
+that they were less willing to lend out liquidity to other financial firms. Finally, it was becoming 
+increasingly  difficult  to assess  the credit  risk  associated  with  lending  to  other  firms  even  if 
+only for short terms. To use a medical analogy, the progression of a fever can be measured 
+by a person’s temperature. The progression of problems in the interbank lending market can 
+be measured by the spread between LIBOR and the overnight index swap (OIS) rates for a 
+given term. Chart 7 shows the 3-month LIBOR/OIS spread. Prior to the onset of the financial 
+crisis, this spread had been very narrow. Very soon after the BNP Paribus announcement, 
+the “fever” shot up dramatically. 
+The first new liquidity facility that was introduced to deal with these problems was the Term 
+Auction Facility or TAF on December 12, 2007. The TAF program was designed to deal with 
+the stigma problem associated with the discount window and also to make it easier for the 
+New York Fed to sterilize the liquidity injections into the financial system. The TAF program 
+auctioned  off  a  fixed  quantity  of  term  funding  to  depository  institutions  using  the  same 
+collateral to back up the loans as can be pledged at the discount window. Since the quantity 
+of funding was set in advance, it made it much easier than for discount window borrowing to 
+offset this liquidity injection. More important, however, was the design concept: term funding 
+priced  and  distributed  in  a  competitive  auction  would  hopefully  avoid  any  stigma  for  the 
+winning participants of the auction. The TAF auctions were essentially a better way to dump 
+more water on the same section of the forest covered by the discount window. However, the 
+fire was still burning elsewhere. 
+The inadequacy of the Fed’s traditional liquidity tools and their recent enhancement with the 
+TAF  came  to  the  forefront  in  the  spring  of  2008.  Conditions  were  deteriorating  for  several 
+primary  dealers,  including  Bear  Sterns.  The  Board  of  Governors  of  the  Federal  Reserve 
+System  (all  of  the  governors  are  appointed  by  the  U.S.  president  and  confirmed  by  the 
+Senate)  decided  to  activate  a  little  known  or  used  section  of  the  Federal  Reserve  Act  – 
+section  13(3)  –  which  gives  the  Fed  the  ability  lend  to  any  “individual,  partnership  or 
+corporation” in “unusual and exigent circumstances”. 
+On March 11, 2008, the Fed announced the establishment of the Term Securities Lending 
+Facility (TSLF). This program allowed primary dealers to swap a broad range of what had 
+become  illiquid  assets  for  Treasury  securities  that  could  be  easily  financed.  This  program 
+leveraged the Fed’s large holdings of Treasury securities. The TSLF, however, came too late 
+BIS Review 92/2010 
+ 7
+for  Bear  Sterns.  On  March  14,  the  Fed  again  using  its  section  13(3)  emergency  powers 
+approved the takeover of Bear Sterns, the fifth largest investment bank, by JPMorgan Chase. 
+Without  the  acquisition  by  JPMorgan  Chase,  Bear  Sterns  would  have  had  to  file  for 
+bankruptcy since they were essentially cut off from market funding. Two days later, on March 
+16, the Primary Dealer Credit Facility (PDCF) was introduced, essentially providing discount 
+window  access  to  all  primary  dealers  in  an  effort  to  provide  a  backstop  to  their  liquidity 
+needs. Like discount window lending, PDCF loans had to be “secured to the satisfaction” of 
+the  Fed.  Chart  8  shows  borrowing  from  the  PDCF  in  comparison  to  borrowing  from  the 
+discount  window.  With  the  TSLF  and  PDCF,  the  Fed  was  now  better  able  to  direct  water 
+directly to where the fires were burning the hottest. 
+At the same time that the Fed was using its traditional liquidity and new liquidity tools, it was 
+also aggressively cutting the federal funds rate, which is its primary instrument for stimulating 
+the  real  economy.  In  the  summer  of  2007,  the  fed  funds  rate  was  at  5.25  percent.  By 
+March 18, 2008, the FOMC had reduced the federal funds rate by three percentage points to 
+2.25 percent – including two unusual 75 basis point reductions one on January 22, 2008, and 
+the other on March 18. The FOMC was well aware of the impact that the financial crisis could 
+have on the real economy and was actively trying to offset these adverse effects. The FOMC 
+made an additional 25 basis point reduction in the federal funds rate on April 30, and then 
+held the policy rate constant over the summer at 2 percent. 
+The  Panic  of  2007  turned  into  the  Great  Recession  of  2008  following  the  bankruptcy  of 
+Lehman  Brothers  on  September  15  and  the  Fed’s  emergency  assistance  to  American 
+International Group, Inc. In response, the Fed reduced the federal funds rate to essentially 
+zero  by  mid-December,  instituted  swap  lines  to  provide  dollar  liquidity  to  foreign  central 
+banks, added new liquidity facilities to target specific sectors of the shadow banking system 
+and began to expand its balance sheet through asset purchases. To deal with problems in 
+commercial paper market, the Fed introduced on October 27 the Commercial Paper Funding 
+Facility  (CPFF)  to  backstop  issues  of  commercial  paper.  In  an  effort  to  restart  the 
+securitization  market,  on  November  25,  the  Fed  announced  the  Term  Asset  Backed 
+Securities Loan Facility (TALF).14 In December, the FOMC announced that it would begin to 
+significantly  expand  its  balance  sheet  through  purchases  of  long-term  assets  including 
+agency debt, agency mortgage-backed securities and long-term treasuries – the Large Scale 
+Asset Purchase or LSAP program. Other interventions were taking place directed by different 
+agencies and in conjunction with the Treasury. At the same time, fiscal policy was engaging 
+with Congress approving the $750 billion Troubled Asset Relief Program (TARP) program. 
+Policy had entered the “whatever it takes” phase in an effort to keep the Great Recession 
+from becoming something much worse.15 
+By  the  spring  of  2009,  the  various  guarantees  and  backstop  liquidity  facilities  covering 
+different sectors of the shadow banking system were in place. The last element required to 
+deal  with  the  Panic  of  2007  was  to  address  the  uncertainty  over  the  viability  of  the  large 
+systemically  important  financial  institutions.  A  horizontal  review  of  the  19  largest  financial 
+firms was conducted to assess their capital needs under a “worse-than-anticipated economic 
+scenario” – this was called the Supervisory Capital Assessment Program or SCAP (you can 
+tell that we are fond of acronyms). 
+There  were  two  design  features  of  the  SCAP  program  that  were  essential  for  its  ability  to 
+reduce the uncertainty in financial markets. First, the process was designed to be transparent 
+with  both  the  methodology  published  up  front  and  the  firm-by-firm  results  published  at  the 
+conclusion. Second, if a firm was deemed to need capital but was unable to raise it in the 
+                                                 
+14   See  Brian  Sack.  2010.  “Reflections  on  the  TALF  and  the  Federal  Reserve’s  Role  as  Liquidity  Provider”. 
+Remarks at the New York Association for Business Economists, June 6. 
+15   David Wessel. 2009. In Fed We Trust. New York: Crown Business. 
+8 
+ BIS Review 92/2010
+market,  Treasury  pledged  to  provide  the  capital.  The  SCAP  program  was  successful  in 
+restoring a degree of confidence in financial markets and in enabling these financial firms to 
+raise capital on their own. 
+By the second half of 2009, the financial fever from the Panic of 2007 had finally broken with 
+the 3-month LIBOR/OIS spread narrowing back to pre-crisis levels.16 The economy began to 
+grow  again.  Having  served  their  purpose,  the  Fed’s  special  liquidity  facilities  have  been 
+wound down. The policy focus has shifted to regulatory reforms and how to prevent a future 
+financial  crisis.  To  be  successful,  these  reforms  must  deal  with  the  run  dynamics  in  the 
+shadow banking system, as well as devise ways to limit the leverage cycle that is an integral 
+part of asset booms and busts that can trigger a panic. If the lessons from the panics of 1907 
+and 2007 are incorporated into the reforms, we may well avoid the Panic of 2107. 
+                                                 
+16   Recently the spread has widened with the onset of concerns over Greece. 
+BIS Review 92/2010 
+ 9

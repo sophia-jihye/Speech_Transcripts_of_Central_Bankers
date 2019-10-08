@@ -1,0 +1,183 @@
+Vítor Constâncio: Ricardo Reis' contribution to macroeconomics
+Speech by Mr Vítor Constâncio, Vice-President of the European Central Bank, at the ceremony
+marking the award of the 2016 Germán Bernácer Prize for Promoting Economic Research in
+Europe to Ricardo Reis, Madrid, 24 November 2017.
+ I am very happy to be here to celebrate with you the awarding of the Bernácer Prize to Professor
+Ricardo Reis from the London School of Economics. As you know, the Prize is awarded to an
+outstanding,  young  European  economist  who  works  in  the  fields  of  macroeconomics  and
+finance.  Without  a  doubt,  Ricardo  is  one  of  the  leading  macroeconomists  of  his  generation.
+Today,  we  recognise  in  particular  Ricardo’s  influential  research  on  expectation  formation  and
+sticky information as well as on the role of fiscal policy in business cycles.
+1
+Ricardo’s  most  cited  paper  –  and  he  has  written  many  frequently  cited  papers  –  is
+“Disagreement  about  inflation  expectations”,  co-authored  with  Gregory  Mankiw  and  Justin
+Wolfers.   This  early  paper  showcases  what  have  been  the  consistent  characteristics  of
+Ricardo’s  work:  his  research  is  data-driven,  innovative  and  deals  with  topics  important  for
+economic policy – in this case monetary policy, given the interest of central banks in inflation
+expectations.  While  there  had  been  work  on  inflation  expectations  prior  to  Mankiw,  Reis  and
+Wolfers, their paper – together with other work done around the same time by Ricardo, some of
+it with Gregory Mankiw, and independently by Woodford and Sims – opened a new chapter in
+research on expectation formation.  Since then, numerous economists have been motivated to
+develop models of data on expectations, and to study the implications of such models for the
+transmission of shocks and for policy.
+2
+Mankiw, Reis and Wolfers documented substantial disagreement among both consumers and
+professional economists about expected future inflation. The extent of disagreement in the data
+evolves  over  time,  together  with  the  state  of  the  economy.  A  high  dispersion  of  inflation
+expectations  is  positively  correlated  with  a  high  level  of  inflation,  and  with  a  high  variance  in
+recent  inflation.  Ricardo  and  his  co-authors  also  studied  the  average  forecast  across  agents,
+finding weak sensitivity of the average forecast to news and serially correlated forecast errors.
+Subsequent research, which builds on the work of Mankiw, Reis and Wolfers, has confirmed and
+refined  these  findings.  It  has  established  that  expectations  deviate  systematically  from  full-
+information  rational  expectations.  The  average  forecast  across  agents  of  a  macroeconomic
+variable responds slowly to news. If a shock raises inflation for some time, the average forecast
+of inflation increases by less than inflation itself. Moreover, the average forecast error in a cross-
+section of agents is likely to be of the same sign as the ex ante revision in the average forecast. If
+inflation is rising and forecasts tend to be revised up, the average forecast error is likely to be
+positive – people are likely to under-predict inflation. This is, of course, in contrast to the theory of
+full-information rational expectations, where forecast errors are unpredictable. The same pattern
+is present in the data for survey-based and market-based measures of inflation expectations, for
+expectations  of  macroeconomic  variables  other  than  inflation,  among  consumers  and
+3
+professional economists, and in different countries.
+4
+Ricardo, together with Gregory Mankiw, developed a theory that accounts for the salient features
+of  the  data  on  expectations.   In  the  sticky  information  model  of  Mankiw  and  Reis,  economic
+agents  update  their  information  only  sporadically.  When  agents  fail  to  update,  they  make
+decisions based on information that is to some extent out of date. The updating is staggered
+across the population, so that at any one time some people are paying attention to news, while
+others remain inattentive. As a result, information diffuses gradually in the economy. The average
+forecast responds slowly to news, as in the data. Each individual makes the best forecast given
+their information. At the same time, however, the average forecast error across agents can be
+predicted by the ex ante revision in the average forecast, as in the data. Finally, again in line with
+ 1 / 4
+BIS central bankers' speeches
+the data, agents in the model disagree, because their information sets differ. In sum, the sticky
+information model suggests how expectations are actually formed in the real world.
+5
+A number of interesting policy implications arise from this more real-world account of expectation
+formation.  As  Ricardo  showed  in  a  paper  with  Lawrence  Ball  and  Gregory  Mankiw,  optimal
+monetary policy – given productivity and demand shocks – is price level targeting, as opposed to
+inflation targeting.  This is a controversial proposition with practical inconveniences that render it
+unpopular among central bankers. There have thus been no attempts to implement it. A broader
+lesson for monetary policy resulting from the analysis is that long-term inflation expectations are
+likely  to  be  more  stable  in  a  sticky-information  world.  Central  bankers  will  probably  find  this
+message reassuring. On the other hand, the sticky information model suggests that, once long-
+term  inflation  expectations  become  de-anchored,  their  return  to  a  level  consistent  with  price
+stability may take time and effort on the part of the central bank.
+6
+Ricardo and Gregory Mankiw constructed and estimated a complete dynamic stochastic general
+equilibrium model with sticky information.  Their DSGE model features what the authors refer to
+as “pervasive stickiness”: the idea that information sets are updated sporadically, which originally
+applied to price-setting firms, is extended here to include consumers and workers. The resulting
+theory  predicts  gradual  responses  of  consumption,  output  and  wages  to  macroeconomic
+shocks, in addition to the sluggish response of prices. Remarkably, sticky information is the only
+source of slow adjustment in the model. By contrast, the New Keynesian DSGE model requires
+multiple frictions, such as habit formation in consumption and investment adjustment costs, on
+top  of  price  and  wage  stickiness,  in  order  to  capture  the  persistence  in  the  macro  data.  The
+sticky information approach suggests that the origin of the pervasive slow adjustment in the data
+may be different from the sources highlighted in the New Keynesian literature.
+7
+In  an  influential  pair  of  papers,  “Inattentive  Producers”  and  “Inattentive  Consumers”,  Ricardo
+studied  the  decisions  of  agents  who  face  the  costs  of  acquiring,  absorbing  and  processing
+information.  Such agents rationally choose to be inattentive to news, only sporadically updating
+their information. The optimal frequency of updates, or the length of inattentiveness, depends on
+features  of  the  economy  such  as  the  variance  of  shocks.  Upon  aggregation,  the  economy
+behaves like the sticky information model of Mankiw and Reis.
+Let me turn to Ricardo’s work on the role of fiscal policy in business cycles. While a large body of
+literature  in  this  area  exists,  much  of  it  assumes  a  representative  agent  and  focuses  on
+government purchases or taxes. Ricardo, in a joint paper with Hyunseung Oh, documented that
+during the Great Recession much of the increase in government expenditures across the OECD
+countries was in government transfers.  To study the effects of transfers, Ricardo and his co-
+author  proposed  a  model  without  a  representative  agent  or  Ricardian  equivalence,  in  which
+transfers  affect  the  economy  because  of  imperfect  credit  markets,  uncertainty  and  sticky
+information.
+8
+9
+Building  on  this  work,  Ricardo  and Alisdair  McKay  constructed  a  model  to  assess  the  role  of
+automatic stabilisers in business cycles.  Their Econometrica paper will be a benchmark in the
+literature  on  fiscal  policy,  and  they  now  have  a  follow-up  paper  that  adds  the  normative
+perspective.
+  Their  analysis  –  novel  and  more  generally  applicable  –  combines  the  New
+Keynesian  DSGE  framework  with  the  incomplete-markets,  heterogeneous-agent  model  of
+consumption  and  inequality.  The  resulting  theory  includes  a  realistic  array  of  automatic
+stabilisers, such as unemployment benefits and progressive income taxes. The authors are able
+to quantify a number of mechanisms by which automatic stabilisers may work.
+10
+One  lesson  is  that  unemployment  benefits  are  especially  effective  in  supporting  aggregate
+demand in a recession. People who become unemployed reduce their consumption sharply, in
+particular if their period of unemployment is likely to be prolonged. Moreover, those who remain
+employed increase their precautionary savings in a downturn as the probability of losing their job
+ 2 / 4
+BIS central bankers' speeches
+rises.  In  this  environment,  more  generous  unemployment  benefits  have  strong  effects  on
+aggregate  spending.  Another  takeaway  is  that  –  in  the  US  data  from  the  so-called  Great
+Moderation period – automatic stabilisers appear to have played little role in smoothing out the
+business  cycles,  with  monetary  policy  being  much  more  important.  That  said,  Ricardo  and
+Alisdair show that automatic stabilisers can have more sizeable effects when the central bank is
+constrained by the effective lower bound on its policy rates. . In any case, the conclusion about
+automatic stabilizers having subdued effects opens up the debate about how to make them more
+effective and about the need in some situations to use discretionary fiscal stabilisation policy.
+Recently, Ricardo has worked on models in which the central bank’s balance sheet is explicitly
+present. Such models are in demand in the wake of the global financial crisis, given the need to
+understand the effects of the expansion of the balance sheets of many central banks. Ricardo
+has developed, together with Robert Hall, a framework to analyse central banks’ solvency under
+“new-style central banking” and studied a model in which the interest rate on bank reserves is the
+main policy tool of the central bank.
+ As you know, besides his research activities, Ricardo has
+also been an active participant in policy debates, notably concerning safe bonds for the euro area
+and economic developments in his native Portugal.
+ Ricardo’s work is macroeconomics at its
+best:  in  contact  with  data,  innovative  and  with  lessons  for  policymakers.  Please  join  me  in
+congratulating  Ricardo  on  being  awarded  this  year’s  Bernácer  Prize.  Ricardo,  I  wish  you
+continued success in the future.
+11
+12
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Mankiw,  N.  G.,  Reis,  R.  and  J.  Wolfers,  (2004),  “Disagreement  About  Inflation  Expectations”,  NBER
+Macroeconomics Annual, 18, 209–248. See scholar.google.com for the citations.
+Woodford,  M.,  (2002),  “Imperfect  Common  Knowledge  and  the  Effects  of  Monetary  Policy”,  in  “Knowledge,
+Information and Expectations in Modern Macroeconomics: In Honour of Edmund S. Phelps”, eds. P. Aghion et
+al.,  Princeton,  New  Jersey:  Princeton  University  Press,  and  Sims,  C.  A.,  (2003),  “Implications  of  rational
+inattention”, Journal of Monetary Economics, 50, 665–690.
+See,  for  example,  Gorodnichenko,  Y.  and  O.  Coibion,  (2015),  “Information  Rigidity  and  the  Expectations
+Formation Process: A Simple Framework and New Facts”, American Economic Review, 105, 2644–2678.
+Mankiw, N. G. and R. Reis, (2002), “Sticky Information Versus Sticky Prices: A Proposal to Replace the New
+Keynesian Phillips Curve”, Quarterly Journal of Economics, 117, 1295–1328.
+Ball, L., Mankiw, N. G. and R. Reis, (2005), “Monetary Policy for Inattentive Economies”, Journal of Monetary
+Economics, 52, 703–725.
+Mankiw,  N.  G.  and  R.  Reis,  (2007),  “Sticky  Information  in  General  Equilibrium”,  Journal  of  the  European
+Economic Association, 5, 603–613, and Mankiw, N. G. and R. Reis, (2006), “Pervasive Stickiness”, American
+Economic Review, 96, 164–169.
+Reis,  R.,  (2006),  “Inattentive  Producers”,  Review  of  Economic  Studies,  73,  793–821,  and  Reis,  R.,  (2006),
+“Inattentive Consumers”, Journal of Monetary Economics, 53, 1761–1800.
+Oh, H. and R. Reis, (2012), “Targeted Transfers and the Fiscal Response to the Great Recession”, Journal of
+Monetary Economics, 59, S50-S64.
+McKay, A. and R. Reis, (2016), “The Role of Automatic Stabilizers in the U.S. Business Cycle”, Econometrica, 84,
+141–194.
+McKay, A. and R. Reis, (2016), “Optimal Automatic Stabilizers”, NBER Working Paper 22359, CEPR discussion
+paper 11578.
+Hall, R. E. and R. Reis, (2015), “Maintaining Central-Bank Solvency under New-Style Central Banking”, NBER
+Working Paper 21173, CEPR Discussion Paper 10741, and Hall, R. E. and R. Reis, (2016), “Achieving Price
+Stability  by  Manipulating  the  Central  Bank’s  Payment  on  Reserves”,  NBER  Working  Paper  22761,  CEPR
+Discussion Paper 11578.
+See,  for  example,  Brunnermeier,  M.  K.,  Langfield,  S.,  Pagano,  M.,  Reis,  R.,  van  Nieuwerburgh,  S.  and  D.
+ 3 / 4
+BIS central bankers' speeches
+Vayanos, (2016), “ESBies: Safety in the tranches”, European Systemic Risk Board Working Paper 21, Reis, R.,
+(2013), “The Portuguese Slump and Crash and the Euro Crisis”, Brookings Papers on Economic Activity, 44,
+143–210, and Reis, R., (2015), “Looking for a Success in the Euro Crisis Adjustment Programs: The Case of
+Portugal”, Brookings Papers on Economic Activity, 46, 433–458.
+ 4 / 4
+BIS central bankers' speeches

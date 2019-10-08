@@ -1,0 +1,712 @@
+   
+Simon M Potter: Money markets after liftoff – assessment to date and the 
+road ahead 
+Remarks by Mr Simon M Potter, Executive Vice President of the Markets Group of the Federal 
+Reserve Bank of New York, at the 70th Anniversary Celebration of the School of International 
+and Public Affairs at Columbia University, New York City, 22 February 2016. 
+ The footnotes can be found at the end of the document. 
+The charts can be found at the Federal Reserve Bank of New York’s website:  
+Thank you. It’s an honor to speak to you today as part of the 70th Anniversary Celebration of 
+the School of International and Public Affairs at Columbia University, and I would like to thank 
+my former colleague and longtime friend Trish Mosser for the invitation. The programs offered 
+by SIPA, which aim to train young leaders to address the world’s most pressing public policy 
+problems, are especially relevant to the mission of the New York Fed, and many members of 
+the Bank’s Markets Group are alumni.1 
+I’m here to offer a few thoughts on money markets and the implementation of monetary policy. 
+Because of the large size of the Federal Reserve’s balance sheet, the staff at the Federal 
+Reserve spent the past several years developing a new and innovative framework to control 
+money market rates, and working to increase the amount of data we receive about trading in 
+those markets. In my remarks today, I will review the performance of this new framework and 
+discuss key insights from those new data collections. 
+Before  2008,  bank  reserves  were  scarce,  and  the  Federal  Reserve  influenced  overnight 
+interest rates by making small adjustments in the supply of reserves. The expansion in the 
+Federal Reserve’s balance sheet during and after the financial crisis means that reserves are 
+now abundant, and small adjustments in the quantity of reserves will not have much influence 
+on overnight interest rates. Instead, the Federal Reserve’s new framework is premised on the 
+payment of interest on reserves and on ensuring sufficient competition in money markets so 
+that the rate of interest paid on reserves is passed through to other money market rates and 
+thus to deposit rates offered to households and firms.2 
+Implementing  policy  in  this  new  way  has  required  a  significant  shift  in  the  staff’s  analytical 
+focus,  toward  quantitative,  data-driven  analysis  of  money  market  structure.  This  work  was 
+accomplished by a large roster of highly talented staff at the Board of Governors, the New York 
+Fed, and elsewhere in the Federal Reserve System. Of course, the development of this new 
+framework entailed frequent interaction with the Board of Governors and the Federal Open 
+Market Committee (FOMC), which are responsible for the tools used to implement monetary 
+policy. 
+I’ll focus my remarks on a few key questions. 
+First, what is this new framework and why was it necessary? In this section, I will explain why 
+the  Federal  Reserve  was  able  to  lift  rates  off  zero  without  requiring  large-scale  “reserve 
+draining.”3 
+Next, what do the new data on money market trading say about how this new framework is 
+affecting market conditions? As part of this discussion, I’ll walk through the enhanced data 
+that, starting in March, the New York Fed will use to calculate the effective federal funds rate.4 
+Finally, what questions remain, and what can be done to learn more about the issues they 
+raise?  These  include  the  level  of  capacity  required  in  the  Federal  Reserve’s  reverse  repo 
+operations and the consequences of changes in the regulatory rules for banks and money 
+funds. 
+BIS central bankers’ speeches 
+ 1 
+   As always, these views are mine alone and do not necessarily reflect those of the New York 
+Fed or the Federal Reserve System. 
+A new approach for policy implementation 
+Why are we following a new approach to implementing monetary policy? 
+Before the financial crisis, the Federal Reserve followed a well-worn playbook for monetary 
+policy implementation that was based on scarcity of reserves. Reserves left at the Federal 
+Reserve earned zero percent interest. As a result, to achieve the FOMC’s desired level of the 
+federal funds rate, the Open Market Desk at the New York Fed (Desk) estimated the amount 
+of reserves to add or subtract that would intersect supply and demand at the target interest 
+rate directed by the FOMC.5 All else equal, if the Desk wanted interest rates to go up, it slightly 
+reduced the amount of reserves; if it wanted rates to go down, it slightly increased the amount.6 
+So long as the Desk was able to effectively forecast the appropriate amount of reserves to add 
+or subtract, temporary open market operations provided it with an efficient means to add or 
+subtract  them,  and  therefore  allowed  for  good  control  over  the  federal  funds  rate.7  These 
+operations were conducted as repos or reverse repos secured by Treasury securities or other 
+high-quality collateral.8 
+Back then, a typical day on the Desk focused on forecasting the demand for reserves created 
+by  reserve  requirements  and  other  sources,  and  projecting  autonomous  factors  affecting 
+reserves.9,  10  With  very  small  amounts  of  excess  reserves  in  the  system,  there  was  a 
+straightforward relationship between rates in a range of money markets. Thus, the Desk was 
+able  to  target  a  rate  in  one  part  of  the  unsecured  market  by  conducting  small  secured 
+operations as needed with primary dealers. 
+Since the financial crisis, the environment has changed in two important ways. First, by the 
+end of 2014, following the large-scale asset purchase programs, the Federal Reserve balance 
+sheet was funded by about $3.1 trillion in liabilities other than Federal Reserve notes, which 
+were mostly in the form of reserves in excess of the amount banks were required to hold; in 
+contrast, there were only $64 billion of non-Federal Reserve note liabilities in June 2007, of 
+which only about $2 billion were excess reserves. As a result, reserves are now anything but 
+scarce. Second, Congress granted the Federal Reserve an important new tool: the authority 
+to pay interest on reserve balances, or IOR.11  
+In many countries, and in theory, a standing facility that pays IOR provides a floor on interest 
+rates. The reason is simple: if a private counterparty can invest cash at the central bank, then 
+given  the  safety  and  convenience  of  this  investment,  it  will  dominate  any  other  overnight 
+investment at that interest rate. Further, if banks can acquire funds in the wholesale market at 
+rates below IOR, then competition for these funds will bid up these rates close to that paid on 
+reserves. 
+The  Federal  Reserve  instituted  interest  on  reserves  in  late  2008,  and  the  interest  rate  on 
+reserves turned out not to be a floor; market interest rates fell significantly below it. With the 
+large levels of excess reserves in the system, certain institutional aspects of money markets 
+in the United States – including bank-only access to IOR, credit limits imposed by lenders and 
+other impediments to market competition, and the costs of balance sheet expansion – appear 
+to create frictions that have made IOR act more like a magnet that pulls up short-term interest 
+rates  than  a  firm  floor  beneath  them.  Thus,  in  considering  how  to  implement  policy 
+normalization, the Federal Reserve evaluated a variety of ways to increase competition for 
+funds among borrowers and thereby improve the control provided by IOR.12  
+The Federal Reserve initially considered an approach to policy normalization that was based 
+on a combination of term operations and asset sales or redemptions aimed at making reserves 
+sufficiently scarce so that, once the FOMC decided to tighten monetary policy, this tightening 
+could be implemented using IOR within a framework that was otherwise similar to that used 
+before the crisis.13 As part of this approach, the Federal Reserve acquired a new set of reverse 
+2 
+ BIS central bankers’ speeches 
+   repo counterparties, including money market funds and government-sponsored enterprises, in 
+addition  to  the  primary  dealers  with  which  it  had  traditionally  transacted.  These  new 
+counterparties were major investors of cash in overnight markets and had capacity to facilitate 
+the “draining” of substantial reserve balances, if offered attractive term investments with the 
+Federal Reserve. In addition, the Federal Reserve developed a term deposit facility to drain 
+banks’  reserve  balances.14  This  playbook  of  draining  reserves  back  to  reserve  scarcity  to 
+support the transmission of interest on reserves into market rates is standard among central 
+banks. If policymakers had chosen to do so, the Federal Reserve could have made such a 
+term reserve draining approach work to help control money market rates in the United States.15 
+So, why did the Federal Reserve not follow this approach of large-scale reserve draining? As 
+the  balance  sheet  continued  to  grow  as  a  result  of  asset  purchase  programs,  it  became 
+apparent that such reserve draining operations would have been very large in comparison to 
+the size of private money markets. As a result, they probably would have had lasting effects 
+on the structure of those markets – for example, by reshaping the structure of term money 
+market activity according to the structure of the Federal Reserve’s operations. These lasting 
+effects could have been especially large if the balance sheet did not run off quickly. 
+For  this  reason,  the  Federal  Reserve  instead  pursued  offering  an  overnight  investment 
+opportunity that could, with sufficient capacity, intensify competition in money markets and, 
+without necessarily draining reserves, enhance the transmission of IOR into other overnight 
+money  market  rates.  This  approach  entailed  a  twist  on  a  traditional  Federal  Reserve  tool, 
+reverse repos: Instead of running quantity-based, term operations aimed at altering reserve 
+levels,  the  Desk  would  run  interest-rate-based  overnight  operations  aimed  directly  at 
+influencing market rates. 
+A number of operational features were required to implement such an overnight reverse repo, 
+or ON RRP, facility: It would need same-day settlement;16 the operation would need to be run 
+predictably, every day, and as late in the day as possible, to give lenders time to bargain with 
+other  counterparties  using  the  outside  option  of  investing  with  the  Federal  Reserve;17  an 
+appropriate spread below IOR would be required to ensure that the facility neither induced 
+large changes in the structure of money markets nor lost the ability to support interest rate 
+control;18 and the operations would need enough unused capacity that lenders could credibly 
+propose to leave borrowers that did not offer an adequate interest rate.19  
+This  approach  works  in  theory,  and,  with  the  support  of  staff  across  the  Federal  Reserve 
+System, a theoretical framework was developed around money market rate control through 
+the use of this framework.20 The ON RRP facility was also tested for more than two years. This 
+theoretical  and  empirical  examination  gave  the  Federal  Reserve  confidence  that  it  could 
+effectively raise rates when the time came while limiting undesirable effects on financial market 
+structure, and also ensured that additional term tool options were available if the combination 
+of the overnight tools – IOR and ON RRP – was not sufficient to provide interest rate control.21  
+At this point, you might have a question: from late 2008 to late 2015, the federal funds rate 
+traded well within the FOMC’s target range of zero to 25 basis points.22 Shouldn’t this have 
+been conclusive evidence as to the ability of the operational framework to provide sufficient 
+control of interest rates? 
+Unfortunately, the answer is no, because there are natural features of the financial system that 
+likely  provide  support  to  interest  rates  near  the  zero  lower  bound,  or  ZLB.  These  features 
+include  the  availability  of  physical  cash  and  a  behavioral  aversion  by  some money  market 
+investors to investing at negative rates, and also encompass certain unique features of money 
+markets  in  the  United  States,  such  as  legal  and  regulatory  incentives  applicable  to  money 
+market  mutual  funds  and  the  ability  of  the  government-sponsored  enterprises  to  leave 
+unremunerated deposits at the Federal Reserve.23  
+As a result, while the pre-liftoff testing suggested that the tools were likely to work well, it wasn’t 
+possible to determine with complete certainty the extent to which market rates were driven by 
+the tools or by ZLB effects. So we couldn’t completely rule out that the federal funds rate and 
+BIS central bankers’ speeches 
+ 3 
+   other money market rates might not go up one for one with rises in administered rates. One 
+might also worry that money market rates might not move together as rates rise, meaning that, 
+for example, a disconnect might emerge between secured and unsecured rates, or between 
+overnight  and  term  instruments.24  Either  situation  could  result  in  impaired  transmission  of 
+monetary policy into broad financial conditions. 
+Assessing the performance of the new framework 
+To summarize my conclusion about the performance of the operating framework to date: I am 
+extremely pleased with what we’ve seen so far. 
+In discussing why I view the framework as effective, it’s helpful to start by explaining what it 
+means for the tools to work well. I think about this issue through three lenses: interest rate 
+control,  avoiding  unintended  impact  on  the  structure  of  the  financial  system,  and  avoiding 
+financial instability. I’ll touch on what each of these mean, and then I’ll review the quantitative 
+evidence since liftoff on how well things have gone. 
+Interest rate control 
+Clearly, interest rate control is the paramount objective. It is of great importance that the public 
+is confident that the federal funds rate will be, on average over time, within the target range 
+set forth by the FOMC, and that other money market rates will continue to move closely with 
+changes in the federal funds rate. This way, expectations for the FOMC’s future policy stance 
+will be properly incorporated into the term structure of interest rates, and thereby appropriately 
+affect broad financial conditions and the broader economy. 
+It’s not necessary that the effective rate stay within the target range each and every day. Before 
+the crisis, there was usually a bit of variability in the effective rate owing to limitations on the 
+Desk’s ability to achieve completely precise daily forecasts for reserve demand. Now, as I said 
+earlier, the FOMC sets the target as a range, not as a point value. The federal funds rate can 
+vary  within  that  range,  and  it  could  even  move  outside  that  range  on  occasion,  without 
+materially affecting the economy.25  
+We have instituted a data-driven, cross-market framework for evaluating interest rate control. 
+In unsecured markets, we gather daily, transaction-level data through a new Federal Reserve 
+statistical collection called the FR 2420. These rich data give us much greater insight than we 
+had before the crisis about how these markets are structured, which is important to developing 
+and  maintaining  an  operating regime  based  on  improving  competition  among  borrowers  in 
+money markets, in the context of a large amount of reserves and substantial ongoing regulatory 
+and business model changes.  
+Monetary control does not stop at the effective federal funds rate: The Federal Reserve also 
+wants to ensure that the stance of monetary policy is passed through into other money market 
+rates. For example, we evaluate such transmission in the Treasury tri-party repo market, the 
+market in which ON RRP is conducted, by collecting similar trade-by-trade data from clearing 
+banks. In addition to these overnight markets, we pay close attention to the Eurodollar market, 
+which I’ll address later, as well as term money market rates. 
+Avoiding unintended effects on the structure of the financial system 
+A second lens for evaluating the operational framework is the extent to which it avoids creating 
+incentives that might result in undesirable changes in the structure of the financial system. This 
+means that the framework shouldn’t have lasting unintended effects on how people invest their 
+money or on how financial institutions interact with each other. 
+The Federal Reserve is operating the ON RRP on a temporary basis, primarily because the 
+balance sheet is currently large. The FOMC’s policy normalization principles and plans make 
+the temporary nature of the ON RRP clear by stating that it will be discontinued when it is no 
+longer needed to help control the federal funds rate.26 This intention was noted again in the 
+4 
+ BIS central bankers’ speeches 
+   minutes  to  the  January  FOMC  meeting.  As  a  result,  we  expect  that  firms  would  not  make 
+structural  changes  in  how  they  operate  in  response  to  the  ON  RRP,  to  avoid  the  cost  of 
+unwinding those changes when it is discontinued. The intention of the FOMC to impose an 
+aggregate cap on the ON RRP, as described in the January minutes, will mitigate this risk. 
+We closely monitor industry structure and fund flows to detect whether the framework is having 
+any unintended impact. For example, we watch banking data and money fund holdings to see 
+if savings are shifting between the two, because if such a shift had to reverse as we wound 
+down the ON RRP, those flows could potentially create costs to the firms concerned and also 
+unnecessary  problems  for  market  functioning.  We  also  keep  track  of  prime  money  funds 
+converting  into  government-only  money  funds,  because  if  they  do  so  on  the  mistaken 
+impression  that  the  Federal  Reserve  would  provide  a  risk-free  investment  opportunity 
+indefinitely and on a very large scale, they might later have to unwind that change when their 
+error became apparent. 
+Avoiding financial instability 
+The  third  lens  for  evaluating  the  framework  is  the  extent  to  which  the  framework  avoids 
+augmenting risks of financial instability. In particular, the framework shouldn’t create a risk that, 
+in times of stress, money market lenders will rapidly disintermediate their usual counterparties 
+and come to the Federal Reserve instead, such as through the ON RRP facility.27 Of course, 
+flight-to-quality effects existed in financial markets long before we put the new framework into 
+place  –  what I’m referring to  is  a situation  where the framework facilitates those  effects  or 
+makes them larger. 
+We address the risk of sudden surges in take-up in a couple of ways. For example, we can 
+employ vigilant market monitoring to detect any such shifts and allow the FOMC to formulate 
+a response. We also use per-counterparty caps, and can use an aggregate cap. 
+Evidence to date on control 
+Now, let’s discuss what the data tell us about how well the framework performed. 
+The distribution of traded rates in the federal funds market, shown in Figure 1, essentially made 
+a parallel shift higher after liftoff. These data are drawn from the new FR 2420 data collection 
+I discussed earlier, and they show an average over all days from liftoff to this past Wednesday, 
+leaving out December 31. Nearly all trading occurred within the new range – it’s normal for 
+there to be a little bit above the range – suggesting that our framework was broadly effective 
+in moving traded rates upward. 
+Because traded rates moved upward in this way, we have so far achieved an excellent level 
+of control over the federal funds rate. Since December 17, the day after the FOMC meeting, 
+the effective federal funds rate, calculated under its current methodology as a volume-weighted 
+mean, has traded within the FOMC’s new 25-to-50-basis-point range on all but one day, which 
+I’ll come back to. This is shown in Figure 2. The rate has averaged around 36 basis points, 
+about 25 basis points above its average level over the analogous year-ago period, when the 
+target range was zero to 25 basis points. 
+Let’s consider the calculation of the effective rate for a moment. Last year, we announced 
+some changes to that calculation, the most significant of which is that, starting in March, we 
+will  switch  to  calculating  it  as  a  volume-weighted  median  using  data  drawn  from  the 
+FR 2420 data collection, rather than a volume-weighed mean using data provided by federal 
+funds brokers. The change in the data source was made to make the calculation process more 
+robust.28 We changed the calculation methodology because, while the mean and median are 
+usually very close to one another, when they differ the median is a better reflection of money 
+market activity, and because using a median enhances the reliability and integrity of the rate.29 
+The New York Fed published a technical note this past July that describes in detail the benefits 
+of this change.30 
+BIS central bankers’ speeches 
+ 5 
+   Our recent experience has confirmed the expectation that the transition to the median in March 
+will result in little overall impact on the level of the effective rate over time. Figure 3 shows a 
+time series of the mean and median rates computed from the FR 2420 data. As you can see, 
+they remain quite close to one another. 
+The  FR  2420  data  also  allow  us  to  examine  closely  the  distribution  of  traded  rates  in  the 
+overnight Eurodollar deposit market. For those who are not native speakers of money market 
+jargon, the federal funds and Eurodollar deposit markets are very similar: They are wholesale 
+funds  taken  in  by  banks,  with  definitional  differences  that  I’ll  leave  to  the  footnotes  to  my 
+speech.31 Just this past October, following amendments to the FR 2420 collection, we began 
+to receive trade-level data for the bulk of activity in the Eurodollar market.32  
+The Eurodollar market is considerably larger than the federal funds market. According to FR 
+2420  data,  on  average  in  the  last  two  months  of  2015  there  was  $233  billion  of  overnight 
+borrowing in the Eurodollar market; in contrast, over that same period, there was $70 billion 
+overnight borrowing in the federal funds market.33 I’ll show some data on the composition of 
+activity in these markets a bit later, but it’s worthwhile noting that many of the Desk’s nonbank 
+counterparties, such as the money funds, are active lenders in the Eurodollar market. 
+We observed a similar response in yields in the Eurodollar market as we did in the federal 
+funds  market,  with  the  distribution  of  traded  rates  making  a  parallel  shift  upward  of  about 
+25 basis points, as shown in Figure 4. Since liftoff, the overnight Eurodollar volume-weighted 
+mean rate as calculated from FR 2420 data, as seen in Figure 5, has averaged about 35 basis 
+points.34 This is in line with the effective federal funds rate. The volume-weighted median, also 
+shown in the figure, moved upward by a like amount. This is an encouraging development 
+because it indicates that, as we have moved up from the zero lower bound, money market 
+rates are continuing to move together. 
+We can look into that further by examining the overnight Treasury repo market. Rates on these 
+transactions as reported by the tri-party clearing banks, shown in Figure 6, exhibited a similar 
+shift upward, although they settled modestly lower in the target range than they had in the pre-
+liftoff period. In part, this shift likely reflects the fact that the ON RRP offered rate was 5 basis 
+points before liftoff – that is, 5 basis points above the bottom of the target range – and it is now 
+set to 25 basis points, or the bottom of the target range. 
+It also looks as though the increase in the federal funds rate passed through effectively into 
+term money  market  instruments.  Figure  7  shows  the  recent  progression  of rates  on three-
+month Treasury bills and three-month commercial paper. Also shown for comparison is a three-
+month overnight index swap quote for the effective federal funds rate. All of these rates rose 
+going into the December FOMC meeting, which makes quite a bit of sense, given that most 
+market participants expected the FOMC to tighten policy at that meeting.35 We also gather 
+information about rates on term unsecured borrowing in our FR 2420 collection, and about 
+term secured transactions from the clearing banks, and these data tell a similar story. 
+Treasury bill yields rose a bit less than other rates on instruments of comparable term and now 
+trade at yields somewhat below the ON RRP rate. Treasury bills have some attractive qualities 
+in comparison to ON RRP, such as round-the-clock liquidity. In addition, there seems to be 
+strong demand for bills from investors who don’t have direct access to the ON RRP or IOR, 
+and it appears that most Treasury bills are owned by such investors. Also, bills have typically 
+traded  below  other  money  market  rates  during  tightening  cycles,  as  they  do  now;  periods 
+where bills trade at or above other rates have been the exception and not the rule.36 Thus, the 
+smaller increase in bill yields than in rates on other term instruments is not surprising, and I do 
+not read it as undermining the general conclusion that the policy rate increase was effective in 
+firming money market conditions.37  
+December 31 
+Now, I mentioned earlier that fed funds traded within the target range on all but one day. Let’s 
+talk about that day, which was December 31.  
+6 
+ BIS central bankers’ speeches 
+   On that day, the effective federal funds rate, calculated as a mean from the FR 2420 data, 
+printed at 20 basis points, 15 basis points below its prior-day value and 5 basis points below 
+the FOMC’s target range. The median dropped a bit more, by 20 basis points to a level of 
+15 basis points. In addition, as shown in Figures 8 and 9, the dispersion of traded overnight 
+rates  in federal funds  and  Eurodollars  increased  on that  day,  with  a substantial  amount  of 
+trading activity at fairly low rates. These year-end effects were transitory, and the level and 
+distribution  of  rates  in  the  federal  funds  and  Eurodollar  markets  returned  to  pre-year-end 
+conditions on the following day. 
+Although  the  effects  were  transitory  and  did  not  adversely  affect  policy  implementation, 
+spending a bit more time on this episode can contribute to our understanding of money market 
+relationships. Why did we see the year-end drop in unsecured rates? Recall that the framework 
+functions by creating opportunities for investors to borrow funds in money markets to earn IOR 
+whenever there are significant differences between market rates and the IOR rate. On quarter-
+ends,  the  actual  and  perceived  marginal  balance  sheet  costs  of  a  number  of  depository 
+institutions  increase  as  they  publish  financial  statements  and  calculate  regulatory  ratios.38 
+These  increased  balance  sheet  costs  mean  that  depository  institutions  borrowing  funds  in 
+money markets to earn IOR must do so at a lower interest rate to account for these costs. 
+Further, the reduction in balance sheet capacity can temporarily lower the bargaining power of 
+lenders, again allowing borrowers to obtain funds at lower rates. 
+Many lenders in the federal funds and Eurodollar markets with access to the ON RRP facility 
+responded to these low rates by increasing their use of the facility, as shown in Figure 10. 
+However, other lenders remained in these markets, including those without ON RRP access, 
+those  who  received  funds  late  in  the  afternoon  after  the  ON  RRP  operation  had  already 
+occurred, and those for which the ON RRP was not an acceptable substitute. On this last point, 
+for some institutions, the ON RRP is an imperfect substitute to lending in private unsecured 
+markets because, in the tri-party repo system through which the ON RRP is settled, cash is 
+not returned at maturity until late the next day, whereas in private unsecured markets, earlier 
+return of funds can be negotiated.39 
+These quarter-end effects, as measured by the effective federal funds rate, are likely to appear 
+a  bit  larger  when  we  switch  in  early  March  to  a  median  calculation.  As  I  mentioned,  on 
+December 31, the median fell a bit more than the mean did, 20 basis points in the median 
+versus 15 for the mean. A larger relative decline isn’t unusual; averaging across the quarter-
+end dates in March, June, and September 2015, the median declined by 7 basis points while 
+the mean  declined  by  6.  The median  declines more  because  it  is,  in most  cases,  a  better 
+measure of the center of the distribution of traded rates – an issue the Desk analyzed at some 
+length in the technical note I mentioned earlier. This difference between the two might grow a 
+bit more as rates move further from zero. 
+In secured markets, rates in the tri-party repo market on year-end were relatively stable. This 
+makes sense, as ON RRP is a good substitute for tri-party repo with private counterparties, 
+and therefore this facility forms a fairly firm floor on overnight repo rates for lenders that have 
+access to the facility.40 As I’ll show in a moment, volumes declined in the private repo market, 
+as is typical on quarter-ends. 
+Evidence to date on other “lenses” 
+Turning to the second lens I noted earlier, we have achieved excellent control while avoiding 
+any unintended change in the structure of the financial system. Figure 11 shows RRP take-up 
+over time, grouped by counterparty type. Take-up, both in aggregate and at the counterparty-
+type  level,  has  been  stable  since  liftoff.  Among  the  money  funds  shown  in  this  figure, 
+government-only funds make up more of the demand on typical days, with funds that can invest 
+in a broader universe of money market instruments, called prime funds, accounting for the 
+balance. This has also been stable since liftoff.41 Indeed, more recently, usage has come down 
+as unsecured and secured rates have firmed some. Even with zero usage, the ON RRP facility 
+BIS central bankers’ speeches 
+ 7 
+   could still be effective in underpinning the level for money market rates by supporting lenders’ 
+bargaining power. 
+In addition, as shown in Figure 12, lending volumes in secured and unsecured money markets 
+have been stable, suggesting that the Federal Reserve’s facilities have not displaced activity 
+in the private sector.42 Figure 13 shows activity in unsecured markets by select lender types. 
+This shows that, post-liftoff, the composition of activity in these markets also appears to have 
+been stable. 
+Finally, I’d like to speak briefly to the third lens, avoiding financial instability. As you know, there 
+has been quite a bit of volatility and risk aversion in financial markets lately, and there has 
+been  no  corresponding surge  in ON  RRP  demand. This  continues to  be  an  issue that  the 
+FOMC is thinking closely about, as reflected in the January FOMC minutes. 
+Lessons learned on operational structure 
+We have learned a lot about the structure of our operations from our experience with liftoff. I 
+will discuss a few of my observations. 
+Let’s begin with quantifying the aggregate capacity limit. At the December meeting, the FOMC 
+directed that the ON RRP’s capacity be “limited only by the value of Treasury securities held 
+outright in the System Open Market Account that are available for such operations.” As a result, 
+in practice, the ON RRP is currently being run with an aggregate capacity limit of around $2 
+trillion, which is far in excess of typical daily demand and well above the $300 billion capacity 
+limit the facility had had since September 2014. As the FOMC made clear in the minutes to its 
+March 2015 meeting, this elevated capacity was intended to ensure a smooth liftoff, but the 
+absence  of  an  aggregate  cap  is  only  temporary.  This  is  why  the  recent  January  minutes 
+included a discussion of when and how it will be appropriate to reinstate an aggregate cap. 
+So, what have we learned about the appropriate level of the cap? It seems likely that having a 
+very  elevated  aggregate  capacity  was  helpful  in  controlling  market  rates  initially,  perhaps 
+because it showed the FOMC’s commitment to achieving interest rate control, but it’s unclear 
+exactly how much available capacity, or “headroom,” is needed to maintain such control. By 
+way of background, determining the appropriate level of capacity involves striking a balance 
+between the “lenses” I discussed earlier. Imposing a limit on the facility’s capacity reduces the 
+extent to which there can be a disruptive surge of funds into the facility and the extent to which 
+private-sector investors can change their lending patterns by using the facility. Thus, such a 
+limit helps avoid financial instability and unintended effects on the structure of the financial 
+system. However, a limit that is perceived as likely to bind weakens our control of interest rates, 
+because  when  demand  exceeds  capacity,  the  interest  rate  paid  on  the  ON  RRP  facility  is 
+determined by an auction and is likely to be below the offering rate, thus reducing the efficacy 
+of the facility in supporting the federal funds rate.43  
+Our  recent  experience  suggests  that  having  reasonably  high  aggregate  capacity  can  help 
+improve control without necessarily encouraging greater use of the facility. When that capacity 
+is great enough, money market lenders are confident that they will be able to place funds with 
+us  at  the  administered  rate,  even  on  financial  statement  reporting  dates.  That  confidence 
+empowers them to demand rates from their borrowers that are above the ON RRP offering 
+rate. Conversely, when the capacity is perceived as low, lenders worry that they might not be 
+able to place all their funds at reasonable rates. This means that they might accept relatively 
+low rates in money markets. In addition, because of switching costs and other frictions as well 
+as risk aversion on the part of lenders, rates can decline days or weeks ahead of a date on 
+which the ON RRP is anticipated to reach its capacity, to levels so soft that lenders reallocate 
+funds to the ON RRP.44 So, having a high capacity could actually reduce ON RRP take-up. 
+But as I mentioned earlier, it isn’t clear exactly how high the capacity needs to be to achieve 
+the confidence of which I speak, and the benefits of high capacity must be carefully balanced 
+against the benefits of a tighter aggregate cap in terms of avoiding financial instability and 
+unintended effects on the structure of the financial system. 
+8 
+ BIS central bankers’ speeches 
+   Looking  at  the  recent  data,  it’s  hard  to  precisely  identify  the  extent  to  which  the  very  high 
+capacity, relative to the previous limit of $300 billion, helped to facilitate control beyond instilling 
+confidence, as I discussed earlier. One tentative indication that high capacity may be playing 
+an important role is that unsecured rates appear to have settled in about the same position 
+relative to IOR as before liftoff, even though one might have expected the widening in the IOR-
+ON RRP spread and the lower support from the ZLB to result in some downward shift. 
+The ON RRP also has a per-counterparty cap, which was, and is, $30 billion. It seems that the 
+current level of the per-counterparty cap was also adequately large for perceived individual 
+“headroom,” thereby supporting lender bargaining power. Figure 14 shows summary data on 
+how frequently we receive large bids in our operations at the ON RRP and term RRP facilities. 
+As  you  can  see,  we  rarely  see  bids  of  more  than  $10  billion,  and  combined  individual 
+counterparty usage across overnight and term operations has never exceeded $30 billion. 
+Recently, we learned a bit about the term RRP operations. We have been conducting these 
+over  quarter-ends  as  a  way  of  providing  additional  RRP  capacity.  Additional  capacity  is 
+available  because  term  RRP  operations  are  subject  to  a  separate  overall  size  limit,  and 
+because there is no per-counterparty cap in those operations. Counterparties appear to regard 
+these as close substitutes for ON RRPs, and as shown in Figure 15, we’ve typically seen that 
+overall RRP take-up, across overnight and term RRP, has been fairly stable across quarter-
+ends. 
+At this past year-end, there was essentially no take-up at the term RRP operations. The reason 
+is that the aggregate and per-counterparty caps were sufficiently high that market participants 
+were confident that they would not bind, and also because we conducted the term operations 
+without any interest rate premium relative to the overnight operations. At prior quarter-ends, 
+term RRPs were typically offered with maximum bid rates a few basis points above the ON 
+RRP rate. 
+The year-end experience suggests that market participants generally prefer overnight RRPs 
+to term RRPs if they offer the same rate, and that, if desired, adequate control over money 
+market  rates  can  be  attained  without  term  RRPs,  as  long  as  there  is  adequate  ON  RRP 
+capacity. 
+Finally, I’ll offer a few observations on a daily repo operation I haven’t yet mentioned. As a 
+long-standing service to foreign central banks, foreign governments, and international official 
+institutions, the New York Fed runs an overnight investment facility known as the foreign repo 
+pool.45 In this operation, at the end of each business day, account holders’ cash balances are 
+invested in an overnight reverse repo secured by the Federal Reserve’s securities holdings.46 
+The foreign pool is an autonomous factor affecting reserves and, as a result, in the pre-crisis 
+operating framework, the Desk would have to essentially sterilize variations in the pool's size 
+with repo operations. Accordingly, the interest rate on the pool was slightly below overnight 
+Treasury  repo  rates  in  the  market.47  To  ease  the  Desk’s  job  in  the  daily  forecasting  of 
+autonomous factors, tight limits were imposed on customers’ ability to rapidly vary the size of 
+their investment in the pool. 
+Since the crisis, the New York Fed has continued to provide the pool as a service. Investments 
+in the pool continue to be paid the market-based rate I mentioned. Figure 16 contains some 
+statistics on this rate relative to a measure of the broad market rate. We do not use the foreign 
+pool  as  a  means  for  implementing  monetary  policy,  and  the  change  in  the  composition  of 
+Federal Reserve liabilities it can generate has little to no impact in unsecured markets because 
+of the large amount of reserves in the system. Recall that the current operating framework is 
+not based on reserves scarcity. 
+Use of the foreign pool has grown over the last year and a half, from a bit under $100 billion in 
+mid-2014 to about $247 billion on February 17. This growth isn’t associated with liftoff, and it 
+isn’t because we have changed the way in which the interest rate is calculated. Instead, use 
+of the pool has increased because over time the constraints imposed on customers’ ability to 
+BIS central bankers’ speeches 
+ 9 
+   vary the size of their investments have been removed, the supply of balance sheet offered by 
+the private sector to foreign central banks appears to have declined, and some central banks 
+desire to maintain robust dollar liquidity buffers. 
+Open questions 
+Compared with the relative calm of the pre-crisis period, money markets have recently gone 
+through a sustained period of substantial change. Some of these changes are the result of 
+regulations  to  improve  the  safety  and  soundness  of  the  financial  system,  others  relate  to 
+business model enhancements, and, of course, some relate to Federal Reserve activity. The 
+Federal Reserve continues to collect data on the structure of money markets to determine 
+whether  any  changes  are  needed  in  its  operating  framework  to  ensure  that  its  objectives 
+continue to be met. 
+We are continuing to watch developments as business models adapt to the numerous changes 
+in bank regulation introduced over the past few years. We are interested in the extent to which 
+these business model changes impact the structure of money markets and thereby affect the 
+form  of  monetary  policy  implementation.  For  example,  we  are  monitoring  developments  in 
+bank behavior that could have implications for the transmission of monetary policy into market 
+rates.  Thus,  we  are  paying  close  attention  to  the  behavior  of  foreign  banks  on  financial 
+statement reporting dates. We are also keeping a close eye on how domestic banks continue 
+to respond to enhanced requirements on nonoperating deposits, which, for some institutions, 
+are  fairly  large  relative  to  the  size  of  their  reserve  holdings.  Should  these  business  model 
+changes increase the spread banks demand to borrow funds in money markets to earn IOR, 
+or should business model decisions apparently related to regulatory changes alter broader 
+dynamics in money markets, this could result in upward pressure on ON RRP take-up over 
+time. 
+We are also paying close attention to developments in the money market mutual fund industry 
+and  their  potential  impact  on  policy  implementation.48  The  Securities  and  Exchange 
+Commission recently announced new regulations for these funds aimed at enhancing financial 
+stability.  One  important  feature  of  these  new  rules  is  that  government-only  money  funds 
+receive  different  regulatory  treatment  than  prime  funds,  possibly  making  government-only 
+funds  more  attractive  for  some  institutional  investors.  If  the  assets  under  management  in 
+government-only money funds were to grow significantly, that could put upward pressure on 
+ON  RRP  take-up,  since  most  fund  managers  consider  the  facility  to  be  a  government 
+investment.49 As I noted earlier, we would not want to see growth in government-only money 
+funds if it were predicated on a mistaken impression that ON RRP would be around indefinitely 
+and  with  high  capacity.  Also,  if  assets  under  management  in  prime  funds  were  to  decline 
+sharply, this could possibly lead to less efficient transmission of monetary policy. 
+Finally, we want to keep an eye on relative value relationships in money markets. For example, 
+the difference between customer-to-dealer and interdealer repo rates has been quite volatile 
+in recent months, apparently because of growth in dealer balance sheet costs. 
+The road ahead 
+To summarize, in the period since liftoff, we have achieved excellent control over the effective 
+federal funds rate, and we have done so while avoiding unintended effects on the financial 
+system  or  financial  stability.  The  policy  rate  increase  has  passed  through  to  other  money 
+market rates, suggesting that the increase is affecting broader financial conditions as expected 
+and intended. 
+We still have a lot of work to do, both to observe ongoing structural changes in financial markets 
+and to formulate and implement any necessary response in the Federal Reserve’s monetary 
+policy  operations.  I  believe  we  have  thoughtfully  considered  these  uncertainties,  and  I  am 
+confident that we have appropriate policy tools available to respond as necessary to them. 
+10 
+ BIS central bankers’ speeches 
+ Thank you. I would be happy to take a few questions. 
+  1  
+I would like to thank James Egelhof and Patricia Zobel for their excellent assistance in the preparation of these 
+remarks, and colleagues in the Federal Reserve System for numerous insightful comments and suggestions. In 
+addition, I would like to acknowledge the leadership of James Clouse, William English, and Lorie Logan in the 
+construction  of  this  new  framework  and  James  McAndrews  for  his  intellectual  leadership  on  U.S.  money 
+markets. 
+2   For more details on implementation frameworks, see for example Ihrig, Meade, and Weinbach (2015). 
+3   With the commencement of the policy normalization process in December 2015, the Federal Reserve began 
+issuing an implementation note that provides the operational settings of the Federal Reserve's policy tools. This 
+note serves to separate communications about the policy stance from those about policy implementation. It also 
+promotes greater cohesion and transparency in communications about policy implementation by consolidating 
+information  that  was  previously  provided  in  FOMC  statements,  FOMC  minutes,  Desk  statements,  and 
+elsewhere. 
+4   An  estimated  historical  series  for  an  effective  federal  funds  rate,  produced  using  the  new  data  source  and 
+calculation methodology, is available on the New York Fed’s website. This series will be updated at the end of 
+February. 
+6  
+5   Demand  for  loans  of  reserves  was  driven,  for  example,  by  reserve  requirements  imposed  on  depository 
+institutions. 
+I emphasize “all else equal.” There were many subtleties to the pre-crisis relationship between the operations 
+and money market rates. In particular, money market rates would often move to a new target rate even before 
+operations  were  conducted,  because  of  the  Federal  Reserve’s  credibility.  Of  course,  that  credibility  was 
+underpinned  by  the  Federal  Reserve’s  actual  operational  capability.  For  a  detailed  exposition  on  pre-crisis 
+monetary policy implementation, see Bernanke, “Implementing Monetary Policy,” March 30, 2005. 
+7   Of course, the Desk also controlled the level of reserves through permanent open market operations. 
+8   When the Desk conducts a reverse repo transaction, it sells securities held in the System Open Market Account 
+(SOMA) under an agreement to repurchase the securities at a predetermined price. The difference between the 
+sale price and the repurchase price, together with the length of time between the two legs of the transaction, 
+implies a rate of interest (the reverse repo rate) paid by the Federal Reserve to its counterparty. The transaction 
+leaves the size of the SOMA securities portfolio unchanged but shifts some of the liabilities on the Fed’s balance 
+sheet from bank reserves to reverse repos while the trade is outstanding. A repo (as opposed to a reverse repo) 
+is the opposite. Before the crisis, repos were more common than reverse repos. The eligible collateral for the 
+Desk’s repo and reverse repo operations is set forth in the FOMC’s Authorization for Domestic Open Market 
+Operations. 
+9   Autonomous factors are those components of the Federal Reserve’s balance sheet that affect reserve balances 
+but are not directly under the central bank’s control. The largest of these, by far, is currency in circulation. Others 
+include  U.S.  Treasury  deposits,  Federal  Reserve  Bank  “float,”  and  overnight  reverse  repos  conducted  with 
+foreign central banks. See, for example, Hilton (2008). 
+10   The 2005 speech by then-Governor Bernanke that I noted earlier provides great detail on a day in the life on 
+the Desk prior to the financial crisis. 
+11   Congress granted this authority to the Federal Reserve in the Financial Services Regulatory Relief Act of 2006, 
+with an October 2011 effective date, but accelerated its implementation to October 2008 as part of the legislative 
+response to the financial crisis. A similar tool is critical in the implementation regime of most advanced economy 
+central banks.  
+12   The FOMC also considered an arrangement under which depository institutions could pledge funds held in a 
+segregated account at the Federal Reserve as collateral in borrowing transactions with private creditors. This 
+approach aimed to reduce credit-related barriers to depository institutions’ borrowing funds in money markets 
+and  thereby  intensify  competition  among  borrowers.  The  FOMC  decided  that  these  accounts  involved 
+operational, regulatory, and policy issues that would have been difficult to resolve in a timely fashion, and it 
+shelved further work. See the minutes to the FOMC’s December 2014 meeting. 
+13   This approach was discussed in detail in the FOMC’s June 2011 Exit Strategy Principles. 
+14   The Federal Reserve continues to test its Term Deposit Facility (TDF). In late 2014 and early 2015, the Federal 
+Reserve conducted rounds of testing of the TDF that on two occasions resulted in cumulative take-up of more 
+than  $400  billion.  These  operations  reportedly  had  no  significant  impact  on  conditions  in  money  markets, 
+suggesting that TDF operations would have to be significantly larger to put upward pressure on rates. 
+15   This approach has been used heavily, for example, by central banks that have large foreign exchange reserves. 
+BIS central bankers’ speeches 
+ 11 
+   16   In July 2015, the FOMC announced that changes in administered rates would go into effect on the day after its 
+policy  decision.  Otherwise,  the  intraday  timing  of  a  policy  change  could  result  in  various  operations  being 
+conducted with inconsistent settings. 
+17   ON  RRP  is  currently  offered  to  a  broad  set  of  counterparties;  these  counterparties  make  up  a  fairly  large 
+proportion of the lending community in overnight money markets. By offering this large group of counterparties 
+an alternative, risk-free investment option, ON RRP should improve lenders’ market power and help keep money 
+market rates near or above the ON RRP offered rate. Even if money markets were perfectly competitive, ON 
+RRP  would  likely  still be  effective  at  supporting the floor  provided  by  IOR,  for  example through  addressing 
+segmentation between secured and unsecured money markets. 
+18   The preservation of enough activity in the federal funds market to maintain the viability of the effective federal 
+funds rate was one component of this. 
+19   A final operational change to improve the transmission of IOR into market rates was a revision to the interest 
+calculation  methodology  that  became  effective  in  July  2015.  As  originally  implemented,  interest  on  excess 
+reserves  (IOER)  was  paid  on  each  bank’s  average  balances  over  a  two-week  maintenance  period,  at  the 
+average interest rate. This meant that if the interest rate changed during a maintenance period, the change 
+would not have been fully reflected in the interest payments to depository institutions until the beginning of a 
+new maintenance period. This methodology likely would have resulted in slow adjustment of market rates to 
+changes in the IOER rate. The revised calculation bases interest payments to depository institutions on the 
+IOER rate in effect each day and the level of balances held each day. 
+20   See Clouse, Ihrig, Klee, and Chen, “The Federal Reserve’s Tools for Policy Normalization in a Preferred Habitat 
+Model of Financial Markets,” October 2014; Martin, McAndrews, Palida, and Skeie, “Federal Reserve Tools for 
+Managing Rates and Reserves,” September 2013; and Armenter and Lester, “Excess Reserves and Monetary 
+Policy Normalization,” September 2015. 
+21   Testing  focused on  two  types  of  term  operations.  Term  RRPs  are similar  to  ON  RRP in most  respects;  for 
+example, both operations use the same expanded set of counterparties. The key differences are that term RRPs 
+are conducted for longer than overnight, they each have their own, separate, aggregate capacity limit, and the 
+term RRP does not incorporate a per-counterparty cap. Term RRPs can be used in a variety of ways. In the 
+current  framework,  they  have  been  used  to  offer  increased  RRP  capacity,  using  an  interest-rate-oriented 
+approach, around periods when larger-than-usual demand is expected, but they could also be used in a quantity-
+oriented way to drain reserves. Term deposits are likewise similar to IOR; TDF offers a somewhat higher rate 
+to banks that are willing to lock up their funds for a time. 
+22   The FOMC’s decision to use a target range for the federal funds rate, instead of a point target as was used prior 
+to December 2008, further supported the use of this operating framework. The FOMC’s use of a range supports 
+this framework by underscoring the fact that variation of the effective rate within that range is expected and is 
+consistent with the level of interest rate control it desires. 
+23   Frost, Logan, Martin, McCabe, Natalucci, and Remache, “Overnight RRP Operations as a Monetary Policy Tool: 
+Some Design Considerations,” February 2015. 
+24   It seems particularly appropriate to pay close attention to the integration of money markets in light of the increase 
+in bank and dealer balance sheet costs that has ensued from post-crisis changes in financial regulations and 
+other factors. 
+25   See Chair Yellen’s September 17, 2014, press conference. “To begin normalization, the Committee will raise its 
+target range for the federal funds rate. The Committee expects that the effective federal funds rate may vary 
+within the target range, and could even move outside of that range on occasion, but such movements should 
+have no material effect on financial conditions or the broader economy.” 
+26   See the September 2014 Policy Normalization Principles and Plans. 
+27   It is possible that the ON RRP facility might, in certain circumstances, have beneficial effects on financial stability 
+by providing confidence that there will be an elastic supply of risk-free assets available to nonbanks. 
+28   “Statement  Regarding  Planned  Changes  to  the  Calculation  of  the  Federal  Funds  Effective  Rate  and  the 
+Publication of an Overnight Bank Funding Rate,” February 2, 2015. 
+29   “Statement Regarding the Calculation Methodology for the Effective Federal Funds Rate and Overnight Bank 
+Funding Rate,” July 8, 2015. 
+30   “Technical Note Concerning the Methodology for Calculating the Effective Federal Funds Rate,” July 8, 2015. 
+31   Eurodollars are unsecured U.S. dollar deposits held at a bank or bank branch outside of the United States or 
+domestically through an international banking facility (IBF), whereas federal funds are domestic borrowings by 
+U.S. banks and U.S. branches and agencies of foreign banking organizations (FBOs). Although the Federal 
+Reserve can impose reserve requirements on net Eurodollar deposits of U.S.-based banks, it has imposed a 
+zero  reserve  requirement  since  1990,  making  the  treatment  of  Eurodollar  deposits  effectively  the  same  as 
+federal funds borrowings. 
+12 
+ BIS central bankers’ speeches 
+   32   Since revisions were implemented to the FR 2420 on October 20, 2015, both domestic banks and FBOs have 
+been required to report Eurodollar transactions on the FR 2420. Domestic banks report the activity of all offshore 
+branches with more than $2 billion in assets, while FBOs report activity of offshore branches that are managed 
+and controlled by offices based in the United States. Additionally, both domestic banks and FBOs report the 
+activity of their IBFs. Prior to the revisions, only domestic banks reported Eurodollar transactions, and there was 
+no reporting by IBFs. 
+33   In addition to enhancing the Eurodollar collection, the revised reporting instructions, effective October 20, 2015, 
+modified and clarified the definition of federal funds transactions and expanded the number of reporting entities. 
+The effect of these changes was an increase in the amount of reported federal funds activity. 
+34   The data file for this speech, available on the New York Fed’s website, includes a historical calculation of the 
+OBFR based on data provided by federal funds and Eurodollar brokers until October 19, 2015 and based on FR 
+2420 data, from October 20th, 2015 until February 17th, 2016. 
+35   See  “Responses  to  Survey  of  Primary  Dealers,”  December  2015,  and  “Responses  to  Survey  of  Market 
+Participants,” December 2015. 
+36   One such exceptional period was in mid-October 2015, amid some market concern about the debt ceiling that 
+eventually abated. 
+37   The Treasury has recently begun to ramp up its issuance of Treasury bills in part to support the maintenance of 
+a larger cash balance, which it keeps in its “checking account” at the Federal Reserve. This action increases 
+the amount of Treasury bills in circulation, thereby creating a greater stock of investible assets for nonbank 
+money market investors – an outcome that tends to put upward pressure on Treasury bill rates and potentially 
+other term money market rates. 
+38   Domestic depository institutions are subject to a regulatory leverage ratio that is calculated as an average over 
+the quarter and thus experience less variation in balance sheet costs at the end of quarters. 
+39   The Federal Home Loan Banks (FHLBs) are one type of institution that requires this feature for some of their 
+cash holdings. Prior to liftoff, the FHLBs, which have access to unremunerated deposit accounts at the Federal 
+Reserve, were able to use this to support their negotiating position with borrowers at quarter-ends, but now with 
+rates further above zero it is less effective in this regard. 
+40   ON RRP does not always provide a completely firm floor on the tri-party repo market. For example, late-day 
+funds can generate some softness. Also, there is evidence that some lenders in repo markets are reluctant to 
+frequently switch their counterparties. However, ON RRP is otherwise a close substitute to repo with a private 
+counterparty. In particular, since all tri-party repo is unwound at the same time, there is no possibility of early 
+return  of  funds,  which,  as  I  mentioned  earlier,  is  a  significant  benefit  some  federal  funds  and  Eurodollar 
+borrowers are able to offer. 
+41   Prime funds’ share of participation is significantly larger on quarter-end dates. 
+42   A small number of financial market commentators had opined that use of the tri-party repo infrastructure for the 
+ON RRP facility would make it harder for market participants to borrow the Federal Reserve’s Treasuries in 
+securities lending to facilitate settlement, and therefore result in less liquid Treasury markets. However, use of 
+the Federal Reserve’s securities lending program has been stable since liftoff, suggesting that the design of the 
+ON RRP facility has thus far not contributed to any increase in the scarcity of specific Treasury collateral. 
+43   If the total amount of propositions received is less than or equal to the amount of available securities, awards 
+are made at the specified offering rate to all counterparties that submit propositions. In the event that the value 
+of propositions received exceeds the ON RRP’s capacity, awards are made at the rate at which the capacity 
+was achieved (the stop-out rate), with all propositions below this rate awarded in full and all propositions equal 
+to this rate awarded on a pro rata basis. The stop-out rate, which can be any value at or below the specified 
+offering  rate  (including  a  negative  rate),  is  determined  by  evaluating  all  propositions  in  ascending  order  by 
+submitted rate up to the point at which the total quantity of propositions equals the overall size limit. The ON 
+RRP FAQs provide more information on the auction mechanism.  
+44   In  September  2014,  money  market  rates  were  soft  for  several  days  going  into  quarter-end,  as  market 
+participants anticipated that the ON RRP would reach its aggregate capacity on that day. According to market 
+participants, money market lenders lent overnight funds well in advance of quarter-end at rates below the ON 
+RRP rate to informally secure balance sheet capacity for the quarter-end date. 
+45   The foreign repo pool is authorized each year by the FOMC. For more background information about the foreign 
+repo pool, see “Services for Central Banks and International Institutions.” 
+46   Other major central banks provide analogous services. In managing the foreign reserves of the United States, 
+the Federal Reserve avails itself of these services when appropriate. 
+47   As  a  result,  the  rate  paid on the  pool  closely  tracked  the interest  rate  achieved on  temporary  open market 
+operations. 
+BIS central bankers’ speeches 
+ 13 
+   
+48   We are also monitoring developments in money fund net yields versus retail bank deposit rates. Money fund 
+management fees declined considerably as interest rates fell to near-zero levels, apparently as fund managers 
+worked to preserve a non-negative yield for their investors. Net interest margins at banks were also compressed. 
+It is natural to expect that this compression in margins, both at money funds and at banks, will reverse as rates 
+move away from zero, but the magnitude and timing of this reversal in margin compression may vary among 
+these two investment types. We are watching closely to see whether there is a shift in relative pricing between 
+them that could produce a flow from one to the other and thereby have implications for the structure of financial 
+intermediation. 
+49   Assets  under  management  in  government-only  funds  could  grow  two  ways:  Prime  funds  could convert into 
+government-only funds, or prime fund investors could transfer their money into government funds. Most prime 
+funds have announced their intentions at this point, and among those that have converted to government funds, 
+take-up  has  not  markedly  increased,  so  therefore  we  are  less  concerned  about  such  conversions,  but  we 
+continue to pay close attention to them, as we do to investor behavior. 
+14 
+ BIS central bankers’ speeches 

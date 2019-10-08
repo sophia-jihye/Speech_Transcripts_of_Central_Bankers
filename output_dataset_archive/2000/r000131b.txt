@@ -1,0 +1,699 @@
+Mr Bergo focuses on Norges Bank’s responsibility for promoting
+an efficient payment system
+Address  by  Mr  Jarle  Bergo,  Deputy  Governor  of  Norges  Bank,  to  the  Banks’  Payment  Systems
+Conference, held in Oslo on 11 November 1999.
+ Background
+1.
+Risk in the payment system is closely linked to the use of deposits. Payment transactions - via banks -
+take  time,  and this time-lag  (between  payment  and  settlement)  is  an  important  source  of  settlement
+risk. Cash payment allows immediate settlement without any such risk. Therefore, the transition from
+cash  settlement  to  the  use  of  deposits  involves  greater  risk,  but  also  greater  efficiency.  Thus,  the
+public’s choice of means of payment and payment instruments directly affects the degree of risk and
+efficiency in the payment system.
+The public’s choice of different means of payment and payment instruments varies over time. This is,
+of  course,  nothing  new.  Already  in  1924,  the  Banking  Commission  -  which  drafted  a  new  law  on
+commercial banks at the time - stated the following:
+The  concept  of  means  of  payment  is  not  beyond  change;  it  has  taken  different  forms
+throughout  time.  The  law  states  what  should  be  considered  legal  tender...,  but  common
+practice also allows certain secure assets to be used as payment... These bank-issued means
+of payment have - in the more developed countries - reduced the use of legal tender to minor
+daily disbursements (cash payments in its narrowest sense).
+Today,  the  payment  system  continues  to  undergo  rapid  change.  New  technology,  new  participants,
+new regulations and more globalisation have made this fairly complicated subject matter even more
+challenging  to  keep  up  with.  Norges  Bank  has  a  statutory  responsibility  for  promoting  an  efficient
+payment system. This responsibility becomes even more demanding when the systems change rapidly.
+The  focus  of  my  address  here  today  will  be  on  Norges  Bank’s  responsibility  as  distinct  from  the
+responsibility of the market participants and, in particular, that of the banks. However, before I embark
+upon this I will provide an assessment of risk and efficiency in the Norwegian payment system.
+I would like to begin with four observations on risk and efficiency in the payment system:
+Observations
+2.
+First,  payment  system  risk  is  closely  linked  to  the  organisation  of  payment  services  (legal
+agreements, time of payment, etc.)
+Central banks have been particularly concerned with risk in large value transfer systems, or systems
+for clearing and settlement of payments between banks. These systems are located at the top  of  the
+so-called payment pyramid.
+1
+BIS Review 7/2000
+Chart 1: The payment pyramid
+The payment pyramid
+Settlem en t ban k
+Clearing  h ou se
+Ban k
+B an k
+P ayer
+Payee
+inte rbank  sy stem
+pa ym e nt 
+se rv ice s  
+sy stem  
+(re tail)
+This is where the large, time-critical payments occur and obviously where the system risk is greatest.
+Disruptions in this segment of the payment system can lead to severe consequences, partly through the
+banks’ exposure to each other and partly through the banks’ processing of payments to and from their
+customers – i.e. retail payments.
+At Norges Bank, we have come to focus more on risk in the retail payment system, not least because
+many small transactions can amount to a fairly large sum, but also because it typically takes some time
+before final settlement between banks occurs. Internationally, more attention has been paid to risk in
+retail systems. Moreover, if such systems combine pure retail payments and large payments - as is the
+case in Norway  - it is recommended internationally that the  risk-reduction  measures be  as  strict for
+these systems as for systems for large-value transfers.
+We have also seen that part of the credit risk between banks arises in connection with (the legal basis
+related to) the various payment services. In some cases, the banks’ legal obligations actually coincide
+with the time the customer pays, i.e. long before the actual interbank transaction. For this reason, an
+assessment of the risk in interbank systems must be based on a thorough analysis of settlement times
+for the most important payment services.
+As a central bank, we are naturally concerned that the entire payment system functions smoothly. If
+important systems for payment services fail, robust interbank systems will obviously be of limited use.
+At  the  very  worst,  extensive  problems  in  systems  for  payment  services  might  reduce  the  public’s
+confidence in deposits, leading to a transition to cash payments. Therefore, we need to be aware of the
+interplay between the interbank systems and the systems for payment services.
+BIS Review 7/2000
+2
+Second, the risk in the payment system can be reduced by increased use of gross settlement in
+the central bank - but there are costs attached to such a conversion.
+An  increasing  number  of  countries,  including  Norway,  have  introduced  gross  settlement  systems  -
+RTGS  systems  -  for  large-value  transfers.1  The  conversion  from  net  to  gross  settlement  for  large
+payments can eliminate credit risk and, thus, a fundamental cause of systemic risk from an interbank
+settlement. However, such conversion is not cost-free. Let me briefly mention two disadvantages of
+gross settlement:
+- 
+First, it is evident that gross settlement does not completely eliminate the danger of systemic
+risk.  Banks  will  continue  to  be  linked  through  interbank  loans,  and  problems  in  one
+institution may still lead to considerable spill-over effects even if the settlement risk of the
+net settlement  has  been eliminated.2  Moreover, the risk  may  increase  for  other  institutions
+which must grant more credit (to those in need of liquidity for the gross settlement) or for
+institutions which do not receive settlement as quickly as before (due to queuing problems
+with the gross settlement).
+ Second,  the  transition  to  gross  settlement  may  increase  the  liquidity  costs  for  settlement
+participants. Whenever transactions are to be settled concurrently, there is always a risk of
+“gridlock”,  i.e.  that  settlement  is  halted  because  liquidity  has  been  unevenly  distributed.
+However,  this  is  a  well-known  situation  and  is  resolved  in  many  countries  by  the  central
+bank providing loans to system participants.
+Third, there is greater need to balance risk against efficiency
+In recent years, more attention has been drawn to weighing risk against efficiency. This is particularly
+the result of experiences we and other central banks have had with the new payment systems and the
+accompanying  operating  rules.  RTGS  systems  are  relatively  liquidity  intensive,  and  the  cost  of
+collateral may be fairly high. Compared with the initial situation - “non-secure” net systems - this cost
+was widely considered as a reasonable price to pay. However, a number of “in-between solutions” -
+i.e.  hybrids  -  have  appeared  over  time,  blurring  the  distinction  between  net  and  gross  systems.  For
+instance, in some net systems several settlements occur throughout the day, often in conjunction with
+various forms of exposure limits and collective guarantee arrangements. Certain gross systems have
+solved  liquidity  problems  with  new  queuing  solutions  (algorithms),  often  in  combination  with  new
+forms of central bank loans (primarily against security).
+We thus see some convergence towards a new type of clearing and settlement system:  “secure”  net
+systems or “optimised” gross systems. This does not mean a reduction in the risk-reduction measures
+placed on such systems; if anything, the minimum requirements have become stricter.
+And, fourth, there is a greater consensus on the (international) standards that must be met by
+the payment systems.
+The Lamfalussy minimum standards are well known. They were drafted by a G10 committee at the
+beginning  of  the  1990s,  and  are  minimum  requirements  intended  to  reduce  the  risk  in  large,
+international  clearing  and  settlement  systems.  Gradually,  they  have  also  become  standards  for
+corresponding national systems.
+According  to  the  Lamfalussy  standards,  payment  systems  should  have  a  well-founded  legal
+foundation,  the  risk  should  be  known  and  understood,  the  division  of  responsibility  and  risk  limits
+should be clearly defined, settlement should be completed - even if the largest participant experiences
+payment problems, and there should be publicly-disclosed admission criteria and satisfactory back-up
+routines.
+1 RTGS = real-time gross settlement.
+2
+If the banks practise early crediting (based on queuing information) the credit risk will also arise in a gross system.
+3
+BIS Review 7/2000
+Chart 2: The Lamfalussy minimum standards
+Lamfalussy standards
+(cid:127) Well-founded legal basis
+(cid:127) The risk must be known and understood
+(cid:127) Clear division of responsibility
+(cid:127) Exposure limits
+(cid:127) Settlement is to be completed even if the largest
+participant experiences problems
+(cid:127) Objective and publicly-disclosed admission criteria
+(cid:127) Operational, reliable technical systems
+(cid:127) Satisfactory back-up routines
+The Lamfalussy minimum standards are still viable but, as mentioned above, some adjustments have
+been necessary in the light of what has been experienced since they first appeared in 1990. A proposal
+for  revised  standards  is  currently  being  evaluated  in  the  BIS3  and  a  final  version  is  expected  to  be
+available some time next year.
+I have pointed out these requirements because they are also relevent for us in Norway. If there should
+ever be any link to TARGET,4 our interbank systems would be expected to meet similar requirements.
+Moreover,  we  must  assume  that  foreign  bankers  will  demand  that  our  systems  satisfy  international
+requirements.  We  could  probably  discuss  whether  these  requirements  are  equally  relevant  for  all
+portions  of  the  NICS-system,5  but  I  think  that  in  a  given  situation  involving  a  link-up  with  an
+international system, we will have only one choice - full implementation of the requirements! In the
+proposed system for licensing interbank systems, emphasis will be placed on evaluating whether the
+systems fulfil such international requirements.
+3.
+Risk and efficiency in the Norwegian payment system
+Retail payments
+3.1.
+Allow me to turn to a closer examination of the state of the Norwegian payment system. First looking
+at the retail side of the payment system - where so-called customer payments dominate - there are two
+factors I would like to bring to the fore: one is the (continuing) sharp increase in electronic services
+and the other is the stable use of cash.
+3 BIS: Bank for International Settlements.
+4 TARGET: Trans-European Automated Real-time Gross settlement Express Transfer (system).
+5 NICS: Norwegian Interbank Clearing System.
+BIS Review 7/2000
+4
+3.1.1.
+Transition to electronic payment instruments
+If we first look at electronic payment services, we see that the increase in the use of cards is what is
+most striking.
+Chart 3: Retail payment services (number of transactions) in 1990 and 1998
+Retail payment services (no. of transactions)
+1990
+444 million transactions 
+1998
+ 785 million tran sactions
+12 %
+25 %
+22 %
+25 %
+63 %
+53 %
+Cards (both credit and debit 
+card)
+Electron ic giro services
+Cheques an d other paper-based 
+payment services
+Source: Norges Bank, Annual Report on Payment Systems 1998
+The use of payment cards in Norway now exceeds use in most other OECD countries6 and the rate of
+increase is higher than in many other countries with advanced payment systems - such as Finland and
+Denmark.
+An increased use of electronic services is important for efficiency, including cost-effectiveness, in the
+payment system. We know there are considerable cost differences between various payment services
+and  that  there  is  an  equally  large  potential  for  savings.  In  terms  of  cost,  the  transition  to  more
+cost-efficient paper-based services - such as the mail giro - is important. It is estimated that the total
+cost of the payment system in Western countries may approach 2-3% of GDP. Therefore, a transition
+to electronic - or more cost-efficient paper-based - services will be essential to the establishment of an
+efficient payment system.
+If we look at the breakdown between the various payment services in terms of value, we get a different
+picture.
+6 Measured as number of transactions per inhabitant per year.
+5
+BIS Review 7/2000
+Chart 4: Retail payment services (value) in 1990 and 1998
+Retail payment services (value)
+1990 
+(approx. NOK 1735 billion)
+1998 
+(NOK 4795 billion)
+28%
+3%
+69%
+66%
+29%
+5%
+Cards (both credit and debit 
+card)
+Electron ic giro services
+Cheques an d other paper-based 
+payment services
+Source: Norges Bank, Annual Report on Payment Systems 1998
+We see that the share in value of payments made with payment cards - in spite of a sharp increase in
+the  number  of  transactions  -  has  not  advanced  much  (still  accounting  for  a  mere  3-5%  of  the  total
+transaction amount in the payment system). The average amount per transaction remains fairly low –
+i.e.  approximately  NOK  400.  In  general,  we  can  nevertheless  say  that  with  the  exception  of  cash,
+payment cards have become Norway’s most important payment instrument for small transactions.
+On the other hand, the electronic giro is the instrument which has increased the most in terms of value.
+The increase in direct transfers by business terminals has been particularly sharp, while the growth rate
+has been highest for “new” services - such telebanking and home banking.
+These  developments  are  important  for  the  further  improvement  of  payment  system  efficiency.  The
+emergence of home banking is a natural progression from telebanking, an area which is already highly
+developed in Norway. At the beginning of 1999, the vast majority of banks in Norway were able to
+offer  giro  services  over  the  Internet,  and  turnover  in  1998  already  amounted  to  a  good  NOK  7bn.
+Considering  that  PC  and  Internet  coverage  in  Norway  is  high,  conditions  should  be  favourable  for
+developments  in  this  area.  In  this  connection,  it  will  also  be  exciting  to  see  how  banks  meet  new
+demands for payment services related to increased trading over the Internet.
+Based on the above, I would conclude that efficiency in the Norwegian payment system has improved
+considerably in the 1990s.
+Factors behind these developments
+The  transition  to  electronic  payment  instruments  is  obviously  closely  connected  with  the  spread  of
+information  technology  in  Norway  in  the  1990s.  Nevertheless,  it  is  important  to  point  out  that  the
+correlation between new technology and an increase in efficiency is not automatic. Efficiency is the
+result of interaction between technology, institutions and users. The following three prerequisites must
+be in place for an efficient use of new technology:
+First,  system  participants  must  be  able  to  make  use  of  the  new  technology.  Coordination  of  the
+Norwegian payment system has been an important factor behind the swift adoption of new electronic
+payment services by the industry. Second, it is imperative that customers gain quick and moderately
+BIS Review 7/2000
+6
+priced  access  to  the  new  payment  services,  such  as  has  been  the  case  with  the  spread  of  EFTPOS
+terminals.7 And third - and perhaps most importantly - the payment system must encourage the use of
+(cost-) effective payment instruments. The public must face correct incentives if their payment habits
+are to be changed in the right direction. Prices which reflect real cost are an important instrument in
+this  connection.  Norway  has  a  substantial  head-start  on  most  other  countries  in  this  field.  Current
+prices largely reflect the difference in costs between various payment services, showing that “correct”
+prices are a suitable instrument in changing behaviour in the payment system.
+3.1.2.
+The use of cash and the paradox of levelling off
+Another characteristic of the Norwegian payment system in the 1990s has been the levelling off of the
+use of cash, when measured as the value of banknote and coin circulation as a share of GDP, following
+a considerable decrease throughout the 1980s.
+Chart 5: Cash in circulation as a share of GDP, 1980-1998
+Cash in circulation as a percentage of GDP
+P
+D
+G
+ 
+f
+o
+ e
+g
+a
+t
+n
+e
+c
+r
+e
+P
+8%
+7%
+6%
+5%
+4%
+3%
+2%
+1%
+0%
+0
+8
+9
+1
+1
+8
+9
+1
+2
+8
+9
+1
+3
+8
+9
+1
+4
+8
+9
+1
+5
+8
+9
+1
+6
+8
+9
+1
+7
+8
+9
+1
+8
+8
+9
+1
+9
+8
+9
+1
+0
+9
+9
+1
+1
+9
+9
+1
+2
+9
+9
+1
+3
+9
+9
+1
+4
+9
+9
+1
+5
+9
+9
+1
+6
+9
+9
+1
+7
+9
+9
+1
+8
+9
+9
+1
+Year
+Source: Norges Bank: Annual Report on Payment Systems 1990-1998, Annual Report 1980-1990, Statistics Norway: Historical Statistics
+1994, Statistical Yearbook of Norway 1999, 1995.
+From a level of about 7% of GDP at the beginning of the 1980s, it appears that the use of cash may be
+in the process of levelling off at close to 4%. A similar levelling off has also been observed in other
+countries, even though the level varies. The question we ask is whether this levelling off is permanent
+or whether we may expect a further reduction in the use of cash. Let me briefly outline three factors I
+believe may be of some significance:
+First, it has become less expensive to use cash in the 1990s. Cash is not an interest-bearing instrument.
+As such, forfeited interest income is part of the “cost” of using cash. A declining interest rate in the
+1990s has substantially reduced this cost, both for the public and banks. Second, the public has been
+spared  the  real  costs of  cash  use,  while  other payment  instruments  have  increasingly  been  assigned
+full-cost prices. And third, developments in new payment instruments for small payments - cash cards
+- have progressed slowly. This is probably in part because we already have a well-developed EFTPOS
+infrastructure in Norway, and perhaps in part related to what I mentioned above - that cash continues
+to be an efficient and inexpensive alternative.
+7 EFTPOS= electronic funds transfer at the point of sale.
+7
+BIS Review 7/2000
+Predicting further developments in the use of banknotes and coin, both internationally and in Norway,
+is a difficult task. Low inflation, low interest rates and greater access - for example, via the EFTPOS
+system’s  cash-back  arrangement  -  will  promote  the  further  use  of  cash,  whereas  new  technological
+solutions will reduce it. Developments in relative prices will also be of importance.
+Many of Norges Bank’s activities within this area are linked to  our role  as  issuer  of  banknotes  and
+coins; these activities are a public service, and costs are covered by the central bank. However, Norges
+Bank  is  also  often  in  competition  with  others  when  it  performs  a  number  of  other  payment  system
+services for banks and the postal system, which incur either no charges or no cost-covering charges for
+these services. This practice is currently under internal evaluation at the Bank. Consequently, we must
+anticipate that pricing for processing cash will approach full cost over time. It will be interesting to see
+if this has any affect on the public’s use of cash.
+Interbank systems (clearing and settlement systems)
+3.2.
+I would now like to look more closely at risk and efficiency in interbank systems and, particularly, at
+our standing internationally.
+3.2.1. We have made a fair amount of progress
+The establishment of NICS and NBO8 provided us with a modern clearing and settlement system in
+Norway, which we managed to implement at approximately the same time as the G10 countries and
+the EU. Our systems have certain positive properties, such as the possibility of releasing  a  gridlock
+situation in gross settlement (in NBO) and centralised information on banks’ liquidity (in NICS). Our
+central bank lending arrangements are generally similar to those found in other countries, where it is
+commonplace for collateral to be furnished for all loans in the central bank.
+However, we differ from other countries in two areas in a somewhat disadvantageous way: first of all,
+we  let  a  portion  of  the  large-value  transfers  go  through  multilateral  netting  before  being  settled  in
+Norges Bank. This is not common, but obviously contributes to less stringent liquidity requirements
+(this occurs in Germany and the US, among others). Second, in Norway we still make use of so-called
+“T-copying”,  in  which  the  payee  receives  information  on  payments  before  the  settlement  has  taken
+place.9 This creates the risk of the payee bank crediting the customer before the bank has received the
+money. The payee bank may thus be exposed to a non-controlled risk relative to the payer bank.
+On the whole, however, we may conclude that we have come a long way relative to the systems some
+of us recall from 10-15 years ago.
+3.2.2
+Risk can be further reduced
+In  spite  of  the  progress  which  has  been  made,  I  still  think  that  risk  in  the  Norwegian  clearing  and
+settlement system can and should be reduced. Allow me to point out three areas where I believe risk is
+still too high:
+Retail netting in NICS
+Turnover  in  this  area  has  been  high  and  on  the  rise.  Average  daily  turnover  is  now  NOK  28bn  -
+compared with about NOK 18.5bn in 1998. Turnover has reached up to NOK 76bn on certain days.
+8 NBO: Norges Bank’s settlement system.
+9 T-copying: the payer bank sends a payment order for the entire amount to the payee bank, with a copy to the data centre
+or the settlement bank, which sends a confirmation to the payee bank when settlement has occurred.
+BIS Review 7/2000
+8
+Thus, a delayed or rejected netting - resulting from payment problems in one bank - can cause serious
+problems for other banks, at any rate if the netting is prolonged until the following day.
+In addition, there are no exposure limits or transaction limits for this netting system. The system really
+does not live up to its name, because it involves both small and large-value transfers. As I pointed out
+previously,  this  may  call  for  us  to  place  stricter  requirements  on  this  clearing  system  than  what  we
+would demand if only retail payments were involved.
+If it should turn out that the bank responsible for the delay in the mass settlement really is insolvent,
+then  we cannot rule  out  that the other  banks  will  incur such  sizeable  losses  that  systemic  problems
+may arise. We have very roughly estimated that the bilateral (gross) exposure may exceed NOK 5bn in
+certain  settlements.  However,  this  situation  will  soon  be  improved  when  the  netting  is  given  legal
+protection. This may reduce the total maximum loss to the amount of the multilateral net debit of the
+insolvent bank. If the banking industry is also able to agree on an adequate loss-sharing agreement, we
+assume that the remaining danger of systemic risk in this part of the payment system.
+Gross settlements in NBO
+Turnover through gross settlements in NBO fluctuates between NOK 100bn and NOK 200bn per day,
+which  is  by  far  the  largest  portion  of  the  settlement.  Since  it  is  a  gross  settlement,  risk  would  be
+expected to be minimal or non-existent. Such is not the case, however.
+Liquidity problems can arise as a result of such factors as technical failure at one or several banks –
+i.e. operational risk. We have already experienced such situations and seen that they can quickly bring
+considerable  liquidity  strains  upon  other  NBO  participants.  Norges  Bank  is  actively  analysing  and
+improving routines associated with such situations in connection with preparations for the year 2000.
+This work will enable us to be well prepared if such unforeseen situations should arise after the turn of
+the century.
+Another risk-creating factor in connection with gross settlement is the extended use of early crediting.
+Relevant  information  is  lacking,  but  is  our  impression  that  this  practice  is  fairly  widespread.  The
+possibility of early crediting is, as is well known, connected to the information exchange model used
+in  the  Norwegian  payment  system  (see  my  previous  comments  on  so-called  “T-copying”).  This
+practice - which, by the way, is not in accordance with international recommendations - can result in
+the  payee  bank  coming  into  a  position  of  non-controlled  exposure  in  relation  to  the  payer  bank.  A
+transition to a so-called “Y-copying” - also in the Norwegian SWIFT system - should be a long-term
+objective.10
+Foreign exchange settlement
+We must assume that the Norwegian payment system is also vulnerable to a fairly substantial amount
+of foreign exchange settlement risk. This risk arises because the parties to a trade must usually send
+the currency sold long before they know whether the currency they have purchased has been received.
+We  know  that  the  krone  portion  of  foreign  exchange  turnover  makes  up  a  very  large  part  of  the
+turnover in the gross settlement system, and that such trades can amount to NOK 90bn kroner daily.
+The transition to gross settlement has thus reduced settlement risk in the Norwegian system, but at the
+same time this transition may not have addressed what may represent the largest risk. Norges Bank
+intends to identify foreign exchange settlement risk among Norwegian banks in the same way as has
+been  done  for  G10  countries.  Norges  Bank  also  supports  the  inclusion  of  Norwegian  kroner  in  the
+10 Y-copying: the payer bank sends a payment order to the data centre, which first sends a settlement order to the settlement
+bank and then, when the settlement bank has confirmed that settlement has occurred, sends the payment order on to the
+payee bank.
+9
+BIS Review 7/2000
+foreign  exchange  settlement  system  CLS.11  Ties  to  the  CLS  will  be  in  line  with  international
+recommendations and will greatly reduce the foreign exchange settlement risk of trading in NOK.
+3.2.3.
+Efficiency is not satisfactory
+This observation is particularly associated with the present lending arrangement with Norges Bank and
+its  corresponding  collateralisation.  At  present,  all  loans  with  Norges  Bank  must  be  covered  by
+security. The last adjustment to this policy was made in September, when collateral requirements were
+introduced  for  F-loans  as  well.  Following  this  change,  we  now  have  a  system  resembling  those  of
+many  other  countries,  particularly  in  Europe.  However,  the  government  paper  market  in  Norway  is
+small compared with other countries - which is, for that matter, an advantage - but it also requires us to
+make better use of available collateral than other countries.
+When  measured  in  October  of  this  year,  the  ratio  of  total  turnover  to  security  furnished  in  the
+Norwegian settlement system was roughly 5.12 This is on a par with the situation in Stockholm, but far
+below London, where daily turnover is around GBP 125bn - with highs of almost twice that amount -
+while collateral requirements are at a mere GBP 8bn, i.e. a ratio of about 16. When measured in this
+way, efficiency is thus at least three times greater in London than in Oslo or Stockholm - and we find
+nothing  to  indicate  that  the  system  in  London  is  less  secure.  This  indicates  that  there  is  room  for
+improvement in the Norwegian system.
+What areas can we improve? First of all, the retail netting system. The present system is cumbersome
+and both banks and Norges Bank would like to see some changes. It should  be  possible to  develop
+better  routines  to  reduce  the  need  for  collateral.  A  review  of  traffic  patterns  (in  particular,  for
+government  payments)  combined  with  other  appropriate  measures  (such  as  exposure  limits  and
+collective collateral) should make it possible to reduce the collateral requirement substantially.
+Changes in the rules for collateralisation are the other promising area for achieving noticeable gains.
+Present regulations hamper ongoing changes in the amount that can be pledged in favour of Norges
+Bank. Banks are unable to alter the collateral which has already been furnished (the previous day) in
+favour  of  Norges  Bank.  If  it  turns  out  on  the  day  of  settlement  that  too  little  collateral  has  been
+furnished, banks are not able to increase the amount of collateral - even though they have securities
+available in the VPS.13 This sluggish system - resulting from the Act relating to the Norwegian Central
+Securities  Depository  -  prevents  banks  from  adjusting  their  collateral  throughout  the  day.  It  goes
+without saying that this is not an optimal situation, which we have already pointed out. The matter is
+under consideration in the VPS legal commission, and we are hoping that a solution is imminent.
+Let  me  now  turn  to the responsibilities and roles  of  the  central  bank  and  the  banks  in  the  payment
+system.
+Responsibilities and roles in the payment system
+4.
+The primary responsibility for the development of the payment system lies with, and must lie with, the
+banks.  Self-regulation  is  still  the  rule.  However,  more  complex  systems  and  the  potential  of  new
+participants  increase  the  need  for  the  public  sector  to  take  on  partial  responsibility.  This  is  the
+background  to  the  proposal  for  a  new  act  on  payment  systems,  which  is  under  deliberation  in  the
+Storting.  According  to  the  bill,  Norges  Bank  is  to  be  granted  responsibility  for  licensing  and
+supervision of interbank systems in Norway. We wish to exercise this responsibility together with the
+industry and its participants. In the following, I will take a closer look at this interaction, how it may
+be developed and what our respective roles and responsibilities should be. I will also briefly touch on
+11 CLS: Continuous Linked Settlement.
+12 Based on combined average daily turnover of about NOK 175bn in NBO and total collateral of NOK 37bn.
+13 VPS: the Norwegian Central Securities Depository.
+BIS Review 7/2000
+10
+our  preparations  for  the  new  role  as  licensing  authority,  and  provide  a  few  opinions  on  which
+requirements must be placed on the interbank systems.
+The importance of self-regulation
+4.1.
+Norges  Bank’s  new  licensing  and  supervisory  responsibility  will  be  a  supplement  to  present-day
+self-regulation.  Up  to  the  present,  participants  have  cooperated  on  standards,  rules  and  routines  for
+security  and  transaction  exchange  within  the  payment  system.  Agreements  on  obligations  and
+responsibilities between the participants have assured coordination between banks. Self-regulation has
+primarily taken place through and between the two banking associations. There is consensus that this
+model  has  given  rise  to  substantial  results,  not  least  an  infrastructure  which  safeguards  important
+social considerations, while also providing for active competition between participants.
+The challenge for Norges Bank will be to fulfil its licensing and supervisory responsibility in such a
+way that self-regulation may be maintained, but which also allows us to move in the right direction in
+terms of both risk (reduction) and efficiency in the interbank systems.
+Norges Bank’s responsibility
+4.2.
+That Norges Bank has responsibility in connection with the payment system  is  not  new  to  this  bill.
+Under the Norges Bank Act, Norges Bank shall promote an efficient payment system domestically as
+well as vis-à-vis other countries. This formulation requires us to balance risk against efficiency.
+Norges  Bank  also  serves  as  settlement  bank  for  the  banks.  Norges  Bank  has,  as  a  result  of  this
+function,  set  requirements  on  the  banks  and  their  clearing  systems,  with  particular  emphasis  on
+risk-reducing measures.
+As a future licensing authority for the interbank systems, we will have to strike a balance between risk
+and efficiency in our assessment of the systems.
+In the following, I will provide a few observations on our new responsibility before commenting on
+the licensing process itself and the requirements which must be placed on the systems. Given that the
+law has not yet been adopted, this is of course somewhat speculative.
+We are highly aware that the law is to be supplementary to the approach of self-regulation. We must
+(according to proposition 96, 1998-99 to the Odelsting) endeavour to promote incentives which enable
+this approach to be maintained. At the same time, I showed above that risk in the settlement system
+can  and  should  be  further  reduced.  This  raises  the  question  of  whether  we  have  had  the  proper
+incentives up to now. It will be a challenge to find incentives which accommodate the industry’s need
+for self-regulation, while leading to a better system - with slightly lower risk.
+As  licensing  authority,  we  must  take  a  stand  as  to  which  systems  are  to  fall  under  the  licensing
+requirement  and  which  will  be  exempt  (because  they  have  no  significance  for  financial  stability).
+There are several issues which will have to be addressed in this area. Turnover and risk exposure in the
+systems will be key indicators in our evaluations. NICS is obviously a system which will be subject to
+the licensing requirement, and we will probably have to focus our evaluations on this system initially.
+We will also have to define which requirements will apply to the interbank systems and, particularly,
+what actions must be taken for us to fulfil the law’s objective that:
+Interbank  systems  shall  be  organised  with  a  view  to  promoting  financial  stability.  Special
+emphasis  shall  be  placed  on  countering  risks  resulting  from  a  deficiency  in  liquidity  or
+financial strength among participants in the system.
+This must be interpreted to mean that the interbank systems should be organised in such a way that
+they are robust and can withstand stress. They will probably have to satisfy international requirements
+placed on similar systems. This is not to say that Norges Bank will dictate specific solutions for these
+systems, but that we will demand that risk be identified and brought under control, and that there be
+satisfactory solutions for dealing with crisis situations. Several alternative solutions may be possible.
+The banks will have to decide for themselves within the limits set by sound risk management.
+11
+BIS Review 7/2000
+An example may serve to illustrate this. Risk in net settlement arises primarily because of the time-lag
+between payment and settlement. It has been common up to now for the payee bank to make funds
+available to its customer - pending the final transfer of funds from the payer bank in the settlement.
+This  practice  can  lead  to  large  and  unforeseen  exposure  before  settlement  is  finalised.  If  the  payee
+bank  postpones  crediting  instead,  credit  risk  will  be  eliminated  from  the  net  settlement,  but  at  the
+expense  of  efficiency  -  because  the  customers  receive  funds  one  (or  perhaps  two)  days  later.  The
+advantages of delayed crediting must therefore be weighed against the disadvantages. My point here is
+that  the  banks  themselves  must  be  responsible  for  this  assessment,  while  we  at  Norges  Bank  must
+evaluate whether the relevant measures are sufficient for promoting the objective of the law.
+Let  me  add  that  licensing  does  not  mean  that  Norges  Bank  has  issued  a  stamp  of  approval  for  the
+technical solutions of the interbank systems. This is also emphasised in the preparations to the law,
+where it states  that  ...  the  processing  of licence  applications  does  not  mean that  the  authorities  are
+responsible for the properties of the system’s operation, etc.
+It terms of the licensing process itself, Norges Bank has initiated preparations and we will be ready to
+receive licence applications when the law enters into force. At the same time, we are aware that the
+formulation of these applications will take some time, not to mention that any changes in agreements
+or  routines  (which  become  necessary  based  on  legal  requirements)  may  take  even  more  time.
+However, we will endeavour to facilitate this process. We have already had informal contact with the
+banking associations concerning this matter and we are prepared to provide counsel and guidance in
+the further progress of this process.
+The responsibility of the banks
+4.3.
+The primary responsibility for the development of the payment system must, as mentioned, lie with
+the banks. This is in line with the  approach  of  self-regulation.  Further  development  of  the  common
+infrastructure,  agreements  and  new  payment  services  must  come  from  the  industry  itself.  In  this
+process, it is important that banks provide more information on risk in the systems, so that an explicit
+division of responsibilities can be established - both for the individual  systems  operator  and  for the
+participants in the payment systems.
+However,  the  banks’  ability  to  develop  efficient  and  stable  payment  services  is  influenced  by  the
+regulatory framework established by the authorities. Norges Bank can be of assistance in helping the
+industry  to  make  the  “proper”  choices  by  providing  a  regulatory  framework  which  maintains
+competition, while also encouraging that participants are faced with relative prices reflecting the real
+costs of the systems. Allow me to comment on these factors:
+4.3.1.
+The importance of reliable information on risk and a clear division of responsibility
+It is important that the banks provide more information on the actual risk in the payment systems, so
+that the risk is known and understood (see the second Lamfalussy minimum standard). Our knowledge
+of  settlement  risk  in  the  Norwegian  system  is  still  insufficient.  We  know  too  little  about  exposure
+throughout  the  day,  how  it  arises  and  the  optimum  approach  to  reducing  it.  We  have  to  gain  more
+insight into these factors, particularly since risk information will be an important element in granting
+licenses  to  interbank  systems.  Moreover, this  information is  also essential  for  the  correct  pricing  of
+risk in payment services.
+In this connection, I would also like to point out what it means to specify the respective responsibilities
+of the netting provider and the participants (see the third Lamfalussy standard). I firmly believe that
+the law’s requirement that there shall be “one operator who is responsible for the establishment and
+operation of the system” may result in the necessary clarification of the division of responsibility in
+the payment system. For this reason, this requirement is not just a formality, but a real opportunity to
+create more transparency relative to the present system.
+BIS Review 7/2000
+12
+4.3.2.
+The importance of “proper” incentives
+It is important to have incentives which reflect the real costs connected to various payment services if
+participants  are  to  come  up  with  their  own  solutions  balancing  risk  against  efficiency.  A  pertinent
+example may be the regulations concerning loans in the central bank. It is a basic responsibility of the
+banks to ensure that liquidity is sufficient to cover settlement. The main rule for settlement in Norges
+Bank is that there shall be adequate cover in the account. If, for one reason or another, a bank does not
+have sufficient cover, it must turn to the market for financing. If necessary, the settlement should in
+part or in its entirety be delayed so as to give the institution enough time to obtain sufficient liquidity.
+Too  easy  access  to  loans  in  the  central  bank  in  situations  where  financial  stability  is  not  at  risk
+involves costs in that it weakens banks’ incentives to address elements of risk in the payment systems
+and  presents  the  customer  with  prices  which  do  not  reflect  the  risk  attached  to  various  payment
+services.
+4.3.3.
+The importance of competition
+The  stipulated  regulatory  framework  affects  competition,  such  as  who  is  allowed  to  initiate  new
+payment services. Competition is important, both for improving the use of known, reliable payment
+services and for the development of new services.
+At the same time, we know that competition may come  at  the  expense of  efficiency  if  it leads  to  a
+large number of services which are not coordinated. Maintaining a coordinated payment system while
+also ensuring a level of competition which can sustain and develop dynamics and innovation can be a
+difficult balancing act. As mentioned, it can be said that our experiences in Norway have been fairly
+good.  In  our  view,  coordination  that  promotes  positive  network  effects  should  be  encouraged.
+Competition  considerations  should  primarily  be  safeguarded  through  objective  and  publicly  known
+criteria for access to the network which makes it possible for new competitors to become established
+within the common infrastructure.
+How shall we assess new participants wishing to establish proprietary systems alongside the common
+infrastructure? This matter was discussed by the Banking Law Commission - which provided for the
+possibility  of  institutions  other than  banks  and  other  financial  undertakings  to  establish  systems  for
+payment services if licensed. The present bill does not address this question. It will be reverted to at a
+later time when the formulation of the regulation of institutions is addressed.
+Norges  Bank  has  provided  its  view  on  these  matters  in  earlier  submissions  to  the  Banking  Law
+Commission’s fourth report. At that time, we supported the  Commission’s  proposal for  opening  for
+new participants in this area, by pointing out that such new systems for payment services will not be
+based on account agreements. Therefore, these “deposits” cannot be used as general means of payment
+and thus will pose no threat to the current deposits-based payment system.
+Nothing has happened since to change our point of view. On the contrary, we believe that heightened
+competition will give us a better opportunity to test various technological solutions. This will certainly
+make it possible to establish new settlement and clearing systems alongside the present infrastructure,
+but  it  cannot  be  assumed  that  this  will  be  a  disadvantage  to  the  user.  If  such  systems  -  contrary  to
+expectations  -  should  gain  ground,  then  it  is  likely  that  the  question  of  licensing  with  a  view  to
+ensuring equal framework conditions will quickly be addressed.
+Our experience from the financial industry as well as from other industries has shown that intensified
+competition results in improved and lower-priced products - for the benefit of the customer. There is
+no reason that it should be any different in the area of payments.
+One  challenge  for  the  authorities  will  be  to  formulate  a  regulatory  framework  which  achieves  a
+balance between the positive sides of coordination and the need for competition and innovation. The
+challenge  for  the  banks  will  be  to  take  advantage  of  the  leeway  within  this  framework  in  order  to
+develop  systems  which  are  beneficial  to  the  customer  and  which  ensure  a  healthy  and  competitive
+business arena for Norwegian financial institutions.
+13
+BIS Review 7/2000
+Conclusion
+Review and “streamlining” of the retail netting system
+5.
+It is my foremost impression that we, in Norway, have a fairly efficient payment system, but that it is
+not  quite  as  robust  as  we  would  like.  There  is  room  for  improvement.  For  interbank  systems,  I
+particularly see possibilities in the following areas:
+- 
+- 
+- 
+- 
+As for the retail system, we already have a very efficient system in place, and here competition will
+push new products and services.
+Address foreign exchange settlement risk
+Limit the practice of early crediting
+Improve the use of collateral
+As  I  pointed  out  in  my  introduction,  the  transition  from  cash  payments  to  deposits  has  yielded
+substantial  efficiency  gains,  but  has  also  led  to  new  forms  of  risk.  As  such,  the  public’s  choice  of
+means of payment and payment instrument affects both risk and efficiency in the payment system. It
+will also be interesting to see the effect of real-cost pricing on the public’s use of cash.
+Experience  has  shown  that  the  public’s  choice  is  affected  by  relative  prices.  So  far,  we  have  had
+positive experiences with real-cost pricing in Norway. The usual cost concept is a little too narrow,
+however, and it may be time to take a closer look at “risk adjusted real-cost” prices. Different payment
+systems give rise to different risk in the payment system. This relationship is not always reflected in
+the prices charged customers. Often this is due to a lack of information about what the actual risk is to
+the customer, the bank and the entire payment system.
+In  this  respect,  the  banks  have  an  important  responsibility  to  identify  and  manage  the  risk  in  the
+payment system. Only then will it be possible to say that the risk is “known and understood”. Norges
+Bank also has a responsibility in this area, such as establishing a regulatory framework that provides
+better incentives than what the present system offers.
+We all have a common goal: a more efficient and secure payment system.
+BIS Review 7/2000
+14

@@ -1,0 +1,518 @@
+    
+ 
+Watching the watchers:  forward-looking assessment and 
+challenge of a central bank’s own financial risks 
+ 
+Speech given by 
+Andrew Hauser, Executive Director, Banking, Payments and Financial Resilience 
+ 
+At the GARP 18th Annual Risk Management Convention, New York 
+7 March 2017 
+ 
+ I am grateful to Nathanael Benjamin, David Jacobs and Riccardo Pagnani for their invaluable help in 
+preparing this speech. 
+ 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+1 
+    
+ 
+Introduction 
+ Thank you very much for the opportunity to speak to you today.   
+ The theme of this conference has been how to understand, and respond to, ever more diverse risks:  from 
+the rise of populism and geopolitics to the opportunities and threats of new technology; from new forms of 
+financial risk in banks, capital markets and further afield, to the latest trends in stress testing. 
+ Central banks of course worry about these things too, in pursuit of monetary and financial stability.  Indeed 
+we are so good at worrying, we may be one of the few groups of people that can make Chief Risk Officers 
+look chilled out by comparison!  But historically, for the Bank of England at least, much of that anxiety has 
+been outward-facing, focused on the ways in which private sector balance sheets might overheat, rather than 
+on our own financial exposures.  And that reflects the fact that for long periods in the past, our market 
+operations were relatively simple and low-risk. 
+ All of that has changed in recent years as central banks have taken exceptional actions to stabilise 
+economies and financial systems, driving a huge expansion in the scale and complexity of our market 
+operations and balance sheet exposures.  Those actions have delivered vital policy outcomes.  But they 
+have also led to entirely appropriate demands for central banks to demonstrate the highest levels of 
+professionalism, transparency and accountability in their management of what are, ultimately, public 
+exposures. 
+ As Executive Director at the Bank of England in charge of our second line financial risk function, I want to 
+explain how we have responded to these developments:  setting out the new framework, structures and tools 
+that we have put in place to monitor and challenge our own financial risk – and illustrating them with some 
+practical case studies.  A central goal of our work has been to apply the latest thinking in private sector risk 
+management wherever we can.  But that has also highlighted a number of areas where central banks have 
+to handle risk in very different ways to commercial banks.  Drawing out those similarities and differences will 
+be a key subsidiary theme of my remarks, and will I hope help frame a lively discussion later in our session 
+today. 
+ Central banks as financial firefighters 
+ Let me start with two of the most profound differences, because they colour everything that follows. 
+ The first is that central banks use their balance sheets not, like commercial banks, to generate 
+economic returns for their shareholders, but to deliver the policy goals of monetary and financial 
+stability.  That may sound innocent enough:  dull even.  But that would be misleading – because 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+2 
+ 
+2 
+   
+ 
+maintaining stability means central banks must be prepared to act like financial firefighters – rushing into 
+burning buildings (taking on certain types of financial risk) when everyone else is rushing out. 
+ That dynamic is clearest when central banks act as lenders of last resort:  stepping in to provide temporary 
+liquidity (to individual firms, or the market as a whole) when private liquidity providers take fright.  They are 
+uniquely able to do this because their ability to create fiat money means they face no liquidity risk in their 
+own currencies of issue.  Of course, central bankers go to great lengths to limit the other forms of risk they 
+take on in such circumstances:  lending only to institutions assessed as solvent and viable; taking  
+high-quality collateral, with conservative haircuts; charging suitably penal interest rates; and typically lending 
+only for limited periods.  But they can still find themselves lending, sometimes in large size, when everyone 
+else prefers not to, in order to limit the financial instability that would be caused by wider contagion.   
+ That inversion of the normal definition of risk tolerance – illustrated schematically in Chart 1 – is strike one 
+against the risk professional’s standard operating manual. 
+ Strike two comes from the fact that central banks are not subject to financial solvency constraints in 
+the way that commercial banks are.   And that, again, is because their ability to create fiat money means 
+they can always meet liabilities denominated in our own currencies.  As a result, there is nothing impossible 
+about a central bank trading with negative capital.  Indeed, some (particularly those defending foreign 
+exchange rate pegs) have done just that (Table 1). 
+ Chart 1:  Central banks as financial firefighters 
+Table 1:  Example central bank equity ratios 
+   Equity / 
+Total assets 
+ 16 
+10 
+2 
+1 
+1 
+–6 
+–7 
+ 
+European Central Bank 
+Swiss National Bank 
+Bank of Japan 
+US Federal Reserve 
+Bank of England 
+Bank of Israel 
+Central Bank of Chile 
+  
+Source: International Monetary Fund; Bank of England; central 
+bank financial statements  
+ 
+Equity and total assets are measured on an accounting basis 
+so do not account for factors such as off-balance sheet 
+exposures or government indemnities.  Balance dates are 
+February 2016 for the Bank of England, March 2016 for the 
+Bank of Japan and end 2015 for other central banks. 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+3 
+ 
+3 
+   
+ 
+But before you all rush to sign up as central bank Chief Risk Officers, free forever from the headaches of 
+commercial capital management, a word of caution.  Central banks cannot create money willy-nilly without 
+imperilling inflation, undermining their own monetary stability goals.  They typically only lend large amounts 
+on a secured basis – so their lending is limited by the supply of collateral available in the private sector.  And, 
+perhaps most profoundly of all, weakly capitalised central banks may find it hard to convince markets that 
+they retain the ability to pursue their broader policy objectives without potentially costly recourse to fiscal 
+resources, or further currency debasement.  These limits on central bank balance sheet expansion – 
+sometimes referred to as ‘policy solvency’ constraints1 – can be every bit as binding as financial solvency 
+requirements. 
+ Recent developments in the Bank of England’s own financial risks 
+ Despite central bankers’ readiness to enter burning buildings, and the lack of a binding financial solvency 
+constraint, the Bank of England’s balance sheet was actually very modestly sized in the decades leading up 
+the financial crisis, at less than 5% of UK GDP (Chart 2).  The Bank did provide emergency assistance in the 
+mid-1980s and early 1990s2, but (by recent standards at least) those exposures were small and short-lived.  
+Other than that, the Bank primarily held high quality, low-duration assets to back a relatively stable stock of 
+sterling banknotes and commercial bank reserves.  Financial risk management – though always core to the 
+Bank’s thinking – was not a particularly complex or resource-intensive activity. 
+                                                        
+1 For more on this issue, see for example ‘Central bank financial strength, transparency and policy credibility’ by Peter Stella (IMF Staff 
+Papers, Vol. 52, No.2), available at https://www.imf.org/external/pubs/ft/wp/2002/wp02137.pdf 
+ and ‘Central bank finances’ by David Archer and Paul Moser-Boehm (BIS Papers, No.71), available at 
+www.bis.org/publ/bppdf/bispap71.htm.  
+2 See page 31 of the Bank of England Report and Accounts 1985 
+(http://www.bankofengland.co.uk/archive/Documents/historicpubs/ar/1985accounts.pdf) and Balluck, K, Galiay  A, Ferrara, G and 
+Hoggarth, G (2016), ‘The small bank failures of the early 1990s’ 
+(http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/2016/q1/a5.pdf). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+4 
+ 
+4 
+   
+ 
+Chart 2:  Bank of England balance sheet 
+Chart 3:  Federal Reserve and Bank of England 
+balance sheets compared  
+  Three key developments disturbed that calm, and led to the introduction of our new financial risk framework. 
+The first was the huge increase in the size of the Bank’s balance sheet following the start of the financial 
+crisis.  Today the Bank of England holds assets worth about a quarter of UK annual GDP:  a five-fold 
+increase on a decade earlier (Chart 2).  In the early part of the financial crisis, much of that increase 
+reflected large scale liquidity assistance to the banking sector.  For example the Bank lent £61.5bn to RBS 
+and HBOS in 2008-93, and its market-wide Special Liquidity Scheme peaked at £185bn in 20094.  More 
+recently, the balance sheet expansion has primarily reflected outright asset purchases and long-term lending 
+schemes of unprecedented scale and duration, designed to deliver monetary stability when interest rates are 
+close to zero.  Other major countries have seen increases of similar scale:  Chart 3 for example compares 
+the expansion in the Bank’s balance sheet with that of the US Federal Reserve. 
+ These expansions, though primarily focused on maintaining monetary rather than financial stability, are 
+arguably further examples of the central bank as firefighter:  injecting liquidity when other market-based 
+channels are blocked.  Chart 4 shows how closely the increase in the size of the Bank’s balance sheet 
+mirrors the decrease in the scale of sterling lending to households and firms by UK banks in recent years:  a 
+strikingly similar picture to the stylised relationship in Chart 1. 
+                                                      
+3 For a discussion, see for instance Ian Plenderleith’s Review of the Bank of England’s Provision of Emergency Liquidity Assistance in 
+2008–09 (http://www.bankofengland.co.uk/publications/Documents/news/2012/cr1plenderleith.pdf).  
+4 See John, S, Roberts, M and Weeken, O, ‘The Bank of England’s Special Liquidity Scheme’ 
+(http://www.bankofengland.co.uk/publications/Documents/quarterlybulletin/qb120105.pdf). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+5 
+ 
+5 
+   
+ 
+Chart 4:  UK central and commercial bank 
+Chart 5:  Permanent shift in the Bank’s firefighter role? 
+balance sheets 
+    The financial instruments underpinning these expansions tend not to be particularly complex when compared 
+to those on commercial bank balance sheets.  But the Bank of England has also accumulated material new 
+contingent exposures, reflecting its much wider post-crisis range of policy responsibilities, and a more 
+comprehensive liquidity insurance toolkit.  The Bank’s new responsibilities for banking supervision,  
+macro-prudential policy and resolution imply a range of potential new calls on its balance sheet.  And 
+operational reforms designed to address the deficiencies in the Bank’s pre-crisis lending tools and flag 
+clearly that the Bank was ‘open for business’5, have left the Bank capable of lending to a wide range of 
+banks and non-banks, against many different types of collateral, at lower prices, and through a broad range 
+of facilities.  As of 2016, members of the Bank’s Sterling Monetary Framework – our main liquidity-providing 
+tool – had pre-positioned over £400bn of collateral with us, including 30% of the UK’s total stock of 
+household mortgage loans.  Only a fifth of that collateral had been drawn against, through the Funding for 
+Lending Scheme and other Bank facilities.  Even after accounting for the Bank’s sizeable haircuts, that 
+leaves well over £250bn of available credit:  a much higher proportionate level of contingent exposure for the 
+Bank than typically incurred by commercial banks through undrawn facilities.  So our balance sheet may 
+expand in both scale and riskiness at times of heightened liquidity stress:  the Bank of England’s role as 
+financial firefighter has shifted permanently upwards (Chart 5). 
+                                                       
+5 See http://www.bankofengland.co.uk/publications/Documents/news/2012/cr2winters.pdf; and the Bank’s new framework at 
+http://www.bankofengland.co.uk/markets/Documents/money/publications/liquidityinsurance.pdf.  The reforms are summarised in a 
+speech by the Governor at http://www.bankofengland.co.uk/publications/Pages/speeches/2013/690.aspx. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+6 
+ 
+6 
+   
+ 
+The third key driver behind our new risk framework has been the strong public demand for greater 
+accountability and transparency from central banks since the financial crisis.  In large part, that 
+demand follows directly from the increased breadth and scale of central banks’ responsibilities and financial 
+exposures.  But in the Bank of England’s case the desire to build a strengthened financial risk framework 
+also reflects an important consequence of taking on responsibility for the micro-prudential regulation of 
+banks, which is that we should be willing to do unto ourselves as we would do unto others:  a Golden Rule 
+for central bankers.  And it reflects a strong desire to investigate new ways of driving innovative analysis and 
+lean against the risks of groupthink. 
+ Strengthening the Bank of England’s financial risk framework 
+ The Bank has had strong first- and third-line financial risk functions for some time.  An expert first-line team 
+assesses, prices and haircuts the wide range of collateral pre-positioned with us, monitors the specific risks 
+taken in live operations on a day-to-day basis, and evaluates the financial condition of our counterparties, 
+liaising with our supervisory colleagues in the Bank’s Prudential Regulation Authority arm6.  And internal and 
+external auditors regularly assess the effectiveness of the Bank’s financial controls. 
+ Until recently, however, the Bank has not had a dedicated second-line financial risk function, reflecting a 
+perception that central banking operations did not give rise to tensions of the sort seen between profit 
+making and risk control in private firms.  The amount of residual risk to which the Bank was actually exposed, 
+after taking account of large collateral haircuts and government indemnities, was also felt to be relatively 
+small. 
+ As the scale of the Bank’s balance sheet persisted however, it became increasingly clear that we needed to 
+do more to bring our risk framework up to best practice.  That was for three main reasons, each linked to the 
+drivers I listed a moment ago.  First, the increasing complexity of the Bank’s operations meant that we 
+needed more effective ways to measure the risks we were taking, add them up across the different specific 
+operations, and evaluate them against an explicit statement of the Bank’s risk tolerance.  Second, the 
+increasingly contingent nature of our risks meant we needed much better forward-looking tools for evaluating 
+how those risks might crystallise in different scenarios, and ensuring we had sufficient resources to respond.  
+And, third, the need to hold ourselves accountable, identify potential blindspots and safeguard against 
+groupthink in our internal work, required more effective internal challenge and reporting mechanisms. 
+ In the summer of 2015, we therefore set up a brand new second line financial risk challenge function, staffed 
+using some of our risk experts who previously helped the PRA to challenge commercial banks:  bringing the 
+‘Golden Rule’ to life.  We developed a framework of risk tolerance, measurement, assessment, reporting and 
+challenge tools across the full range of credit, market, counterparty and liquidity risks facing the Bank, basing 
+                                                      
+6 More details on these functions are available in the Bank’s annual report on the Sterling Monetary Framework, available at 
+http://www.bankofengland.co.uk/markets/Documents/smf/annualreport16.pdf. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+7 
+ 
+7 
+   
+ 
+them where possible on industry best practice.  And we agreed a new governance structure, giving the 
+second line a key role as independent counsel to our Board’s Audit and Risk Committee, establishing a new 
+Executive Risk Committee and working-level challenge forums, and securing space for risk challenge on all 
+new policy proposals. 
+ Now all of this will sound very familiar to you as risk professionals – and that in a sense is the point.  In some 
+cases, it is just central banks catching up!  But in other cases we have had to blaze a new trail – reflecting 
+the unusual nature of some aspects of risk management at a central bank.  To illustrate those points, let me 
+take you through a few brief case studies of specific issues we have dealt with in our early months of 
+operation. 
+ The new second line in action:  five case studies 
+ (i) 
+ Purchases of government debt for monetary policy purposes (‘Quantitative Easing’) 
+The introduction of the new second line has in some cases primarily formalised and hardwired approaches 
+which had already been evolving as the balance sheet expanded. 
+ By far the largest single item on the Bank’s current balance sheet reflects the outright holding of some 
+£360bn of UK government bonds (or ‘gilts’) in notional terms, purchased on behalf of the Bank’s Monetary 
+Policy Committee as part of the implementation of their unconventional monetary policy – often known as 
+‘quantitative easing’.  This is by any standards a large portfolio – amounting to about a third of the total stock 
+of conventional gilts in issue, with an average duration of 12 years, it has a so-called ‘PV01’ – or valuation 
+sensitivity to a one basis point movement in average interest rates – of about £450mn7. 
+ Now an open position of this size would be many times larger than even the most aggressive traders in this 
+room would dream about running themselves.  Your natural instinct as a risk professional if you came across 
+this in the private sector would probably be to seek an immediate reduction in the position, or a hedge in the 
+market.  But any attempt to do this would undermine the very policy objective of the Monetary Policy 
+Committee in pursuit of their 2% inflation target:  ie to induce a portfolio shift into riskier assets by removing 
+duration from the market.  As I noted earlier, this is a classic example of the central bank policymaker as 
+fireman. 
+ What then is the role for the central bank financial risk function?  For the new second line, it is a classical 
+watching brief.  Its first duty would have been to ensure there were sufficient resources to back the risk.  In 
+this case, that was achieved some years ago by placing the portfolio in a separate subsidiary of the Bank 
+                                                      
+7 For more details on the current composition of the APF gilt portfolio and the operations, see 
+http://www.bankofengland.co.uk/markets/Pages/apf/gilts/results.aspx. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 8 
+ 
+8 
+  
+ 
+backed by a government indemnity8.  The Bank’s exposure then consists simply of an overnight loan to that 
+subsidiary, matched against its primarily short-term liabilities (Table 2 illustrates this using the last published 
+accounts), and the government has a natural hedge for its indemnity in that changes in interest rates have 
+partly offsetting effects on the value of the indemnity and the cost of new debt issuance.   
+ The other task for the second line financial risk function is to ensure that there is adequate transparency for 
+policymakers, government and the public over how the exposures can change over time, under different 
+scenarios, so that future decisions are made with full information.  That is done – as it has been since the 
+onset of quantitative easing – through multiple channels, including periodic internal reports to the Bank’s 
+Court and HM Treasury, and external analysis and data, including in the Bank’s Quarterly Bulletin and the 
+BEAPFF annual accounts.  As of January 2017, the fund had generated about £70bn9 in net interest income, 
+sufficient to cover the mark-to-market impact of a material increase in interest rates. 
+ 
+Table 2:  2015/16 Bank of England and BEAPFF balance sheets10 
+                                                           
+8 For more details, see the Bank of England Asset Purchase Facility Fund Limited Annual Report at 
+http://www.bankofengland.co.uk/publications/Documents/other/markets/apf/boeapfannualreport1606.pdf.  
+9 Not including unrealised mark to market profits.  Data available in Appendix A of 
+https://www.ons.gov.uk/economy/governmentpublicsectorandtaxes/publicsectorfinance/bulletins/publicsectorfinances/jan2017. 
+10 See http://www.bankofengland.co.uk/publications/Documents/annualreport/2016/boereport.pdf and 
+http://www.bankofengland.co.uk/publications/Documents/other/markets/apf/boeapfannualreport1606.pdf. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  9 
+ 
+9 
+  
+ 
+(ii) 
+Forward looking stress tests of the Bank’s financial exposures  
+ If the first case study illustrated an example where risk was already being actively evaluated, my second 
+illustrates a completely new area of activity. 
+ The concept of enterprise-wide stress tests has transformed private sector thinking on risk management in 
+recent years, driven in many cases by central bank regulators.  The Bank of England conducts an extensive 
+annual supervisory stress testing programme in the United Kingdom – and I note with interest the 
+discussions taking place elsewhere in this conference on the potential to expand such exercises well beyond 
+banks, something we have also been considering11. 
+ But, ironically perhaps, the Bank of England has not until very recently applied such techniques to its own 
+balance sheet.  That made sense when large-scale balance sheet expansions were expected to be rare and 
+highly idiosyncratic.  But the more permanent shift in the Bank’s firefighter role illustrated in Chart 5 suggests 
+we need a more sophisticated, agile forward-looking way of evaluating the risks we might face, and 
+(importantly) the resources required to deal with them.  Development of a suite of stress tests has therefore 
+been a core part of the early work of the new second line team. 
+ To shape this work, key judgments are required on ‘the 3 ‘S’s’:  Scope, Scenarios and Severity.  Scope 
+describes the range of facilities that the Bank might be called upon to use.  This is a challenging judgment for 
+an organisation specialising in tail risk insurance, and with a broad policy remit – but initially we have focused 
+on the public commitments to provide market-wide and firm-specific liquidity insurance through the Bank’s 
+current set of facilities and operations.  The scenarios we have so far explored are also consistent with this 
+scope, and include examples of both domestic and international shocks, affecting banks, non-banks and 
+capital markets.  Wherever possible these are based on the scenarios used by the Bank’s supervisors in 
+their work with industry, but with typically higher severity:  consistent with the assumption that firms should 
+be capable of surviving supervisory stress tests using their own resources.  It is only when firms’ liquidity 
+needs go beyond the level that could reasonably be covered by their own resources that the central bank is 
+called upon to act in size:  the image of the firefighter in action once again. 
+ So what do we do with the results of this work?  In the private sector, of course, stress tests are used to 
+inform desired capital levels, and that is certainly something we consider too.  But they can also have a wider 
+influence, as we found last year when we ran an exercise to evaluate the potential implications of uncertainty 
+surround different possible outcomes of the UK referendum on membership of the European Union.  The 
+results of that work helped to inform judgments on collateral pre-positioning and haircuts, engagement with 
+fellow central banks, and our own supervisory actions and conversations.  Most importantly of all, it 
+confirmed that the Bank had sufficient lending capacity in place to meet an extremely severe liquidity shock, 
+                                                      
+11 See for instance:   http://www.bankofengland.co.uk/publications/Documents/speeches/2017/speech960.pdf. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+10 
+ 
+10 
+   
+ 
+which allowed the Bank to make reassuring statements about its readiness to act.  In the event no such 
+shock occurred.  But the Bank’s preparedness played a part in that.  Just as we expect firms to be ready for 
+the unexpected, we hold ourselves to the same standard. 
+ Indeed this exercise drove home an important broader point:  for central banks to be effective watchmen (all 
+the time) and firefighters (occasionally), we first need private sector risk managers to have drawn up (and 
+shared with us) their own fire precaution and exit route plans.  Without a good understanding of firms’ 
+potential liquidity needs under stress, their alternative sources of liquidity and available collateral we cannot 
+fully evaluate our own capacity to lend.  This sort of liquidity planning under stress is I know an increasing 
+focus for both banks and non-banks alike, and is something we would actively encourage. 
+ (iii) 
+Calibrating the Bank’s own capital 
+ I mentioned at the start of my remarks that central bank capital is different to that of a commercial bank:  
+central banks need to meet a ‘policy solvency’ rather than a ‘financial solvency’ test.  It also sits at the base 
+of a particularly steep waterfall:  since any loss in a lending operation would be expected to be met, first by a 
+solvent firm’s own resources, second by the central bank’s collateral haircuts, and only then by its capital.  
+Any loss beyond that implicitly falls to the government, as the ultimate owner of the central bank (Chart 6). 
+  Chart 6:  The central bank capital waterfall 
+ Central banks across the globe differ in how they divide up this pie.  In the UK, the Bank of England operates 
+with a relatively low level of capital, and has few means of rapidly replenishing that capital if it is depleted 
+(Chart 7).  As a result it has tended to rely heavily on UK government indemnities for its larger operations, 
+such as the quantitative easing example I gave a few moments ago.  The Bank’s measured leverage ratio is 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+11 
+ 
+11 
+    
+ 
+just 1%, reflecting the fact that it supports a balance sheet of around £1/2tn on less than £3bn of equity. 12  
+But the ratio for its non-indemnified balance is materially higher, reflecting the significant role played by 
+indemnities.   
+ 
+Chart 7:  Central bank capital replenishment tools13  
+ 
+   The costs and benefits of these arrangements are quite subtle, and rest heavily on the extent to which the 
+markets and wider public perceive the Bank to have the means to deliver its substantially expanded remit 
+effectively without recourse to money creation, both in today’s market conditions and in stressed 
+conditions14.  Comprehensive stress testing, together with the other elements of the forward-looking toolkit 
+                                                      
+12 This capital figure consists of ‘Capital and Retained Earnings’. It does not include ‘Other Reserves’ of £1.6bn which are included in 
+accounting capital, but not considered loss-absorbing for regulatory purposes. For more details see 
+http://www.bankofengland.co.uk/publications/Documents/annualreport/2016/boereport.pdf. 
+13 Taken from BIS Papers No.71 (see footnote 1). 
+14 These issues are also discussed in the IMF’s most recent UK Financial Sector Assessment Program review:  see Box 1 on p.12 of 
+https://www.imf.org/external/pubs/ft/scr/2016/cr16159.pdf. 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+12 
+ 
+12 
+   
+ 
+developed by the Bank’s new second line function, have improved our ability to assess the adequacy of 
+these arrangements considerably.  
+ (iv) 
+Risk tolerance, limits and thresholds 
+ Board-level risk tolerance statements, and the specific trading and lending limits associated with them, are 
+amongst the risk manager’s most powerful tools.  But the calibration of both is an art as much as a science, 
+reflecting the difficulty of defining precise tolerance measures, and (in commercial banks) the inevitable 
+tension between revenue-generation and risk- or capital-reduction goals.  
+ Applying these tools to central banking operations is both easier and harder than in the private sector.  
+Easier, because there is no tension between profit and risk:  central banking operations are always designed 
+with risk in mind from the start.  But harder, because the events in which central banks are called on to act 
+often lie in the very tails of the distributions, making it hard – often impossible – to calibrate risk tolerance 
+using historic data.  And many of our operations are not discretionary, but reflect policy imperatives:  so 
+binding risk limits which, if applied, might cause a policy to be aborted mid-course, have little chance of 
+success. 
+ At the Bank of England, we have responded to these challenges in three ways.  First, we have adopted a 
+risk tolerance that, though qualitative in nature, recognises the importance attached to the safeguarding of 
+public resources and the priority placed on ensuring that policy decisions are always made in full knowledge 
+of the financial risk implications.  As I have described, maintaining monetary and financial stability – the 
+Bank’s policy mission – can sometimes mean we have to take on material levels of risk ourselves.  But 
+where we do that, we should take on no more risk than is necessary, and we should do so with our eyes 
+open, conscious too of the tradeoffs between financial and non-financial risk.  Second, as I have already 
+discussed, we have developed a toolkit for analysing how far different levels of financial resource can 
+support the Bank’s operations under a range of severe but plausible shocks.  And, third, we are in the 
+process of designing a tiered, enterprise-wide framework of limits and thresholds, consistent with the 
+resources available to the Bank, which (i) imposes macro-level limits that protect our capital base and (ii) 
+sets a series of early-warning thresholds.  These thresholds will not immediately constrain live  
+non-discretionary operations, but they will flag buildups of risk concentrations and trigger internal discussion 
+and review on whether the increase in risk is warranted by policy objectives.  That could lead to adjustment 
+of policy parameters, changes to the Bank’s financial resources or use of alternative Bank policy levers to 
+mitigate the underlying risks.  At a more granular level, nested within these balance sheet wide thresholds, 
+the first line has discretion to impose hard limits on particular discretionary operations where it is feasible to 
+do so (eg. on the Bank’s limited own-funds foreign exchange reserves operations). 
+    
+All speeches are available online at www.bankofengland.co.uk/speeches 
+13 
+ 
+13 
+   
+ 
+(v) 
+Challenging new policy initiatives 
+ One of the most profound changes to private sector risk management practice since the financial crisis has 
+been the near-universal introduction of processes to ensure that the business and risk implications of new 
+and sometimes complex products are fully understood before they can be launched.   
+ Central banks are unlikely to come with anything as complex or potentially toxic as the CDO-squared or 
+cubed!  But as I have covered in some detail, central bank operations frequently pose complex risk issues of 
+their own.  Take the example of the collateral available to support our contingent lending for liquidity support, 
+and how to estimate the central bank’s exposure to that. The closest this would get to in a commercial firm is 
+a Potential Future Exposure (PFE) calculation.  However most risk managers are used to considering PFE in 
+the context of counterparty exposure through OTC derivatives instruments – which is challenging enough!  
+But for us the underlying instrument is not a derivative product with a reasonable amount of pricing 
+information available:  it is a set of non-traded mortgage portfolios, which have to be marked to market today 
+and at future points in time.  So this is what we have to evaluate:  a PFE where the underlying is a pool of 
+marked-to-market mortgage portfolios lacking readily-available market pricing data.  In response, we have 
+had to develop robust valuation models linking observable macro-economic variables to potential exit prices, 
+whilst being honest about the range of uncertainty around these estimates.  And the Golden Rule applies in 
+this case too – in the form of independent model validation by our own specialist risk supervisors. 
+ While central banks do not typically have a profit/risk tradeoff, they do have to trade off the risk taken against 
+the policy objectives being pursued.   Unlike profits, there is no single measure of policy effectiveness, but a 
+wide range of economic and financial indicators to analyse.  Whilst such tradeoffs always took place more or 
+less explicitly at the Bank, the introduction of the new second line financial risk function has allowed us to put 
+a much clearer structure around them, institutionalise a process of professional risk challenge at working 
+level, and provide for rigorous and independent advice to policymakers.   
+ Just as this process brings implementation challenges, I know, in your own organisations, so it has at the 
+Bank.  Maintaining separation between first and second line, when today’s risk challenge may become 
+tomorrow’s design feature, for example.  Ensuring that robust and comprehensive advice is provided on 
+policies where time to market can be very short, and policy design is itself moving rapidly.  Or securing 
+airtime to ensure risk considerations are properly discussed.  But we successfully applied the new processes 
+to the Bank’s recently-announced Corporate Bond Purchase and Term Funding monetary policy schemes, 
+working with the first line to ensure that the key drivers of financial risk associated with the new facilities were 
+identified and where appropriate mitigated from the start, and underscoring the importance of taking no more 
+risk than required to deliver the policy objective. 
+    
+All speeches are available online at www.bankofengland.co.uk/speeches 
+14 
+ 
+14 
+   
+ 
+Conclusions 
+ In the time available, I have only scratched the surface of what can be achieved through the application of 
+modern risk management techniques to central banks’ own financial exposures.  There are some profound 
+differences between central bank risk management and that in the private sector:  in particular, the lack of a 
+hard financial constraint, the inverted risk tolerance in times of stress and the dominant influence of policy 
+imperatives.  But there are also many areas where we have been able to gain enormously from the 
+straightforward adoption of best-practice market techniques, including stress testing, risk tolerance and limit 
+structures, and a wide range of risk review standards. 
+ What are the next challenges?  As I alluded to before, risk managers and CROs in commercial firms are 
+upstream from us in the chain of defences in the global financial system.  This means that the more you can 
+do to throw light on your organisations’ potential liquidity needs under stress, and the potential mitigants for 
+that stress, not only will it help you and your supervisors, it will also help central banks to be better watchmen 
+for tail events, and more effective firefighters if the building ever needs to be evacuated.   
+ My second main message is that, we are also members of the wider risk management community, dealing 
+with similar concepts and sometime identical products, but with a different perspective. So we look forward to 
+a rich and ongoing dialogue with you as you develop better and more robust ways to manage and diversify 
+risk. 
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+15 
+ 
+15 
+ 

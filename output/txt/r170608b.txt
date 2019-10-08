@@ -1,0 +1,315 @@
+  M a y   2 7 ,   2 0 1 7 
+B a n k   o f   J a p a n 
+ 
+ Theory on Financial Markets and Central Banks 
+Speech at the 2017 Spring Annual Meeting of the Japan 
+Society of Monetary Economics 
+ Haruhiko Kuroda 
+Governor of the Bank of Japan 
+(English translation based on the Japanese original) 
+  Introduction 
+It is a great honor to be invited to the 2017 Spring Annual Meeting of the Japan Society of 
+Monetary Economics. 
+ Today  I  would  like  to  speak  about  financial  markets.  What  immediately  comes  to  mind 
+when hearing the term financial markets are stock prices and foreign exchange rates, which 
+are  discussed  on  a  daily  basis  in  newspaper  articles  and  news  reports,  and  firms  and 
+individual investors are very familiar with the markets. At the same time, however, it can be 
+said  that  once  the  discussion  touches  on  the  specific  structures  of  transactions  and  pricing 
+mechanisms,  as  well  as  interest  rates,  securities,  and  derivatives  transactions,  topics  on 
+financial markets turn out to be increasingly technical and require more expertise. 
+ Over  the  years,  I  have  been  involved  with  financial  markets  in  various  positions.  At  the 
+Ministry  of  Finance,  I  had  daily  contact  with  the  foreign  exchange  markets  as  Japan's 
+foreign  exchange  authority.  At  the  Asian  Development  Bank  (ADB),  it  raised  funds 
+necessary for development finance by issuing bonds in global financial markets. Currently 
+at  the  Bank  of  Japan,  I  am  deeply  involved  with  financial  markets  as  the  Bank  conducts 
+monetary  policy  with  a  mission  of  ensuring  price  stability.  Specifically,  the  Bank  decides 
+the  guideline  for  market  operations  at  Monetary  Policy  Meetings,  which  are  held  eight 
+times  a  year,  taking  account  of  developments  in  economic  activity  and  prices  as  well  as 
+financial  conditions,  with  a  view  to  achieving  price  stability.  Based  on  this  guideline,  the 
+Bank  conducts  daily  market  operations,  such  as  purchases  of  financial  assets  including 
+Japanese  government  bonds  (JGBs)  in  the  financial  market.  Apart  from  that,  the  Bank  is 
+involved  in  many  facets  of  financial  markets,  including  enhancing  market  infrastructures, 
+collecting and releasing market-related data, and operating settlement infrastructure. 
+ Through  those  experiences,  I  have  always  felt  that  financial  markets  are  a  place  where 
+theory and reality interact. For example, the pricing mechanisms of stock prices and foreign 
+exchange rates are relatively suited to theoretical analyses, reflecting the characteristics that 
+a great deal of data are continuously produced in financial markets. In fact, all of you here 
+today  and  those  in  academia  have  brought  about  developments  in  theory  on  financial 
+markets  and  have  facilitated  a  better  understanding  of  the  markets.  On  the  other  hand, 
+ 1 
+market prices are determined through the activities of a broad variety of participants such as 
+those  with  financing  needs,  fund  managers,  and  policy  makers.  There  are  cases  where 
+financial markets move in line with theory, but it is not uncommon that they do not. Filling 
+in  the  divergence  between  theory  and  reality  might  lead  to  the  formation  of  new  theory 
+which enables market participants' behavior to be explained rationally. 
+ In  this  way,  financial  markets  have  continued  to  develop  with  theory  and  practice 
+stimulating each other. Today, bearing this point in mind, I will attempt to provide a bridge 
+between theory and practice, in discussing theory on financial markets and touching on the 
+reality of the markets from the perspective of central banks. 
+ I. Traditional Theory on Financial Markets 
+I would like to commence by talking about traditional theory on financial markets. Prices in 
+financial  markets  are  determined  as  a  result  of  a  diverse  range  of  participants  trading 
+various  assets  and  instruments.  Two  fundamental  theories  are  widely  shared  regarding 
+valuation and pricing in financial markets. 
+ Intrinsic Values 
+First is that prices are formed in the markets based on the intrinsic economic value of assets 
+and  instruments  that  are  traded,  so  they  are  theoretically  explicable.  For  asset  pricing,  the 
+present  value  of  expected  future  cash  flow  of  financial  assets  is  believed  to  be  a  starting 
+point.  For  example,  in  the  stock  markets,  it  is  typically  considered  that  "share  prices  are 
+determined  by  the  present  value  of  the  firms'  future  profits."  Long-term  interest  rates 
+formed in the bond markets are, in principle, considered to be "averages of expected future 
+short-term rates," and theory has been formed where term premiums are taken into account. 
+It  is  believed  that  in  the  foreign  exchange  markets,  the  so-called  purchasing  power  parity, 
+with  which  "fluctuations  in  foreign  exchange  rates  in  the  long  term  reflect  differences  in 
+inflation rates at home and abroad," provides a reference value. 
+ Nevertheless,  actual  financial  markets  are  affected  by  many  other  factors;  therefore, 
+short-term market developments cannot be completely explained based on the theory I have 
+just  described,  and  even  taking  into  account  developments  during  a  longer  period,  the 
+ 2 
+degree  of  applicability  and  explanatory  power  differ.  That  being  said,  I  think  that  the 
+significance  of  the  theory  based  on  intrinsic  economic  values  is  recognized  as  being  the 
+foundation or the starting point of valuations and analyses of market prices. Furthermore, if 
+divergences  between  theoretical  value  and  market  prices  continue  over  a  long  period, 
+analyses on the cause of those divergences are thought to have important meaning  in both 
+theory and practice. 
+ Efficient Markets 
+The second understanding is that prices formed in fair and transparent financial markets do 
+not  leave  opportunities  for  arbitrage  between instruments  and  between  markets.  If  a  clear 
+arbitrage  opportunity  is  left  unexploited,  someone  is  most  likely  to  take  advantage  of  that 
+opportunity  to  gain  profits,  thereby  bringing  about  a  price  correction.  Assuming  the 
+presence  of  private  economic  agents  in  pursuit  of  profits,  this  understanding  is  quite 
+reasonable. 
+ Of  course,  this  understanding  is  based  on  the  following  strong  premises:  (1)  investors 
+behave rationally, and (2) information that would affect prices becomes available instantly 
+and  there  is  no  information  disparity  in  the  markets.  Therefore,  it  is  not  difficult  to  find 
+cases where this understanding is not applicable in reality. However, I feel that this theory is 
+significant in that it provides the basic perspectives for the functioning of financial markets. 
+Supposing that an arbitrage opportunity is apparently present, the theory would be the basis 
+for discussions on issues such as why that occurred, whether the market is just taking time 
+to  adapt  and  adjust  and  an  autonomous  adjustment  can  be  expected,  and  whether  the 
+situation should be artificially corrected by implementing some sort of measures. 
+ II. Mutual Feedback with the Actual Markets 
+The significance of traditional theory on financial markets is generally accepted not only in 
+academia, but also among many market participants.  However, as  I have mentioned, there 
+are  quite  a  few  phenomena  in  actual  financial  markets  for  which  such  theory  might  not 
+provide a satisfactory explanation. It is believed these difficulties are attributable to various 
+factors; three of which I will explain now. 
+  3 
+Difficulties in Utilization of Market Data 
+Practical hurdles are one of the factors that make it difficult for traditional theory to be fully 
+adopted. In relation to asset prices, there often are constraints in utilizing data  in practice. 
+Specifically, expected inflation rates and term premiums included in long-term interest rates 
+are  not  directly  observable,  even  though  they  are  widely  accepted  concepts.  Estimated 
+figures should be seen with a considerable margin as there is no consensus on modeling and 
+formulation. 
+ In addition, there are cases  where data availability is a high hurdle in practice. Apart from 
+data  that  are  not  observable,  which  I  have  just  described,  there  are  those  that  are  not 
+collected,  those  that  are  regarded  as  private  information  and  are  not  for  general  use,  and 
+those that are hidden and therefore their usefulness is not known. 
+ On  this  point,  it  should  be  noted  that,  against  the  background  of  the  evolution  of 
+information processing technology such as natural language processing, image recognition, 
+and  machine  learning,  as  well  as  improvements  in  the  performance  of  computers,  a  trend 
+towards  utilizing  types  of  information  that  was  not  expected  and  vast  data  for  investment 
+decisions and market analyses has started to become widespread.1  It is expected that in the 
+future  more  information  will  become  available  for  utilization  and  will  facilitate 
+enhancements  in  market  efficiency,  accompanied  by  initiatives  for  ensuing  privacy  and 
+information security. 
+ Anomalies in the Markets 
+It has been well known that, as long as it can be assumed there are efficient markets that do 
+not  leave  arbitrage  opportunities  unexploited  and  there  are  rational  investors,  phenomena 
+referred  to  as  anomalies  that  are  not  rationally  explainable  can  be  observed  in  financial 
+markets.  Some  of  them  are  market  development  matters:  the  calendar  effect  that  finds 
+regularity in market developments according  to the specific month or the day of the week, 
+and  the  small-firm  effect  that  indicates  a  tendency  of  difference  in  expected  returns  by 
+market value. There are also other anomalies that are to a certain extent understandable as 
+                                                   
+1  Haruhiko Kuroda (2017), "AI and the Frontiers of Finance," Remarks at the Conference on AI and 
+Financial Services/Financial Markets, Bank of Japan. 
+ 4 
+investor  psychology,  such  as  "investors'  expectations  tend  to  be  biased  by  their  past 
+experiences"  and  "investors'  risk  appetite  could  vary  significantly  depending  on  their 
+performances  up  to  that  point."  There  are  some  fields  where  instead  of  being  simply 
+regarded  as  irrational  phenomena,  an  interdisciplinary  approach  using,  for  example, 
+psychology, has led to the creation of new theory, such as behavioral economics. 
+ Changes in Market Structure 
+Apart  from  daily  price  movements  in  the  markets,  how  to  identify  structural  changes 
+including  market  infrastructures  and  to  incorporate  them  into  analyses  has  long  been  an 
+issue.  On  this  point,  from  the  perspective  of  a  practitioner,  I  feel  that  there  are  fields  in 
+which,  even  with  an  evident  structural  change,  it  is  difficult  to  receive  support  from  a 
+systematic  theoretical  approach,  in  part  due  to  the  high  level  of  expertise  required  to 
+correctly recognize the relevant facts. 
+ For  example,  as  trading  through  electronic  platforms  has  become  mainstream,  along  with 
+the  significant  decrease  in  trading  through  human  brokers  such  as  floor  and  telephone 
+trading,  the  time  required  for  the  execution  of  each  market  transaction  has  shortened 
+dramatically. Under these circumstances, the execution of transactions based on  algorithms 
+has  become  widespread  and  the  weight  of  high-frequency  trading  has  been  increasing  in 
+some  markets.  On  the  other  hand,  some  institutional  investors  such  as  sovereign  wealth 
+funds  and  pension  funds,  in  addition to traditional  financial  intermediaries and  investment 
+trusts, have increased their presence as market participants; as a result, there is a possibility 
+that investment styles have become diversified and the time span for returns has lengthened. 
+ Although there is no question that these structural changes are exerting some sort of effects 
+on  pricing  mechanisms  in  the  markets,  it  is  not  easy  to  gain  a  quantitative  grasp  of  the 
+degree of those effects, even if it is possible to give a qualitative explanation. Furthermore, 
+even if the existence of those effects is recognized,  there are often diverging  views on the 
+degree of their significance including regarding assessments of their sustainability. Be that 
+as it may, such a viewpoint on changes in market structure often serves as important clues 
+for  analyzing  phenomena  that are  difficult  to  explain,  such  as  when  prices  follow  unusual 
+patterns. Moreover, from the perspective of policy makers, it is considered highly important 
+ 5 
+to foster a better understanding of changes in market structure not only for market analyses 
+in  normal  times,  but  also  for  assessing  the  situation  in  times  of  crises  and  considering 
+countermeasures. 
+ III. Recent Characteristic Events 
+I have described three factors behind the clear division between theory on financial markets 
+and reality. Next, I will give two examples related to that gap between theory and reality. 
+ Flash Events 
+First  are  so-called  flash  events,  or  sharp  fluctuations  in  prices  in  major  markets  that 
+occurred in a short period of time in recent years. A  few of the widely known flash events 
+that  have  been  observed are  the  flash  events  in  the  U.S.  stock  markets  in  May  2010,2  the 
+U.S.  Treasury  market  in  October  2014,3  and  the  British  pound  sterling  foreign  exchange 
+market  in  October  2016.4  These  cases  share  the  characteristics  where  prices  or  yields 
+plunged  and  then  recovered  relatively  rapidly  in  a  very  short  period  of  time.  All  of  those 
+cases  attracted  significant  interest,  mainly  as  they  occurred  in  major  markets  that  are 
+thought to have considerable liquidity. Although the full breadth of the events with regard to 
+what actually took place has not been uncovered, analyses by staff of related authorities and 
+other organizations suggest that a confluence of factors is likely to explain the events, rather 
+than  any  single  cause.  Specifically,  it  has  been  pointed  out  that  the  reduced  presence  of 
+traditional  financial  intermediaries  that  engage  in  market  making  and  the  increase  in 
+machine  trading  such  as  algorithmic  trading  and  high-frequency  trading  could  have 
+exacerbated those sharp fluctuations in the markets. 
+ Fortunately,  those  flash  events  did  not  cause  a  broad  impact  on  global  financial  markets, 
+which  would  have  led  to  disruptions  in  funding  by  firms  and  governments  and  in  asset 
+management  by  investors.  However,  if  similar  phenomena  occur  frequently  in  major 
+markets,  we  cannot  completely  deny  the  possibility  that  they  would  adversely  affect 
+                                                   
+2  U.S.  Commodity  Futures  Trading  Commission  and  U.S.  Securities  and  Exchange  Commission 
+(2010), "Findings regarding the Market Events of May 6, 2010." 
+3  U.S.  Department  of  the  Treasury,  Board  of  Governors  of  the  Federal  Reserve  System,  Federal 
+Reserve  Bank  of  New  York,  U.S.  Securities  and  Exchange  Commission,  and  U.S.  Commodity 
+Futures Trading Commission (2015), "The U.S. Treasury Market on October 15, 2014." 
+4  Bank for International Settlements (2017), "The sterling 'flash event' of 7 October 2016." 
+ 6 
+financial systems and real economies. Existing theory does not seem to provide a sufficient 
+explanation  of  how  flash  events  occur;  therefore  additional  research  based  on  broader 
+viewpoints,  including  on  detailed  market  structures  and  behavioral  patterns  of  market 
+participants, and theoretical research are awaited. 
+ Effects of Financial Regulations 
+The  second  example  is  the  effects  of  global  financial  regulatory  reforms  following  the 
+financial  crisis.  It  is  necessary  to  strengthen  financial  regulations  to  restrain  excess  risk 
+taking by financial institutions and investors and the accumulation of financial imbalances, 
+both  of  which  were  causes  of  the  financial  crisis.  However,  there  is  a  possibility  that, 
+depending  on  the  content  of  the  regulations  and  the  implementation  processes,  market 
+making and various arbitrage activity by financial institutions would be affected more than 
+expected. 
+ Recently,  the  introduction  of  regulatory  reform  aiming  to  enhance  the  soundness  of  U.S. 
+money market funds (MMFs) brought about a large-scale shift of funds to funds that limit 
+their investments to sovereign assets such as government debts. As a result, it was pointed 
+out  that  the  supply  of  U.S.  dollars  to  overseas  financial  institutions  --  in  which  MMFs 
+previously  played  an  active  role  --  has  been  constrained,  thereby  exerting  effects  on  U.S. 
+dollar funding costs. Since the total volume of funds before and after the regulatory reform 
+has not changed, it is possible to claim that such costs will return to their previous levels at 
+some  point,  as  long  as  arbitrage  functions  and  U.S.  dollars  can  be  supplied  through  other 
+channels.  Indeed,  some  new  suppliers  of  U.S.  dollars  have  started  to  emerge.  However,  it 
+seems  that  it  would  take  a  considerable  amount  of  time  for  both  market  participants 
+supplying  and  funding  U.S.  dollars  to  adapt  to  the  new  environment  and  change  their 
+behavior. 
+ Similarly, in the U.S. money markets, it has been reported that, in view of stronger balance 
+sheet constraints stemming from regulations on leverage ratios and other factors, U.S. banks 
+have  become  less  active  in  interest  rate  arbitrage.  In  this  situation,  the  interest  rate  on 
+reserves at the Federal Reserve -- which was expected to function as the floor on the federal 
+funds rate upon its introduction -- has changed in nature and now virtually functions as the 
+ 7 
+ceiling rate, reflecting the money market structures in the United States. Taking into account 
+the actual role of the interest rate on reserves, the Federal Reserve has proceeded with the 
+normalization  of  monetary  policy by  providing  a  new  means  of  absorbing  funds,  namely 
+reverse repos, which forms a floor on the federal funds rate. Here, new practices have been 
+created  to  raise  interest  rates  with  abundant  liquidity  in  the  financial  system.  This  is  an 
+example where regulatory and structural factors exerted significant influence on the interest 
+rate formation mechanism in the market and on central bank market operations. 
+ IV. Relationship between Central Banks and the Markets 
+A. Maintaining and Improving Market Functioning 
+Mutual feedback between theory on financial markets and reality -- which I have elaborated 
+on -- holds an important meaning for central banks. 
+ With  regard  to  the  more  practical  aspects  of  business  at  central  banks,  monetary  policy 
+produces effects as central banks conduct operations through which they influence prices in 
+financial  markets,  and  as  this  spreads  across  the  markets  through  arbitrage.  Therefore, 
+maintaining and improving market functioning is a very important issue for central banks. 
+ In  relation  to  this  point,  since  September  2016,  the  Bank  has  implemented  yield  curve 
+control,  in  which  it  sets  the  short-term  policy  interest  rate  at  minus  0.1  percent,  and 
+purchases  JGBs  so  that  10-year  JGB  yields  remain  at  around  0  percent.  Under  this 
+framework, it can  be  described  that  market  mechanisms  allow the  entire  yield  curve to  be 
+consistent  with  the  levels  of  short-  and  long-term  interest  rates  indicated  as  the  operating 
+targets  in  the  guideline  for  market  operations.  Furthermore,  the  Bank's  Securities  Lending 
+Facility -- through which it temporarily provides  Japanese government securities (JGSs) it 
+holds  depending  on  market  conditions  --  is  conducted  from  the  perspective  of  supporting 
+that mechanism in the JGS markets. 
+ Aiming to ensure stability and high functionality in financial markets, the Bank has actively 
+supported  initiatives  such  as  (1)  the  development  of  market  conventions  including  in  the 
+money markets and foreign exchange markets, (2) shortening of the  JGB settlement cycle, 
+and (3) the development of a market level business continuity plan. Moreover, the Bank is 
+ 8 
+committed  to  enhancing  market  infrastructures  in  a  broader  sense;  for  example,  it  has 
+increased  the  availability  of  valuable  data  through  collecting  market  transaction  rates  and 
+releasing them. Although I will not go into the details today, the Bank  administers a robust 
+and convenient settlement system and ensures its stable operation with the same objectives. 
+The  Bank  will  continue  to  make  those  steady  efforts  towards  maintaining  and  improving 
+market functioning. 
+ B. Unconventional Monetary Policy and Financial Markets 
+The main mechanism of monetary policy conducted by central banks has traditionally been 
+to influence short-term interest rates through their operations including purchases and sales 
+of  short-term  government  bonds,  thereby  exerting  effects  on  long-term  interest  rates  and 
+prices  of  other  financial  assets.  Nevertheless,  following  the  global  financial  crisis,  central 
+banks faced with the "zero lower bound" on nominal short-term interest rates implemented 
+policies directly influencing long-term interest rates and various risk premiums under which 
+they  conducted  purchases  of  long-term  government  bonds  and  riskier  assets  such  as  CPs 
+and corporate bonds, in order to respond to the significant deterioration of their economies. 
+This is referred to as "unconventional monetary policy." As a result, the presence of central 
+banks  in  the  markets  has  become  much  more  significant  and  their  involvement  with 
+financial markets has changed. 
+ That  "unconventional  monetary  policy"  has  been  highly  effective  in  ensuring  financial 
+market stability and supporting economic activity. At the same time, however, it has given 
+rise to a new issue in analyses of "market prices" formed by incorporating the actions and 
+expectations  of  various  economic  bodies,  that  is,  interactions  with  "the  effects  of  central 
+banks' policies." Further research on this issue is necessary. Moreover, there is a possibility 
+that  developments  in  financial  markets  would  have  effects  on  the  sentiment  of  consumers 
+and businesses as well as on their spending activity, thereby amplifying fluctuations in the 
+real economy. Thus, it is important for macro policy makers to gain an appropriate grasp of 
+the interactions between financial markets and the real economy. 
+ C. Market Intelligence 
+In this manner, central banks conduct analyses of information produced in financial markets 
+ 9 
+that  are  the  basis  for  their  policy  making  and  market  operations.  However,  it  is  not  at  all 
+easy to understand the causes and background of complex developments in the markets. To 
+this  end,  it  is  necessary  to  carry  out  multidimensional  analyses  by,  for  example,  utilizing 
+traditional theories on the intrinsic value of financial assets and the markets' efficiency, as 
+well  as  findings  obtained  from  new  research  such  as  that  on  pricing  mechanisms  in  the 
+markets  under  "unconventional  monetary  policy,"  and  taking  into  account  the  views  of 
+market  participants  that  actually  trade.  Furthermore,  it  is  considered  necessary  to 
+continuously deepen our understanding of market structures such as in terms of systems and 
+regulations, in addition to investors' characteristics and their trading styles, and sharpen our 
+awareness of issues on their potential effects. 
+ Such  collection  of  information  and  analyses  on  market  developments  are  referred  to  as 
+"market intelligence." In this process, exchanging opinions with a diverse range of financial 
+market participants is indispensable. It is certainly possible to enhance our understanding of 
+the essence of financial markets by obtaining the views of as many market participants as 
+possible.  As  a  part  of  those  efforts,  the  Bank's  staff  are  in  contact  with  a  broad  range  of 
+market  participants  on  various  levels,  and  conduct  surveys  targeting  participants  in  the 
+money markets and bond markets. 
+ Concluding Remarks 
+As  I  have  explained,  for  central  banks,  financial  markets  are  not  only  a  place  to  conduct 
+market  operations  in  implementing  monetary  policy,  but  also  a  place  to  obtain  valuable 
+information. In addition, central banks have a significant interest in the sound functioning of 
+the markets, as a condition for the effects of their monetary policies to spread smoothly. 
+ In  this  context,  as  the  Bank  has  significantly  benefited  from  developments  in  theory  on 
+financial  markets,  it  has  made  its  own  efforts  in  theoretical  research,  utilizing  findings 
+obtained  through  practices  including  the  conduct  of  monetary  policy,  daily  market 
+operations, and analyses. From this unique position, the Bank will continue playing a role of 
+serving as a bridge between theory and practice. 
+Today's  meeting  is  a  great  opportunity  for  discussions  among  numerous  experts  from 
+academia and practitioners from financial markets.  I would like to close by expressing my 
+ 10 
+sincere hope that this meeting will generate fruitful discussions, and that further progress in 
+research on financial markets will foster  a better understanding of the markets and greatly 
+contribute to the development of the economic society. 
+ Thank you for your attention. 
+ 11 

@@ -1,0 +1,214 @@
+Nigel Jenkinson: Developing a framework for stress testing of financial 
+stability risks  
+Comments by Mr Nigel Jenkinson, Executive Director, Financial Stability, Bank of England, 
+at the ECB High Level Conference on “Simulating Financial Instability”, Frankfurt am Main, 
+12-13 July 2007. 
+I  am  very  grateful  to  Adrian  Penalver,  Prasanna  Gai,  Geoff  Coppins  and  Piergiorgio  Alessandri  for  input  and 
+helpful comments. 
+ 1  Developing  a  rigorous,  coherent  and  robust  framework  to  analyse  the  resilience  of  the 
+financial  system  to  withstand  strain  presents  many  well-known  and  formidable  challenges. 
+Financial system behaviour is very difficult to model, particularly under stressed conditions 
+when strategic interactions between participants and risks of spillover and contagion come to 
+the fore. And, thankfully, episodes of stress are rare, so history offers only limited assistance. 
+2  We  are  currently  witnessing  a  period  of  major  change  in  financial  markets.  The  global 
+financial  system  is  evolving  at  a  tremendous  pace,  fuelled  by  rapid  innovation  and 
+crossborder  integration,  and  supported  by  lower  macroeconomic  volatility.  Innovation  and 
+integration  may  have  a  profound  impact  on  the  behaviour  of  the  financial  system  under 
+pressure.  In  particular,  risks  may  have  been  dispersed  more  broadly  through  credit  risk 
+transfer and increased participation in capital markets. The resulting reduction in credit risk 
+concentration  may  have  strengthened  the  robustness  of  the  financial  system  to  withstand 
+small to medium shocks. But equally, greater market integration has strengthened the ties 
+between  financial  firms  within  and  across  borders,  both  through  direct  exposures  and 
+through  common  exposures  to  asset  markets.  If  a  shock  is  sufficiently  large,  the  financial 
+network may consequently act as a conduit for transmitting rather than absorbing risk. So the 
+flip side of greater integration is that it may have lowered the frequency but increased the 
+magnitude of potential financial crises.1
+3 Improving the toolkit for financial stability analysis is consequently a very high priority for 
+public authorities and for major financial institutions. Enhancing the capability to model the 
+financial system under stress is the key challenge. 
+4  In  recent  years,  many  central  banks  and  supervisory  agencies,  charged  with  the  public 
+policy goal of supporting the maintenance of financial stability, have sought to develop a so-
+called “top down” or “macro” stress-testing capability. Utilising information on balance sheet 
+exposures, the authorities draw on macroeconomic and financial models to try to assess the 
+impact of adverse shocks on the financial system. Several inter-related high level objectives 
+can perhaps be set for an “ideal” stress test: 
+• 
+• 
+To assess the vulnerability of the financial system to extreme but plausible shocks 
+To  improve  the  understanding  of  the  transmission  of  shocks  through  the  financial 
+system (and, in a worst case, the potential propagation of financial crises) 
+To identify “weak spots” in the financial system, to guide risk reduction priorities and 
+crisis management planning 
+                                                  
+1   Systemic risk in modern financial systems: analytics and policy design by Prasanna Gai, Nigel Jenkinson and 
+Sujit  Kapadia,  Journal  of  Risk  Finance  Vol8,  No2,  2007.  Financial  System  Risks  in  the  UK  –  Issues  and 
+Challenges (John Gieve) (July 2006) www.bankofengland.co.uk/publications/speeches/2006/speech280.pdf . 
+BIS Review 81/2007 
+ 1
+To  deliver  these  objectives  effectively,  the  aim  is  also  to  use  a  rigorous  and  consistent 
+analytical  framework  which  integrates  behavioural  responses,  interactions  and  feedback 
+effects, to ensure that the system-wide implications are fully captured 
+5 So where is current practice against that ideal? A typical or traditional “macro” stress test 
+has the stylised form set out in Chart A. The first stage is to put together a coherent stress 
+scenario,  typically  using  a  macro-econometric  model  (which  may  include  some  assumed 
+endogenous policy response). By mapping important propagation channels, an estimate of 
+likely financial sector credit losses is produced; for example, by modelling the impact of the 
+macro  stress  on  corporate  and  household  balance  sheets  and  gauging  the  consequent 
+impact  on  the  probability  of  default  and  likely  recovery  rate  on  banks’  credit  exposures. 
+Market  losses  are  estimated  by  judging  the  impact  of  the  macro  stress  on  different  asset 
+classes. Total bank losses are calculated by aggregating credit and market losses, perhaps 
+including an additional allowance for the impact of the stress scenario on net interest income 
+and on funding costs. Expected losses are then compared to the buffers of profits and capital 
+(perhaps  with  an  adjustment  for  whether  the  scenario  is  likely  to  be  “slow  burn”  wherein 
+potential  future  profits  might  absorb  some  of  the  loss,  or  “fast  burn”  where  pressure  falls 
+more  immediately  on  capital)  to  guide  the  judgement  on  the  overall  impact  of  the  stress 
+scenario on the banking system (and/or on the financial system more broadly). 
+ 
+6 We have utilised this broad approach within the Bank of England to assess the risks to the 
+major  UK  banks  from  sources  of  potential  major  vulnerability  –  both  individually  and  in 
+combination.  Results  have  been  published  in  recent  Financial  Stability  Reports  (see  Chart 
+B).2
+                                                 
+2   Bank  of  England  Financial  Stability  Report  June  2006  and  April  2007.  The  description  above  applies 
+particularly for the corporate, household and global imbalances stress. See A new approach to assessing risks 
+to financial stability  by Andrew  Haldane, Simon Hall and  Silvia Pezzini,  Bank  of England Financial Stability 
+Paper No 2 April 2007 for a fuller discussion. 
+2 
+ BIS Review 81/2007
+ 
+7  This  approach  has  a  number  of  strengths.  First,  it  draws  on  a  fully  consistent 
+macroeconomic  scenario  and  on  statistical  estimates  of  the  impact  of  adverse  economic 
+conditions on credit and market exposures. Second, building formal “maps” of transmission 
+of economic shocks onto the financial system facilitates greater analytical consistency and 
+provides enhanced clarity on which channels are important. This aids the understanding of 
+risks. It also highlights which channels are explicitly included in the stress tests and which 
+are not, and are consequently priorities for future work. Third, sensitivity analysis can easily 
+be carried out to assess the impact of altering behavioural assumptions – for example, what 
+would happen if write-off rates on corporate exposures were higher than expected? Fourth, 
+the results can be compared to “bottom-up” stress tests calculated by individual firms, which 
+have  developed  rapidly  in  recent  years,  but  which  may  be  less  focussed  on  capturing 
+macroeconomic and financial sector feedbacks. 
+8 The traditional approach to stress testing, nonetheless, suffers from some major limitations. 
+Most  strikingly,  the  current  treatment  of  key  financial  system  interactions  and  feedback 
+effects is often rudimentary. Given that such effects are crucial in assessing the vulnerability 
+to  contagion  and  system-wide  stress,  that  is  a  significant  drawback.  Take  the  illustrative 
+severe  stress  scenarios  published  in  the  Bank  of  England  Financial  Stability  Report  and 
+shown above in Chart B as a guide. These scenarios are constructed from risk transmission 
+maps for each scenario based on the stylised model in Chart C. In practice, however, there 
+are  important  gaps,  as  can  be  seen  from  Table  1,  where  the  channels  which  have  been 
+explicitly quantified in the stress scenarios are shown. In particular, the potential amplification 
+of  the  shock  within  the  financial  system  through  channels  such  as  an  endogenous  fall  in 
+market  liquidity  as  firms  simultaneously  seek  to  lower  risk  exposures;  dynamic  hedging 
+behaviour  (particularly  of  “unbalanced”  options  positions)3;  and  restrictions  on  lending  (a 
+                                                 
+3   Bank of England Financial Stability Report July 2006 Box 5, Page 33. 
+BIS Review 81/2007 
+ 3
+“credit  crunch”  or  “financial  accelerator”  effect),  are  not  yet  built  in  empirically.  And  the 
+framework does not yet incorporate the potential contagion and spillover effects which would 
+result from severe strain at, or the default of, a major bank or financial institution. 
+ 4 
+ BIS Review 81/2007
+ 9  At  present,  the  results  from  the  top-down  stress  tests consequently  tend  to  be  relatively 
+“linear”; that is an “extreme” scenario is a “scaled-up” version of a more “moderate” scenario. 
+As financial instability is by nature inherently non-linear, given the central focus on default, 
+contagion  and  spillover,  this  is  an  important  failing.  Moreover,  the  stress-tests  typically 
+concentrate  on  the  impact  of  particular  adverse  scenarios,  which  individually  have  a  near-
+zero probability of occurring in practice. There is generally no attempt to derive a distribution 
+of possible outcomes. 
+10  Addressing  these  limitations  is  an  important  priority  for  financial  stability  authorities,  so 
+that “practical” stress-testing meets the “ideal” objectives set out above. Within the Bank of 
+England, we are building a suite of models that allow the transmission channels for potential 
+financial system stress to be mapped out accurately and comprehensively, including in the 
+form of loss distributions. The outputs can also be compared to measures of financial system 
+buffers, such as profits, to provide summary statistics of systemic vulnerability.4 Others too 
+have been pursuing a similar course. For example, the Austrian central bank has developed 
+a Systemic Risk Monitor to characterise the interaction between shocks and the structure of 
+the banking system and inform the internal policy debate.5
+11 A schematic for the planned suite of models is set out in Chart D and will be described 
+more fully in future papers. The left-hand side of the diagram emphasises the transmission of 
+shocks to the system through conventional channels of credit and market risk. On the right-
+hand  side,  asset-pricing  models  can  be  used  to  facilitate  inferences  about  banks’  balance 
+sheet  positions  and  vulnerability  to  default  from  market  price  data  (such  as  equity  prices). 
+Given  the  limitations  of  balance  sheet  data  and  the  difficulty  of  identifying  new  types  of 
+                                                 
+4   A new approach to assessing risks to financial stability by Andrew Haldane, Simon Hall and Silvia Pezzini, 
+Bank of England Financial Stability Paper No 2 April 2007 for a fuller discussion. 
+5   Oesterreichische  Nationalbank  (2006),  "Systemic  Risk  Monitor:  A  Model  for  Systemic  Risk  Analysis  and 
+Stress  Testing  of  Banking  Systems",  Financial  Stability  Report  11,  by  Michael  Boss,  Gerald  Krenn,  Claus 
+Puhr, Martin Summer. 
+BIS Review 81/2007 
+ 5
+assets  and  off-balance  sheet  exposures,  the  asset  price  approach  can  serve  as  a  useful 
+cross-check to the outputs of the more structural model. 
+ 
+12  The  distinguishing  feature  of  the  model  suite  is  the  emphasis  placed  on  the  feedback 
+effects  induced  by  market  liquidity  risk  and  funding  liquidity  risk  and  their  interactions  in  a 
+network  context.  In  addition,  the  potential  feedback  to  the  macro  economy  from  the 
+behavioural responses of banks individually and collectively to an impairment of their balance 
+sheet position (eg, through a “financial accelerator” effect) will be incorporated explicitly. The 
+development  of  the  suite  is  at  an  early  stage  but  preliminary  results  from  prototype  work 
+seem to promise some useful insights. Chart E shows an illustrative distribution of future UK 
+bank system assets from the prototype model (the right-hand panel expands the lower tail of 
+the distribution). Notice that the distribution is explicitly bi-modal – as one might expect of a 
+system  where  losses  on  interbank  exposures,  and  pressures  on  asset  prices  and  market 
+liquidity from failing firms, may be transmitted through the financial network and may trigger a 
+cascade of defaults. Our suspicion is that the firesale of assets by institutions facing default 
+is the source of much of the action here, but more research is needed to be properly certain 
+and before we can ascribe quantitative meaning to the distribution. 
+6 
+ BIS Review 81/2007
+ 
+13 Chart F illustrates how such distributions might also be tracked over time and compared 
+in  successive  Financial Stability  Reports.  When  operational,  such  distributions  should  help 
+guide judgements on how overall financial system vulnerability is changing. But the approach 
+should also provide considerable additional information on pressure points within the system 
+and on the channels of transmission and potential contagion. 
+ 
+14 I believe that this broad approach offers an important step forwards in the development of 
+an  analytically  and  empirically  robust  framework  for  financial  stability  work.  Of  course  it  is 
+analytically hugely challenging – modelling non-linear tail events with endogenous strategic 
+interactions  is  always  going  to  be  tough!  The  results  will  inevitably  be  subject  to  major 
+uncertainty.  But  the  approach  does  start  to  provide  a  consistent  and  coherent  framework 
+which should substantially improve the value of top-down stress tests and of risk assessment 
+work. 
+15  A  particular  “operational”  aim  is  to  use  the  results  to  help  improve  the  focus  of  risk 
+reduction  work  and  crisis  management  planning,  for  example  through  the  identification  of 
+BIS Review 81/2007 
+ 7
+“weak  points”  in  the  financial  system  and  through  improved  assessment  of  the  impact  of 
+policy interventions. An important element of risk reduction work is to influence the behaviour 
+of financial firms. “Bottom-up” or firm-level stress-testing practices have developed rapidly in 
+recent years. But one challenge is that, as for the authorities, it is hard for individual firms to 
+gauge the likely “systemic impact” of particular shocks, which takes into account macro and 
+financial system interactions and feedback effects. Indeed, in practice, banks often model the 
+effect  of  even  severe  macroeconomic  shocks  as  if  they  were  occurring  to  the  bank  in 
+isolation. They thus may assume that they have freedom to readjust their balance sheets and 
+lending practices in the event of an adverse shock, without considering whether other banks 
+may  be  trying  to  do  the  same  thing  and  the  effect  that  these  behavioural  responses  may 
+have  cumulatively  on  market  liquidity  and  on  the  economy  as  a  whole.  An  important 
+implication is that many firm-level stress tests may consequently underestimate the possible 
+impact  of  adverse  shocks.  As  I  have  highlighted,  some  of  the  potentially  missing  effects 
+should be captured in the proposed suite of models. But the proposed enhanced “top-down” 
+approach outlined above may still benefit from additional insights gained from closer dialogue 
+and  interaction  with  major  financial  firms  on  their  likely  reaction  to  episodes  of  stress.  I 
+consequently think there is merit in more formal comparison of “top-down” and “bottom-up” 
+stress  testing  exercises,  and  of  seeking  ways  of  integrating  the  two  into  more  formal 
+“systemic”  stress  tests,  where  the  authorities  present  an  initial  scenario  to  firms  and  then 
+modify the scenario in the light of feedback on the potential response by firms in an iterative 
+loop. This approach has recently been pioneered by the Dutch central bank.6 It potentially 
+offers a useful way of improving knowledge of key system-wide interactions, and thus could 
+provide a valuable supplement both to improved “top-down” approaches and to “bottom-up” 
+stress  tests  which  are  naturally  targeted  more  closely  at  the  major  risks  facing  individual 
+firms given their balance sheets and positions. 
+16 To conclude, there is a major programme of inherently difficult and challenging modelling 
+work  ahead  for  the  public  authorities  and  for  financial  firms.  But  this  is  very  important. 
+Development  of  a  more  coherent  and  consistent  framework  for  the  analysis  of  financial 
+stability is a major prize. Ultimately this should improve the understanding and pricing of risk 
+and  support  better  targeting  of  public  policy,  focused  more  closely  on  containing  systemic 
+risk and on the maintenance of the public good of systemic financial stability. 
+                                                 
+6   De  Nederlandsche  Bank  (2006),  Financial  Stability:  is  the  Dutch  financial  sector  stress-resistant?  Quarterly 
+Bulletin, December. 
+8 
+ BIS Review 81/2007

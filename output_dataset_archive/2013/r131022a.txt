@@ -1,0 +1,187 @@
+Sabine Lautenschläger: The leverage ratio – a simple and comparable 
+measure? 
+Speech by Ms Sabine Lautenschläger Deputy President of the Deutsche Bundesbank, at the 
+evening  reception  of  the  Deutsche  Bundesbank/SAFE  Conference  “Supervising  banks  in 
+complex financial systems”, Frankfurt am Main, 21 October 2013. 
+ 1. 
+Introduction 
+Ladies and gentlemen, 
+I am very happy to welcome you to the Guest House at the Deutsche Bundesbank’s Central 
+Office. It’s a pleasure to have you here. 
+Although you will have noticed that our premises are located somewhat outside of the city 
+centre, it’s only a ten-minute walk to the Goethe University’s campus from here. This isn’t just 
+convenient for those of you who decided to walk from the University to the headquarters of 
+the  Deutsche  Bundesbank.  Having  a  walking  distance  between  the  Bundesbank  and  the 
+Goethe  University  also  facilitates  exchange  and  cooperation  between  the  two  institutions, 
+which  both  have  a  strong  stake  in  financial  market  and  regulation  research.  I  value  this 
+exchange very highly and I am convinced that cooperation in this field is indeed a very good 
+idea. I therefore also would like to thank the SAFE Center at the Goethe University, who has 
+organised this conference together with the Deutsche Bundesbank. 
+I would also like to extend a particularly warm welcome to all of the contributors to today’s 
+conference sessions. 
+The conference asks a very fundamental question: how can we, how should we supervise 
+banks given that the financial system is inherently complex? 
+Many books were and still will be written to examine this question comprehensively, and they 
+will  offer  different  and  sometimes  contradictory  answers;  at  least,  that  is  my  prediction.  I 
+nevertheless  want  to  share  my  fundamental  view  of  this  topic  with  you.  So,  how  can  or 
+should  supervisors  deal  with  complexity?  I  am  convinced  that  in  a  complex  world  –  first  – 
+supervisors  need  a  toolbox  with  different  instruments  to  cope  with  this  complexity,  and  
+– second – those tools will not generally be that simple. 
+As I’m sure you are aware, I am not an academic but a practitioner. And as a practitioner I’ll 
+give you a practical example to make my point. I’d like to talk about a measure you all know 
+very well: the leverage ratio. It’s not really a new concept, but it’s certainly a fashionable one. 
+It has been claimed to be a simple fallback measure for dealing with an increasingly complex 
+banking system, a kind of panacea for complexity. 
+Sometimes  one  could  even  get  the  impression  that  some  supporters  of  the  leverage  ratio 
+actually think they have found the fount of all knowledge. I don’t. I am very well aware that 
+the concept has its benefits – but it also has its limitations. And I will argue that it is certainly 
+not  wise  to  think  a  leverage  ratio  could  simultaneously  be  simple,  comprehensive  and 
+comparable. 
+The buzz about the leverage ratio 
+2. 
+Before I come to the truths and myths regarding the leverage ratio, I want to briefly remind us 
+why  capital  ratios  are  sensible  concepts  and  therefore  rightly  used  by  regulators  and 
+supervisors. 
+Bank equity is supposed to cover the first losses in the event of a default before the claims of 
+debt holders, and potentially depositors, are affected. If we take a bank’s assets as given, 
+BIS central bankers’ speeches 
+ 1 
+more equity strengthens the debt holders’ position at default and makes the bank safer. And 
+that is basically it. By the way, regulators and supervisors like safe banks. 
+There are, however, two competing concepts. Ratios following the first concept take aspects 
+of banks’ asset risk into account and divide capital by assets subject to some risk-weighting – 
+the well-known Basel II Tier 1 capital ratio is a prominent example. By contrast, the second 
+concept  is  risk-insensitive.  The  ratio  is  defined  as  capital  over  a  non-risk  based  exposure 
+measure, such as total bank assets. This is the world of the leverage ratio. 
+In the recent past, some regulators and academics have been very active in pointing out the 
+advantages of using the non-risk based leverage ratio as an element, possibly even the main 
+one, in banking regulation. Andy Haldane’s already famous example of a dog which is able to 
+catch  a  frisbee  without  knowing  the  underlying  physical  laws  points  to  the  problem  of 
+complexity in current regulatory standards. To some extent, the discussion paper released by 
+the  Basel  Committee’s  Task  Force  on  Simplicity  and  Comparability  also  emphasises  the 
+future  role  of  a  non-risk  based  leverage  ratio.  Essentially,  these  voices recognize  the  high 
+degree of complexity in today’s banking, but they doubt that this complexity can be handled 
+appropriately with complex supervisory tools. Therefore they suggest relying on more simple 
+measures such as the leverage ratio. 
+Over  the  next  few  minutes,  I  will  attempt  to  test  some  of  the  advantages  of  the  non-risk 
+based leverage ratio – particularly its alleged simplicity – against reality. I would like to go 
+through three questions with you. Firstly, is the leverage ratio really a simple, comprehensive 
+and comparable measure? Secondly, is it an advantage or a disadvantage that the leverage 
+ratio  is  risk-insensitive  by  definition?  Thirdly,  should  we  move  away  from  risk-oriented 
+banking regulation? 
+3. 
+Myths and truths regarding the leverage ratio 
+Is it a simple, comprehensive and comparable measure? 
+3.1 
+How  should  we  define  a  simple,  comprehensive  and  comparable  measure?  The  Basel 
+Committee  on  Banking  Supervision  has  been  working  on  such  a  measure  for  about  three 
+years, without a final outcome. It is apparently not as easy to agree on a sensible concept for 
+a  leverage  ratio  as  it  might  appear.  However,  proponents  of the  leverage  ratio  may  argue 
+that its obvious definition would simply be the bank’s accounting equity divided by  its total 
+assets.  Yet  a  leverage  ratio  defined  in  such  a  simple  way  has  two  major  drawbacks:  it  is 
+neither comparable nor comprehensive. 
+Why isn’t it comparable? Banks use different accounting standards. For example, it is well 
+known that the netting rules for derivatives under IFRS are much more restrictive than under 
+US GAAP putting banks reporting under IFRS at a comparative disadvantage. 
+Another example is the definition of the eligible capital: the Basel Committee has had a hard 
+time  reaching  a  consensus  on  a  consistent  and  internationally  harmonised  definition  of 
+regulatory capital, as the approach of simply using the accounting equity was found wanting 
+by the respective expert group. It is important to note that while it is often possible to plug 
+these gaps by making some adjustments, this always comes at the price of a more complex 
+and  therefore  less  transparent  leverage  ratio.  And  it  should  also  be  noted  that  accounting 
+standards are not simple per se, and their application is subject to some discretion. This is 
+another  potential  risk  for  the  comparability  of  an  accounting-based  measure.  And,  what  is 
+worse, this area is largely outside the control of banking supervisors. 
+The lack of comparability has implications: comparing the leverage ratios in the United States 
+with those in Canada, Switzerland or with the Basel III leverage ratio is like comparing apples 
+with  oranges.  This  implies  that  the  proposal  by  the  two  US  Senators  Sherrad  Brown  and 
+David  Vitter,  which  requires  minimum  ratios  of  8  to  15  per  cent,  depending  on  bank  size, 
+cannot be compared to the calibration of the Basel III leverage ratio, for example. 
+2 
+ BIS central bankers’ speeches 
+In a nutshell: a simple accounting-equity-over-assets ratio is not comparable across different 
+countries.  Yet  another  problem  with  such  a  simple  ratio  is  that  it  is  not  comprehensive.  I 
+would like to illustrate this by looking at three different aspects of the Basel III leverage ratio 
+definition: 
+The  starting  point  is  the  asset  side  of  the  balance  sheet,  or  more  precisely,  the  total 
+on-balance  sheet  assets  under  applicable  accounting  standards.  First,  knowing  that  off-
+balance  sheet  activities  may  constitute  leverage  as  well,  we  decided  to  include  positions 
+such as credit commitments, too. 
+Second, recognising that derivatives may be offset if certain accounting conditions hold, we 
+preferred to rely on regulatory netting rules instead and require banks to apply a further add-
+on for “potential future exposure”. 
+Third, the accounting value of securities financing transactions such as repo agreements is 
+replaced  by  a  more  prudent  and  internationally  comparable  measure;  it  consists  of  gross 
+assets, before netting, and an add-on for counterparty risk. Those adjustments are perfectly 
+justifiable  and  necessary  from  a  supervisor’s  perspective.  They  are  clearly  sensible.  But 
+remember that any of these adjustments will come at the expense of simplicity. In short, a 
+simple accounting-equity-over-assets ratio is not comprehensive either. 
+Given these limitations, let me reiterate that it seems impossible to define a simple leverage 
+ratio that is also comparable and comprehensive. Hence, some of its claimed advantages will 
+not materialise in reality. 
+Is it an advantage to be insensitive towards risk?  
+3.2 
+A leverage ratio is risk-insensitive by definition. Is this an advantage or a disadvantage? As 
+we  all  know,  there  is  currently  an  intensive  debate  on  how  much  we  can  trust  the  model-
+based calculation of risk-weighted assets and how we should understand the corresponding 
+measures.  Tomorrow’s  presentation  by  Sujit  Kapadia  on  “Taking  uncertainty  seriously: 
+simplicity versus complexity in financial regulation” will undoubtedly shed some more light on 
+this issue. 
+For me it is quite clear that our system of risk weightings has some shortcomings; just think 
+of the treatment of government bonds, which allegedly carry zero risk. These shortcomings, 
+however, do not prove that the leverage ratio is superior. 
+The  leverage  ratio  has  its  own  deficiencies.  It  punishes  low-risk  business  models,  and  it 
+favours high-risk businesses, encouraging banks to engage in more risk-taking, for example. 
+This  is  the  world  of  Basel  I,  which  was  relatively  indifferent  towards  credit  risk.  Let’s  not 
+forget that a decade ago, the Basel II framework was developed as a response to the Basel I 
+rules of 1988. 
+Moving away from risk-oriented banking regulation? 
+3.3 
+Introducing the leverage ratio as the primary regulatory requirement would mean taking two 
+steps back to the risk-insensitivity of Basel I and even beyond. Why is this a headache for 
+me? There is a danger that we will effectively end up with a leverage ratio only, because a 
+sufficiently  high  leverage  ratio  requirement  will  override  the  calculation  of  risk-weighted 
+assets. Why is this? 
+Let  me  draw  your  attention  to  one  result  from  the  recently  published  Basel  III  monitoring 
+exercise. Only 30% of the large, international banks analysed is more easily able to fulfil a 
+risk-based  Tier  1  capital  ratio  of  8.5%  (including  the  capital  conservation  buffer)  than  a 
+3% leverage ratio, which is the ratio the Basel Committee favours. This does not look very 
+balanced  to  me,  yet  voices  from  the  regulatory  community,  such  as  FDIC  Vice  Chairman 
+Thomas  Hoenig  or  Fed  Governor  Daniel  Tarullo,  have  recently  proposed  going  higher. 
+Daniel Tarullo is advocating a leverage ratio of 6% for globally systemically important banks 
+(G-SIBs), for example. And economists like Martin Hellwig are even more radical; they are 
+BIS central bankers’ speeches 
+ 3 
+suggesting that banks should hold minimum capital of 20% to 30%, relative to their non-risk 
+weighted assets. As a practitioner I can only marvel at such notions. Such a step requires 
+thorough consideration and careful analysis – not only regarding the definition and level of 
+capital,  but  also  regarding  the  transitional  period  –  and  I  am  therefore  far  from  being 
+convinced that we should take such a radical step. 
+What should we do instead? My answer is straightforward: we should stick to the Basel III 
+timeline. Under the Basel III timeline, banks will be required to disclose their leverage ratios 
+as of 2015, which allows both the supervisors and the investors to use it as an indicator for 
+bank  risk.  However,  the  definition  will  remain  under  review  until  2018,  when  the  decision 
+about  its  introduction  as  a  binding  “Pillar  1”  requirement  will  eventually  be  taken.  I  believe 
+that we should use this parallel run period for further analyses regarding the leverage ratio’s 
+interaction with risk-based capital requirements, regarding the undesirable incentives it may 
+potentially create, and regarding its impact on low-risk business models. 
+Conclusions 
+4. 
+To be absolutely clear: I am not against a leverage ratio. Supervisors should actually make 
+use of a leverage ratio, but they should also rely on a risk-sensitive measure. 
+A sensible concept for a leverage ratio will, however, require a certain degree of complexity. 
+You probably know that physicist Albert Einstein once stressed that we should “make things 
+as  simple  as  possible,  but  no  simpler”,  and  this  applies  very  much  to  the  design  of  a 
+consistent, comparable and comprehensive regulatory measure. 
+Ladies  and  gentlemen,  you  have  already  discussed  complexity  in  various  forms  at  this 
+conference.  I  hope  my  thoughts  about  the  leverage  ratio  will  help  to  stimulate  your 
+discussions at this joint Bundesbank/SAFE conference. 
+Thank you very much for your attention. 
+References: 
+DeAngelo,  Harry  and  Stulz,  Rene  M.  (August  2013),  “Why  High  Leverage  is  Optimal  for 
+Banks”, Fisher College of Business Working Paper No. 2013-03-08; ECGI - Finance Working 
+Paper No. 356, http://dx.doi.org/10.2139/ssrn.2254998. 
+Miles,  David,  Yang,  Jing  and  Marcheggiano,  Gilberto  (2013),  “Optimal  Bank  Capital”,  The 
+Economic Journal, Vol. 123, pp. 1–37, http://dx.doi.org/10.1111/j.1468-0297.2012.02521.x. 
+4 
+ BIS central bankers’ speeches 

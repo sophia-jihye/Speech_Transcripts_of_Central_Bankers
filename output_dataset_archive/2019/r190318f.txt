@@ -1,0 +1,419 @@
+Michael Held: SOFR and the transition from LIBOR
+Remarks  by  Mr  Michael  Held,  Executive  Vice  President  of  the  Legal  Group  of  the  Federal
+Reserve Bank of New York, at the SIFMA C&L Society February Luncheon, New York City, 26
+February 2019.
+As prepared for delivery
+ Thank you for that kind introduction, and for the opportunity to speak to you all today.  As always,
+my remarks reflect my own views and not necessarily those of the Federal Reserve Bank of New
+1
+York or the Federal Reserve System.
+When I was thinking about what to talk about today, I recalled how everybody’s favorite question
+at these kinds of events is, “What keeps you up at night?”  Of course, at the top of my own list is
+whether my daughter is going to get into a good kindergarten in Brooklyn.  But not far below that
+is reference rate reform.  Today I’ll keep the former to myself, and speak instead about reference
+rates.
+It’s  not  just  me  who’s  concerned.    The  Securities  Industry  and  Financial  Markets Association
+(SIFMA) named reference rate transition from the London Interbank Offered Rate (LIBOR) to its
+alternatives  as  one  of  two  leading  fixed-income  market  developments  for  2019.       And  the
+Financial Stability Oversight Council (FSOC) has repeatedly identified reference rate transition as
+a  financial  stability  risk.     Today  I’d  like  to  give  you  an  update  on  the  state  of  that  transition. 
+Here’s the preview: The task is immense.  But it is not insurmountable.  Much work has been
+accomplished,  and  much  work  remains.    Every  firm  that  has  exposure  to  LIBOR  needs  to
+prepare now for the risk—indeed, the likelihood—that LIBOR will cease in the near future.  I’m
+optimistic that we can get there.  But, as Tim Geithner liked to say, hope is not a plan.
+How Did We Get into This Fix?
+2
+3
+Before discussing solutions, let’s review what we’re trying to solve.
+It became apparent after the financial crisis that LIBOR was being manipulated.  Financial firms
+misstated their LIBOR submissions—often in collusion with each other—to make better returns
+on their swap books.  During the financial crisis, they also submitted artificially low rates to avoid
+signaling  financial  weakness.    Manipulation  was  possible  because  of  the  way  LIBOR
+submissions were made.  Banks were asked to estimate the rate at which they could borrow
+from other banks, not rates at which they actually borrowed.  Their quotes were hypothetical—
+guesses if you will—and were therefore particularly easy to compromise.
+At  the  same  time,  the  way  banks  fund  themselves  has  changed.    The  unsecured  London
+interbank market, which LIBOR was designed to measure, was active when LIBOR was created,
+but that just isn’t how banks finance themselves any more.  The Fed estimates that on a typical
+day  there  are  currently  around  six  to  seven  actual  market  transactions—totaling  about  $500
+million—that  could  underpin  one-  and  three-month  U.S.  dollar  LIBOR  across  all  of  the  panel
+banks.  For the six-month tenor, there are only two or three transactions per day.  At the one-year
+tenor the average is one transaction per day, and on many days there are none.    That means
+that the majority of panelist submissions each day are based solely on “expert judgment.” 
+4
+Although  actual  transactions  underlying  LIBOR  have  diminished,  its  use  as  a  benchmark  has
+become ubiquitous.  The gross notional value of all financial products tied to U.S. dollar LIBOR is
+5
+around $200 trillion—about 10 times U.S. GDP.
+  That includes $3.4 trillion of business loans,
+$1.8 trillion of floating-rate notes and bonds, another $1.8 trillion of securitizations, and $1.3 trillion
+ 1 / 8
+BIS central bankers' speeches
+of consumer loans held by about four million individual retail consumers, including around $1.2
+trillion of residential mortgage loans.  The remaining 95% of exposures are derivative contracts,
+which we learned in the financial crisis have consequences for both Wall Street and Main Street. 
+So, every day, the payments on $200 trillion of exposures are calculated based on a handful of
+transactions  worth  a  few  hundred  million  dollars  at  most.    That’s  like  a  very  tall,  very  broad
+building built on a very narrow foundation.  Imagine an upside-down pyramid.  It’s not stable, and,
+as we will discuss shortly, it’s getting more rickety by the day.  You don’t want to be standing
+near it when it comes down.
+There is, thankfully, a coordinated global effort to address LIBOR’s shortcomings.  That work has
+focused  on  creating  more  reliable  alternatives.    The  Financial  Stability  Board  (FSB)   and  the
+International Organization of Securities Commissions (IOSCO)   have  published  roadmaps  for
+reform.  Their shared principle is that benchmarks should be based on observable, arms-length
+transactions rather than estimates. 
+6
+7
+To meet this expectation, an FSB steering group has coordinated working groups for each of the
+major IBOR benchmarks.  The mandates of these groups are to identify alternative rates and to
+begin transitioning to them. 
+In 2014 the Federal Reserve convened the Alternative Reference Rates Committee (ARRC) to
+plan the transition away from U.S. dollar LIBOR.    The ARRC conducted two public roundtables,
+published  a  written  consultation,  and  created  an  advisory  group  of  end  users  across  market
+sectors.    The  ARRC’s  criteria  for  U.S.  dollar  LIBOR’s  replacement  included  methodological
+quality,  accountability,  governance,  and  ease  of  implementation.    In  the  end,  the  ARRC
+recommended a new rate that the New York Fed had proposed in cooperation with the Treasury
+Department’s  Office  of  Financial  Research.       The  new  rate  is  called  the  Secured  Overnight
+Financing Rate (SOFR). 
+8
+9
+The  New  York  Fed  has  published  SOFR  every  day  since  early April  of  last  year.
+      SOFR
+measures  the  cost  of  overnight  borrowings  through  repo  transactions  collateralized  with  U.S.
+Treasury securities, which is the deepest and most liquid money market in the U.S.  It is based
+on  actual  transactions  and  takes  in  more  transactions  than  any  other  Treasury  repo  rate
+available, recently around a trillion dollars each day.  SOFR is relevant to the cost of borrowing
+for  a  wide  array  of  market  participants,  was  constructed  to  meet  the  best  practices  for
+benchmarks set out by IOSCO, and is built to accommodate future market evolution.
+10
+I want to pause here to acknowledge that, as an overnight rate, SOFR has been the subject of
+criticism for sometimes being volatile from day to day, especially near quarter- and year-end.  I
+think such criticism is misplaced.  Most users of SOFR don’t use a single day’s rate to determine
+their payments; they use average rates, which are not much affected by daily volatility.
+Parallel  work  has  been  going  on  in  other  jurisdictions  whose  currencies  are  used  in  major
+benchmarks.  Working groups for sterling, euro, Swiss franc and yen IBORs  have all endorsed
+overnight rates as their preferred alternatives to those rates.
+   Three of the alternative rates are
+(or will be) administered directly by central banks, reflecting the recognition that crucial interest
+rate  benchmarks  are  a  public  good,  and  their  integrity  and  sustainability  are  key  to  financial
+stability.
+11
+12
+I’ll note that, at the outset of these reform efforts, the idea was not to completely replace LIBOR. 
+LIBOR was being reformed to address its weaknesses as far as possible in the expectation that
+it could continue to be used.  Efforts to “fix” LIBOR proceeded alongside the program to identify
+better  alternatives.    The  idea  was  that  if  there  were  a  more  attractive  alternative,  firms  would
+gradually move away from LIBOR of their own accord, with a minimum of disruption, and that
+LIBOR then would be seldom, if ever, used.  LIBOR could still be inherently unstable despite the
+ 2 / 8
+BIS central bankers' speeches
+reform efforts.  Perhaps it would go away eventually, maybe dying of loneliness, or perhaps it
+would  stagger  on  for  a  small  range  of  transactions—but  in  any  event  it  would  cease  to  be  a
+problem.
+While  this  work  was  underway,  new  regulations  brought  the  production  of  LIBOR  under  the
+supervision of the UK Financial Conduct Authority (FCA) and introduced minimum requirements
+for benchmarks used in the EU.  In 2017, Andrew Bailey, the head of the FCA, spotlighted the
+possibility that LIBOR itself might cease to exist altogether.
+  Bailey announced that the FCA
+had been exerting an increasing amount of persuasion to get panel banks to keep submitting
+quotes, and had gotten their commitment to continue until the end of 2021.  But he warned that
+the FCA could not ensure that LIBOR would be published at all after that.
+13
+Suddenly, instead of just the general threat that LIBOR could cease to be produced someday,
+there was a specific expiration date on the horizon.  The challenge to the market was no longer
+to gradually start writing new contracts on alternative rates like SOFR instead of LIBOR, but to
+prepare for the risk that LIBOR could entirely cease to exist within a fairly short time frame.  That
+was a much bigger job, because when you looked at the underlying contracts that used LIBOR,
+they  didn’t  provide  very  well  for  LIBOR  simply  disappearing.    I  blame  the  lawyers,  and  our
+congenital  lack  of  imagination.    Even  when  financial  contracts  deal  with  the  possibility  that  a
+LIBOR quote might not be available, they seem to have been drafted assuming that the gap is
+temporary, not permanent.  In a permanent cessation of LIBOR, the fallback solutions in existing
+contracts become impractical or materially change the economics.  That’s a situation that invites
+litigation, and in the case of LIBOR that litigation would be on a massive scale.  So while this
+prospect might not be unwelcome to certain members of the litigation bar, this is not good news
+for those interested in maintaining financial stability. 
+For example, many contracts state that if a calculation agent cannot find a LIBOR quote for a
+given day on the usual Reuters screen, it will call three large London banks and ask them what
+their borrowing rate is for that day—basically try to privately replicate LIBOR.  Imagine if every
+calculation agent for every transaction tried to do this every time they had to set LIBOR.  There
+would  be  chaos,  especially  when  those  London  banks  had  already  decided  to  get  out  of  the
+LIBOR-estimating business.  Why would they even respond?
+For some types of transactions—floating-rate notes, for example—there is a further fallback: to
+fix the interest rate at whatever the last LIBOR quote was.  This is not a very satisfactory solution
+to either the issuers or the borrowers who thought they had an instrument that protected them
+against interest rate risk.  Other transactions like syndicated loans may revert to prime rate loans
+—again,  not  what  borrowers  may  want.   And,  for  derivatives,  there  simply  may  be  no  further
+fallback.    You  can  imagine  the  litigation  risk  when  the  reference  rate  for  a  20-year  contract
+disappears and there’s no clear path to replace it. Now imagine 190 trillion dollars’ worth of those
+contracts.  This is a DEFCON 1 litigation event if I’ve ever seen one.
+Where Are We Now?
+Those  are  the  issues  that  the ARRC,  the  other  IBOR  working  groups,  and  central  banks  in
+general have confronted over the last few years.  Let me turn now to the work at hand.
+There are two urgent tasks for every market participant with LIBOR exposure.  First, if you find
+yourself in a hole, stop digging.  What market participants must do right now is stop writing new
+contracts on LIBOR and start using SOFR or at least another robust alternative.  And, especially
+if  you  need  to  keep  using  LIBOR,  make  sure  your  new  contracts  have  strong  and  workable
+fallback  language.    That  was  one  of  the  original  recommendations  the  various  official  sector
+groups made as far back as 2013, but the people writing the contracts don’t seem to have been
+paying attention.  As I’ll describe in a moment, very soon there will be specific fallback language
+that  represents  the  consensus  best  practice  to  use  in  each  type  of  U.S.  dollar  LIBOR-linked
+ 3 / 8
+BIS central bankers' speeches
+financial product going forward.
+The second urgent task is to deal with the trillions of dollars of existing contracts that extend past
+2021  and  don’t  have  effective  fallbacks.    That’s  a  more  serious  problem  for  some  types  of
+instruments than others.  The large majority of business loans in existence today will mature or
+be renegotiated before the end of 2021 in the ordinary course.  So the loans can be converted
+entirely to SOFR loans before the clock runs out on LIBOR, or at least fallback provisions can be
+added.    There’s  also  good  news  on  derivatives,  relatively  speaking.    A  large  percentage  of
+derivative contracts are also shorter-term.  Over-the-counter derivatives that do extend past 2021
+can be amended to incorporate new rates and fallback provisions through a protocol procedure
+that the International Swaps and Derivatives Association (ISDA) will put in place.  That’s still a lot
+of work for everyone who has LIBOR derivatives, but it’s a relatively clear way forward.  And for
+exchange-traded derivatives, the exchanges themselves can specify fallbacks through rulebook
+amendments.    The  exchanges  have  indicated  they  will  adopt  the  same  basic  fallback
+methodologies as ISDA.  This is all good news.
+Consumer  loans  present  different  issues.    The  documentation  generally  gives  the  lender
+discretion to unilaterally choose a comparable rate if LIBOR goes away.  That sounds simple. 
+But,  in  practice,  the  knot  of  reputational,  operational,  and  legal  considerations  involved  in
+changing  the  interest  rate  basis  on  consumer  loans  will  require  attention  and  resources  to
+unravel.  And over 40% of LIBOR-based residential mortgage loans currently outstanding extend
+past 2021.
+One of the more difficult challenges is the one posed by floating-rate notes, securitizations, and
+preferred stock whose payments are tied to LIBOR.  These securities either have no fallbacks at
+all  to  handle  a  LIBOR  cessation,  or  they  effectively  become  fixed-rate  instruments.   And,  in
+practice, it is very difficult, if not impossible, to add the kind of provisions that will be standard for
+new issuances going forward.
+A  year  after  Andrew  Bailey’s  2017  speech,  he  reiterated  that  firms  should  treat  the
+14
+discontinuation of LIBOR as an event that will happen and that they should be preparing for it.
+  
+For my part, that’s also the message I would ask you to take away today.  You can think of this
+as a call to arms or as a threat or as simply a warning.  What’s important is that you act on it.  To
+tackle  the  issues  a  LIBOR  cessation  presents  for  cash  products,  the  Fed  reconstituted  the
+ARRC in 2018 to broaden its membership and its mandate.  “ARRC 2.0” now has dedicated
+workgroups for floating-rate notes, syndicated and bilateral business loans, consumer products,
+and securitizations.  Those workgroups include market participants that weren’t all members of
+“ARRC 1.0” but are active in their specific sectors.  There are also working groups dealing with
+legal,  regulatory,  and  accounting  issues.    Thanks  to  these  working  groups,  for  the  first  time
+market  participants  and  their  lawyers  now  have  not  just  general  concerns  and  warnings,  but
+specific actionable language to react to and start to use in contracts across different products. 
+Again, this is good news.
+The ARRC’s recommendations are voluntary, and the Federal Reserve is not mandating what
+fallbacks to use.  But there’s a lot of value in a common approach.  If LIBOR ceases and different
+instruments that use it fall back to different rates or at different times, basis risk will be higher and
+hedging  more  difficult.    So  the  ARRC  started  its  fallback  work  by  adopting  a  set  of  guiding
+principles to apply across all product types.
+   Among other things, those guidelines suggested
+that,  to  the  extent  practicable  and  appropriate,  market  participants  should  (1)  maintain
+consistency of fallbacks across asset classes and minimize basis risk between products; (2)
+use SOFR or a benchmark based on SOFR as the replacement rate; (3) minimize value transfer
+over  the  life  of  the  contract  if  the  fallback  is  triggered;  and  (4)  include  specific  triggers  that
+activate the fallback.  
+15
+Following these overall principles, the ARRC commenced consultations on specific fallbacks for
+16
+ 4 / 8
+17
+BIS central bankers' speeches
+18
+ and securitizations.
+  bilateral
+four  types  of  cash  products:  floating-rate  notes,
+business loans,
+   In general, the consultations proposed that following a
+trigger event—such as LIBOR being discontinued—the instrument would instead pay interest at
+SOFR  or  a  rate  based  on  SOFR,  adjusted  so  the  new  rate  is  comparable  to  the  old  one. 
+ARRC’s  consultations  recognized  that  different  solutions  may  be  necessary  or  preferable  for
+different markets and products, but promoted common approaches as much as possible. 
+  syndicated  business  loans,
+19
+16
+17
+The comment periods for the consultations have closed, and the ARRC is now reviewing the
+feedback.  Final recommendations are expected to be published very soon.
+You may have noticed that I didn’t mention an ARRC consultation on fallbacks for derivatives,
+even  though  ARRC’s  original  purpose  was  to  address  benchmark  transition  in  derivative
+products.  That’s because the FSB’s Official Sector Steering Group asked ISDA to do that for
+derivatives on all of the IBORS.  So, alongside the ARRC consultations for cash products, ISDA
+20
+has  been  conducting  consultations  on  fallback  provisions  for  IBORS  in  multiple  currencies,
+and has said it will be putting out a U.S. dollar LIBOR consultation in the near future.  One of the
+key  questions  being  discussed  is  how  closely  aligned  the  cash  products  fallbacks  and  the
+derivatives fallbacks will be.
+The  ARRC  has  also  been  an  essential  vehicle  for  engaging  the  official  sector  to  address
+regulatory  obstacles  to  LIBOR  transition.    For  example,  replacing  fallback  language  in  legacy,
+uncleared swaps presents a host of issues under the swap margin rules.  ARRC’s regulatory
+working group is actively engaged with the Commodity Futures Trading Commission, the Federal
+Reserve,  and  other  regulators  to  address  those.    On  the  accounting  side,  the  Financial
+Accounting Standards Board has ruled that SOFR is eligible for hedge accounting treatment.
+While all the consulting and coordinating and kvetching has been going on, market participants
+have  gone  ahead  and  begun  the  transition  to  actually  using  SOFR.    SOFR  swaps  are  being
+quoted  by  dealers  and  cleared  by  central  counterparties.    CME  Group  and  LCH  are  clearing
+SOFR-linked swaps and are moving quickly to using SOFR for discounting curves and interest
+on collateral. CME Group and Intercontinental Exchange have listed SOFR-linked futures. Over
+$56 billion in floating-rate financing based on SOFR has been issued in all sectors of the debt
+markets.
+   And the Treasury Borrowing Advisory Committee has discussed the possibility of
+issuing SOFR-linked floating-rate notes.
+21
+These are all reasons for optimism.  But I’m a realist—some would say a pessimist.  It is not yet
+time to chill the champagne.  As I said at the beginning of my remarks, much work remains.
+Life After LIBOR and How We Get There
+Looking forward, the risks from LIBOR transition are both macro- and micro-prudential—a risk to
+the system is always built up from risks to individual firms.  On the macro scale, as I mentioned
+earlier,  the  FSOC  has  identified  reference  rate  transition  as  a  financial  stability  risk.    The
+President of the New York Fed, John Williams, was just appointed co-chair of the FSB’s steering
+group.  He succeeds Fed Chairman Jerome Powell in that role.  From the beginning, the Fed’s
+mantra has been that the transition away from LIBOR has to be led by the private sector.  But the
+Fed clearly has a role to play.  The New York Fed will continue to be engaged through our work
+with  the ARRC,  our  coordination  with  the  other  international  transition  efforts,  and  our  role  as
+administrator of our own benchmark rates.
+At the micro level, sound risk management demands that every firm assess its vulnerabilities if
+LIBOR  ceases  to  be  published,  and  engage  in  appropriate  planning  to  address  those  risks
+across its balance sheet.  Firms must have a safe and sound process for addressing all aspects
+of this transition.  They also need to select alternative rates that are robust and resilient, in line
+with current best practice.  At the Fed, we’ve been thinking about this risk across all portfolios,
+ 5 / 8
+BIS central bankers' speeches
+from small community banks to the largest institutions.  Our focus so far has been on outreach
+and education.  We have been encouraging examiners to raise awareness with their supervised
+institutions, and we’ve provided them with some tools to enage in this discussion.  We’ve also
+been reviewing our own contracts that use reference rates to make sure we’re walking the talk.
+Anecdotally, the largest financial firms seem to be more aware of the challenges than smaller
+ones.  Last September, the UK Prudential Regulation Authority and FCA sent a “dear CEO” letter
+to  the  heads  of  large  banks  and  insurance  companies  to  seek  assurance  that  their  senior
+managers  and  boards  understood  the  risks  of  LIBOR  transition  and  were  taking  appropriate
+action ahead of end-2021.
+   As the larger firms prepare for the transition, they are beginning to
+work on the operational challenges the transition will present.  You all know that those kinds of
+system changes are never simple or straightforward.  The potential death of LIBOR is causing
+everyone in the market a lot of grief, and everyone goes through the five stages of grief at their
+own pace.  But the fact that firms are starting to grapple with implementation means that they’ve
+got past denial and bargaining and settled down to acceptance.
+22
+Smaller firms may be lower down on the preparation curve, although presumably their total risks
+are also smaller.  In December, the Federal Financial Institutions Examination Council presented
+a  one-hour  webinar  on  LIBOR  transition  that  drew  about  1,300  participants  from  supervised
+firms.  Of those who responded to a polling question during the webinar, about one-fifth said it
+was the first time they were hearing about the topic.
+To continue forward, several issues must be resolved.  For example, what events should trigger
+the  shift  from  LIBOR  to  SOFR  or  another  alternative  rate?   A  definitive  end  to  LIBOR  is  an
+obvious trigger.  But, short of that, what events should prompt the switch?  What if LIBOR was
+nominally  available,  but  the  UK  FCA  used  its  supervisory  power  to  declare  that  LIBOR  is
+unrepresentative of the underlying market?  Last month, an FCA official highlighted the possibility
+that this is exactly how the end of LIBOR might come about, and urged market participants to
+seriously  consider  this  possibility  when  crafting  their  fallback  triggers.
+      In  their  various
+consultations on fallback language, the ARRC has proposed that such a declaration by the FCA
+would trigger the switch to an alternative rate.  A clear majority of respondents supported that
+proposal.  I think every market participant should ask how the fallback triggers in their contracts
+would respond. 
+23
+In  addition,  the  precise  mechanism  of  changing  from  LIBOR  to,  say,  SOFR  will  vary.    The
+solution is not a simple substitution.  There are inherent differences between SOFR and LIBOR
+that will need to be adjusted for in the transition.   For one thing, most contracts that reference
+LIBOR key off of three-month or six-month LIBOR.  Mortgages often use one-year LIBOR.  But
+SOFR is an overnight rate—there’s no such thing as three-month or six-month SOFR.
+One  solution  to  this  difference  is  to  use  the  daily  SOFR  for  each  day  during  the  term,  either
+averaged  or  compounded  each  day  until  the  end  of  the  period.    ISDA  has  indicated  that
+derivatives will fall back to this kind of average, and the SOFR floating rate notes issued recently
+use a similar approach.  To facilitate this method, the New York Fed is preparing to produce a
+backward-looking compounded average alongside the daily SOFR. 
+Some  market  participants  may  need  to  use  a  forward-looking  “term  SOFR”  created  by
+constructing  a  yield  curve  off  of  trading  in  forward-looking  SOFR  derivatives,  particularly  for
+legacy contracts that already reference a term LIBOR rate.  Creating a new rate like that is part
+of the ARRC’s transition plan, although it’s more concept than reality at this point.  But under all
+of the cash product consultations put out to date, the first preferred fallback is to that kind of term
+rate, if such a rate were to be created that was up to IOSCO standards and endorsed by the
+ARRC.
+Another difference between SOFR and LIBOR is that SOFR is a “near risk-free rate” because
+ 6 / 8
+BIS central bankers' speeches
+the  underlying  repo  transactions  are  secured  by  Treasuries.    LIBOR,  on  the  other  hand,  was
+based on unsecured transactions and was intended to include the price of bank funding risk. 
+Although most of the current uses of LIBOR have no actual need to reflect bank funding risk, that
+difference does still affect the level of the index, and so will need to be adjusted for in contracts
+that start out referencing LIBOR and then switch to SOFR.
+There are various technical ways to adjust for both the term difference and the credit difference
+between SOFR and LIBOR.  The goal is to create a value-neutral adjustment mechanism that
+doesn’t create winners and losers as LIBOR contracts reset.  Ideally, the adjustments would also
+be easily understood, transparent, and based on objective factors, not on discretion.  That’s a
+very tall order.  This is another area where the ongoing consultations are very important.
+Conclusion
+Change is hard.  It’s hard to say goodbye to LIBOR when it’s been around for so long and is
+embedded in so many operations and processes that have been in place for decades.  For the
+last several years, change has clearly been coming to the use of LIBOR, but there was a fog of
+uncertainty about what that change was going to look like, and so the reaction of many firms
+seemed  to  be  to  do  nothing  except  wait  and  see  what  happens.    Now  the  time  has  come—I
+would argue it came a while ago, but in any case it’s here now—the time has come for every firm
+with LIBOR exposure to actively grapple with the risks that are coming your way whether you like
+it or not.  The way forward for the vast majority of LIBOR-based instruments is rapidly becoming
+clear.  It’s easy and tempting to justify inaction by criticizing the available solutions as imperfect
+or as just too hard to do.  But inaction at this point in the LIBOR transition is short-sighted and
+futile and only extends the uncertainty.  We need decisive action by everyone in the market to
+avoid damage to individual firms and the financial system.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+Raymond Check and Thomas Noone assisted in preparing these remarks.  Mr. Held would like to thank his
+other colleagues at the Federal Reserve who provided comments and corrections.
+2019 Outlook: Trends in the Capital Markets
+See for example the FSOC’s Annual Reports for 2013 and 2018.
+See Introductory Remarks by Federal Reserve Board of Governors Vice Chairman for Supervision Randal K.
+Quarles at the Alternative Reference Rates Committee Roundtable, July 19, 2018
+Second Report of the Alternative Reference Rates Committee, March 2018
+Reforming Major Interest Rate Benchmarks, 22 July 2014
+Principles for Financial Benchmarks Final Report, July 2013
+Information  on 
+www.newyorkfed.org/arrc.
+the  ARRC, 
+including 
+its  announcements  and  publications,  can  be 
+found  at
+The ARRC Selects a Broad Repo Rate as its Preferred Alternative Reference Rate
+Information about SOFR can be found at apps.newyorkfed.org/markets/autorates/sofr.
+In addition to the London Interbank Offered Rates, the other major interbank offered rates (IBORs) are the Euro
+Interbank Offered Rate (EURIBOR) and the Tokyo Interbank Offered Rate (TIBOR).
+See Reforming major interest rate benchmarks, FSB Progress Report, 14 November 2018
+The future of LIBOR, speech by Andrew Bailey, Chief Executive of the FCA, 27 July 2017
+Interest rate benchmark reform: transition to a world without LIBOR, speech by Andrew Bailey, Chief Executive of
+the FCA, 12 July 2018
+ 7 / 8
+BIS central bankers' speeches
+15
+16
+17
+18
+19
+20
+21
+22
+23
+ARRC Guiding Principles for More Robust LIBOR Fallback Contract Language in Cash Products
+ARRC Consultation Regarding More Robust LIBOR Fallback Contract Language for New Issuances of LIBOR
+Floating Rate Notes, September 24, 2018
+ARRC  Consultation  Regarding  More  Robust  Fallback  Contract  Language  for  New  Originations  of  LIBOR
+Syndicated Business Loans, September 24, 2018
+ARRC Consultation Regarding More Robust LIBOR Fallback Contract Language for New Originations of LIBOR
+Bilateral Business Loans, December 7, 2018
+ARRC Consultation, New Issuances of LIBOR Securitizations, December 7, 2018
+See ISDA LIBOR Fallbacks, presentation by ISDA at the ARRC’s July 2018 roundtable
+Source: Bloomberg data services, press releases and FRBNY staff calculations
+See Dear CEO LIBOR Letter
+LIBOR  transition  and  contractual  fallbacks,  speech  by  Edward  Schooling  Latter,  Director  of  Markets  and
+Wholesale Policy at the FCA, 28 January 2019
+ 8 / 8
+BIS central bankers' speeches

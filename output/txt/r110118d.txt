@@ -1,0 +1,88 @@
+Agustín Carstens: DALÍ – Mexico’s award-winning securities settlement 
+system 
+Remarks by Mr Agustín Carstens, Governor of the Bank of Mexico, at the Franz Edelman 
+Prize Award, granted to the Mexican central securities depositor, S.D. Indeval, for developing 
+with the Bank of Mexico and the Instituto Tecnológico Autónomo de México (ITAM) the DALÍ 
+securities settlement system, Mexico City, 12 January 2011. 
+    Susan  Albin,  President  of  Informs  (Institute  for  Operation  Research  and  the 
+Management Sciences). 
+Luis Téllez Kuenzler, Chairman of BMV Group, stakeholder of S.D. Indeval. 
+Arturo  Fernández,  Chancellor  of  the  Instituto  Tecnológico  Autónomo  de  México 
+(ITAM). 
+Highly  respected  DALÍ  developing  team  from  S.D.  Indeval,  ITAM  and  Banco  de 
+México, to whom this renowned award has been granted. 
+Dear guests, ladies and gentlemen: 
+Good afternoon. 
+I am very pleased that the Institute for Operations Research and the Management Sciences 
+granted the Franz Edelman Award to Indeval for the excellent job done in developing DALÍ. 
+This recognition is very good news for the Mexican financial system. 
+The securities settlement system is key for Banco de México: 
+ 
+We are responsible for promoting the sound development of the financial system, of 
+which the securities settlement system is crucial. 
+One  of  our  objectives  as  a  central  bank  is  to  foster  the  smooth  operation  of  the 
+payment systems. The securities settlement system is not only the largest payment 
+system  in  Mexico,  but  also  an  essential  component  of  our  liquidity  provision 
+mechanism for other payment systems. 
+Finally,  the  securities  settlement  system  is  used  to  compensate  and  liquidate  the 
+monetary policy operations that help us achieve our price stability goal. 
+  Given the relevance of all payment systems, Banco de México is constantly striving to adapt 
+the  best  practices  available.  In  this  spirit,  we  worked  together  with  Indeval  in  the  design, 
+construction, and implementation of DALÍ.  
+When  we  were  defining  the  operating  rules  for  the  system,  financial  intermediaries  and 
+Indeval wanted a multilateral netting scheme since this would allow them to use the available 
+liquidity,  in  terms  of  cash  and  securities,  efficiently.  The  central  bank  knew  well  the 
+advantages of this scheme for a developing market, but also its downsides: if any depositor 
+lacked enough money or securities, it could take hours and complex procedures to redo the 
+multilateral netting process. From Banco de México’s perspective, this was not acceptable. 
+Apart  from  the  benefits  of  a  multilateral  netting  scheme,  we  also  needed  a  real  time 
+settlement system, for its superior characteristics in terms of risk control and simplicity, and 
+because it would be very useful for our liquidity provision mechanisms. 
+In  order  to  perform  simultaneously  multilateral  netting  and  settlement  in  near  real  time, 
+Banco de México developed and proposed a methodology based on mathematical models 
+and operations research techniques.  
+BIS central bankers’ speeches 
+ 1
+Specifically, we created a linear programming model that linked a network flow problem for 
+money with many network flow problems for securities. In other words, we proposed a model 
+were money and securities constitute a flow through a network of participants. The solution 
+we were looking for could be obtained by maximizing these flows quickly and applying the 
+results immediately to the participants’ balances. 
+Since there are specialized algorithms that solve linear programming problems very fast, we 
+had, in principle, a method to choose a set of transactions with maximum value that could be 
+settled with the available resources.  
+This  methodology,  however,  would,  in  some  cases,  settle  transactions  only  partially  –  for 
+example, instead of settling the 1,000 CETES that were intended in a transaction, only 990 
+would be settled – a practice unheard at the time. We broke the mold when we realized that 
+it was feasible to offer participants a simple choice: to operate on the basis of an efficient 
+multilateral  netting  scheme  that  would  partially  settle  some  operations,  or  to  operate  on  a 
+gross basis. The intermediaries went for the most efficient solution.  
+And so, thanks to the use of operations research techniques, a new methodology to settle 
+securities in the Mexican market was born.  
+With  this  solution  in  hand,  Banco  de  México  felt  Indeval  had  the  capability  to  develop  a 
+system that would: 
+1. 
+Settle under a delivery versus payment scheme. That is, having an unbreakable 
+link between the settlement of a securities transfer and the corresponding payment. 
+Settle  operations  frequently.  Participants  would  be  able  to  know,  almost  in  real 
+time, which transactions were settled. 
+Make  efficient  use  of  the  liquidity  available  for  settlement,  both  in  terms  of 
+securities and money. 
+2. 
+3. 
+We knew from the models developed by Banco de México that it was possible to implement 
+a system with such characteristics and, more importantly, that this would yield a first class 
+securities settlement system. 
+After  intensive  analysis,  testing  and  calibration,  and  with  the  valuable  assistance  of  the 
+Instituto  Tecnológico  Autónomo  de  México  (ITAM),  Indeval  decided  to  use  the  model 
+proposed  by  Banco  de  México  for  its  new,  ground  breaking  system,  DALÍ.  Today,  we  are 
+very fortunate to have the first securities settlement system that offers multilateral netting and 
+near real time settlement, with significant advantages for our financial market. 
+We now have an outstanding securities settlement system that offers excellent services to 
+investors, issuers and intermediaries, and generates trust in our financial system. We believe 
+that the effort we all put into the design, development, and testing of DALÍ was well spent. 
+I congratulate Indeval, and the staff from ITAM and Banco de México who participated in this 
+project. 
+Thank you very much for your attention. 
+2 
+ BIS central bankers’ speeches

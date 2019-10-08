@@ -1,0 +1,758 @@
+Simon Potter: Implementing monetary policy with the balance sheet
+Keynote remarks by Mr Simon M Potter, Executive Vice President of the Markets Group of the
+Federal Reserve Bank of New York, at the ECB Workshop on "Money markets, monetary policy
+implementation and central bank balance sheets", Frankfurt am Main, 6 November 2017.
+  I would like to thank Deborah Leonard for her assistance in the preparation of these remarks,
+and  colleagues  in  the  Federal  Reserve  System  for  numerous  insightful  comments  and
+suggestions.
+I’d  like  to  thank  the  European  Central  Bank  (ECB),  both  for  inviting  me  to  give  this  keynote
+address and for organizing this conference on money markets, monetary policy implementation,
+and  central  bank  balance  sheets.  I’d  also  like  to  congratulate  all  of  the  presenters  and
+discussants, whose engaging research and critiques help to foster a deeper understanding of
+some  of  the  many  policy  implementation  issues  central  bankers  face  as  we  digest  past
+challenges and prepare for future ones.
+This conference comes as several major central banks reached milestones using their balance
+sheets as active tools for providing monetary policy accommodation. The ECB just announced it
+will extend its bond purchasing program but scale back the pace of purchases starting next year.
+The  Bank  of  England  completed  purchases  under  its  Gilts  and  Corporate  Bond  Purchases
+schemes  and  confirmed  an  upcoming  close  to  the  drawdown  period  for  its  Term  Funding
+Scheme. And the Federal Reserve has begun to reduce its sizable holdings of securities, built up
+through large-scale asset purchase programs (LSAPs) over the past decade.
+My comments today will focus on the role that asset purchases may play in a central bank’s
+toolkit  for  implementing  monetary  policy.  I  will  briefly  review  how  the  Federal  Reserve
+successfully adapted its operating framework to be able to achieve interest rate control with a
+large balance sheet and began its gradual and predictable balance sheet normalization program.
+Then, in thinking about the prospective use of asset purchases in providing additional monetary
+policy accommodation at the zero lower bound in the future, I will reflect on some lessons from
+the Fed’s experience. Among other lessons, we have learned that asset purchases have clear
+benefits at the zero lower bound, perhaps with more limited costs than initially raised; that we
+had  greater-than-expected  capacity  to  conduct  large  purchases  without  harming  market
+functioning; and that credible communications about use of the balance sheet and expectations
+for short-term interest rates support adjustments in market pricing and smooth monetary policy
+transmission. As always, the views presented here are my own and do not necessarily reflect
+those of the Federal Reserve Bank of New York or the Federal Reserve System.
+The Federal Reserve’s asset purchases and operating regime
+The severity of the global financial crisis that began in 2007 challenged central banks to use both
+conventional and unconventional measures to address the economic effects of the crisis and the
+sluggish  recovery  that  followed.  Using  its  conventional  tool  for  easing  the  stance  of  monetary
+policy,  the  Federal  Open  Market  Committee  (FOMC  or  Committee)  lowered  its  target  for  the
+federal  funds  rate  in  a  series  of  steps  from  5¼  percent  in  mid-2007  to  a  range  of  zero  to  ¼
+percent in December 2008. With short-term interest rates effectively constrained at their lower
+bound,  the  FOMC  provided  further  monetary  policy  easing  with  two  unconventional  tools:
+Forward guidance on the expected future path of overnight interest rates and asset purchase
+programs  aimed  at  putting  downward  pressure  on  longer-term  interest  rates,  supporting
+mortgage markets, and making broader financial conditions more accommodative.  Purchases
+of longer-term Treasury securities, agency debt, and agency mortgage-backed securities (MBS)
+expanded the size, duration, and interest rate and prepayment risk profile of the Fed’s domestic
+1
+2
+ 1 / 13
+BIS central bankers' speeches
+2
+securities portfolio.
+In total, from 2008 through 2014, the FOMC undertook three rounds of LSAPs, resulting in an
+extraordinary  expansion  in  the  size  of  the  Fed’s  balance  sheet—from  around  $900  billion  (6
+percent of U.S. nominal GDP) before the crisis, to $4.5 trillion (23 percent of GDP) today.  For all
+but a brief period of that time and until last month, the FOMC maintained the face value of its
+securities holdings by reinvesting principal payments received on securities held in its portfolio. I
+will discuss reinvestments more specifically later.
+3
+These  purchases  were  funded  primarily  by  increasing  the  stock  of  reserve  balances  in  the
+banking system, which compelled changes in the operating framework the Fed uses to achieve
+interest rate control.  With an abundant supply of reserve balances, variations in their supply—
+the mechanism through which the Fed implemented monetary policy before the crisis—would no
+longer  cause  meaningful  changes  in  federal  funds  rates  or  other  money  market  rates.
+Implementation of monetary policy therefore required a new operational approach.
+4
+The  Fed’s  current  policy  implementation  framework  uses  a  system  of  rates  that  it  directly
+administers to influence the level of short-term interest rates, without needing to actively adjust
+the supply of reserves. Specifically, the Fed uses the rate of interest paid on excess reserves
+(IOER) held by depository institutions as its primary tool for keeping the federal funds rate in its
+target  range.  It  supplements  this  tool  by  offering  overnight  reverse  repos  (ON  RRPs)  at  a
+specified offering rate to a broad set of counterparties, including eligible money market funds,
+government-sponsored  enterprises,  primary  dealers,  and  banks.   Together,  IOER  and  ON
+RRPs set a floor on rates, beneath which bank and nonbank financial institutions with access to
+6
+these facilities should be unwilling to lend funds.
+5
+This framework has been working very well. Since December 16, 2015, when the FOMC began
+the process of normalizing the stance of monetary policy, it has raised its federal funds target
+range four times to a current range of 1 to 1¼ percent. The effective federal funds rate (EFFR)
+has been within the FOMC’s prevailing target range on all but one day, and changes in the federal
+7
+funds rate continue to transmit in a predictable and effective way to other money market rates.
+Balance sheet normalization commences…
+With normalization of the level of the federal funds rate well underway and interest rate control
+effectively established, the FOMC has now begun the process of normalizing the Fed’s balance
+sheet,  using  a  program  described  this  past  June  in  an  addendum  to  its  Policy  Normalization
+Principles and Plans.  Specifically, as of last month, the FOMC is gradually reducing the Fed’s
+securities  holdings  by  decreasing  its  reinvestment  of  principal  payments  received  from  those
+securities, with payments being reinvested only to the extent that they exceed gradually rising
+9
+caps.
+8
+This process for reducing the balance sheet will run in the background, while changes in the
+target range for the federal funds rate are the FOMC’s primary means of adjusting the stance of
+monetary policy. However, the FOMC said it would be prepared to resume reinvestments if a
+“material  deterioration  in  the  economic  outlook  were  to  warrant  a  sizable  reduction  in  the
+Committee’s target for the federal funds rate,” and it would be prepared to use its “full range of
+tools,  including  altering  the  size  and  composition  of  its  balance  sheet,  if  future  economic
+conditions were to warrant a more accommodative monetary policy than can be achieved solely
+by reducing the federal fund rate.” These conditions help identify the types of circumstances that
+might  lead  to  some  adjustments  in  the  balance  sheet  normalization  process,  although  Chair
+Yellen has noted there is a high bar for altering the balance sheet’s current course.
+10
+The  FOMC’s  balance  sheet  reduction  strategy  lays  out  a  gradual  and  predictable  path  for
+portfolio  runoff,  which  should  reduce  the  risk  that  balance  sheet  normalization  will  generate
+ 2 / 13
+BIS central bankers' speeches
+11
+undesirably large asset price reactions, volatility, or disruptions to financial markets or Treasury
+debt issuance.
+ That strategy—together with the FOMC’s steady communications throughout
+2017 as the Committee developed it well in advance of implementing any change in policy—has
+helped  to  keep  market  expectations  closely  aligned  with  the  FOMC’s  intentions.  The  market
+response  to  the  commencement  of  the  Fed’s  balance  sheet  reduction  has  been  calm.  The
+removal  of  policy  accommodation  associated  with  the  Fed’s  securities  portfolio  reductions
+should  over  time  be  expected  to  put  some  upward  pressure  on  longer-term  interest
+rates.
+ However, the relatively muted increase in term premiums seen so far may in part reflect
+the non-zero probability that market participants assign to the FOMC deploying the balance sheet
+again  if  future  economic  conditions  were  to  warrant  more  monetary  easing  than  could  be
+achieved  solely  through  reductions  in  the  federal  funds  rate,  consistent  with  the  FOMC’s
+normalization plan guidance.
+… but where is it headed?
+12
+13
+The FOMC has started the process of normalizing the Fed’s balance sheet and has provided
+some  general  guideposts.  The  Policy  Normalization  Principles  and  Plans  state  that  the
+Committee intends for the Federal Reserve, in the longer run, to hold no more securities than
+necessary to implement monetary policy “efficiently and effectively,” and that it will hold primarily
+Treasury securities. In the June addendum, the FOMC noted that reducing the Fed’s securities
+holdings will result in a declining supply of reserve balances, and that it anticipates reducing the
+quantity of reserve balances to a level “appreciably below that seen in recent years but larger
+than before the financial crisis.”
+New York Fed staff projections for possible paths of the Fed’s securities portfolio—constructed
+using a distribution of market participants’ surveyed expectations for the future size of the Fed’s
+balance sheet (conditional on not moving to the zero lower bound at any point between now and
+2025), along with some staff modeling to fill in details—suggest it will take at least several years
+for the balance sheet to reach its “normal” size.
+ Uncertainty about the time of normalization
+arises  from  numerous  sources,  including  future  levels  and  variability  of  demand  for  different
+types of Fed liabilities, the pace at which the agency MBS portfolio will pay down, and of course
+the economic outlook.
+14
+Assuming  that  balance  sheet  normalization  continues  uninterrupted,  it  seems  likely  that  the
+future balance sheet size will be driven largely by changes in longer-run demand for Fed liabilities
+—in contrast to the asset-driven balance sheet of the past decade. The FOMC explains in the
+June  addendum  that  reserve  balances  will  be  driven  by  the  banking  system’s  demand  for
+reserves and the Committee’s decisions about how to implement monetary policy in the future.
+Banks’ experiences during the crisis, structural changes in the banking system, and post-crisis
+changes  in  financial  regulations  will  likely  increase  the  level  and  variability  of  the  demand  for
+reserves relative to before the crisis, but we don’t currently know the precise shape and position
+of banks’ demand curves. The FOMC has said that it expects to learn more about the underlying
+demand for reserves during the process of balance sheet normalization. In addition, the FOMC
+will need to decide what type of operating regime it wishes to run in the future—namely, whether
+it believes it will be efficient and effective continuing to use a reserve-abundant operating system
+(albeit with less abundance than seen at present) or returning to a reserve-scarce system, as
+the Fed used before the crisis. In sizing up the balance sheet, policymakers will also need to take
+into account several important non-reserve liabilities that are largely outside the immediate direct
+control of the Fed.
+15
+On  the  asset  side  of  the  balance  sheet,  the  normalized  size  of  the  securities  portfolio  is  one
+whose level is consistent with the balance sheet’s longer-run trend. However, even once the Fed
+normalizes the size of its balance sheet and securities portfolio, the composition of its securities
+portfolio  will  not  yet  be  “normal.”  The  projections  I  mentioned  earlier—which  assume  ongoing
+implementation of the FOMC’s capped portfolio reduction strategy—estimate that the domestic
+ 3 / 13
+BIS central bankers' speeches
+securities  portfolio  could  contain  more  than  $1  trillion  in  agency  MBS  at  the  time  the  balance
+sheet  reaches  a  normalized  size,  even  though  the  FOMC  has  indicated  a  preference  to  hold
+primarily Treasury securities in  the  longer  run.  Meanwhile,  the  maturity  profile  of  the  Treasury
+portfolio at that time is projected to be more skewed towards longer-term holdings than it was
+before the crisis, when the Fed held one-third of its portfolio in Treasury bills, and about two-
+thirds of its holdings matured in less than three years.
+A role for asset purchases at the zero lower bound
+16
+As  they  digest  the  experience  of  the  past  decade,  policymakers,  academics,  and  market
+participants are engaged in an active dialogue on appropriate monetary policy strategies and the
+role  of  unconventional  policy  tools  in  future  zero  lower  bound  episodes.
+  Amid  widespread
+concerns of a secular decline in nominal interest rates, this is not just a theoretical discourse.
+The  median  of  FOMC  participants’  projections  for  the  longer-run  value  of  the  nominal  federal
+funds  rate  is  currently  2¾  percent,  leaving  little  room  to  ease  the  stance  of  policy  through
+changes in overnight rates. As a result, the likelihood of a return to the zero lower bound is, in
+Chair Yellen’s words, “uncomfortably high, even in the absence of a major financial or economic
+crisis.”
+17
+18
+Against  this  backdrop,  Chair  Yellen  has  expressed  her  views  on  the  Fed’s  monetary  policy
+implementation tools. She suggests that whenever possible, influencing short-term interest rates
+should  be  the  Fed’s  primary  policy  lever,  but  that  enhanced  forward  rate  guidance  and  asset
+purchases should be considered again if that conventional tool reaches its limit, as would be the
+case if a future economic downturn drove short-term rates back to the zero lower bound. This
+view is consistent with her 2016 Jackson Hole remarks, where she presented analysis making
+the  case  that  the  Fed’s  use  of  forward  guidance  and  asset  purchases  could  improve
+macroeconomic  outcomes  on  average  in  zero  lower  bound  episodes,  and  indicated  that  she
+expected these tools to remain “important components” of the Fed’s policy toolkit.
+19
+The FOMC itself has not made any formal decisions about the Fed’s long-run monetary policy
+implementation framework. However, minutes from a November 2016 discussion about potential
+choices of policy rates, operating regimes, and balance sheet policies indicate that a number of
+policymakers  viewed  expansion  of  the  balance  sheet  as  an  “important  tool”  to  provide
+macroeconomic  stimulus  in  situations  in  which  overnight  interest  rates  were  at  their  effective
+lower bound.
+ This approach is consistent with the balance sheet reaction function described in
+the June addendum to the FOMC’s Policy Normalization Principles and Plans.
+Lessons learned
+20
+Of course, whether and under what circumstances the FOMC would again activate large-scale
+asset purchases are ultimately decisions for future policymakers. But, to the extent they remain a
+possible  tool  for  providing  additional  monetary  easing  when  overnight  interest  rates  fall  to  the
+zero  lower  bound,  it  is  worth  considering  some  lessons  about  their  use.  Some  personal
+observations follow.
+Lesson 1: LSAPs had clear benefits at the zero lower bound
+Estimates of the magnitude and persistence of the effects of the Fed’s purchase programs vary,
+as  do  assessments  of  the  relative  importance  of  the  possible  channels  through  which  such
+programs are believed to work. However, research largely provides evidence that the Fed’s asset
+purchases  put  downward  pressure  on  longer-term  interest  rates  and  eased  broader  financial
+conditions,  helping  to  improve  macroeconomic  outcomes.
+  Studies  of  asset  purchase
+programs conducted by other advanced economy central banks also show positive results. In his
+survey  of  the  range  of  research  results,  Joe  Gagnon  finds  roughly  similar  median  results  for
+studies  focusing  on  programs  in  the  United  States,  United  Kingdom,  and  euro  area—citing  a
+21
+ 4 / 13
+BIS central bankers' speeches
+median effect of about a 50-basis-point reduction in 10-year yields for a purchase equal to 10
+percent of GDP.
+22
+Regarding costs, in a recent exploration of strategies for defeating the zero lower bound, former
+Federal Reserve Chairman Bernanke dispels some of the common critiques of balance sheet
+programs  (which  he  calls  quantitative  easing).
+  He  points  to  unrealized  worries  about  an
+upsurge in inflation, collapse of the dollar, currency war, and rise in household leverage, and he
+questions  the  effects  in  promoting  asset  bubbles  and  inequality.  He  notes  that  fiscal  risks
+associated  with  quantitative  easing  must  be  balanced  against  benefits  of  tools  that  enhance
+policymakers’ ability to meet their policy objectives in the face of a serious economic downturn or
+disinflation.
+Lesson 2: The Fed could control interest rates even with a large balance sheet
+23
+An  additional  concern—that  the  Fed  would  not  be  able  to  control  interest  rates  with  a  large
+balance  sheet—proved  to  be  surmountable.  As  I  described  earlier,  the  Fed  successfully
+introduced  new  tools  and  counterparty  relationships  into  a  new  operating  regime  that  delivers
+interest rate control irrespective of the level of reserve balances in the banking system. In the
+event  policymakers  contemplate  asset  purchases  again  in  the  future,  they  should  be  able  to
+undertake  them  with  confidence  that  balance  sheet  expansion  will  not  compromise  the  Fed’s
+ability to effectively implement monetary policy when the time comes to lift rates from the zero
+lower bound.
+Lesson  3:  The  Fed  could  purchase  large  amounts  of  securities  without  damaging  the
+market
+Absent  a  conflicting  policy  objective,  a  central  bank  should  aim  to  promote  good  market
+functioning  in  its  operations  to  help  ensure  effective  transmission  to  the  rest  of  the  financial
+system. This objective is a vital one for the Fed because of the importance of the U.S. Treasury
+market as a global benchmark. As such, the staff of the New York Fed’s Open Market Trading
+Desk considered how to execute asset purchase programs in ways that avoided harming market
+structures  and  activity.
+  If  the  Fed  became  too  dominant  a  buyer  or  holder,  it  could  have
+reduced  the  tradeable  supply  of  targeted  securities  and  discouraged  trading  among  market
+participants,  leading  to  diminished  liquidity  and  price  discovery.  A  significant  deterioration  in
+liquidity could lead investors to demand a premium for transacting in these markets, ultimately
+raising borrowing costs and undermining the program’s policy goal.
+24
+I do not believe the Fed’s purchase programs had any unintended adverse effects on market
+functioning.  In  fact,  over  time,  we  learned  that  we  were  able  to  purchase  in  larger  sizes  and
+faster paces than perhaps initially expected. Secondary market purchases of Treasury securities
+reached about $100 billion per month during the second LSAP program (a time when proceeds
+from agency debt and MBS were being reinvested in Treasuries), and we doubled our per-issue
+concentration limit from 35 percent to 70 percent. Meanwhile, monthly purchases of agency MBS
+were successfully ramped up from a pace of $25 billion per month for just reinvestments in the
+first half of 2012 to more than $70 billion per month later that year when additional purchases
+under  the  third  LSAP  program  were  also  conducted.  This  volume  represented  a  substantial
+share  of  monthly  gross  issuance.
+  Staff  actively  monitored  indicators  of  market  functioning
+available  in  the  broader  market  and  through  our  own  operations  for  signs  of  any  material
+deterioration.
+ As  necessary,  we  modified  our  operational  schedules  (while  still  meeting  the
+policy directive we were given) to ensure smooth functioning, such as periods of ramping up or
+winding down purchase programs.
+25
+26
+The Fed also put in place active policies to help prevent market dysfunction as a result of its
+operations. Preventive measures included concentration limits on holdings of individual Treasury
+securities  and  prohibitions  against  purchasing  some  specific,  highly-demanded  securities.
+ 5 / 13
+BIS central bankers' speeches
+Agency  MBS  purchases  were  eventually  targeted  at  newly  issued,  to-be-announced  (TBA)
+securities,  which  tend  to  be  the  most  liquid  and  readily  available.
+  Further,  we  spread  our
+agency MBS purchases out across multiple settlement months and used dollar rolls to facilitate
+the orderly settlement of unsettled purchases.
+ As  a  more  general  practice,  the  Fed  actively
+promotes  market  functioning  by  running  a  securities  lending  program  through  which  primary
+dealers can borrow Treasury and agency debt securities held in the Fed’s portfolio.
+Lesson 4: Reinvestments matter
+27
+28
+Relatively quickly, the Fed came to learn that the reinvestment of principal payments received
+from securities held in its portfolio represented a distinct balance sheet tool that could help to
+maintain  the  FOMC’s  desired  level  of  monetary  policy  accommodation.  The  FOMC  initially
+allowed agency debt and agency MBS acquired in the first LSAP program to run off as principal
+was  repaid.  However,  as  purchases  ended,  a  decline  in  mortgage  rates  generated  increased
+refinancing activity that accelerated repayments of principal on agency MBS held by the Fed. The
+resultant reduction in the Fed’s agency MBS holdings pushed a large supply of securities into the
+hands  of  private  investors,  putting  upward  pressure  on  longer-term  interest  rates.  In  August
+2010, after considering the implications for financial conditions and the economic outlook of not
+reinvesting these repayments, the FOMC announced it would reinvest principal payments from
+these  securities  in  longer-term  Treasury  securities.  Then,  in  September  2011,  the  FOMC
+announced that repayments from these securities would instead be reinvested in agency MBS to
+help  support  conditions  in  mortgage  markets.
+  The  FOMC  then  maintained  reinvestments,
+including Treasury rollovers, until commencing balance sheet normalization last month.
+29
+30
+Keeping  the  Fed’s  holdings  of  longer-term  securities  at  sizable  levels  helped  to  maintain
+accommodative financial conditions as economic conditions strengthened. This is because, in
+addition  to  the  acquisition  of  securities  through  asset  purchases,  the  period  over  which  the
+central bank intends to hold its securities helps to shape market participants’ expectations about
+the  size  and  duration  of  assets  available  to  the  public.  Extending  the  holding  period  through
+reinvestments  prolongs  this  so-called  stock  effect.  The  2010  episode  when  the  Fed  was  not
+reinvesting  agency-related  principal  payments  demonstrated  both  term  premium  effects  that
+might have been expected to be associated with a reduction in the Fed’s securities holdings and
+the risks associated with an unexpected increase in the publicly-held stock of agency MBS. As
+we normalize the size of the balance sheet, maintaining redemption caps throughout the process
+(and continuing to reinvest any principal payments received in excess of those caps) provides an
+insurance  mechanism  that  limits  the  amount  of  variation  in  the  pace  at  which  securities,
+particularly mortgages, will flow back into private hands.
+Lesson  5:  Credible  communications  influence  the  effectiveness  of  asset  purchase
+programs
+As a general matter, monetary policy transmits more smoothly when market participants are able
+to  understand  and  anticipate  central  bank  actions.  Managing  market  expectations  about
+monetary policy implementation takes on even more importance in the challenging environment
+posed by the zero lower bound. Both in shifting into a regime that uses the balance sheet as an
+active tool for policy implementation and then shifting away from such use, there is an important
+interaction  that  the  settings  of  overnight  rates,  forward  guidance  on  those  rates,  and  balance
+sheet  configurations  have  on  overall 
+financial  conditions.  Having  clear  and  credible
+communications  that  help  market  participants  understand  the  central  bank’s  intended  use  of
+these tools can thus affect overall program effectiveness. Indeed, a central bank’s clarity around
+how  it  would  pursue  its  goals  at  the  zero  lower  bound  can,  in  itself,  produce  a  more  stable
+environment with fewer and shorter trips to the zero lower bound.
+ And even at the zero lower
+bound,  the  speed  and  accuracy  with  which  market  participants  understand  the  central  bank’s
+reaction function could contribute to better macroeconomic outcomes.
+31
+32
+ 6 / 13
+BIS central bankers' speeches
+My analysis takes its cue from the framework proposed by Chair Yellen, where unconventional
+policy tools are deployed to provide additional policy accommodation at the zero lower bound,
+and a supposition that balance sheet expansion would be introduced if the zero bound is viewed
+to be more restrictive than can be mitigated by forward guidance alone, just as they were during
+the financial crisis and subsequent recession.
+Communications are central to the two primary channels through which balance sheet policies
+are  believed  to  work.  First,  balance  sheet  policies  can  serve  as  a  signaling  device  that
+strengthens forward guidance and reduces expectations for the path of short-term interest rates.
+Putting  actions  behind  its  words—either  through  new  asset  purchases  or  by  maintaining
+reinvestments—helps  the  central  bank  to  establish  a  credible  commitment  to  maintaining
+monetary easing.
+ Second, balance sheet actions transmit through a portfolio balance channel,
+which—through the stock effect I described earlier—reduces term and risk premiums embedded
+in bond yields by reducing the supply of long-term bonds in the market. Many studies conclude
+that this channel is likely the dominant one.
+33
+With  this  in  mind,  the  central  bank  should  provide  clear  guidance  at  the  start  of  its  purchase
+program about its intended purchase and reinvestment plans—either in quantitative or qualitative,
+state-contingent terms—and then follow through on this commitment.
+ It seems sensible for the
+central bank to buy assets as quickly as possible, contingent on economic developments and no
+disruption  to  market  functioning.
+  Once  purchases  have  been  completed,  the  central  bank
+should then hold the assets for as long as it says it plans to—including maintaining its holdings
+through  reinvestments,  as  appropriate—to  align  realized  actions  with  market  participants’
+expectations, again contingent on economic developments.
+34
+35
+36
+37
+By  making  purchases  state-contingent—that  is,  tying  their  size  or  pace  explicitly  to  the
+achievement of broader macroeconomic objectives or other conditions—like the Fed did in its
+third  LSAP  program  and  with  reinvestments  following  liftoff,  the  central  bank  can  help  market
+participants understand its balance sheet reaction function and expected changes in the public
+stock  of  assets.
+  However,  policymakers  must  also  consider  how  market  participants
+understand the central bank’s approach to its balance sheet in conjunction with its guidance on
+the  overnight  policy  rate.  Failure  to  adequately  distinguish  between  the  two  tools  can  lead  to
+spillovers and undesirable outcomes. A cautionary example is the 2013 “taper tantrum,” when
+Chairman  Bernanke’s  announcement  of  an  eventual  cessation  in  asset  purchases  was
+interpreted  by  market  participants  as  signaling  a  sooner-than-expected  increase  in  short-term
+interest rates, prompting sharp and unexpected declines in asset prices. Guidance that provides
+clarity around both short-term interest rates and the balance sheet might help to anchor interest
+rate  expectations—for  example  by  indicating  while  purchases  continue  that  the  central  bank
+intends  to  maintain  overnight  interest  rates  at  low  levels  even  after  the  completion  of  asset
+purchases.
+Lesson 6: Focus on one tool during normalization
+38
+Uncertainty associated with managing multiple tools and the degree of substitutability between
+them  poses  possible  challenges  in  removing  policy  accommodation  after  a  zero  lower  bound
+episode,  as  the  central  bank  switches  from  conducting  policy  with  one  lever  to  another.  It
+therefore seems prudent to take a gradual approach to normalization, emphasizing one tool at a
+time.
+The Fed’s adopted normalization approach has thus far been an effective one. Starting to raise
+rates  first,  and  waiting  to  start  reducing  the  balance  sheet  until  normalization  in  the  level  of
+overnight rates is well underway, has helped to ensure that the economic recovery is sufficiently
+advanced  before  making  changes  to  the  balance  sheet.
+  This  strategy  has  reduced  the
+likelihood  that  an  unexpected  adverse  shock  to  the  economy  not  long  after  the  start  of  policy
+tightening would have necessitated a return to the zero lower bound on the federal funds rate and
+39
+ 7 / 13
+BIS central bankers' speeches
+potentially a reversal in balance sheet normalization. Instead, the FOMC’s approach promotes
+the use of the federal funds rate as the active monetary policy instrument—an instrument with
+which it has much greater experience, likely helping to minimize the risk of an error in the early
+and still-vulnerable stages of the economy’s recovery.
+40
+Running  down  the  balance  sheet  passively,  in  a  gradual  and  predictable  manner,  once
+normalization  of  short-term  interest  rates  is  well  underway  puts  the  balance  sheet’s
+normalization in the background. The stock view of central bank purchase programs holds that
+given an expected path of the portfolio, the pace of actual changes in the portfolio should have
+little direct effect on asset prices. Assuming markets anticipate a gradual unwind in the portfolio,
+asset prices would adjust gradually over time. Nevertheless, central banks may wish to mitigate
+any  possible  risk  that  flow  effects  associated  with  overly  fast  flows  of  securities  into  private
+hands  interfere  with  monetary  policy  implementation  or  disrupt  market  functioning.  A
+conservative feature in the Fed’s approach is therefore a one-year transition period during which
+gradually  rising  redemption  caps  are  phased  in,  thus  allowing  financial  markets  and  the  U.S.
+Treasury time to adjust to the Fed’s declining market presence.
+These design features likely enhance overall program effectiveness. However, this outcome is
+traded off against a more rapid achievement of balance sheet normalization—something some
+policymakers might hold as a desirable objective. For example, they might see a smaller balance
+sheet as one that offers greater capacity for using asset purchases more fully again in the future.
+Such capacity may be a concern given the risk that a more normal portfolio size and composition
+may not be reached before an adverse shock brings short-term rates back to their effective lower
+bound, perhaps warranting renewed balance sheet expansion.
+  This  risk  may  be  particularly
+pronounced  in  a  low  neutral  rate  environment.  In  principle,  asset  sales  could  accelerate
+normalization of the size and composition of the balance sheet, but the market effects of long-
+duration  asset  sales  could  be  uncertain,  and  sales  could  affect  the  path  of  short-term
+rates.
+  Moreover,  a  central  bank  that  does  not  hold  the  assets  it  has  purchased  as  long  as
+market participants anticipate could lose credibility, making future asset purchases less effective.
+41
+42
+The central bank must therefore consider the effects of its balance sheet actions in the context of
+the overall monetary policy setting, including the interplay between changes in the balance sheet
+and  changes  in  interest  rates.  Uncertainties  related  to  this  relationship  help  to  explain  the
+FOMC’s  choice  to  make  changes  in  overnight  rates  its  main  tool  for  adjusting  the  stance  of
+monetary  policy  in  the  normalization  process  while  balance  sheet  normalization  runs  in  the
+background. Still, having both instruments in the central bank’s toolkit raises the importance of
+clear and cohesive communications about their respective use.
+Lesson 7: Operational flexibility is important
+As I noted earlier, the Fed successfully adapted its operating regime to be able to control interest
+rates even with a large balance sheet. The FOMC has not decided what kind of operating regime
+it wishes to run in the long run, but one lesson from the crisis is that not all operating frameworks
+may be robust to a wide range of circumstances, such as implementing policy at the zero lower
+bound. If one wished to retain the option that the balance sheet could be deployed as an active
+tool for policy implementation at this threshold and then gradually revert to a passive role when
+conditions  normalize,  then  one  needs  to  consider  how  to  transition  into  and  out  of  different
+operational modalities. This requires operational flexibility.
+A byproduct of a central bank’s portfolio-expanding asset purchase programs is an increased
+supply  of  reserve  balances  in  the  banking  system.
+  Thus,  once  balance  sheet  tools  are
+deployed, the central bank will find itself operating in a system with reserve abundance if it wasn’t
+already,  and  will  need  to  adopt  instruments  and  arrangements  that  can  deliver  interest  rate
+control  accordingly.  This  imperative  could  imply  switching  operating  regimes—from  a  corridor
+regime to a floor regime, or from a liability-driven floor to an asset-driven floor—and staying in the
+43
+ 8 / 13
+BIS central bankers' speeches
+new regime for an extended period. Some central banks, such as the ECB, have monetary policy
+implementation frameworks in which this transition happens relatively seamlessly, while others,
+such as the Fed before the crisis, required significant changes to tools and operations.
+Timeliness of the transition is important, and overly complex transitions —especially if there is
+little time to prepare—could potentially restrain a central bank’s ability to respond aggressively to
+rapidly  changing  economic  and  financial  conditions  in  a  crisis.  Perhaps  more  importantly,
+delayed  transitions  could  interfere  with  market  expectations  about  any  change  in  the  policy
+stance, even though appropriately-calibrated expectations, through their effect on market pricing,
+could be stabilizing and lower the risk of a crisis. Additionally, if a central bank chose to employ a
+framework that would need to be transitioned, it would need to make sure that the necessary
+tools were available to facilitate that transition. New tools and practices could potentially require
+new  operational  procedures, 
+legal  approvals,  governance  processes,  counterparty
+administration, technological systems, and learning curves for both central bank staff and market
+participants. Such switching may also be costly for money market participants if resource needs,
+infrastructure, and expertise dedicated to certain activities change over time.
+A  separate  challenge  for  the  central  bank  to  consider  is  how  to  maintain  operational  and
+analytical readiness, both to be able to implement monetary policy in different types of operating
+regimes  and  to  be  able  to  transact  in  potential  markets  targeted  for  asset  purchases.  For
+example, the Fed had no operational experience transacting in the agency MBS market prior to
+the crisis. It initially relied on outside investment advisors to support its first purchase program,
+before eventually bringing trading operations in house, and then later developing capabilities to
+conduct auctions on its proprietary auction platform.
+Conclusion
+44
+The  Federal  Reserve  and  other  central  banks  initially  proceeded  with  asset  purchases  in  a
+cautious way given that the tool was new. However, I believe we have learned that the benefits
+are notable and the costs likely less than feared. Moreover, U.S. fixed income markets were able
+to withstand more sizable purchase operations than we initially anticipated, and we now know
+that we can successfully maintain interest rate control with a large balance sheet as we raise
+rates. This experience could give policymakers greater confidence in using this tool to provide
+additional monetary policy accommodation in future zero lower bound episodes, and give market
+participants greater confidence in the effectiveness of the tool in mitigating the zero lower bound.
+With evidence suggesting the neutral fed funds rate has fallen notably, we should continue to
+absorb  lessons  from  our  and  other  central  banks’  experiences.  In  particular,  we  will  need  to
+consider  the  importance  of  communications,  how  to  organize  an  operating  regime  that
+transitions smoothly, and how to maintain operational readiness. As we normalize the Federal
+Reserve’s balance sheet, we continue to proceed cautiously given our lack of experience with
+this  process.  I  think  the  gradual  and  predictable  approach  the  FOMC  has  adopted  has  been
+successful so far, but we will learn more as we proceed and as other central banks reach those
+milestones as well.
+1
+2
+3
+4
+My discussion here focuses on the Federal Reserve’s actions to adjust the stance and conduct of monetary
+policy in pursuit of its statutory mandate of full employment and price stability.  However, the Fed’s response to
+the  crisis  also  included  numerous  temporary  programs  and  facilities  aimed  at  supporting  the  liquidity  of
+financial institutions and fostering improved conditions in key financial markets. 
+The Fed’s outright purchases of securities did not raise any credit risk exposure.
+The  FOMC  also  undertook  a  program  to  extend  the  maturity  profile  of  its  Treasury  holdings.    This  Maturity
+Extension Program (MEP) did not affect the portfolio’s overall size, yet still increased the portfolio’s duration risk
+—an important characteristic of all asset purchase programs.  A common metric for communicating about the
+dollar value of duration risk held in the portfolio is in terms of ten-year Treasury equivalents.
+ 9 / 13
+BIS central bankers' speeches
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Even before asset purchases were launched, the reserve-adding effects of the Fed’s crisis-related lending
+programs highlighted shortcomings of its pre-crisis monetary policy implementation framework.  In the first year
+or so of the crisis, in order to maintain the relatively scarce level of reserves necessary to maintain interest rate
+control, the Desk offset balance sheet growth associated with the Fed’s credit and liquidity facilities by reducing
+other assets on the Fed’s balance sheet, notably holdings of short-term U.S. Treasury securities.  By September
+2008,  amid  a  deepening  crisis  and  widening  policy  response,  the  Fed  lacked  a  sufficient  volume  of
+unencumbered  Treasury  securities  to  sell.    Some  additional  reserve-draining  capacity  came  from  the
+Supplementary Financing Program (SFP), used from September 2008 through July 2011, through which the
+U.S. Treasury issued bills (separate from its regular borrowing program) and maintained the proceeds in an
+account at the New York Fed.  Even with this program, the Fed’s sterilization capacity was limited.
+The FOMC’s September 2014 Policy Normalization Principles and Plans indicate that the Fed plans to use an
+ON RRP facility only to the extent necessary and will phase it out when it is no longer needed to help control the
+federal funds rate.  The FOMC’s current directive for open market operations instructs the New York Fed’s Open
+Market Trading Desk to undertake ON RRPs in amounts limited only by the value of Treasury securities held
+outright  in  the  System  Open  Market Account  (SOMA)  that  are  available  for  such  operations  and  by  a  per-
+counterparty limit of $30 billion per day.
+In theory, a standing facility that pays IOER should set a floor on wholesale short-term interest rates given the
+safety and convenience of this investment, and the fact that competition should bid sub-IOER rates up to levels
+close to those paid on reserves.  However, certain institutional aspects of U.S. money markets (including bank-
+only access to IOER, credit limits imposed by lenders and other impediments to market competition, and the
+costs of balance sheet expansion) appear to create frictions that have made IOER act more like a magnet that
+pulls  up  short-term  rates.    ON  RRPs  fortify  the  floor  on  wholesale  short-term  rates  by  providing  a  similar
+investment option to a wide range of nonbank institutions that are not eligible to earn IOER.  I discuss the
+rationale for the design of this framework and the efficacy of its performance in “Money Markets after Liftoff: 
+Assessment to Date and the Road Ahead,” remarks presented at the 70th Anniversary Celebration of the School
+of International and Public Affairs, Columbia University, New York City, February 22, 2016.
+On December 31, 2015, the EFFR dipped to 0.20 percent, five basis points below the bottom of the FOMC’s
+target range.  In general, the EFFR shows temporary softness on month- and quarter-end dates as banks
+decrease the size and adjust the composition of their balance sheets around key reporting dates. 
+See FOMC Communications related to Policy Normalization.
+For maturing Treasury securities, the monthly cap is initially $6 billion and will increase in steps of $6 billion at
+three-month intervals over twelve months until it reaches $30 billion per month.  For agency MBS and agency
+debt, the initial monthly cap is $4 billion and will increase in steps of $4 billion at three-month intervals over
+twelve months until it reaches $20 billion per month.  The Committee anticipates that the caps will remain in
+place once they reach their respective maximums.
+See Transcript of Chair Yellen’s Press Conference, September 20, 2017.
+The gradually rising caps allow market participants to incrementally absorb additional supply and its attendant
+duration and prepayment risk.  Leaving the caps in place over the course of the normalization process helps
+ensure a gradual pace of the portfolio’s runoff, particularly in light of the lumpiness in the Treasury maturity
+profile and the risk of an increase in pay-downs on agency MBS.  I explore these issues in more detail in
+“Gradual and Predictable:  Reducing the Size of the Federal Reserve’s Balance Sheet,” remarks presented at
+SUERF, the European Money and Finance Forum, New York City, October 11, 2017.
+Federal Reserve Board staff estimate paths for the term premium effect associated with different balance sheet
+scenarios in Brian Bonis, Jane Ihrig, and Min Wei, “Projected Evolution of the SOMA Portfolio and the 10-year
+Treasury Term Premium Effect,” Board of Governors of the Federal Reserve System FEDS Notes, September
+22,  2017.    Median  responses  to  the  Desk’s  July  2017 Survey  of  Primary  Dealers  and Survey  of  Market
+Participants indicated the estimated cumulative effect on the 10-year Treasury yield to be around 25 basis points
+over  two  years  following  implementation,  and  the  cumulative  effect  on  the  30-year  production  coupon  MBS
+option-adjusted spread to be 15 basis points over the same timeframe. 
+Results  from  the  New  York  Fed’s  September  2017 Survey  of  Primary  Dealers  and Survey  of  Market
+Participants indicate expectations of about a one in four chance of a return to the zero lower bound at some point
+between now and the end of 2020.  Conditional on that scenario occurring, survey respondents on average
+assigned probabilities of over 80 percent to the portfolio being larger than $4 trillion at year-end 2020—an
+outcome suggesting a renewal of full reinvestments or large-scale asset purchases.  Additional reasons for the
+ 10 / 13
+BIS central bankers' speeches
+muted response in asset prices are examined in a speech cited earlier, “Gradual and Predictable:  Reducing
+the Size of the Federal Reserve’s Balance Sheet.”
+Projection scenarios considered balance sheet sizes containing long-run levels of reserves of $406 billion,
+$613 billion, and $1 trillion, as well as a range of sizes for other Fed liabilities and capital.  However, the balance
+sheet’s normal size is not a fixed value, since some factors, such as Federal Reserve notes (U.S. dollar paper
+currency)  and  capital,  tend  to  grow  over  time.    See  the  Federal  Reserve  Bank  of  New  York’s  report  and
+accompanying data file, “Projections for the SOMA Portfolio and Net Income (July 2017).”
+These  liabilities  include  Federal  Reserve  notes  (U.S.  dollar  paper  currency),  the  U.S.  Treasury’s  General
+Account, deposits held by designated financial market utilities and government-sponsored enterprises, and
+reverse repos conducted with foreign and international account holders.  On average, these line items summed
+to over $500 billion in 2017, on top of more than $1.5 trillion in Federal Reserve notes.  Fed liabilities are
+discussed more thoroughly in Lorie Logan, “Implementing Monetary Policy:  Perspective from the Open Market
+Trading Desk,” remarks before the Money Marketeers of New York University, New York City, May 18, 2017.
+It is worth noting that the size and structure of Fed’s securities portfolio and the role the portfolio played have
+undergone substantial shifts at various times over the course of the Fed’s history, reflecting changes in policy
+implementation imperatives.  See Meryam Bukhari et al, “The SOMA Portfolio through Time,” Federal Reserve
+Bank of New York Liberty Street Economics (blog), August 12, 2013.
+Throughout this discussion, I focus on forward guidance and use of the central bank’s balance sheet (through
+large-scale purchases of additional assets and reinvestment policies, but not funding for lending programs) as
+possible tools.  U.S. policymakers have shown little appetite to pursue negative nominal interest rates, although
+that is another unconventional tool used by several central banks in recent years.   
+See Janet L. Yellen, “A Challenging Decade and a Question for the Future,” Herbert Stein Memorial Lecture,
+National Economists Club, Washington, D.C., October 20, 2017.  In a recent set of simulations using traditional
+monetary policy strategies based on simple policy rules, Federal Reserve Board economists estimate that the
+zero lower bound would bind with significantly higher frequencies than in previous analyses.  See Michael T.
+Kiley and John M. Roberts, “Monetary Policy in a Low Interest Rate World,” Brookings Papers on Economic
+Activity Conference Drafts, Washington, D.C., March 23–24, 2017.
+She acknowledged, however, that the simulations on which her analysis was based could overstate the FOMC’s
+current ability to respond to a recession, given little scope to cut the federal funds rate and the possibility that
+stimulus associated with forward guidance and asset purchases could be reduced with long-term rates already
+quite low.  See Janet L. Yellen, “The Federal Reserve’s Monetary Policy Toolkit:  Past, Present and Future,”
+opening  remarks  at  the  Federal  Reserve  Bank  of  Kansas  City’s  Economic  Policy  Symposium, Designing
+Resilient Monetary Policy Frameworks for the Future, Jackson Hole, Wyoming, August 26, 2016.
+Most participants did not indicate support for using the balance sheet as an active tool in other situations or for
+other purposes.  See Minutes of the Federal Open Market Committee, November 1-2, 2016.
+Some surveys of the numerous studies of central bank bond purchase programs include:  Joseph E. Gagnon,
+“Quantitative Easing:  An Underappreciated Success,” Peterson Institution for International Economics Policy
+Brief, no. PB16–4, April 2016; Saroj Bhattarai and Christopher Neely, “A Survey of the Empirical Literature on
+U.S.  Unconventional  Monetary  Policy,”  Federal  Reserve  Bank  of  St.  Louis  Working  Paper,  no.  2016–021A,
+October 2016; and John C. Williams, “Monetary Policy at the Zero Lower Bound:  Putting Theory into Practice,”
+Brookings Institution Hutchins Center Working Papers, January 2014.
+Studies show a lower median effect for Japan.  Gagnon hypothesizes this may be associated with Japan’s
+much larger government bond market relative to GDP than the other countries studied, perhaps suggesting that
+asset purchase effects operate in proportion to the size of the targeted bond market rather than the size of the
+economy.
+See  Ben  S.  Bernanke,  “Monetary Policy in a New Era,”  presented  at  the  Peterson  Institute  for  International
+Economics  conference, Rethinking  Macroeconomic  Policy,  Washington,  D.C.,  October  12,  2017.    Bernanke
+argues, however, that deploying unconventional tools may not be sufficient in addressing a sharp downturn, and
+that changes in a central bank’s monetary policy framework may improve a central bank’s effectiveness in
+defeating the zero lower bound.
+In addition, asset purchase programs may actively promote liquidity and improve market functioning during
+periods of financial market stress, as was the case with the Fed’s first LSAP program, initiated at the height of
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+ 11 / 13
+BIS central bankers' speeches
+the  crisis.    In  turbulent  market  conditions,  the  central  bank’s  willingness  to  purchase  particular  classes  of
+assets can boost confidence and lower liquidity premiums that investors would require to hold otherwise illiquid
+securities.
+More detail about the Fed’s purchases of agency MBS can be found in my “Concluding Remarks at the Monetary
+Policy Implementation in the Long Run Conference,” Federal Reserve Bank of Minneapolis, Minnesota, October
+19, 2016.
+Broad market indicators include, among others, trading volumes, bid-ask spreads, trade quote sizes, financing
+costs, and settlement fails.  Operations also yield valuable information, including executable prices compared to
+those prevailing in the market, counterparty concentration measures, and settlement fails.
+The TBA market is a forward market that allows market participants to efficiently trade a wide range of agency
+MBS  with  similar  characteristics  without  requiring  them  to  analyze  the  underlying  details  of  each  individual
+mortgage security, since any security with the same agency issuer, original maturity term, and coupon can be
+delivered into a single TBA contract.  This structure transforms a market of hundreds of thousands of individual
+mortgage securities into a limited number of homogenous TBA contracts.  For more information on the TBA
+market, see James Vickery and Joshua Wright, “TBA Trading and Liquidity in the Agency MBS Market,” Federal
+Reserve Bank of New York Economic Policy Review 19, no. 1, May 2013. 
+A  dollar  roll  sale  is  a  transaction  that  involves  the  sale  of  agency  MBS  for  delivery  in  one  month  and  the
+simultaneous  agreement  to  purchase  substantially  similar  securities  in  a  later  month,  thus  effectively
+postponing delivery when there is a dislocation in available supply.  The Fed also used coupon swaps to settle
+some agency MBS purchases under its first purchase program.  (A coupon swap is the simultaneous sale of
+one agency MBS and purchase of another agency MBS, which may have a different coupon, issuer, or both.)
+See Minutes of the Federal Open Market Committee, August 10, 2010 and Minutes of the Federal Open Market
+Committee, September 20–21, 2011.
+The FOMC suspended Treasury rollovers from July 2012 through December 2012, when it continued the MEP. 
+At that time, redeeming Treasury securities expanded the Fed’s scope to lengthen the maturity profile of its
+Treasury securities portfolio.
+See the paper cited earlier by Ben S. Bernanke, “Monetary Policy in a New Era.”
+See Eric M. Engen, Thomas Laubach, and David Reifschneider, “The Macroeconomic Effects of the Federal
+Reserve’s Unconventional Monetary Policies,” Board of Governors of the Federal Reserve System Finance and
+Economics  Discussion  Series,  no.  2015–005,  January  2015.    The  authors  found  that  the  gradual  nature  of
+accompanying  revisions  to  the  FOMC’s  policy  expectations  may  have  limited  the  effectiveness  of  forward
+guidance and asset purchases. However, in a future crisis, market participants will have the benefit of the
+current episode in assessing the FOMC’s likely response, leading to a faster adjustment of expectations.
+The importance of a credible commitment for maintaining accommodative policy when the zero lower bound is
+reached is explored in Gauti Eggertsson and Michael Woodford, “The Zero Bound on Interest Rates and Optimal
+Monetary Policy,” Brookings Papers on Economic Activity, no. 1, Spring 2003. 
+Such communications are a form of Odyssean forward guidance about the balance sheet.  See Jeffrey R.
+Campbell  et  al,  “Macroeconomic  Effects  of  Federal  Reserve  Forward  Guidance, ” Brookings  Papers  on
+Economic Activity, Spring 2012.  The authors distinguish between central bank forward guidance that simply
+forecasts macroeconomic performance and likely monetary policy actions (Delphic guidance), and guidance
+that publicly commits the central bank to a set of future actions (Odyssean guidance).
+Because  market  prices  are  forward-looking,  an  announcement  that  affects  expectations  about  the  stock  of
+assets held by the Fed should have an immediate impact on market prices.  However, the overall size of the
+market impact will depend on the expected path of portfolio holdings over time.  In addition, completion of
+purchases may be perceived as strengthening the central bank’s commitment by making it more difficult to
+deviate from announced plans.
+However, since term premium effects decay as securities age, selling securities with relatively short remaining
+times to maturity may not be materially different than redeeming those securities.
+The Fed’s first two purchase programs were launched with pre-announced sizes and time frames (although the
+first  program  was  later  expanded).    In  contrast,  the  third  program  was  open-ended  and  state-contingent. 
+25
+26
+27
+28
+29
+30
+31
+32
+33
+34
+35
+36
+37
+ 12 / 13
+BIS central bankers' speeches
+Following each meeting, the FOMC announced a monthly pace at which it would buy Treasury securities and
+agency MBS, and provided guidance that it would continue its purchases until the “outlook for the labor market
+had improved substantially in a context of price stability.”  The Committee also advised that it was prepared to
+increase or reduce the pace of its purchases to maintain appropriate policy accommodation as the outlook for
+the labor market or inflation changed.
+The FOMC adopted such guidance throughout its third asset purchase program.  Similarly, on October 12, 2017,
+ECB President Draghi pledged to maintain interest rates at their current, low level “well past” the end of the
+ECB’s bond-buying program.
+Governor  Brainard  recently  suggested  that  in  a  low  neutral  rate  environment,  delaying  balance  sheet
+normalization is a means to provide “makeup support” for the economy while enabling the policy rate to escape
+the lower bound earlier than otherwise.  See Lael Brainard, “Rethinking Monetary Policy in a New Normal,”
+remarks  for  the  panel  on  monetary  policy  at  the  Peterson  Institute  for  International  Economics
+conference, Rethinking Macroeconomic Policy, Washington, D.C., October 12, 2017.
+This sequencing also allowed the FOMC to meaningfully assess the efficacy of its tools to control short-term
+interest rates with a large balance sheet, and thereby judge how patient it could afford to be in reducing the
+balance sheet to its longer-run level.
+Whether there are diminishing marginal returns on additional purchases or actual limits on capacity for using
+this tool—implying a size of the balance sheet beyond which further asset purchases become difficult or less
+effective—is a question for further research.  Nevertheless, policymakers may weigh the relative merits and
+risks associated with asset purchases differently based on the balance sheet’s starting size.
+The FOMC’s Policy Normalization Principles and Plans note that the Committee does not anticipate selling
+agency MBS as part of the normalization process, but says that “limited sales might be warranted in the longer
+run to reduce or eliminate residual holdings.”
+Changing the composition of assets within the portfolio, as was done during the MEP, can similarly influence
+financial conditions without changing the portfolio’s size or increasing the supply of reserve balances.  In this
+case, capacity to reallocate the portfolio is constrained by existing holdings.
+Previously, agency MBS operations were conducted on a commercial dealer-to-customer trading platform.  The
+switch  to  FedTrade  minimized  operational  risk,  improved  efficiency  and  competitiveness,  and  increased
+transparency around the Fed’s mortgage operations.
+38
+39
+40
+41
+42
+43
+44
+ 13 / 13
+BIS central bankers' speeches

@@ -1,0 +1,224 @@
+Andreas Dombret: To count or not to count – the future of internal
+models in banking regulation
+Speech by Dr Andreas Dombret, Member of the Executive Board of the Deutsche Bundesbank,
+at the EBA Policy Research Workshop &quot;The future role of quantitative models in financial
+regulation&quot;, London, 28 November 2017.
+ 1. Introduction
+Ladies and gentlemen
+Dear Andrea Enria
+Thank you for the invitation and your kind introduction. After I accepted to give the keynote at this
+risk modelling conference, a colleague shared with me an unflattering comparison of financial
+risk modellers with weather forecasters. He asked: Why do you think weather forecasters like
+financial risk modellers so much? His answer: Because the only kind of storm less well predicted
+than hurricanes and tornadoes are financial storms.
+In my keynote today, I will frame this conference in a more positive tone, as I see a lot of merit in
+financial risk modelling – and in weather forecasting, too, for that matter.
+Yet during and after the financial crisis we witnessed severe instances of risk model failure –
+where internal calculations of many banks grossly underestimated actual risks. Remember for
+example the systematic underestimation of a market freeze or a price bubble before the sub-
+prime crisis broke. The many unexpected lawsuits pointed to further blind spots – all of which
+suddenly led to capital cushions melting away.
+However, focusing on these failures alone misses the fact that, overall, financial risk modelling
+has improved risk measurement substantially. It has inspired us to reconsider the role and the
+liberties of internal modelling.
+And  this  is  partly  why  you  are  at  today’s  EBA  workshop  –  to  improve  internal  models.  Your
+agenda includes challenging topics. My aim is far more modest. In my statement this morning I
+will take stock of risk modelling and the “lessons learned” from the financial crisis. I will highlight
+both  the  limitations  and  the  strengths  of  internal  modelling.  Second,  I  will  present  general
+principles that should guide future work. And, third, I will outline my take on where current and
+future EU projects on internal models should be heading.
+2. Financial crisis, regulatory reform and internal models
+But first, let’s take a step back. Fifteen years ago, internal risk models were considered the gold
+standard for optimising capital allocation. What made them so successful was the efficient use
+of capital and their high risk sensitivity – which was made possible by granting banks substantial
+freedom  in  using  their  internal  models  for  regulatory  capital  calculation.  Even  though  Basel  II
+limited the freedom of banks by setting several parameters for the internal ratings-based (IRB)
+approaches, IRB banks had substantial room for manoeuvre when calculating their capital ratios.
+This made internal risk models prone to abuse. But those who pointed to these shortcomings, or
+just  to  their  unrealistic  assumptions,  have  frequently  been  called  unscientific  and  opposed  to
+innovation.
+Then the financial crisis erupted, changing almost everything in finance. Models played their part
+in contributing to the turmoil. Risk modelling moved from panacea to placebo or even steroid.
+ 1 / 5
+BIS central bankers' speeches
+Individual calculations of many banks were not crisis-proof, as their assumptions were way too
+optimistic. In fact, some models even fostered herding behaviour.
+In  2010,  the  Basel  Committee  decided  to  take  a  closer  look  at  the  root  problems  of  internal
+models.  The  core  question  was  whether  differences  in  capital  ratios  of  banks  were  due  to
+differences in portfolios or due to illegitimate differences in modelling practices. In three studies
+we  assessed  the  risk-weighting  of  banking  and  trading  book  assets.  Material  variances  in
+regulatory capital ratios were found. Only a part of these could be explained by differences of risk
+profiles. But another substantial part of the variation arose not from differences in the riskiness of
+bank portfolios, but instead from other factors that are due to modelling problems – for example,
+some banks gamed model weaknesses, and some of the terms specified by supervisors proved
+to be problematic.
+One of the main reasons for these unwarranted differences is that models were even applied to
+portfolios where the statistical presumptions are violated. For example, in low default portfolios
+you simply do not have enough historical cases of default to calculate a reliable credit default
+figure. Another prominent example is that extreme events, meaning crises, occur more often in
+real life than the distribution of most models assumes.
+But there is an even bigger threat when applying modelling techniques. The big mistake is to
+believe  that  financial  risk  models  can  ever  be  fully  accurate  or  even  close  to  it.  The  point  is
+fundamental, yet simple: risk models have fundamental limits that can never be fully remedied –
+which is why strong regulatory boundaries and supervisory controls are indispensable.
+To make my point, I have to get a bit philosophical. There are two types of limits, and let us turn
+to a great economist to define their nature. In 1921, Frank Knight differentiated between risk and
+1
+uncertainty.
+Uncertainty describes the unexpected events. The first limit of models is that they cannot capture
+uncertainty. Uncertainty is fundamental, because we do not know what the future will bring – it is
+hardly  manageable.  It  is  quite  substantial  when  it  comes  to  financial  risk  modelling.  That’s
+because financial risk modelling is a social science. The models can only provide a simplified
+heuristic of real social interaction, but it is impossible to fully grasp the complexity.
+The second limit of models concerns how Knight defined risk. Risk is what we can somehow
+manage, thanks to the law of large numbers, with a margin of error. Risk is what we can model.
+Yet,  even  in  this  comfort  zone  of  risk  models  some  limitations  exist:  real  events  can  only  be
+forecasted,  like  weather,  but  cannot  be  predicted  –  data  as  well  as  methods  face  natural
+limitations.
+All  in  all,  this  means:  Modelling  is  probably  as  scientific  as  it  can  get  in  banking  regulation.
+However, models can never get a calculation fully right. To limit mis-measurement, we have to
+deal with risk and uncertainty:
+First, close gaps in the regulation of risk measurement. This includes data limitations: we
+can only model where sufficient data are available. Defaults in sovereign bonds, for example,
+clearly do not fulfil this condition.
+Second, work is needed on methodological shortcomings: we have to insist on robustness
+checks and need to limit the degrees of freedom for financial institutions, for example with
+regard to assumptions about distributions.
+Third,  one  has  to  accept  Knightian  uncertainty  and  protect  regulation  against  it  –  human
+behaviour  changes,  irrational  exuberance  prevails,  extreme  events  like  herding  behaviour
+repeat  themselves,  and  market  actors  will  always  test  the  limits  of  models.  We  cannot
+model  these  challenges  away.  That’s  why  we  need  backstops.  Models  need  checks  and
+balances, since a sole focus on model-based capital minimisation would be dangerous for
+ 2 / 5
+BIS central bankers' speeches
+financial stability.
+3. Benefits of internal models
+So, internal risk modelling for regulatory purposes clearly has its weaknesses. Nevertheless, I
+am convinced that the benefits very much outweigh the drawbacks.
+The first advantage of risk models doesn’t sound very encouraging, but it is nevertheless quite
+important. Their strength is that they get it less false than any other approach we have. For as
+long as we work on the approach of risk-based regulation, we have to somehow quantify risks;
+and there is no way we can do without educated guessing. Any minimum capital requirement we
+impose on institutions requires more or less uncertain assumptions about the riskiness involved.
+This holds true not only for internal models, but also for standardised approaches to risks. Even
+the rather conservative regulatory risk weights of standardised approaches may result in over-
+optimistic  capital  charges  –  just  look  at  sovereign  bonds.  Moreover,  institutions  using
+standardised approaches can engage in “risk shifting” – that is the search for the most profitable,
+but also the most risky assets among equal risk weights.
+Thus, even if we banned models entirely from regulation, we would still end up with a vulnerable
+way to measure risk. Risk models are the better imperfect options.
+The second strength of models actually is their variation. For not all of the variability of internal
+models is necessarily undesired. There may be good reasons for divergent capital requirements
+based  on  similar  credit  portfolios,  for  instance  because  of  dissimilar  effectiveness  of  risk
+management in banks or given a different legal environment in which banks are operating. Also,
+model variability reduces the risk of herding behaviour, which would arise if every bank were to
+use the same standardised approach.
+The third – and in my view most important – strength of risk models is their high degree of risk
+sensitivity. For each type and each category, capital requirements calculated by an institution’s
+own models is typically a lot more in line with historically observed risk. And this, in turn, has
+positive  consequences.  For  example,  it  incentivises  risk-adequate  behaviour  in  financial
+institutions  in  general.  From  a  supervisory  point  of  view,  we  are  especially  interested  in  the
+additional  incentives  it  offers  to  banks  to  develop  and  maintain  a  thorough  risk  assessment
+approach – which also supports and strengthens the internal risk management.
+4. To count or not to count: internal models after regulatory reform
+So far I have reminded us why internal model-based capital calculation – despite its weaknesses
+– remains a worthwhile regulatory tool. Accordingly, the post-crisis regulatory agenda still builds
+on  the  principle  of  risk-based  regulation  and  still  encourages  the  use  of  internal  modelling
+techniques.  The  Basel  Committee  has  decided  to  remove  only  one  internal  approach  in  its
+entirety – the Advanced Measurement Approach for operational risk, AMA for short. Apart from
+that,  models  still  play  an  important  role  in  the  Basel  III  finalisation  package.  And  as  I  have
+mentioned, there are good reasons for that.  
+Yet,  moving  forward,  we  need  to  incorporate  the  “lessons  learned”  into  regulation  and  into
+supervisory processes.
+We have done this by installing additional constraints and backstops to close gaps that internal
+models  cannot  close  –  most  prominently  the  leverage  ratio  and  the  output  floor.  Further
+safeguards are implemented by more rigorous methods, data rules and input floors. This means
+that  regulation  has  become  multi-polar  –  supervisors  rely  on  various,  complementary
+requirements.
+ 3 / 5
+BIS central bankers' speeches
+But at the same time there is also a need to support the benefits of internal models. On the Basel
+Committee, the German representatives resolutely argued in favour of maintaining risk sensitivity
+in regulation, because this is the best way to capture the actual risks of a financial institution and
+to set the right incentives, thereby discouraging excessive risk-taking. This especially concerns
+the subject of calibrating the output floor, which is – as most of you know – a limit to internal
+model  calculations  based  on  the  standardised  approaches.  With  the  advantages  of  internal
+modelling in mind, this topic is understandable. And for me, the current state of negotiations – an
+output floor of 72.5 per cent – is too high; but it is still enough for models to remain an attractive
+tool.  While  risk  sensitivity  will  be  diminished  by  setting  the  output  floor  at  this  level,  it  still
+represents a far better outcome than the originally envisioned output floor of 80 per cent.
+Basel  III  is  better  than  its  critics  claim:  While  some  countries  may  gold-plate  their  national
+regulations through a ban of internal models – the new standard also enables the Basel countries
+to continue the use of internal models. And this is an important outcome.
+5. You can count on that: better models for the future
+Now  we  have  to  look  ahead.  We  should  take  the  Basel  III  reforms  and  implement  them  in  a
+manner that improves risk models further.
+Banks have to build better models, models that not only focus on the efficient use of capital but
+also ensure that a bank can weather future storms. Both goals must weigh equally, meaning that
+the storm-forecasting part has to be given much more attention.
+Authorities like the SSM and EBA on the other hand will have to roll up their sleeves and build a
+regulatory and supervisory framework for the future of risk measurement.
+This will be challenging not only for the sheer technical complexity, but also because we have to
+strike two balances at once:
+The  first  balance  is  to  maintain  the  incentives  for  fine-tuned  risk  measurement  and
+management on the one hand, while improving the checks and balances on risk models on
+the other.
+When pursuing this balance, we obviously have to do this on EU level. In that context, we
+need to strike the second balance: in order to guarantee the same high standards in the
+entire SSM, we have to achieve EU- and SSM-wide harmonisation on the one hand; on the
+other  hand,  however,  we  should  not  go  too  far,  meaning  that  we  cannot  achieve  an
+exhaustive list for each and any model decision. While we need harmonisation of definitions
+and supervisory procedures – in order to close relevant gaps – supervisory agencies should
+not be condemned to taking a box-ticking approach. Since every model is different, the box-
+ticking approach would only undermine a critical review of a bank’s model.
+I believe it to be important that we keep these balances in mind when we come to design new
+rules or redesign old ones.
+Let me now outline the priorities for future work on improving internal models in the EU from the
+Bundesbank’s point of view.
+With  regard  to  credit  risk  and  the  boundaries  for  the  IRB  approaches,  it’s  important  that  we
+implement the Basel III compromise in a rigorous way. This means that input and output floors
+will prevent the internal calculations of regulatory capital requirements from going too low. But at
+the same time, it maintains the internal modelling approach and, with that, substantial freedoms
+for banks to calculate regulatory capital.
+Another  important  point  concerns  credit  risks,  but  also  other  risk  type  models.  The  targeted
+review of internal models, the TRIM project, by the SSM should be conducted in a responsible
+ 4 / 5
+BIS central bankers' speeches
+and  considered  manner  –  it  needs  to  strike  the  two  balances  that  I  highlighted.  This  means
+specifically:
+The  biotope  of  risk  modelling  approaches  must  be  kept  diverse. A  right  understanding  of
+harmonisation means not only treating equal things equally, but also treating unequal things
+unequally. TRIM must ensure, that the playing field for banks is levelled, but not create a
+monoculture of models driven by supervisory rules.
+Furthermore, it means that we have to balance conservativism and precision. Supervisors
+will  always  be  tempted  to  make  risk  estimates  more  conservative  –  which  is,  of  course,
+prudent. Being too conservative, however will make risk models less attractive for banks to
+use it not only as a regulatory instrument but also as an effective internal risk management
+tool.
+Finally, changes that we will introduce through the TRIM project must be implemented in a
+reasonable manner. Banks need a transitional period to adopt the new standards.
+Let  me  close  these  policy  guidelines  with  a  clear  statement:  Throughout  all  regulatory  and
+supervisory  projects  to  finalise  the  reform  agenda  for  internal  modelling,  the  Bundesbank  will
+advocate the retention of risk sensitivity.
+6. Conclusion
+Ladies and gentlemen
+You have a full agenda of challenges in risk modelling ahead of you. Moreover, during the coming
+years you hopefully will help to make financial risk models better. My key take-aways for these
+one and a half days and your future work are:
+First,  internal  models  have  rightfully  lost  their  sacrosanct  status,  as  they  revealed  big
+weaknesses during the last financial crisis. Models will never be perfect. We always have to
+be aware of the underlying assumptions and their shortcomings.
+Second: after regulatory reform, internal models rightly continue to play a big role, but now a
+complementary one. Limits have been set. But we shouldn’t overreact. It is also important to
+maintain incentives for banks with regard to a risk-sensitive framework. This is why, on the
+Basel  Committee,  German  authorities  have  resolutely  argued  in  favour  of  sufficient
+incentives for internal models.
+Third: on the basis of the limits set by the Basel III reforms, we have to look forward now,
+and NCAs, EBA and SSM have to set about improving internal models further so that they
+can contribute to efficient and stable financial markets – at the service of the real economy.
+Again, many thanks for inviting me – I wish all of you a fruitful workshop. Thank you for your kind
+attention.
+1
+Knight, F. H. (1921) Risk, Uncertainty, and Profit. Boston, MA: Hart, Schaffner & Marx; Houghton Mifflin Company.
+ 5 / 5
+BIS central bankers' speeches

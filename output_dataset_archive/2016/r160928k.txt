@@ -1,0 +1,194 @@
+   Andrew Hauser: A new RTGS service for the United Kingdom – a 
+platform 9¾ for sterling payments? 
+Remarks  by  Mr  Andrew  Hauser,  Executive  Director  for  Banking,  Payments  and  Financial 
+Resilience of the Bank of England, on the panel “Towards a single platform for all payments”, 
+at SWIFT’s SIBOS conference, Geneva, 28 September 2016. 
+ People wanting to travel north out of London by train are spoiled for choice. Spread along a 
+half-mile stretch of the city’s Euston Road are no less than three major stations: Euston, King’s 
+Cross and St Pancras. Each provides slightly different facilities, with trains ferrying passengers 
+at different speeds to different locations. But the basic service – train travel – is much the same 
+in all three cases, and many of the destinations served by different stations are within a few 
+miles of each other. Indeed some are identical. There are for example nearly 100 trains a day 
+to Newark Northgate, split equally between King’s Cross and St Pancras!  
+The reasons for such an apparently complex system are of course historic, dating back to the 
+period of intense competition between train lines in Victorian times. Euston was built in 1837 
+for the London and Birmingham Railway, King’s Cross in 1852 for the Great Northern Railway, 
+and St Pancras in 1868 for the Midland Railway. Given a free hand, it is inconceivable that 
+anyone  would  design  such  arrangements  from  scratch  today.  Yet  tens  of  millions  of 
+passengers use each station every year: business is booming. 
+The situation in UK payments today is rather similar. Customers wishing to make a domestic 
+retail  payment  can  choose  between  physical  cash (drawn from their  bank,  or  via  the  LINK 
+system of ATMs), a paper cheque, a credit or debit card via the Visa or Mastercard systems, 
+a real-time payment over FPS, or a batch payment across Bacs. Wholesale payments may be 
+made through the CHAPS high-value scheme, operated on the Bank of England’s Real-Time 
+Gross Settlement System (RTGS) or through the embedded payment schemes of CREST or 
+LCH. Those making cross-border payments may use their correspondent bank, a direct link to 
+an overseas RTGS system or CLS the foreign exchange settlement service. Taken together, 
+one can easily list 10 or 15 payments pathways without even trying. 
+Each  of  these  systems  is  devoted  to  meeting  the  needs  of  their  customers,  which  vary 
+materially. Yet at their most basic level, all involve a simple transfer of value. The fragmented 
+way in which that core service is delivered poses at least three types of economic challenge. 
+First, those having to make different types of payment over time must bear the direct costs of 
+meeting  multiple  different  payments  protocols,  technological  requirements,  fees  and 
+governance  standards.  Second,  those  costs  create  potential  barriers  to  entry  for  would-be 
+payments  providers,  holding  back  innovation  and  competition.  And,  third,  it  is  a  potential 
+challenge  for  system-wide  resilience,  if  payments  meant  for  one  system  cannot  easily  be 
+rerouted through another in the event of a system outage. 
+Those challenges have been with us for some time. But the pressure for change is intensifying 
+from a number of directions. First, consumers are increasingly demanding a more seamless 
+payments experience – in real time, and indifferent to time zone, country or currency. That 
+pressure has been most evident in retail markets – but is spreading to corporate and larger-
+value markets too. Second, intense cost pressures on traditional business models since the 
+financial crisis have pushed banks and other financial institutions to look for more radical ways 
+to find efficiency savings, particularly in back office and ancillary services such as payments.  
+Third, advances in technology have made it much easier to deliver or contemplate genuinely 
+mobile  payments  platforms  and  distributed  payments  and  database  systems.  Fourth,  new 
+regulation – building on the painful lessons of the financial crisis – has increased the need for 
+financial  firms  to  be  able  to  mobilise  significant  stocks  of  highly  liquid  assets  quickly  and 
+seamlessly  across  systems.  And,  fifth,  the  growing  threat  of  cyber-attack  and  reduced 
+BIS central bankers’ speeches 
+ 1 
+   tolerance for operational outages driven by the move to real-time payments has made users 
+ever more demanding in terms of the resilience of payment ecosystems. 
+All of these forces are pushing towards greater convergence in payments systems. But that 
+convergence could take a number of different forms. At its most radical, it could imply a single 
+universal payments system, run on a single platform, and handing all payment types. Or it 
+could mean retaining separate systems, but with a common “backbone”, including a shared 
+language, operating standards and access protocols. 
+Before discussing these alternative models in greater detail, I should say a word about why 
+central banks like the Bank of England have such a central interest in the outcome. Our primary 
+role is to maintain stability in sterling payments arrangements – and we do that in two key 
+ways. First, by ensuring that as many payments as possible settle in (or are backed by) central 
+bank money, we aim to minimise so-called “settlement risk”: the risk that a payment fails to 
+reach  its  destination  because  the  intermediary  fails,  or  confidence  is  undermined  in  the 
+payments medium. Central bank money, whether physical (banknotes) or electronic (reserves) 
+in form, is the ultimate risk-free means of final payment. And, second, central banks seek to 
+maximise  the  operational  resilience  of  core  payments  systems,  by  operating  high-value 
+payment systems directly and supervising the other systems through our regulatory powers. 
+Although public debate about operational resilience has, rightly, intensified in recent years, 
+payments systems have a generally good track record: for instance, most operated flawlessly 
+throughout during the financial crisis, unlike some other key bits of the financial system.  
+It is sometimes claimed that central banks’ focus on stability stands in the way of innovation or 
+consumer  interests.  But  neither  needs  to  be  true.  Efficiency-enhancing  innovation  and 
+competition  has  an  important  part  to  play  in  promoting  financial  stability,  through  reducing 
+market concentration, identifying new risk-reducing technologies, and increasing the scope for 
+electronic  settlement  in  central  bank  money.  And  surveys  regularly  identify  resilience  and 
+safety as being at the very top of consumers’ demands for payments services. So we do want 
+to enable innovation, but only where that can be done without impairing stability. 
+What  do  we  make,  then,  of  those  two  alternative  models  for  payments  convergence  I 
+mentioned  a  moment  ago?  An  all-encompassing  payments  platform  hosted  on  a  single  IT 
+system has clear appeal from the point of view of simplicity and clarity of purpose. And there 
+are  some  important  case  studies  globally  –  including  in  Mexico,  whose  central  bank  is 
+represented on the panel today. But it would be a big change from the model we have in the 
+United Kingdom today, and poses at least three significant risks. First, it would involve putting 
+all our eggs in one basket operationally: if the system and its backups were to go down, for 
+any reason, all payments in the UK would stop. So, just as it would be unwise to try to channel 
+all 100m passengers a year to Euston, King’s Cross and St Pancras through a single train 
+platform, diversity has some operational merits! Second, it would be potentially very complex 
+to ensure that all of the different functions currently offered by the various payment systems 
+were replicated on the single system. In all probability this would end up being impossible, and 
+compromises would be made – what started as being everything to everyone could end up 
+being much less. Third, someone would need to pay – and there is a good chance that such a 
+large project might fall to the public authorities. That is not the model that has developed for 
+UK  retail  payments  –  and  such  a  single  dominant  infrastructure  could  well  have  negative 
+implications for innovation and competition. 
+Over the medium- to long-term, it is possible that some of these challenges may be overcome 
+as  new  technologies  –  including  the  distributed  ledger  –  mature.  Central  banks  could 
+themselves have a role to play in the operation or underpinning of any such system, through 
+the  issuance  of  a  Central  Bank  Digital  Currency  or  otherwise.  But  there  are  so  many  big 
+2 
+ BIS central bankers’ speeches 
+   questions around such a scheme – policy, legal, technological, even social – that this is still 
+very much in the realm of research rather than implementation1. 
+In the nearer term, the UK is therefore embracing the second convergence concept – that of 
+joining  separate  systems  together  around  a  common  backbone,  embracing  so-called 
+“interoperability”. Underpinning that, I would pick out two key drivers – the first in wholesale 
+payments, and the second in retail. 
+The first driver is the Bank of England’s consultation on a new medium-term vision for its high-
+value  RTGS  service,  which  we  published  just  a  few  days  ago2.  RTGS  has  delivered  an 
+extended period of stability in sterling payments, has a range of risk-mitigation features that is 
+at least the equal of other systems globally, and is generally well thought of by its users. But, 
+after two decades of operation, its capacity to deal with the accelerating pace of change in 
+payments that I described earlier is limited. That poses three risks to the achievement of the 
+Bank’s  mission  over  the  medium  term.  First,  we  could  see  a  reversal  in  the  proportion  of 
+payments settled in central bank money if systems develop outside the RTGS net, harming 
+financial stability. “Ubering” for central banks, if you like. Second, we may end up impeding 
+stability-enhancing innovation and competition. And, third, we risk a future diminution in service 
+quality, whether in terms of meeting user needs or operational continuity. 
+Our consultation paper sets out a vision for responding to that change – retaining the core risk-
+mitigating  functions  of  the  current  generation  of  RTGS,  but  fundamentally  refreshing  the 
+technological base of the service and delivering strategic change in four key areas: broader 
+access (including for smaller banks, and non-banks); even greater resilience (in particular to 
+cyber-threats); stronger inter-operability (including through the adoption of ISO 20022); and 
+better  user  functionality  (including  true  or  near-24x7  operating  capability,  better  liquidity 
+management  tools  and  richer  data  provision).  Further  detail  is  given  in  Table  A.  Taken 
+together, these changes aim to safeguard stability in a rapidly-changing payments ecosystem 
+whilst  enabling  that  innovation  to  take  place:  by  putting  a  modern  and  responsive  RTGS 
+service at its heart. We are seeking feedback on these proposals by 7 November, and will 
+publish a final blueprint in early 2017. 
+Alongside  that  change  to  RTGS,  reform  is  also  underway  in  the  sterling  retail  payment 
+systems. In many respects, the UK starts from a good position: for instance, we have high 
+rates of mobile and internet banking access, and have had real time retail payments available 
+on a 24/7/365 basis since 2008, when Faster Payments was introduced. But, as I noted at the 
+start,  the  landscape  is  quite  a  fractured  one,  using  different  messaging  standards  and 
+technology platforms, with relatively high levels of tiering. Last year saw the establishment of 
+a Payments Strategy Forum, drawing together a wide range of industry and user participants 
+to plot a new vision for retail payments. The forum’s own consultation on a future strategy has 
+just  concluded,  and  includes  a  number  of  recommendations  for  the  simplification  and 
+streamlining  of  both  the  governance  and  technology  underpinning  retail  payments.  This 
+touches  on  some  of  the  same  themes  as  the  Bank’s  proposals,  including  in  particular  a 
+recommendation to move to a common interoperable messaging standard. 
+An  important  and  as  yet  not  fully  answered  question  is  whether  interoperability  in  retail 
+payments means just the adoption of common messaging standards, governance and access 
+criteria  by  otherwise-separate  retail  technologies  –  or  whether  it  also  means  limited 
+technological convergence, for example with multiple “overlay” services using a common “pipe” 
+to receive and transmit payments. Such a model would be consistent with the increased use 
+of Application Programming Interfaces (or APIs) and regulation such as the Second Payments 
+                                                
+1  The  Bank  of  England  is  actively  engaged  in  this  work  through  its  digital  currency  research  programme 
+(http://www.bankofengland.co.uk/banknotes/Pages/digitalcurrencies/default.aspx)  and  its  fintech  accelerator 
+(http://www.bankofengland.co.uk/Pages/fintech/default.aspx). 
+2   http://www.bankofengland.co.uk/markets/Documents/paymentsystem/cp160916.pdf 
+BIS central bankers’ speeches 
+ 3 
+   Services Directive. But significantly further thought is required about the form any such pipe 
+might  take,  how  it  could  be  designed  in  a  general  enough  way  to  accommodate  multiple 
+different payment services, and who would pay and operate it. A high-volume retail payments 
+pipe  would  have  a  number  of  characteristics  of  a  public  utility  –  but,  unlike  in  some  other 
+countries, we would not envisage that the Bank of England would build or operate this type of 
+infrastructure. 
+These types of challenge are eminently solvable – and are in no way unique to payments. To 
+return to where I began, the UK railways have explored ways to combine common ownership 
+of the track network and timetable with competing rail service providers whilst making use of 
+those old, eccentrically-located stations. And energy and telecommunications have found their 
+own solutions to similar problems, including across national borders. But the history of those 
+industries  suggests  it  will  not  be  entirely  plain  sailing:  and  the  stakes  in  payments  are 
+particularly high. That is why the Bank of England and the Payment Systems Regulator are 
+working very closely together to ensure that their twin statutory objectives of systemic stability 
+and enhancing competition are met by whatever structure ends up being proposed. 
+I said earlier that I thought that a genuinely single technology platform for the UK was unlikely 
+to be feasible in the near term, drawing an analogy with having a single platform for those three 
+train stations. If a spread of platforms, drawn together through a common set of standards and 
+norms, is a more plausible target, how does RTGS fit in? 
+Those of you particularly familiar with London’s King’s Cross station will know that there is a 
+spot  (ironically  between  platforms  8  and  9),  where  a  half-submerged  luggage  trolley 
+commemorates the mythical “Platform 9¾” from Harry Potter. Platform 9¾ is of course the 
+gateway to the magical secrets of Hogwarts – but is invisible to “muggles” (ie normal human 
+beings), requiring travellers to fling themselves head first at a potentially unyielding wall to gain 
+entry. If there may have been some parallels between this fictional construct and the role of 
+RTGS in the past – both in the vital role it plays, and in its relative obscurity – it is our firm 
+intention that there should not be in the future. The vision we have just published is designed 
+to underscore and throw new light on the special role that RTGS has, of maintaining stability 
+by providing final settlement in central bank money for all payments, and on a real-time gross 
+basis for those that are most systemically important. But it also recognises the need to broaden 
+access to RTGS and improve its ability to communicate with a wide range of other systems 
+seamlessly and resiliently if it is to keep pace with a changing environment. We look forward 
+to hearing the responses to our consultation. 
+Thank you. 
+ 
+ 4 
+ BIS central bankers’ speeches 
+ Source: “A new RTGS service for the United Kingdom: safeguarding stability, enabling innovation”, available at: 
+http://www.bankofengland.co.uk/markets/Documents/paymentsystem/cp160916.pdf 
+ BIS central bankers’ speeches 
+    5 

@@ -1,0 +1,232 @@
+Vítor  Constâncio:  Macroprudential  stress-tests  and  tools  for  the
+non-bank sector
+Remarks by Mr Vítor Constâncio, Vice-President of the European Central Bank, at the European
+Systemic Risk Board (ESRB) Annual Conference, Frankfurt am Main, 22 September 2017.
+1. Introduction: Systemic risks in the non-bank sector
+ 1
+Assessing the impact of a large shock on financial soundness of non-bank financial institutions,
+stress  testing  can  improve  measurement  of  the  risks  and  can  help  in  the  calibration  of
+instruments mitigating those risks. There is a need to further develop these policy tools while at
+the  same  time  adaptation  of  stress  test  models  towards  integrating  different  agents  into  a
+system-wide  tool  is  important.  The  ESRB  –  in  its  strategy  paper  on  macroprudential  policy
+beyond banking , for example, emphasises the need to develop a wider financial stability toolkit,
+including  top-down  stress  tests,  for  example,  for  asset  managers,  the  need  to  operationalise
+macroprudential instruments for which a legal basis has already been created or the need to
+investigate the potential for increasing the consistency of available macroprudential instruments
+across sectors.  In its report on stress test analytics for macroprudential purposes in the euro
+area,  the  ECB  also  outlines  the  plans  for  extending  stress  testing  into  other  sectors,  most
+prominently the shadow banking sector, but also into the stress testing of central counterparties
+3
+and insurance and pension funds.
+2
+Let me first set the stage by reiterating the two main systemic risks stemming from the non-bank
+financial sector.
+First, the increasing size and growth of the euro area investment fund sector has the potential to
+amplify  financial  stability  risks,  both  in  terms  of  liquidity  and  leverage. As  an  example  of  the
+structural  change  in  the  European  financial  sector,  it  is  worthwhile  noting  that  the  size  of  the
+money market and investment fund sector represented only 17% of banks’ total assets in 2008
+but is now at 40%. Whereas the banking sector shrank by 18% since the crisis, the fund sector
+more than doubled since 2008.
+The  continued  inflows  into  bond  funds  for  example,  may  raise  concerns  about  sudden
+redemptions  in  response  to  a  more  widespread  repricing  in  global  fixed  income  markets,  if  it
+were  to  occur.  Large  redemption  calls  can  have  widespread  amplification  effects  in  financial
+markets. There are signs that fixed income investment funds have increased their risk taking in
+recent  years  via  a  higher  asset  allocation  to  lower-rated  debt  securities  and  an  increased
+duration  in  their  fixed  income  portfolios. At  the  same  time,  there  is  evidence  that  redemption
+patterns can be procyclical, which can foster adverse market dynamics when asset prices are
+declining.
+Second, the procyclical nature of margin and haircut-setting practices of market participants and
+liquidity  risk  propagation  in  collateralised  securities  financing  and  derivatives  transactions  is  a
+concern for financial stability. These practices stimulate the build-up of excessive leverage and
+funding risk in good times, while amplifying funding stress and deleveraging in bad times.
+Collateralised transactions, while limiting counterparty risk, have the potential to amplify funding
+liquidity risk or market risk via fire sales in a stress scenario. The resulting propagation of risk
+may be material and potentially of systemic nature. Non-bank financial institutions can be part of
+the risk transmission mechanism, in particular, since they do not have recourse to central bank
+liquidity.
+ 1 / 5
+BIS central bankers' speeches
+2. Macroprudential stress test to gauge the magnitude of the risks stemming from the
+non-bank financial sector
+So  the  questions  arise:  how  to  appropriately  measure  these  risks  and  how  to  derive  policy
+instruments  that  are  effective  in  mitigating  these  risks?  What  are  the  challenges  for
+macroprudential stress tests to provide meaningful indicators to measure and predict the level of
+systemic risk, the position of the economy in the financial cycle and consequently the adequate
+stance of macroprudential policies?
+In  recent  years,  stress  testing  has  become  an  increasingly  prominent  approach  to  gauging
+impact of a large shock on the agents’ financial soundness and on the market functioning.
+Developed originally for assessing banking system resilience, macroprudential stress tests have
+recently been extended to cover a wider range of non-bank financial institutions: let me mention
+insurance companies (conducted by EIOPA), CCPs (conducted by ESMA) and asset managers.
+This  more  recent  development  is  largely  reflecting  the  increasing  importance  of  non-bank
+financial institutions within the EU financial system.
+However, stress testing tools for non-banks are still in a fledgling state, in particular in how they
+capture system-wide effects.  Let me elaborate on what needs to be improved to operationalise
+them.
+4
+First  and  foremost,  in  order  to  conduct  proper  stress  test  analysis  for  the  non-bank  financial
+sector,  data  availability  needs  to  be  significantly  improved.  A  successful  application  of  the
+system-wide  stress  test  models  hinges  upon  availability  of  reliable  data  sources  for  model
+calibration  and  validation.  In  general,  the  availability  of  sufficiently  granular  and  historical  data
+series for the non-bank financial sector is still lagging behind the situation on the banking side.
+These concerns notwithstanding, it should be acknowledged that data availability is improving in
+some areas following some important initiatives of financial regulators and overseers. In Europe,
+trade repository reporting under EMIR is one example that can shed light on interconnectedness
+via derivative markets.  Another European initiative to improve information about SFT should go
+live  in  Q1  2019  with  the  Securities  Financing  Transactions  Regulation  (SFTR)  transaction
+reporting obligation.
+5
+Furthermore, ad hoc, targeted data collections can help improve the calibration of stress testing
+models  and  inform  further  required  changes  to  the  regular  financial  reporting.  If  properly
+constructed,  such  ad  hoc  data  collections  can  provide  deep  insights  into  potential  shock
+transmission  channels.   I  would  like  to  stress  that  the  research  community  can  offer  useful
+advice on relevant data dimensions in this regard and therefore should be actively involved in
+designing such data collection templates.
+6
+As far as the second enhancement is concerned, existing non-bank stress test approaches need
+to better account for interactions between agents. We know from experience that the impact of a
+stress test event hitting a financial institution is often amplified via its interactions with the rest of
+the financial system. Therefore, failing to account for such interactions may risk overestimating
+the resilience of single institutions and the system as a whole. Some extensions to the traditional
+stress testing have already been operationalised, at least for the banking system. I would like to
+emphasise  the  inclusion  of  strategic  behaviour  (e.g.  balance  sheet  portfolio  optimisation  in
+STAMP€ analytical framework of the ECB ),  game  theoretical  approaches  to  handle  strategic
+responses to shocks and activity of other market participants (e.g. in the MFRAF stress testing
+framework  of  Bank  of  Canada),  network  effects  capturing  interlinkages  (e.g.  in  the  RAMSI
+framework of Bank of England or the ECB top-down stress test model ) or feedback loops with
+the real economy (e.g. DSGE models in STAMP€).
+7
+8
+ 2 / 5
+BIS central bankers' speeches
+Third, as their business models and behaviour differ from traditional banks, specificities of non-
+bank financial institutions have to be considered carefully when designing tools to stress them.
+Both  the  policy  and  academic  communities  are  looking  into  ways  to  enhance  stress  testing
+models  for  macroprudential  policy.  STAMP€  is  one  example.  Let  me  mention  a  few  others
+focusing on integrating behaviours of different types of agents and on analysing the increasing
+pool  of  data.  One  enhancement  is  about  fire  sales  mechanisms  stemming  from  interactions
+between  banks  and  shadow  banks.   Another  example  worth  mentioning  is  about  systemic
+aspects  of  liquidity  and  its  links  with  solvency  conditions  accounting  for  pertinent  interactions
+between market participants captured in an agent-based modelling fashion.
+ Though, what is
+still  required  is  further  strong  support  from  the  research  community  to  provide  theoretical
+foundations for the various components of the stress test apparatus.
+3. Macroprudential tools to address the risk stemming from the non-bank sector
+10
+9
+Despite these limitations, we should also note the progress made in understanding how stress
+testing exercises, in particular, have the potential to support macroprudential policy in the design,
+calibration and assessment of the impact of macroprudential tools.
+Let me now turn to the state of play regarding the implementation and progress made for some
+of the specific macroprudential instruments that authorities would need, should systemic risks
+materialise.
+11
+On  the  global  level,  the  2017  FSB  policy  recommendations  on  asset  management  structural
+vulnerabilities ,  now  being  operationalised  by  IOSCO,  are  expected  to  reduce  liquidity
+mismatches  in  open-ended  funds.  Importantly,  recommendation  8  captures  the  potential
+macroprudential role for authorities to provide direction on the use of liquidity risk management
+tools (e.g. suspension of redemptions) by funds in extraordinary circumstances. In the area of
+liquidity mismatch, the recommendations also address the potential use of system-wide stress
+testing by authorities. Leverage recommendations focus on the measurement and monitoring of
+leverage within investment funds, including data for synthetic leverage calculation.
+On the European level, on-going work of the Expert Group on Investment Funds (EGIF) develops
+recommendations that are addressed to funds and asset managers. Given that the investment
+fund  sector  is  growing  relative  to  the  financial  system  as  a  whole,  the  ESRB  is  analysing
+systemic  risks  posed  by  liquidity  mismatch  and  leverage  in  the  types  of  investment  funds
+exposed to these risks.
+To highlight the importance of this work, let me preview results of an ECB Occasional Paper
+ to
+be  published  soon.  The  study  shows,  for  a  large  sample  of  European Alternative  Investment
+Funds (AIFs), that open-ended leveraged funds experience greater investor outflows after bad
+performance than unleveraged funds.
+12
+This  can  be  explained  by  investors  expecting  proportionally  larger  valuation  losses  when
+remaining  invested  in  leveraged  funds.  During  stressed  periods,  leveraged  funds  need  to  de-
+lever proportionality more than unleveraged funds in order to obtain liquidity to cover margin calls
+and  higher  haircuts  on  leveraged  positions. Also,  leveraged  funds  have  to  sell  relatively  more
+assets following redemption requests to keep the leverage ratio constant. To the extent these
+asset  sales  impact  market  prices  or  are  sold  at  fire  sale  prices,  the  net  asset  value  of  the
+portfolio declines.
+These  new  findings  on  the  greater  vulnerability  of  leveraged  funds  to  potential  investor  runs
+support  the  idea  that  mismatches  between  the  portfolio  liquidity  and  redemption  terms  of
+leveraged funds are undesirable for more leveraged funds from a macroprudential perspective.
+They also complement existing  evidence  on  the  greater  sensitivity  of  investor  outflows  to  bad
+performance in illiquid versus liquid funds, which can be explained by higher liquidation costs for
+ 3 / 5
+BIS central bankers' speeches
+less liquid assets.
+Within  the  EU,  competent  authorities  already  have  legal  powers  to  impose  macroprudential
+leverage limits on AIFs, such as hedge funds, bond funds and funds-of-funds. The ESRB has
+marked the operationalisation of this existing policy tool as a key part of the agenda to develop
+macroprudential policy beyond banking.
+ Achieving this goal is important and may require an
+EU-level framework to assess financial stability risks related to leverage in the investment fund
+sector and to evaluate potential designs for macroprudential leverage limits.
+13
+14
+For risks in SFT and derivatives, as I have laid in a keynote speech at a dedicated conference
+last year here at the ESRB , I am convinced that macroprudential margins and  haircuts  are
+tools that have the potential to allow authorities to control the build-up of excessive leverage in
+these markets. Importantly, these tools can reach beyond the banking system and also address
+the build-up of leverage and liquidity risks in parts of the financial system, where we have seen
+rapid growth in recent years.
+Since then, we have made some progress on this front. For example, the ESRB has published a
+comprehensive report on the macroprudential use of margins and haircuts this year. The report
+describes in detail the mechanics of how these tools would affect leverage and procyclicality.
+Nevertheless, the report also acknowledges a number of implementation challenges and calls for
+further empirical and conceptual analysis.
+So let me conclude by saying that despite the progress made, there is more work to be done: on
+the  operationalisation  of  tools,  on  further  improving  data  or  the  interaction  with  the  policy  and
+research community to enhance stress testing models. I would therefore encourage authorities,
+including the European Commission, the ESRB but also ESMA to continue to contribute towards
+this goal.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+Macroprudential policy beyond banking: an ESRB strategy paper.
+Examples  include  definitions  of  leverage,  taking  into  account  differences  and  interdependencies  between
+sectors or macroprudential instruments, such as instruments that address procylicality of initial margins or
+haircuts, especially in securities financing transactions and derivatives
+Stamp€ Report.
+The need to be able to capture system-wide effects in non-bank stress tests is strongly advocated by e.g.
+the FSB.
+J. Abad, I. Aldasoro, C. Aymanns, M. D’Errico, L. Fache Rousová, P. Hoffmann, S. Langfield, M. Neychev and T.
+Roukny  (2016),  “Shedding  light  on  dark  markets:  First  insights  from  the  new  EU-wide  OTC  derivatives
+dataset”, ESRB Occasional Paper 11.
+BCBS-CPMI-FSB-IOSCO (2017), Analysis of Central Clearing Interdependencies, July.
+Stamp€ Report.
+ECB (2013), “A Macro stress testing framework for assessing systemic risks in the banking sector”, ed. J.
+Henry, C. Kok, ECB Occasional Paper, 152.
+S.  Calimani,  G.  Hałaj,  S.  Zochowski  (2017),  “Simulating  fire-sales  in  a  banking  and  shadow  banking
+system”, ESRB Working Paper Series 46.
+G. Hałaj (2017), “Agent-Based Model of system-wide implications of funding risk”, mimeo, ECB. R. Bookstaber,
+M.  Paddrik  and  B.  Tivnan  (2017),  “An Agent-based  Model  for  Financial  Vulnerability”, Journal  of  Economic
+Interaction and Coordination.
+www.fsb.org/wp-content/uploads/FSB-Policy-Recommendations-on-Asset-Management-Structural-
+Vulnerabilities.pdf
+ 4 / 5
+BIS central bankers' speeches
+12
+13
+14
+K. van der Veer, A. Levels, C. Lambert, L. Molestina Vivar, C. Weistroffer, R. Chaudron and R. de Sousa van
+Stralen.Developing  macroprudential  policy  for  alternative  investment  funds,  Towards  a  framework  for
+macroprudential leverage limits in Europe: an application for the Netherlands; to be published in October 2017
+See  www.esrb.europa.eu/pub/pdf/reports/20160718_strategy_paper_beyond_banking.en.pdf,  page  4:  “To
+operationalise macroprudential instruments for which a legal basis has already been created, in particular by
+providing advice to the European Securities and Markets Authority (ESMA) on the AIFMD framework for leverage
+requirements.”
+“Margins and haircuts as a macroprudential tool”, remarks by Vítor Constâncio, Vice-President of the ECB, at the
+ESRB international conference on the macroprudential use of margins and haircuts, Frankfurt am Main, 6 June
+2016.
+ 5 / 5
+BIS central bankers' speeches

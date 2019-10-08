@@ -1,0 +1,507 @@
+  Harun R Khan: Derivatives dynamics – looking back and looking ahead 
+Keynote address by Mr Harun R Khan, Deputy Governor of the Reserve Bank of India, at the 
+Finance Conclave 2015 on “Indian Derivatives Markets – Striking a Balance between Risk 
+Protection  and  Liquidity”,  organised  by  the  SP  Jain  Institute  of  Management  &  Research, 
+Mumbai, 17 January 2015. 
+ The speaker acknowledges the contributions of Shri Himansu Mohanty of the Reserve Bank of India. The speaker 
+also acknowledges the inputs from Shri. Sudarsana Sahoo of the Reserve Bank of India. 
+1. 
+Prof.  Sesha  R.  Iyer,  Prof.  Suresh  G  Lalwani,  Prof.  Ranjit  Pattanaik  and  learned 
+panellists & invitees. I am happy to be here today on the occasion of the Finance Conclave 
+2015  on  “Indian  Derivatives  Markets  –  Striking  a  Balance  between  Risk  Protection  and 
+Liquidity” organized by the SP Jain Institute of Management & Research and share some of 
+my thoughts on the dynamics of derivatives in the Indian context. 
+2.  
+“Derivatives”  have  for  quite  some  time  been  a  totem  of  expertise  for  anyone 
+connected  with  finance,  be  it  a  market  practitioner  or  a  financial  economist  or  a  financial 
+sector regulator. Part of the interest no doubt stems from the usefulness of the derivatives, 
+but a large part of interest is actually a form of pure wonder of incomprehension owing to the 
+complexity  of  its  valuation,  design  and  risk  implication.  Be  that  as  it  may,  derivatives  at 
+various times have evoked quite extreme reactions from thought leaders in the field. Warren 
+Buffet is reported to have described derivatives as, “financial weapons of mass destruction, 
+carrying  dangers  that,  while  now  latent,  are  potentially  lethal.”  Similar  sentiment  has  been 
+echoed by George Soros, while advising people to avoid derivatives, “....because we don’t 
+really understand how they work.” At the other end of the spectrum, former Federal Reserve 
+Chairman Alan Greenspan, a steadfast defender of derivatives, said in a Senate Committee 
+hearing “What we have found over the years in the marketplace is that derivatives have been 
+an extraordinarily useful vehicle to transfer risk from those who shouldn’t be taking it to those 
+who  are  willing  to  and  are  capable  of  doing  so”.  The  Global  Financial  Crisis  (GFC)  had 
+spurned a large volume of literature laying  much of the blame for the crisis at the door of 
+indiscriminate  use  of  derivatives,  pointing  out  the  dangers  inherent  in  derivatives  and 
+underscoring the need for further regulating the market. Immediate aftermath of a crisis was 
+not  a  good  time  to  take  a  balanced  view,  and  now  that  much  of  the  dust  has,  somewhat 
+settled down, we can perhaps look at the problem dispassionately. 
+Financial sector & the derivatives 
+3.  
+Before  we  go  to  the  theme  of  derivatives,  it  is  necessary  to  briefly  discuss  the 
+financial  sector  as  such  so  as  to  provide  a  backdrop,  as  it  were.  It  has  been  generally 
+accepted  that  a  financial  sector  is  a  necessary  precondition  for  economic  growth  and 
+progress.  Economists  like  John  Hicks,  Walter Bagehot  and  Joseph  Schumpeter  have  held 
+that  the  development  of  financial  sector  helped  mobilize  the  resources  necessary  for  “the 
+immense  work”  that  constituted  the  industrial  revolution.  Of  course,  like  everything  else  in 
+economics, this also has a contrary view point. Economists Joan Robinson and Robert Lucas 
+have  expressed  scepticism  about  the  emphasis  given  to  the  financial  sector.  Extensive 
+research in recent years goes to show that a well developed financial sector may be neither 
+a  necessary  nor  a sufficient  condition  for  economic  growth but  the  absence  of an efficient 
+financial sector can surely retard growth. 
+4.  
+The  financial  sector  essentially  enables  inter-temporal  transfer  of  income  and 
+smoothens the consumption over the life time of an individual. On the other side, it also pools 
+the surplus and allocates it to various socially productive projects which require an upfront 
+outlay with the potential of generating a surplus at the end of the production cycle. It involves 
+parting of money from the one who has the surplus to the one who needs it. But it could be a 
+BIS central bankers’ speeches 
+ 1
+  dangerous  proposition.  It  is  for  nothing  that  Polonius  counsels  his  son  Laertes  in 
+Shakespeare’s Hamlet, “Neither a borrower nor a lender be”. The legal-financial system that 
+has evolved over the centuries has developed an elaborate architecture to ensure that the 
+trust  of  the  people  is  maintained  in  the  financial  system  and  they  lend  and  borrow  their 
+requirement freely and safely. The financial sector has basically two kinds of problems. The 
+first relates to information asymmetry inasmuch as one party to the transaction, the borrower 
+or the investee, always knows more than the other party, the lender or the investor. This is a 
+large topic in itself which I do not intend to deal with here, except that it also lays the ground 
+for the second problem in financial transactions, that is, the risk of default or more generally 
+the  risk  of  erosion  in  the  value  of  the  asset.  A  smooth  functioning  of  the  financial  system 
+requires that this problem is adequately addressed. 
+5.  
+Derivatives  play  an  important  role  in  addressing  the  risk  inherent  in  financial 
+transactions. A derivative has traditionally been defined as a contract whose value derives 
+from and is dependent on the value of an underlying asset, such as, a commodity, currency, 
+or security. The concepts of various derivatives have been known since antiquity – the oft-
+cited anecdote of the sixth century BC philosopher Thales buying options on olive pressing 
+mills is too well known to recount here. Various forms of derivatives – mostly forwards and 
+futures – have traded off and on in the seventeenth and eighteenth centuries, for example, 
+forwards on tulips and futures in the Yodoya rice market in Japan. The major milestones in 
+the  history  of  derivatives  are  the  establishment  of  the  Chicago  Board  of  Trade  (CBOT) 
+(1848),  establishment  of  the  Chicago  Produce  Exchange  (1874),  which  was  converted  to 
+Chicago  Mercantile  Exchange  (CME)  (1919)  and  the  formation  of  futures  clearing  houses 
+(1925).  I  may  mention  in  passing  that  notwithstanding  the  increasing  activity  in  the 
+commodities  derivatives  markets,  there  were  always  apprehensions  about  the  impact  of 
+derivatives trading on the cash market which led to frequent bans on commodity derivatives. 
+6.  
+The  history  of  derivatives  on  financial  securities  is  rather  short.  Following  the 
+breakdown of the Bretton-Woods, which led to floating exchange rates, the CME introduced 
+the first currency futures in 1972. In 1975 CBOT created the first interest rate futures contract 
+to which CME responded with Treasury bill futures contract in 1975. In 1977, CBOT created 
+the first treasury bond futures contract. In 1982, Kansas City Board of Trade launched the 
+first Stock Index futures followed by the CGOT’s futures contract on S&P 500 index in the 
+same  year.  In  1983,  the  Chicago  Board  of  Exchange  (CBOE)  introduced  an  option  on  an 
+index of stocks. 
+7.  
+During the 1990’s, there was huge outcries over a series of debacles over derivative 
+trading  with  market  participants  reporting  large  losses.  The  cases  of  Proctor  &  Gamble 
+(swaps), Showa Shell (forwards) Metallgeselschaft (futures), Allied Irish Bank, Barrings Bank 
+(options)&  Orange  Country(swaps)  have  become  standard  case  studies  in  the  academic 
+curriculum.  The  discourse  that  followed  sometimes  blamed  the  products  and  often  the 
+entities trading these products. The markets continued more or less in the same vein but the 
+trading and risk management protocols amongst the market participants were tightened. 
+8.  
+The  GFC  brought  the  focus  back  to  the  derivatives  and  their  trading.  What 
+happened is essentially as follows. Innovative design of derivative instruments facilitated flow 
+of large quantum of funds to the housing sector through sub-prime loans, fuelling a housing 
+sector boom and when the housing prices started correcting, the derivative instruments too 
+started  losing  value.  Both  forces  interacted  with  and  reinforced  each  other,  and  the 
+snowballing effect brought the markets down. It has been argued that laying the blame for 
+the crisis entirely on the derivative products is akin to a bad workman blaming his tools. The 
+problem perhaps lied not so much on the instruments themselves, but on the inadequacy of 
+the market infrastructure to deal with the opacity and complexity of these products and on the 
+lack of appropriate risk management protocol amongst the financial institutions that traded 
+and took position in these products. Let me quote Kenneth Arrow, who in an article in the 
+Guardian, sums up the predicament rather succinctly when he says “There have been two 
+developments  in  the  economic  theory  of  uncertainty  in  the  last  60  years,  which  have  had 
+2 
+ BIS central bankers’ speeches
+  opposite implications for the radical changes in the financial system. One has made explicit 
+and understandable a long tradition that spreading risks among many bearers improves the 
+functioning  of  the  economy.  The  second  is  that  there  are  large  differences  of  information 
+among market participants and that these differences are not well handled by market forces. 
+The  first  point  of  view  tends  to  argue  for  the  expansion  of  markets,  the  second  for 
+recognising that they may fail to exist and, if they do come into being, may fail to work for the 
+benefit of the general economic situation.” And again, “There is obviously much more to the 
+full  understanding  of  the  current  financial  crisis,  but  the  root  is  this  conflict  between  the 
+genuine social value of increased variety and spread of risk-bearing securities and the limits 
+imposed by the growing difficulty of understanding the underlying risks imposed by growing 
+complexity.” 
+irrational  exuberance 
+Dynamics of derivatives market 
+9.  
+Before I deal with the Indian derivative markets, let me discuss some salient issues 
+about the derivatives market in general. The market for financial derivatives, as indeed the 
+market  for  any  financial  assets,  is  populated  by  three  generic  classes  of  participants:  the 
+hedgers,  the  arbitrageurs  and  the  speculators.  The  hedgers  are  the  final  consumers,  as  it 
+were. The arbitrageurs help establish the law of one price across market segments so that 
+similar products with similar risk profiles cost the same in various markets at any given point 
+of  time.  The  speculators,  a  word  with  much  negative  connotations,  essentially  do  inter-
+temporal  arbitraging  and  serve  a  very  useful  economic  function  of  price  discovery, 
+particularly in the financial markets. Inasmuch as the value of all financial assets is based on 
+a view of the future, the act of speculation tends to correct the value of under-valued or over-
+valued  assets.  Caution,  however,  is  invited  by  the  fact  that  the  future  is  uncertain,  and 
+leveraged  speculation  based  on 
+fraught  with  dangerous 
+consequences as has been witnessed during many a crisis. 
+For  the  market  participants,  liquidity  has  talisman  like  significance.  What  is  the 
+10.  
+meaning  of  liquidity?  Trading  volumes?  Bid-ask  spread?  These  are  only  indicators  of 
+liquidity. In an economic sense, liquidity means the ease with which a security or an asset 
+can be converted to “money” (bank and ultimately central bank liability) at the going price. It 
+is  a  basic  requirement  of  a  market  because  an  investor  will  hold  an  asset  only  if  she  is 
+convinced that she will be able to sell that asset at the going price without the price tumbling 
+by the act of her sale. Similarly one will be able to issue liabilities, assured that investors will 
+buy it without a discount. Thus smooth functioning of the financial market requires liquidity. 
+But  at  the  same  time,  it  must  be  understood  that  liquidity  is  not  an  end  in  itself  that  the 
+market  efficiency  increases  with  increase  in  liquidity  without  any  bound.  Here  I  will  like  to 
+quote  Bob  Solow  on  this.  He  says,  “Much  more  significant  is  the  fact  that  the  bulk  of 
+incremental financial activity is trading, and trading, while it may provide a little useful public 
+information about market opinion, is largely a way to transfer wealth from those with inferior 
+information and calculation ability to those with more. There is no enhancement of economic 
+efficiency to speak of.” Hence it is necessary to keep the context of economic efficiency in 
+view while talking about market efficiency. 
+is 
+Indian equity market & the derivatives 
+11.  
+Financial markets in India in the modern sense of the term have had a short history 
+and are in a way in their nascent stage. You will recall that post-independence, in the plan-
+economy era, we had what has been called a regime of financial repression where the key 
+economic  variables  were  determined  by  fiat  rather  than  through  a  market  process.  The 
+financial markets evolved into their present form following the liberalization that started in the 
+early  nineties.  The  introduction  of  the  floating  exchange  rate  and  deregulation  of  interest 
+rates  facilitated  development  of  an  active  foreign  exchange  and  fixed  income  securities 
+market. It is true that India had perhaps the oldest stock market in Asia, with the Bombay 
+Stock  Exchange  dating  back  to  1855.  The  stock  market,  however,  saw  quantum  change 
+BIS central bankers’ speeches 
+ 3
+  following  the  scam  of  1991.  Securities  &  Exchange  Board  of  India  (SEBI)  was  formed  in 
+1992, and NSE in 1992(it started operations in 1994). I will just mention two other landmarks: 
+the introduction of the NIFTY futures on the National Stock Exchange (NSE) in 1998 and the 
+SENSEX futures on the Bombay Stock Exchange (BSE) in 2000. 
+12.  
+Equity  markets  are  the  quintessential  representation  of  functioning  of  a  market 
+economy. They are the ultimate crucible for ideas such as corporate governance, investor 
+protection,  market  discipline,  etc.,  and  the  existence  and  success  of  a  buoyant,  robust 
+corporate sector is critically dependent on the functioning of equity market. One can say with 
+pride  that  notwithstanding  the  low  ranking  of  India  in  the  World  Bank’s  list  of  countries  in 
+regard to “ease of doing business”, we rank 7th in the attribute “protecting minority investors”. 
+The  equity  markets  in  India  today  are  among  the  best  in  the  world,  with  state-of-the-art 
+technology, institutional mechanism, and products. Apart from large daily volumes, we have 
+other products such as equity derivatives, security lending and borrowing, algorithm trading, 
+etc. 
+13.  
+The  main  focus  of  concern  in  equity  market  is  investor  protection  and  integrity  of 
+trading.  Equity  derivatives,  like  all  derivatives,  can  be  used  either  to  hedge  an  existing 
+position  or  express  a  view  on  the  equity  prices  or  indices.  Derivatives  being  leveraged 
+structures have the potential to amplify the loss or gain in an asset. For the same reason, it 
+can also contribute to the volatility. 
+14.  
+From a systemic financial stability perspective, the concern about the equity market 
+stems  from  the  source  of  financing  equity  positions.  It  is  matter  of  great  concern  if  bank 
+lending funds an equity market boom, or for that matter, any asset price boom. This is an 
+unforgettable lesson from the crash of 1929, further underscored by the GFC. Recognising 
+this, the banking regulations cap banks’ exposure to the equity markets. 
+15.  
+When  we  come  to  foreign  exchange  and  interest  rate  derivative  markets,  the 
+perspective  changes  significantly.  It  is  to  be  appreciated  that  interest  rate  and  exchange 
+rates are important macro-economic variables with economy-wide implications. The Reserve 
+Bank  of  India  has  responsibility  in  regard  to  both  the  rates  and  is  statutorily  mandated  to 
+ensure sound functioning of these markets. Therefore, its approach to development the cash 
+as well as derivative segments of these markets has been characterised by what one can 
+call as cautious gradualism. I shall elaborate on the issues involved in these markets. 
+Foreign exchange derivatives 
+16.  
+The  backdrop  for  the  foreign  exchange  market  is  provided  by  several  factors 
+following the Balance of Payment crisis we faced in 1991. Full current account convertibility 
+since 1994, increasing openness on the capital accounts, a persistent and sometimes rapidly 
+increasing current account deficit, the instability in autonomous capital flows, the investment 
+needs of an expanding economy and globalization aspirations of Indian corporates are some 
+of them. Our stated objective is to maintain orderliness in the foreign exchange market even 
+as the exchange rate is market determined without any target level or band. The other factor 
+one  has  to  reckon  with  is  the  so-called  impossible  trinity  where  an  independent  monetary 
+policy, a fixed exchange rate and an open capital account are impossible to simultaneously 
+attain.  Since  no  economy  of  India’s  size  and  complexity  can  sacrifice  its  independence  in 
+monetary  policy,  the  inevitable  consequence  is  an  eclectic  combination  of  some  capital 
+account openness and some flexibility in the exchange rate. 
+17.  
+How  does  all  this  influence  the  development  of  the  foreign  exchange  derivatives 
+market? Our approach to development of the foreign exchange derivatives market has been 
+largely biased by the use of these products as instruments of hedging for individuals and real 
+sector  firms  with  a  pre-existing  foreign  exchange  exposure.  Take  for  example  an  exporter 
+who has a foreign exchange receivable at a future date and any adverse movement is likely 
+to  adversely  affect  her  expected  Rupee  revenue  and  therefore  her  balance  sheet.  A 
+derivative  product  like  a  forward  sale  or  a  put  option  is  designed  to  remove  all  or  some 
+4 
+ BIS central bankers’ speeches
+  uncertainty  of  the  exporter’s  expected  revenue  and  thereby  impart  stability  to  its  balance 
+sheet. 
+18.  
+But a derivative product also is an instrument for expressing a view on the future 
+path of the price of the underlying. Thus if you expect the Rupee to fall in value at a future 
+date, you can sell it in the forward or futures market or buy a put option. This has the effect of 
+depreciation in the spot exchange rate of the Rupee. Can this be called a justified correction 
+in  the  spot  exchange  rate?  It  depends  upon  how  justified  the  expectation  was  in  the  first 
+place. Expectations are often mechanical extrapolation of the immediate past. If Rupee starts 
+depreciating  for  some  reason,  an  expectation  of  further  depreciation  is  engendered, 
+derivatives provide the means to express this expectation, and expectations are often self-
+fulfilling.  Any  sharp  depreciation  of  Rupee  could  lead  to  further  panic  reactions:  exporters 
+cancelling the forward sale contracts they had already booked and importers rushing to buy 
+forwards to protect their future commitments. 
+19.  
+As I have mentioned, exchange rate is an important macro variable and given the 
+various  factors  affecting  our  external  sector,  our  tolerance  for  large  volatility  or  sharp 
+movements  is  rather  limited.  In  this  background  one  can  understand  the  regulatory 
+framework  for  foreign  exchange  derivatives  in  India.  Firstly,  it  has  so  far  been  mostly 
+dominated by the OTC segment and derivatives have been meant as instruments of hedging. 
+That  is,  an  entity  can  enter  into  a  derivative  contract  only  if  it  has  a  foreign  currency 
+exposure.  One  party  to  the  contract  has  necessarily  to  be  an  Authorised  Dealer  who  is 
+supposed to be the market maker. So as to ease the derivative transactions, we have been 
+making operational relaxations, such as, buying or selling forwards or options on the basis of 
+past performance as indicator of current and future exposure rather than having to produce 
+evidence of underlying each time. But still, underlying exposure is the basic driver. 
+20.  
+In 2008, currency futures started trading on the exchanges with a view to expanding 
+the derivatives products, improving transparency and price discovery and affording an easy 
+access to the foreign exchange derivative market. This brought in a kind of dichotomy in the 
+foreign exchange derivative market. A futures market does not usually work on the basis of 
+an underlying exposure. Moreover, there is free entry and exit and is cash settled. This is a 
+perfect setting for anyone to express a view on the currency and it is quite contrary to the 
+regime  for  the  OTC  market.  It  has  been  a  usual  response  to  sharp  movements  in  the 
+exchange rate to modulate the regulatory regime in the OTC market by disincentivising free 
+booking and cancellation of contracts aimed at making gain out of the Rupee movement. But 
+is such a thing possible in the futures market? That is why during the volatility episode in July 
+2013, restrictions were imposed in the futures market. These have been mostly undone and 
+some  extent  of  symmetry  has  been  brought  about  between  the  OTC  and  the  exchange 
+traded  segments  of  the  foreign  exchange  derivative  markets.  An  important  step  in  this 
+connection has been to grant access to the futures market to the foreign portfolio investors in 
+an attempt to offer them a viable alternative to the overseas NDF market. To provide boost to 
+the currency futures, some more relaxations like enhancing the limit upto which exposure will 
+not  require  the  proof  of  the  underlying  exposure  &  procedural  simplification  relating  to 
+documentation are being examined. 
+21.  
+The Currency Futures volume that plunged post administrative measures taken by 
+the  Reserve  Bank  in  July  2013  recovered  after  removal  of  the  restrictions.  The  trading 
+volume though remains lower than the pre-July 2013 levels (US$ 3.2 billion in January 2015 
+so far vs. US$ 7 billion in June 2013), the daily open interest position has improved to near 
+pre-July  2013  level  of  about  US$  4  billion.  The  trading  in  the  Currency  Futures,  however, 
+continues  to  be  dominated  by  non-bank  trading  members  (proprietary)  and  the  brokerage 
+firms (as clients). There are only a few corporates holding insignificant open interest in the 
+currency  futures.  Though  the  effectiveness  of  currency  futures  as  a  hedging  instrument 
+remains low for several reasons, the product enjoys complementarity with the OTC products 
+in developed markets as counter-parties to OTC transactions aggregate their exposures and 
+cover them though exchange traded products (hub-and-spoke approach) which are quoted at 
+BIS central bankers’ speeches 
+ 5
+  narrow  bid-offer  spread.  It  is  expected  that  with  active  participation  of  banks  in  currency 
+futures,  this  complementarity  will  provide  useful  linkage  between  the  OTC  and  exchange 
+traded currency derivatives. 
+22.  
+We are committed to the idea that the range of derivative products should be wide 
+enough  so  that  market  participants  are  free  to  choose  them  according  to  their  risk 
+management strategy in a cost effective manner. Though options, mostly plain vanilla, have 
+been allowed, their use has not been widespread. The average daily trading volume of forex 
+options  is  just  about  US$  300  million.  We  are  contemplating  expanding  the  products 
+available and considering allowing option trading strategies. In this context, it will be useful to 
+note the use of various option structures by market participants during the period prior to the 
+GFC.  The  currency  market  volatility  and  sharp  movements  in  the  aftermath  of  the  GFC 
+caused many of these entities to book heavy losses, which lead to a spate of complaints and 
+litigations. For that matter, the Rupee which has been mostly on an appreciating mode during 
+2007–08, suddenly reversed the trend post-Lehman and many exporters suffered large MTM 
+losses even on simple forward contracts. This brings home the point I made earlier that the 
+blame  lies  with  unwise  use  of  the  derivative  products  linked  to  forex  or  otherwise  for  that 
+matter  other  underlyings  rather  than  the  products  themselves.  While  the  firms  using 
+derivative  products  must  have  an  adequate  risk  management  framework  comprising  an 
+understanding of the risk and the derivatives used to mitigate that risk, the banks also have a 
+responsibility to offer products that are suitable &appropriate for their client’s risk profile and 
+risk  management  framework.  This  concern  is  sought  to  be  addressed  through  mandating 
+banks to ensure suitability and appropriateness of the derivatives products they are selling to 
+their clients. 
+23.  
+It is pertinent to mention briefly a theme current in contemporary discourse- Bond-
+Currency-Derivatives (BCD) nexus. This is an ideal objective in an open economy financial 
+system. What it means is this: any foreign investor, using any international currency, can buy 
+an Indian Government or corporate liability denominated in Rupees or otherwise and hedge 
+all risks, either onshore or offshore, the attendant credit, interest rate & currency risks. This is 
+a  natural  prerequisite  for  free  international  capital  movements,  and  from  an  Indian 
+perspective,  for  mobilisation  of  the  much  needed  resources.  The  problem,  however,  is 
+inherent  in  the  proposition  itself.  This  presupposes  complete  capital  amount  openness, 
+particularly  for  financial  institutions&  transactions.  The  pros  &  cons  of  full  capital  account 
+openness is a contentious issue and in any case, we are not ready for it at this point of time. 
+Thus  the  full  BCD  nexus  has  to  wait  on  progress  in  capital  account  liberalisation.  In  the 
+meanwhile, I must point out that BCD nexus is neither absolutely necessary nor a sufficient 
+condition for mobilising resources for investment to support economic growth. I will just have 
+to point out the growth story of post-war Japan, that of China of last two decades and even of 
+India before the crisis to support this point. 
+Interest rate derivatives 
+24.  
+In an economy with expanding financial sector, interest rate is a key variable that 
+affects firms and individuals across the board. In the pre-liberalisation era, the interest rate 
+was largely “administered” and there was little need for hedging interest rate risk. It must be 
+appreciated that interest rate derivatives market is not a retail market. But the individuals and 
+small  firms  do  benefit  out  of  an  interest  rate  derivative  market  in  so  far  as  the  financial 
+institutions  and  market  makers  can  hedge  their  interest  rate  risk  and  consequently  offer 
+better  rates  to  their  customers.  Globally,  the  interest  rate  derivatives  constitute  the  largest 
+segment of the derivatives market. 
+25.  
+Need for interest rate derivatives was recognised early and in 1999, guidelines were 
+issued for two core products in the OTC segment: the Forward Rate Agreements (FRA) and 
+the Interest Rate Swaps (IRS). The absence of a term money market has hampered the any 
+meaningful  growth  of  the  interest  rate  derivative  markets,  except  one  product  viz.,  the 
+Overnight  Index  Swaps  (OIS),  which  has  gathered  large  volumes.  We  have  always  been 
+6 
+ BIS central bankers’ speeches
+  concerned about lack of a term money market and have taken some steps ( e.g. introduction 
+of term repos under Liquidity Adjustment Facility of the Reserve Bank of India, increasing the 
+frequency  of  Bank’s  term  repos  to  four  times  during  a  reporting  fortnight,  recent 
+announcement for permitting re-repoing of government securities, etc.) to nudge the market 
+participants in that direction. Hopefully, term money market and an active interest rate swap 
+market will develop in tandem. 
+26.  
+The need for an exchange traded interest rate derivative market was also felt pretty 
+early.  An  exchange  traded  market,  apart  from  transparency,  price  discovery,  cost 
+effectiveness,  and  better  risk  management,  also  provides  a  market  where  market  makers 
+can hedge their risk. The development of an active interest rate futures market has so far 
+eluded  us  and  the  process  can  provide  an  interesting  case  study.  The  products  were  first 
+introduced  in  2003  which  were  cash  settled  and  based  on  zero  coupon  yield  curve.  After 
+some  initial  interest,  the  market  liquidity  completely  dried  up.  In  2008,  after  the  currency 
+futures were introduced, interest in Interest Rate Futures (IRF) were revived and after wide 
+consultations,  physically  settled  futures  contracts  were  introduced  on  10-year  Government 
+bonds. This is a classic product and it was expected that it will attract market interest. This 
+product too did not survive beyond its infancy. After a lull, a cash settled single bond futures 
+contract was introduced in January 2014 and has been trading with reasonable liquidity. It is 
+proposed to expand such contracts to other tenors. The volumes and open interest in such 
+contracts is limited by the total outstanding of the respective bonds. In the recent times, the 
+volumes have picked up significantly. The average daily volume rose from Rs.13.97 billion 
+post-launch of single bond futures in January 2014 to about Rs.25.50 billion in January 2015 
+so far. More importantly, the open interest have registered steady growth in the recent period 
+with average daily figure of Rs.63.60 billion during the current month so far. It is expected 
+that  this  product  will  develop  market’s  familiarity  with  the  terrain  and  prepare  it  for  more 
+generic products in future. 
+27.  
+The  reason  for  lukewarm  response  in  interest  rate  product  partially  lies  in  the 
+structure of our debt markets. The government bond holding is concentrated amongst banks, 
+insurance  companies,  provident/pension  funds  and  the  Reserve  Bank  of  India.  The  same 
+goes for corporate bonds as well. Most of these investors are hold-to-maturity types who do 
+not face volatility in the value of their holdings and consequently have no need for a hedging 
+product. Secondly, there is perhaps a lack of diversity of view among the market participants. 
+The  market  structure  does  not  change  quickly  and  it  may  not  be  optimal  to  impose 
+accounting hegemony on banks and financial institutions to force them towards hedging in 
+the interest of developing the market. The strategy for development of the market, therefore, 
+has to comprise widening the range of products, granting flexibility in product design to the 
+exchanges,  removing  barriers  for  participation,  etc.  The  Reserve  Bank  is  now  considering 
+introduction of bond futures in other maturities in consultation with the SEBI. 
+Credit derivatives 
+28.  
+The  Indian  financial  system  has  traditionally  been  bank  based  system  where  the 
+external  financial  requirements  of  firms  have  been  mostly  met  by  banks.  In  the  pre-
+liberalisation  era,  there  were  specialised  term  lending  institutions  which  used  cater  to  the 
+long term capital requirement. This is no longer the case now. The need for a vibrant and 
+liquid corporate bond market is based on several considerations. First, it will cater to the long 
+term  funds  requirement  of  the  corporate  sector  and  help  the  banks  manage  their  asset 
+liability mismatch more effectively. Second, in a growing economy and with complex financial 
+needs  of  existing  and  new  firms,  the  corporate  debt  market  provides  a  better,  more  cost 
+effective  access  to  funds.  Among  the  steps  taken  to  bring  liquidity  into  the  market  is 
+introduction of credit derivatives which help bond holders to insure themselves against risk of 
+default. Having been introduced in the aftermath of the GFC, the product has been launched 
+perhaps  with  a  high  dose  of  safety  measures  as  some  analysts  suggest  and  this  could 
+perhaps  accounts  for  its  limited  liquidity.  There  is  a  need  to  re-visit  the  issues  hindering 
+BIS central bankers’ speeches 
+ 7
+  development  of  the  CDS  market,  such  as,  non-availability  of  netting  benefit  of  marked  to 
+market (MTM) leading to higher capital charges for the market players, dominance of high 
+rated bonds not warranting any need for credit risk protection, procedural issues for some of 
+the  foreign  banks  being  reluctant  to  execute  Credit  Support  Annexes  (CSA),  large  players 
+like  insurance  companies  not  being  able  to  sell  protection,  etc.  The  Reserve  Bank  is 
+examining  some  of  the  prudential  conditions  that  can  be  relaxed  without  compromising 
+systemic stability. 
+Financial market infrastructure 
+29.  
+As I mentioned earlier, the considered view of the GFC is that it is not so much the 
+derivative  products  that  are  to  be  blamed  but  the  infrastructure  for  trading  and  the  risk 
+management  and  regulations  of  the  institutions.  The  corrective  steps  to  prevent  the 
+recurrence of such a crisis have focussed a great deal on improving the transparency and 
+risk management in the market infrastructure. Let me quote from the Pittsburgh Declaration 
+of  G-20  leaders  summit.  It  stated,  “All  standardized  OTC  derivative  contracts  should  be 
+traded on exchanges or electronic trading platforms, where appropriate, and cleared through 
+central counterparties by end-2012 at the latest. OTC derivative contracts should be reported 
+to  trade  repositories.  Non-centrally  cleared  contracts  should  be  subject  to  higher  capital 
+requirements. We ask the FSB and its relevant members to assess regularly implementation 
+and  whether  it  is  sufficient  to  improve  transparency  in  the  derivatives  markets,  mitigate 
+systemic risk, and protect against market abuse.” Keeping in view the thrust of the G20 on 
+reforms in the OTC derivatives market, Reserve Bank has drawn up and is implementing a 
+roadmap  focussed  on  standardisation  (e.g.,  OIS  has  been  standardised)  reporting  to  the 
+Trade Repositories {e.g., all foreign exchange and interest rate derivatives are reported to 
+the Clearing Corporation of India Limited (CCIL)}, central clearing (e.g., 90 per cent of the 
+IRS  currently  are  being  cleared  through  the  Central  Counter  Party,  i.e.,  the  CCIL)  & 
+exchange  or  electronic  platform  based  trading  (e.g.,  permission  to  CCIL  to  start  electronic 
+trading platform for the IRS). 
+30.  
+The need for robust market infrastructure has been recognised in India quite early. 
+Settlement of financial contracts through a central counterparty (CCP) mechanism is a key 
+risk-mitigation  measure.  We  had  introduced  CCP  clearing  in  government  debt  and  foreign 
+exchange  spot  transactions  by  a  specialised  institution  (viz.  CCIL)  in  2001  and  2006 
+respectively. CCIL has  also been permitted to  act as CCP for interest rate swaps and the 
+service  is  expected  to  be  launched  shortly.  Mandated  central  clearing  of  forward  foreign 
+exchange transactions has also been put in place. 
+31.  
+The  important  role  of  a trade  repository  for  OTC  derivative  transactions  has  been 
+recognised for dealing with opacity inherent in OTC transactions. It must be recognised that 
+even  before  the  GFC  brought  to  the  fore  the  importance  of  trade  repositories,  we  had 
+enabled  CCIL  to  collect  and  store  transaction  level  data  in  respect  of  rupee  interest  rate 
+swap reported to it through a regulatory mandate. The scope of the repositories has since 
+been expanded to include the entire spectrum of OTC derivative products which is assisting 
+regulatory surveillance and supervision. 
+32.  
+Much as the exchange traded segment  may provide safety and transparency, the 
+role of the OTC market cannot be overlooked. The main advantage comes from the bespoke 
+nature  of  the  market.  In  modern  finance,  the  funding  requirement,  cash  flows  and  risk 
+appetite vary from company to company and from financial institution to financial institution. 
+An  exchange-traded  product  is  necessarily  standardised  and  disincentivises  financial 
+innovation. Completely moving away from OTC products is like throwing the baby with the 
+bathwater.  Of  course,  the  need  to  improve  the  market  infrastructure  and  regulatory 
+framework for the financial institutions’ trading and taking position in OTC products needs to 
+be strengthened. This is precisely what we have been doing for the OTC derivatives in forex 
+and interest rate and credit derivatives. 
+8 
+ BIS central bankers’ speeches
+  In parallel drawing from the lessons of the recent GFC for effective risk management 
+33.  
+of the Financial Market Infrastructure (FMI), the existing structures have been strengthened 
+and  consolidated  by  the  Committee  on  Payment  &  Settlement  System  (CPSS)  {now 
+Committee  on  Payments  &  Market  Infrastructure  (CPMI)}  and  the  Technical  Committee  of 
+the International Organization of Securities Commission (IOSCO) by way of 24 Principles for 
+the  FMIs  (PFMIs).  Some  of  the  principles  which  have  assumed  more  importance  involve 
+general  business  risk  in  terms  of  recovery  and  resolution  of  the  FMI,  settlement  finality, 
+operational risk, tiered arrangements and disclosure of market data by the TR besides the 
+requirement of the central bank and other regulators to exercise effective oversight over the 
+FMIs in relation to these principles. Reserve Bank of India and the security market regulator, 
+SEBI, are committed to fulfil their responsibilities and ensure compliance with the PFMIs by 
+the CCPs. For example, CCIL is being regularly evaluated for its level of compliance and our 
+assessments indicate that there is a very high degree of convergence with these principles. 
+Of  course,  continuous  evaluation  against  existing  and  evolving  standards  will  remain  a 
+priority  for  us.  Currently,  we  are  in  advance  stage  of  dialogue  with  European  Market 
+Infrastructure Regulators (EMIR), the ESMA & the US authorities like the Commodity Futures 
+Trading Commission (CFTC), for recognition of our FMIs like the CCIL of following standards 
+equivalent to those prescribed by them for settlement of securities, forex & derivatives so that 
+market  participants  from  these  countries/region  can  participate  in  our  markets  without 
+impacting their trading activities & raising transaction costs, thereby affecting market volumes 
+& liquidity. 
+Conclusion 
+34. 
+a) 
+b) 
+c) 
+d) 
+ Let me now conclude based on what emerged from the above discussion. 
+The  importance  of  financial  sector  in  lubricating  a  modern  economy  cannot  be 
+overemphasized. 
+Financial  transactions  are  subject  to  information  problems  and  hence  prone  to 
+market  failure.  This  motivates  the  need  for  regulation  and  the  regulations  have  to 
+such as to address possibility of market failure but at the same time not discourage 
+growth of the sector nor stifle responsible innovation. 
+Derivatives contribute to efficient working of the financial system and management 
+of risk. This is also necessary for socially useful but risky projects to be ventured. 
+But at the same time, if their risk implication is not understood, they can cause and 
+aggravate market failures. 
+Modern financial markets including markets for derivatives in India are a little more 
+than  two  decades  old.  They  are  still  evolving.  It  is  wise  to  learn  from  other’s 
+mistakes and adopt a cautious and gradual approach, recognising at the same time 
+that one cannot cross a chasm in two leaps. 
+BIS central bankers’ speeches 
+ 9

@@ -1,0 +1,340 @@
+Axel A Weber: European inflation dynamics and inflation convergence 
+Speech  by  Professor  Dr  Axel  A  Weber,  President  of  the  Deutsche  Bundesbank,  at  the  Conference 
+“Open  Macro  Models  and  Policy  in  the  Development  of  the  European  Economy”  at  the  European 
+University Institute, Florence, 15 October 2004. 
+The references can be found on the Deutsche Bundesbank’s website. 
+ Introduction 
+I. 
+Maintaining price stability in the euro area is the primary objective of the single monetary policy of the 
+European Central Bank. In following this goal, monetary policy cannot prevent, however, inflation rates 
+from  differing  between  member  countries  of  EMU.  For  example,  over  the  last  twelve  months,  the 
+year-on-year  rates  of  the  HICP  for  Germany,  Austria  and  the  Netherlands  averaged  around 
+1½ percent, while Spain and Greece showed rates of around 3 percent.  
+The existence of enduring inflation differentials within the euro area has resulted in a lively debate on 
+the appropriateness of the stance of the single monetary policy for countries on the lower and on the 
+upper  end  of  the  distribution.  Accordingly,  macroeconomists  and  central  bankers  alike  have  a 
+considerable interest in measuring and understanding heterogeneity in euro area inflation rates. 
+Another  aspect  of  euro  area  inflation  that  is  currently  discussed  and  examined  is  its  dynamics  -  or 
+more  specifically  -  its  persistence.  The  investigation  of  this  topic  has  been  stimulated  by  the 
+observation that inflation in the euro area seems to respond so sluggishly to policy shifts.1
+In the following I would like to talk about both issues - inflation persistence and inflation dispersion - 
+which may be referred to as the time series dimension and the cross section dimension of the same 
+phenomenon.  
+Inflation persistence 
+II. 
+Understanding the dynamics of inflation in the euro area is of natural interest to the Eurosystem. For 
+this reason, the “Inflation Persistence Network” (IPN), a group of researchers from the ECB, my own 
+institution and the other national central banks, was set up in 2003.2 On the basis of a broad spectrum 
+of  different  methods  and  datasets,  e.g.  individual  consumer  and  producer  prices,  surveys  on  firms’ 
+price-setting behaviour, and aggregate inflation data, the IPN tries to shed some light on the patterns, 
+determinants and implications of European inflation persistence.  
+A crucial question that has to be answered is, of course, the proper definition and measurement of 
+“inflation persistence”. The key problems with this issue become clear as soon as we think about how 
+the  term  “persistence”  is  used  in  general.  The  American  Heritage  Dictionary,  for  instance,  defines 
+persistence as the “continuance of an effect after the cause is removed.”  
+When we apply this definition to “inflation persistence”, we immediately see that one aspect we have 
+to think about is the “cause” - or in the terminology of economists, the “shock”. Of course, many types 
+of shocks are conceivable, e.g. a preference shock or a technology shock. A central bank of course is 
+especially interested in monetary policy shocks. 
+Inflation persistence in structural models 
+Taking a more formal approach, inflation persistence can be defined in structural models and within a 
+pure  time-series approach.  As  to  structural  models, a  key  aspect  is  the definition  of  the  equilibrium 
+from which the economy starts and to which it tends to return after the shock. The equilibrium path of 
+                                                      
+1   See Angeloni, Kashyap and Mojon (2003).  
+2   For instance, one project at the Bundesbank currently explores the price setting behaviour in Germany based on survey 
+data.  
+BIS Review 61/2004 
+ 1
+inflation is then implied by the model structure. For instance, it may be given by a credible inflation 
+target set by the central bank. 
+The response pattern of inflation to shocks can be traced back in particular to the assumptions about 
+price  setting  behaviour.  In  this  setting,  the  time  that  a  systematic  monetary  policy  action  needs  to 
+reach its peak effect on inflation may be employed as a measure of inflation persistence.3
+Inflation persistence in pure time series models 
+Another strand of research does not rely on particular structural models. Rather, the inflation process 
+is  specified  as  a  (univariate)  stochastic  process.  In  these  models  shocks  come  as  realizations  of  a 
+single  innovation  term.  Unlike  with  structural  models  these  shocks  cannot  be  given  a  particular 
+economic interpretation. Rather, they are interpreted as the sum of all the various influences that have 
+an impact on inflation in a given period. 
+Taking  the  simplest  case  of  an  AR(1)  model,  the  implied  long-run  mean  of  the  inflation  rate  is  a 
+function of the intercept and the autoregressive parameter. The latter can be seen as a measure of the 
+degree of persistence: if the autoregressive parameter is small, there will be a strong tendency for the 
+process to return to its long-run mean. The closer this parameter is to unity, the longer it takes for the 
+inflation rate to return to its equilibrium level.  
+For  specifying  the  long  run  mean  of  inflation  in  a  univariate  time  series  model,  the  most  naïve 
+approach is to assume it to be constant for the whole sample period under consideration. This may be 
+seen as a reasonable specification for a short time horizon, for which the structure of the economy can 
+be assumed to be fairly constant.  
+However,  when  analysing  inflation  dynamics  over  a  longer  period  of  time,  the  assumption  of  a 
+constant  mean  is  simply  unreasonable.  It  could  be  replaced,  for  instance,  by  a  mean  process  with 
+break points, some exogenously given time trend, or some filtered process.  
+I  emphasise  this  point  since  it  turns  out  that  the  measured  persistence  crucially  depends  on  the 
+specification of the mean inflation.4 Robalo Marques (2004), for example, uses different specifications 
+for  the  long-run  inflation  trend,  such  as  linear  trends  for  different  subperiods,  a  moving  average 
+process, or a trend resulting from the Hodrick-Prescott filter. His findings are quite intuitive: there is a 
+negative  relationship  between  the  assumed  degree  of  flexibility  of  the  mean  process  and  the 
+measured  persistence.  Hence,  assuming  a  constant  mean,  as  is  frequently  done  in  the  literature, 
+generally tends to result in a very high estimated degree of inflation persistence.  
+Results from Levin and Piger (2004) confirm the importance of the assumptions about the long-run 
+equilibrium  level  for  the  measurement  of  inflation  persistence.  In  a  study  with  twelve  industrial 
+countries they find that, when allowing for structural breaks in mean inflation, inflation persistence is 
+not very pronounced. From that they draw the general conclusion that high inflation persistence is not 
+an inherent characteristic of industrial economies.  
+Inflation persistence and monetary policy 
+For monetary policy, the degree of inflation persistence is an important piece of information since it 
+measures  the  dynamic  impact  of  policy  measures  on  the  future  path  of  inflation.  A  high  degree  of 
+inflation  persistence  could  make  monetary  policy  much  more  difficult  because  monetary  policy 
+measures need a long time to affect the rate of inflation. The longer this transmission lag, the higher 
+the probability of additional shocks hitting the rate which could render this policy measure ineffective or 
+even inappropriate.  
+The conduct of monetary policy becomes even more complicated if inflation persistence in a monetary 
+union differs across member states. Benigno and Lopez-Salido (2002) analyze the effect of different 
+policy rules under such circumstances. Based on a theoretical model, they find that a monetary policy 
+that assigns a higher weight to countries with a higher degree of inflation persistence leads to better 
+outcomes  than  targeting  the  area-wide  rate  of  inflation.  However,  they  also  stress  that  such  a 
+                                                      
+3   See Batini (2002).  
+4   For estimating the degree of persistence of a time series in the presence of breaks in the mean process, see Perron (1990).  
+2 
+ BIS Review 61/2004
+“rigidity-adjusted”  inflation  targeting  comes  with  a  considerable  incentive  problem:  countries  with  a 
+high degree of inflation persistence have only a weak incentive to reduce their rigidities because they 
+enjoy the special attention of the monetary authority. 
+A  further  problem  arises  if  the  central  bank  is  faced  with  uncertainty  with  respect  to  the  degree  of 
+persistence,  e.g.  because  there  is  uncertainty  about  the  prevailing  price  and  wage  formation 
+mechanism. Using small macro models, Coenen (2003) and Angeloni, Coenen and Smets (2003) find 
+that in this case the monetary policy maker is well advised to base his decisions on the assumption of 
+a relatively high degree of persistence.  
+Inflation dispersion 
+III. 
+Let me now turn to the cross-sectional dimension, i.e. to the observed heterogeneity in inflation rates 
+across euro-area countries.  
+From  the  beginning  of  Stage  1  of  EMU  in  1990  until  1998,  the  dispersion  of  HICP  inflation  rates 
+decreased  steadily.  The  unweighted  standard  deviation,  exceeding  4  percentage  points  at  the 
+beginning of the 1990s, fell to about 1 percentage point at the beginning of 1999. After reaching its 
+lowest values in mid-1999, inflation dispersion increased again in 2000. From 2001 until the present, 
+the standard deviation did not exhibit any strong trend in either direction. This August the measure has 
+reached 0.9 percentage points.5  
+To give a benchmark for comparison: since 1997 inflation dispersion in the euro area appears to be 
+only slightly above the corresponding metric for US states. However, it has been higher than within 
+some European member countries. Across German Länder, for instance, the standard deviation has 
+moved around 0.4 percentage points since 1994.  
+Inflation dispersion in the euro area and in the United States (14 MSAs). Source: ECB (2003). 
+Figure 1 
+Unlike  among  regions  of  individual  euro  area  countries  and  within  the  United  States,  inflation 
+differentials across euro area countries seem relatively more persistent: from 1999 to 2003 Germany 
+and Austria have been mostly below the average euro area inflation rate, whereas Greece, Ireland, 
+Spain and Portugal mostly exceeded it. 
+                                                       
+5   ECB Monthly Bulletin April 2003 and own computations. 
+BIS Review 61/2004 
+ 3
+HICP inflation rates for EMU and selected member countries. Source: Deutsche Bundesbank. 
+Figure 2 
+e
+t
+a
+R
+n
+o
+ i
+t
+a
+l
+f
+n
+I
+ 
+P
+C
+H
+I
+7,0
+6,0
+5,0
+4,0
+3,0
+2,0
+1,0
+0,0
+Germany
+Greece
+Ireland
+Austria
+Portugal
+Spain
+EMU
+Jan 99
+Jul 99
+Jan 00
+Jul 00
+Jan 01
+Jul 01
+Jan 02
+Jul 02
+Jan 03
+Jul 03
+Jan 04
+Jul 04
+Months
+ Measuring inflation dispersion using regional data 
+Concerning empirical analysis, one obstacle for an in-depth assessment of inflation dispersion in the 
+euro area is the relatively scarce amount of available data. For the small number of member states 
+and  the  fairly  short  time  horizon,  neither  pure  time  series  approaches  nor  pure  cross  section 
+approaches appear promising for econometric analysis.  
+One obvious solution is to use panel data. Moreover, in order to increase the information in the cross 
+section, it is desirable to use regional data instead of national data. Let me summarise briefly, at this 
+stage, the results of a study by Günter Beck and myself that is based on price data from 1990 to 2002 
+which come from 77 European regions belonging to six euro-area countries.6
+                                                      
+6   Weber and Beck (2003). 
+4 
+ BIS Review 61/2004
+Inflation dispersion: all items, emphasis on Italian regions. 
+Figure 3 
+The figure plots cross-sectional inflation rates (‘All Items’) for Germany, Austria, Finland, Italy, Spain and Portugal. Inflation rates 
+are computed as annual percentage changes. Inflation rates of Italian regions are emphasized.  
+ We find that convergence of inflation rates is pronounced especially for tradable goods. The estimated 
+half-life for convergence among the 77 regions is 5.3 years. However, looking separately at the two 
+subperiods before and after the beginning of EMU, we observe that the speed of convergence has 
+changed  substantially:  from  1992  to  1998  the  half-life  was  1.3  years,  while  from  1999  to  2002  it  is 
+estimated as 12.8 years.  
+This  reflects  the  efforts  to  meet  the  Maastricht  inflation  criterion:  the  inflation  rate  of  a  country  was 
+allowed to be no more than 1.5 percentage points higher than the average inflation rate of the three 
+countries where inflation was the lowest. Thus, while the requirements of the Maastricht treaty have 
+forced convergence in the run-up to 1999, this process came to a virtual standstill after the beginning 
+of the final stage of EMU, given the considerable progress reached in inflation convergence at that 
+stage.  
+BIS Review 61/2004 
+ 5
+Figure 4 
+Inflation dispersion: European ‘extended’ sample. 
+The  figure  plots  the  standard  deviation  of  regional  inflation  dispersion  (total  index)  for  our  European  ‘extended’  sample 
+(Germany,  Austria,  Italy,  Spain  and  Portugal)  for  the  period  from  1992  to  2002.  Inflation  rates  are  computed  as  annual 
+percentage changes in the CPI. All figures are multiplied by 100. 
+ Deeper insights into the nature of inflation dispersion can be obtained by examining the dynamics of 
+the  whole  distribution  rather  than  just  the  standard  deviation.  More  specifically,  we  computed  the 
+probability  of  regional  inflation  rates  remaining  in  extreme  areas  of  their  distribution.  The  results 
+indicate relatively weak convergence dynamics as well. 
+Stochastic kernel: European ‘extended’ sample, annual transitions, contour plot and 
+conditional expected mean inflation deviations. 
+Figure 5 
+The left panel of the figure represents the contour plot of the transition density function p(x, y) associated with the stochastic 
+kernel P(x, A) that we computed for the European ‘extended’ sample. The right panel of the figure shows how corresponding 
+conditional expected period’s t+1 mean-inflation deviations behave relative to period’s t mean-inflation deviations. 
+ 6 
+ BIS Review 61/2004
+The determinants of inflation dispersion 
+There  has  been  much  discussion  about  the  underlying  reasons  for  the  observed  heterogeneity  of 
+inflation rates. It turns out that there is no single factor that explains the observed dispersion, rather, a 
+combination  of  different  factors  with  both  temporary  and  more  persistent  effects  seems  to  be 
+responsible.7
+First  of  all  nominal  convergence  and  real  catching  up  during  the  three  stages  of  EMU  matters. 
+Increased  goods  market  integration  and  greater  price  transparency  brought  upon  by  the  Internal 
+Market  Programme and  ultimately  by  the  introduction  of  the  Euro  have  led  to convergence of  price 
+levels for tradable goods. These in turn implied corresponding differences in price changes. For an 
+explanation  of  inflation  dispersion  for  non-tradables,  the  Balassa-Samuelson  effect  is  often  called 
+upon.  However,  empirical  studies  show  that  it  can  only  account  for  a  small  share  of  the  observed 
+inflation differentials.8
+Regional  supply  and  demand  shocks  are  factors  that  can  always  give  rise  to  new  differences  in 
+inflation. Since labour markets are not yet closely interlinked, the price mechanism plays a major part 
+in  balancing  supply  and  demand.  Hence,  short-term  inflation  differentials  can  be  interpreted  as  a 
+natural reflection of the necessary adjustment mechanisms taking place. Inflation differentials following 
+asymmetric shocks are intensified by inflation persistence, as Michael Ehrmann showed today.9
+Besides  region-specific  shocks,  euro  area  wide  shocks  can  also  be  responsible  for  inflation 
+heterogeneity. Different regions are affected differently according to their specialization, their market 
+structure,  or  the  way  in  which  expectations  are  formed.  For  instance,  the  effect  of  exchange  rate 
+shocks  vis-à-vis  the  dollar  differs  among  countries  depending  on  their  share  of  imported  goods  in 
+private consumption.  
+Implications of inflation dispersion 
+After a look on the degree and the potential causes of inflation dispersion, let me now comment on its 
+implications. 
+With nominal interest rates having largely converged, different inflation rates appear to imply different 
+real interest rates. High-inflation countries have lower real interest rates than low-inflation countries. 
+For the former, this tends to have a stimulating effect on consumption and investment and to lower 
+real  interest  expenses  on  public  debt.  For  low  inflation  countries,  the  opposite  holds  true.  Ceteris 
+paribus, both effects would tend to increase the inflation dispersion even further. 
+In the case of Germany, there has been an intensive discussion on whether the resulting higher real 
+interest rate can be held (at least partly) responsible for Germany’s weak economic performance of 
+the recent years. However, I have at least three objections to this argument.  
+First of all, real interest rates in Germany are still low from a historical perspective. Therefore, I do not 
+think that they form an obstacle to a stronger economic activity. Second, it has to be noted that the 
+relevant real interest rate is an ex ante concept. It is based on expected rather than on actual inflation. 
+Given  that  inflation  expectations  do  not  change  in  step  with  actual  inflation,  real  interest  rate 
+differentials  can  be  expected  to  be somewhat  lower  than  inflation  differentials.  And  third,  especially 
+within a monetary union, there is an important re-equilibrating effect: countries with low inflation rates 
+gain price competitiveness within the currency area and this tends to increase aggregate demand in 
+those countries.  
+Estimations with the macroeconometric model of the Bundesbank suggest that for Germany the net 
+effect  of  the  relatively  low  rate  of  inflation  on  aggregate  activity  cannot  be  deemed  restrictive.  With 
+increasing time horizon, indeed, the net effect should be expected to be positive, as the recent export 
+performance of the German economy seems to confirm.  
+As  stated  before,  there  are  countries  in  the  euro  area  that  are  characterized  by  continuing 
+above-average  inflation.  These  countries  have  to  carry  the  cost  associated  with  it,  for  instance, 
+                                                      
+7   See ECB (2003). 
+8   See Sachverständigenrat (2001) and ECB (2003).  
+9    See Angeloni and Ehrmann (2004). 
+BIS Review 61/2004 
+ 7
+shoe-leather costs, tax distortions and menu costs. Moreover, their export industry is expected to lose 
+competitiveness.  
+Inflation dispersion and the role of policy 
+With  view  on  inflation  dispersion,  for  a  central  banker,  the  natural  question  of  the  role  of  monetary 
+policy arises. Monetary policy in the euro area is necessarily uniform; therefore it cannot exert a direct 
+influence on inflation differentials.  
+In a way, one may even conclude that it should not try to bring down inflation dispersion beyond a 
+certain level. “Breathing” of relative prices is an essential element of the equilibrating and adjustment 
+mechanism  and  in  that  sense  a  crucial  feature  of  the  functioning  of  market  economies.  As  such,  a 
+certain level of heterogeneity in inflation rates can be interpreted as a reflection that necessary price 
+adjustment processes are taking place. 
+Moreover, the Eurosystem has already taken account of inflation heterogeneity explicitly by spelling 
+out  its  stability  policy  objective  in  terms  of  a  medium-term  euro-area  inflation  rate  of  “just  under 
+2 percent”. Given the current dispersion of inflation rates, in my opinion, the safety margin implied in 
+this definition is sufficient to protect all member countries against deflation. However, the Eurosystem 
+has to continue to analyse national developments in inflation rates and check if they are compatible 
+with the prevailing price norm. 
+If persistent deviations of a national inflation rate can be traced back to inappropriate domestic policies 
+or  other  unwarranted  domestic  developments,  such  as  inadequate  wage  policies  or  structural 
+deficiencies,  national  policy  is  asked  to  react,  taking  area-wide  monetary  policy  as  given  for  their 
+decisions. 
+The effect of structural reforms on inflation differentials can be expected to be ambivalent. Due to the 
+different  speeds  at  which  structural  reforms  are  being  implemented  in  the  various  countries,  a 
+temporary  increase  in  inflation  dispersion  may  be  induced.  For  example,  the  deregulation  of  the 
+telecommunications industry in some countries has led to a pronounced decrease in prices for quite a 
+long time. In the long run, however, retrenching rigidities on product and labour markets is expected to 
+increase  an economy’s capacity  to  adjust  efficiently  to shocks  and  thus  to  reduce  the  probability  of 
+enduring inflation differentials. 
+Conclusions 
+IV. 
+I think my quick tour through the topics of inflation persistence and inflation dispersion has shown that 
+there are still many open questions left. We still do not know enough about the factors that determine 
+inflation persistence in the euro area; we cannot even be sure about the prevailing degree of inflation 
+persistence. I am therefore very much looking forward to the presentation of the results of the IPN in 
+2005. 
+Almost the same applies to the issue of inflation dispersion. We do not know yet in how far observed 
+inflation differentials are reflecting  price adjustments between regions and countries within the euro 
+area, which are necessary and desirable, and to what extent they should be viewed as being harmful. 
+Nevertheless, I think that two important conclusions can be drawn. On the one hand, a high degree of 
+inflation  persistence  and  a  high  dispersion  in  national  inflation  rates  within  the  euro  area  tend  to 
+complicate  the  monetary  policy  of  the  Eurosystem.  On  the  other  hand  -  and  this  is  the  second 
+conclusion  -  a  stability-oriented  monetary  policy  can  contribute  to  alleviating  at  least  some  of  the 
+problems.  
+As  regards  inflation  persistence,  the  credibility  of  monetary  policy  plays  an  important  role.  Since  a 
+credible  monetary  policy  oriented  to  price  stability  is  capable  of  stabilising  inflation  expectations, 
+positive shocks to the price level - e.g. an increase in oil prices - may not cause a persistent increase 
+in the rate of inflation because the public - specifically the wage-setting parties - are convinced that the 
+central bank will act to keep inflation low. I can also put it differently: Should monetary policy lose its 
+credibility, then the degree of inflation persistence will surely increase, rendering monetary policy even 
+more  difficult.  Insofar  as  inflation  differences  across  euro-area  countries  are  due  to  differences  in 
+inflation  persistence,  credibility  of  the  area-wide  monetary  policy  also  contributes  to  a  reduction  of 
+inflation differentials. 
+8 
+ BIS Review 61/2004
+However,  since  monetary  policy  is  oriented  towards  price  stability  in  the  euro  area  as  a  whole,  it 
+cannot directly affect inflation differentials within the euro area. Therefore, national economic policies 
+such as fiscal, structural and wage setting policies need to be adjusted to counteract persistent and 
+potentially damaging inflation differentials.  
+BIS Review 61/2004 
+ 9

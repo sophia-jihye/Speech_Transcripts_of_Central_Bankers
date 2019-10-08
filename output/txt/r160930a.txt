@@ -1,0 +1,215 @@
+  
+Speech 
+   Embargo 
+26 September 2016, 
+11:30 am 
+ 
+Financial market infrastructures: Walking the line between 
+stability and innovation 
+Sibos 2016 
+ 
+Thomas J. Jordan 
+ 
+Chairman of the Governing Board, Swiss National Bank* 
+Geneva, 26 September 2016 
+© Swiss National Bank, Zurich, 2016  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ∗ The speaker would like to thank Giuseppe D’Alelio and Andreas Wehrli for their valuable support in preparing this speech. He also thanks 
+Simone Auer, Petra Gerlach, Sébastien Kraenzlin and SNB Language Services for their assistance. 
+   Page 1/6 
+     Introduction 
+I am delighted to open Sibos 2016 and welcome you all warmly to Geneva. Sibos is the 
+annual gathering for financial market service providers. This sector, which is responsible for 
+nothing less than the backbone of the financial system, is currently experiencing a surge of 
+innovation. It is therefore a great honour for Switzerland to be hosting this important 
+conference at this time of transformational change. 
+Around the world, Switzerland is often seen as a haven of stability and continuity. The highly 
+international Swiss financial sector benefits from the exceptional stability of our country’s 
+political and legal structures. At the same time, Switzerland manages to be innovative; it is 
+regularly among the top performers in global innovation rankings.1 The Swiss financial 
+industry plays an important role here. You will not find the ‘Crypto Valley’ on any map, but a 
+financial technology (fintech) cluster going by this name has sprung up in the Canton of Zug. 
+The city of Zug has recently even launched a pilot project allowing certain public services to 
+be paid for using a crypto-currency. But even those of us who prefer more traditional payment 
+methods can benefit from many innovations in Switzerland. For instance, cash can now be 
+withdrawn from ATMs without a bank card – simply by using a smartphone. 
+Like Switzerland, central banks are associated with stability and continuity. And yet, since the 
+financial crisis, they too have had to adopt ever more inventive policies to shield their 
+respective economies from serious harm. The Swiss National Bank has likewise had to 
+mobilise its innovative resources. We have developed and deployed new monetary policy 
+instruments, which have enabled us to carry out our mandate as fully as possible. 
+When it comes to implementing monetary policy, financial market infrastructures are vital. In 
+Switzerland, these infrastructures are run by SIX Group and the SNB is actively involved in 
+shaping the strategic direction of certain functions. Without safe and efficient infrastructures 
+we would be unable to fulfil our mandate. This fact alone explains our keen interest in 
+ensuring their smooth operation. But our interest goes beyond monetary policy 
+implementation. The infrastructures also play a major role in enabling the SNB to perform 
+other statutory duties, such as facilitating and securing the operation of cashless payment 
+systems and contributing to the stability of the financial system. 
+As mentioned, the financial sector is experiencing a surge of innovation. The financial market 
+infrastructures, and hence the central banks, stand to be affected by these changes. As this 
+process unfolds, the SNB’s task is to strike the right balance between maintaining stable 
+conditions and promoting useful innovation. In this speech I will outline why we are most 
+likely to achieve safe and efficient outcomes if we can balance the interests of market 
+participants, regulators and central banks. 
+ 1 Switzerland has topped the Global Innovation Index (www.wipo.int) for the last six years. 
+   Page 2/6 
+     Financial industry – same core functions, evolving technology 
+The theme for this year’s Sibos conference is ‘Transforming the landscape’. New 
+technologies are paving the way for new financial services. While there are certainly some 
+interesting innovations in the offing, it is important to recognise that many of the financial 
+industry’s core functions will remain largely unchanged. The role of financial intermediaries 
+is, first, to help their clients fund new investments and, second, to offer them investment 
+opportunities and asset protection strategies. Their third role is to facilitate securities 
+safekeeping, and their fourth is to execute payments on behalf of their clients. Customers have 
+long required these basic services, and they will continue to need them in the future. In short, 
+the economic function of the financial industry has not changed. 
+However, the technologies and channels by which financial services are requested and 
+delivered are changing. The digitalisation of payment transactions, for instance, has helped to 
+make cashless payments cheaper and simpler for customers – even if efficiency could still be 
+further improved, especially where cross-border payments are concerned. The advent of 
+dematerialised securities years ago is another example of innovation within the financial 
+industry; this change greatly increased the efficiency of securities settlement and safekeeping. 
+The digital transformation has also added value in another way: it has enabled bank customers 
+to execute transactions with greater temporal flexibility and geographical independence. 
+These days, traditional bank counters have morphed into apps that live on our smartphones. 
+Such useful innovations have the potential to improve aggregate economic welfare. 
+The challenge for regulators and central banks is to make sure they fully understand the 
+effects – and side-effects – of these new mechanisms at an early stage. The same goes for 
+innovations affecting financial market infrastructures – especially those that are systemically 
+important. Such assessments of new technologies are based on a set of internationally 
+accepted guidelines called ‘Principles for financial market infrastructures’.2 These principles 
+define the criteria that infrastructures must meet, thereby setting standards for innovation in 
+this field. 
+Central banks and regulators have a duty to pass legislation guaranteeing the safety of 
+financial market infrastructures – by protecting their stability, resilience and availability, 
+irrespective of technological change; but they must also take on board the efficiency goals of 
+infrastructure providers and their participants. Regulatory adjustments may be needed to 
+catalyse the positive effects of certain innovations.3 
+  2 Cf. Committee on Payment and Settlement Systems (now Committee on Payments and Market Infrastructures, CPMI) and Technical 
+Committee of the International Organization of Securities Commissions (IOSCO), ‘Principles for financial market infrastructures’, April 
+2012. 
+3 The Federal Intermediated Securities Act (FISA) introduced in Switzerland in 2008 is a good example of a regulatory change – in this case 
+designed to manage the transition to dematerialised securities at central depositories. Dematerialisation and the associated regulatory 
+changes also significantly improved the efficiency and safety of repo settlement and hence of monetary policy implementation. 
+  Page 3/6 
+     From centralisation to decentralisation – how far should it go? 
+Until very recently, safety and efficiency were considered to be functions of centralisation. 
+This trend is reflected in the evolution of central securities depositories4 and in the emergence 
+of cashless payment transactions. In Switzerland, centralised clearing houses in the 1940s and 
+centralised data processing in the 1970s were waypoints on a journey of convergence. This 
+development culminated in the creation of the centralised ‘Swiss Interbank Clearing’ (SIC) 
+payment system in 1987.5 Another – more recent – example is the settlement of OTC 
+derivatives via central counterparties.6 This centralisation process and related economies of 
+scale both reduced costs and improved safety. 
+However, with the arrival of the latest technologies, these third-party clearing and settlement 
+services are increasingly seen as superfluous cost factors; the keywords here are ‘distributed 
+ledger’ and ‘blockchain’.7 The underlying technology promises first and foremost to reduce 
+costs. For instance, such systems would render the reconciliation of transaction and balance 
+data between banks and a third-party system obsolete. The paradigm seems to have been 
+turned on its head: decentralisation – not centralisation – now appears to promise the greatest 
+efficiency gains. 
+I do not, however, believe that decentralisation will become the ‘new normal’ in all financial 
+market functions and infrastructures. Many existing financial market infrastructures are 
+already highly competitive, and barriers to entry for new technology are correspondingly 
+high. The conventional, centralised model they are built on is already low-cost and meets high 
+safety standards. And improvements are being made all the time. Distributed ledger 
+technology, meanwhile, has yet to prove it can outperform the existing set-up with respect to 
+safety and efficiency. 
+Having said this, there may be some scope for deploying distributed ledgers in certain 
+complex financial market functions or infrastructures. The settlement and safekeeping of 
+securities is one example. In the end, we may well see conventional and new technologies co-
+existing or blending. Staying with the securities example: it is conceivable that we will see a 
+hybrid scenario. This could entail security-specific information being settled via a distributed 
+ledger, while the payment leg could continue to be effected via a traditional, centralised 
+payment system. 
+  4 Cf. Diana Chan, Florence Fontan, Simonetta Rosati and Daniela Russo, ‘The Securities Custody Industry’, European Central Bank, 
+Occasional Paper Series, No. 68, August 2007. 
+5 In 1949, the banks started bundling interbank transactions in various clearing houses categorised according to bank type. Thirty years later, 
+in 1979, the data processing systems of these clearing houses were also centralised. This laid the groundwork for the current SIC system, 
+launched in 1987, which has led to the centralisation and standardisation of all Swiss interbank payment transactions via SNB sight deposit 
+accounts. Cf. Fritz Klein and Guido Palazzo, ‘Kulturgeschichte des Geldflusses. Die Entwicklung des Zahlungsverkehrs mit Fokus 
+Schweiz’, 2003, Verlag SKV. 
+6 The G20 countries committed to the principle of settling OTC derivatives via central counterparties at the Toronto Summit in 2010 before 
+passing national legislation on the matter (art. 97 of the Financial Market Infrastructure Act [FMIA] in Switzerland, the European Market 
+Infrastructure Regulation [EMIR] in the European Union, and the Dodd-Frank Act in the US). 
+7 The terms ‘distributed ledger’ and ‘blockchain’ describe a concept that enables the operation of a distributed, synchronised database. Such 
+a database allows participants to exchange digital assets without involving a centralised third party. 
+  Page 4/6 
+     Such new technology is highly relevant for central banks, especially in the context of the 
+ongoing debate about central bank money potentially being issued via a distributed ledger. 
+This idea raises a host of central bank-specific questions that will need to be examined in 
+more detail. The SNB is following and analysing developments in this arena closely and is 
+actively involved in discussions with market participants, regulators and other central banks. 
+Recent developments in the SIC system 
+Amid all these longer-term visions, we should be careful not to overlook changes that are just 
+around the corner – or indeed, have already been introduced. So let me return to the present 
+and talk about developments in cashless payment transactions that are already having a 
+tangible effect on central banks around the world. For obvious reasons, my remarks will be 
+based on the situation in Switzerland. 
+As I have already mentioned, one of the SNB’s statutory mandates is to facilitate and secure 
+the operation of cashless payment systems. One of the key ways in which we perform this 
+duty is through our strategic guidance of the SIC payment system. This includes approving 
+technical changes to the system and the rules of conduct for system participants, fixing 
+operating hours and rates, and deciding who is granted access to the SIC system. 
+At the same time, the SIC system is operated not by us, but by SIX Interbank Clearing; 
+system participants are involved in the decision-making process and therefore play a direct 
+part. This configuration makes SIC a market solution. Another feature is that the SIC system 
+is used to settle not only interbank payments, but also a large proportion of retail payments.8 
+By virtue of its role in SIC, the SNB has a substantial influence on retail payments in Swiss 
+francs and is, in turn, also impacted by dynamic forces at work in this area. 
+The SIC system takes account of such forces and sets the stage for cashless payment 
+innovations, which ultimately benefit customers. This is reflected in the launch of the fourth 
+generation of the SIC system in April this year. SIC now supports ISO 20022, the emerging 
+standard in payment messaging.9 Thanks to the IT architecture of the new SIC system, 
+innovative services can now be maintained and developed more flexibly and cost-effectively 
+than in the past. Furthermore, SIC’s operating hours are due to be changed next year; this will 
+extend the window in which customers can submit payments with same-day value date.10 
+The possibility of adjusting the regulatory framework that I touched on earlier is also very  
+topical in Switzerland at the moment. Specifically, this concerns the issue of lowering barriers 
+to market entry for fintech companies. FINMA, the Swiss Financial Market Supervisory 
+  8 In terms of numbers of transactions, SIC is practically a retail payment system, since around 95% of transactions are conducted for this 
+purpose. 
+9 The ISO 20022 standard for electronic data interchange aims to harmonise the exchange of data between participants in differing areas of 
+finance, including payment transactions. Essentially, the processes behind this data exchange and the messages’ data formats will be 
+unified, leading to improved settlement of transactions. 
+10 As of 15 May 2017, the end of the SIC system’s clearing day will be extended from 4.15 pm to 6.15 pm. 
+  Page 5/6 
+     Authority, supports the introduction of a new licensing category for fintech companies.11 New 
+FINMA-regulated participants establishing themselves in retail payments could also seek 
+access to the SIC system in the future. 
+As these examples show, the SIC system is moving with the times. SIC is systemically 
+important and critical to the fulfilment of our mandate; we therefore support innovations 
+which will improve its efficiency without compromising its safety. 
+Conclusion 
+Ladies and gentlemen, financial technology is evolving rapidly and calling many existing 
+structures into question. Despite this, it is important to bear in mind that the fundamental 
+needs of companies and households that are met by financial services remain largely 
+unchanged. The usefulness and success of new technologies will hinge on whether they can 
+meet these basic needs more cheaply, more securely and in a more customer-friendly manner 
+than existing solutions. 
+The SNB is neutral vis-à-vis the technologies underpinning financial market infrastructures. It 
+assesses innovations in terms of their implications for the fulfilment of its statutory mandate. 
+Our focus is on safety and efficiency, and we analyse the effects – and side-effects – of 
+innovations closely through this lens. 
+For this analysis, dialogue between market participants, regulators and central banks is 
+essential. This is especially true in view of current technological changes, which make 
+walking the line between stability and innovation particularly challenging. This exchange of 
+views with practitioners helps us to correctly assess the uses and risks of new technologies. 
+Such discussions are critical if we are to exploit the technologies of the future at the right time 
+and under the right conditions. 
+I would therefore like to extend my sincere thanks to the organisers of the Sibos event for this 
+excellent opportunity to share ideas. As home to many international organisations, Geneva is 
+an ideal location for this dialogue. We are certain to find fertile ground here. I wish you all a 
+successful conference with many enlightening discussions. 
+ 11 Cf. FINMA press release ‘FINMA reduces obstacles to FinTech’, 17 March 2016. 
+   Page 6/6 
+ 

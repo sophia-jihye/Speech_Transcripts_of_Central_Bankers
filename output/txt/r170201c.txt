@@ -1,0 +1,294 @@
+Stephen  S  Poloz:  Models  and  the  art  and  science  of  making
+monetary policy
+Remarks by Mr Stephen S Poloz, Governor of the Bank of Canada, at the University of Alberta
+School of Business, Edmonton, Alberta, 31 January 2017.
+Introduction
+ The Alberta School of Business sits a couple of hundred metres east of the Centennial Centre
+for  Interdisciplinary  Science,  which  houses  a  number  of  telescopes.  When  you  look  at  a  star
+through a telescope, you see it not as it exists today, but as it existed years in the past, when its
+light started heading toward Earth. In that sense, a telescope is something like a time machine.
+If only those telescopes could do the reverse and see into the future! Economic forecasting and
+policy making would be a snap. But since we do not have a machine that lets us see the future,
+we have to make do with the next best thing: the economic model.
+Models have become indispensable to the conduct of monetary policy. This is because central
+banks typically use monetary policy to target a variable, such as inflation, in the future. Policy
+actions take time to affect targets. For example, it takes up to two years for a change in interest
+rates to have its full effect on inflation. This means that there is little point reacting to the latest
+movement  in  inflation.  Rather,  central  bankers  need  tools  that  can  forecast  where  inflation  is
+likely to be two years from now and tell them how to adjust policy today so inflation will hit the
+target.
+Of course, economic models are not crystal balls. They generally explain what happens in the
+economy on average—they always make errors, but the errors are expected to offset each other
+over  time.  The  fact  that  models  can  deliver  only  an  approximation  of  the  truth  means  that
+conducting monetary policy is not a mechanical exercise. It is a complex blend of art and science
+—in effect, it is an exercise in risk management.
+Sooner or later, something extraordinary happens to the economy that a model cannot explain,
+pushing  it  persistently  off  track. A  forecaster  can  rationalize  a  string  of  prediction  errors  for  a
+while  and  adjust  his  or  her  judgment  around  the  outlook  accordingly,  but  eventually  the  time
+comes to rebuild the model.
+The global financial crisis of 2007–09 is one such event: a significant outlier in economic history.
+Models have struggled to explain the forces that led to the crisis and the behaviour that followed.
+This  experience  is  now  guiding  the  work  of  model  builders.  And  in  the  Bank’s  most  recent
+medium-term plan, we identified as a core priority the need to reinvent central banking, in part by
+refreshing and upgrading the tools we use.
+The cycle of modelling-forecasting-remodelling is as old as empirical economics. It is how we
+make progress. Today, I want to review the history of models at the Bank of Canada, illustrating
+how each new generation of models has built on the successes of the previous generation and
+adapted  to  the  changing  needs  of  policy-makers.  I  will  describe  how  economic  theory  and
+computer  technology  have  enabled  this  evolutionary  process  and  speculate  on  what  we  can
+expect in the next generation of economic models.
+Evolution and progress
+A key issue in building economic models is the trade-off that exists between forecasting ability
+and  theoretical  rigour.  Forecasting  models  focus  primarily  on  capturing  empirical  regularities.
+They work well when the economy and the shocks that it faces do not change much over time. In
+ 1 / 7
+BIS central bankers' speeches
+contrast, theoretical models built for policy analysis are based on a specific interpretation of how
+the  economy  functions.  Their  specifications  may  hold  true  on  average,  but  not  for  every  data
+point. So models with a strong theoretical base tend to underperform empirical models in normal
+times. However, they can be very useful in explaining behaviour when large shocks cause data-
+based models to break down.
+The  two  types  of  models  have  tended  to  be  complementary,  but  that  has  never  stopped
+economists  from  pursuing  the  holy  grail  of  a  single  model  that  combines  strong  theoretical
+foundations with good empirical performance. Over time, advances in computing capability have
+made  it  possible  to  build  more  realistic  behavioural  assumptions  into  models,  improving  this
+trade-off. However, the history of model development at the Bank of Canada reflects both this
+quest for synthesis as well as the evolving needs of policy-makers. Each new model has drawn
+on the strengths of its predecessors while addressing their shortcomings. And throughout this
+history, advances in both economic theory and computer technology have played an important
+enabling role.
+The Bank began modelling in the 1960s, when staff and visiting academics built RDX—which
+stood  for  the  Research  Department  Experimental  model.  The  development  of  the  mainframe
+computer was essential to this work, but not every institution had one. One academic involved in
+those  early  efforts  at  the  Bank,  John  Helliwell  of  the  University  of  British  Columbia,  tells  of
+sending boxes of punch cards by bus to a computing centre at the Université de Montréal and of
+inputting data by modem to a computer in Utah.
+Early models used by most central banks were based on Keynesian theory, with the demand
+side  of  the  economy  driving  growth.  However,  the  inflationary  experience  of  the  late  1960s
+showed the importance of modelling the supply side, which led to the successor model, RDX2.
+But after the oil price shock of 1973–74, the Bank wanted to use its model to examine alternative
+policies. The Bank actually began targeting the money supply as a means of reducing inflation
+and  anchoring  inflation  expectations  in  1975,  but  RDX2  did  not  have  the  ability  to  compare
+alternative policy paths.
+This led to the development of RDXF, with “F” denoting “forecasting.” This version of RDX2 was
+more  amenable  to  policy  analysis.  Acquisition  of  an  in-house  mainframe  computer  greatly
+facilitated this work. This is the model that was being used for quarterly projections when I arrived
+at the Bank in 1981.
+I can vividly recall my initial disappointment with RDXF. I was fresh out of graduate school, where
+the natural rate hypothesis and rational expectations were de rigueur. The natural rate hypothesis
+holds  that  there  is  no  permanent  trade-off  between  inflation  and  unemployment.  Rather,  the
+economy settles at full employment in the long run, and inflation reflects the impact of monetary
+policy  actions  and  people’s  rational  expectations.  Rational  expectations  were  seen  as  key  to
+anchoring both models and economies as well as critical for properly analyzing alternative policy
+paths.
+The gaps between RDXF and the thinking of the day became even more real when the Bank
+dropped its monetary targets and began searching for a replacement policy anchor. We believed
+that  RDXF  would  be  vulnerable  to  the  Lucas  critique.  The  Lucas  critique  held  that  empirical
+models  based  on  data  generated  under  a  given  policy  regime  and  expectations-formation
+process would prove unstable and forecast poorly when the policy regime shifted.
+By the late 1980s, the Bank was converging on targeting inflation directly as the central goal of
+monetary  policy.  This  meant  policy  making  would  put  much  more  focus  on  the  future.  We
+needed a model that would allow the Bank to make detailed projections—not just over the next
+couple of quarters, but for at least two years into the future—to reflect the lag between interest
+rate changes and their ultimate effect on inflation.
+ 2 / 7
+BIS central bankers' speeches
+This  thinking  led  to  the  development  of  SAM,  the  Small Annual  Model.  SAM  incorporated  the
+natural rate hypothesis and also defined a steady state to which the model would converge after
+being hit with a shock. However, the flip side of these theoretical strengths was that SAM was
+unsuitable for short-term projections. So SAM was used to complement RDXF.
+The longer-term plan was to use SAM as a prototype to build a quarterly model with the same
+key  properties  to  replace  RDXF.  Thus,  QPM—for  Quarterly  Projection  Model—was  built.  It
+incorporated  forward-looking  consumers  and  companies  with  rational  expectations  and  a
+coherent steady state. Its short-run dynamics fit the data well enough to be used for projections.
+It also embraced all of the stock-flow dynamics necessary to analyze the significance of rising
+government debt, a prominent issue in the early 1990s.
+QPM represented a big leap in sophistication, and the desktop computers we had at the time
+were  not  up  to  the  task. As  the  Chief  of  the  Research  Department,  I  had  to  make  a  special
+request of then-Governor Gordon Thiessen for money to buy more powerful computers just to
+run the experimental model—a process that nevertheless lasted all night.
+QPM served the Bank well for more than a decade. Its main shortcoming was that it could not
+deal  with  shocks  to  Canada’s  terms  of  trade—essentially,  fluctuations  in  the  prices  of  key
+commodities,  such  as  oil—and  these  would  become  larger  and  more  frequent.  So  adding  a
+commodity sector to QPM moved to the top of our project list.
+At the same time, the economics literature was shifting to a new class of models: DSGE, for
+dynamic  stochastic  general  equilibrium.  DSGE  models  capture  the  idea  that  economic
+behaviours—such  as  decisions  about  household  consumption  and  business  investment—are
+perfectly  informed,  forward-looking  and  always  optimal.  These  models  also  predict  how  an
+economy can evolve over time as expectations change. Furthermore, stochastic shocks are built
+into the model at the household and firm level, dealing completely with the Lucas critique. The
+model’s  solution  describes  an  economy  that  has  reached  a  state  of  general  equilibrium,  with
+individual decisions aggregated into economy-wide prices and production quantities.
+So  the  Bank  decided  to  make  the  major  investment  to  build  ToTEM—the  Terms-of-Trade
+Economic Model. ToTEM kept all the functionality of QPM, while adding the commodity sector
+and  using  the  DSGE  paradigm.  Again,  this  work  proved  to  be  too  much  for  the  standard
+workstations  that  staff  had  on  their  desks,  despite  their  increased  power.  Calibrating  ToTEM
+required an extremely complex series of mathematical problems that took up enormous amounts
+of computing power. The solution during the prototype stage was to buy some top-end gaming
+computers to crunch the numbers on nights and weekends when the heat and noise would not
+make people’s offices unbearable.
+ToTEM  continues  to  work  extremely  well  for  both  projection  and  policy  analysis.  Of  course,
+ToTEM’s  foundations  represented  a  shift  toward  the  theoretical  side  of  the  trade-off  between
+forecasting  ability  and  theoretical  rigour.  So  Bank  staff  built  a  new  model  designed  to
+complement  ToTEM  and  guard  against  different  types  of  forecast  risks.  This  is  the  Large
+Empirical  and  Semi-structural  model,  known  as  LENS.  It  operates  under  a  different  paradigm
+than ToTEM does, is based more on what the data show and has only a loose set of theoretical
+constraints. LENS acts as a cross-check for ToTEM, and staff use the two models together to
+develop their projection and to facilitate a dialogue around policy options. In this way, the Bank is
+thus managing the trade-off by using two complementary models simultaneously, much as we
+did with RDXF and SAM. But ToTEM and LENS are much closer in performance than RDXF and
+SAM were, reflecting the improvements in the trade-off that I mentioned earlier.
+Our  approach  proved  to  be  extremely  valuable  in  late  2014,  when  Canada  was  faced  with  a
+collapse in the price of oil. In contrast to standard Keynesian models, ToTEM anticipated how
+serious the oil price shock would be, how the effects would endure and how the economy would
+adjust to lower oil prices. Our confidence in this analysis led the Bank to lower its policy rate
+ 3 / 7
+BIS central bankers' speeches
+twice in 2015, long before the negative effects of the oil price shock began to be widely felt. This
+put a cushion under the economy and made for a faster adjustment.
+A big outlier: the global financial crisis
+Together, ToTEM and LENS represent a powerful, modern approach to economic modelling at a
+central  bank.  Nevertheless,  they  provide  little  insight  into  the  forces  that  produced  the  global
+financial  crisis  or  the  behaviour  that  has  come  afterward.  This  is  true  for  all  major  models
+previously used by central banks.
+The period since the crisis has raised related questions that these models are not well-equipped
+to  answer.  For  example,  how  will  the  prolonged  period  of  low  interest  rates  affect  risk-taking
+behaviour?  How  are  business  confidence  and  geopolitical  uncertainty  affecting  business
+decisions? How do global value chains affect the way monetary policy is transmitted?
+To be clear, ToTEM and LENS have continued to do a good job, despite their shortcomings. And
+to  complement  them,  we  have  developed  a  number  of  “satellite  models”  to  deal  with  specific
+issues. For example, the Bank has built a model called MP2—the Macroprudential and Monetary
+Policy  Model—to  study  the  impact  of  financial  shocks  and  macroprudential  policies  on  the
+economy. Other models look at the ways inefficiencies in financial markets can lead to financial
+imbalances. There have also been ambitious efforts to model exports, at a very granular level, in
+light of extensive destruction of export capacity over the past decade.
+This multi-model strategy has allowed us to successfully mitigate the limitations of the current
+generation of models and appropriately manage the risks facing monetary policy. But the next
+generation of models at central banks will need to address these issues directly.
+The next generation of models
+While no one can say with any certainty what the next generation of central bank models will look
+like, we can expect them to stand on the shoulders of models like QPM, ToTEM and LENS.
+One lesson we have learned over the years is that a single model is unlikely to satisfy all our
+needs. This is a consequence of the fact that models are, by construction, an abstraction from
+reality. Striking the right balance between theory and data fit is more an exercise in judgment than
+an  empirical  one,  and  those  judgments  are  best  formed  by  drawing  upon  complementary
+models.
+Another lesson is that central banks have traditionally stuck with their models until well after their
+“best  before  date.”  This  is  no  doubt  because  greater  realism  in  models  means  greater
+complexity,  more  computing  power  and  big  investments  in  research  and  people.  Guarding
+against keeping a model  too  long  may  mean  continuously  investing  in  new  approaches,  even
+when there are no obvious shortcomings in existing models.
+Indeed,  often  it  is  the  unforeseen  advances  in  modelling  paradigms—enabled  by  improved
+computer  technology—that  drive  modelling  progress.  Today,  the  DSGE  paradigm  appears  to
+have a long future, but no one was dreaming of this approach when we were building QPM only
+25 years ago.
+To  illustrate,  an  alternative  approach  worth  exploring  may  be  agent-based  models.  Unlike  the
+DSGE  approach,  agent-based  models  assume  that  the  economy  consists  of  individuals  who
+repeatedly  interact  with  each  other  and  adapt  their  behaviour  based  on  what  they  learn  from
+those experiences. Macroeconomic behaviour emerges naturally. Such models have their own
+limitations, but in a world of big data, where the advertisements you see online can be derived
+from what you type into your search engine, agent-based models could be a valuable tool.
+ 4 / 7
+BIS central bankers' speeches
+The  next  generation  of  models  is  also  likely  to  take  a  more  nuanced  approach  to  rational
+expectations.  In  reality,  people  seem  to  behave  in  a  way  that  falls  somewhere  between  full
+rational  expectations  and  simple  rules  of  thumb.  Hence  the  promising  concept  of  “bounded
+rationality.”
+Another potentially desirable attribute of future models is to allow for more forms of heterogeneity.
+We know, for instance, that different companies make different decisions about when to enter
+and exit markets and how to invest. We know that people with different income and wealth levels
+respond differently to interest rate movements, and these responses can change depending on
+the  person’s  stage  of  life.  Many  financial  transactions  occur  because  people  have  varied  risk
+tolerances.  However,  most  current  models  assume  uniformity  among  companies  and
+individuals.
+And at a minimum, the next generation of models must capture the links between the financial
+system and the real economy. They should explain how the financial system can be a source of
+shocks  and  how  those  shocks  can  be  propagated.  They  need  to  capture  the  possibility  of
+nonlinearities that cause small shocks to have outsized economic effects. They should be able
+to show how debt that builds up in a specific sector can affect the entire economy. And we need
+models that capture risks and vulnerabilities within the financial system and can show how these
+interact with monetary and macroprudential policies.
+This is not an exhaustive list, but it illustrates the point. Bank staff have been given a licence to
+innovate on these issues because we know model evolution takes time, and we should invest
+continuously in it.
+Models and uncertainty
+Before I conclude, I want to return to an issue I raised at the beginning—the role of uncertainty in
+policy making.
+It  is  tempting  to  think  that  we  can  use  today’s  sophisticated  models  to  give  us  a  precise
+numerical forecast for inflation two years from now as well as the exact policy response needed
+today to keep inflation precisely on target. In earlier speeches, I have likened this to an exercise in
+engineering.
+In  fact,  economists  do  exactly  that  with  their  models,  but  they  express  their  predictions  in
+probabilistic terms. They point to the many margins of error that exist around all the variables in
+their model, and all the assumptions they must make, and admit that their ultimate calculation
+contains all of these sources of error by construction.
+This creates uncertainty around both the model’s inflation forecast and its recommended policy
+path. At  the  Bank,  we  think  of  this  inherent  uncertainty  as  creating  a  “zone”  within  which  our
+interest  rate  setting  has  a  reasonable  probability  of  bringing  inflation  back  to  target  over  a
+reasonable time frame.
+So  uncertainty  exists  even  when  models  are  performing  well.  But  there  are  additional
+uncertainties, including those related to model-disrupting structural changes, such as those that
+were triggered by the global financial crisis. These additional uncertainties may introduce a bias
+in the model’s projections, making it more likely that its suggested interest-rate path will lead to
+missed targets.
+And, of course, there is uncertainty generated by the risks to our inflation forecast. We begin our
+interest rate deliberations with the policy path recommended by our models, but we are always
+mindful of the uncertainties, including the range of risks that might cause us to undershoot or
+overshoot  our  target. All  of  these  sources  of  uncertainty  define  the  zone  in  which  we  can  be
+reasonably  assured  that  policy  is  on  track.  Factors  that  increase  uncertainty—such  as
+ 5 / 7
+BIS central bankers' speeches
+geopolitical risks—can widen this zone temporarily. Conversely, resolution of uncertainties can
+narrow it.
+This is the essence of the Bank’s risk-management approach to monetary policy. Interpreting,
+weighing  and  managing  those  risks  approaches  art,  but  the  art  is  built  on  the  science  of  our
+models.
+Allow  me  to  make  three  related  points.  First,  the  starting  point  matters  to  a  monetary  policy
+decision. If inflation is on target and is projected to be on target in two years, then various risks
+can be interpreted and managed in an even-handed manner. But our current situation serves as
+a counter example. While we project that inflation will be sustainably at target around the middle
+of next year, we are well aware that the lingering aftermath of the crisis has left the Canadian
+economy with persistent excess capacity, and inflation has been in the lower half of our target
+range for some time.
+Second,  the  uncertainty  in  economic  models  makes  it  ill-advised  to  reduce  the  conduct  of
+monetary  policy  to  a  simple  mechanical  rule.  The  fact  that  there  are  so  many  sources  of
+uncertainty, some of which cannot be quantified, makes the risk-management exercise highly
+judgmental. A  corollary  is  that  we  need  to  explain  our  underlying  reasoning  very  carefully  to
+ensure  that  it  is  well  understood.  To  this  end,  the  Bank  has  taken  a  number  of  measures  to
+increase its level of policy transparency in recent years.
+Third,  uncertainty  does  not  equal  indecision.  It  is  true  that  the  notion  of  a  zone  generated  by
+uncertainty can create a degree of tolerance for small shocks. At the same time, a large shock—
+or,  perhaps,  an  accumulation  of  smaller  shocks—can  tilt  the  balance  of  risks  to  projected
+inflation and prompt policy action.
+In early 2015, for example, ToTEM was showing how the oil price shock would play out and the
+downside risk to projected inflation became unacceptably large. The shock pushed us out of the
+zone  in  which  the  existing  interest  rate  setting  provided  reasonable  assurance  of  hitting  our
+inflation target within a reasonable time frame. Accordingly, we reduced interest rates to bring
+projected inflation back into line with our target.
+Conclusion
+It is time for me to conclude.
+The Bank has been pursuing inflation targets for 25 years, and the average rate of inflation has
+been extremely close to target over that period. This alone suggests that our models have done
+their job reasonably well.
+And while our current models continue to perform well, recent experience is pointing to some
+shortcomings  that  we  need  to  address.  Given  how  long  it  can  take  to  develop  a  new  model,
+investing in the next generation of models is one of the Bank’s top priorities, and I want it to be a
+top  priority  for  the  economics  profession  as  well.  Better  tools  will  mean  a  more  stable  and
+predictable rate of inflation, and an even better environment for economic decision making.
+It is an exciting time for economics and monetary policy. I can hardly wait to see what comes
+next. But economists have a tendency to get overly excited about their own issues, so let me
+leave you with an analogy to help you keep this in perspective.
+Today’s  macroeconomic  models  are  as  different  from  those  of  the  1970s  as  the  latest Star
+Wars film, Rogue One, is from the first of the original trilogy, A New Hope, released in 1977. No
+matter which film you prefer, it is clear that the tools and the technology available to the director
+have evolved dramatically. The state of the art today is light years ahead of what was state of the
+art 40 years ago. But ultimately, storytelling remains what is important. That has not changed.
+ 6 / 7
+BIS central bankers' speeches
+Our economic models will continue to evolve, becoming better and more sophisticated tools. But
+it will always be up to central bankers to use these tools, as well as their judgment, to conduct
+monetary  policy,  achieve  their  targets  and  offer  a  compelling  narrative  that  everyone  can
+understand.
+I would like to thank Rhys Mendes and Oleksiy Kryvtsov for their help in preparing this speech.
+ 7 / 7
+BIS central bankers' speeches

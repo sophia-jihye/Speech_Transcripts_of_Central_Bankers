@@ -1,0 +1,449 @@
+  Simon M Potter: Implementation of open market operations in a time of 
+transition 
+Remarks  by  Mr  Simon  M  Potter,  Executive  Vice  President  of  the  Markets  Group  of  the 
+Federal  Reserve  Bank  of  New  York,  before  the  Japan  Center  for  Economic  Research, 
+Tokyo, 25 September 2014. 
+ I would like to thank Deborah Leonard and Matthew Raskin for their excellent assistance in the preparation of 
+these  remarks  and  colleagues  in  the  Federal  Reserve  System  for  numerous  insightful  comments  and 
+suggestions. 
+Thank you, Takeuchi-san. It is a pleasure to reconnect with you here in Tokyo and an honor 
+to have the opportunity to speak before this distinguished audience. 
+Central banks responded aggressively to the financial crisis that began in 2007 and the slow 
+recovery that’s followed, and have taken unprecedented steps in providing monetary policy 
+accommodation in pursuit of their macroeconomic policy objectives. In doing so, many have 
+had to adapt in unconventional ways the frameworks and tools they use to implement their 
+policy decisions. My remarks today will focus on the role played by the Open Market Trading 
+Desk  (the  Desk)  at  the  Federal  Reserve  Bank  of  New  York  in  the  implementation  of 
+monetary policy in the U.S., and on the evolution of our operational tools in recent years. I 
+will then discuss the implications of these changes for the Federal Reserve’s balance sheet 
+and  for  the  eventual  “normalization”  of  monetary  policy  when  the  Federal  Open  Market 
+Committee (FOMC) believes it is appropriate to remove the extraordinary levels of monetary 
+policy accommodation that it has provided. Finally, I will discuss some of the considerations 
+that  must  be  taken  into  account  in  normalizing  monetary  policy.  As  always,  these  are  my 
+views  and  do  not  necessarily  reflect  those  of  the  New  York  Fed  or  the  Federal  Reserve 
+System.  
+The desk’s role in implementing monetary policy 
+The  Federal  Reserve  (the  Fed)  has  a  somewhat  more  complex  organizational  and 
+governance structure than most other central banks around the world, so before discussing 
+recent developments in the implementation of monetary policy, I’d like to take a moment to 
+describe roles and responsibilities within the Federal Reserve System and where the Desk 
+fits in. 
+The statutory basis for U.S. monetary policy is found in the Federal Reserve Act, which was 
+enacted just over 100 years ago. Modern language around monetary policy objectives was 
+added  in  1977,  when  the  Board  of  Governors  of  the  Federal  Reserve  System  and  the 
+Federal  Open  Market  Committee  were  charged  by  Congress  with  maintaining  “long  run 
+growth  of  the  monetary  and  credit  aggregates…so  as  to  promote  effectively  the  goals  of 
+maximum employment, stable prices, and moderate long-term interest rates.” The goals of 
+maximum  employment  and  price  stability  have  come  to  be  known  as  the  Fed’s  “dual 
+mandate.” 
+Formulating policy in pursuit of that dual mandate is the province of two separate-but-related 
+policymaking  entities  within  the  Federal  Reserve  System  (the  System)  –  the  Board  of 
+Governors of the Federal Reserve System (the Board of Governors) and the FOMC (which I 
+also refer to as “the Committee”) – each of which has responsibility for certain policy tools. 
+The  FOMC  is  the  principal  body  for  monetary  policymaking  and  consists  of  the  seven 
+members  of  the  Board  of  Governors  plus  the  presidents  of  the  twelve  Federal  Reserve 
+Banks (only five of whom are voting members in any given year). The FOMC is responsible 
+for the use of open market operations (OMOs), which are purchases and sales of securities 
+in  the  open  market  for  the  System  Open  Market  Account  (SOMA),  the  Fed’s  securities 
+BIS central bankers’ speeches 
+ 1 
+  portfolio.  OMOs  are  traditionally  the  primary  tool  through  which  monetary  policy  is 
+implemented. The Board of Governors is responsible for several complementary policy tools. 
+These tools pertain largely to depository institutions (DIs or “banks”) and include the discount 
+rate – that is, the rate at which banks borrow from the discount window, the Fed’s lending 
+facility  administered  through  the  twelve  regional  Federal  Reserve  Banks  –  and  policies 
+around reserves held by depository institutions at the Fed (including reserve requirements, 
+and  more  recently,  the  payment  of  interest  on  reserve  balances  and  term  deposits).1 
+However, it’s important to note that each of these tools is merely a means to an end, used to 
+influence financial conditions in order to achieve the Federal Reserve’s dual mandate. 
+Since  1936,  the  New  York  Fed  has  been  selected  each  year  by  the  FOMC  as  the  Bank 
+within  the  System  responsible  for  the  execution  of  OMOs.  Within  the  New  York  Fed,  the 
+Desk, under the guidance of a manager of the SOMA selected by the FOMC – currently me 
+– is responsible for conducting open market operations under the authorization and direction 
+of the FOMC.2 In practice, the FOMC’s operating objective for OMOs – for example, a target 
+rate  for  overnight  interest  rates  or  a  specified  amount  of  assets  to  purchase  –  is 
+communicated to the Desk through a policy “directive” that the Committee votes on at the 
+conclusion  of  each  meeting.  This  directive  specifically  instructs  the  Desk  to  conduct 
+transactions for the SOMA in furtherance of the desired operating objective. 
+The Fed’s changed operating framework 
+In  recent  years,  like  many  other  central  banks  around  the  world  in  the  face  of  the  Great 
+Recession  and  the  prolonged  economic  recovery  that  has  followed,  the  Fed  adopted 
+unconventional  measures  to  provide  monetary  policy  accommodation  in  pursuit  of  its 
+macroeconomic  policy  objectives.  This  is  reflected  in  changes  in  the  Fed’s  operating 
+framework and the FOMC’s operating objective for OMOs. 
+For many decades prior to the crisis, the operating objective for OMOs was expressed as a 
+target  for  the  federal  funds  rate  –  an  overnight,  unsecured  rate  in  the  market  for  reserve 
+balances.  The  target  rate  was  achieved  through  permanent  and  temporary  OMOs  that 
+sought to  adjust the  supply  of reserve  balances in  the  banking  system  to  a  level  that  was 
+expected to equal the estimated level of demand for reserve balances at the FOMC’s target 
+rate. The Desk’s permanent additions to the supply of reserve balances were designed to fall 
+somewhat  short  of  the  total  demand,  creating  a  “structural  deficiency”  in  the  supply  of 
+reserves. The Desk then conducted daily fine-tuning operations to temporarily add reserve 
+balances  to  get  to  the  desired  level.  These  daily  operations  represented  a  marginal 
+adjustment to the aggregate supply of reserves, largely in response to the exogenous impact 
+of transitory changes in other Fed liabilities such as currency in circulation and the level of 
+the U.S. Treasury’s account balance at the Fed. 
+Minor variations in the total level of reserves supplied could move equilibrium market rates 
+up or down as individual depository institutions with a deficiency of reserves had to find and 
+trade  with  depository  institutions  with  a  surplus of  reserves. This  system functioned  with  a 
+relatively low level of reserve balances.3 The Desk was able to reliably achieve the FOMC’s 
+                                                
+1  The  Board  of  Governors  is  also  responsible  for  the  supervision  and  regulation  of  banks  and  systemically 
+important  financial  institutions,  payments  systems  and  infrastructure,  and  overall  oversight  of  the  Federal 
+Reserve  System.  It  may  also  authorize  Federal  Reserve  Banks  to  extend  credit  to  other  entities  under 
+emergency lending authority. 
+2  The  FOMC’s  Authorization  for  Domestic  Open  Market  Operations  and  Authorization  for  Foreign  Currency 
+Operations outline the activities that the selected Bank is eligible to undertake. The domestic policy directive 
+and  foreign  currency  directive  specifically  instruct  the  Desk  to  execute  such  operations  in  furtherance  of  a 
+particular operating objective defined by the FOMC. 
+In the five years prior to the crisis, total reserve balances averaged $20 billion and excess reserves – balances 
+in excess of those required to satisfy reserve balance requirements – averaged about $1.5 billion. 
+3 
+2 
+ BIS central bankers’ speeches 
+  policy directive under this implementation framework. The effective federal funds rate – the 
+average  rate  prevailing  in  the  brokered  federal  funds  market  each  day  –  routinely  hit  the 
+FOMC’s target rate, generating a high degree of confidence among market participants in the 
+Desk’s ability to implement policy. 
+This operating framework changed as the financial crisis deepened. By December 2008, the 
+FOMC had lowered its target for the federal funds rate from a point target of 5¼ percent in 
+mid-2007 to a target range of zero to ¼ percent. With the federal funds rate and other short-
+term  interest  rates  effectively  at  the  zero  lower  bound, the  FOMC’s  operating  objective for 
+OMOs  was  expanded  to  include  adjustments  in  the  size  and  composition  of  the  Federal 
+Reserve’s securities portfolio. In particular, the FOMC initiated large-scale asset purchases 
+(LSAPs)  of  agency  mortgage-backed  securities  (MBS),  agency  debt,  and  later  longer-term 
+Treasury securities, in order to put downward pressure on longer-term interest rates, support 
+mortgage  markets,  and  help  make  broader  financial  conditions  more  accommodative.  The 
+expansion of the domestic securities portfolio that resulted from LSAPs vastly increased the 
+supply of reserve balances in the system (Figure 1).4  
+Importantly,  in  October  2008,  the  Fed  was  granted  authority  to  pay  interest  on  depository 
+institutions’ reserve balances.5 In an environment of elevated reserve balances that resulted 
+from  the  Fed’s  asset  purchases,  the  payment  of  interest  on  excess  reserves  (IOER)  – 
+currently at a rate of ¼ percent – has kept the overnight federal funds rate within its target 
+range (Figure 2).6 Although the FOMC continues to direct the Desk to undertake OMOs as 
+necessary to maintain conditions in reserve markets consistent with federal funds trading in a 
+range from zero to ¼ percent, the Desk has not needed to conduct OMOs to manage the 
+supply of reserves since December 2008. 
+Instead, OMOs have focused on directives to adjust the size and composition of the SOMA 
+portfolio.  Since  late  2008,  the  FOMC  has  directed  the  Desk  to  carry  out  three  large-scale 
+asset purchase programs and several other portfolio-oriented initiatives, such as the maturity 
+extension program (MEP) and changes in reinvestment policies (Figure 3). Under the MEP, 
+commonly referred to by market participants as “Operation Twist,” the FOMC lengthened the 
+maturity  profile  of  the  SOMA’s  portfolio  of  Treasury  securities  by  offsetting  purchases  of 
+longer-term  Treasury  securities  with  sales  of  equal  par  amounts  of  shorter-term  securities 
+and redemptions of maturing ones.7 Additionally, since mid-2010, the FOMC has directed the 
+Desk to reinvest or roll over payments of principal on the securities holdings in the SOMA, 
+                                                
+4  These asset purchases followed various programs the Fed initiated during the crisis to support the liquidity of 
+financial institutions and foster improved conditions in financial markets. Credit extension through these crisis-
+related  programs  was  temporary  in  nature,  so  the  impact  of  these  programs  on  reserve  balances  was 
+unwound  as  the  loans  were  repaid.  In  contrast,  reserve  expansion  associated  with  LSAPs  has  a  more 
+enduring  effect  as  long  as  the  assets  remain  in  the  SOMA  portfolio,  subject  to  offsetting  influences  on 
+reserves from changes in other balance sheet items. 
+5  The authority for the Federal Reserve to pay interest on reserve balances held by depository institutions was 
+granted by Congress prior to the crisis, in the Financial Services Regulatory Relief Act of 2006, with a planned 
+effective  date  of  October  2011.  However,  implementation  was  accelerated  as  part  of  the  response  to  the 
+financial  crisis.  The  statute  authorizes  Federal  Reserve  Banks  to  pay  interest  on  balances  maintained  to 
+satisfy reserve balance requirements (required reserves) and on excess balances (excess reserves). 
+6  As  noted  earlier,  the  Board  of  Governors  is  responsible  for  setting  the  rate  of  interest  on  reserves.  Since 
+December 16, 2008, the interest rates on required reserve balances and excess reserve balances have both 
+been ¼ percent, but the rates need not be the same. Although the interest rate on reserves represents an 
+overnight rate, it is calculated and paid out on a lagged basis according to two-week reserves management 
+maintenance periods. The payment is based on daily account balances and a weighted average of applicable 
+overnight rates over the maintenance period. More information can be found in Regulation D. 
+7  The  MEP  provided  additional  monetary  policy  accommodation  by  increasing  the  duration  of  the  SOMA 
+portfolio, but unlike LSAP programs, on net it had a neutral effect on the level of reserves. 
+BIS central bankers’ speeches 
+ 3 
+  which maintains the size of the portfolio and adjusts the asset type and maturity composition 
+of its holdings.8  
+Large-scale asset purchases as a policy tool and their execution 
+Of course, as this audience knows well, the Federal Reserve was not the first major central 
+bank  to  use  alternative  tools  for  monetary  policy  implementation  at  the  zero  lower  bound. 
+The  quantitative  easing  policy  (QEP)  that  the  Bank  of  Japan  (BoJ)  initiated  to  combat 
+deflation in 2001, after operating for some time under a policy of zero interest rates, provided 
+a  valuable  precedent  when  central  bankers  elsewhere  faced  similar  challenges  later  that 
+decade. However, the balance sheet expansion under the BoJ’s original quantitative easing 
+differed  significantly from  the  asset  purchase  programs  undertaken  by  advanced  economy 
+central  banks  over  recent  years,  including  the  BoJ’s  current  quantitative  and  qualitative 
+monetary  easing  (QQE).  The  earlier  QEP  was  a  liability-driven  program  in  which  the  BoJ 
+changed its operating objective from an overnight interest rate to quantitative targets for the 
+level of current account balances outstanding at the BoJ (the counterpart to reserve balances 
+held by depository institutions at the Fed). To achieve its new target, the BoJ provided ample 
+liquidity through a range of operations. Although the BoJ increased its outright purchases of 
+long-term  government  bonds  as  part  of  this  initiative,  a  large  share  of  the  easing  was 
+accomplished  through  temporary  open  market  operations  or  purchases  of  short-term 
+securities. In contrast, the FOMC’s portfolio-oriented programs have been driven by a desire 
+to expand and lengthen the maturity structure of the asset side of the Fed’s balance sheet in 
+order to put downward pressure on longer-term interest rates. The accompanying growth of 
+reserve  balances  has  been  a  byproduct  of  those  purchases,  not  a  specified  objective. 
+Former Fed Chairman Bernanke referred to this approach as “credit easing,” in contrast to 
+the BoJ’s “quantitative easing.”9  
+The FOMC’s different objective for OMOs reflects the primary transmission channel through 
+which  LSAPs  are  understood  to  affect  financial  and  economic  conditions.  Central  bank 
+purchases of longer-term bonds reduce the stock of such securities held by private investors. 
+Accordingly,  the  purchases  remove  duration  risk  –  and  in  the  case  of  agency  MBS, 
+prepayment  risk  –  from  the  private  sector,  which  drives  term  and  other  risk  premiums  on 
+those  assets  lower  than  they  would  otherwise  be.10  This  re-pricing  of  risk  ultimately  puts 
+downward  pressure  on  long-term  interest  rates,  an  effect  that  spreads  to  other  assets  as 
+some investors rebalance their portfolios. The term premium effect of the Fed’s purchases 
+should continue to influence financial conditions as long as the assets remain in the SOMA 
+portfolio, although the size of the effect will diminish over time as the risk associated with the 
+portfolio diminishes. Some standard portfolio risk measures illustrate the degree to which the 
+Federal  Reserve  has  absorbed  extra  duration  risk  onto  its  balance  sheet.  The  SOMA 
+Treasury portfolio currently has an average duration of about 7.5 years, compared with a pre-
+crisis level of about 2.6 years. Meanwhile, the duration risk of the entire domestic securities 
+portfolio, including agency MBS and agency debt as well as Treasury securities, is equivalent 
+to  about  $2.9  trillion  in  10-year  Treasury  securities  (Figure  4).  Purchases  likely  also  work 
+                                                
+8  From  mid-August  2010  through  September  2011,  principal  payments  from  holdings  of  agency  debt  and 
+agency  MBS  were  reinvested  in  longer-term  Treasury  securities.  Since  October  2011,  they  have  been 
+reinvested in agency MBS. 
+9  Ben  S.  Bernanke,  “The  Crisis  and  the  Policy  Response,”  Stamp  Lecture,  London  School  of  Economics, 
+London, England, January 13, 2009. 
+10  A security’s duration captures the weighted average term to maturity of the security’s cash flows and provides 
+a measure of the sensitivity of the security’s price to changes in interest rates. Duration (and therefore price 
+risk)  is  generally  greater  for  longer-maturity  and  lower-coupon  securities.  Agency  MBS  prices  additionally 
+carry prepayment risk, the risk associated with the uncertainty around the timing of principal cash flows owing 
+to the fact that homeowners have the option to prepay their mortgages at any time. Because of this embedded 
+option, agency MBS cash flows vary as interest rates change. 
+4 
+ BIS central bankers’ speeches 
+  through a signaling effect, to the extent that they are perceived as a credible signal of the 
+central  bank’s  intentions  regarding  the  future  level  of  short-term  interest  rates.  And  in 
+circumstances when market functioning is unusually strained, as was the case prior to the 
+Fed’s first LSAP program, asset purchases may enhance liquidity through the central bank’s 
+consistent and significant presence in the market. 
+Over  the  past  six  years,  the  FOMC  has  been  flexible  in  using  these  tools,  adapting  as  it 
+learned and as individual circumstances changed. In the first two LSAP programs and MEP, 
+for example, the FOMC communicated an expected total size and completion date for each 
+program. However, the third (and current) LSAP program has been outcome-based, with the 
+FOMC announcing only a monthly pace and composition for its purchases and noting that 
+purchases would continue until there is a substantial improvement in the outlook for the labor 
+market in a context of price stability. Other central banks have also used conditional asset 
+purchases  effectively.  Perhaps  the  best  example  is  the  Outright  Monetary  Transactions 
+program announced by the European Central Bank (ECB) in September 2012. This program 
+is credited with helping to stabilize euro-area fixed income markets by ruling out certain bad 
+equilibria.  This  success  was  achieved  without  the  purchase  of  a  single  asset.  Another 
+example of conditional asset purchases is the BoJ’s statement of a commitment to continue 
+QEP until inflation registered stably at or above zero. 
+if 
+incoming 
+information  broadly  supports 
+Changes in the Fed’s balance sheet and implications for normalization 
+So where are we now? The current purchase program appears to be nearing its completion. 
+Last  week,  the  FOMC  directed  the  Desk  to  reduce  purchases  of  Treasury  securities  to 
+$10 billion  per  month  and  purchases  of  agency  MBS  to  $5  billion  per  month  starting  in 
+October. The Committee also indicated that it will end the current purchase program at its 
+next  meeting 
+its  expectation  of  ongoing 
+improvement  in  labor  market  conditions  and  inflation  moving  back  toward  its  longer-run 
+objective.  It  also  directed  the  Desk  to  maintain  its  agency  MBS  and  Treasury  security 
+reinvestment policies – activities it separately announced it expects to continue after it begins 
+to increase its target range for the federal funds rate. 
+Should this course come to pass, the domestic securities portfolio will peak at a par value of 
+about  $4.2  trillion  –  more  than  a  five-fold  increase  since  the  start  of  the  financial  crisis  in 
+August  2007.  The  composition  of  the  portfolio  will  also  remain  more  complex.  Formerly 
+composed  entirely  of  Treasury  securities,  the  domestic  portfolio  is  now  only  60  percent 
+Treasury securities, with the remainder held in agency MBS (and a small amount of agency 
+debt securities). As I noted earlier, the weighted average maturity of the Treasury portfolio 
+has lengthened substantially, while the MEP essentially eliminated the portfolio’s holdings of 
+any Treasury securities maturing prior to February 2016. Meanwhile, it’s hard to predict the 
+exact  pace  at  which  the  SOMA  portfolio’s  agency  MBS  holdings  will  pay  down  over  time 
+given the prepayment uncertainty associated with those securities. 
+At last week’s meeting, the FOMC also reaffirmed its view that it likely will be appropriate to 
+maintain  the  current  zero  to  ¼  percent  target  range  for  the  federal  funds  rate  for  a 
+considerable  time  after  the  asset  purchase  program  ends,  especially  if  projected  inflation 
+continues to run below the Committee’s 2 percent longer-run goal, and provided that longer-
+term  inflation  expectations  remain  well  anchored.  Meanwhile,  as  a  matter  of  prudent 
+planning,  the  Committee  has  been  deliberating  how  it  should  proceed  to  remove  policy 
+accommodation (often called “normalization”), when it believes the appropriate time to do so 
+comes.  Although  the  specific  timing  of  this  is  not  yet  known,  it’s  certain  that  the  level  of 
+reserve balances in the banking system will be very high. Assuming no other liabilities are 
+issued,  there  would  be  about  $2.9  trillion  in  reserves  –  mostly  in  excess  reserves  –  if  the 
+Committee  ends  asset  purchases  next  month  and  continues  reinvestments.  In  itself,  an 
+elevated level of reserve balances need not impede the FOMC’s ability to effectively raise 
+the level of short-term interest rates because of the ability to pay interest on excess reserves. 
+BIS central bankers’ speeches 
+ 5 
+  Following last week’s FOMC meeting, the Committee released a revised set of normalization 
+principles and plans (taking into account changes in the SOMA portfolio and enhancements 
+in  available  tools  since  it  originally  issued  such  principles  in  June  2011)  that  it  intends  to 
+implement when it becomes appropriate to begin normalizing the stance of monetary policy. 
+Importantly, as the Chair noted during her post-meeting press conference, this statement is 
+intended  to  provide  information  to  the  public  about  the  eventual  normalization  process;  it 
+does not signal a change in the current or future stance of monetary policy. 
+According to the principles, the Committee will adjust the level of monetary accommodation 
+primarily by utilizing policy tools to influence the level of short-term interest rates – in the first 
+instance, using tools with rates directly administered by the Fed. Tools that can immobilize or 
+drain  large  levels  of  reserves  to  tighten  control  over  the  federal  funds  rate  also  remain 
+available.  However,  the  principles  do  not  envision  that  active  adjustments  to  the  SOMA 
+portfolio will play a featured role. 
+Specifically, the FOMC indicated that the federal funds rate will continue to play a central role 
+in the Fed’s operating framework and communications during normalization, and that it will 
+raise  the  target  range  for  the  federal  funds  rate  when  economic  conditions  warrant  a  less 
+accommodative monetary policy stance. Adjustments in the interest rate that the Fed pays to 
+depository  institutions  on  excess  reserve  balances  –  that  is,  the  IOER  rate  –  will  be  the 
+primary  tool  to  move  the  federal  funds  rate  into  the  target  range.  Raising  the  IOER  rate 
+should  put  upward  pressure  on  a  range  of  market  interest  rates  and  influence  overall 
+financial conditions in a way that fosters the Federal Reserve’s macroeconomic objectives. 
+The  Committee  also  indicated  that  an  overnight  reverse  repurchase  agreement (ON  RRP) 
+facility and other supplementary tools will be used, as needed, to help control the level of the 
+federal funds rate. An ON RRP facility will supplement the primary role of IOER in controlling 
+the  federal  funds  rate  by  providing  an  alternative  safe,  overnight  asset  for  money  market 
+investors. I will describe the role of the ON RRP facility in more detail in a moment.11  
+The  Committee  expects  to  gradually  return  the  balance  sheet  to  a  more  normal  size  and 
+composition, primarily by ceasing to reinvest repayments of principal. A halt or reduction in 
+reinvestments is expected to occur after the FOMC begins increasing the target range for the 
+federal funds rate. The FOMC does not plan to use asset sales as part of the normalization 
+process, but suggests that limited sales might be warranted in the longer run to reduce or 
+eliminate residual agency MBS holdings. 
+The Federal Reserve will continue to test some of these tools to gather additional information 
+about  their  efficacy  and  to  enhance  their  operational  readiness  prior  to  liftoff.  For the  past 
+year,  the  Desk  has  been  conducting  an  exercise  of  ON  RRP  operations.  Conducting  ON 
+RRPs  for  same-day  settlement  with  a  broad  range  of  counterparties  –  including  primary 
+dealers, money funds, government-sponsored enterprises, and banks – allows the Federal 
+Reserve to provide a safe, liquid investment to a wider range of money market participants 
+than those able to earn IOER, and thus expands the universe of counterparties that should 
+generally be unwilling to lend at rates below those available through the Federal Reserve. 
+The increased competition that the availability of this instrument provides should help to firm 
+the  floor  on  the  level  of  short-term  interest  rates  –  that  is,  the  rate  beneath  which  market 
+participants should theoretically be unwilling to lend funds. Indeed, ON RRP exercise results 
+over the first year suggest that the operations have been successful working with IOER in 
+establishing a floor on the level of key money market rates (Figure 5). 
+                                                
+11  A reverse repurchase agreement (reverse repo, or RRP) is a type of temporary OMO in which the Desk sells a 
+security from the SOMA portfolio to an eligible counterparty with an agreement to repurchase that security at a 
+specified price at a specific time in the future. It is economically equivalent to a collateralized investment with 
+the  Fed  in  which  the  difference  between  the  sale  price  and  the  repurchase  price,  adjusted  for  the  time 
+between transaction legs, implies a rate of interest paid by the Fed on the cash invested by the counterparty. 
+6 
+ BIS central bankers’ speeches 
+  All of the Desk’s eligible counterparty types participate in the ON RRPs, with money funds 
+accounting for the largest share of take-up (Figure 6). Take-up at the operations generally 
+increases  when  the  spread  between  market  rates  and  the  ON  RRP  offered  rate  narrows. 
+Take-up also rises substantially around quarter- and year-end financial reporting dates, when 
+some  money  market  participants’  access  to  other  overnight  secured  investments  is  more 
+limited. The increase in take-up on these dates is especially large for prime money market 
+funds  (Figure  7).  In  addition  to  patterns  of  usage  of  the  ON  RRPs  themselves,  we  also 
+analyze  trading  patterns  and  interest  rate  dynamics  in  secured  and  unsecured  funding 
+markets. In doing so, we use a wide range of data, including transactions data for unsecured 
+funding markets obtained through a new Federal Reserve collection effort (FR 2420). 
+While ON RRPs are a powerful tool for policy implementation, FOMC and market participants 
+have  noted  the  potential  for  very  large  regular  usage  to  alter  patterns  of  financial 
+intermediation  or,  in  a  fixed-rate  structure  with  no  take-up  limits,  to  exacerbate  liquidity 
+pressures during times of stress. To further examine how ON RRPs might best be structured 
+to  supplement  IOER  in  the  control  of  the  federal  funds  rate  while  limiting  the  potential  for 
+unintended  effects  in  financial  markets,  the  FOMC  has  directed  the  Desk  to  test  several 
+changes  to  the  design  of  its  ON  RRP  operations.  As  of  Monday,  the  per-counterparty 
+maximum  bid  limit  was  raised  from  $10  billion  to  $30  billion,  and  an  overall  size  limit  of 
+$300 billion  was  imposed  for  each  operation.  If  the  total  amount  of  bids  received  in  an 
+operation is less than or equal to the $300 billion size limit, awards will be made at a fixed 
+offering rate. However, if the total amount of bids received exceeds the overall operation size 
+limit,  the  $300  billion  in  ON  RRPs  will  be  allocated  through  a  single-price  auction  using 
+interest rates that counterparties now include with their bids. Awards are made at a “stopout 
+rate”  –  the  rate  at  which  the  overall  size  limit  is  achieved  –  with  all  bids  below  this  rate 
+awarded  in  full  and  all  bids  at  this  rate  awarded  on  a  pro  rata  basis.  The  stopout  rate  is 
+determined  by  evaluating  all  bids  in  ascending  order  by  submitted  rate  up  to  the  point  at 
+which the total quantity of offers equals the overall size limit.12 The Federal Reserve will be 
+closely  analyzing  the  results  of  the  ON  RRP  exercise  conducted  under  these  new  testing 
+parameters  in  order  to  further  its  understanding  of  how  an  ON  RRP  facility  might  best  be 
+structured during the initial stages of the normalization process. 
+In addition, the Federal Reserve Board has been testing a facility through which it offers term 
+deposits  to  credentialed  depository  institutions.  Term  Deposit  Facility  (TDF)  transactions 
+could be used to temporarily reduce the quantity of reserve balances. An eight-week series 
+of tests this summer explored how demand for term deposits responds to variations in the 
+maximum award limits and rates. Higher offered rates attracted greater use, both in terms of 
+the number of participants and the total dollar volume demanded. Demand for the TDF may 
+have been tempered somewhat by the instruments’ lack of an early-withdrawal feature, and 
+thus the inability to consider them as high-quality liquid assets for regulatory purposes. The 
+next  round  of  TDF  testing,  which  will  commence  in  October,  will  incorporate  an  early 
+withdrawal feature, as well as gradually increase the maximum award amount and rate. 
+the  FOMC’s  eventual  approach 
+A broader perspective on normalization 
+I’ve  discussed  how 
+to  removing  monetary  policy 
+accommodation  reflects  developments  in  the  Federal  Reserve’s  balance  sheet  since  the 
+onset  of  the  financial  crisis.  As  noted  earlier,  the  relatively  long  maturity  structure  of  the 
+SOMA  portfolio  means  that  the  level  of  reserve  balances  in  the  U.S.  banking  system  will 
+decline only slowly through passive means, absent any asset sales. Other central banks that 
+have  undertaken  unconventional  measures  also  face  (or  will  eventually  face)  similar 
+challenges when they deem it appropriate to begin their own policy normalizations. 
+                                                
+12  For more details about ON RRP operations, please see FAQs on the New York Fed’s website. 
+BIS central bankers’ speeches 
+ 7 
+  The  Bank  of  England  (BoE)  and  the  Bank  of  Japan  are  two  relevant  examples  that  come 
+immediately to mind. The BoE’s Asset Purchase Facility, through which its Monetary Policy 
+Committee  (MPC)  purchased  £375  billion  of  longer-term  assets  between  2009  and  2012, 
+was quite comparable in purpose and design to the Fed’s LSAP programs. Moreover, since 
+March  2013,  the  BoE  has  reinvested  the  cash  flows  associated  with  maturing  gilts  in  the 
+facility  in  order  to  maintain  the  stock  of  securities  at  a  steady  level.  In  its  February  2014 
+Inflation Report, the MPC provided guidance on its expected normalization framework, laying 
+out an approach in which its Bank Rate – the deposit rate for central bank reserves in the 
+U.K.  –  is  the  active  marginal  instrument  for  monetary  policy  while  portfolio-related  tools, 
+including  reinvestments  and  asset  sales,  receive  less  emphasis.  Specifically,  the  MPC 
+suggested that it intends to maintain its stock of purchased assets, including reinvesting the 
+cash  flows  associated  with  maturing  securities,  at  least  until  it  raises  its  target  short-term 
+interest rate from its current level. Meanwhile, the BoJ is still purchasing assets under QQE, 
+which  it  launched  in  April  2013.  With  a  goal  of  increasing  its  Japanese  government  bond 
+(JGB)  holdings  by  ¥50  trillion  per  year,  it  has  not  yet  initiated  a  discussion  of  eventual 
+normalization. When that time comes, however, the BoJ will be holding a large portfolio of 
+longer-term JGBs. The BoJ’s balance sheet will therefore look markedly different than it did 
+when the QEP ended in 2006, at which time the BoJ just allowed short-term funds-supplying 
+operations  to  roll  off.  The  portfolio  size  and  composition  to  which  each  central  bank 
+eventually normalizes will, of course, depend on what it eventually determines is appropriate 
+to  support  implementation  of  monetary  policy  in  the  longer  run.  Indeed,  the  FOMC  has 
+indicated that in the longer run, it will hold no more securities than necessary to implement 
+monetary policy efficiently and effectively, and that it will hold primarily Treasury securities. 
+The ECB has also used unconventional measures to provide accommodation, but unlike the 
+Federal Reserve, BoJ, and BoE, this has primarily been through liquidity provided directly to 
+the  banking  system  via  longer-term  refinancing  operations,  rather  than  through  asset 
+purchases. This liquidity was provided at fixed terms of up to three years, thus allowing the 
+size  of  the  ECB’s  balance  sheet  to  normalize  automatically  as  refinancing  agreements 
+mature. By contrast, the ECB’s upcoming purchases of asset-backed securities and covered 
+bonds will present it with longer-term portfolio considerations. 
+Finally, I should note that central banks – like other financial market participants – need to 
+remain  aware  of  changes  in  the  financial  market  landscapes  in  which  they  operate.  They 
+may  need  to  adapt their  operations  accordingly  as  they  move  away  from  asset  purchases 
+and  back  to  money  market  instruments  to  implement  monetary  policy.  For  example,  in 
+addition to reflecting developments in its balance sheet since the financial crisis, the FOMC’s 
+approach  to  normalizing  policy  also  reflects  changes  in  U.S.  money  market  dynamics  that 
+have  been  influenced  by  various  factors.  These  factors  include  the  extraordinary  level  of 
+liquidity that’s been provided, access to IOER that is limited to depository institutions, and a 
+number  of  international  and  domestic  regulatory  reforms.  International  regulatory  reforms 
+include the liquidity coverage ratio, leverage ratio, and net stable funding ratio. In the U.S., 
+changes  in  deposit  insurance  premium  calculations, rules governing money  market  mutual 
+funds, and the potential for a capital surcharge based in part on short-term wholesale funding 
+may also affect certain market participants. Many of the changes in regulation – along with 
+changes in market structure, technology, and other factors – may affect market participants’ 
+activity and relationships in money markets. On net, their balance sheet costs may be higher, 
+which  may  prompt  money  market  participants  to  require  higher  returns  to  engage  in 
+competition  to  arbitrage  wedges  in  money  market  rates  and  to  alter  their  participation  in 
+central bank operations and facilities. This outcome may affect the transmission of monetary 
+policy or require central banks to adapt their operations to accommodate these realities. 
+Conclusion 
+In conclusion, I’d like to note that the framework for implementing monetary policy and the 
+landscape in which we operate have seen important changes in the years since the crisis, 
+8 
+ BIS central bankers’ speeches 
+  and they continue to evolve. The Desk plays an important role in this process, carrying out 
+open market operations at the direction of the FOMC, in pursuit of the operating objectives 
+the  FOMC  deems  appropriate  to  achieve  its  dual  mandate  of  maximum  employment  and 
+price stability. The operating tools that the Federal Reserve has developed will allow us to 
+tighten monetary policy when the FOMC determines it is appropriate to do so, but I have no 
+doubt  that  we  will  continue  to  learn  more  about  how  these  tools  interact  as  we  normalize 
+policy and make adjustments over time, just as we have done in the past. We will also learn 
+from  and  share  our  experiences  with  other  central  banks  that  are  undergoing  similar 
+transitions. 
+Thank you. 
+ 
+ 
+  BIS central bankers’ speeches 
+ 9 
+   10 
+    BIS central bankers’ speeches 
+      BIS central bankers’ speeches 
+ 11 
+   12 
+    BIS central bankers’ speeches 

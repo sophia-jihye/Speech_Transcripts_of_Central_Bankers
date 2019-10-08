@@ -1,0 +1,378 @@
+Benoît Cœuré: Outright Monetary Transactions, one year on 
+Speech by Mr Benoît Cœuré, Member of the Executive Board of the European Central Bank, 
+at the conference “The ECB and its OMT programme”, organised by the Centre for Economic 
+Policy Research, the German Institute for Economic Research and the KfW Bankengruppe, 
+Berlin, 2 September 2013. 
+ I am grateful to F. Holm-Hadulla and A. Saint-Guilhem for their contribution to this speech; all views expressed 
+remain mine. 
+Introduction 
+Ladies and Gentlemen, 
+One year after the inception of the ECB’s Outright Monetary Transactions (OMTs), financial 
+markets in the euro area are in much calmer conditions and fragmentation is receding. Yet, 
+OMTs  have  created  turmoil  elsewhere:  in  the  hallways  of  economics  faculties,  newspaper 
+commentaries  and,  maybe,  dinner  tables  across  Europe;  today,  it  is  not  government  bond 
+spreads but emotions that are running high. 
+I very much welcome this debate. It is important for citizens to inform their view on monetary 
+policy  decisions,  and  public  debate  among  experts  can  help  them  arrive  at  a  balanced 
+assessment. The euro being shared by 330 million Europeans, it is crucial that such debate 
+brings  together  different  European  perspectives.  It  cannot  serve  the  euro  well  to  take  a 
+parochial view to its future. 
+I  am  therefore  grateful  to  the  organisers  for  setting  up  this  conference  and  inviting  me  to 
+explain the rationale and key design features of OMTs. 
+Let me address three issues – and come back to them in turn: 
+• 
+First, the necessity of OMTs. Here, I will recall the circumstances that made OMT 
+necessary. 
+Second, the effectiveness of OMTs. I will explain why OMTs were effective from a 
+monetary policy perspective. 
+Finally, the robustness of OMTs. I will show that the design of OMTs is robust to the 
+criticisms that have been raised in the public debate. 
+  Why OMTs are necessary 
+So  let  me  start  by  addressing  why  OMTs  are  necessary.  Here,  two  things  have  to  be 
+appreciated: first, all ECB’s policy actions and instruments fully serve our objective of price 
+stability  in  the  euro  area  as  a  whole  and,  second,  one  year  ago,  we  were  facing  serious 
+challenges in achieving precisely this objective. So, let me elaborate. 
+At  the  time  when  OMTs  were  announced  in  August  2012,  financial  fragmentation  had 
+created  widely  divergent  borrowing  costs  for  firms  and  households  across  euro  area 
+countries. As a result, the transmission of monetary policy was severely impaired. 
+First, we saw impairments to the traditional inter-temporal arbitrage mechanism, which has 
+curtailed the effectiveness of our standard monetary policy. 
+Second, horizontal and spatial fragmentation – that is, impairments across banks, markets 
+and  countries  resulting  from  structural  impairments  have  challenged  monetary  policy 
+operating  with  a  single  instrument.  These  dynamics  were  exacerbated  by  an  adverse 
+feedback due to the close association of banks and their sovereigns. 
+BIS central bankers’ speeches 
+ 1 
+These  two  dimensions  of  fragmentation  have  been  mutually  reinforcing.  For  example,  the 
+lack  of  cross-border  liquidity  in  the  interbank market  impaired  the  price-finding  mechanism 
+along the yield curve. As a result, our monetary policy impulses were not evenly transmitted 
+across countries or adequately along the yield curve. 
+Furthermore,  we  saw  the  emergence  of  a  tail-risk  in  the  euro  area,  which  triggered  self-
+perpetuating  dynamics  in  the  economy.1  A  “bad  equilibrium”  of  an  adverse  scenario  was 
+possible, triggered by self-fulfilling and reinforcing expectations.2 In this adverse scenario, the 
+expectation of one or several countries exiting the euro would have driven public and private 
+financing  costs  in  these  countries  at  such  a  high  level  that  they  would  have  had  no  other 
+option than to actually exit. 
+It  is  clear  that  the  root  causes  of  the  adverse  scenario  were  associated  with  substantial 
+losses in competitiveness, lack of fiscal sustainability and financial risks in national banking 
+sectors. But an additional factor became prominent: redenomination risk, reflecting fears of a 
+possible imminent euro area break-up. 
+While exchange rate risk across euro area countries should have disappeared permanently 
+with  the  creation  of  the  single  currency,  there  were  signs,  since  the  start  of  the  year  and 
+increasingly so during the summer 2012, that investors had started pricing in redenomination 
+risk. In investors’ perception, the monetary union had turned from a single currency area into 
+a  fixed  nominal  exchange  rate  system  cursed  with  the  classical  “peso  problem”.  Investors 
+required  an  interest  rate  premium  as  a  compensation  for  the  risk  that  the  euro  might  not 
+remain the irreversible currency of the euro area – at least in its current composition. 
+Indeed,  redenomination  risk  was  apparent  in  the  market  for  government  bonds.  The 
+inversion  of  the  slope  of  the  term  structure  of  sovereign  bond  spreads  observed  in  early 
+summer 2012, for instance, for Spain and Italy was consistent with expectations of imminent 
+break-up risks. Markets perceived a high probability that obligations may not be repaid in full, 
+or  equivalently  be  repaid  in  a  different,  lower-valued  currency,  which  translated  into 
+commands  of  higher  spreads.  If  the  probability  of  this  event  concentrates  over  the  short 
+horizon, then the cumulative default probability for longer horizons cannot rise much further, 
+and inversion of the spread curve necessarily follows. 
+Overall,  in  the first  half of  2012, the  pricing  of  redenomination  risk  led to  a  significant  and 
+rapid increase in spreads between government bonds in euro area countries. 
+These  divergences  could  not  be  explained  by  changes  in  fiscal  or  macroeconomic 
+fundamentals. 
+For  example,  the  spreads  of  Spanish  and  Italian  ten-year  government  bonds  relative  to 
+Germany had increased by 250 basis points and 200 basis points respectively in July 2012 
+compared to one year before. 
+In  neither  one  of  the  two  countries,  fundamentals  had  changed  so  spectacularly  to  justify 
+such drastic re-pricing of sovereign risk. The Italian government had taken measures which 
+would  lead  to  a  reduction  in  the  deficit  below  the  reference  value  of  3%.  The  Spanish 
+government had just embarked on a series of reforms re-dressing long-standing problems in 
+the labour market and in the banking sector. 
+Despite  this,  the  compensation  that  investors  were  asking  for  the  risk  to  hold  Spanish  or 
+Italian bonds was almost twice as large as one year before. 
+                                                
+1   This resembled the environment described in the academic literature on second generation currency crises, 
+see  M.  Obstfeld  (1986),  “Rational  and  self-fulfilling  balance-of-payments  crises“.  American  Economic 
+Review 76 (1), pp. 72–81. 
+2   See  G.  Corsetti  and  L.  Dedola,  2013,  “The  Mystery  of  the  Printing  Press:  Self-fullfilling  Debt  Crises  and 
+Monetary Sovereignty”, CEPR Discussion Paper No. DP9358. 
+2 
+ BIS central bankers’ speeches 
+The distortions were not limited to long maturities but observed in all segments of the yield 
+curve.  For  example,  as  of  July  2012,  the  spreads  on  Spanish  and  Italian  two-year 
+government  bonds  relative  to  Germany  were  averaging  around  500  basis  points  and 
+400 basis points respectively. 
+Why were these sovereign bond market developments relevant from an ECB perspective? 
+In any economy, the government bond market plays a prominent role in the transmission of 
+monetary  policy  and  ultimately  matters  for  the  effective  achievement  of  the  central  bank’s 
+objective – in our case, price stability. 
+Changes  in  long-term  government  bond  yields  are  an  important  driver  of  corporate  bond 
+yields and bank lending rates – either through arbitrage relations or through sovereign bonds 
+directly serving as a benchmark for the pricing of loans and other assets. 
+Through this and other channels, the sovereign bond market turmoil rapidly spilled-over to 
+banks,  and  ultimately  it  reached  households  and  firms.  As  a  consequence,  the  entire 
+economy’s lending conditions deteriorated significantly in the countries under stress. 
+The implications of the crisis were not confined to countries under stress but also visible in 
+core  euro  area  countries.  With  fears  of  a  euro  area  break  up  growing,  core  euro  area 
+economies became the destination of safe haven flows. 
+Liquidity was suddenly drying up in stressed countries, threatening to lead to a destructive 
+downward spiral of abrupt deleveraging, fire sales and ultimately deflation. By contrast, there 
+was  a  risk  that  abundant  liquidity  in  core  countries  would  unduly  drive  down  financing 
+conditions  and  fuel  asset  price  bubbles.  In  fact,  as  market  interest  rates  were  surging  in 
+countries under stress, they declined in core countries. German two-year government bond 
+yields turned negative in early July 2012. 
+Deposit outflows and augmented recourse to central bank borrowing as a substitute for the 
+lack  of  alternative  funding  were  reflected  in  intra-euro  area  payment  imbalances.  Target 
+balances, an indicator of euro area fragmentation and capital market malfunction, reached an 
+all-time high at levels above 1,000 billion euro in the summer of 2012, even though current 
+account imbalances were already being reduced. 
+In this challenging environment, we were losing the steering ability of our monetary policy. 
+The single monetary policy had shifted from “one size fits all” to “one size fits none”. 
+Let  me  make  a  general  remark  at  this  stage.  How  should  central  bankers  act  in  such  an 
+environment? Policy makers have always the option of doing nothing. Within their mandate, 
+they  can  choose  responding  actively  to  the  crisis  by  rethinking  and  potentially  revising  the 
+appropriate set of policy instruments, or, alternatively, they can be passive. Being passive is, 
+however,  not  an  innocent  policy  stance,  but  a  policy  choice  itself  with  potentially  harmful 
+implications  for  price  stability.  As  John  F.  Kennedy  once  observed,  “There  are  risks  and 
+costs to action. But they are far less than the long range risks of comfortable inaction.” And in 
+the  ECB  case,  passivity  is  not  an  option  if  it  means  failing  to  reach  our  objective  of  price 
+stability. It is our unequivocal duty, enshrined in the Treaty, to do whatever it takes within our 
+mandate to fulfil our objective. 
+So how should active monetary policy being conducted in such an environment, within the 
+central bank’s mandate? 
+First  and  foremost,  monetary  policy  should  aim  at  repairing  the  transmission  of  monetary 
+policy by reducing fragmentation, insofar it is not related to structural causes. 
+BIS central bankers’ speeches 
+ 3 
+In this respect, it has been argued that reducing fragmentation can imply a redistribution of 
+risk in times of crisis.3 For example, central banks can provide insurance policies against a 
+tail event associated a catastrophic scenario. The main insight here is that redistribution of 
+risk  is  not  a  zero-sum  game,  but  that  the  overall  risk  in  the  economy,  in  our  case  in  the 
+monetary union, can be reduced. I agree with this view, but I would also like to stress that 
+any such insurance provided by the central bank should come with appropriate safeguards to 
+mitigate moral hazard.4 I will come back to that point later. 
+As our main policy response to the crisis, we announced our decision to implement OMTs in 
+secondary government bond markets. Let me be clear: OMTs are not to interfere with the 
+pricing of sovereign bonds on the basis of economic fundamentals and the respective credit 
+and  liquidity  risks  of  the  sovereign.  The  goal  of  OMTs  is  a  narrow  one:  to  eliminate 
+unwarranted  and  self-reinforcing  fears  of  a  euro  area  breakup  that  have  undermined  our 
+ability to effectively conduct monetary policy in the pursuit of price stability. In this respect, 
+OMTs are an instrument tailored to the multiple equilibrium problem outlined above. 
+Why OMTs are effective 
+Have OMT been effective? OMTs were able to address the impairments to the transmission 
+mechanism  of  monetary  policy,  by  reducing  fragmentation  and  restoring  the  distributional 
+neutrality  of  monetary  policy.  It  has  eliminated  fears  of  disaster  events  and  removed 
+denomination risk from the market. 
+How  was  this  possible  without  spending  a  single  euro?  OMTs  are  an  insurance  device 
+against redenomination risk, in the sense of reducing the probability attached to worst-case 
+scenarios. As for any insurance mechanism, OMTs face a trade-off between insurance and 
+incentives, but their specific design was effective in aligning ex-ante incentives with ex-post 
+efficiency. I will come back later to the reasons why OMTs are incentive-compatible. 
+So, what is the evidence that OMTs have been effective? One year after the announcement, 
+the positive effects of OMTs are visible in several key indicators. 
+First,  distortions  on  the  sovereign  debt  markets  have  receded.  Compared  to  their  peak 
+before the OMT announcement spreads on ten-year government bonds for Italy and Spain, 
+for example, are now back around levels observed in the summer of 2011. Moreover, CDS 
+spreads have gone down in all countries. 
+Second,  bank  and  firm  borrowing  conditions  have  relaxed.  Corporate  bond  spreads  in 
+stressed  countries  have  declined  substantially,  affording  creditworthy  companies  better 
+access  to  market  funding.  This  has  been  observed  not  only  for  highly  rated  large 
+corporations  but  also  for  other  corporations,  for  the  financial  as  well  as  the  non-financial 
+sector. 
+Third, banks have been able to re-access the market, for both funding and raising capital. 
+Also, the strong divergence in funding costs across countries has fallen. Deposits outflows 
+have  been  reversed:  deposits  by  euro  area  residents  at  banks  in  stressed  countries  have 
+increased by about 210 billion euros since August 2012. 
+These  improvements  in  the  form  of  reduced  fragmentation  can  be  summarized  by  the 
+downward trend in Target balances. These have been reduced by about 300 billion euros or 
+some 30% decline from their peak one year ago. They have now returned to levels observed 
+before the two three-year LTROs at the end of 2011. 
+                                                
+3   See M. Brunnermeier, and Y. Sannikov, 2012. “Redistributive Monetary Policy”, paper prepared for the 2012 
+Jackson Hole Symposium, Princeton University. 
+4   See B. Cœuré, 2012. “Central banking, insurance and incentives”, speech at the ECB conference on “Debt, 
+Growth and Macroeconomic Policies” Frankfurt, 6 December. 
+4 
+ BIS central bankers’ speeches 
+In sum, these indicators point to significant benefits from OMT for corporations, banks as well 
+as individuals in all euro area countries. 
+Fears of a possible euro area break-up have receded and impairments to the transmission 
+mechanism have been partly reduced. 
+Why OMTs are robust 
+Does this favourable market response mean that OMTs do not raise concerns? The answer 
+is:  no,  but  these  concerns  have  been  intensely  discussed  in  the  Governing  Council,  and 
+adequately mitigated. 
+The  relaxation  of  financial  turmoil  is,  in  itself,  not  sufficient  for  a  positive  assessment  of 
+OMTs. 
+In fact, for OMTs to be successful, they have to not only eliminate risk in the market, but they 
+have to do so in a controlled and incentive compatible way. 
+It has been argued that: 
+• 
+• 
+first, government bond purchases undermine incentives for reform at national level; 
+second,  government  bond  purchases  expose  the  ECB  to  balance  sheet  risk  that 
+may eventually lead to fiscal redistribution among euro area countries; and 
+and  third,  government  bond  purchases  violate  the  monetary  financing  prohibition 
+because it directly affects the conditions at which governments can issue debt. 
+ I  don’t  address  here  a  fourth  objection,  namely  that  buying  government  bonds  would  be 
+conducive to a higher inflation. The ECB has all instruments at hand to retain control of its 
+monetary stance, whether OMTs are activated or not. 
+Let me explain how OMTs address each of these concerns. 
+Incentives for reform 
+The argument on incentive compatibility goes as follows: sovereign bond markets act as a 
+disciplining  device;  if  governments  adopt  imprudent  economic  policies  they  face  higher 
+interest rates in the market; as a consequence, they are forced to take corrective action.5 
+But  the  incentive  for  such  corrective  action  is  undermined  if  the  central  bank  shields 
+governments from market pressure. In this case, governments can, to some extent, choose 
+whether they adopt painful fiscal and structural adjustment – or delay their reform efforts and 
+just count on further support from the central bank. 
+On a general level, this argument is convincing. Certainly, the euro area needs an active and 
+freely  functioning  government  bond  market,  and  lack  of  market  discipline  was  one  of  the 
+failures that have led to the crisis. 
+But when applying it to the case at hand, one should not ignore the most important feature of 
+OMTs, namely: its explicit link to policy conditionality. 
+This feature distinguishes OMTs from other historical episodes of central bank intervention in 
+government bond markets. And it renders the argument on incentive incompatibility invalid. 
+This  is  because  conditionality  removes  the  privilege  for  governments  to  choose  between 
+economic adjustment and central bank intervention. 
+                                                
+5   This  line  of  reasoning  has  also  received  empirical  support.  See,  for  example,  O.  de  Groot,  Holm-Hadulla, 
+F. and  Leiner-Killinger,  N.  (2012).  “Cost  of  borrowing  shocks  and  fiscal  adjustment”.  ECB  Working  Paper 
+No. 1503. 
+BIS central bankers’ speeches 
+ 5 
+Even  if  the  ECB  were  to  decide  –  at  its  full  discretion  –  to  buy  bonds  under  OMTs, 
+governments  will  have  to  continue  their  reform  efforts  as  required  by  the  respective  ESM 
+programme  and  by  IMF  involvement.  Otherwise,  they  would  simply  become  ineligible  for 
+OMTs. Hence, no reforms, no OMTs. 
+In fact, the policy conditionality not only aligns incentives in the countries already subject to 
+an ESM programme. It also aligns incentives in countries that are at risk of requiring support. 
+This  is  because,  in  the  programme  context,  national  authorities  face  a  substantial  loss  of 
+sovereignty  with  regard  to  economic  policy.  The  political  cost  related  to  this  loss  of 
+sovereignty constitutes a forceful deterrent. 
+Indeed, the experience with existing EU/IMF programmes shows that governments request 
+official assistance only if it is strictly unavoidable through own efforts. 
+In other words, there is no incentive for governments to wait and do nothing until they move 
+into  an  ESM  programme.  By  contrast,  they  have  an  incentive  to  put  all  their  efforts  into 
+solving their problems without having to request a programme. 
+Besides, purchases under OMTs are limited to shorter dated bonds, namely, up to the three 
+year tenor. Government yields at longer maturities would be entirely determined by market 
+forces, and at shorter maturities, fear of the programme running off-track and OMT eligibility 
+being lost would be reflected in market prices. 
+Overall,  these  considerations  demonstrate  that  OMTs  do  not  eliminate  the  market  as  a 
+disciplining device for governments. What OMTs do is to complement the market, which in 
+the current crisis has been abrupt and unreliable, by another incentive mechanism. 
+Risks to the ECB balance sheet 
+Let me turn to the second argument, which is related to the ECB’s risk exposure. Thus far, 
+we are in the comfortable situation that desirable effects of OMTs have materialised without 
+a  single  euro  being  spent.  In  fact,  risks  to  the  balance  sheet  of  the  ECB  have  vastly 
+decreased  since  mid-2012,  thanks  to  the  convergence  in  yields  and  marked  decrease  in 
+central bank borrowing. 
+But indeed: once we were to conduct bond purchases under OMTs, the Eurosystem would 
+assume the concomitant balance sheet risk. 
+Under an extreme scenario with the default of the sovereign concerned, the resulting losses 
+would have to be shared across the Eurosystem. Ultimately, this could indeed constitute a 
+transfer of risk among euro area countries. 
+Let me make three remarks on this: 
+First, it is precisely the existence of OMT that contains the risk of such catastrophic scenario 
+to materialise, since: 
+• 
+by its very existence OMT eliminates the undue spread components and hence self-
+fulfilling default trajectories. 
+through conditionality OMT fosters incentives for sound economic and fiscal policies. 
+and by focusing on bonds with shorter residual maturity, it limits the duration of the 
+risk exposure to a given creditor. 
+ Second,  any  risk  comes  with  a  reward.  Under  a  successful  OMT  programme,  interest 
+payments  on  the  bonds  purchased  by  the  ECB  amount  to  a  transfer  from  the  benefiting 
+country to the ECB, then to the national central banks. 
+Third, and more fundamentally, one can argue that a certain transfer of risk among different 
+geographical  areas  is  inevitable  and  inherent  in  the  implementation  of  a  single  monetary 
+6 
+ BIS central bankers’ speeches 
+policy for any currency area. Indeed, for the euro area geographically diverse risk exposure 
+is not new and has always been part of the way we conduct and implement monetary policy. 
+Think,  for  example,  about  our  main  instrument  for  monetary  policy:  collateralised  liquidity 
+provision via our repo operations with banks. 
+Here, the  decision  on  the  geographical  allocation  of  liquidity  across  countries  is  not  at  the 
+discretion of the ECB: it is essentially market-driven and depends on the liquidity needs of 
+the banks. Hence the transfer of risk across countries is inherent. 
+Moreover, the transfer of risk is inevitable because a decentralised allocation of liquidity is a 
+pre-condition  for  achieving  our  mandate  of  price  stability.  If  we  were  to  impose  a  specific 
+distribution of liquidity across countries we would have to renege on our mandate. In sum, 
+and  as  discussed  above,  monetary  policy  can  be  redistributive  provided  that  it  aims  at 
+restoring distributive neutrality. 
+For OMT, it is in essence the same as for our standard framework. 
+The  transfer  of  risks  is  inherent  to  the  motivation  of  OMT  because  sources  of  impaired 
+monetary policy transmission are unevenly distributed geographically. 
+It  is  inevitable  because  imposing  constraints  on  OMT  due  to  risk  sharing  considerations 
+would weaken its effectiveness and hamper the ECB in its pursuit of price stability. 
+Let me say a more general word on the distributional neutrality of monetary policy6. Central 
+banks are untrusted with a narrow mandate and, being independent, they are shielded from 
+representative  politics.  They  should  refrain  from  engaging  in  income  redistribution,  which 
+should be sanctioned by Parliaments. This does not imply that monetary policy actions do 
+not have distributive consequences – in fact, they always have. But these are side-effects of 
+a strategy that aim at ensuring price stability, which is by essence neutral as regards income 
+distribution. OMTs are just an aspect of such a strategy. The emergence of redenomination 
+risk resulted into a situation where monetary policy decisions were not evenly transmitted to 
+specific  market  segments  and  regions  in the  euro  area.  OMTs supported  the  distributional 
+neutrality of our monetary policy by addressing the underlying impairments. 
+The prohibition of monetary financing 
+A  final  concern  that  has  been  raised  regarding  OMTs  is  whether  it  violates  the  monetary 
+financing prohibition. Let me focus on the economic aspects. 
+The economic rationale of the monetary financing prohibition is clear: as history has shown, 
+central  banks  cannot  ensure  price  stability  if  they  have  to  permanently  make  up  for  weak 
+performance in other policy domains. Article 123 TFEU transports this historical lesson into 
+the architecture of EMU. 
+The aim and design of OMTs are in full respect of this economic requirement. To see this, we 
+again have to recall the concrete design elements of OMTs. 
+The first design element that’s relevant here is, once more, the link to conditionality. 
+As  mentioned  before,  the  link  to  policy  conditionality  of  an  ESM  programme  ensures  that 
+central  bank  intervention  under  OMTs  does  not  replace  reform  efforts  by  other  policy 
+domains. 
+Instead, OMT can – by design – only be a complement to national reform efforts. 
+Hence, the design of OMTs clearly prevents a scenario of harmful central bank support, or 
+fiscal dominance over the central bank that has motivated the monetary financing prohibition; 
+                                                
+6   For  a  detailed  discussion,  see  B.  Cœuré  (2013),  “Monetary  policy  in  a  fragmented  world”,  speech  at  the 
+41st Economic Conference of the Oesterreichische Nationalbank. Vienna, 10 June. 
+BIS central bankers’ speeches 
+ 7 
+that is: the central bank intervenes, although – or even because – other economic policies 
+fail to deliver. 
+The second element to keep in mind is the rationale of OMT. 
+To  be  clear:  OMT  would  never  be  used  to  indiscriminately  push  down  government  bond 
+spreads.  By  contrast,  spreads  should  continue  to  reflect  the  underlying  country  specific 
+economic  fundamentals,  fiscal  positions  and  market  risk  perceptions  that  incentivise 
+governments  to  engage  in  sustainable  fiscal  spending  and  competitiveness  enhancing 
+structural reforms. 
+Hence also on this count, OMT does not correspond to the harmful scenario that motivated 
+the  monetary  financing  prohibition;  a  scenario,  in  which  the  very  purpose  of  central  bank 
+intervention is to reduce yields below the fundamentally justified level so as to preserve debt 
+sustainability despite weak policy performance. 
+The  aim  of  OMTs  is  the  exact  opposite:  a  deterioration  of  fundamentals  would  induce  the 
+ECB to lower or even stop OMT intervention. OMTs would only aim at that portion of bond 
+yield spreads that are not fundamentally justified and based on undue risks of a euro area 
+break up. 
+As I have said elsewhere7, central bank independence and a clear focus on price stability are 
+necessary  but  not  sufficient  to  ensure  monetary  dominance.  The  fiscal  authority  must  be 
+ready and willing to adjust its revenues and primary spending to stabilise its debt at any level 
+of  the  interest  rate  that the  central  bank may  choose.  In  academic  parlance, for  monetary 
+policy to remain active, fiscal policy needs to be passive, or “Ricardian”8. 
+By creating the right environment, and providing appropriate incentives, for governments to 
+take  action  to  ensure  fiscal  solvency,  OMTs  create  the  conditions  to  affirm  the  monetary 
+dominance regime which is at the heart of the Treaty. 
+Conclusion 
+Let me just conclude, by repeating: OMTs are necessary from a monetary policy perspective; 
+they were effective in counteracting the destructive market turmoil in the summer of last year; 
+and  they  are  designed  in  a  way  that  overcomes  the  key  concerns  associated  with 
+government bond purchases by the central bank. 
+OMTs  are  not  just  words:  the  ECB  is  fully  prepared  to  use  them.  But  even  if  euro  area 
+member states comply with the conditions, there is no automatism to activate OMTs. For the 
+Governing  Council  of  the  ECB,  there  is  only  one  single  deciding  criterion  and  that  is  the 
+maintenance  of  price  stability  in  the  euro  area.  This  overarching  criterion  has  shaped  the 
+design of OMTs, and it will decide over its potential activation. 
+Thank you very much for your attention. 
+                                                
+7   See  B.  Cœuré  (2012),  “Challenges  to  the  single  monetary  policy  and  the  ECB  response”,  speech  at  the 
+Institut d’études politiques. Paris, 20 September. 
+8   See  E.  Leeper  (1991),  “Equilibria  under  ‘active’  and  ‘passive’  monetary  and  fiscal  policies”,  Journal  of 
+Monetary  Economics,  27,  pp.  129–147;  and  M.  Woodford  (2001),  “Fiscal  requirements  for  price  stability”, 
+NBER Working Paper, No. 8072. 
+8 
+ BIS central bankers’ speeches 

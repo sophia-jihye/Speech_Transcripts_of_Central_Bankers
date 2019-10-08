@@ -1,0 +1,466 @@
+Duvvuri Subbarao: Statistics in Reserve Bank of India’s policy making 
+conceptual and empirical issues 
+Inaugural address by Dr Duvvuri Subbarao, Governor of the Reserve Bank of India, at the 
+7th Statistics Day Conference of the Reserve Bank of India, Mumbai, 30 August 2013. 
+ 1. 
+We have gathered here today to celebrate the seventh Statistics Day Conference of 
+the Reserve Bank. The Reserve Bank instituted the Statistics Day Conference to honour the 
+memory  of  Prof.  P.  C.  Mahalanobis,  who  has  had  an  enduring  influence  on  planning  and 
+policy making in India. This annual conference has developed into an important forum for the 
+Reserve Bank’s Research Departments to meet with researchers and engage on a specific 
+theme of statistical analysis. The theme for this year’s conference is: “Challenges to Policy 
+Making and Evolving Role of Statistical Analysis”.  
+I  am  happy  to  acknowledge  the  participation  in  today’s  conference  of  several 
+2. 
+renowned  statisticians:  Prof.  Bimal  Roy,  Director,  Indian  Statistical  Institute;  Prof.  Richard 
+Smith, University of Cambridge; Prof. B.L.S. Prakasa Rao, C R Rao Institute, Hyderabad and 
+Prof. Subhashis Ghoshal, North Carolina State University. It is my pleasure to extend a warm 
+welcome to each one of you.  
+3. 
+Over the last five years that I have served in the Reserve Bank, we have confronted 
+a  host  of  conceptual  issues  in  statistical  analysis  in  the  course  of  policy  making.  As  I  am 
+preparing  to  leave  the  Reserve  Bank,  I  thought  the  best  way  I  can  add  value  to  this 
+conference is to present some of these conceptual issues, and the dilemmas that we have 
+faced in resolving them. In particular, I will address five issues.  
+Inflation measure for monetary policy in India: WPI or CPI? 
+4. 
+An  important  –  and  in  some  countries  the  predominant  –  objective  of  monetary 
+policy is price stability, which is measured in terms of inflation. There are, however, several 
+measures of inflation which are prevalent, for example, inflation indices based on consumer 
+prices and wholesale prices. Determining the appropriate inflation measure to be used for the 
+purpose of calibrating monetary policy is, therefore, critical. Central banks typically tend to 
+articulate  the  price  stability  objective  in  terms  of  a  consumer  price  index  (CPI)  as  CPI  is 
+considered  to  be  a  better  indicator  of  the  cost  of  living  and  hence  is  seen  to  be  better 
+reflecting the welfare objective of monetary policy. 
+5. 
+As far as inflation measures go, the problem in India is not of deficit, but of excess. 
+Ours is a tale of many indices. They include the wholesale price index (WPI); three legacy 
+measures of CPI inflation, viz., CPI (Industrial Workers), CPI (Agricultural Labour) and CPI 
+(Rural Labour); and the new CPIs, viz., CPI(Urban), CPI(Rural) and CPI-combined.  
+6. 
+What should be the preferred measure for calibrating monetary policy in the Indian 
+context? The traditional practice in the Reserve Bank has been to use WPI as the headline 
+measure  of  inflation.  The  primary  reason  for  this  is  that  the  legacy  CPIs  were  not 
+representative  enough  for  the  entire  population.  Further,  in  India,  WPI  has  been  more 
+extensively researched by way of its empirical relationship with other relevant variables such 
+as  output,  monetary  aggregates  and  interest  rates  therefore,  presents  richer  analytical 
+insights. I must add though that even as we use WPI as the headline measure of inflation, we 
+also  study  the  trends  in  CPI  inflation  and  the  findings  of  household  inflation  expectation 
+surveys for calibrating our monetary policy. 
+7. 
+Several analysts have argued that the use of WPI inflation by the Reserve Bank is 
+flawed on the ground that in India, the WPI proxies producers’ prices rather than consumer 
+BIS central bankers’ speeches 
+ 1 
+prices. Moreover, it is contended that WPI does not adequately capture the movement in the 
+prices of services, which constitute close to 2/3rd of our economic activity. 
+8. 
+The inflation dynamics that WPI and CPI project are quite different. This results in 
+considerable divergence between the CPI and WPI, at least in the short term. For example, 
+WPI based inflation was significantly higher than inflation based on the CPIs during 2003–05. 
+Subsequently, till June 2008, inflation based on CPIs was much higher than that of WPI. The 
+gap between WPI and CPI narrowed thereafter but has widened again in the recent period. 
+While WPI is currently below 6 per cent, CPI is near double digits. In the long run, however, 
+RBI’s in-house research suggests that the gap between WPI and CPI tends to narrow. 
+9. 
+To some extent, the divergence between WPI and CPI can be attributed to statistical 
+differences stemming from coverage, classification of items and the relative weights of their 
+constituents.  However,  there  could  be  other  reasons  for  this  as  well.  For  example,  higher 
+transaction costs, taxes, etc. are reflected in the CPI but not in the WPI. Regardless of the 
+reasons, the large magnitude of the short term divergence between the two indices poses a 
+major challenge for assessing inflation dynamics in the short term. 
+10. 
+An increase in wholesale prices, if sustained, results in an eventual increase in retail 
+prices and/or a squeeze in trade margins. When demand is strong, a greater burden of the 
+increased prices will be shifted to the consumer. Conversely, when demand is weak, traders 
+will have to absorb the burden through lower margins. Even as this logic is clear, we do not 
+yet  have  a  full  understanding  of  the  process  by  which  wholesale  price  changes  are 
+transmitted to retail prices or of the magnitude of the associated pass-through and lags. 
+11. 
+Going forward, is there a case for shifting to CPI for the conduct of monetary policy 
+in India? There are several issues which will need to be considered in this context. First, the 
+new CPI inflation series has only 19 data points which is not sufficiently long for statistically 
+robust  analysis.  Second,  in  the  new  CPI,  food  prices  comprise  nearly  50  per  cent  of  the 
+index,  making  the  movement  of  CPI  relatively  more  sensitive  to  food  price  changes.  This 
+implies  that  the  influence  of  supply-side  factors  could  dominate  the  trends  in  CPI.  Also, 
+house  rents  comprise  about  10  per  cent  weight  in  the  new  CPI.  With  house  rents  being 
+largely  imputed,  there  could  be  concerns  about  the  efficacy  of  their  measurement.  These 
+issues  are  not  unique  to  us.  Several  central  banks  emphasize  monitoring  CPI  inflation 
+excluding housing, food and energy, but in our case similar exclusion would leave the CPI 
+bereft of substantial coverage and information content.  
+12. 
+Before moving to use of new CPI, we will also need to satisfy ourselves on several 
+other  fronts.  Does  the  new  CPI  ensure  sufficient  national  representativeness  in  terms  of 
+coverage and current consumption baskets? Does it adequately cover prices of services? Is 
+the number of price quotations being obtained for computation of the index sufficiently large?  
+13. 
+Finally, if and when we move to the CPI for calibrating monetary policy, will we make 
+a clean break and abandon the WPI altogether? I believe not. As I said at this conference 
+last year, analytically it would be useful to develop a series of producer price index (PPI) that 
+would help us to gauge how price momentum builds up in the economy.  
+Potential output, threshold inflation and Taylor rule 
+14. 
+The second conceptual challenge I want to address relates to the measurement of 
+two  important  macroeconomic  variables  in  the  context  of  monetary  policy:  potential  output 
+and  threshold  inflation.  Understanding  the  divergence  of  actual  output  and  inflation  from 
+potential output and threshold inflation respectively is critical for the formulation of monetary 
+policy. Reliable estimates of these variables are necessary for formulating the central bank 
+reaction function in the form of Taylor type rules for setting interest rates. 
+15. 
+Conceptually,  the  potential  output  of  an  economy  is  defined  as  the  maximum 
+sustainable level of output that is consistent with stable inflation. If the demand for goods and 
+services exceeds supply at a given level of prices, prices will rise and vice versa. But, what 
+2 
+ BIS central bankers’ speeches 
+level  of  demand  is  consistent  with  stable  prices?  It  is  this  unobserved  number  which 
+determines  how  the  pulse  of the  overall  economy  is  assessed.  Any  estimation  error  could 
+result  in  inappropriate  monetary  policy  action  with  potentially  significant  consequences  for 
+the economy.  
+16. In practice, potential output cannot be observed directly, but has to be estimated using 
+statistical  techniques.  Estimates  of  potential  output  are  susceptible  to  errors  for  several 
+reasons. First, real GDP data is subject to frequent revisions. Second, there is considerable 
+uncertainty  about  the  level  of  productivity  growth  at  any  point  in  time.  Third,  there  is  what 
+economists  call  the  Knightian  uncertainty  with  respect  to  the  choice  of  the  appropriate 
+modelling approach to measuring potential output (Mishkin, 2007). Fourth, in India, we have 
+an  additional  constraint  by  way  of  lack  of  comprehensive  and  consistent  data  on 
+employment.  Finally,  potential  output  is  time  varying.  For  example,  it  is  widely  recognised 
+that the global financial crisis has resulted in a loss of potential output in several economies, 
+although  by  varying  magnitudes. Whether  such  loss  is  permanent  or temporary  remains  a 
+matter of debate. 
+17. 
+In practice, the probability of error in the estimation of potential output is sought to 
+be  minimized  by  juxtaposing  estimated  potential  output  with  other  available  real  time 
+information. For example, to assess if there is slack or excess capacity in the economy, at 
+the RBI, we estimate output gaps based on various models with a wide range of indicators, 
+including the findings of forward looking surveys of macroeconomic changes. In its Annual 
+Report for 2009/10, the Reserve Bank had reported that the potential output growth of the 
+Indian economy may have dropped from 8.5 per cent pre-crisis to 8.0 per cent, post-crisis. 
+Our  latest  assessment  suggests  that  potential  output  growth  may  have  further  declined  to 
+around 7.0 per cent. 
+18. 
+Let me now turn to the challenges in estimating the second important variable for 
+monetary policy i.e. the threshold level of inflation. The threshold level of inflation is defined 
+as  the rate  of  inflation  beyond  which  inflation  itself  becomes  a  drag  on growth.  Estimating 
+threshold inflation is no less daunting than estimating potential output. Like potential output, 
+threshold inflation is also unobserved and is time-varying. Its estimates are, therefore, model 
+dependent with the associated potential for errors.  
+19. 
+In  the  mid-1980s,  the  Chakravarty  Committee  (1985)  had  suggested  a  tolerable 
+level  of  inflation  of 4.0  per  cent  per  annum for  India  to facilitate changes  in  relative  prices 
+necessary to attract resources to growth sectors. The Reserve Bank’s current assessment 
+suggests  that  the  threshold  level  of  WPI  headline  inflation  for  India  is  in  the  range  of  
+4.4–5.7 per cent, implying a mid-point rate of 5.0 per cent.  
+20. 
+Estimates of output and inflation gaps are critical inputs for central banks for using 
+the  Taylor  rule  for  calibrating  the  interest  rate  policy.  The  Taylor  rule  is  an  interest  rate 
+feedback  rule  which  aids  in  determining  the  short-term  interest  rate  to  achieve  the  twin 
+objectives of stabilizing the economy and achieving price stability. The rule recommends that 
+the short-term interest rate should be changed according to the deviation of inflation from its 
+threshold or predetermined target and of output from its potential level. Essentially, given the 
+real  interest  rate  of  the  economy,  the  combination  of  inflation  and  output  gaps  should 
+determine  the  appropriate  policy  rate  that  would  return  the  economy  to  its  potential  level 
+without causing excessive inflation.  
+21. 
+Implementation  of Taylor  type  rules  essentially  requires  an  a  priori  assessment of 
+three indicators: output gap, inflation target and the equilibrium real interest rate. Once we 
+understand  and  measure  the  level  of  potential  output  and  threshold  level  of  inflation,  it 
+becomes feasible to investigate a Taylor-type rule. Of course, countries have modified the 
+Taylor rule and extended it in a variety of ways for adapting to their specific country contexts. 
+I have attempted to outline today some of the challenges associated with these estimations.  
+22. 
+The  Reserve  Bank  explicitly  targets  the  overnight  interest  rate  as  the  operational 
+objective using the policy repo rate as the instrument. The relevant questions for us in this 
+BIS central bankers’ speeches 
+ 3 
+context  are:  How  should  the  policy  interest  rate  be  determined?  Should  interest  rate 
+calibration follow a rule or should it be left to the central bank’s discretion?  
+Neutral interest rate 
+23. 
+The third issue I want to address is the concept of neutral interest rate, which is also 
+closely  linked  to  the  Taylor  rule.  Theoretically,  the  neutral  interest  rate  is  generally 
+understood as a real variable, and it is common practice to add the inflation objective – the 
+implicit or explicit target inflation rate – to determine the neutral nominal policy rate. Neutral 
+real interest rate has the simplest interpretation in terms of a rate that is neither expansionary 
+nor  contractionary.  When  Wicksell  first  conceptualized  it  in  19361,  it  was  coined  as  the 
+natural  rate  of  interest.  According  to Wicksell,  if  the  money  or  market  determined  rate  fell 
+below the natural rate, then demand would increase leading to higher prices. Conversely, if 
+the money or market rate is higher than the natural rate, then demand will decline and prices 
+could fall.  
+24. 
+As  I  said  earlier,  Reserve  Bank’s  estimates  suggest  that  in  recent  years,  India’s 
+potential growth has declined. The domestic savings rate has also moderated. What then is 
+the relevant neutral real rate that should be used for the conduct of monetary policy, and also 
+for assessing the stance of monetary policy? Can statistical analysis provide any answer to 
+this? 
+25. 
+The challenge in answering these questions is that the neutral rate is invisible, and 
+no  single  empirical  estimate  can  be  unconditional  and  free  of  errors.  Blinder  (1998)2  had 
+noted  in  this  context  that  “...  the  neutral  real  rate  of  interest  is  difficult  to  estimate  and 
+impossible to know with precision. It is therefore most usefully thought of as a concept rather 
+than as a number, as a way of thinking about monetary policy rather than as the basis for a 
+mechanical rule”. 
+The task statisticians confront is how to make this invisible concept less invisible? 
+26. 
+The practical answer would obviously be to determine with a reasonable degree of statistical 
+robustness the potential growth and threshold inflation. The assessment of both is obviously 
+empirical  and  country  specific.  And  consistent  with  that,  researchers  generally  refer  to  an 
+interest rate path implied by the Taylor rule and compare that with the actual policy rate. If 
+the  actual  policy  rate  is  lower  than  the  implied  path,  then  the  monetary  policy  stance  is 
+viewed as accommodative.  
+27. 
+Using  similar  analysis,  the  recent  BIS  Annual  Report  (June  2013)  highlights  that 
+nominal  policy  rates  in  EMEs  have  remained  below  the  Taylor  rule  implied  path  on  a 
+sustained basis since 2003, almost for a full decade now. Accommodative monetary policies 
+in  both  advanced  and  emerging  economies  have  played  a  role  in  accentuating  global 
+vulnerabilities.  
+28. 
+The 2013 Article IV Report of the IMF for India adopts a similar approach to suggest 
+that the repo rate (as on September 14, 2012) was less than the rate implied by the Taylor 
+rule,  and  therefore,  that  RBI’s  monetary  policy  stance  has  been  accommodative.  Contrast 
+this with the criticism in several quarters in the past that monetary policy was tight.  
+29. 
+Despite  the  known  limitations  of  statistical  methodologies  in  providing  a  reliable 
+reference  neutral  policy  rate  that  can  inform  policy  formulation,  it  is  important  to  have 
+reasonable  estimates  to  reduce  the  risk  of  a  completely  discretionary  monetary  policy. 
+Acknowledging  the  logic  of  this  argument,  we  have,  in  recent  times  emphasized  internal 
+research on assessment of monetary policy stance based on alternate monetary policy rules.  
+                                                
+1  Wicksell, Knut, “Interest and Prices”, London: Macmillan, 1936, translation of 1898 edition by R.F. Kahn. 
+2  A S Blinder (1998), “Central Banking in Theory and Practice”, MIT Press. 
+4 
+ BIS central bankers’ speeches 
+30. 
+What  is  the  challenge  for  statisticians  here?  If  the  potential  growth  of  India  has 
+declined,  should  the  neutral  real  interest  rate  also  correspondingly  decline?  Given  the 
+negative  spillovers  from  globalisation  for  almost  five  years  now  and  domestic  supply 
+constraints, should India’s neutral real interest rate be lower than that during the pre-crisis 
+high growth period?  
+Equilibrium exchange rate – Why no single statistical measure has a consensus 
+reference value? 
+31. 
+Let me now turn to the fourth issue on my list which relates to exchange rates. I do 
+so  with  some  trepidation  since  my  staff  in  the  Reserve  Bank  often  caution  me  against 
+speaking  on  the  subject  of  exchange  rate.  Notably,  it  is  not  common  practice  for  central 
+banks to speak much on exchange rate. It is easy to understand though why, even in this 
+age of forward guidance and transparent communication of monetary policy, central bankers, 
+in both advanced and emerging economies, are so reticent on the subject of exchange rate. 
+32. 
+So far as my remarks today are concerned, let me say upfront that they relate to the 
+statistical  challenge  of  estimating  an  equilibrium  value  of  the  rupee  from  an  empirical 
+perspective.  It  will  not  be  useful  to  interpret  them  in  the  context  of  currency  market 
+developments over the last few months and RBI’s response to those pressures.  
+33. 
+Can  improved  statistical  methods  and  better  data  help  us  in  improving  our 
+understanding of the concept of fair value, if not the equilibrium value of the rupee? This is a 
+wide and involved topic. So, I will restrict myself to a few major issues.  
+In  a  market  determined  exchange  rate  regime,  any  level  of  exchange  rate  at  any 
+34. 
+point  of  time  is  an  equilibrium  value,  reflecting  the  interactions  of  demand  and  supply.  A 
+market  equilibrium  exchange  rate,  however,  is  different  from  a  fundamental  equilibrium 
+exchange rate (FEER), as the latter can tell how misaligned the market exchange rate may 
+be at any point of time. 
+35. 
+John  Williamson,  who  pioneered  the  concept  of  FEER,  emphasised  that  the 
+equilibrium  rate  is  the  rate  which  is  consistent  with  internal  balance  –  meaning  full 
+employment  or  full  potential  growth  with  low  and  stable  inflation  –  and  external  balance  – 
+meaning  a  sustainable  external  balance  position.  The  FEER  approach,  however,  ignores 
+cyclical  and  speculative  factors  in  determining  the  exchange  rate  path  in  the  short-run. 
+Therefore some analysts view FEER only as a medium-term concept. This being a normative 
+approach, some also see it as the Desired Equilibrium Exchange Rate (DEER) – internal and 
+external balance being the obvious desires or objectives of policy.  
+36. 
+There is another approach to estimating equilibrium exchange rate – known as the 
+Behavioural Equilibrium Exchange Rate (BEER), which tries to explain the behaviour of the 
+exchange  rate  by  accounting  for  sources  of  cyclical  and  temporary  movements,  while 
+focusing  on  current  fundamentals,  unlike  the  sustainable  external  balance  and  internal 
+balance focus of the FEER.  
+37. 
+Given these conceptual building blocks of an equilibrium exchange rate, the IMF’s 
+Consultative  Group  on  Exchange  Rates  (CGER)  uses  three  alternative  methodologies  to 
+estimate  fair  values  of  exchange  rates:  (i) the  Macroeconomic  Balance  (MB)  approach, 
+(ii) the  Equilibrium  Real  Exchange  Rate 
+(iii) the  External 
+Sustainability (ES) approach.  
+38. 
+The macroeconomic balance (MB) approach first estimates the difference between 
+the  projected  current  account  balance  (CAD)  position  over  the  medium  term  at  prevailing 
+exchange rates, and the CAD norm which is believed to be sustainable. Then, the exchange 
+rate adjustment that could eliminate this difference over the medium-term is estimated. The 
+reduced-form  equilibrium  real  exchange  rate  (ERER)  approach  estimates  directly  an 
+equilibrium real exchange rate for each country as a function of medium-term fundamentals 
+such as the net foreign asset (NFA) position of the country, relative productivity differential 
+(ERER)  approach,  and 
+BIS central bankers’ speeches 
+ 5 
+between  the  tradable  and  non-tradable  sectors,  and  the  terms  of  trade.  The  external 
+sustainability  (ES)  approach  aims  at  calculating  the  difference  between  the  actual  CAD 
+position  and  the  balance  that  could  stabilize  the  NFA  position  of  the  country  at  some 
+benchmark level. 
+39. 
+What  if  these  three  alternative  estimates  throw  up  different  results?  Take,  for 
+example, the IMF’s different estimates for India. According to the Article IV Report released 
+in  February  2013,  the  macroeconomic  balance  approach  suggested  India’s  real  exchange 
+rate  to  be  undervalued  by  3.5  to  4.5  per  cent,  the  ERER  approach  suggests  the  rupee  is 
+overvalued  by  around  12  per  cent,  and  the  external  sustainability  approach  pointed  to  the 
+real  exchange  rate  remaining  broadly  in  line  with  its  medium-term  economic  value.  This 
+varying  range  of  estimates  leaves  scope  for  judgment,  undermining  the  faith  on  statistical 
+models.  
+40. 
+The  IMF’s  position  on  this  has  been  that  “...it  should  be  recognized  that  such 
+assessments  are  unavoidably  subject  to  large  margins  of  uncertainty.  These  relate  to  a 
+number  of  factors,  such  as  the  potential  instability  of  the  underlying  macroeconomic  links, 
+differences  in  these  links  across  countries,  significant  measurement  problems  for  some 
+variables, as well as the imperfect “fit” of the models. Some of these problems may be more 
+severe  for  emerging  market  economies,  where  structural  change  is  more  likely  to  play  an 
+important  role  and  where  limitations  in  terms  of  data  availability  and  length  of  sample  are 
+more acute.”3  
+41. 
+Moving the concept of FEER from theory to practice, therefore, is not so easy. As 
+per  the  assessment  of  one  US  Department  of  the  Treasury  paper  “...  It  is  difficult  for  any 
+model  to  describe  adequately  all  features  of  modern  economies  that  are  relevant  to 
+determining  exchange  rate  movements,  especially  of  economies  fully  integrated  into  the 
+international  economic  and  financial  system.  Some  economists  argue  that  misalignment 
+cannot  be  measured  at  all  because  empirical  techniques  are  unable  to  capture  the 
+continuous evolution of structural economic relationships that drive exchange rates.”4  
+42. 
+How do we deal with this lack of unanimity and precision? One solution is a simpler 
+concept  that  is  easy  to  understand  and  also  relevant.  The  purchasing  power  parity  theory 
+(PPP)  clearly  stands  out  as  the  most  conventional  but  still  relevant  approach  to  assess 
+equilibrium  exchange  rates.  PPP  is  based  on  the  principle  of  a  “law  of  one  price”,  which 
+suggests that in the absence of frictions such as transaction costs, taxes, and transportation 
+costs,  the  same  commodity  must  sell  for  the  same  price,  when  expressed  in  a  common 
+currency.  
+43. 
+The  more  commonly  used  version  of  PPP  is  called  “relative  purchasing  power 
+parity,” which emphasises the relationship between changes in the price level or inflation and 
+changes in exchange rates. A country having relatively higher inflation over successive years 
+should  experience  currency  depreciation,  but  for  market  frictions.  Empirically,  however, 
+relative  PPP  may  not  hold  in  the  short-run,  because  of  capital  flows,  and  asymmetric 
+adjustment of goods and asset markets to both monetary and real shocks, leading to either 
+overshooting or undershooting of exchange rates. REER, which is an indicator of the extent 
+of  deviation  of  the  exchange  rate from  PPP  at any  point  of time, therefore,  should  have  a 
+medium-term perspective.  
+44. 
+The construction of a relevant REER index for a country is not easy because of the 
+diverse  range  of  possibilities,  each  having  its  own  merits  and  demerits.  Three  important 
+considerations in this regard are: (i) choice of a proper price indicator, (ii) selection of a base 
+                                                
+3  Methodology for CGER Exchange Rate Assessments, November 8, 2006, Page no. 4, Para No. 8. 
+4  Equilibrium Exchange Rate Models and Misalignments, Department of the Treasury, Occasional Paper No. 7, 
+March 2007. 
+6 
+ BIS central bankers’ speeches 
+year that could represent a condition of both internal and external balance so that deviations 
+from that base could be interpreted as the degree of misalignment, and (iii) use of relevant 
+weighting procedures.  
+45. 
+On  the  choice  of  the  price  indicator,  practices  range from  use  of  CPI  to  PPI,  unit 
+labour  costs,  and  prices  of  exports  and  imports  or  tradables.  On  the  choice  of  base,  it  is 
+difficult  to  pick  a  particular  point  of  time  when  both  external  and  internal  balance  may  be 
+perfectly attained. More importantly, even if one such point can be identified from the past, 
+because of structural changes taking place in the economy, that base may become irrelevant 
+over time. An alternative solution to this could be using an average of the REER as the proxy 
+for the long-term trend, assuming that on an average a country achieves both internal and 
+external balance over the medium-run. Another important adjustment that is often ignored is 
+the role of changing and divergent productivity across tradables and non-tradables, a la the 
+Balassa Samuelson effect. 
+46. 
+My intention in presenting the above debate is to underscore the point that no single 
+statistical measure of equilibrium exchange rate can be an acceptable reference point for all 
+purposes.  The  estimation  of  REER  is  sensitive  to  the  methodology.  The  challenge  for 
+statisticians  would  to  design  one  or  more  constructs  which  provide  the  “best”  possible 
+measures of equilibrium exchange rates.  
+Financial stability and stress indicators  
+47. 
+Let  me  finally  turn  to  financial  stability  and  stress  indicators.  The  challenge  of 
+preserving and bolstering financial stability has come centre stage post crisis. We now know 
+that  price  stability  and  macroeconomic  stability  do  not  necessarily  guarantee  financial 
+stability and that financial stability needs to be pursued as a policy objective in its own right. 
+This  post  crisis  thinking  has  presented  statisticians  with  a  new  set  of  challenges  –  that  of 
+developing additional matrices to monitor financial stability. Indeed, the crisis has highlighted 
+the  importance  of  developing  relevant  statistics  that  are  timely,  internally  consistent,  and 
+comparable across countries.  
+48. 
+By far the biggest challenge both for policy makers and statisticians is that there is 
+as yet no universally acceptable definition of financial stability. Financial stability is also multi-
+dimensional, encompassing as it does, economies, markets, the financial sector institutions 
+and financial market infrastructure, and hence is more difficult to measure.  
+49. 
+Several  techniques  are  employed  to  assess  financial  stability  and  a  host  of 
+quantitative  measures  are  in  the  process  of  being  developed  for  assessing  systemic  risks 
+and for potentially predicting systemic events. The development of these models / techniques 
+is in a nascent stage and each of them has its merits and demerits. Some of the commonly 
+used quantitative methods for financial stability assessment include early warning systems, 
+macro-stress testing, and financial stability indices. 
+50. 
+Early  warning  systems  are  constructed from  potential  leading  indicators  to  predict 
+the  probability  of  a  financial  crisis.  Macro  stress  testing  models  /  techniques  attempt  to 
+estimate  the  resilience  of  the  financial  system  to  adverse  macroeconomic  scenarios. 
+Aggregate  financial  stability  indices  represent  another  class  of  quantitative  methods  which 
+aim at measuring the stability of a financial system at any given point in time. Absence of 
+specific benchmarks however, limits the use of such indices for predicting stress conditions/ 
+crisis more effectively. 
+51. 
+As I mentioned earlier, financial stability is multi-dimensional and it can be impacted 
+through different channels. Signs of instability or vulnerability could thus manifest in different 
+variables or indicators. There are thus challenges in first identifying a set of indicators which 
+need  to  be  monitored  for  financial  stability  and  then  identifying  the  level  at  which  each 
+indicator reflects stress conditions. The task becomes challenging given the interdependence 
+and the complex interactions of different elements of the financial system among themselves 
+BIS central bankers’ speeches 
+ 7 
+and  with  the  real  economy.  Further  complications  arise  from  the  time  and  cross-sectional 
+dimensions of interactions. There are also limitations relating to availability of data – the kind 
+of data needed to assess risks to financial stability and the timeliness and frequency of such 
+data. There are, in fact, several initiatives underway internationally to improve the availability 
+of data for systemic risk assessment. 
+52. 
+Considerable progress has been made, over the past two decades, by researchers 
+from central banks and elsewhere to capture conditions of financial stability through various 
+indicators  of  financial  system  vulnerabilities.  Indeed,  many  central  banks,  through  their 
+financial stability reports (FSRs), attempt to assess the risks to financial stability by focusing 
+on  a  small  number  of  key  indicators.  Broadly,  the  challenges  involved  in  development  of 
+stress  indicators  are:  (i) identification  of  suitable  variables,  (ii) developing  composite 
+indicators,  (iii)  testing  the  ability  for  detecting  vulnerabilities  at  an  early  stage,  and  finally 
+(iv) benchmarking. 
+53. 
+In India, we started publishing Financial Stability Reports in March 2010 and have 
+issued seven reports so far. The reports present the several quantitative techniques that we 
+are using within the Reserve Bank to assess risks to financial stability. They include stability 
+maps,  which  show  quantitative  shift  in  risk  perception  between  two  periods,  and  macro-
+stress  testing  to  assess  the  resilience  of  the  financial  system  to  adverse  macroeconomic 
+conditions. These indicators / models are being continuously reviewed and upgraded within 
+the Reserve Bank.  
+54. 
+In  a  nutshell,  considerable  research  effort  should  be  devoted  to  development  of 
+indicators for financial stability analysis, which in conjunction with sound judgment must be 
+employed for comprehensive assessment of the risks to the stability of the economy and the 
+financial system. 
+Conclusion 
+55. 
+i. 
+ii. 
+iii. 
+iv. 
+Let me now conclude. I have raised the following five conceptual issues: 
+Inflation measure for monetary policy in India: WPI or CPI? 
+Potential  output,  threshold  inflation  and  Taylor  rule  for  monetary  policy  reaction 
+function 
+Neutral interest rate and assessment of monetary policy stance 
+Equilibrium exchange rate – Why no single statistical measure is acceptable as a 
+consensus reference value? 
+Financial stability and stress indicators – way forward 
+v. 
+Through these issues I have tried to highlight the formidable challenges confronting 
+56. 
+statisticians 
+integrated  and  complex. 
+Simultaneously,  the  demands  on  statisticians  are  increasing  as  policy  makers  are  looking 
+towards them for robust and reliable technical analysis to guide policy making. I hope you will 
+reflect on some of these issues during the deliberations over the day. I wish the conference 
+all success.  
+in  a  world  which 
+is  becoming 
+increasingly 
+8 
+ BIS central bankers’ speeches 

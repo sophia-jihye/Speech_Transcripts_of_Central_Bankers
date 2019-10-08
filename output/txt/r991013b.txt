@@ -1,0 +1,231 @@
+Mr Mboweni discusses e-money and
+its impact on the central bank’s operations
+Address by Mr Tito Mboweni, Governor of the South African Reserve Bank, at the Sun Microsystems
+Conference 1999, held in Vodaworld, Midrand on 11 October 1999.
+ Introduction
+1.
+Electronic  commerce,  or  e-commerce,  is  the  catch-all  phrase  for  many  advances  in  technology
+centered on the Internet and heralds fundamental changes for the world economy. The expansion of
+the Internet on a global basis, has made it an ideal means to conduct commerce. In South Africa, as in
+the rest of the world, the Internet is being used more and more to advertise and sell goods and services.
+The Internet has brought about a need not only for micro payments, e.g. a small payment of perhaps
+only a few cents for viewing a specific piece of information, but also growing interest in developing
+more reliable and secure methods of payment for large commercial transactions.
+E-commerce and, perhaps more important from the Reserve Bank’s point of view, electronic money
+will probably have significant implications for most persons  and institutions. This  evening,  I  would
+like to concentrate only on  two  aspects,  namely  a  comparison  between electronic  payment  methods
+and the current conventional payment instruments, such as currency and credit cards, and the possible
+effect that e-money may have on the operations of the Reserve Bank.
+The development of e-commerce
+2.
+The Internet, and its application to e-commerce is turning many industries inside out. Some firms have
+tried  to  only  partially  adopt  the  new  e-commerce  technologies,  but  are  increasingly  realising  the
+importance of making e-commerce a seamless, integral part of their business plans. South Africa has
+begun to reach the stage where the previous wholesale financial markets structures are beginning to
+change  as  the  Internet  spreads  through  them.  Retail  investors,  empowered  by  the  web,  are  fast
+becoming much more proactive. Certain financial institutions face the prospect of traditional revenue
+streams  contracting  or  disappearing  altogether  as  the  Internet  brings  transparency  and  efficiency  to
+once closed areas. The financial world is taking e-commerce seriously, but no one knows exactly how
+or  how  quickly  these  new  technologies  will  change  the  business  landscape.  However,  one  thing  is
+certain – e-commerce will speed up the process of globalisation and will lay bare the weaknesses in
+any institution.
+Central banks worldwide are considering their positions with regard to electronic commerce, Internet
+banking and electronic money applications. There are a number of electronic money products which
+are  either  in  the  process  of  being  developed  or  are  already  available  for  electronic  payments  and
+banking and which are, or could be, activated through ATMs, telephonic devices, personal computers,
+intelligent cards and card-reading devices.
+Most central banks are specifically considering the impact these products and e-commerce will have
+on their functions, and the regulatory and operational requirements which are necessitated. In South
+Africa, several major banks have already launched Internet banking services and all the major banking
+groups are investigating, or developing, multi-purpose smart cards using microchip technology which
+enable electronic “purse” facilities.
+Although  these  new  payment  technologies  are  still  in  various  stages  of  development,  the  South
+African  Reserve  Bank,  as  other  central  banks  around the  world,  has  a  direct  interest  in  anticipating
+their  likely  policy  implications.  Emerging  electronic  money  products  may  require  regulatory
+adjustment or intervention which will arise from: the need to limit the systemic and other risks which
+may  threaten the stability  of,  and confidence in, the  National  Payment  System;  the  need  to  provide
+1
+BIS Review 109/1999
+consumers with adequate protection from unfair practices, fraud and financial loss; the need to ensure
+the  central  bank’s  ability  to  conduct  monetary  policy;  and  the  need  to  assist  law  enforcement
+authorities in the prevention of criminal activity.
+While these products are still being developed, the Bank is reluctant to impose regulation that could
+hamper the introduction of innovative and promising technologies. At this  stage,  the  Bank  is  of the
+view that it should rather concentrate on understanding the emerging technologies and the issues they
+represent. Opportunities which these new technologies offer should also be investigated and exploited
+to  the  benefit  of  the  country  as  a  whole,  i.e.  how  the  emerging  technologies  can  be  used  to  make
+financial  services  more  accessible  to  those  in  the  low  income,  unbanked  and  rural  communities  in
+South  Africa;  and  how  the  emerging  technologies  can  be  used  for  cash  displacement  and  to  solve
+problems such as the cost of cash handling and robberies.
+The characteristics of electronic payments
+3.
+Basically  two  methods  of  making  payments  can  be  distinguished.  The  first  is  the  account  transfer
+system. In this system customers issue instructions to banks to debit the account of the person making
+a payment and to credit the account of the person receiving the payment. Payment methods which fall
+into the  account  transfer  category  include cheques,  debit  cards,  credit  cards  and  telephone  banking.
+Depending  on  the  type  of  technology  that  is  used,  these  payments  can  in  some  cases  be  finalised
+immediately after they have been made, for  example  debit  card  transactions.  Other  account  transfer
+payments, notably cheques, are conditional, and will only be finalised with a delay.
+The second method of payments is the direct transfer or token system. In this system money or a form
+of money is established, which can be directly handed from one person to another, with or without the
+direct involvement of any bank in the transaction. These forms of money are purchased from an issuer,
+who  ultimately  carries  the  obligation  to  redeem  them.  The  transaction  is  final  at  the  point  when  it
+occurs, and is not dependent on the operation of some underlying settlement system. Cash is the most
+widespread  example  of  a  token  system,  but  in  fact  there  are  a  number  of  other  examples,  such  as
+multiple-trip train and bus tickets.
+In determining whether electronically stored monetary value is “money”, it is worth reflecting on the
+main attributes of currency, i.e. the notes and coins issued by the Reserve Bank. Currency is a standard
+product and is therefore easily recognised and identified. It is risk-free, in the sense that the Reserve
+Bank stands fully behind it. It is fully negotiable. Possession of currency is sufficient to  establish a
+right  of  use,  and  it  can  be  simply  handed  to  someone  else  in  order  to  make  a  payment.  Usage  is
+anonymous and not directly traceable. It is convenient and efficient for making small payments. It is
+valid for payment in all places and circumstances, and its status can only be questioned where forgery
+is suspected.
+Payments made by means of currency are definite. They are final and irrevocable at the point when
+they  are  made,  and  are  not  dependent  on  the  operation  of  any  clearing  or  settlement  arrangements.
+These attributes collectively imply that currency is generally accepted. However, it is not in all cases
+the  preferred  method  of  payment,  particularly  for  higher  value  transactions,  since  use  of  currency
+involves  handling,  storage  and  security  costs  which  may  not  arise  to  the  same  extent  with  other
+methods.
+Payment  by  means  of  certain  electronic  methods  score  well  on  some  aspects  and  poorly  on  others.
+However, the relative importance of these various attributes is very dependent on the type of payment
+being made. Cash can be very convenient in some situations, but a real nuisance in others – and the
+same is true for other technologies. Probably the key conclusion is that different payment technologies
+are  not  inherently  inferior  or  superior  to  one  another.  Rather,  each  one  of  them  has  an  appropriate
+place as, indeed, the current happy coexistence of a number of overlapping or competing alternatives
+clearly indicates.
+Stored value cards and other new forms of payment will result in some substitution, but the nature and
+extent  of  this  substitution  will  depend  on  a  number  of  factors.  People  will  tend  to  prefer  to  use
+payment technologies which are cheaper, more convenient, and less risky than available alternatives.
+BIS Review 109/1999
+2
+Many will  probably  prefer  methods  which  can  be  used  for  multiple  purposes, rather than  having  to
+utilise a variety of methods to meet different needs. The level of acceptance of particular payments by
+retailers,  merchants  and  other  suppliers  will  obviously  have  an  important  influence  on  the
+implementation of new approaches. Exactly how these influences will develop remains to be seen.
+From  the  Reserve  Bank’s  point  of  view  stored  value  cards  or  the  account  transfer  system  is  only
+important as a means of payment, but has no direct bearing on monetary policy.  In contrast to this,
+e-money  may  have  important  implications  for  monetary  policy.  That  is  why  the  Reserve  Bank  has
+decided  to  impose  certain  rules  and  regulations  on  e-money  products  in  terms  of  its  function  as
+overseer  of  the  National  Payment  System.  Before  considering  the  possible  monetary  policy
+implications  of  e-money,  I  want  to  briefly  describe  the  criteria that  will  be  used  in  deciding  on  the
+introduction of e-money in the National Payment System.
+E-money and the National Payment System
+4.
+In  the  National  Payment  System,  e-money  is  defined  as  electronically  stored  monetary  value  on  a
+technical  device,  either  card-based  or  network-based,  that  functions  as  a  prepaid  bearer  instrument,
+which can be widely used for making payments to undertakings other than the issuer, with or without
+involving bank accounts in the transaction.
+In  introducing  e-money  into  the  National  Payment  System,  it  must  firstly  fulfil  certain  legal
+requirements in which the rights and obligations of the respective participants must be clearly defined
+and  disclosed.  Any  proposed  e-money  scheme  will  accordingly  only  be  introduced  in  the  National
+Payment System if it does not contravene the South African Reserve Bank Act, The Banks Act and
+The National Payment System Act.
+Secondly, in order to protect the integrity of the National Payment System, the South African Reserve
+Bank,  in  its  role  as  overseer  of  this  system,  will  require  insight  into  risk-related  information.  The
+South African Reserve Bank reserves the right to  prescribe risk  management  and  security  measures
+prior to implementation of a scheme.
+Thirdly,  the  Bank  will  require  that  mechanisms  are  available  to  measure  and  control  the  supply  of
+rand-denominated  money.  This  is  necessary  because  e-money  could  potentially  affect  the  Reserve
+Bank’s ability to manage the money supply effectively.
+Fourthly, only banks are permitted to issue e-money. Primary and intermediary issuers of electronic
+value  will  therefore  be  subject  to  regulation  and  supervision  by  the  South  African  Reserve  Bank.
+Although  single  purpose  schemes  will  generally  fall  outside  the  definition  of  electronic  money,  the
+South African Reserve Bank will determine whether multi-purpose schemes fall within the definition
+or not.
+Lastly, issuers will be obliged to redeem electronic money value in central bank money, at par, upon
+request. The  management  of  the  underlying  float  and  redemption  of  electronic  money  value  by  the
+issuer to the holder must be clearly defined.
+E-money and monetary policy issues
+5.
+The Reserve Bank’s main interest in e-money is in three areas, i.e. the effect that it may have on the
+formulation of monetary policy, the issue of banknotes and coins and on the soundness of the financial
+system.
+The formulation of monetary policy
+(a)
+E-money  can  be  considered as  another innovation  in  a  series  of  new  financial  arrangements.  These
+new  arrangements  have  all  required  some  adjustments  in  the  formulation  of  monetary  policy,  and
+e-money is not likely to be an exception to the rule. As already indicated,  the  collection  of  data  on
+e-money is regarded as essential because the issue of e-money will affect the calculation of the money
+3
+BIS Review 109/1999
+supply,  an  important  indicator  in  the  formulation  of  monetary  policy  in  any  monetary  policy
+framework.  The  development  of  e-money  will  therefore  require  a  redefinition  of  the  monetary
+aggregates to include this form of money.
+It is at this stage difficult to determine what the effect of e-money will be on the value of the money
+supply.  To  the  extent  that  e-money  replaces  the  existing  banknotes  and  coins  on  a  one-for-one
+relationship,  the  redefinition  of  the  monetary  aggregates  would  leave  the  demand  for  money
+unchanged. However, to the extent that e-money allows people to economise in their overall holdings
+of currency, it could lead to a decline in the monetary aggregates. Similar deductions can also be made
+on  the  likely  effect  of  e-money  on  deposits  included  in  the  monetary  aggregates.  The  large  scale
+introduction of e-money may also influence the velocity of circulation of money, which will have to
+be  taken  into  consideration  by  the  monetary  authorities  in  the  formulation  of  monetary  policy.
+Nevertheless, the monetary aggregates should continue to be able to play much the same role as they
+currently play in monetary policy formulation, despite some difficulties that may be experienced in the
+transition period.
+Currency issue
+(b)
+The Reserve Bank Act gives the Bank the sole right to issue banknotes and coins in South Africa. The
+provision  of  currency  by  the  Reserve  Bank  under  a  statutory  monopoly  is  seen  as  a  useful  public
+service  which  provides  a  basis  on  which  other  payment  arrangements  and  contracts  must  rest.  The
+Bank’s  role  is  to  facilitate  and  encourage  overall  payment  system  efficiency  by  continuing  to  offer
+currency  as  just  one  payment  technology  amongst  several.  Alternative  payment  technologies  and
+innovations are freely allowed within this framework, and users are allowed to choose freely amongst
+the competing technologies.
+At  this  stage,  there  is  no  intention  that  the  Reserve  Bank  should  itself  issue  stored  value  cards,  or
+provide other forms of electronic money to the public. However, the possibility that this might happen
+at some point in the future cannot be completely ruled out. If electronic developments proceed to the
+point  where  payment  using  currency  becomes  inefficient  and  costly,  then  it  could  prove  to  be
+necessary to convert our paper and metal currency issue into electronic form.
+Electronic  payment  developments  (and  any  erosion  of  the  currency  issue  that  may  result)  do  not
+appear  to  pose  any  threat  to  the  Reserve  Bank’s  ability  to  implement  monetary  policy  in  the
+foreseeable future. Even if they did pose such a threat, the appropriate response would probably not be
+to  seek  to  control  or  prevent  such  developments.  It  would  generally  be  much  better  to  adapt  the
+monetary policy operational procedures to the realities of the market place.
+Prudential issues
+(c)
+The issue of e-money could be a risky business, because the monetary amount stored on a card or on a
+network is only as good as the bank or other organisation which has the ultimate ability to pay on that
+obligation. This may not be a serious concern in the case of low-value balances. However, it becomes
+much more serious with higher-value balances. Such problems do, of course, not arise in the issuing of
+banknotes and coins. These currency liabilities form part of the Reserve Bank’s overall liabilities and a
+guarantee is provided to the bearer that they will be replaced with currency of an equal value.
+The  issue  of  e-money  will  also  increase  the  risk  of  counterfeiting.  Depending  on  the  technical
+characteristics of each system, counterfeiting could take place by physical reproduction of cards, by
+manufacture of a “re-loading mechanism” which could be fraudulently used to add new balances to
+authentic  cards,  or  by  “hacking”  into  the  payments  systems  themselves.  With  some  technologies,  it
+might be difficult or impossible for the recipient of an electronic payment, or even for an issuer, to
+detect  an  electronic  counterfeit.  Telephone  card  fraud  alone  for  example  cost  Telkom  more  than
+R13 million  in  the  three  financial  years  ending  August  1999.  By  contrast,  counterfeit  currency  can
+usually  be  detected  by  a  recipient  and  the  Reserve  Bank  as  issuer  scrutinises  banknotes  and  coins
+carefully to  prevent counterfeiting.  Sophisticated security  features  will  reduce  the  risk  of  successful
+electronic counterfeiting, but with the lucrative possible returns it will be difficult to rule them out.
+BIS Review 109/1999
+4
+Issuers will therefore have to take great care to ensure that the dangers of counterfeiting is minimised,
+and they should be vigilant in monitoring their systems and operations so that counterfeiting is quickly
+detected.  Even  more  important  is  that  when  South  African  residents  get  involved  in  payment
+arrangements which are effectively domiciled outside South Africa, they need to understand who it is
+that  they  are  dealing  with,  where  the  counterparties  are  legally  located,  whether  they  have  an
+appropriate  standing,  and  what  potential  risks  they  may  face  –  either  by  holding  balances  within  a
+system,  or  by  using  those  balances  in  a  transaction.  This  information  may  not  always  be  readily
+available or may be difficult to evaluate.
+Both  the  holders  of  new  forms  of  electronic  money,  and  the  issuers,  face  potential  risks  in  certain
+circumstances.  Some  of  these  are  reasonably  easy  to  understand  and  evaluate,  and  may  not  be  any
+more  serious  than  the  risks  which  exist  at  present,  such  as  losing  your  wallet.  However,  the  risk
+characteristics of schemes involving elements such as multiple issuers, many members, many business
+organisations, multiple jurisdictions, delay or complexity in any settlement arrangements, or lack  of
+any audit trails are most certainly not all straightforward.
+Conclusion
+6.
+The introduction of e-money and for that matter all forms of e-commerce will accordingly create new
+problems  for  the  business  community,  but  will  also  create  new  opportunities  for  a  more  efficient
+payment system. The Reserve Bank is not too concerned about these new developments at this stage.
+Customer  needs  are  likely  to  be  best  met  through  effective  competition,  and  this  will  require  that
+genuine choices amongst alternative products are available. Fast and efficient means of pricing trades,
+handling client relationships and redesigning distribution structures are being enabled by the Internet.
+More  widespread  uses  of  these  new  methods  will  create  opportunities  for  financial  innovations.
+However,  the  Bank  will  be  watching  these  new  developments  carefully,  in  order  to  ensure  that  the
+integrity of South Africa’s financial system is always maintained.
+5
+BIS Review 109/1999

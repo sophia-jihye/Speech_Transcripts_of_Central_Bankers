@@ -1,0 +1,940 @@
+Andrew G Haldane: Risk off 
+Paper  by  Mr  Andrew  G  Haldane,  Executive  Director,  Financial  Stability,  of  the  Bank  of 
+England, 18 August 2011. 
+ The views are not necessarily those of the Bank of England or the Financial Policy Committee. I would like to 
+thank  Aashish  Pattani,  Ben  Broadbent,  Srishti  Chhabra,  David  Gregory,  Priya  Kothari,  James  McBride,  Lewis 
+Webber and Nicola Worrow for comments and contributions. 
+Four  years  on  from  the  start  of  the  Great  Recession,  the  world  economy  is  cloaked  in 
+uncertainty.  The  story  so  far  is  well  understood.  Over-extension  of  private  sector  balance 
+sheets  –  in  particular  among  banks  –  sowed  the  seeds  of  the  crisis.  Those  private  sector 
+risks  have  since  been  socialised,  either  directly  through  support  for  the  financial  sector  or 
+indirectly through lower aggregate output in the economy at large.  
+That  socialisation  has  caused  balance  sheet  risk  to  migrate  from  the  private  to  the  public 
+sectors. Today, these public sector balance sheets strains are most visible in Europe where 
+a number of countries remain under the sovereign searchlight. But outside Europe, two of the 
+world’s three largest economies – the United States and Japan – have been the subject of 
+ratings  action.  And  sovereign  CDS  spreads  among  advanced  countries  are  at  their 
+highest-ever levels. 
+Four years on from the start of the Great Depression, the world economy was also cloaked in 
+uncertainty.  In  his  inaugural  address  in  1933,  newly-elected  President  Roosevelt  famously 
+captured the mood of the moment: “the only thing we have to fear is fear itself”. That fear 
+factor is once again pervasive today. But do we have nothing to fear? And what role might 
+policy – in particular macro-prudential policy – play in allaying those fears?  
+Emerging from the Great Recession 
+The path out of recession is invariably a bumpy one. This time’s Great Recession is unlikely 
+to be an exception. Chart 1 compares the recent path of UK GDP with that following previous 
+GDP dips: the Great Depression of the 1930s and the UK recession of the early 1990s. To 
+date, GDP has steered a middle path, somewhat stronger than in the 1930s but weaker than 
+in the early 1990s recovery. 
+If past recessionary experience is any guide, the UK’s GDP trajectory might be expected to 
+pick up pace from here. Most external forecasts remain broadly consistent with that view. But 
+the  risks  around  this  path  are  considerable,  as  recent  indicators  of  slowing  global  activity 
+attest. This is not altogether surprising. Crisis-induced recessions are deeper and longer, on 
+average taking up to three years to return to their pre-crisis peak (Chart 2).  
+Some take longer still. Following the Great Depression, UK GDP only recovered its pre-crisis 
+level  after  5  years.  The  US  recovered  its  pre-crisis  level  after  7  years  (Chart  3).  Having 
+reached this point, the US economy then lurched downwards again in 1937; it double-dipped. 
+Roosevelt had been wrong in 1933. With hindsight, there had been plenty to fear.  
+As in 1933, the fear factor is rife in today’s financial markets. The prompt has been sovereign 
+debt concerns in parts of Europe and the United States. This is but the latest – and most 
+severe – in a series of waves in sentiment since the onset of the crisis. Risk appetite has 
+yo-yoed. In the language of the market, it has alternated between periods of “risk on” and 
+“risk off”. Having been indecisive, financial markets are now not so sure.  
+That is reflected in surveyed measures of market participants’ risk appetite (Chart 4). These 
+were  at  above-average  levels  between  2005  and  2007  at  the  height  of  the  boom.  During 
+2008, risk appetite dramatically tailed-off. At its low-point in early 2009, it was more than two 
+BIS central bankers’ speeches 
+ 1
+standard  deviations  below  normal.  Since  then  it  has  ebbed  (risk  off)  and  flowed  (risk  on). 
+Today, it is around one standard deviation below normal and falling. Risk is “off”.  
+Market metrics corroborate this story of acute risk aversion. The demand for safe assets has 
+risen  significantly.  At  a  10-year  maturity,  US  government  benchmark  bond  yields  are  at 
+around  their  lowest  levels  in  over  two  centuries  (Chart  5)  –  despite  the  recent  scare  over 
+US debt  ceilings  and  subsequent  downgrade.  Long-term  UK  bond  yields  are  also  close  to 
+historic lows, as are investment grade corporate bond yields. 
+The price of gold has risen even more dramatically. Real gold prices have more than doubled 
+since 2008, edging towards their previous high-water mark after the oil price shocks of the 
+late  1970s  (Chart  6).  Safe-haven  flows  to  the  Swiss  franc  have  boosted  its  value  by  over 
+30%  against  both  the  euro  and  the  dollar  since  September  2008.  The  reach-for-return, 
+familiar at times in the past, has flipped into a scramble-for-safety. 
+Risky assets tell a similar tale. The compensation investors demand for risk – the so-called 
+risk  premium  –  in  advanced  economy  equities  and  investment  grade  corporate  bonds  is 
+above  or  in  line  with  its  long-term  average  value.  Bank  lending  spreads,  which  embody  a 
+compensation  for  risk,  are  materially  higher  for  all  classes  of  borrower.  And  measures  of 
+equity market uncertainty, such as the VIX, are at levels not seen since early 2009 (Chart 7). 
+Not for nothing has the VIX become known as the “fear index”.  
+Some risky assets have fared better. Since their trough in late 2008, global high yield debt 
+prices  have  risen  by  two-thirds,  emerging  markets  equities  have  roughly  doubled,  while 
+commodity prices have risen by even more. But even these assets have recently fallen from 
+their peaks. Investors have concluded this is not a time for bravery. For much of this century, 
+risk was cheap. Today it is expensive. 
+Market  participants’  willingness  to  put  risk  capital  to  work  can  be  seen  in  measures  of 
+financial market liquidity. Those have also yo-yoed (Chart 8). Excess liquidity during the first 
+half of the century gave way to plummeting liquidity during the depths of the crisis. Today, 
+despite rock-bottom global interest rates, market liquidity remains below normal levels. Risk 
+capital is parked on the sidelines. 
+Balance sheet repair  
+So  what  explains  this  continuing  aversion  to  risk?  Two  factors  are  central:  balance  sheet 
+disrepair and psychological scarring. In other words, both balance sheet fundamentals and 
+market  perceptions,  perhaps  detached  from  fundamentals,  appear  to  be  weighing  on 
+risk-taking. 
+Since  the  start  of  the  crisis,  balance  sheets  have  been  a  good  news/bad  news  story.  The 
+good news is that balance sheet repair is underway in many sectors and countries. The bad 
+news  is  that  this  process  appears  to  be  far  from  complete,  providing  a  continuing  strong 
+headwind  to  risk-taking.  Consider  in  turn  the  balance  sheets  of  banks,  households, 
+companies and governments.  
+Pre-crisis, banks’ balance sheets were furthest out of kilter. Average leverage in the global 
+banking  system  –  the  ratio  of  banks’  assets  to  their  equity  –  rose  to  highs  of  over 
+40 (Chart 9). At the height of the boom, every $1 of bank assets was financed with $98 cents 
+of debt. The global banking system was financing itself with a 98% loan-to-value mortgage.  
+Since  then,  global  banks  have  raised  their  equity  by  around  $500  billion  and  shrunk  their 
+assets by $3 trillion. As a result, global banks’ leverage has halved to around 20, close to its 
+long-run  average.  Today,  every  $1  of  bank  assets  is  financed  with  $95  cents  of  debt  –  a 
+more modest, though still racy, 95% loan-to-value mortgage. Banks’ liquid assets have risen 
+even more dramatically. UK and US banks’ cash ratios are at their highest levels for several 
+decades. 
+2 
+ BIS central bankers’ speeches
+But this balance sheet adjustment appears to be far from complete. Banks are midstream in 
+their  adjustment  to  new  regulatory  standards  and,  in  some  cases,  new  business  models. 
+That  is  reflected  in  expectations  of  banks’  future  profitability.  These  remain  weak.  Recent 
+results for the major global banks delivered returns to equity well below target and closer to 
+average levels from the previous century of around 10%.  
+Weak  profit  prospects  are  mirrored  in  equity  prices.  Today,  the  average  market  price  of 
+global banks’ equity is slightly below its book value, having traded at a significant premium 
+for  much  of  the  past  20  years  (Chart  10).  Around  three-quarters  of  the  world’s  20  largest 
+global  banks  have  price-to-book  ratios  below  one.  Equity  prices  for  these  banks  are,  on 
+average, back to levels last seen in 1998. For long-term holders of global bank equity, this 
+has been a lost decade (and a bit). 
+As equity prices have fallen, market-based measures of bank leverage – the ratio of bank 
+assets to the market value of their equity – have risen. During the crisis, such market-based 
+measures of leverage did a much better job of identifying problem banks than conventional 
+risk-weighted  capital  ratios.1  So  measured,  the  world’s  largest  20  banks  are  at  present 
+around 36 times levered. That is a loan-to-value mortgage of around 97%. 
+The  household  sector,  too,  has  been  repairing  its  balance  sheet.  On  average  across  the 
+US, UK and euro-area, households are running a financial surplus of around 2.5% of GDP 
+(Chart 11). As recently as 2006, they were running a financial deficit of 1% of GDP. Since 
+2007,  around  £100bn  has  been  repaid  each  year  by  UK  households.  Deleveraging  is 
+underway.  
+Yet this aggregate picture masks some important distributional differences. There remains a 
+sizable tail of over-indebted households vulnerable to a worsening of financial conditions. In 
+the UK, the proportion of households in negative equity is 1 in 14. In the US, it is 1 in 4. With 
+house prices falling in both countries, that fraction may rise further. 
+The  tail  of  “vulnerable”  households  (those  with  limited  or  no  equity  in  their  property  and 
+reporting problems servicing their debt) is high and rising. So defined, vulnerable households 
+in  the  UK  account  for  15%  of  household  secured  debt  and  35%  of  unsecured  debt 
+(Chart 12).  These  shares  have  risen  over  the  past  three  years,  by  around  5  and 
+10 percentage points respectively, despite interest rates being at rock-bottom. 
+The  picture  in  the  corporate  sector  is,  in  some  respects,  not  dissimilar.  Companies  in  the 
+main  advanced  countries  are  running  significant  financial surpluses,  on  average  of  around 
+2.5%  of  GDP  (Chart  13).  Pre-crisis,  companies  were  running  financial  deficits  of  around 
+1% of  GDP.  The  cash  position  of  the  corporate  sector  is  even  more  striking,  with  large 
+UK corporates’ stock of cash up by over 40% since 2006.  
+But as among households, this picture of aggregate health conceals a long tail. A number of 
+companies appear to be struggling to meet interest payments even at ultra-low interest rates. 
+The fraction of companies whose profits do not cover interest payments has actually risen 
+slightly since the crisis; it is currently around one third (Chart 14). Within some sectors, such 
+as property, debt-servicing capacity has deteriorated sharply.  
+Despite these balance sheet headwinds, the macroeconomic situation today is far better than 
+at  the  time  of  the  Great  Depression  –  with  one  exception.  The  exception  is  government 
+finances.  Despite  the  much  smaller  fall  in  GDP,  UK  government  debt-to-GDP  ratios  have 
+deteriorated  more  than  in  the  1930s  (Chart  15).  This  pattern  is  mirrored  across  advanced 
+economies.  The  IMF  expect  debt-to-GDP  ratios  in  the  G7  economies  this  year  to  breach 
+100% of GDP for the first time since the Second World War (Chart 16).  
+                                                 
+1  Perhaps  because  banks’  asset  measurement  is  not  distorted  by  errors  in  risk  weights  and  equity 
+measurement is forward-looking and not distorted by different capital definitions – see Haldane (2011). 
+BIS central bankers’ speeches 
+ 3
+There is no magic number for debt ratios. But the historical record is revealing. Historically, 
+ratios  in  excess  of  90–100%  of  GDP  have  been  found  to  exert  a  lasting  drag  on  growth, 
+perhaps  of  around  1  percentage  point.2  At  these  levels,  government  debt  has  in  the  past 
+been  growth-sapping  –  and  fear-enhancing.  That  adds  to  pressures on  debt  sustainability, 
+which depends importantly on the wedge between interest costs and GDP growth. 
+Psychological scarring  
+These  balance  sheet  scars  are  real.  But  in  financial  markets,  risk  perceptions  are  as 
+important as reality. Behavioural economics tells us that financial crashes can leave lasting 
+psychological scars on risk-taking. These mean that perceptions of risk can be systematically 
+over-stated – the fear of fear itself. 
+One  potent  psychological  factor  is  disaster  myopia.  Psychologists  know  from  experimental 
+evidence that, faced with uncertainty, people base their judgements on simple rules of thumb 
+or heuristics.3 One such rule of thumb is the “availability heuristic”. This states that agents 
+base  probabilistic  assessments  on  the  ease  with  which  an  event  can  be  brought  to  mind: 
+how recently it has occurred, how severe are its effects and how personal is the experience. 
+Car  crashes  are  the  classic  example.  These  often  arise  from  disaster  myopia,  as  drivers 
+systematically under-estimate the probability of a pile-up and drive too fast. The longer the 
+period  since  the  last  crash,  the  greater  the  risk-taking.  After  a  lengthy  stretch  of  clear 
+motorway,  risk  appetite  may  become  too  healthy,  and  risk-taking  too  great,  relative  to  the 
+true probability of disaster. In other words, drivers are disaster-myopic.  
+Should a crash occur, however, risk-taking incentives go into reverse gear. Their closeness 
+to  a  disaster  event  causes  drivers  to  move  more  slowly  than  might  be  justified  by  the 
+underlying  risk.  The  experience  heuristic  leads  to  an  over-weighting  of  recent,  severe, 
+personal events. Risk appetite then switches from too high to too low relative to the true risk. 
+The result is traffic congestion.  
+Financial crashes and car crashes have common psychological roots. One of the causes of 
+the  crisis  was  an  under-pricing  of  risk.  That  was  rooted  in  disaster  myopia  –  an 
+under-estimation  of  risk  during  the  so-called  Great  Moderation.  Memories  of  financial 
+disaster had faded, with the Great Depression in almost no-one’s experience sample. The 
+upshot was an over-healthy appetite for risk-taking. 
+The  subsequent  crash  has  turned  these  behaviours  on  their  head.  Memories  of  financial 
+disaster  are  now  fresh,  as  after  the  Great  Depression,  causing  an  over-estimation  of  the 
+probability of a repeat disaster. In these situations, psychological scarring is likely to result in 
+risk appetite and risk-taking being lower than reality might suggest. Risk will be over-priced. 
+Today, the very disaster myopia that caused the crisis may be retarding the recovery.  
+Disaster myopia may be more potent in the markets than on the motorways. Asset prices are 
+guesses about the future. Faced with uncertainty about the future, market participants form 
+these guesses using their own heuristics. One such heuristic is the “popular narrative” – a 
+simple story that aims to make sense of reality. Risk on/risk off is precisely such a popular 
+narrative.4  
+The effect of popular narratives is to increase psychological contagion in financial markets. 
+Simple  stories  generate  market  mood  swings.  The  greater  the  uncertainty,  the  more 
+compelling  the  simple  story  and  the  greater  the  amplitude  of  these  mood  swings.  These 
+                                                 
+2  Reinhart and Rogoff (2010). 
+3  For example, Tversky and Kahneman (1974). 
+4  For example, Akerlof and Shiller (2009), Tuckett (2011) 
+4 
+ BIS central bankers’ speeches
+swings  in  turn  result  in  a  detachment  of  risk  perceptions,  and  hence  asset  prices,  from 
+reality.  
+Financial trauma, like personal trauma, can increase this detachment from fundamentals. For 
+those who lived through it, the Great Depression had a lasting effect on financial risk-taking. 
+“Depression  Babies”  have  been  shown  to  seek  less  risky  capital  structures  and  to  avoid 
+financial stocks.5 The scarring effects of the Great Depression on risk attitudes help explain 
+the excess premium demanded by equity investors during the previous century.6 The Great 
+Depression left risk-taking scars that lasted a lifetime. 
+The Great Depression has now been lost from most investors’ experience sample. Indeed, 
+that fact might help explain another popular narrative from the past – the Great Moderation. 
+But the Great Depression has recently been replaced in investors’ experience sample by the 
+Great Recession. Whether this will spawn an era of “Recession Babies”, with a permanently 
+lower appetite for financial risk-taking, remains to be seen. But past evidence suggests that 
+any recovery in risk appetite might take time – more time than fundamentals would imply.  
+All of these behavioural elements have come together in today’s financial markets – disaster 
+myopia, intrinsic uncertainty and deep trauma. This may help explain why risk-takers have 
+their foot poised on both brake and accelerator, why risk capital is in stop-start mode. That 
+implies  a  risk  of  heavy  and  persistent  financial  congestion  in  the  period  ahead.  With 
+hindsight,  Roosevelt’s 
+in  1933  was  well-founded,  economically  and 
+psychologically. It may also be being repeated. 
+fear  (of 
+fear) 
+fiscal  policy, 
+The role of macro-prudential policy 
+As  long  as  aversion  to  risk-taking  is  causing  financial  congestion,  growth  (like  traffic)  will 
+remain sluggish. The public policy question, then, is whether anything can be done to allay 
+the fear factor, speed the repair of balance sheets and stimulate risk-taking.  
+Experience during the Great Depression taught us a great deal about the role of fiscal and 
+monetary policy in these situations. Indeed, in many respects the Great Depression was the 
+birthplace  of  activist  monetary  and 
+today’s  conventional  arms  of 
+macro-economic policy. For different reasons, however, these arms are at present close to 
+fully  stretched.  In  countering  the  fear  factor,  that  begs  the  question  of  what  else  might  be 
+done?  
+With fortuitous timing, there is a new tool in the box, a third arm of macro-economic policy. 
+This is so-called macro-prudential policy. As its name implies, this policy tool is intended to 
+meet  macro  ends  using  prudential  means.  The  UK  has  recently  put  in  place  an  explicit 
+macro-prudential regime. In July of last year, the UK government announced a new Financial 
+Policy Committee (FPC) to execute macro-prudential policy.7 The FPC is housed in the Bank 
+of England and met for the first time in June this year.  
+The  FPC’s  objective  is  to  protect  and  enhance  the  resilience  of  the  UK  financial  system 
+against risks including “unsustainable levels of leverage, debt or credit growth”. Therein lies a 
+key  FPC  challenge.  There  is  evidence  of  unsustainably  high  levels  of  leverage  in  some 
+sectors.  But  elsewhere,  there  is  evidence  of  credit  growth  being  unsustainably  low.  Some 
+companies  remain  over-leveraged.  Yet  others  are  suffering  a  credit  shortage,  with  bank 
+lending to companies continuing to contract over the past 12 months.  
+                                                 
+5  For example, Graham and Narasimhan (2004), Malmendier and Nagel (2011). 
+6  For example, Cogley and Sargent (2008), Barro (2006). 
+7  HM Treasury (2010). 
+BIS central bankers’ speeches 
+ 5
+In framing macro-prudential policy today, both these factors need to be weighed: on the one 
+hand,  enhancements  to  the  risk-bearing  capacity  of  the  financial  system  to  repair  balance 
+sheets; on the other, encouragement for the risk-taking capacity of the system to boost credit 
+supply. These factors can sometimes point in subtly different directions. The first might point 
+to higher buffers to boost banks’ risk-bearing capacity, while the second might point to lower 
+buffers to boost their risk-taking capacity. 
+Faced with that balancing act, one of the FPC’s recommendations in June was for banks to 
+raise  their  levels  of  capital  opportunistically.  That  meant  banks  should  retain,  rather  than 
+distribute to shareholders or staff, any windfall profits. Additional retained profits could then 
+be used either as insurance against future risk (risk-bearing) and/or to finance extra lending 
+(risk-taking).  In  other  words,  opportunistic  capital-raising  could  help  banks  hit  the  twin 
+objectives of risk-bearing and risk-taking with a single stone. 
+Looking ahead, the balance of these forces may tilt again. Risk-taking is in retreat. And past 
+crisis experience suggests that the contraction of lending internationally may have further to 
+run  (Chart  17).  The  FPC,  like  the  MPC,  needs  to  act  symmetrically  in  response  to  these 
+developments. Its job is to cushion the fall as well as arrest the rise in credit and debt.  
+One  practical  role  for  macro-prudential  policy  in  these  situations  is  to  communicate  about 
+risks to the system to better enable these risks to be priced. If risk is over-priced, and agents 
+over-pessimistic,  communicating  that  might  help  in  correcting  overshoots  in  risk  appetite. 
+That was precisely the role played by Roosevelt’s inauguration speech in 1933. It provided 
+an alternative, more optimistic, popular narrative for financial markets. It aimed to reduce the 
+risk of psychological contagion. It worked. Risk appetite and real activity recovered between 
+1933  and  1937.  A  more  optimistic  popular  narrative  might  have  a  role  to  play  in  helping 
+correct today’s market pessimism. 
+A  second  practical  role  for  macro-prudential  policy  is  to  make  recommendations  for  how 
+regulation might contribute towards moderating the credit cycle. The Basel Committee has 
+recently  developed  guidelines 
+tool  –  banks’ 
+counter-cyclical  capital  buffer.  This  guideline  is  based  on  deviations  in  the  ratio  of 
+credit-to-GDP from its long-term trend. This has been shown to be a reliable early warning 
+indicator  of  future  crises  across  a  wide  range  of  countries.  It  is  akin  to  a  Taylor  rule  for 
+macro-prudential policy.  
+Chart 18 plots the path of the UK credit-to-GDP guide-path over recent years. Unsurprisingly, 
+it  suggests  that  UK  banks’  capital  ratios  should  have  been  tightened  in  the  run-up  to  the 
+crisis,  with  credit-to-GDP  above  its  long-term  trend  by  up  to  10  percentage  points.  That 
+disequilibrium  has  since  been  completely  eliminated  as  credit  growth  has  collapsed. 
+Currently, the guide-path is close to cycle-neutral. Any further fall would put credit below its 
+cycle-neutral level, implying a loosening to support risk-taking. 
+Setting  regulation  to  boost  risk-taking  may  feel  like  a  new  and  radical  departure  from  the 
+past.  But  in  fact  it  is  neither  as  radical  nor  as  new  as  it  might  first  appear.  In  1938,  the 
+US was facing a double-dip recession. Criticism of banks’ unwillingness to lend to the real 
+economy  was  rampant.  Fear  in  financial  markets  was  mounting.  The  situation  was  eerily 
+reminiscent of today.  
+At  that  point,  Roosevelt  turned  macro-prudential.  In  the  Uniform  Agreement  on  Bank 
+Supervisory Procedures, a relaxation of prudential and valuation standards was announced 
+for US banks. This aimed explicitly to support lending and activity in the real economy, “the 
+activist goal of liberalizing bank examinations to make them dynamically adjustable to current 
+economic policies”.8 It worked. Lending and growth resumed.  
+for  one  potential  macro-prudential 
+                                                 
+8  Simonson and Hempel (1993). 
+6 
+ BIS central bankers’ speeches
+In the period since, the first two arms of macro-economic policy – monetary and fiscal – have 
+been used actively. The third – macro-prudential – has been tied behind policymakers’ back. 
+The crisis of the past few years has highlighted the need to free the macro-prudential arm of 
+policy. As in the 1930s, macro-prudential policy may have a role to play in shouldering the 
+heavy burden of damaged balance sheets and diminished risk appetites. 
+References 
+Akerlof,  G,  and  Shiller,  R  (2009),  “Animal  Spirits:  How  Human  Psycology  Drives  the 
+Economy, and Why It Matters for Global Capitalism”, Princeton University Press.  
+Barro,  R  (2006),  “Rare  Disasters  and  Asset  Markets  in  the  Twentieth  Century”,  Quarterly 
+Journal of Economics, 121 (2006), pp. 823–866. 
+Cogley, T, and Sargent, T J (2008), “The Market Price of Risk and the Equity Premium: A 
+Legacy  of  the  Great  Depression?,  Journal  of  Monetary  Economics,  Volume  55,  Issue  3, 
+pp. 454–476. 
+Graham, J R, and Narasimhan, K (2004), “Corporate Survival and Managerial Experiences 
+During the Great Depression”, Working Paper. 
+Haldane, A (2011), “Capital Discipline”, available at 
+ http://www.bankofengland.co.uk/publications/speeches/2011/speech484.pdf.  
+HM  Treasury  (2010),  “A  new  approach  to  financial  regulation:  judgement,  focus  and 
+stability”, July, available at 
+ http://www.hm-treasury.gov.uk/d/consult_financial_regulation_condoc.pdf.  
+Malmendier, U, and Nagel, S (2011), “Depression Babies: Do Macroeconomic Experiences 
+Affect  Risk-Taking?”,  Quarterly  Journal  of  Economics,  February  2011,  vol.  126(1), 
+pp. 373–416. 
+Reinhart, C M, and Rogoff, K S (2010), “Growth in a Time of Debt”, American Economic 
+Review, American Economic Association, vol. 100(2), pp. 573–78, May. 
+Simonson,  D  G,  and  Hempel,  G  H  (1993),  “Banking  Lessons  from  the  Past:  The  1938 
+Regulatory Agreement Interpreted”, Journal of Financial Services Research, pp. 249–267. 
+Tuckett, D (2011), “Minding the Markets: An Emotional Finance View of Financial Instability”, 
+Palgrave Maxmillan. 
+Tversky,  A,  and  Kahneman,  D  (1974),  “Judgement  under  Uncertainty:  Heuristics  and 
+Biases”, Science, New series, Vol.185, No 4157, pp. 1124–1131.  
+BIS central bankers’ speeches 
+ 7
+Chart 1: 
+Changes to UK real GDP 
+in crisis periods 
+1929 crash
+1990 recession
+2008 financial crisis
+cumulative % change
+since start of recession
+16
+12
+8
+4
+0
+-4
+-8
+0
+ 0
+1
+2
+4
+years since crisis
+3
+5
+6
+Chart 2:  
+Recessions and recoveries 
+Interquartile range financial recessions
+Financial recessions
+Normal recessions
+Mean time to trough
+Mean time to trough
+Index: GDP peak = 100
+106
+104
+102
+100
+98
+96
+3
+ 1
+2
+Years from peak in output
+for  National  Statistics,  Thomson 
+Sources:  Office 
+Reuters Datastream and Bank calculations. 
+ 
+International  Monetary  Fund  and  Bank  calculations. 
+Sources: 
+(http://www.imf.org/external/pubs/ft/weo/2009/01/index.htm )  
+ 
+8 
+ BIS central bankers’ speeches
+Chart 3:  
+Changes to US real GDP 
+in crisis periods 
+Chart 4:  
+Risk appetite(a) 
+1929 crash
+1982 recession
+2008 financial crisis
+cumulative % change
+since start of recession
+40
+30
+20
+10
+0
+-10
+-20
+-30
+ 7
+8
+9
+10
+Standard deviations from mean (b)
+2.5
+2
+1.5
+1
+0.5
+0
+-0.5
+-1
+-1.5
+-2
+-2.5
+State Street
+Credit Suisse
+0
+1
+2
+3
+5
+4
+years since crisis
+6
+04
+05
+06
+07
+08
+09
+10
+ Sources:  Global  Financial  Data,  Case-Shiller,  Federal 
+Reserve,  US  government  bodies  (Department  of 
+Commerce, Department of Labor, Council of Economic 
+Advisers) and Bank calculations. 
+ 
+Sources:  Bloomberg,  Credit  Suisse  and  Bank 
+calculations.  
+(a)  Indices  are  adjusted  so  that  positive  numbers 
+indicate  increased  risk-taking  and  negative  numbers 
+indicate reduced risk-taking. 
+(b) 90-day moving average of standard deviations from 
+mean.  Mean  and  standard  deviation  calculated  from 
+28 July 2004. 
+ 
+Chart 5:  
+Chart 6:  
+Long run government bond yields(a)  
+Long run gold prices(a) 
+Per cent
+US dollars per troy ounce (1980 prices)
+US
+UK
+1800      1840         1880         1920         1960          2000 
+ 
+Source: Global Financial Data. 
+16
+14
+12
+10
+8
+6
+4
+2
+0
+ (a) US yields are on 10 year bonds. UK yields are on 
+consolidated  stock  up  to  1957;  10  year  bonds  after 
+1957. 
+800
+700
+600
+500
+400
+300
+200
+100
+0
+ 1950    1960
+1970       1980     1990     2000      2010 
+Sources:  Bloomberg,  Global  Financial  Data  and  Bank 
+calculations. 
+(a)  Deflated  using  US  CPI.  CPI  for  July  and  August 
+2011 is projected.  
+ 
+BIS central bankers’ speeches 
+ 9
+Chart 7: 
+VIX Index(a) 
+Per cent
+90
+Chart 8: 
+Market liquidity 
+80
+70
+60
+50
+40
+30
+20
+10
+0
+ 92
+94
+96
+98
+00
+02
+04
+06
+08
+Index (a)
+1.5
+1.0
+0.5
+0.0
+-0.5
+-1.0
+-1.5
+-2.0
+-2.5
+-3.0
+-3.5
+10
+ Sources: Bank of England, Bloomberg, Chicago Board 
+Options  Exchange,  Debt  Management  Office,  London 
+Stock  Exchange,  Bank  of  America  Merrill  Lynch, 
+Thomson Reuters Datastream and Bank calculations. 
+volumes, 
+(a)  90-day  moving  average  of  index.  Index  represents 
+number  of  standard  deviations  from  the  mean  of  a 
+range of market liquidity measures, incorporating prices 
+and 
+period
+1999–2004. The indicator is more reliable after 1997 as 
+it 
+is  based  on  a  greater  number  of  underlying 
+measures.  See  also  Box  1  of  the  April  2007  Bank  of 
+England Financial Stability Report. 
+ 
+normalised 
+the 
+on 
+2007         2008            2009              2010             2011
+Source: Global Financial Data. 
+(a) S&P 500 implied volatility (daily closing prices). 
+ 10 
+ BIS central bankers’ speeches
+ Chart 9: 
+Major UK banks’ and LCFIs’ 
+leverage ratios(a)(b) 
+Chart 10: 
+Major UK banks’ and LCFIs’ 
+price to book ratios(a) 
+European LCFIs
+US LCFIs
+Major UK banks (b)
+Ratio
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+91
+93
+95
+97
+99
+01
+03
+05
+07
+09
+11
+ 
+Sources:  Bloomberg,  Thomson  Reuters  Datastream 
+and Bank calculations. 
+(a) Chart shows the ratio of share price to book value 
+per share. Simple averages of the ratios in each peer 
+group are used. The chart plots the three-month rolling 
+average. 
+(b)  Excludes  Northern  Rock 
+Nationwide and Britannia. 
+ 
+(from  end-2007), 
+Maximum-minimum range
+Weighted average
+US LCFIs
+European 
+LCFIs
+Major UK 
+banks (c)
+7
+0
+0
+2
+8
+0
+9
+0
+0
+1
+1
+1
+Adj. 
+(d)
+Q1
+7
+0
+0
+2
+8
+0
+9
+0
+0
+1
+Adj. 
+(d)
+8
+0
+9
+0
+0
+1
+7
+0
+0
+2
+Ratio
+120
+100
+80
+60
+40
+20
+0
+ Sources:  Bank  of  England,  published  accounts  and 
+Bank calculations. 
+(a) Leverage ratio defined as assets divided by capital. 
+Assets  are  adjusted  for  cash  items,  tax  assets, 
+goodwill  and 
+total 
+shareholders'  equity  adjusted  for  minority  interest, 
+preference shares, goodwill and intangibles. 
+intangibles.  Capital 
+includes 
+(b) Assets are also adjusted on a best-efforts basis to 
+achieve  comparability  between  US  GAAP  and  IFRS 
+with  respect  to  derivatives  and  off-balance  sheet 
+vehicles.  
+(c)  Excludes  Northern  Rock.  Data  for  Co-operative 
+Bank  are  used  for  Co-operative  Financial  Services. 
+Pro-forma data are used for RBS from 2007 to 2009. 
+(d)  Revisions  to  US  GAAP  accounting  rules  on 
+consolidation  from  1  January  2010  are  applied  to 
+end-2009 data giving a clearer measure of leverage. 
+ BIS central bankers’ speeches 
+ 11
+ Chart 11: 
+Household financial surplus(a) 
+Chart 12: 
+Illustrative estimates of debt held by 
+vulnerable UK households(a)(b) 
+UK
+USA
+Euro Area
+Per cent
+8
+Per cent of unsecured debt
+40
+Per cent of secured debt
+40
+35
+30
+25
+20
+15
+10
+5
+0
+ 6
+4
+2
+0
+2
+4
+6
+ NMG unsecured 
+(LHS)
+NMG secured 
+(RHS)
+BHPS unsecured 
+(LHS)
+BHPS secured 
+(RHS)
+92
+94
+96
+98
+00
+02
+04
+06
+08
+10
+35
+30
+25
+20
+15
+10
+5
+0
+ 00
+02
+04
+06
+08
+10
+Source: Thomson Reuters Datastream, ECB and Bank 
+calculations.  
+Sources:  British  Household  Panel  Survey  (BHPS), 
+NMG Consulting survey and Bank calculations. 
+(a) Per cent of GDP. 
+(a)  Vulnerable  mortgagors  are  those  with  housing 
+equity below 5%, or housing equity below 25% and at 
+least  one  characteristic  suggesting  debt-repayment 
+difficulties.  Vulnerable  unsecured  debtors  are  those 
+with  less  than  25%  housing  equity  (including  renters) 
+and  at 
+least  one  characteristic  suggesting  debt-
+repayment difficulties. 
+(b)  Based  on  historical  BHPS  data  and  more  timely 
+information  from  the  annual  NMG  survey.  Differences 
+in  survey  questions  and  sample  size  mean 
+the 
+estimates  from  the  two  surveys  are  not  directly 
+comparable. 
+ 
+12 
+ BIS central bankers’ speeches
+Chart 13: 
+Corporate financial surplus(a) 
+United Kingdom
+United States
+Euro area
+00
+02
+04
+06
+08
+10
+Per cent
+10
+8
+6
+4
+2
++
+0
+-
+2
+4
+6
+8
+10
+Chart 14: 
+Percentage of firms with interest 
+payments greater than profits(a)(b) 
+Firms with turnover > £1 million
+Firms with turnover < £1 million
+Per cent
+60
+Real estate firms with turnover > £1 million
+ 90
+92
+94
+96
+98
+00
+02
+04
+06
+08
+50
+40
+30
+20
+10
+0
+ Source: Thomson Reuters Datastream, ECB and Bank 
+calculations. 
+Sources: Bureau Van Dijk and Bank calculations. 
+(a)  Per  cent  of  GDP  except  Euro  area  which  is  as  a 
+per cent of GVA. 
+(a)  Percentage  of  companies  in  each  category  with 
+interest  payments  greater  than  their  profits  before 
+interest. 
+(b)  Data  include  firms  reporting  turnover,  profit  and 
+interest paid. These firms may not be representative of 
+the  population.  Total  sample  size  varies  over  time, 
+ranging from around 14,000 in 1990 to over 90,000 in 
+2000. Changes in the composition of the data set may 
+reduce  comparability  over 
+time.  Subsidiaries,  as 
+identified  from  company  structures,  are  excluded. 
+Company  accounts  are  assigned  to  calendar  years 
+according to the statement date. The real estate sector 
+is  identified  using  SIC  (2003)  and  SIC  (1992)  codes 
+(the sample ranges from around 450 to 1,600 firms).  
+ 
+BIS central bankers’ speeches 
+ 13
+ Chart 15: 
+Changes to UK gross government debt 
+ratio in crisis periods 
+1929 crash
+1990 recession
+2008 financial crisis
+cumulative pp change
+since start of recession
+30
+25
+20
+15
+10
+5
+0
+0
+1
+2
+-5
+3
+4
+years since crisis
+for  National  Statistics,  Thomson 
+ 5
+6
+Sources:  Office 
+Reuters Datastream and Bank calculations. 
+ 
+Chart 16: 
+Public debt ratios in G7 countries 
+Percentage of GDP
+PPP 
+weighted
+140
+120
+100
+80
+60
+40
+20
+0
+1940 1950 1960 1970 1980 1990 2000 2010
+ Sources:  IMF  Historical  Public  Debt  Database,  IMF 
+World Economic Outlook (April 2011), Angus Maddison 
+historical statistics and Bank calculations. 
+ 
+14 
+ BIS central bankers’ speeches
+ Chart 17: 
+Real lending growth rates 
+Chart 18: 
+UK credit-GDP gap(a)(b) 
+Percentage changes on year earlier 
+30
+Norway (1988=0)
+Sweden (1990=0)
+25
+Finland (1990=0)
+20
+United Kingdom (2007=0)
+15
+10
+5
+0
+5
+10
+15
+3
+4
+5
+6
+7
+8
+9 10
+  3
+2
+1
+ 0
++
+1
+2
+Years from start of crisis 
+ Sources: Bank of England, central bank financial 
+stability reports, Thomson Reuters Datastream and 
+Bank calculations. 
+ percentage points
+35
+30
+25
+20
+15
+10
+5
+0
+-5
+-10
+ 80
+85
+90
+95
+00
+05
+10
+Sources: IMF and Bank calculations. 
+(a)  Based  on  the  guidance  variable  for  the  Basel  III 
+countercyclical buffer. Credit is defined as M4 lending. 
+The credit-to-GDP gap is calculated as the percentage 
+point difference between the credit-to-GDP ratio and its 
+trend,  where  the  trend  is  based  on  a  one-sided  HP 
+filter with a smoothing parameter of 400,000. 
+(b) Last data point is Q1 2011.  
+ 
+BIS central bankers’ speeches 
+ 15

@@ -1,0 +1,231 @@
+ Niklaus Blattner: Value, vulnerability and resilience of the financial market 
+infrastructure 
+Speech by Professor Niklaus Blattner, Member of the Governing Board of the Swiss National Bank, at 
+the SIBOS Conference, Opening Plenary, Geneva, 30 September 2002. 
+ Ladies and Gentlemen 
+As a central banker sharing the responsibility for overseeing payment and settlement systems, I have 
+of course been closely following the developments of the financial market infrastructure. There is no 
+doubt  that  these  developments  have  greatly  contributed  to  an  enhanced  efficiency  of  the  financial 
+sector. They have also highlighted the fact that not only the payment and settlement systems but also 
+other providers of standardized services in the field, not least S.W.I.F.T., have become more important 
+over time. The developments have further shown that safety and resilience have clearly gained more 
+weight for the system operators, for the system participants as well as for the regulatory authorities. 
+In the first part of my address I would like to consider the economic value added by the payment and 
+settlement  infrastructure  and  to  briefly  discuss  the  driving  forces  underlying  its  development.  In  the 
+second part I shall focus on the role of central banks as agencies of oversight. In the third part I shall 
+describe  the  factors  that  shape  the  vulnerability  of  financial  markets  and  their  infrastructure  and 
+examine how these factors have changed over time. The fourth part is devoted to the implications of 
+identified  vulnerabilities  for  resilience.  In  the  fifth  part  I  shall  address  the  cost-benefit  issues  that 
+sooner  or  later  inevitably  turn  up  whenever  measures  to  improve  resilience  are  discussed.  I  shall 
+conclude with a summing-up of my main points. 
+Value: significance and driving forces 
+The  main  function  of  banks  is  intermediation.  In  its  basic  form  intermediation  takes  place  between 
+borrowers  and  lenders.  Additional  intermediation  functions  are  -  among  many  others  -  making 
+payments and buying and selling securities on behalf of clients. 
+Over  the  past  decades  we  have  seen  a  huge  decrease  in  the  costs  of  intermediation.  This  has 
+drastically changed the structure of the banking sector and, at a more general level, the structure of 
+the whole financial sector. Two factors have triggered this change. 
+First, competition in the markets has increased as a consequence  of reduced  trade  barriers and  of 
+deregulation. Trade barriers not only in goods but also in services including financial services and in 
+financial  assets  have  been  progressively  lifted.  This  has  led  to  rapidly  growing  interaction  among 
+economies,  not  least  in  the  area  of  banking  and  financial  services.  Countries  participating  in  this 
+process have seen their domestic financial markets become deeply integrated with markets abroad. 
+Distance  and  location,  increasingly  becoming  less  of  an  obstacle,  no  longer  give  protection  from 
+competition. This is globalization. 
+Second, technological progress, especially in information technology (IT) and telecommunications, has 
+exerted an all-pervasive pressure to innovate at the level of processes and products and has greatly 
+affected  the  way  the  financial  sector  organizes  itself.  Innovation  has  sharply  reduced  the  costs  of 
+telecommunications  as  well  as  the  costs  of  IT  equipment.  As  a  consequence,  the  costs  of  trading 
+financial  services  and  financial  assets  have  decreased  enormously.  Additionally,  not  only  has 
+innovation brought down costs, but it has also increased the scale and scope as well as the quality of 
+services. Innovation made markets expand to a hitherto unknown degree. Indeed, the value of traded 
+financial services and assets has gone up almost explosively. 
+These developments have required the construction of an adequate trading, clearing and settlement 
+infrastructure. A good example is the market for foreign exchange (FX). Today, FX is one of the few 
+truly global markets. It is open 24 hours a day and participants from all over the globe are connected 
+through  electronic  networks.  Here,  the  birth  of  Continuous  Linked  Settlement  (CLS)  is  of  utmost 
+importance.  Since  September  9  of  this  year  the  settlement  of  FX  transactions  in  the  largest  seven 
+currencies can take place on a Payment versus Payment basis. CLS has only been possible thanks to 
+technological progress, the decrease in communication costs, and large trading volumes. The benefit 
+is not only higher efficiency but also reduced risk. 
+BIS Review 55/2002 
+ 1
+ Let me sum up this first section  on  value  as follows: There is no doubt that market integration  and 
+technological  progress  have  been  the  driving  forces.  They  have  led  to  sizeable  reductions  in 
+transaction  costs.  This  has  permitted  the  creation  of  today’s  globalized  financial  industry  and  has 
+made possible an impressive growth in value. 
+The role of central bank oversight 
+Now,  let  me  turn  to  the  role  of  central  bank  oversight:  Every  transaction  -  be  it  a  commodity  or  a 
+service - eventually leads to a transfer of money. From trade to settlement at least one system of the 
+financial market infrastructure is usually involved. Given this, it is not surprising that the regulators are 
+keeping a keen eye on market developments. 
+Central banks, with their core mandate of monetary policy, have an especially close relationship with 
+the  payment  systems.  To  the  overseers  of  payment  systems  the  main  objective  is  safety.  The 
+definition and standards of safety have evolved with the  years. For a long time the main interest of 
+central banks in payment systems came from computer experts. Payment systems used to be viewed 
+merely as ‘computers’ that cleared and settled payment obligations. In the late 1980s the focus started 
+to shift towards the financial risks, i.e. credit and liquidity risk inherent in payment systems. Slowly it 
+became common knowledge that payment systems could be a source of systemic risk by providing a 
+channel through which the failure of one participant to meet its payment obligations could be passed 
+on to other participants. In their own best interest and under the influence of the overseers operators 
+started to protect their systems against financial risks - in most cases by  building Real-Time Gross 
+Settlement systems (RTGS). Today almost every country is operating an RTGS system. 
+There is now a  widespread consensus within the private sector and the central banking community 
+about the kind  of operational requirements and financial risk controls that  are necessary  to make a 
+payment  system  safe.  A  main  contributor  in  this  area  has  been  the  Committee  on  Payment  and 
+Settlement  Systems  (CPSS)  at  the  Bank  for  International  Settlements  (BIS).  As  a  standard-setting 
+body  the  CPSS  has,  for  instance,  drafted  the  Core  Principles  for  Systemically  Important  Payments 
+Systems.  The  Core  Principles  are  a  testimony  of  the  consensus  about  standards  for  safety  and 
+efficiency in payment systems. The CPSS has also played a leading role in raising the awareness of 
+the risks involved in the settlement of foreign exchange transactions. It has also followed and to some 
+extent promoted the CLS project since its beginning. 
+The  safety  of  the  clearing  and  settlement  infrastructure  has  been  a  long-standing  concern  of  the 
+overseers. Together with the financial industry they might even have enjoyed some pride while looking 
+at  what  was  achieved  in  terms  of  efficiency  as  well  as  safety  and  soundness  of  operations  by  the 
+industry. But clearly, since September 11, 2001, a new awareness of vulnerability has grown on us all. 
+Those tragic events have made us rethink our approach vis-à-vis safety and operational risk. I think 
+we  all  suddenly  realized  we  had  to  reassess  the  vulnerability  of  our  institutions  and  systems  and, 
+where necessary, improve their resilience. 
+Vulnerability - a quick survey 
+Ensuring  that  companies,  consumers  and  investors  have  confidence  in  their  ability  to  effect 
+transactions and access their funds, securities, and other financial assets is of the highest importance 
+in times of crisis. Therefore it is clearly in the private and public interest to ensure that, in the event of 
+any  large-scale  disruption,  systemic  consequences  are  minimized.  However,  minimizing  systemic 
+consequences requires knowing the major vulnerabilities of the financial system. With this knowledge 
+the  responsible  parties  in  the  private  sector  as  well  as  in  central  banks  and  government  can  in 
+principle take adequate precautions and remedies. Three sources of vulnerability can be identified. 
+A first source of vulnerability is economic concentration among large and complex financial institutions. 
+This may strike you as odd. But size is a potential source of vulnerability and industrial consolidation 
+usually  increases  size.  The  financial  industry  has  been  experiencing  numerous  mergers  and 
+acquisitions. This has resulted in financial services offered by an increasingly small number of large 
+and  dominant  players.  Even  if  only  one  of  these  players  were  to  stop  functioning  well  the  financial 
+system as a whole might suffer. 
+The  second  source  of  vulnerability  is  geographical  clustering.  Financial  institutions  are  heavily 
+clustered in a limited number of important international financial centers. Economic concentration and 
+2 
+ BIS Review 55/2002
+ geographical clustering tend to add up. A  huge number of firms, among them the industry’s giants, 
+may be affected in one and the same location by one and the same disruptive event. 
+A third source of vulnerability is the large degree of connectivity and interdependency of the financial 
+sector. Y2K and the terrorist attacks of September 11, 2001, highlighted this type of vulnerability. One 
+key  lesson  learnt  was  that  vulnerability  extends  beyond  these  systems  since  they  crucially  rely  on 
+utilities such as electricity and telecommunications or on service providers like S.W.I.F.T. 
+Let me sum up again. There are three major sources of a financial system’s vulnerability: economic 
+concentration, geographic clustering, and connectivity and interdependency. The latter are an obvious 
+characteristic  of  financial  networks.  Networks  contribute  to  increased  efficiency  and  facilitate  risk 
+management. At the same time they also can act as channels as well as origins of systemic crisis. 
+From vulnerability to resilience 
+Hand in hand with a new awareness of the vulnerability of the financial system, those responsible for 
+its safety and stability in private firms, in financial market infrastructures as well as in the regulatory 
+agencies have recently been taking a new hard look at the financial system’s capacity for resilience. 
+In retrospect the Y2K problem was a first mild but nevertheless rather valuable test. The Y2K test was 
+mild in the sense that everybody had enough time to prepare for it. What helped in Y2K was the clear 
+deadline. All the contingency and communication networks could be set up before the event. Many of 
+us gathered here today knew exactly where we had to be on December 31, 1999, what we had to do 
+and whom we had to call if there were problems. Still, Y2K was valuable to the financial community in 
+so far as it opened our minds and increased our sensitivity for problems that nobody had encountered 
+or envisaged before. 
+Today,  however,  the  situation  is  different  and  considerably  more  complex.  The  events  of 
+September 11, 2001, have clearly increased our awareness further. Looking back to the time before 
+the attacks we seem to have tended to underestimate the probability and consequences of disruption. 
+So what needs to be done to make sure that we do not continue to underestimate threats? How can 
+the resilience in financial systems be improved? What are the responsibilities of each and all of us? 
+At the level of a single financial institution objectives and measures - in terms of back up solutions, 
+staff safety and training, testing procedures, and contingency  planning  in general - may have to be 
+newly defined. A specific issue that has probably not yet received enough attention everywhere is the 
+internal crisis management process. Establishing a crisis management committee, which coordinates 
+decisions and communication in times of crisis, can be vital, especially for large and complex financial 
+institutions acting globally. On top of this, crisis management needs to be tested in general. One of the 
+simpler  scenarios  could  be:  what  happens  if  a  bank  is  -  for  whatever  reason  -  not  able  to  release 
+S.W.I.F.T. messages? In addition, crisis management of a single institution must involve its customers, 
+its business partners and peers, its service providers and its utility providers. Crisis management is 
+therefore a very demanding activity. 
+What  applies  to  single  financial  institutions  obviously  also  applies  to  institutions  of  financial  market 
+infrastructure, to central banks and to institutions of supervision and oversight in general. The same 
+insights apply to everyone: Be aware of the new dimensions of systemic risk within globalized financial 
+markets  and  refrain  from  early  satisfaction  with  what  you  appear  to  have  achieved.  At  this  point,  I 
+would  like  to  stress  that  the  overall  resilience  of  the  financial  sector  also  depends  on  the  financial 
+strength  of  each  institution.  In  retrospect  it  might  be  said  it  was  a  benign  coincidence  that  the 
+September 11, 2001 attacks happened in a period of comparatively favorable economic conditions in 
+the financial industry. Under less favorable circumstances the capacity to absorb shocks could have 
+been  considerably  smaller.  This  is  another  reason  why  the  rapid  implementation  of  the  new  Basel 
+Accord on capital adequacy is so very important for the financial system as a whole. 
+In  addition  to  this  it  is  obvious  that  further  and  new  tasks  arise  for  regulatory  agencies  and  central 
+banks at the national as well as the international level. Addressing the issue of disaster recovery has 
+to  become  part  of  the  routine  supervisory  process.  Supervisory  guidelines  and  examination 
+procedures  are  being  adjusted  in  this  light  and  they  are  helpful  tools  in  increasing  resilience.  Also, 
+when  overseeing  payment  systems  resilience  and  business  continuity  will  have  to  be  scrutinized 
+anew. 
+BIS Review 55/2002 
+ 3
+ Finally, central banks must always keep in mind that they carry a big responsibility for resilience and 
+stability through their role as liquidity providers. Time and time again, free and easy access to liquidity 
+has proven to be essential in large-scale crises. Since central bank liquidity is usually granted against 
+collateral, the linkage between the payment and the securities settlement systems has to be especially 
+robust. The market participants have to know and understand the conditions of access to lending of 
+last resort facilities provided by central banks so that they can shape their contingency planning and 
+collateral portfolios accordingly. Simultaneously central banks have to take the necessary precautions 
+to increase resilience at their own end. 
+Costs and benefits of resilience 
+Let me add some remarks on the costs and  benefits of improving resilience. My  conviction  will  not 
+come as a surprise to you: investment in resilience does indeed pay out for the financial sector as a 
+whole and for society at large, but it also pays out for financial market infrastructures and for each and 
+every financial firm. In other words, I have no doubt that more still needs to be done at the level of 
+single institutions, and, on top of that, at the level of the financial industry as a whole. 
+However, voices have raised the concern that, in light of the ever-increasing cost of safety and against 
+the background of the significant cost pressure due to deteriorating market conditions, investment in 
+resilience  might  in  fact  be  increasingly  limited.  But,  as  I  said  before,  the  higher  requirements  for 
+operational  reliability,  for  contingency  planning  and  for  crisis  management  stem  mainly  from  the 
+financial  industry’s  own  development.  Clearly,  increasing  concentration,  geographic  clustering, 
+connectivity and interdependency are highly beneficial, but they do also have a price when it comes to 
+the reduction of risk. We cannot enjoy the benefits without paying this price. 
+The point here is that we all have to be very careful about how we invest in resilience. And we have to 
+make sure that no resources are wasted. For sure, the regulatory community will keep this in mind and 
+will do its best not to impose unnecessary burdens on the private sector. 
+Summary and conclusion 
+Finally, let me sum up my main points. 
+• 
+     Today’s globalized financial industry shows impressive long-term value growth. This growth 
+is  due  to  market  integration  and  technological  progress.  Together  they  led  to  sizable 
+reductions in transaction costs and to expanding markets. 
+Every transaction eventually leads to a transfer of money. From trade to settlement usually 
+at  least  one  system  of  financial  market  infrastructure  is  involved.  Overseers  care  for  the 
+safety of these systems. This is their responsibility. 
+The  events  of  September  11,  2001,  made  the  industry,  the  regulators  and  the  overseers 
+rethink their approach to safety. Consequently the vulnerability of the financial system and its 
+resilience are currently being reevaluated. 
+Three  major  sources  of  vulnerability  have  been  identified:  economic  concentration, 
+geographic clustering and connectivity and interdependency. Networks by their very nature 
+can act as channels as well as origins of systemic crisis. 
+The  awareness  of  vulnerability  leads  to  new  and  substantial  demands  for  investment  in 
+resilience. For instance, crisis management is a demanding activity. It involves private firms, 
+financial  market  infrastructures,  public  supervisors  and  oversight  institutions.  Without  the 
+cooperation of all of them crisis management cannot succeed. 
+Investment  in  resilience,  however,  is  costly.  The  benefits  of  the  financial  sector’s  value 
+growth  cannot  be  enjoyed  without  paying  this  price.  Should  the  price  not  be  paid  value 
+growth would turn out to be unsustainable. There are no stable financial systems that are not 
+at the same time highly resilient under crisis conditions. 
+Allow me to expand on this last point: as a representative of a central bank I assure you that central 
+banks are not likely to close an eye on this issue. Resilience of financial service providers in general 
+and  of  the  financial  market  infrastructure  in  particular  has  been  placed  at  the  top  of  regulatory 
+authorities’  agendas.  Indeed,  it  will  stay  there.  As  much  as  public  bodies  are  contributing  to  the 
+4 
+ BIS Review 55/2002
+ resilience of the financial system as a whole, they will make demands of the private sector. As much 
+as public bodies are willing to step in as coordinators before and during times of crisis and eventually 
+as  lenders  of  last  resort,  they  also  want  to  see  private  sector  entities  being  involved  and  actively 
+participating  in  shaping  resilience  and  resolving  crises.  The  responsibility  for  financial  stability  is  a 
+shared responsibility. 
+I am fully aware that none of us can precisely estimate today the economic consequences of what we 
+all yet have to do in order to increase the resilience of financial systems. Since this resilience is bound 
+to be tested  again  harshly sooner or  later,  there  is no alternative to rapid, serious, adequate  and  if 
+necessary costly preparations by all of us. 
+Let  me  end  by  expressing  my  gratitude.  I  enjoyed  contributing  to  the  exchange  of  information, 
+evaluations and views. This is the essence of the SIBOS conference. I am particularly grateful since I 
+know that all  of us in this  room as well as  those financial sector  professionals  who  were unable to 
+attend  this  conference,  those  of  the  private  sector  as  well  as  those  from  the  public  sector,  willingly 
+share  the  noble  responsibility  for  the  efficiency  and  stability  of  today’s  and  tomorrow’s  financial 
+systems. 
+Thank you very much for your attention. 
+BIS Review 55/2002 
+ 5

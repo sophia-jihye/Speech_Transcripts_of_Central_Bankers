@@ -1,0 +1,244 @@
+5/16/2019
+Leaning In: Towards Better Payment and Clearing Systems | Speeches | RBA
+Speech
+Leaning In: Towards Better Payment and Clearing
+Systems
+Michele Bullock 
+Assistant Governor (Financial System)
+Keynote at ASIC Annual Forum 
+Sydney – 16 May 2019
+It is my pleasure to be speaking here at the ASIC Forum. The Reserve Bank of Australia has a
+number of roles in the payments system. It operates the real-time gross settlement system for high-
+value payments, it provides banking and payment services to government clients, and it oversees
+and regulates the payments system. It is in the capacity of overseer that I am talking to you today.
+The Payments System Board of the Reserve Bank has a mandate to promote efficiency and
+competition in the Australian payments system, as well as stability of the system. The Reserve Bank
+oversees the system to determine how best to achieve these objectives, including regulating if
+necessary. So today, I'm going to talk about something that can be very important in achieving these
+goals – collaboration.
+Payment systems are networks and as networks they have a couple of important features. The first
+is that there are externalities associated with networks. As they get larger, the benefits increase
+disproportionally. We see this in all sorts of payment systems. The more merchants that take cards,
+for example, the more benefit there is to holding a card. And the more people that hold cards, the
+more benefit there is to merchants accepting cards. The network effect is both what can make it
+difficult for new systems to get off the ground and also entrench large networks.
+The second feature of networks is that they involve people working together. In order to get the
+positive benefits from networks, there needs to be a commonality of interest among participants that
+are often competitors. When this is done well, it benefits both participants and end-users, and the
+wider community. Conversely, when some participants don't collaborate, they can make it difficult for
+everyone else to realise benefits.
+https://www.rba.gov.au/speeches/2019/sp-ag-2019-05-16.html
+1/8
+Leaning In: Towards Better Payment and Clearing Systems | Speeches | RBA
+5/17/2019
+Today I am going to talk about examples where collaboration is necessary to improve our payment
+systems in Australia – instances where firms that are typically competitors are being asked to ‘lean
+in’. There are two that I am going to highlight: the New Payments Platform and efforts to reduce
+fraud. I will finish up with a few remarks on one area of the payments system where we would like
+to see continued competition.
+The New Payments Platform
+A very good example of industry collaboration in recent years has been the development and then
+the implementation of the New Payments Platform, or the NPP. The NPP is an infrastructure that
+allows instant payments to be made and received 24/7, with richer information and simpler
+addressing. Its genesis was the Payments System Board's Strategic Review of Innovation in the
+payments system (the Strategic Review). When the Strategic Review was announced in 2010, it was
+noted that the objective was to identify areas of innovation in the Australian payments system that
+could be improved through more effective cooperation between stakeholders and regulators. The
+final conclusions released in 2012 set out some high level strategic objectives for the payments
+system and invited the industry to determine how best to meet those objectives. They included the
+ability for users to:
+make real-time payments
+send more complete remittance information with payments
+address payments in a relatively simple way
+make and receive payments outside normal business hours.
+The industry response was to develop and build the NPP to meet these objectives. The NPP went live
+in February 2018 and is slowly but steadily building volume.
+This was a very ambitious project. It was long – it took around 4 years from the industry
+commitment until ‘go live’. And it still is not complete. It was complicated technically, requiring not
+only a central build but also substantial work within financial institutions. And, as a large cross
+industry project it was complicated logistically.
+But despite this, and the fact that there is still work to do, it has been a successful project. I think
+there were a few things that contributed to the effective collaboration that delivered the NPP.
+First, the Reserve Bank and the Payments System Board, with the public interest in mind, gave a
+very clear message to the industry that building this new infrastructure was important. The
+conclusions of the Strategic Review set out very clearly what the Reserve Bank was expecting the
+industry to deliver on. And while it provided the industry with an opportunity to devise a proposal, it
+was always clear that the Reserve Bank regarded this as a must do if the Australian payments
+system is to be capable of providing the services expected by users into the future. The Payments
+System Board followed progress closely and provided continued encouragement both publicly and,
+where necessary, privately through senior-level contact between the Reserve Bank and other
+participating financial institutions.
+https://www.rba.gov.au/speeches/2019/sp-ag-2019-05-16.html
+2/8
+Leaning In: Towards Better Payment and Clearing Systems | Speeches | RBA
+5/17/2019
+Furthermore, the Reserve Bank demonstrated its own commitment to the project in numerous ways.
+It was a member of the project steering committee and numerous working groups, committing
+senior resources to these groups. It also took up a shareholding in NPP Australia Limited (NPPA) and
+it built the Fast Settlement Service to settle payments individually in real time, 24/7.
+A second reason why collaboration was successful was that most institutions realised that they were
+participating in a project that would have significant and broad benefits. There were already a
+number of fast retail payment services around the world and customers were increasingly expecting
+payments to keep up with their 24/7 lifestyle. I think that most participants understood this.
+A third element was the way that the project was organised with a dedicated independent team to
+manage the project and repeated reminders of the shared vision agreed early in the project's life.
+One key aspect of this was the social contract that all participants agreed to. This contract
+emphasised such things as constructive challenge, respect, active listening, positivity and innovative
+thinking.
+The result is that we now have a first-rate payments system infrastructure that will be a platform for
+ongoing innovation. In many respects, Australia's fast payments system is at the cutting edge of
+such systems. We were not the first to have a fast payments system. But we have been able to learn
+from experience overseas and improve the model with features such as ISO 20022 message formats,
+real-time settlement and the addressing service. And the design of the system, which allows for
+competitive ‘overlay’ services to use the infrastructure, gives the system flexibility to meet the future
+needs of users of the Australian payments system.
+Since going live in February 2018, the system has been gradually increasing its volumes (Graph 1).
+In April, 16 million transactions were processed through the NPP amounting to $13 billion. This is still
+small relative to the volumes that pass through other retail payment systems. But it is growing
+steadily and at least as quickly as some comparable overseas fast payment services when they were
+introduced (Graph 2). One of the positive aspects has been the broad participation of many small
+financial institutions. Customers of around 50 small banks, credit unions and building societies were
+able to make and receive fast payments from Day 1 and that number has since grown to nearly 70.
+https://www.rba.gov.au/speeches/2019/sp-ag-2019-05-16.html
+3/8
+5/16/2019
+Leaning In: Towards Better Payment and Clearing Systems | Speeches | RBA
+Graph 1
+https://www.rba.gov.au/speeches/2019/sp-ag-2019-05-16.html
+4/8
+5/16/2019
+Leaning In: Towards Better Payment and Clearing Systems | Speeches | RBA
+Graph 2
+On a less positive note, we have been somewhat underwhelmed by the progress of some of the
+major banks. Some of them have been much slower to provide their customers with fast payment
+services. The majors have all taken different approaches to which functionality they will provide and
+which customers to bring on first. This is their prerogative. We know they have a lot on their plates
+and they are in the best position to make decisions on what to prioritise. We also know that they
+have large and complex IT systems. But with some big banks slow to complete NPP related changes
+to their internal systems, there remain large numbers of customers that do not have a full range of
+convenient options for initiating fast payments even if their accounts can be reached by incoming
+fast payments. There is also more work to be done on increasing the number of accounts that are
+reachable using the NPP. These gaps have made it very difficult for NPP participants to market the
+new service to their customers. So the value of the NPP to users is much lower than it could be if
+payment initiation and account reach were more progressed. That is, the positive network effects
+have been held back. In order to realise the full benefits of the NPP, most financial institutions,
+particularly the larger ones, need to be involved in sending and receiving fast payments.
+There is still more to be done and NPPA is keen to facilitate new applications that use the real-time,
+data-rich functionality. But industry should be aware that the regulator and the public in general will
+be expecting the payments industry to deliver on the promise of the NPP. In light of concerns that
+had been raised by a number of stakeholders, the Reserve Bank, with assistance from the Australian
+Competition and Consumer Commission (ACCC), has recently undertaken a public consultation on
+https://www.rba.gov.au/speeches/2019/sp-ag-2019-05-16.html
+5/8
+5/16/2019
+NPP access and functionality. We are expecting to publish the conclusions and recommendations
+from this consultation in the coming weeks.
+Leaning In: Towards Better Payment and Clearing Systems | Speeches | RBA
+Fraud
+Another area where collaboration is important in payment systems is fraud prevention and
+mitigation.
+Individual institutions all have their own ways of dealing with fraud. In card payments, for example,
+most institutions have algorithms that look for payments that seem to be out of the ordinary. They
+then seek to verify with the customer as soon as possible whether the payment was genuine. Fraud
+tends to move to the point of least resistance so there are strong incentives for individual institutions
+to make sure that their systems for preventing, detecting and mitigating fraud keep pace with their
+competitors. Otherwise they might find themselves targeted.
+But there are also good reasons to think about fraud mitigation collectively. First, if there is one
+participant in a payment system that is very prone to fraud, it could impact the confidence of
+consumers in using the system. There is therefore a collective incentive to ensure that everyone in
+the system is meeting certain minimum standards of fraud prevention. Second, and relatedly,
+payment systems often have protections for users of the system so that if a user finds themselves
+the victim of fraud through no fault of their own, they are not out of pocket. For example, card
+systems have protocols for dealing with fraudulent transactions on cards that arise through theft of
+card details. These protocols need to apply to all participants in the system to meet their aims.
+PIN@POS was a good example earlier in this decade of a successful collaboration between financial
+institutions in Australia to improve the security of card transactions at the point of sale. While card
+transactions through the domestic eftpos system have always required authorisation by Personal
+Identification Number (PIN) at the terminal, authorisation of transactions through other card systems
+(American Express, Diners, Mastercard and Visa) was typically via signature. Signature authorisation
+was much more susceptible to fraud so the industry agreed on a project to move to PIN
+authorisation for all card transactions. This was a classic collaborative opportunity. If one institution
+tried to go it alone, it might find resistance from its customers – card holders who don't want to
+change and merchants who might have to upgrade their terminals. Furthermore, the fraud would
+probably just move to a merchant that didn't require PINs. Maybe the problem would be solved in
+the end, but in order to realise the benefits of a move to PIN in a reasonable timeframe, the
+individual participants had to move together.
+Another more recent example of industry collaboration to address fraud is in ‘card-not-present’
+transactions. Consumers are increasingly making purchases on line and cards are an easy way to do
+this. But it is more difficult for an online merchant to verify that the card being used belongs to the
+person using it. As a result, fraud rates on card-not-present transactions are high and rising. This can
+reduce confidence in the card payment system. And as merchants typically bear the cost of online
+fraud, it increases their costs of doing business and ultimately prices to consumers. It is bad for
+society as a whole.
+https://www.rba.gov.au/speeches/2019/sp-ag-2019-05-16.html
+6/8
+Leaning In: Towards Better Payment and Clearing Systems | Speeches | RBA
+5/16/2019
+There are ways of authenticating consumers online. But the greatest resistance to adopting these
+has come from merchants who worry that any anti-fraud measures would introduce friction in the
+checkout process, causing the purchaser to drop out. Indeed, there is a bit of a ‘prisoner’s dilemma'
+here. Two merchants would be better off if they both introduce anti-fraud measures. But they each
+worry that if they adopt such measures, they will lose sales to their competitor who hasn't adopted
+the additional measures. So neither will adopt.
+Recognising that this a problem that would benefit from a collaborative solution, Australian financial
+institutions are currently working together to develop a framework for dealing with card-not-present
+fraud. Under the auspices of the Australian Payments Network, the industry will be mandating strong
+customer authentication at merchants that have high fraud rates. This will involve a process that
+checks two or more independent factors to authenticate the customer. For example, a one-time
+authentication code might be sent to the consumer's mobile phone, or there may be a fingerprint
+authentication. The goal is to reduce the cost of fraud as a whole, rather than just shifting it
+between individual merchants and financial institutions.
+Other Aspects of Card Payments
+I want to finish by speaking briefly about competition in the debit card market in Australia.
+Debit cards are the non-cash payment method of choice for many Australians. Debit cards are
+connected to a customer's deposit account and draw funds for payment directly from that account.
+Over the past 10 years, the annual number of debit card transactions per person in Australia has
+risen from around 80 to around 260.
+Most debit cards in Australia are dual-network cards. That is, payments made using these cards can
+be processed across two networks. The network brand on the front, and the most obvious, is
+typically an international scheme – Mastercard or Visa. On the back is usually the eftpos brand, the
+Australian domestic debit system.
+The Payments System Board and the Reserve Bank have been supportive of these cards because
+they provide convenience and choice to both consumers and merchants. When dipping or swiping
+their card, consumers could choose the credit button to direct the transaction through the
+international scheme or the cheque/savings button to direct it through the eftpos system. Merchants
+could also indicate to customers which network they would prefer to be used. So dual-network cards
+can play a role in keeping downward pressure on the costs of card acceptance to merchants (and
+indirectly to consumers).
+The move to contactless payments (‘tap-and-go’), however, has muted some of the competitive
+pressures that can come from dual-network cards. Since eftpos moved to tap-and-go later than
+Mastercard and Visa, a substantial number of payments that were previously processed by the eftpos
+network are now being processed by the international schemes. While consumers would not have
+noticed anything different, businesses have seen their costs of card acceptance rise as processing
+through the international schemes is more expensive than eftpos.
+https://www.rba.gov.au/speeches/2019/sp-ag-2019-05-16.html
+7/8
+Leaning In: Towards Better Payment and Clearing Systems | Speeches | RBA
+5/16/2019
+The Bank has attempted to ensure that merchants continue to have choice by obtaining
+commitments from banks to allow their merchant customers to choose the network through which
+contactless transactions are processed. Some smaller acquirers – for example Tyro and First Data –
+have been faster than the major banks to provide their customers with this functionality. But the
+major banks are now offering or are about to offer merchant choice. This should assist in keeping
+downward pressure on the fees that merchants pay.
+But as payments move to different form factors, such as mobile phones or wearables, and new
+technologies are introduced, there is a risk that some may use it as an opportunity to lock out
+competitors. The Reserve Bank is of the view that in moving to new technologies, merchants and
+consumers should continue to have a choice of debit card network. Rules or policies of any scheme
+that have the effect of removing choice will reduce competition and result in rising costs to
+merchants. The Bank will be looking closely at developments in the debit card market to ensure that,
+as far as possible, there is a level playing field for the alternative debit schemes. We will also work
+with the ACCC as necessary to identify and address any anti-competitive behaviour. In the specific
+case of least cost routing, we would not want to see the benefits to competition from this innovation
+thwarted by issuers taking eftpos off dual-network cards.
+Conclusion
+Competition is important in payments. It delivers better customer experiences, more convenience
+and innovative products. But as networks, collaboration is also often required. The development of
+the NPP and recent work on addressing fraud in card payment systems are good examples of where
+participants that are normally competitors have cooperated to ultimately deliver better outcomes for
+Australian consumers and merchants. These collaborative efforts, however, are not without their
+challenges. As the payments system regulator, the Reserve Bank remains willing to engage with
+industry and facilitate collaboration where this is in the public interest.
+© Reserve Bank of Australia, 2001–2019. All rights reserved.
+https://www.rba.gov.au/speeches/2019/sp-ag-2019-05-16.html
+8/8

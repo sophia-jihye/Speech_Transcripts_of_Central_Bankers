@@ -1,0 +1,377 @@
+Spencer Dale: QE – one year on 
+Speech  by  Mr  Spencer  Dale,  Executive  Director  and  Chief  Economist  of  the  Bank  of 
+England,  at  the  Centre  for  International  Macroeconomics  and  Finance  (CIMF)  and  Money 
+Macro  and  Finance  (MMF)  Research  Group  Conference  “New  Instruments  of  Monetary 
+Policy: The Challenges”, Cambridge, 12 March 2010. 
+ I  would  like  to  thank  Rohan  Churm,  Chris  Kubelec,  James  Smith  and  Jing  Yang  for  their  considerable  help  in 
+preparing these remarks. The views expressed are my own and do not necessarily reflect those of other members 
+of the Monetary Policy Committee. 
+Introduction 
+This has been a truly extraordinary year for our economy and for economic policy. 
+A year ago – almost to this very day – the Monetary Policy Committee (MPC) conducted its 
+first gilt auction as part of its asset purchase programme or its policy of quantitative easing as 
+it became known. The need for policy action was clear. The three months to March 2009 are 
+estimated to have seen the sharpest quarterly contraction in GDP since comparable records 
+began in the 1950s. Manufacturing output was contracting at an annualised rate of close to 
+20%. Claimant count unemployment was rising at the fastest rate on record. 
+And financial markets remained in a state of shock. By early March last year, 40% had been 
+wiped  off  the  value  of  the  FTSE  companies;  corporate  bond  spreads  were  at  their  widest 
+since the 1970s; and banks continued to hoard liquidity, with spreads in the interbank market 
+still around fifteen times higher than their pre-crisis levels. 
+The financial crisis began in earnest in the summer of 2007, when the burgeoning sub-prime 
+mortgage crisis began to pile pressure on banks. But it intensified dramatically following the 
+failure of Lehman Brothers in September 2008, leading to the most severe banking crisis in 
+living memory. The Monetary Policy Committee responded aggressively, cutting Bank Rate 
+from 5% to 0.5% – its lowest ever level – in just five months. 
+But  the  need  for  further  monetary  stimulus  was  clear.  In  principle,  it  would  have  been 
+possible to cut Bank Rate a little further, to zero or even to a small negative number. But the 
+structure  of  many  traditional  mortgage  lenders’  balance  sheets  meant  that  lowering  Bank 
+Rate even further was likely to eat into their profitability and so intensify the credit crunch. 
+Exactly what the monetary loosening was trying to avoid. Instead, the Bank decided to vary 
+the size and composition of its balance sheet to inject money directly into the economy. And 
+so QE was born. 
+Since then the economy has stabilised, household and business confidence have recovered, 
+and financial market conditions have improved. Taken at face value, the extraordinary policy 
+measures implemented by the Bank, alongside those enacted by the Government, appear to 
+have been successful in averting a deeper and more severe recession. And the hope now is 
+that  a  sustained  recovery  in  demand  will  follow  consistent  with  the  objectives  of  those 
+polices. 
+But the contribution of our asset purchases in bringing about this stabilisation is still an open 
+question.  One  year  on,  what  have  we  learnt  about  QE?  Today,  I  will  address  three  key 
+questions. What is the theoretical foundation for such a policy? What are the key channels of 
+transmission? And what can we say about its impact to date? 
+These  questions  are  critical  for  the  operation  of  monetary  policy.  But  they  are  equally 
+important  for  the  study  of  monetary  policy.  The  financial  crisis  posed  questions  which  the 
+models  most  commonly  used  to  analyse  monetary  policy  were  not  well  suited  to  answer. 
+BIS Review 29/2010 
+ 1
+There is an emerging literature that responds to these shortcomings. It is important – both for 
+the theory and practice of monetary policy – that this continues. 
+The theoretical foundation for unconventional monetary policy 
+Let me turn first to the theoretical foundation for quantitative easing. 
+Over the past 15 years, the canonical New-Keynesian New Classical synthesis model has 
+become  the  benchmark  for  economists  to  study  the  operation  of  monetary  policy.  The 
+attraction  of  this  class  of  models,  as  typified  for  example  by  Woodford  (2003)  and  Walsh 
+(2003), is that its relative simplicity and tractability means that it can be used to derive clear 
+and precise policy prescriptions. And indeed that is the case when used to analyse monetary 
+policy at the zero bound. The only way policy can gain traction at the lower bound in such a 
+model  is  through  influencing  expectations  –  the  most  well  known  reference  here  being 
+Eggertsson and Woodford (2003). 
+This result stems from the fact that the economy behaves as if, in effect, there are only two 
+assets in existence, typically modelled as money and bonds. Agents hold more money up to 
+the  point  at  which  the  marginal  benefit  from  the  liquidity  services  it  confers  equals  the 
+marginal  cost:  the  nominal  interest  rate.  At  the  zero  bound,  both  the  marginal  benefit  and 
+marginal  cost  are  effectively  zero,  and  money  and  bonds  become  perfect  substitutes.  It 
+follows that exchanging money for bonds at this point has no impact on activity or inflation. 
+The economy is assumed – by construction – to be in a liquidity trap. 
+As  is  well  known,  the  optimal  policy  within  this  class  of  models  is  for  the  central  bank  to 
+commit  to  low  interest  rates  for  an  extended  period  and  to  a  temporary  overshoot  of  the 
+inflation target. Exchange rate depreciations (Svensson 2001) and interest rate commitments 
+(Krugman 1998, Woodford 2003) are examples of policy recommendations stemming from 
+this result. 
+The crucial insight emphasised by these models is that expectations matter, and provide a 
+mechanism  through  which  policy  makers  can  seek  to  influence  activity  at  the  zero  bound. 
+This is an important channel of monetary transmission and one I will return to. 
+But the argument that monetary policy can work only through expectations management is 
+not a robust result. It rests on very particular assumptions. In this class of models, financial 
+markets are assumed to be complete and frictionless and the representative agent is able to 
+arbitrage across all financial markets. As such, all non-aggregate risk in the economy can be 
+hedged  perfectly  and  asset  prices  depend  only  on  state-contingent  payoffs.  Under  these 
+assumptions, demand curves for financial assets are perfectly elastic. 
+But in the real world it seems plausible that demand curves for assets, in addition to money, 
+are downward sloping to some degree, in which case changes in their relative supplies can 
+affect their relative prices. It is this which gives quantitative easing its traction. 
+Half a century ago Tobin (1958), in pioneering work on portfolio allocation, recognised that a 
+range of assets, in addition to money, are likely to be imperfect substitutes. But Tobin did not 
+articulate fully the frictions that could generate such imperfect substitutability. 
+More recently, there has been rapid development in micro models of the source of financial 
+frictions  which  can  motivate 
+include 
+Brunnermeier and Pedersen (2009) and Vayanos and Weill (2008).1 These models help to 
+explain when and why investors may face un-diversifiable risks when holding specific types 
+of  securities,  such  that  they  become  imperfect  substitutes  for  otherwise  similar  assets.  In 
+Brunnermeier  and  Pedersen  (2009),  for  example,  marketmakers  face  uncertainty  over  the 
+imperfect  substitutability.  Recent  examples 
+                                                 
+1  
+In addition see Duffie, Gârleanu and Pedersen, (2007). 
+2 
+ BIS Review 29/2010
+timing of customers’ trades. They are unable to hedge perfectly this liquidity risk because of 
+borrowing constraints, so that less liquid securities are imperfect substitutes for more liquid 
+ones.  This  liquidity  risk  leads  asset  prices  to  diverge  from  “fundamentals”  determined  by 
+underlying cash flows. 
+Researchers are also beginning to make a number of important contributions that introduce 
+various  forms  of  financial  frictions  into  otherwise  standard  macro  models.  For  example,  in 
+Kiyotaki  and  Moore  (2008),  firms  face  a  “liquidity  constraint”  in  financing  their  investment 
+which  arises  from  a  combination  of  borrowing  constraints  and  a  difficulty  in  selling  their 
+illiquid  assets.  This  need  for  liquidity  gives  rise  to  an  endogenous  demand  for  money.  An 
+important  feature  of  this  model  is  that  the  central  bank  can  offset  the  effects  of  liquidity 
+shocks  by  purchasing  illiquid  assets  with  central  bank  money.2  Building  on  Kiyotaki  and 
+Moore’s  resalability  constraint,  Gertler  and  Kiyotaki  (2009)  introduce  a  funding  friction  for 
+banks,  whereby  banks  need  to  hold  capital  in  order  for  depositors  to  be  willing  to  deposit 
+funds. Such a funding friction affords a role for the authorities to lend directly to firms when 
+capital  constraints  bite  on  banks.  Andrés,  López-Salido  and  Nelson  (2004)  incorporate 
+imperfect substitutability between short- and long-term bonds. Here the lack of a secondary 
+market for long bonds is the source of the friction. In this model, base money expansion by a 
+central  bank  can  relieve  portfolio  constraints  and  lead  to  an  increase  in  demand  for  long 
+bonds, thereby raising their prices. 
+Much  of  this  literature  is  still  in  its  infancy  and  there  is  some  way  to  go  before  it  can  be 
+combined within an applied, quantitative model that policy makers can use. But the central 
+message  I  take  from  this  work  is  that  there  are  a  number  of  channels  through  which 
+monetary  policy  is  likely  to  be  able  to  influence  the  economy  at  the  zero  bound. 
+Unfortunately, the financial crisis meant that we had to put these insights into practice. When 
+doing so at the Bank, we placed weight on three key channels of monetary transmission: the 
+impact of imperfect substitutability and the portfolio rebalancing channel on relative prices, 
+the role of financial market liquidity, and the importance of expectations. 
+All  three  channels  were  important  in  the  design  of  the  Committee’s  asset  purchase 
+programme. Let me take them in turn. 
+Channels of transmission 
+To date, the Bank has purchased £200 billion of assets financed by the issuance of central 
+bank reserves, the vast majority of which have been relatively long maturity gilts. The central 
+objective  underlying  those  gilts  purchases  was  to  inject  a  substantial  amount  of  additional 
+money  into  the  economy.  The  main  behavioural  assumption  underlying  this  monetary 
+injection was that it would gain traction via a portfolio rebalancing channel. 
+Most UK government bonds are held by non-bank financial sector companies (OFCs), such 
+as  pension  funds  and  insurance  companies.3  As  long  as  these  investors  do  not  regard 
+money  as  a  perfect  substitute  for  gilts,  they  will  attempt  to  reduce  the  additional  money 
+holdings  associated  with  gilt  purchases  by  switching  into  other  assets.  This  process  of 
+portfolio rebalancing will continue until the yields on gilts and on alternative assets, such as 
+corporate bonds and equities, have fallen sufficiently to compensate investors for holding the 
+higher  level  of  money  balances.  The  degree  of  stimulus  associated  with  the  monetary 
+                                                 
+2   Del Negro, Eggertsson, Ferrero and Kiyotaki (2009) extend this framework to analyse monetary policy at zero 
+bound. 
+3   At the end of 2008, prior to the commencement of the asset purchase programme, almost 60% of outstanding 
+gilts were held by OFCs (of which 40% were held by insurance companies and pension funds), and 35% were 
+held by overseas investors. UK banks and building societies held only 4% of gilts. 
+BIS Review 29/2010 
+ 3
+injection will be greater the lower the substitutability between money and gilts, and the higher 
+the substitutability between gilts and other assets. 
+Trying to estimate the likely size of these effects is very difficult, not least because a policy of 
+this form and scale has never been implemented in the UK. There is a natural limit to what 
+can be learnt from past time-series relationships. A standard portfolio model of OFC’s money 
+demand, in which money holdings are jointly modelled with movements in asset prices and 
+relative rates of return, would suggest that asset purchases on the scale seen might increase 
+asset prices by the order of 20–30%.4 At first blush, this impact may seem surprisingly large. 
+But  it  is  important  to  remember  that  the  scale of  the  asset  purchases made  over  the  past 
+year is truly substantial, amounting to some 14% of nominal GDP. But there are obviously 
+huge uncertainty bands surrounding this type of estimate and I would not be surprised if it 
+was revised, perhaps significantly, as we learn more about the impact of our current policy. 
+These higher asset prices should help to stimulate increases in consumption and investment 
+via  wealth  and  cost-of-capital  channels.  But  the  transmission  of  the  monetary  stimulus 
+through  to  higher  nominal  spending  may  occur  only  gradually.  This  suggests  that  a 
+significant impact from our asset purchases is still to come through. 
+An important issue when thinking about the likely channels of monetary transmission is the 
+state of the banking system. In normal times, a key channel through which asset purchases 
+might  be  expected  to  operate  is  by  increasing  banks’  stocks  of  liquid  assets,  which  may 
+encourage them to extend new loans. But we are not in normal times. Banks are pulling back 
+on their lending as they seek to strengthen their balance sheets and reduce their leverage. 
+For  this  reason,  when  making  an  assessment  of  the  likely  impact  of  asset  purchases,  the 
+Committee did not factor in a material expansion of bank lending. 
+Indeed,  our  asset  purchases  were  designed  to  facilitate  a  disintermediation  of  corporate 
+financing away from banks and toward capital markets. This disintermediation was supported 
+in part by the portfolio rebalancing triggered by our gilt purchases. As investors’ demand for 
+alternative assets such as corporate bonds and equities increased, the ability of businesses 
+to raise finance in capital markets improved and the cost fell. 
+This disintermediation was reinforced by the Bank’s operations to improve the functioning of 
+corporate credit markets. The financial market dislocation in the immediate aftermath of the 
+crisis hindered the functioning of the commercial paper and corporate bond markets and led 
+to  substantial  increases  in  liquidity  premia.  In  response,  the  Bank  established  facilities  to 
+make  small  regular  purchases  of  corporate  bonds  and  commercial  paper,  with  the  aim  of 
+aiding secondary market liquidity. The significance of these purchases of private sector debt 
+should  not  be  judged  by  their  scale,  which  was  tiny  in  comparison  to  gilt  purchases.  The 
+purpose of these operations was not to purchase a specific quantity of assets, but rather to 
+improve  the  functioning  of  those  markets.  In  that  respect,  the  knowledge  that  the  Bank 
+stands ready to purchase assets may be as beneficial as actual purchases.5 
+The importance of expectations also played a central role in the design of our asset purchase 
+programme.  It  was  vitally  important  that  the  Monetary  Policy  Committee  was  able  to 
+introduce a new policy instrument at the point at which Bank Rate reached its effective lower 
+bound.  This  instrument  had  to  be  credible,  both  in  terms  of  its  economic  impact  and  the 
+willingness of the Committee to use the instrument in force. My own view is that the speed 
+with which the asset purchase programme was introduced and the scale of the programme 
+played  an  important  role  in  reaffirming  the  MPC’s  commitment  to  achieving  the  inflation 
+target and reinforcing the belief in our ability to do so. 
+                                                 
+4   See, for example, Thomas (1997). 
+5   See Fisher (2010) for a more detailed discussion of these operations. 
+4 
+ BIS Review 29/2010
+Estimating the effects so far 
+So what impact have our asset purchases had to date? 
+That’s the two hundred billion pound question. Unfortunately, it is hard to provide a definitive 
+answer. To be clear this is no different from our inability to assess precisely the impact of the 
+reduction in Bank Rate from 5% to 0.5%. Or indeed of any macroeconomic policy measure. 
+Without  knowing  what  would  have  happened  in  the  absence  of  a  policy  action,  it  is  not 
+possible to identify its incremental impact. But what is different is that this policy instrument is 
+relatively untried and untested. So the demand to provide some insight into its impact is that 
+much greater. This demand is quite understandable, but difficult to satisfy. 
+One  possible  approach  to  assessing  the  impact  of  our  asset  purchases  is  to  consider  the 
+growth  of  broad  money.  A  key  principle  underlying  the  asset  purchase  programme  is  the 
+belief  in  a  causal  mechanism  running  from  increased  money  balances  into  higher  asset 
+prices and nominal spending. This mechanism can be expressed in terms of a process of 
+portfolio rebalancing in which yields of different assets adjust in order for the higher level of 
+money balances to be willingly held. But the same mechanism could be expressed in terms 
+of  a  monetarist  approach,  in  which  asset  purchases  work  through  measures  of  money 
+disequilibrium  which  in  turn  spur  additional  spending.  These  different  frameworks  are 
+sometimes  presented  as  conflicting  models  of  the  transmission  of  asset  purchases.  But  I 
+view  them  as  essentially  two  sides  of  the  same  coin.  Importantly,  they  share  the  same 
+fundamental assumption about why monetary policy at the zero bound can stimulate nominal 
+spending: namely, imperfect substitutability between money and other assets. 
+Over  the  past  year,  despite  money-financed  asset  purchases  totalling  £200  billion,  broad 
+money has increased by just £8 billion.6 What should we make of this weakness? In part it 
+speaks  to  the  counterfactual.  The  falls  in  nominal  spending  and  the  desire  by  banks  to 
+reduce leverage means that, absent the monetary injection, broad money would have almost 
+certainly been far weaker. But it is also symptomatic of the scale of the new equity and debt 
+raised by UK banks over this period which, together with retained profits, totals more than 
+£85 billion. Given that the non-bank private sector is likely to have been the source for much 
+of this funding, this is likely to have squeezed broad money growth. But the counterpart to 
+this fall in private sector deposits is a strengthening in banks balance sheets which should in 
+turn aid the recovery by improving the availability of bank lending. So the monetary impulse 
+still operates. 
+One  approach  to  help  mitigate  the  counterfactual  problem  is  to  use  event  studies  which 
+consider the impact of QE announcements on asset prices over relatively short windows.7 
+Gilt  yields  may  respond  to  such  policy  announcements  both  because  of  the  impact  gilt 
+purchases have on the yields at which investors are willing to hold the reduced supply of gilts 
+– the portfolio balance effect – and because of the information the announcement may be 
+perceived  to  contain  about  the  future  stance  of  monetary  policy  –  one  element  of  the 
+expectations channel. 
+It  is  possible  to  get  some  indication  of  the  size  of  the  portfolio  effect  by  considering 
+movements in the spread of gilt yields to Overnight Indexed Swap (OIS) rates, which should 
+not  be  affected  by  changes  in  the  relative  supply  of  gilts.  Although  precise  estimates  vary 
+according to the maturity of the gilts and the size of the window, summing movements in gilt-
+OIS  spreads  following  our  announcements  suggests  that  the  portfolio  balance  effect  may 
+have reduced gilt yields by around 100 basis points. Again, a pretty sizeable effect. 
+                                                 
+6   This excludes the money holdings of intermediate OFCs. See the box on page 13 of the May 2009 Inflation 
+Report for discussion of the reasons for excluding intermediate OFCs in measures of broad money. 
+7   This is in a similar spirit to Bernanke, Reinhart and Sack (2004). 
+BIS Review 29/2010 
+ 5
+Similarly, movements in OIS rates following policy announcements may provide a guide to 
+the  extent  to  which  the  announcements  affected  expectations  about  the  future  stance  of 
+monetary policy. OIS rates fell sharply following the initial announcements of QE, particularly 
+at  short  horizons,  suggesting  these  announcements  caused  market  participants  to  revise 
+down the expected future path of Bank Rate. However, perhaps not surprisingly, as QE has 
+become better understood, OIS rates have responded less to more recent announcements. 
+This is consistent with market participants increasingly viewing QE as part of the systematic 
+component  of  monetary  policy.  To  the  extent  that  gilt  yields  and  other  asset  prices  have 
+moved in response to this systematic component, these movements would not be captured 
+by event studies and hence looking only at announcement effects may tend to understate the 
+impact of QE. 
+Gilts make up a relatively small proportion of total assets held by the private sector. As such, 
+when  assessing  the  overall  impact  of  our  asset  purchases  it  is  important  to  consider  the 
+increase in other asset prices. Since we started QE, equity prices have increased by more 
+than  50%,  and  corporate  bond  yields  have  fallen  by  over  400  basis  points.  These 
+movements  have  been  very  beneficial  for  the  economy  and,  when  starting  our  asset 
+purchases  a  year  ago,  I  would  have  been  more  than  willing  to  have  settled  for  such  an 
+outcome. 
+However, it is difficult to identify the incremental role of QE in driving these improvements. 
+These other asset prices may respond less quickly to asset purchase announcements and 
+so are less easily isolated using event studies. Moreover, these movements coincided with a 
+global  rally  in  financial markets,  which  further  complicates  the  task  of isolating  UK-specific 
+effects.  However,  it  is  important  to  see  this  global  rally  in  the  context  of  the  similar  policy 
+strategies adopted by a number of the world’s most important central banks: official interest 
+rates  were  cut  to  very  low  levels  and  central  banks’  balance  sheets  in  many  parts  of  the 
+world  were  greatly  expanded.  The  fact  that  UK  capital  markets  moved  in  line  with  global 
+markets during this period does not suggest that domestic policy had little impact. 
+Indeed,  I  have  little  doubt  that  our  asset  purchases  contributed  substantially  to  these 
+movements,  via  the  channels  I  have  discussed.  Through  a  portfolio  rebalancing  effect,  as 
+both  retail  and  institutional  investors  switched  out  of  gilts  into  alternative  assets,  such  as 
+corporate  bonds  and  equities.  Through  improvements  to  market  liquidity,  aided  by  our 
+purchases  of  commercial  paper  and  corporate  bonds.  And  through  their  impact  on 
+expectations, as asset purchases demonstrated our commitment to act, boosted confidence 
+in  the  economic  environment  and  so  reduced  the  likelihood  of  further  large  falls  in  asset 
+prices. 
+The  ultimate  success  of  QE  will  depend  on  whether  the  monetary  injection  and  increased 
+asset prices stimulate nominal spending and so help achieve the 2% inflation target in the 
+medium term. Much of the impact of our asset purchases to date is to still to come through 
+and  so  it  is  too  early  to  judge  their  final  impact.  However,  in  that  respect,  it  is  perhaps 
+noteworthy that nominal GDP in the UK grew at an annualised rate of around 4% during the 
+third and fourth quarters of 2009. These estimates are still relatively early and so subject to 
+considerable uncertainty. But there are perhaps some tentative signs that nominal spending 
+in our economy is starting to accelerate. 
+Conclusion 
+It is exactly a year since the MPC started its programme of large-scale asset purchases. The 
+move to quantitative easing met with mixed reactions. Some commentators claimed that it 
+would  end  in  inflationary  tears.  Many  academics  questioned  whether  it  would  have  any 
+impact at all. 
+From the outside, you may imagine that this was a difficult decision for a committee of nine, 
+conservative  central  bankers  to  reach.  In  fact,  from  my  perspective  the  decision  was 
+6 
+ BIS Review 29/2010
+relatively straightforward. The inflation target provides a clear, numerical objective for policy. 
+The outlook for inflation suggested further monetary stimulus was necessary to achieve that 
+target.  With  Bank  Rate  close  to  its  lower  bound,  this  stimulus  had  to  be  implemented  via 
+alternative means. And there are clear and convincing economic arguments why – in the real 
+world – injecting money directly into the economy is likely to provide a means of achieving 
+that stimulus. 
+One year on, there is a range of evidence – some relatively hard, some more circumstantial – 
+that quantitative easing is having its desired effect. Asset prices have increased substantially, 
+companies have made record recourse to debt and equity markets, confidence has recovered 
+and inflation expectations remain firmly anchored. But there is still a long way to go. The bulk of 
+our asset purchases have been made only over the last 9 months or so. Much of their effect 
+on nominal spending and inflation is still to come through. We are likely to learn a lot about 
+the transmission of those purchases and about their ultimate impact over the course of the 
+next year. 
+As  you  know,  at  its  meetings  in  February  and  March,  the  Committee  decided  to  maintain 
+Bank Rate at 0.5% and to maintain the stock of asset purchases at £200 billion. It is worth 
+emphasising two important considerations underlying these most recent decisions. First, the 
+portfolio balance channel implies that the primary stimulus from QE stems from the stock of 
+past  purchases,  not  the  flow  of  additional  ones.  As  such,  maintaining  the  stock  of  asset 
+purchases, together with the low level of Bank Rate, should continue to impart a substantial 
+stimulus to the economy for some time to come. 
+Second,  the  Committee  stands  ready  to  make  further  asset  purchases  should  the  outlook 
+warrant  them.  Just  as  with  movements  in  Bank  Rate  in  more  normal  times,  a  pause  in 
+monetary loosening does not necessarily mean that loosening has come to an end. It will all 
+depend on how the outlook for inflation evolves. 
+Looking  further  ahead,  the  Committee  at  some  point  will  need  to  reduce  the  current 
+exceptional degree of monetary stimulus. Some commentators have suggested that the MPC 
+has been less forthcoming than other central banks in explaining its exit strategy. But to a 
+large extent this reflects the fact that we have less to communicate. The Committee has two 
+instruments through which it can withdraw the stimulus, raising Bank Rate and selling assets. 
+Unlike  some  other  central  banks  which  need  to  create  new  instruments  to  drain  excess 
+reserves  or  alter  the  terms  of  existing  facilities,  the  structure  of  the  Bank’s  operating 
+framework  means  these  two  instruments  can  be  used  at  any  time,  in  any  order.  And  the 
+strategy guiding our policy decisions will be unchanged – monetary policy will continue to be 
+determined by the outlook for inflation relative to target. The most difficult decision will be to 
+decide the timing of the withdrawal, but that is always the case. 
+The  aftermath  of  the  financial  crisis  posed  many  questions  for  the  theory  and  practice  of 
+monetary policy. One year on from reaching the effective lower bound of interest rates and 
+starting a policy of quantitative easing, there is still much for academics and policy makers to 
+learn. I hope today’s conference will mark another step in that collaboration. 
+References 
+Andres,  J,  Lopez-Salido,  D  J  and  Nelson,  E  (2004),  “Tobin’s  imperfect  substitution  in 
+optimising  general  equilibrium”,  Journal  of  Money,  Credit  and  Banking,  Vol.  36,  No.  5, 
+pages 665–90. 
+Bernanke, B S, Reinhart, V R and Sack, B P (2004), “Monetary policy alternatives at the 
+zero  bound:  an  empirical  assessment”,  Brookings  Papers  on  Economic  Activity,  Issue  2, 
+pages 1–78. 
+Brunnermeier,  M  K  and  Pedersen,  L  H  (2009),  “Market  liquidity  and  funding  liquidity”, 
+Review of Financial Studies, Vol. 22(6), pages 2201–38. 
+BIS Review 29/2010 
+ 7
+Duffie, D, Gârleanu, N and Pedersen, L H (2007), “Valuation in over-the-counter markets”, 
+The Review of Financial Studies, Vol. 20. 
+Del Negro, M, Eggertsson, G, Ferrero, A and Kiyotaki, N (2009), “The great escape? A 
+quantitative  evaluation  of  the  Fed’s  non-standard  policies”,  Manuscript,  Federal  Reserve 
+Bank of New York and Princeton University. 
+Eggertsson,  G  and  Woodford,  M  (2003),  “The  zero  bound  on  interest  rates  and  optimal 
+monetary policy”, Brookings Papers on Economic Activity 1, 212–219. 
+Fisher,  P  (2010),  “The  corporate  sector  and  the  Bank  of  England’s  Asset  Purchases”, 
+Association of Corporate Treasurers Winter Paper. 
+Gertler,  M  and Kiyotaki, N (2009),  “Financial intermediation  and  credit  policy  in  business 
+cycle analysis”. Manuscript, New York University and Princeton University. 
+Kiyotaki,  N  and  Moore,  J  (2008),  “Liquidity,  business  cycles  and  monetary  policy”, 
+Manuscript, Princeton University. 
+Thomas, R (1997), “The demand for M4: a sectoral analysis, part 2 – the corporate sector”, 
+Bank of England Working Paper, No. 62. 
+Tobin, J (1958), “Liquidity preference as behaviour towards risk”, The Review of Economic 
+Studies, Vol 25, No 2. 
+Vayanos, D and Weill, P-O (2008), “A search-based theory of the on-the-run phenomenon,” 
+Journal of Finance, Vol 63, pp 1361–98. 
+Walsh, C (2003), Monetary theory and policy, The MIT Press. 
+Woodford, M (2003), Interest and prices, Princeton University Press. 
+8 
+ BIS Review 29/2010

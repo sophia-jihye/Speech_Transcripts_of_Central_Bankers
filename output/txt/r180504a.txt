@@ -1,0 +1,177 @@
+Benoît  Cœuré:  A  cooperative  approach  to  CCP  recovery  and
+resolution
+Panel intervention by Mr Benoît Cœuré, Member of the Executive Board of the European Central
+Bank, at the ILF Conference on "Resolution in Europe: the unresolved questions", Frankfurt am
+Main, 23 April 2018.
+ 1
+The order of the topics at today’s conference on “resolution in Europe” was well planned.
+The  fact  that  we  are  discussing  central  counterparty  (CCP)  resolution  after  discussing  bank
+resolution echoes the fact that CCP resolution is, by and large, an event that occurs only when
+all other safeguards, including bank resolution, have failed.
+There are a number of reasons for this.
+One is that the ways in which CCPs are set up makes them particularly resilient. CCPs are not
+banks, they are (financial market) infrastructures.
+They manage the risk of a matched book and rely on the strength of their membership to provide
+margin and to share losses if this proves insufficient. Bail-in is integral to CCPs’ operational set-
+up,  as  clearing  members  are  required  to  share  losses.  In  this  way,  their  resilience  is  further
+strengthened  by  banking  supervision  and  recovery  and  resolution  arrangements  which  help
+ensure that clearing members meet their obligations.
+2
+Another reason for CCPs’ resilience is the implementation of international standards.
+The Principles for Financial Markets Infrastructures of the Committee on Payments and Market
+Infrastructures (CPMI) and the International Organization of Securities  Commissions  (IOSCO)
+have  recently  benefitted  from  more  granular  guidance  providing  clarity  to  CCPs  and  their
+3
+regulators.
+This also includes risks other than financial ones. The adoption of the CPMI-IOSCO guidance on
+cyber resilience for financial market infrastructures, for example, is an important step towards
+4
+operational resilience.
+Yet, while CCP resolution remains a very unlikely event, the disorderly failure of a major CCP
+would be disastrous.
+Many CCPs are globally systemic, responsible for clearing global markets and with participants
+from  across  the  world.  This  is  why  the  Financial  Stability  Board  (FSB)  guidance  on  central
+counterparty  resolution,  and  its  focus  on  planning  and  cooperation  between  authorities,  is
+important.
+Cooperation in resolution planning, and co-ordination between recovery and resolution planning,
+is essential to ensure that a CCP is always able to continue performing its systemically relevant
+functions across all concerned jurisdictions. I will return to this in a minute.
+I  also  welcome  the  fact  that  policy  discussion  is  now  scrutinising  seriously  the  wisdom  of
+increased  top-down  prefunding  requirements  for  CCP  resolution.  It  is  doubtful  that  such
+requirements would be effective or proportionate, given the very low probability of CCP resolution
+and the marked differences between CCPs’ risk profiles.
+What is more, increasing funding requirements could discourage the use of CCPs and instead
+push counterparties towards riskier and more opaque bilateral clearing. And while I would not
+ 1 / 4
+BIS central bankers' speeches
+exclude  cases  where  additional  financial  resources  should  be  available  for  both  recovery  and
+resolution, ring-fencing resources for resolution only may distort the incentives of all stakeholders
+to support a successful recovery.
+That  said,  the  resolution  authority  should  have  flexibility  to  determine  the  optimal  choice  of
+available  tools,  as  well  as  the  best  point  in  time  for  entry  into  resolution,  as  long  as  the  “no
+creditor worse off” principle is respected.
+It  is  helpful  to  assess  how  further  guidance  could  support  authorities  in  assessing  potential
+resolution funding needs for individual CCPs, taking into account, for example, the specific risk
+characteristics of the products they clear, the types of market they serve and the concentration in
+CCP memberships. I fully support work currently under way in the FSB in this respect.
+Today, I would like to focus on three key areas where more work is needed.
+First, more international cooperation is needed.
+Authorities  responsible  for  several  major  cross-border  CCPs  have  not  yet  embarked  on
+5
+resolution planning and no cross-border crisis management arrangements are yet in place.
+This  could  be  because  of  barriers  to  sharing  confidential  information,  including  different
+approaches  as  to  what  is  considered  confidential  and  what  timely.  If  that  is  true,  then  these
+barriers need to be removed.
+Likewise, authorities may be reticent to engage with others while legislative frameworks are still
+evolving.  Assessing  the  cross-border  implications  of  a  CCP  resolution  takes  time  and
+discussions should get under way as soon as possible.
+CPMI and IOSCO are conducting some work in this respect.
+Second, authorities need to better understand how a CCP resolution might look like.
+CCP resolution scenarios cannot be defined in absolute, quantitative terms given the nature of
+market  events  causing  resolution.  There  will  always  be  considerable  uncertainty  around  CCP
+resolution and related funding needs.
+Nevertheless,  further  steps  should  be  taken  to  improve  the  analytical  foundation  of  CCP
+resolution planning and to better prepare authorities.
+While the FSB is addressing this issue in its report, I see two steps in particular.
+First, CPMI and IOSCO have recently published guidance for supervisory stress testing, which
+6
+includes guidance on how multiple authorities can conduct stress tests.
+Testing a CCP’s recovery plan by authorities may help to assess the market conditions under
+which recovery – and potentially resolution – may be necessary, as well as the potential funding
+required. Internationally coordinated stress-testing is essential to foster a better understanding of
+the aggregate amount and quality of committed funding that is available across major CCPs.
+Co-ordinating  CCP  and  banking  stress  testing  will  provide  additional  understanding  on  how
+resolution plans would work in case of extreme scenarios.
+Second, recent analysis of central clearing interdependencies carried out by the standard-setting
+committees  has  revealed  the  limited  number  of  banking  groups  that  are  members  of  CCPs
+7
+across the world, thereby closely linking CCPs themselves.
+Even  without  stress  testing,  it  is  easy  to  understand  that  a  CCP  under  stress  would  send  a
+ 2 / 4
+BIS central bankers' speeches
+liquidity shockwave across its participants and beyond as it requires additional margins and/or
+passes on losses. This is especially important for central banks. With stress testing, potential
+funding strains can be further explored, and useful information for CCP and bank supervisors as
+well as resolution authorities can be gleaned.
+Third, European arrangements for CCP recovery and resolution must be coordinated.
+The significant interdependencies between CCPs globally are also present in the Single Market.
+8
+Resolution planning should therefore be coordinated across all European Union CCPs.
+This is crucial to preserve financial stability within the Union in the event of a crisis.
+Critics  of  EU-wide  coordination  claim  that  the  fiscal  risks  of  central  clearing  arise  primarily  in
+CCPs’ respective home countries. But given that cross-border membership of EU banks in EU
+CCPs is widespread, this argument is flawed.
+The losses faced by a CCP during default management and recovery and resolution are mostly
+borne  by  its  clearing  members,  rather  than  by  the  CCP  itself.  Even  though  a  CCP’s  home
+country may choose to provide temporary public funding during resolution, such support would
+be recouped from clearing members, in line with their obligations to contribute to comprehensive
+loss absorption.
+Therefore, fiscal risks would in fact appear to arise in countries in which major CCP participants
+are located. Domestic authorities may need to provide these participants with financial support if
+they are faced with large payment obligations due to CCP losses.
+Thus, EU-wide coordination in resolution planning is necessary to ensure that system-wide risks
+are fully identified and mitigated in a fair and effective manner.
+At  the  same  time,  a  resolution  is  not  a  discrete  event.  The  boundaries  between  default
+management and recovery and resolution are blurred, so it is important to align responsibilities
+and control measures throughout the potential lifecycle of EU CCPs.
+The resolution of a CCP relies, to a large extent, on the recovery process. Under the legislative
+proposal for a regulation on CCP recovery and resolution, authorities will be required to enforce
+CCPs’ contractual obligations before using any resolution tools, subject to limited exemptions.
+Another aspect to keep in mind is that systemic risk for the Single Market may arise not only from
+EU  CCPs,  but  also  from  non-EU  CCPs  with  substantial  activities  in  the  EU.  This  aspect  will
+become increasingly important after the United Kingdom’s departure from the EU.
+Against  this  background,  current  efforts  to  strengthen  the  EU  arrangements  for  third  country
+CCPs are very important. In particular, if a third country CCP is systemically important for the
+EU, it is not enough to focus on regulatory equivalence alone.
+While deference to home country rules and supervisors should be used to the extent possible,
+EU authorities also need to have tools for direct liaison with a third country CCP to identify, clarify
+and address issues that may pose specific concerns from an EU financial stability perspective.
+This is fully in line with the set up in other major jurisdictions.
+Similarly, as regards CCP resolution, the development of home country arrangements in line with
+international standards must be complemented with the involvement of relevant EU authorities in
+resolution  planning  in  line  with  international  standards,  to  ensure  that  their  systemic  risk
+concerns are fully taken into account.
+To sum up, CCPs are systemically important across border and across the EU. Any recovery
+and  resolution  planning  for  individual  CCPs  therefore  requires  an  EU  wide  systemic  risk
+ 3 / 4
+BIS central bankers' speeches
+assessment and a strong co-ordination at global level.
+At EU level, this could involve, for instance, aggregated data collection, joint stress-testing and
+crisis simulation exercises, and the closer coordination of related supervisory assessments and
+recovery and resolution planning. And given the financial stability, macroprudential and liquidity
+issues a CCP resolution raises, central banks must be involved in all aspects of this work.
+Thank you.
+1
+2
+3
+4
+5
+6
+7
+8
+ I would like to thank Corinna Freund for her contributions to this speech. I remain solely responsible for the
+opinions contained herein.
+At all times, CCPs are required to hold prefunded, high quality collateral to cover 99% of current and potential
+losses that may arise from their participants defaulting. On top of this, they need to hold additional resources to
+withstand a range of extreme but plausible stress scenarios. These could include, for instance, the two largest
+participants in a major cross-border CCP defaulting. To prepare for situations of even more extreme market
+distress, CCPs also need to formulate recovery plans that show how they intend to absorb losses and restore
+business  viability.  See  Cœuré,  B.  (2015),  “Ensuring  an  adequate  loss-absorbing  capacity  of  central
+counterparties,”  Remarks  at  the  Federal  Reserve  Bank  of  Chicago  2015  Symposium  on  Central  Clearing,
+Chicago, 10 April.
+See CPMI-IOSCO (2017), “Recovery of financial market infrastructures – Revised report”, July.
+See  CPMI-IOSCO  (2016),  “Guidance  on  cyber  resilience  for  financial  market  infrastructures”,  June.  The
+Eurosystem  recently  established  the  Euro  Cyber  Resilience  Board  (ECRB)  for  pan-European  Financial
+Infrastructures,  which  will  help  raise  awareness  and  provide  a  platform  for  discussing  issues  related  to
+cybersecurity.  See  Cœuré,  B.  (2018),  “A  Euro  Cyber  Resilience  Board  for  pan-European  Financial
+Infrastructures”, introductory remarks at the first meeting of the ECRB, Frankfurt, 9 March.
+Under the FSB Key Attributes of Effective Resolution Regimes, FSB members have committed to establish
+crisis management groups for CCPs that are systemically important in more than one jurisdiction.
+See CPMI-IOSCO (2018), “Framework for supervisory stress testing of central counterparties (CCPs)”, April.
+See BCBS, CPMI, FSB and IOSCO (2017), “Analysis of central clearing interdependencies”, 5 July.
+See also ECB (2017), Opinion of the European Central Bank on a proposal for a regulation of the European
+Parliament and of the Council on a framework for the recovery and resolution of central counterparties and
+amending  Regulations  (EU)  No  1095/2010,  (EU)  No  648/2012,  and  (EU)  2015/2365  (CON/2017/38),  20
+September.
+ 4 / 4
+BIS central bankers' speeches

@@ -1,0 +1,674 @@
+    
+ 
+How to: MACROPRU. 5 principles for macroprudential policy  
+ 
+Speech given by 
+Alex Brazier, Executive Director for Financial Stability Strategy and Risk 
+Member of the Financial Policy Committee 
+   London School of Economics, Financial Regulation Seminar 
+Monday 13 February 2017 
+  I am grateful to David Aikman, Jonathan Bridges, Matthieu Chavaz, Angus Foulis, Rønnaug 
+Johansen, Vasileios Madouros, Joseph Noss, Rachana Shanbhogue, Robert Sturrock and Jagdish 
+Tripathy for their help in preparing these remarks.   
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+1 
+    
+ 
+It is an honour to be here at this LSE London Financial Regulation Seminar. 
+ My theme this evening is macroprudential policy – the business of ensuring, through regulation, that the 
+financial system can serve the real economy, in good times and bad.     
+ Macroprudential policy regimes are the child of the financial crisis; the institutional memory of the mistakes 
+and behaviour that led to the crisis and that had such severe cost. 
+ And the LSE has been the scene of many important contributions to assessing what went wrong and to the 
+building of the post-crisis regime, including from central bank governors, past and present.    
+ So I stand tonight on the shoulders of giants.  But I want to simultaneously keep my feet firmly on the ground 
+– on the practice of macroprudential policy.  
+ It’s now part of the framework of economic policy in the UK. Like monetary policy, it has a statutory policy 
+committee to set it – the Financial Policy Committee of the Bank of England.  And yet, if you ask ten 
+economists what precisely macroprudential policy is, you’re likely to get ten different answers.   
+ 
+So the time has come to take stock.1  I want to lay out what I believe to be five guiding principles for 
+macroprudential policy.    
+ My aim in doing so is twofold: first, to help to build a common understanding of what it is and how it works; 
+and second, to engage the finest minds – you – in partnership to push the frontiers of knowledge in ways 
+that can make it better.   
+ 
+1)  “It’s the real economy, stupid”2  
+ The first of my five principles is the one that motivates the whole exercise of macroprudential policy.   
+ For all that macroprudential policy may seem to be about regulating finance and the financial system, its 
+ultimate objective – borrowing from James Carville’s famous election campaign advice – is: the real 
+economy, stupid.3  
+ It is captured more precisely by Eric Rosengren (President of the Federal Reserve Bank of Boston) as 
+avoiding  circumstances in which “problems (or concerns about potential problems) within institutions, 
+markets, payments systems, or the financial system in general …substantially impact the expected path of 
+real economic activity.”4  
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+2 
+ 
+2 
+   
+ 
+These problems typically arise when the financial system is overwhelmed by events in the economy; when it 
+doesn’t have the resilience to absorb them and so amplifies them as:   
+ 
+Credit dries up.  Lenders are not matched with borrowers.5  
+ Risks can no longer be shared.  Companies and households must protect themselves.    
+ And in the limit, payments and transactions can’t take place.  Economic activity grinds to a halt.  
+ These are the amplifiers that turn downturns into disasters; disasters that in the past have cost around 75% 
+of GDP: £21,000 for every person in this country. 6  
+ So the job of macroprudential policy is to protect the real economy from the financial system, by 
+protecting the financial system from the real economy.  
+ It is to ensure the system has the capacity to absorb bad economic news, so it doesn’t unduly 
+amplify it.   
+ This real economy focus doesn’t for a minute mean that macroprudential policy is any sort of substitute for 
+monetary policy in managing the regular business cycle.  
+ In fact, it fundamentally complements monetary policy.   
+ It relieves the burden on monetary policy to ‘mop up’ vigorously if and when the financial system amplifies a 
+downturn.   
+ And if the 2008 financial crisis proved one thing only, it was the failure of the doctrine that monetary policy 
+had sufficiently powerful floor cleaning equipment to protect the real economy from the full force of such 
+spillages.7  
+ Focussing on the ultimate aim – the real economy – also reminds us not to intervene in ways that 
+themselves damage the real economy.  
+ Building a system that could absorb all shocks would be counterproductive.  In the same way, road safety 
+would be dramatically improved by a universal 10mph speed limit.  But we don’t do that: the economic and 
+social costs it imposed would be vast.8   
+ Our interventions to strengthen the system have to be expected to support the real economy more in the bad 
+times than they hold it back in the good.  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 3 
+ 
+3 
+  
+ 
+Such benefits are to be found – as always – where private decisions have failed to internalise the wider costs 
+of their defences being overwhelmed in the bad times and hence, have too little capacity to absorb shocks  
+That is, where there are externalities.   
+ It’s well known, for example, that banks would choose to have too little capacity to absorb losses – too little 
+equity capital – because their current shareholders don’t bear the full economic costs of their failure or 
+distress.   
+ The economy needs better capitalised banks than the free market would deliver.   
+ But it’s also possible that, beyond a point, more loss absorbing capacity actually diminishes the ability of the 
+system to do its job for the real economy, day in, day out.9   
+ Depositors want to be sure they’ll get their money back, immediately.  Equity holders seem to want their 
+equity to be equity-like.  That is, to be risky and compensated accordingly.     
+ The result is that the cost of banking to the real economy rises as banks substitute debt (deposits) for loss 
+absorbing equity.  The famous Modigliani-Miller result does not fully hold in practice.10   
+ Too little capacity to absorb losses and the real economy pays when the system amplifies bad times. 
+ Too much capacity and the real economy pays because the system can’t perform as efficiently in the good 
+times.  
+ So in determining bank capital and more generally, macroprudential policy is a balancing act.  To support the 
+real economy it must be both prudent and make economic sense.  
+ But make no mistake: the consequences of the financial system’s defences being overwhelmed are typically 
+so great that it should be able to absorb very severe economic shocks.  Tales of such shocks should be 
+passed down through generations.   
+ 2)  “What could, not what will” 
+ Central to assessing that the system can absorb severe shocks – is stress testing.    And my second 
+principle is the one that guides the calibration of the economic scenarios that we test the system against.   
+ It is to always make sure those scenarios are the answer to “what could happen?”, not to “what will 
+happen?”.  In this principle, we embody a central lesson of the financial crisis.  
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+4 
+ 
+4 
+   
+ 
+Our shared profession is easily criticised for its failure to foresee the crisis.  But clairvoyance is not a 
+reasonable standard to be held to.  The real failure of economists was that too much energy was devoted to 
+forecasting – to trying to assess whether economies would turn down – and not enough was spent analysing 
+the question of “well, what if they do; how bad could it be?”  And as a result, the financial system was 
+unprepared.   
+ It was not a failure of economics.  It was a failure to apply economics to the right question.  
+ Without economics, the answers to “how bad could it be?” relied all too often on recent historical precedent; 
+on this time being different. 11   
+ And, even more dangerously, they relied on market measures of risk; indicators that – as recent work at here 
+the LSE Systemic Risk Centre shows – often point to risks being at their lowest when risks are actually at 
+their highest.12 
+ The Financial Policy Committee’s mandate is to break free of the shackles of forecasting, to free us from 
+trying to predict if the economy will turn down, and to apply economic analysis to the question of how bad it 
+could be if it did.13 The re-focussing of economic research since the crisis has supported us in that.  It has 
+established, for example, how far: 
+ 
+Recessions that follow credit booms are typically deeper and longer-lasting than others14; 
+ 
+Over-indebted borrowers contract aggregate demand as they deleverage15;  
+ While they have high levels of debt, households are vulnerable to the unexpected.  They cut back spending 
+more sharply as incomes and house prices fall, amplifying any downturn16; 
+ 
+Distressed sales of homes drive house prices down17;  
+ 
+Reliance on foreign capital inflows can expose the economy to global risks18; 
+ 
+And credit booms overseas can translate to crises at home19.   
+ All of this economic analysis would still not have told us what would happen in 2007.  It would not have 
+allowed us to predict the roll of the economic dice.  But it would have revealed that a bad roll would have 
+very serious consequences.     
+ The financial system could have been stress tested against that.  Its resilience could have been reinforced.  
+It could have been prepared.   What became a disaster could have been contained to a downturn.  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+5 
+ 
+5 
+   
+ 
+Now, with my second principle ringing in our ears, the toughness of our stress scenarios reacts not to 
+whether a downturn is likely to unfold but to how deep it could be if it did.  So when all appears bright – as 
+real estate prices rise, credit flows, foreign capital inflows increase, and the last thing on people’s minds is a 
+downturn – our stress scenarios get tougher.   
+ And my first call to arms for academia this evening is for further research into indicators that can help to 
+guide us in asking how bad it could be.   
+ 3)  The system is not the sum of its parts 
+ My next principle concerns the stress tests themselves – where the stress scenario is applied to the system.     
+ It is to beware; the system is not the sum of its parts.   
+ Feedback loops within the system mean that the entities in the system can be individually resilient, but still 
+collectively overwhelmed by the stress scenario.  
+ These are the feedback loops that helped to turn around $300 bn of subprime mortgage-related losses into 
+well over $2.5 trillion of potential write-downs in the global banking sector within a year.20   
+ There are the obvious feedback loops that arise because entities have direct exposure to each other: think 
+lending from one bank to another.     
+ The good news is that the importance of this loop is now negligible.  Unsecured interbank lending has 
+contracted and banks are materially less leveraged.21 And this loop is now incorporated into our annual 
+banking system stress test, so should it ever re-assert itself, we can ensure resilience keeps up.  
+ But we need to go further.   
+ At the next level are the feedback loops that link seemingly unrelated entities in the system.  These are loops 
+created by firesales of assets into illiquid markets, driving down market prices, forcing others to mark down 
+the value of their holdings.22  
+ This type of loop will be most aggressive when the fire-seller is funded through short-term debt. As asset 
+prices fall, there is the threat of needing to repay that debt.23 
+ But even financial companies that are completely safe in their own right, with little leverage, and making no 
+promise that investors will get their money back, can contribute to these loops.   
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+6 
+ 
+6 
+   
+ 
+The rapid growth of open-ended investment funds, offering the opportunity to invest in less liquid securities 
+but still to redeem the investment at short notice, has been a sea change in the financial system since the 
+crisis.  
+ 
+Assets under management in these funds now account for about 13% of global financial assets.24    
+ It raises a question about whether end investors, under an ‘illusion of liquidity’ created by the offer of  
+short-notice redemption, are holding more relatively illiquid assets.25 
+ 
+That matters.  Investors have shown a tendency to want to liquidate their holdings as asset prices fall.26  This 
+investor behaviour en masse has the potential to create a feedback loop, with falling prices prompting 
+redemptions, driving asset sales and further falls in prices.   
+ And in a few cases, that loop can be reinforced by advantages to redeeming your investment first.  
+ 
+Just look back seven months, to June 24th.  Following the referendum, markets downgraded the outlook for 
+UK commercial real estate prices and, amidst great uncertainty, the market went into hiatus.  
+ With no transactions taking place, open-ended funds found themselves needing to meet redemptions with 
+their cash buffers.  The valuations offered for redemptions were increasingly uncertain and – in some cases 
+– lagging behind investors’ perceptions of falling property values.  
+ You’d be hard pressed to create greater incentives for your investors to cash in.   
+ Faced with overwhelming redemption pressure, many funds were forced to suspend. Even so, at least 18 per 
+cent of the suspended funds’ assets under management – £2.3bn – had a for sale sign put up outside. 
+ Notwithstanding the recent signs that the market has stabilised, I welcome the Financial Conduct Authority’s 
+action to open up a public discussion of the challenges associated with funds that invest in illiquid assets and 
+offer short notice redemption.27 
+ The impact of firesales depends crucially on whether there are others out there willing to buy.    
+ The firesale feedback loop can be made more pernicious as ‘liquidity providers’ – the market-makers and 
+active investors – step back at the same time as others are selling into the market. 
+ In recent years, market-making dealers have been less willing to see their inventory of securities rise – a 
+preference likely to become more pronounced in times of higher volatility.28  And insurance companies and 
+pension funds can face incentives to step back as the value of their assets falls towards their liabilities.29 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+7 
+ 
+7 
+   
+ 
+Such behaviour is very understandable from the perspective of the individual company.  But as Andrew 
+Crockett of the BIS observed back in 2000, “actions that may seem desirable or reasonable from the 
+perspective of individual institutions may result in unwelcome system outcomes”.30 
+ That system outcome could be a feedback loop from falling asset prices to pressures on one side of the 
+market to sell and pressures on the other side not to buy; a loop that magnifies asset price falls.  
+ Asset prices are not our concern per se.  The question for macroprudential policy is whether these loops 
+mean that smaller economic shocks can overwhelm the financial system, amplifying the damage to the real 
+economy.  
+ To get at this, macroprudential policy must move – and is moving – beyond the core banking system.   
+ Our focus is increasingly on these loops, working in partnership with the LSE Systemic Risk Centre and 
+others.   
+ In partnership with other countries, we must – and are – developing system-wide simulations to examine how 
+the different entities – funds, insurers, dealers – combine to shape how the system responds to stresses.  
+ And my second call to arms for researchers in academia is to push out the frontiers of knowledge and 
+understanding of these feedback loops.   
+ 
+4)  An ounce of prevention can be worth a pound of cure31 
+ Having calibrated the economic stress and applied it to the system, it’s a question of building the necessary 
+resilience into it.  And the guiding principle here is that an ounce of prevention can be worth a pound of cure.  
+ The focus of strengthening the system since the crisis has been on building the resilience of the core 
+banking system.  
+ The results have been transformative.  A system that could absorb losses of only 4% of (risk weighted) 
+assets before the crisis now has equity of 13.5% and is on track to have overall loss absorbing capacity of 
+around 28%.32 Our stress tests show that it could absorb a synchronised recession as deep as the financial 
+crisis.  
+ And if signals emerge that what could happen to the economy is getting worse, or the feedback loops in the 
+system that would be set in motion are strengthening, we will go further.  
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+8 
+ 
+8 
+   
+ 
+But bank capital is not always the best tool to use to strengthen the system and is almost certainly not best 
+used in isolation.    
+ It is a classic ‘cure’ – a largely fatalistic approach, taking what could happen in the economy and the 
+feedback loops in the financial system as given, and ensuring they can be withstood.33   
+ Sometimes we must be fatalistic.  We don’t have the means to prevent foreign credit booms, for example.  
+But building resilience into the financial system solely using bank capital is equivalent to addressing road 
+safety only with tougher car safety standards – more airbags – while ignoring standards of driving behaviour.   
+ Such an approach is not robust: no airbags will deal with all types of crash.  
+ And it is not comprehensive: it won’t protect pedestrians, and pile-ups will still block important highways to 
+traffic.  
+ 
+In macroprudential policy as in road safety: an ounce of prevention can be worth a pound of cure.34  
+ Crash resilience must be accompanied with standards of driving behaviour that prevent accidents in the first 
+place – with speed limits and a Highway Code.  
+ We have applied that principle in the mortgage market.  Alongside capitalising banks to withstand a deep 
+downturn in the housing market, we have put guards in place against looser lending standards: 
+ A limit on mortgage lending at high loan-to-income ratios; 
+ 
+And a requirement to test that borrowers can still afford their loan repayments if interest rates rise.35   
+ These measures guard against lending standards that make the economy more risky; that make what could 
+happen even worse.  Debt overhangs – induced by looser lending standards – drag the economy down 
+when corrected.   And before they are, high levels of debt make consumer spending more susceptible to the 
+unexpected.36   
+ So they guard against lenders being exposed to both the direct risk of riskier individual loans, and the 
+indirect risk of a more fragile economy.  
+ This multiplicity of effects means there is uncertainty about precisely how much bank capital would be 
+needed to truly ensure bank resilience as underwriting standards loosen.37  A diversified policy strategy – 
+speed limits and air bags – is more robust to that uncertainty.  (Many economists remember the famous 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+9 
+ 
+9 
+   
+ 
+result of Brainard (1967) that uncertainty implies caution; few recall the more interesting result that 
+uncertainty motivates diversity – the use of all available policy tools in concert.38)  
+ A diversified policy is also more comprehensive.    
+ It guards against regulatory arbitrage; of lending moving to foreign banks or non-bank parts of the financial 
+system.   
+ And by reducing the risk of debt overhangs and high levels of debt, it makes the economy more stable too.   
+Why use the cure that creates just resilient banks when you can use the prevention that gives you a stronger 
+economy too?39   
+ Consideration must now be given to how far to take these road safety standards.  Is it optimal to address 
+risks from the commercial real estate market and consumer credit solely with the cure of bank capital?  Or 
+might a preventative approach be more robust and comprehensive?  
+ Similar consideration must also to be given to the feedback loops in the financial system.  Where should they 
+be addressed directly?  That is a topic for another day, but robustness and completeness will call for some to 
+be addressed directly.   Macroprudential policy – at home and internationally – is moving into this space.40   
+ So this is my third – and final – call to arms for academic research: where – in building resilience – is an 
+ounce of macroprudential prevention worth a pound of cure?  
+ 5)  Fortune favours the bold 
+ The fifth and final principle is one without which the others are superfluous.  It is that fortune favours the bold.   
+ The Financial Policy Committee needs to match its judgements that what could happen has got worse with 
+action to make the system more resilient.   
+ Why will that take boldness?   
+ Our actions will stop the financial system doing something it might otherwise have chosen to do in its own 
+private interest – there will be opposition.  
+ The need to build resilience will often arise when private agents believe the risks are at their lowest.  
+ And if we are successful in ensuring the system is resilient, there will be no way of showing the benefits of 
+our actions.  We will appear to have been tilting at windmills.  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 10 
+ 
+10 
+  
+ 
+As the memory of the financial crisis fades in the public conscience, making the case for our actions will get 
+harder.41 
+ Fortunately, we are bolstered by a statutory duty to act and powers to act with.  And whether on building 
+bank capital or establishing guards against looser lending standards, we have been willing to act.   
+ Just as building resilience takes guts, so too does allowing the strength we’ve put into the system to be 
+drawn on when ‘what could happen’ threatens to become reality.   
+ Macroprudential policy must be fully countercyclical; not only tightening as risks build, but also loosening as 
+downturn threatens.   
+ Without the confidence that we will do that, expectations of economic downturn will prompt the financial 
+system to become risk averse; to hoard capital; to de-risk; to rein in.  To create the very amplifying effects on 
+the real economy we are trying to avoid.  
+ A truly countercyclical approach means banks, for example, know their capital buffers can be depleted as 
+they take impairments;  
+ 
+Households can be confident that our rules won’t choke off the refinancing of their mortgage.42 
+ And insurance companies know their solvency won’t be judged at prices in highly illiquid markets.   
+ We must be just as bold in loosening requirements when the economy turns down as we are in tightening 
+them in the upswings.43 
+ Boldness in the upswing to strengthen the system creates the space to be bold in the downturn and allow 
+that strength to be tested and drawn on. Macroprudential fortune favours the bold.    
+ Conclusion 
+ To conclude, boldness is needed in general to set policy while the practice is so far ahead of the 
+development of the theory – the playbook.44 We are many years from having rules to guide macroprudential 
+policy.  
+ But the absence of the playbook doesn’t excuse an absence of clarity about what is guiding macroprudential 
+policy setting.  The principles I have outlined aim to provide a little more clarity; to begin to fill in the ‘how to’ 
+guide for macropru.   
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+11 
+ 
+11 
+   
+ 
+And I hope you will respond to my call to arms for your research to aid the development of that guide, 
+because we are a very long way from the last word.  We are not even at the first words of the last 
+chapter.  How to: macropru, is at best reaching the last words of its first chapter.    
+ I look forward to helping to write the rest together. 
+ Thank you.  
+    
+All speeches are available online at www.bankofengland.co.uk/speeches 
+12 
+ 
+12 
+   
+ 
+References  
+ Bahaj, S., Bridges, J., Malherbe, F. and C. O’Neill (2016): “What determines how banks respond to changes 
+in capital requirements?”, Bank of England Staff Working Paper 593. 
+http://www.bankofengland.co.uk/research/Documents/workingpapers/2016/swp593.pdf 
+ 
+Bahaj, S. and A. Foulis (2016): “Macroprudential policy under uncertainty”, Bank of England Staff Working 
+Paper 584. http://www.bankofengland.co.uk/research/Pages/workingpapers/2016/swp584.aspx 
+ 
+Bank of England (2015a): “Record of the Financial Policy Committee Meetings 25 and 30 November”, 19-21, 
+9 December. http://www.bankofengland.co.uk/publications/Documents/records/fpc/pdf/2015/record1512.pdf 
+ 
+Bank of England (2014): Financial Stability Report (June). 
+http://www.bankofengland.co.uk/publications/Documents/fsr/2014/fsrfull1406.pdf 
+ 
+Bank of England (2015b): Financial Stability Report (December). 
+http://www.bankofengland.co.uk/publications/Documents/fsr/2015/dec.pdf  
+ 
+Bank of England (2016): Financial Stability Report (November). 
+http://www.bankofengland.co.uk/publications/Pages/fsr/2016/nov.aspx 
+ 
+Baranova Y., Chen L. and N. Vause (2015): “Has corporate bond market liquidity fallen?”, Bank 
+Underground. https://bankunderground.co.uk/2015/08/27/has-corporate-bond-market-liquidity-fallen/ 
+ 
+Bardoscia, M., Brinley Codd, A., and J. Hill (forthcoming): “Solvency contagion through interbank exposures: 
+modelling and mitigating systemic risk”, Bank of England Staff Working Paper  
+BCBS (2010), ‘An assessment of the long-term economic impact of stronger capital and liquidity 
+requirements’, August.  http://www.bis.org/publ/bcbs173.pdf 
+ 
+Brainard, W. (1967): “Uncertainty and the Effectiveness of Policy”, American Economic Review 57(2), 411-
+425. 
+ 
+Brooke, M., Bush, O., Edwards, R., Ellis, J., Francis, B., Harimohan, R., and C. Siegert (2015): “Measuring 
+the Macroeconomic Costs and Benefits of Higher UK Bank Capital Requirements”, Bank of England 
+Financial Stability Paper, 35. 
+http://www.bankofengland.co.uk/financialstability/Documents/fpc/fspapers/fs_paper35.pdf 
+ 
+Brunnermeier, M. K. (2009): “Deciphering the liquidity and credit crunch 2007–2008”, The Journal of 
+Economic Perspectives 23 (1): 77-100. 
+Cesa-Bianchi, A., Eguren Martin, F., and G. Thwaites (2017): “Foreign Booms, Domestic Busts: the Global 
+Dimension of Banking Crises”, Bank of England Staff Working Paper No. 644. 
+http://www.bankofengland.co.uk/research/Pages/workingpapers/2017/swp644.aspx 
+ 
+Caballero, R. J., and A. Krishnamurthy (2008),“Collective Risk Management in Flight to Quality Episode”, 
+Journal of Finance, 63(5): 2195-2230. 
+ 
+Campbell, J., Giglio, S., and P. Pathak (2011): “Forced Sales and House Prices”, American Economic 
+Review, 105(5), 2108-31 
+ 
+Constancio, V. (2014), “The ECB and macro-prudential policy – from research to implementation”, speech at 
+the Third Conference of the Macro-prudential Research Network, Frankfurt, 23 June.  
+http://www.bis.org/review/r140624b.pdf 
+ 
+Cont, R., and E. Schaanning (2014): “Fire Sales, Indirect Contagion and Systemic Stress-Testing”, 
+Unpublished. 
+ 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+13 
+ 
+13 
+   
+ 
+Crockett, A. D. (2000), “Marrying the micro- and macro-prudential dimensions of financial stability”, 
+September. http://www.bis.org/speeches/sp000921.htm  
+ 
+Danielsson, J., Macrae, R., Tsomocos, D., and J.-P. Zigrand (2016): “Why macropru can end up being 
+procyclical”, VOXEu, 15 December. http://voxeu.org/article/why-macropru-can-end-being-procyclical 
+ 
+Dynan, K. (2012): “Is a Household Debt Overhang Holding Back Consumption?”, Brookings Papers on 
+Economic Activity, Spring, 299-362. 
+ 
+Eggertsson, G., and P. Krugman (2012): “Debt, Deleveraging, And the Liquidity Trap: A Fisher-Minsky-Koo 
+Approach”, Quarterly Journal of Economics, 1469-1513. 
+ 
+FCA (2017): FCA Handbook. https://www.handbook.fca.org.uk/handbook/MCOB/ (Accessed 6 February 
+2017). 
+ 
+FCA (2017): “Illiquid assets and open-ended investment funds”, Discussion Paper 17(1). 
+https://www.fca.org.uk/publication/discussion/dp17-01.pdf 
+ 
+Financial Stability Board (2017): “Policy Recommendations to Address Structural Vulnerabilities from Asset 
+Management Activities”, 12 January. http://www.fsb.org/2017/01/policy-recommendations-to-address-
+structural-vulnerabilities-from-asset-management-activities/ 
+Forbes, K., and F. Warnock (2012): “Capital Flow Waves: Surges, Stops, Flight, and Retrenchment”, Journal 
+of International Economics, 88(2), 235-251. 
+ 
+Frame, W. S., Gerardi, K., and P. Willen (2015): “The failure of supervisory stress testing: Fannie Mae, 
+Freddie Mac, and OFHEO”, Federal Reserve Bank of Boston Working Paper 15 (4). 
+ 
+Goldstein I., Jiang W., and D. Ng (forthcoming): “Investor Flows and Fragility in Corporate Bond Funds”, 
+Journal of Financial Economics.  
+ 
+Haldane, A. (2013): “The Commercial Property Forum twenty years on”, Remarks given at the Bank of 
+England (November). 
+http://www.bankofengland.co.uk/publications/Documents/speeches/2013/speech701.pdf 
+ 
+International Monetary Fund (2008): “Containing Systemic Risks and Restoring Financial Soundness”, 
+Global Financial Stability Report, April. https://www.imf.org/External/Pubs/FT/GFSR/2008/01/index.htm 
+ 
+International Monetary Fund (2009): “Responding to the Financial Crisis and Measuring Systemic Risks”, 
+Global Financial Stability Report, April. https://www.imf.org/External/Pubs/FT/GFSR/2009/01/index.htm 
+ 
+International Monetary Fund (2010): “Meeting New Challenges to Stability and Building a Safer System”, 
+Global Financial Stability Report, April. https://www.imf.org/external/pubs/ft/gfsr/2010/01/index.htm 
+ 
+International Monetary Fund (2011): “Macroprudential Policy: An Organising Framework”, March. 
+ 
+IMF-FSB-BIS (2016): Elements of Effective Macroprudential Policies: Lessons from International Experience, 
+August. http://www.imf.org/external/np/g20/pdf/2016/083116.pdf. 
+ 
+Ivashina V., and D. Scharfstein (2010): “Bank Lending During the Financial Crisis of 2008”, Journal of 
+Financial Economics, 97(3), 319-338. 
+ 
+Jordà, Ò., Schularick, M., and A. Taylor (2013): “When Credit Bites Back”, Journal of Money, Credit and 
+Banking, Supplement to 45(2). 
+ 
+Kashyap, A. K., Tsomocos, D. P., and A. P. Vardoulakis (2014): “A programme for improving 
+macroprudential regulation”, published in Macroprudentialism, edited by Dirk Schoenmaker, CEPR Press.  
+http://voxeu.org/sites/default/files/file/macroprudentialism_VoxEU_0.pdf 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+14 
+ 
+14 
+   
+ 
+Knight, F. H. (1921): Risk, Uncertainty and Profit,  Boston: Houghton Mifflin. 
+Korinek, A., and A. Simsek (2016): “Liquidity Trap and Excessive Leverage”, American Economic Review, 
+106(3), 699-738. 
+ 
+Miles, D., Yang, L., and G. Marcheggiano (2013), “Optimal Bank Capital”, Economic Journal, 123, 1-37. 
+ 
+Modigliani, F., and M. Miller (1958): “The Cost of Capital, Corporation Finance, and the Theory of 
+Investment”, American Economic Review, 48(3), 2. 
+ 
+Rosengren, E. S. (2011): “Defining Financial Stability, and Some Policy Implications of Applying the 
+Definition”, Keynote Remarks at the Stanford Finance Forum, Graduate School of Business, Stanford 
+University, 3 June. 
+ 
+                               
+All speeches are available online at www.bankofengland.co.uk/speeches 
+15 
+ 
+15 
+   
+ 
+                                                      
+1 Recognising this, others have started to take stock on progress on macroprudential frameworks.  The most notable contribution to this 
+effort is a recent report to the G20 by the IMF, the FSB and the BIS (IMF-FSB-BIS, 2016).  
+2 The basis of many of the ideas in this section stems from Kashyap et al (2014). 
+3 James Carville, strategist for Bill Clinton’s 1992 presidential campaign, coined the phrase ‘The economy, stupid’. 
+4 See Rosengren (2011).   
+5 Ivashina and Scharfstein (2010) document a sharp contraction in new loans to large borrowers during the peak of the financial crisis 
+with a 47% quarter-on-quarter fall from Q3-Q4 2008. 
+6 Brooke et al (2015).  
+7 Haldane (2013) for instance argues that “We need to build defences to protect against the collateral damage from financial flood. We 
+need to be popping, not mopping”. 
+8 Consistent with that, the FPC is not authorised to take actions that would “have a significant adverse effect on the capacity of the 
+financial sector to contribute to the growth of the UK economy in the medium or long term”, Financial Services Act (2012), Section 9C; 
+see http://www.legislation.gov.uk/ukpga/2012/21/pdfs/ukpga_20120021_en.pdf. 
+9 The Bank of England published a staff paper in 2015 that sets out a framework for measuring the macroeconomic costs and benefits 
+of higher bank capital requirements.  See Brooke et al (2015).  
+10 Brooke et al (2015) estimate that a1percentage point increase in risk-weighted capital ratios will result in a 10 basis point increase in 
+lending rates.  This estimate includes a partial offset due to the Modigliani Miller (1958) theorem, under which the capital structure has 
+no impact on funding costs as more equity makes debt safer and equity less volatile, lowering the required rate of return for both.  The 
+conditions for the full offset in the theorem are unlikely to hold in practice for banks.  However, recent empirical estimates for the UK 
+suggest the effect is qualitatively present with the increase in banks’ overall funding costs due to higher capital requirements lower than 
+in the absence of the theorem by 45% (Miles et al 2013) and 53% (Brooke et al 2015).   
+11 For example, the now defunct authority regulating the US Government-sponsored mortgage agencies stress tested them to only an 
+11% fall in house prices – a more severe shock than any nationwide house price decline to be found from 1945 onward.  The peak-to-
+trough fall of 11% was calibrated based on house price data for the West South Central Census Region between 1984 and 1993.   
+Frame et al (2015) show that an alternative scenario based on realised post-2006 data would have revealed that Fannie and Freddie’s 
+capitalisation was much weaker than what the original stress tests suggested. It wasn’t only regulators who made the mistake of relying 
+on the recent past only. During a week when Goldman Sach’s Global Equity Opportunities fund lost 30%, Goldman’s chief financial 
+officer famously stated: “We were seeing things that were 25-standard deviation moves, several days in a row.” His focus was too 
+narrow. While the moves in 2007 were substantial, they were not unprecedented. Even within the last thirty years, equity prices had 
+experienced larger single day falls than they did during 2007.  
+12 Danielsson et al (2016) show that systemic risk indicators constructed with market data were low and falling before the stress events 
+in 1997 and 2008, and shot up during the events. They conclude that setting macro-prudential policy on the basis of these indicators 
+might have procyclical effects: it would facilitate the build-up of systemic imbalances during booms, and their amplification during busts. 
+Crockett (2000) had the foresight to argue that “The received wisdom is that risk increases in recessions and falls in booms. In contrast, 
+it may be more helpful to think of risk as increasing during upswings, as financial imbalances build up, and materialising in recessions.” 
+13 The FPC’s statutory mandate includes a responsibility to identify risks; see Financial Services Act (2012). 
+14 Jordà et al (2013) use data for 14 advanced countries between 1870 and 2008 and find that more credit-intensive booms are typically 
+followed by slower recoveries and deeper recessions.  This is true both for recessions that follow financial crises and those that do not. 
+15 Eggertsson and Krugman (2012), present a new Keynesian model in which aggregate demand is depressed when indebted agents 
+are forced into a rapid deleveraging.  If this deleveraging is large enough it can push interest rates to the zero lower bound. Korinek and 
+Simsek (2016) show that this can result in an aggregate demand externality which can be corrected through pre-emptive 
+macroprudential policy. 
+16 Dynan (2012) uses household-level data for the US and finds that between 2007 and 2009 declines in spending were larger for highly 
+leveraged homeowners. 
+17 Campbell et al (2011) find that foreclosed houses have an average sale price discount of 27%, using 20 years of data for 
+Massachusetts. 
+18 Forbes and Warnock (2012) present evidence that high capital inflows can end suddenly, with global factors typically more important 
+than the domestic macroeconomy. 
+19 Cesa-Bianchi et al (2017) find that foreign credit growth is a strong predictor of financial crises, over and above domestic credit 
+growth. The result is driven by a combination of contagion from foreign crises, capital inflows and (global) market sentiment. 
+20 The first number is the April 2008 Global Financial Stability Report’s estimated subprime-related global bank losses as of March 2008 
+(IMF (2008), Table 1.6). The second number is the April 2009 Global Financial Stability Report estimated potential total mature 
+economies banking sector write-down for the 2007-2010 period (IMF (2009), Table 1.3). The corresponding April 2010 Global Financial 
+Stability Report estimate revises this number down to 2.3 trillion (IMF (2010), Table 1.2). 
+21 Bardoscia et al (forthcoming). 
+22 Cont and Schaanning (2014). 
+23 This was revealed during the crisis where some investors – typically ‘shadow banks’, which took bank-like risks but without being 
+subject to commensurate regulatory standards – funded their investment in long-term securitised assets with short-term asset-backed 
+commercial paper. When this funding was withdrawn during the crisis, it resulted in a sell-off of these long-term assets, depressing their 
+price (Brunnermeier, 2009). 
+24 Regulated open-ended funds include mutual funds, exchange-traded funds, and institutional funds. Based on BlackRock, The 
+Investment Company Institute and Bank calculations. 
+25 In 2015, Bank and FCA staff conducted a joint information-gathering exercise on investment funds with large holdings of corporate 
+bonds.  Analysis drawing on the information gathered suggests that ‘in aggregate, surveyed funds expected to be able to liquidate over 
+one day roughly three times estimated dollar corporate bond market turnover’; see Bank of England (2015b), Box 2. 
+26 Interestingly, investors in bond funds do not invest with the same eagerness when prices increases; see Goldstein, Jiang and Ng 
+(forthcoming).   
+27 See Bank of England (2015a) and FCA (2017). 
+28 See Baranova, Chen and Vause (2015).  
+29 The FPC has reviewed the risks to financial stability from insurers’ investment activities and concluded that the introduction of 
+Solvency II, in January 2016, might affect the propensity of UK life insurers to invest procyclically. See Bank of England (2016). 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+16 
+ 
+16 
+   
+ 
+                                                                                                                                                                                
+30 Crockett (2000). 
+31 This was the advice Benjamin Franklin gave to inhabitants of Philadelphia, on the subject of firefighting, writing anonymously to the 
+Pennsylvania Gazette in 1735: “In the first Place, as an Ounce of Prevention is worth a Pound of Cure, I would advise 'em to take care 
+how they suffer living Coals in a full Shovel, to be carried out of one Room into another, or up or down Stairs, unless in a Warmingpan 
+shut; for Scraps of Fire may fall into Chinks and make no Appearance until Midnight; when your Stairs being in Flames, you may be 
+forced, (as I once was) to leap out of your Windows, and hazard your Necks to avoid being oven-roasted.” 
+32 A firm’s overall loss absorbing capacity is the sum of its capital and subordinated long-term debt which can be bailed in. 
+33 Of course, it is not the case that changes in banking system capital requirements have no bearing on developments in the wider 
+economy; such changes are likely to impact the price and quantity of credit provided by the banking system and, via this channel, 
+economic growth.  But the best empirical estimates we have suggest that this channel is likely to be weak during credit booms, when it’s 
+most needed (Bahaj et al, 2016).  Moreover, changes in banking system capital will have no direct impact on build-ups of risk in the 
+market-based financial sector.  
+34 Constancio (2014) argues that “It seems unacceptable that macro-prudential authorities would passively watch the development of a 
+bubble in housing prices and other asset prices, comforted by the idea that the banking sector is prepared to weather the storm and that 
+the central bank would deal with the painful aftermath. The crisis showed that the amount of risk endogenously generated by a financial 
+cycle spinning ‘out-of-control’ dwarfs the ‘mopping up’ ability of fiscal and monetary policy due to fiscal capacity limits and the zero lower 
+bound on nominal interest rates. In matters of financial instability, prevention is always better than cure”. 
+35 The FPC recommendation on the loan-to-income (LTI) flow limit is that the PRA and the FCA should ensure that mortgage lenders do 
+not extend more than 15% of their total number of new residential mortgages at LTI ratios at or greater than 4.5. The FPC 
+recommendation regarding mortgage affordability is that when assessing affordability, mortgage lenders should apply an interest rate 
+stress test that assesses whether borrowers could still afford their mortgages if, at any point over the first five years of the loan,  
+Bank Rate were to be 3 percentage points higher than the prevailing rate at origination. For further detail, see for instance  
+Bank of England (2014) for a documentation of the Bank of England’s 2014 housing market measures.  
+36 See Bank of England (2016). 
+37 An additional mechanism that creates amplification is that if and when these risks do materialise, market participants begin to doubt 
+the solvency of even banks that are resilient.  This is a form of what economists call ‘Knightian’ uncertainty (Knight, 1921); Caballero 
+and Krishnamurthy (2008) present a model based on this concept.  
+38 In his classic paper on policymaking under uncertainty, Brainard (1967) argues that it will generally be optimal to use all instruments 
+available when pursuing particular targets.  This result holds provided the tools have less-than-perfectly correlated impacts on the 
+target.  In these circumstances, while any given tool may prove ineffective, it is less likely that their combined use will be.  There is, 
+therefore, an insurance benefit to using multiple tools in moderation.   
+39 Under the Bank of England Act 1998, as amended by the Financial Services Act 2012, the Bank of England has a statutory objective 
+to protect and enhance the stability of the financial system of the United Kingdom.  Subject to achieving this primary objective, the FPC 
+must also support ‘the economic policy of Her Majesty’s Government, including its objectives for growth and employment’ (Section 
+9C(1) of the Bank of England Act 1998). 
+40 The first signs of that can be seen in the work being conducted internationally and domestically to study and address risks around 
+asset management, market liquidity and derivatives. For example, the FSB published a policy recommendation in January that funds’ 
+investment strategies should be consistent with their redemption terms, see Financial Stability Board (2017). The FPC has also noted 
+declines in the liquidity of key dealer-intermediated markets, and the Bank is contributing to an international review of repo market 
+functioning by the Bank for International Settlements’ Committee on the Global Financial System, see Bank of England (2016). The FPC 
+has also asked the Bank to complete an in-depth assessment of financial stability risks associated with derivative markets. This will 
+examine progress towards implementation of the post-crisis reforms to these markets and consider implications for the resilience of the 
+financial system. 
+41 International Monetary Fund (2011) discusses the risk that macroprudential policy would be subject to biases toward inaction or 
+insufficiently timely action, given that the benefits of policy interventions can appear uncertain while the costs are often felt more 
+immediately. 
+42 The policies introduced by the FPC in 2014 to guard against risks from the mortgage market do not apply to re-mortgages with no 
+change to the principal amount outstanding. 
+43  In July 2016, the FPC became the first macroprudential authority in an advanced economy to cut the so-called countercyclical capital 
+buffer for banks.  That was consistent with the FPC’s intention to release the countercyclical capital buffer in situations where risks 
+materialise, and to act pre-emptively before losses crystallise.  This cut sent a clear signal that, if losses were to materialise, banks 
+would be able to draw on their buffers, reducing any perceived need for banks’ to preserve capital and restrict lending, with consequent 
+negative impacts on the real economy.  For details, see the FPC Record of meetings held on 28 June and 1 July, available at 
+http://www.bankofengland.co.uk/publications/Documents/records/fpc/pdf/2016/record1607.pdf 
+44 A classic view from Brainard (1967) is that uncertainty over the impact of a policy instrument should make a policymaker less 
+active.  Bahaj and Foulis (2016) show that this conclusion may not hold for the complex reality faced by a macroprudential 
+policymaker.  Specifically, the large costs of financial crises, the presence of unquantifiable sources of risk, the ability to learn from 
+policy, and private sector uncertainty can all be supportive of bolder, more active policy. 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+17 
+ 
+17 
+ 

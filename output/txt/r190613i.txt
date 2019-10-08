@@ -1,0 +1,341 @@
+SPEECH 
+DATE: 
+SPEAKER: 
+VENUE: 
+TION:
+12/06/2019 
+Deputy Governor Martin Flodén 
+The Riksbank 
+SVERIGES RIKSBANK 
+SE-103 37 Stockholm 
+(Brunkebergstorg 11) 
+Tel +46 8 787 00 00 
+Fax +46 8 21 05 31 
+registratorn@riksbank.se 
+www.riksbank.se 
+Should the Riksbank’s payment system 
+be open 24/365?* 
+The central bank's role in the Swedish payment infrastructure has increasingly 
+come into focus at the Riksbank.1 I am aware that this is an area that may not per-
+haps interest the general public as much as negative interest rates, housing prices, 
+cash-free shops, the krona exchange rate and other things normally associated 
+with the Riksbank. Most people are not – to be honest – very interested in how 
+the “plumbing” works that enables millions of payments to be made every day, to 
+a total value of hundreds of billions of krona. This is not really surprising. Pay-
+ments are not an objective in themselves, but a means of making our day-to-day 
+life work; getting our wages, paying our bills, buying food, giving the children 
+pocket money, saving for our retirement and so on. But, like other central banks, 
+the Riksbank has been given the task of promoting a safe and efficient payment 
+system. We at the Riksbank therefore need to understand how the payment sys-
+tem is put together and to consider what measures and investments are needed 
+to ensure it remains safe and efficient.  
+The Swedish payment market has changed rapidly over the past decade. House-
+holds are to a greater extent choosing electronic means of payment instead of 
+cash, and there are increasing requirements that payments should be made easier 
+and should reach the recipient faster. 
+This development also means that the Riksbank's role in the payment market is 
+changing. As the use of cash has declined, the Riksbank is wondering whether it is 
+desirable and possible to issue electronic central bank money to the general pub-
+lic, so-called e-krona. But today I don't intend to discuss the e-krona. Instead I 
+would like to focus on the role of the Riksbank in the payment infrastructure that 
+* I am grateful to Martin W Johansson who has helped me prepare this text. Thanks also to Anders Vredin and 
+Marianne Sterner for valuable comments.
+1 A payment infrastructure can quite simply be said to consist of two parts; the technical platform (hardware, 
+software and other technical components) required to execute a payment, and the regulatory framework and 
+corporate form. 
+1 [8] 
+   banks and other financial institutions use to pay one another. This infrastructure 
+is used in the background when most of the payments in Sweden are executed, or 
+settled, as it is also called.  
+Central banks play an important role in enabling households and companies to 
+make payments to one another by using financial institutions as an intermediary. 
+The Riksbank functions as a hub and supplies a payment system with accounts 
+where financial institutions can hold money (“central bank money”). The institu-
+tions that take part in the Riksbank's payment system can then pay by moving 
+money, on behalf of themselves or their clients, between the participants’ ac-
+counts.  
+When central bank money is used in a transaction, an asset with counterparty risk 
+is converted into a safe and liquid claim on the central bank. Central bank money 
+is safer than other money, as a central bank can always meet its obligations in do-
+mestic currency. It is important for financial institutions to be able to pay in cen-
+tral bank money, as they would otherwise be burdened with counterparty expo-
+sures when paying.2 Central bank money and the possibility to make safe pay-
+ments are thus closely linked.  
+The Riksbank needs to adapt its payment system so that the infrastructure re-
+mains safe and cost-efficient as technology develops and the payment market is 
+changing. A growing trend both in Sweden and abroad is that households and 
+companies expect to make payments at any time they like. The payment system 
+we offer today therefore needs to be supplemented with a new system that is 
+open 24 hours a day and adapted to the instant settlement of large volumes of 
+payments. My assessment is that the best way for the Riksbank to attain this tar-
+get is to make the Swedish krona available on the same technical platform as the 
+European Central Bank (ECB) and the Eurosystem use.3 By taking advantage of the 
+economies of scale that arise here, the right conditions are created for cutting 
+transaction costs for Swedish households and companies. It would also mean that 
+the Swedish payment infrastructure is to a greater extent harmonised with the 
+rest of the EU, which can increase competition and the quality of the payment 
+services offered to Swedish customers.  
+RIX plays a central role in the Swedish payment system 
+The payment system the Riksbank currently supplies to financial institutions is 
+called RIX. Institutions wishing to become participants in RIX enter into an agree-
+ment with the Riksbank. The Riksbank is a public institution, which means that en-
+try to the RIX system is given on competitively neutral terms to institutions meet-
+ing the conditions that are set. 
+It is difficult to overestimate the importance of RIX for the Swedish economy. 
+From the time that RIX opens at 0700 hours on a typical working day until it closes 
+at 1700 hours, a good 20,000 payments are settled to a total value of more than 
+ 2 According to the international standards on financial infrastructure issued by the CPMI-IOSCO, systemically im-
+portant infrastructures should settle in central bank money whenever it is practically possible.  
+3 The Eurosystem consists of the European Central Bank and the national central banks in the euro area.  
+  2 [8] 
+   SEK 600 billion.4 RIX is the hub of the Swedish payment system and it is therefore 
+also logical that the functions and accessibility of RIX will be in focus when the 
+Riksbank upgrades its capacity to meet the challenges of the future payment mar-
+ket. The Riksbank is not in any unique situation in this respect. Many other central 
+banks are now considering upgrading their payment systems.  
+Payment flows now... 
+Historically there has been a differentiation between large-value and smaller pay-
+ment, also known as retail payments. The large-value payments include payments 
+between the banks’ major customers, international payments, payments to and 
+from financial infrastructures and the Riksbank's own transactions. This type of 
+payment is often large, time-critical and settled one by one in RIX according to the 
+principle of “first in, first out”.5 Retail payments are the millions of smaller every-
+day payments made between households, companies and authorities, for instance 
+card payments in the retail trade, wage payments, pensions and normal payment 
+of invoices. 
+Retail payments that are not settled directly are normally first compiled and ag-
+gregated by a clearing house (in Sweden by Bankgirot) and then settled in RIX ac-
+cording to a predetermined timetable, this is also known as batch clearing. How-
+ever, this regime is now being disrupted as technology has reached such a level of 
+maturity that it is possible to send small payments without clearing to reach the 
+recipient in the space of seconds. At the Riksbank we call this type of payment an 
+instant payment.6 This is often called “swishing” in popular speech, after the mo-
+bile app used to make the payment. Swish has really taken Sweden by storm and 
+is one reason why the use of cash is declining here.7 Today around 70 per cent of 
+the Swedish population has access to the app and in 2018 almost 400 million in-
+stant payments were made with it.  
+The settlement of a payment by Swish takes place on a platform known as “Be-
+talningar i Realtid, BiR” (payments in real time), which is owned by Bankgirot. 
+Swish payments are thus settled in money issued by a commercial institution and 
+therefore differ from other payments that are settled in central bank money. An-
+other difference between BiR and RIX is that BiR is accessible 24 hours a day, 
+every day of the year, “24/365”. The average transaction in BiR is much smaller 
+than the average transaction in RIX, which is a natural consequence of the pay-
+ments made with the Swish app being small. However, there are no technological 
+limitations preventing larger payments being settled instantly. But there will then 
+be high demands on the safety of the settlement procedure, and settlement 
+should then be in central bank money. 
+ 4 The Riksbank has decided to extend the opening hours for RIX from 0700-1700 to 0700-1800 with effect from 
+October.   
+5 Almost all central banks own and operate payment systems with the same kind of functions as RIX. These sys-
+tems are referred to as “Real-Time Gross Settlement” (RTGS) systems or ”Large Value Payment Systems” (LVPS).   
+6 Instant payments is the most common term; other terms include “real-time payments” or “faster payments”. 
+For a more detailed description, see The quest for speed in payments, BIS Quarterly Review, March 2017. 
+7 See Payment patterns in Sweden 2018, Sveriges Riksbank. 
+  3 [8] 
+   ... and in the future? 
+It is of course impossible to know how the payment market will look in 5-10 years’ 
+time, but a qualified guess is that instant payments will become increasingly im-
+portant. New payment products that are introduced can be settled immediately if 
+the client so desires, for instance, through online banks, “point of sale” or e-com-
+merce platforms. Many payments that are now cleared by batch clearing will 
+probably move to instant settlement. For instance, since 2018 it has been possible 
+to make payments by Swish to the Swedish Tax Agency. 
+It is also conceivable that a mixture of batch-based and instant settlement may 
+arise, where payments are settled individually but at predetermined points in 
+time. In the long run, it is not improbable that some of the payments now made 
+separately in RIX will move to other platforms that enable instant payments. It is 
+clear at any rate that the taxonomy used for payments (large-value/retail, instant 
+settlement/batch settlement and time-critical/not time-critical) will become more 
+blurred. 
+The Riksbank is standing at a crossroads here. Should the Riksbank continue to 
+supply solely an infrastructure equivalent to RIX that is primarily suitable for large-
+value, time-critical payments during office hours on weekdays and leave the other 
+settlement of payments between financial institutions to the private sector? Or 
+should the Riksbank also supply an infrastructure that enables settlement in cen-
+tral bank money in seconds 24/365? Or to put it a different way: Should the Riks-
+bank's payment system be open all the time?  
+Do we need a settlement service 24/365? 
+The answer is not entirely clear, but much indicates that the Riksbank will find it 
+more difficult to carry out its task of promoting a safe and efficient payment sys-
+tem in the future if we don't raise our level of ambition regarding the services 
+now offered to RIX participants. I see two main reasons for this. 
+First, settlement in central bank money is the safest means of settling payments. 
+Private settlement platforms can, with the aid of the central bank, imitate part of 
+the security offered by settlement in central bank money. In Sweden, this is done 
+by the institutions that are participants in BiR allocating money in a special client 
+funds account in RIX that acts as collateral for the payments settled in BiR.  
+This hybrid system has enabled instant payments in Sweden without the Riks-
+bank’s payment system having to be rebuilt from scratch. As long as the volumes 
+are relatively small, this type of system is fully adequate, but financial stability will 
+become increasingly dependent on the reliability of these hybrid systems if the 
+volumes increase substantially. Sooner or later one therefore reaches a point 
+where it is difficult to see the value of a hybrid system that tries to copy the safety 
+offered by central bank money if the central bank could just as well offer this set-
+tlement itself. The Riksbank would in addition be able to offer participants better 
+and more cost-efficient liquidity management than is possible in a private system. 
+Second, the payment system is one of the economy's critical infrastructures. The 
+institution that is responsible for the settlement of payments between financial 
+institutions gains a considerable influence over the payment system as a whole. If 
+  4 [8] 
+   the settlement of payments had been a branch characterised by substantial com-
+petition and low entry barriers, it would not have been problem. But as payment 
+settlement is instead characterised by economies of scale and network effects, 
+Sweden actually has to choose between a public monopoly and some form of pri-
+vate monopoly. Even a privately-owned infrastructure can be supplied in a com-
+petitively neutral way without creating monopoly profits, but it must in that case 
+be accompanied by regulations, supervision and oversight which is once again an 
+unnecessary detour if the infrastructure could just as easily be directly supplied by 
+a central bank.  
+I therefore believe that both financial stability and competition on the payment 
+market would benefit from the Riksbank supplying a payment system that is avail-
+able whenever the participants wish to use it.  
+Platform sharing with other central banks is cost-effec-
+tive 
+Platforms for settling instant payments must be able to process a large number of 
+payments, be accessible 24/365 and offer first-class continuity solutions. The sys-
+tems are therefore expensive and complex to develop. We have not calculated in 
+detail how much it would cost for the Riksbank to develop or procure a system for 
+the settlement of instant payments, but simple business economics speak against 
+this type of project.  
+Payment infrastructures entail substantial fixed costs. In addition to development 
+costs, there are operating costs for personnel and IT and communications sys-
+tems. Moreover, the payment system must be protected against various forms of 
+threat, for instance, cyber attacks and large-scale frauds.8 
+The Swedish market is not sufficiently large to carry such a platform on its own 
+shoulders cost-effectively. If the Riksbank is to supply a settlement service for in-
+stant payments, it is therefore preferable if it can do so by sharing a technical plat-
+form with other central banks. The more who share the cost of running the plat-
+form, the cheaper it will be and the more attractive to use.  
+Platform sharing with the Eurosystem 
+As I mentioned earlier, the Riksbank is not the only central bank thinking about 
+how its payment system needs modernisation to meet the demands of tomorrow, 
+not least with regard to instant payments. The Eurosystem therefore decided in 
+2017 to add a new technical platform to its payment system TARGET2 (the Eu-
+rosystem's equivalent to RIX). This platform is called the Target Instant Payment 
+Settlement (TIPS). It has been developed and run by the Italian central bank since 
+November 2018.  
+During the spring the Riksbank has investigated the potential for using TIPS to set-
+tle instant payments in Swedish krona. The platform was initially built with the 
+function of being able to settle payments even in other currencies than the euro, 
+ 8 See Reducing the risk of wholesale payments fraud related to endpoint security, CPMI Papers No 178, BIS 2018. 
+  5 [8] 
+   and our assessment is that there is no technical obstacle to settling payments in 
+Swedish krona there. Moreover, it doesn't cost anything to join TIPS over and 
+above the adaptations the Riksbank and the market need to make to their IT and 
+communication systems. Joining the platform involves the central bank wishing to 
+participate entering into an agreement with the ECB and the Eurosystem.  
+If the Riksbank decides to use TIPS, the settlement of instant payments in Swedish 
+krona will thus take place in Italy, where the platform is located. As the Riksbank 
+would then be outsourcing the operation of the system to an external party, the 
+TIPS operations must meet the requirements made by Swedish legislation. In ad-
+dition to these requirements, the outsourcing process would also raise a number 
+of broader issues regarding national self-determination.  
+It may be worth reminding you that the Swedish payment infrastructure is already 
+dependent on external parties. Let me give some examples: RIX has been pro-
+cured from a South African company, the settlement of Swedish securities takes 
+place in Euroclear’s technical system in France, Swedish banknotes are printed in 
+the United Kingdom, the communication network used to send payment orders 
+between Swedish financial institutions, which is required for instance when cus-
+tomers make normal cash withdrawals, is owned by an international cooperative 
+society with its headquarters in Belgium (SWIFT) and card transactions in Sweden 
+are cleared through two American corporations. 
+The idea of a Swedish payment mechanism that can function without links to 
+other countries has long been outpaced by reality and it would be just as unrealis-
+tic to imagine, for instance, that the Swedish pharmaceuticals industry could meet 
+all the needs of the Swedish health service. The challenge for a small country like 
+Sweden lies instead in being able to benefit from international cooperation by 
+choosing counterparties that are reliable in the long term and with whom we have 
+good relations, such as the ECB. Although Sweden does not have the euro as its 
+currency, the Riksbank has long had a deep collaboration with the ECB on central 
+bank issues. Countries such as Finland, Denmark and our Baltic neighbours con-
+sider that platform sharing with the Eurosystem is a secure solution. I believe it 
+would work well for Sweden, too.9 
+Another question someone might have is whether TIPS can in some way be re-
+garded as a first step towards introducing the euro in Sweden. The answer to that 
+question is “no”. It is the Riksdag, the Swedish Parliament, that decides what cur-
+rency will be used in Sweden. TIPS is an IT system used to settle payments and it 
+does not affect the Riksbank's capacity to conduct monetary policy, foreign ex-
+change policy or to give emergency liquidity assistance in Swedish krona. Thus, 
+the question of whether to join TIPS has nothing to do with being for or against in-
+troducing the euro as Sweden's currency.  
+It is, however, important for the Swedish krona's status as an independent and in-
+ternationally viable currency that it is not perceived to be more complicated, ex-
+pensive or unsafe to make payments in Swedish krona than in other currencies. 
+ 9 Denmark has not taken a stance on TIPS, but uses the Eurosystem's pan-European platform for securities settle-
+ment, T2S. 
+  6 [8] 
+   This means that the settlement services offered by the Riksbank to financial insti-
+tutions must be at least as safe and efficient as those available abroad. From this 
+perspective, too, it would appear a good idea to share a technical platform with 
+the euro countries.  
+How will RIX and TIPS co-exist? 
+If the Riksbank begins using the TIPS platform to offer settlement of instant pay-
+ments, RIX needs to change its form and function. It is not appropriate to go into 
+all the details here and now, so let me just describe the arrangement on a general 
+level. 
+The current RIX system (hereafter referred to as RIXRTGS) will remain in place. 
+When RIXRTGS closes for settlement at the end of the working day, the Riksbank 
+will implement its monetary policy transactions, just as it does today. But RIXRTGS 
+will additionally be equipped with some new features. For instance, a participant 
+in RIXRTGS will have access to intraday credit almost 24 hours a day, compared with 
+today when it is only available during RIX's normal opening hours.  
+In addition to RIXRTGS, settlement will be available 24/365 via the TIPS platform 
+(hereafter referred to as RIXINST). To make it easier for the participants to manage 
+their liquidity, it will be possible to move liquidity within the RIX family from 
+RIXRTGS to RIXINST and vice versa around the clock, which guarantees smooth and 
+cheap settlement of payments.10 The aim is that an institution wishing to become 
+a member of RIXRTGS will not need to be a member of RIXINST or vice versa. 
+If we add the TIPS platform to RIX, it will thus be possible for financial institutions 
+to settle payments in central bank money around the clock.  
+How would TIPS affect the Swedish payment market? 
+If the Riksbank decides to use TIPS to provide a settlement service 24/365, most 
+private individuals and companies will not notice any difference in the short term. 
+However, the institutions participating in RIXINST will need to adapt their message 
+formats and processes to the regulatory framework applying for instant payments 
+in large parts of the rest of Europe. 
+As with all other harmonisation, there will be a balance between a possible need 
+for tailor-made national solutions and the profits that can be reaped from full par-
+ticipation in the EU’s single market. Of course there may be advantages if a mar-
+ket “does its own thing”, but in the long run I believe that Sweden has a lot to gain 
+in adapting to the rest of the EU in this respect. Sweden is ahead of its European 
+neighbours in the journey towards a cashless society, and Swedish banks and 
+FinTech companies are well-equipped to continue launching innovative payment 
+services.  
+ 10 As far as monetary policy is concerned, it is only the participant’s net position with regard to the Riksbank that 
+is important. If a participant in RIX borrows, say, SEK 10 billion in RIXRTGS and invests the same amount in its ac-
+count in RIXINST the net position with regard to the Riksbank and thus the participant’s interest expenditure, will 
+be zero. 
+  7 [8] 
+   Using the same technical platforms as most of the rest of Europe will, I believe, 
+make it easier for Swedish payment service providers to establish themselves in 
+Europe. And in the same way it will become simpler for foreign companies to 
+compete in Sweden. It is also probable that it will become easier to make instant 
+cross-currency payments in the future if the central banks use the same technical 
+platform to settle payments.  
+What happens next? 
+During the spring, my colleagues on the Executive Board and I have discussed the 
+Riksbank's future role in the payment infrastructure. My baseline in these discus-
+sions was that Sweden – like most other countries – has long had a model where 
+the banks have settled payments in risk-free accounts in the central bank. This has 
+been important in preserving the stability and credibility of the payment system.  
+Now that the payment market is moving towards larger, more numerous and 
+more important payments outside of RIX normal opening hours, the Riksbank 
+needs to modernise the services it offers so that central bank money remains the 
+norm when financial institutions settle payments. My colleagues have essentially 
+expressed similar views.  
+Last week we therefore decided to contact the ECB to initiate discussions on an 
+agreement that would make the Swedish krona available for settlement on TIPS. 
+An absolute requirement that we have in these discussions is that the security 
+surrounding TIPS must correspond to the expectations in Swedish legislation. 
+It is still too early to say when TIPS could be available for the Swedish krona, but if 
+it all works out, I am hoping it will be in 2021. When the Riksbank supplies a set-
+tlement service that is available 24/365 our expectation is that the RIX partici-
+pants settling instant payments will use the platform offered by the Riksbank. But 
+we will proceed with caution and support the private solution that is available, 
+BiR, until TIPS is introduced and all conditions for using it are in place. During the 
+implementation period the Riksbank will make sure to have a close dialogue with 
+the market and be responsive to views and wishes on how TIPS can be made avail-
+able to the Swedish krona. We will return to the exact forms for such a consulta-
+tion later in the autumn.  
+   8 [8] 

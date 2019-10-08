@@ -1,0 +1,517 @@
+Axel A Weber: The role of interest rates in theory and practice – how useful is 
+the concept of the natural real rate of interest for monetary policy? 
+Text  of  the  G.L.S.  Shackle  Biennial  Memorial  Lecture  2006,  by  Mr  Axel  A  Weber,  President  of  the 
+Deutsche Bundesbank, at St. Edmund’s College, Cambridge, 9 March 2006. 
+The references for the lecture can be found on the Deutsche Bundesbank’s website. 
+ Introduction 
+1 
+It  is  obvious  that  interest  rates  play  a  key  role  in  monetary  policy  today.  On  the  one  hand,  the 
+instrument  of  most  central  banks  is  a  short-term  interest  rate.  On  the  other,  interest  rates  contain 
+important  information  on  the  current  state  of  the  economy,  and  the  extent  to  which  past  monetary 
+policy measures have already started to take effect. Put it differently, interest rates are important as 
+both an input into and an output of monetary policy decisions – they are instrument variables as well 
+as indicator variables. 
+Of  course,  there  is  no  such  thing  as  ‘the’  interest  rate.  Rather,  there  is  a  wide  variety  of  them. 
+Neglecting other relevant features, we have to distinguish interest rates at least with respect to their 
+time to maturity and with respect to whether they are expressed in nominal or in real terms. Interest 
+rates  that  matter  for  consumption  and  investment  decisions  are  likely  to  be  of  longer  maturity. 
+Moreover, since economic agents ultimately benefit from the consumption of real goods, it will be real 
+rates rather than nominal rates that they are mainly interested in. 
+Monetary policy directly controls nominal and very short-term rates. However, since – according to the 
+expectation  theory  of  the  term  structure  –  longer-term  rates  depend  on  expected  future  short-term 
+rates, a central bank does have the ability to affect them by influencing private agents’ expectations. A 
+similar argument holds for real rates. Given the level of nominal rates, real interest rates depend on 
+expected  future  inflation  rates.  To  a  large  extent,  these  depend  on  the  degree  to  which  the  public 
+believes  monetary  policy  will  be  able  to  ensure  price  stability.  Besides  expected  short-term  interest 
+rates and expected inflation, longer-term real rates also depend on several types of risk premia, for 
+example  inflation  risk.  These  constitute  an  additional  channel  through  which  monetary  policy  may 
+influence long-term real rates. Thus, monetary policy exerts both a direct effect on short-term nominal 
+rates and an indirect but important effect on long-term real rates.  
+Understanding  how  current  economic  variables  –  such  as  economic  activity  and  policy  variables  – 
+interact  with  expected  future  variables  is  a  challenge  that  has  been  featuring  prominently  in  both 
+academic discussion and monetary policy practice in recent years. Accordingly, the book by Michael 
+Woodford  “Interest  and  Prices”,  which  is  cited  frequently  nowadays,  characterizes  the  practice  of 
+central banking mainly as the management of expectations. This is an aspect of which G.L.S. Shackle 
+was already well aware, as we shall see later.  
+Having said that monetary policy does have an influence on a variety of interest rates it is not clear a 
+priori  whether  certain  levels  of  these  rates  are  ‘adequate’  in  the  sense  that  they  represent  prudent 
+monetary policy. This brings me to my second point, the information content of interest rates. Inferring 
+the  current  monetary  policy  stance  from  prevailing  interest  rates  requires  some  sort  of  benchmark. 
+Ideally, this would be a reference level – depending on current economic conditions – with which some 
+particular interest rate could be compared, the difference between the two then measuring how loose 
+or tight monetary policy is. For such a benchmark to be useful for the monetary policy decision-making 
+process, it should satisfy certain criteria, including the following three. 
+•  First, that benchmark rate should be based on sound theoretical foundations. This would allow 
+a meaningful interpretation of its behaviour and the driving forces behind it.  
+•  Second, the difference between some particular interest rate and this benchmark rate should 
+ideally be a summary variable reflecting the overall pressure on inflation. If this is not possible, 
+it should, at least, contain some predictive power for future inflation.  
+•  Third, the benchmark should be readily computable from observable economic data. Ideally, 
+this  criterion  includes  the  requirement  that  these  data  should  be  available  with  sufficient 
+precision at the time they are needed.  
+BIS Review 18/2006 
+ 1
+Actually, there is an economic variable which is often claimed to provide such a benchmark role: the 
+natural real rate of interest on which I will focus in this talk. I will start with Wicksell’s notion of the 
+natural rate, followed by a presentation of its definition and role in today’s monetary macroeconomics. 
+After  that,  I  will  focus  on  approaches  to  measuring  the  natural  real  rate  of  interest  (NRI)  and  its 
+usefulness for the practice of monetary policy. At the end of my remarks, I will try to judge whether the 
+natural rate is able to satisfy all or some of the criteria I have listed. 
+Wicksell’s concept of the natural rate of interest 
+2  
+The concept of a natural rate of interest goes back to Wicksell. He defined it as the level of the real 
+interest rate at which prices have no tendency to move either upward or downward. The starting point 
+of his analysis is the assumption that any movement in the price of a single good must have been 
+caused by a mismatch between the demand for and the supply of this particular good. Accordingly, the 
+movement  of  the  aggregate  price  level  must have  been caused by  a  mismatch  between aggregate 
+demand and aggregate supply. Wicksell therefore stressed that any theory which intends to explain 
+the overall rate of inflation must therefore be able to explain the underlying aggregate demand and 
+supply movements.  
+A second important aspect of Wicksell’s theory is related to the role of money and credit. He did not 
+doubt  that  money  growth  is  a  necessary  condition  for  inflation,  but  his  approach  is  based  on  the 
+endogeneity of money – in other words, money is not exogenous. Here, the banking system plays the 
+crucial role: By extending credit to firms and households it determines the growth rate of money and 
+thereby aggregate demand.  
+Key to the understanding of this connection is Wicksell’s ’cumulative process’. Banks setting ‘too low’ 
+an interest rate trigger a high credit demand from investors because, given the relatively low interest 
+rate costs, they have a high expected return. Owing to the prevailing very large degree of flexibility in 
+the banking sector, banks can satisfy this higher loan demand, which results in an increase in money 
+growth and a higher demand for investment goods. This tends to increase the price level of investment 
+goods  and  the  competitive  wages  in  the  investment  goods  sector,  causing  expenditures  and  the 
+overall  price  level  to  rise.  This  is  how  Shackle  describes  the  next  steps  in  Wicksell’s  cumulative 
+process: “The cost of production per physical unit of goods will be rising month by month, but the price 
+of goods per unit will be rising as fast, will be keeping ahead, and the persisting gap per unit will invite 
+an ever-larger output”.1 The cumulative process of strong money creation by a highly flexible banking 
+system and a higher aggregate price level does not end until the banks have raised the interest rate 
+sufficiently. Here, ‘sufficiently’ means that the interest rate – which is set by the banks – should be 
+raised to the level at which the overall demand for goods equals their supply – that is, the interest rate 
+at  which  prices  remain  constant.  Wicksell  referred  to  this  interest  rate  level  as  the  ‘natural  rate  of 
+interest’. 
+Shackle  was  certainly  right  when  in  the  foreword  to  the  English  translation  by  Stephen  Frowen  of 
+Wicksell’s “Value, Capital and Rent” in 1953 he compared the contribution to economic theory made 
+by Wicksell’s concept of a natural rate of interest to that made by the steam locomotive in the built-up 
+of  modern  societies.2  But,  with  the  benefit  of  hindsight,  we  now  know  that  Shackle  was  a  little  too 
+pessimistic  when  he  predicted  that  the  natural  rate  could  become  as  obsolete  as  the  steam 
+locomotive.  Modern  monetary  theory  –  as  embodied  in  the  latest  generation  of  New-Keynesian 
+macroeconomic  models,  for  example  –  proves  that  the  opposite  is  true.  It  is  not  by  accident  that 
+Michael Woodford’s textbook – which became sort of a standard work in modern monetary theory – 
+carries the title “Interest and Prices” - the English translation of the title of Wicksell’s book ’Geldzins 
+und Güterpreise’. 
+The natural rate of interest in modern macroeconomic theory 
+3  
+In order to highlight the key role of the natural interest rate concept in modern monetary theory, it is 
+useful to recapitulate briefly the core structure of New-Keynesian models which form the workhorse of 
+                                                      
+1   Shackle, (1972),p. 336. 
+2   Shackle (1954). 
+2 
+ BIS Review 18/2006
+today’s monetary policy analysis.3 Basically, such models add various forms of nominal rigidities to the 
+features of the real-business-cycle paradigm which is based on the notion of dynamically optimising 
+agents in a world characterised by stochastic shocks. One of the key elements is the assumption of 
+rational expectations: Agents fully take into account the specifics of the model world they inhabit and 
+the consequences of today’s actions for the future. In particular, they bear in mind how the monetary 
+authority  is  likely  to  react  to  macroeconomic  developments,  and  this,  in  turn,  influences  their  own 
+actions in the here and now.  
+Models  in  this  micro-based  paradigm  render  it  possible  to  analyse  the  outcomes  of  policy  changes 
+without running into the Lucas critique. Moreover, such models can highlight and quantify the ability of 
+monetary policy to influence private sector expectations which are key to a proper understanding of 
+the  effects  of  monetary  policy.  Based  on  this  view,  as  I  mentioned  before  the  practice  of  modern 
+central banking has frequently been described as being, to a large extent, the management of private 
+expectations. This is an aspect of monetary policy which was already stressed by Shackle in his 1949 
+article on “The nature of interest rates.” Describing a situation in which the central bank tries to bring 
+interest rates down he states that [p. 115] “a consensus of market opinion can be swung, by words 
+and deeds of the monetary authority or its masters”.  
+The  structure  of  the  basic  New-Keynesian  model  can  be  easily  represented  by  three  equations 
+characterising the dynamics of the interest rate, output and inflation. The first equation can be related 
+to  the  supply  side,  the  second  to  aggregate  demand,  and  the  third  specifies  monetary  policy 
+behaviour. The equation representing aggregate supply captures the price-setting behaviour of firms, 
+resulting from profit-maximisation under the obstacle of some sort of nominal price rigidity. Owing to 
+this  rigidity,  firms  have  to  take  into  account  the  expected  development  of  prices  in  the  next  period 
+when setting their prices today. In its most basic form, this equation is known as the “New-Keynesian 
+Phillips curve” which expresses current inflation πt as a function of currently expected inflation for the 
+next period Et(πt+1) and the current output gap xt:
+ 
+The latter stands for the amount of slack in the goods market and is defined as the difference between 
+actual output and its natural level, that is, the production level which would prevail in the hypothetical 
+situation of fully flexible prices.  
+The demand equation (’IS curve‘) is based on the assumption that households optimise their whole 
+consumption stream over the present and the future. This leads to an expression relating the current 
+output gap to the currently expected output gap of the next period Et(xt+1) and an interest rate gap:  
+ 
+(2) 
+The natural real rate of interest comes in at this stage: the interest rate gap is the difference between 
+*. This variable 
+the actual ex ante real interest rate it  - Et(πt+1) and the natural real rate of interest rt
+turns out to be a key variable for the design of monetary policy in this class of models. Within the New-
+Keynesian paradigm it is defined as the one-period equilibrium real rate of return that would prevail in 
+the  hypothetical  equilibrium  with  completely  flexible  prices,  that  is,  in  the  absence  of  nominal  price 
+rigidities. As is evident from the demand equation the situation where current and expected output is at 
+its  flexible-price  level  is  accompanied  by  the  actual  real  interest  rate  being  equal  to  its  natural 
+counterpart and thus by a closed interest rate gap.  
+The natural rate of interest is influenced solely by real factors such as productivity growth, movements 
+in government expenditure, the growth of the workforce, the tax structure, and the time preference of 
+households. As a consequence, the natural rate is not constant over time but mirrors the dynamics of 
+all  those  driving  forces.  Accordingly,  it  is  subject  to  short-  and  long-run  fluctuations.5  As  for  the 
+absolute level of the natural real rate, one cannot state that a high or low level does per se represent a 
+state of the economy which is desirable or not. It simply reflects its driving forces which themselves 
+        xt = Et(xt+1) – σ  -1 ·(it  - Et(πt+1) – rt
+πt = β·Et(πt+1) + κ· xt. 
+(1) 
+4  
+                                                                        
+3   See Clarida, Gali Gertler (1999), Gali (2003) and Woodford (2003). 
+4   The  parameter  β  denotes  the  subjective  discount  rate  of  private  households,  κ  incorporates  the  degree  of  nominal  price 
+rigidity and σ (in equation (2)) governs households’ intertemporal elasticity of substitution.  
+5   An example of the dependency of the natural rate on structural changes has been pointed out by Charles Bean recently, 
+see Bean (2004). He stresses that global demographic change would lead to a lower natural rate not only in the new steady 
+state but also along the transition path. 
+BIS Review 18/2006 
+ 3
+could, in principle, be gauged as being favourable or not. For instance, an increase in the natural rate 
+may be induced by a rise in productivity growth but may also be rooted in the need to finance larger 
+social security deficits.6
+For monetary policy purposes, the indicator quality of the natural rate for inflation is of special interest. 
+To this end, what matters is the level of the actual real interest rate compared with the natural rate of 
+interest. Again, this is illustrated most clearly within the baseline New-Keynesian model. An actual real 
+interest rate below the natural level – that is, a negative interest rate gap – implies a positive value of 
+the  output  gap  which  tends  to  increase  inflation.  If,  for  instance,  an  expected  permanent  future 
+increase in productivity induces agents to expect higher income in the future, they will try to smooth 
+consumption by already raising their consumption level in the present. In a flexible price equilibrium, 
+the  natural  real  interest  rate  would  rise,  increasing  current  desired  savings  in  order  to  equate  the 
+current consumption level and current natural output again. However, if the actual real interest rate 
+does not rise sufficiently, there will be a negative interest rate gap, which increases the current output 
+gap – that is, stimulates the economy too much – which in turn leads to inflationary pressure.7
+Interestingly, in these models the current inflation rate can be expressed solely as a sum of current 
+and  expected  future  interest  rate  gaps.  In  this  sense,  the  sequence  of  interest  gaps  is  a  sufficient 
+statistic for the determinants of inflation. This is close to the story told by Wicksell. Indeed, it may be 
+interpreted as a forward-looking variant of the Wicksellian analysis outlined above.8 However, at this 
+point  the  New-Keynesian  paradigm  also  differs  from  Wicksell’s  theory  in  one  crucial  aspect:  while 
+Wicksell viewed inflation as being a disequilibrium phenomenon, inflation in the New-Keynesian model 
+is an equilibrium phenomenon. In the latter case, all markets clear each period and all variables are 
+consistent with the optimality conditions of forward-looking households and firms. 
+ Monetary policy and the natural rate of interest in theory 
+4 
+Since there is no trade-off between output and inflation stabilisation in the theoretical model presented 
+so far, the prescription for stability-oriented monetary policy is straightforward: measure the currently 
+prevailing natural real rate of interest, and equate the one-period interest rate – which is the monetary 
+policy instrument – with that number. If an inflation rate different from zero is viewed as desirable, the 
+resulting interest rate should simply be increased by that amount. For expositional clarity, I will assume 
+a zero inflation objective in the following theoretical remarks.9  
+The key role which the natural rate plays with regard to the inflation process in the described basic 
+New-Keynesian model thus renders monetary policy a simple task: Although there are a variety of real 
+shocks that influence inflation, the central bank only has to care about the movements in the natural 
+rate  through  which  the  shocks  are  channelled.  However,  in  this  benchmark  New-Keynesian  model, 
+too,  the  described  policy  would  have  the  problem  that  it  is  merely  consistent  with  the  equilibrium 
+outcome  of  price  stability  but  does  not  necessarily  create  it.  The  problem  is  that  it  permits  the 
+occurrence  of  other  less  desirable  equilibria  with  fluctuating  inflation  and  output  gaps.  This  is  why 
+monetary policy must also commit to react sufficiently strongly to endogenous variables such as the 
+deviations of the output gap and inflation from their target values. Thus – assuming a zero inflation 
+objective  –  the  monetary  policy  reaction  function  in  this  theoretical  model  would  set  the  short-term 
+interest rate as 
+ 
+ 
+*
+where rt
+ denotes the natural real rate of interest. If the monetary policy authority credibly commits to 
+follow the natural rate and to react to unfavourable situations, these situations will never occur at all. 
+Thus, following the above rule not only supports the equilibrium of full stabilisation but pins it down as 
+the only possible one.  
+We should further note that a simple Taylor rule of the form  
+*
+ + g1· xt  + g2·πt, 
+it = rt
+(3) 
+                                                               
+6   See ECB (2004). 
+7   See Amato92005).  
+8    See Woodford (2003) p. 279. 
+9   For the analysis of monetary policy in the simple model with and without cost-push shocks, see Gali (2002). 
+4 
+ BIS Review 18/2006
+              (4) 
+it = c + g1· xt  + g2 ·πt, 
+     πt = β· Et(πt+1) + κ· xt + et. 
+ 
+which  does  not  follow  the  variations  in  the  natural  rate  of  interest  would  generally  not  be  able  to 
+generate  full  stabilisation.  To  illustrate  this,  assume  for  the  moment  that  monetary  policy  can 
+nevertheless commit to (4) and at the same time completely stabilize output and inflation. In this case, 
+the  nominal  interest  rate  and  expected  inflation  would  be  constant  over  time.  However,  since  the 
+natural real rate of interest moves due to exogenous factors, the resulting interest rate gap varies. But 
+according to demand equation (2) this would be incompatible with the assumed complete stabilisation 
+of  the  output  gap.  This  line  of  reasoning  shows  that  the  simple  policy  rule  (4)  is  not  capable  of 
+implementing complete stabilisation unless the natural rate is constant. 
+Unlike in the simple model considered so far, monetary policy will in general not be able to guarantee 
+full  stabilisation  at  all  times.  One  important  factor  that  generates  a  trade-off  between  output  and 
+inflation stabilisation is the presence of cost-push shocks. These appear as an additional disturbance 
+term in the Phillips curve,  
+ 
+ 
+Thus, a cost-push shock constitutes an additional driving force to inflation beyond those effects that 
+operate via the output gap. The presence of such shocks can arise from time-varying market power of 
+firms, from time-varying distortionary consumption or wage taxation, or from time-varying wage-mark-
+ups  in  imperfectly  competitive  labour  markets.10  In  contrast  to  the  earlier  example,  where  all 
+inflationary pressures had been due to real shocks – manifested in movements of the natural rate – 
+the central bank will now face a trade-off between output-gap and inflation stabilisation. If a cost push 
+shock  arises,  the  monetary  authority  may  raise  the  interest  rate  to  counterbalance  the  effect  on 
+inflation. This, however, now comes at the cost of generating a negative output gap. In this case, the 
+weights  that  the  central  bank  attaches  to  both  targets  come  into  play.  In  theory,  this  is  typically 
+represented by a loss function that increases in squared deviations of the output level and inflation 
+from target.11
+The  policymaker  seeks  to  minimize  this  loss  function,  taking  the  functioning  of  the  economy  as  a 
+constraint. In the presence of cost-push shocks, it is immediately evident that – contrary to the model 
+without  cost-push  shocks  –  a  vanished  interest  rate  gap  does  not  imply  price  stability.  What  the 
+optimal  policy  looks  like  in  this  case  depends,  in  particular,  on  whether  or  not  the  policymaker  can 
+credibly commit to future actions or – in the language of the “time inconsistency” literature – whether 
+monetary  policy  is  conducted  under  discretion  or  commitment.  In  any  case,  given  the  existence  of 
+cost-push  shocks,  a  policy  that  merely  traces  the  path  of  the  natural  rate  is  not  optimal.  Rather, 
+optimal  policy  will  have  to  take  into  account  both:  movements  in  the  natural  rate  and  the  nature  of 
+additional cost-push shocks which are not manifested in the natural rate.  
+(1a) 
+     Monetary policy and the natural rate of interest in practice 
+5 
+In light of the discussed theoretical considerations, the natural rate of interest could in principle play an 
+important role in the conduct of monetary policy. And at least conceptually its measurement would be 
+straightforward: identify its real driving forces, get to know in what way the NRI is affected by each of 
+them,  and  finally  measure  their  values.  Obviously,  all  of  these  three  steps  imply  considerable 
+obstacles. Step one requires an exhaustive enumeration of all those real factors that are potentially 
+important.  Step  two  requires  a  precise  knowledge  of  how  these  factors  affect  the  real  rate,  thus 
+requiring some sort of a very exact economic model. Finally, step three requires a measurement of 
+variables  which  are  themselves  partly  unobservable,  such  as  the  time  discounting  rate  of  private 
+households.  Therefore,  the  natural  rate  has  to  be  estimated  indirectly  based  on  current  and  past 
+observations  of  directly  observable  economic  data,  making  use  of  a  more  or  less  detailed  model 
+prescribing the interactions of the NRI with these variables.  
+However,  policymakers  intending  to  make  use  of  the  natural  rate  are  in  an  even  less  comfortable 
+position than econometricians conducting ex post analyses for estimating the NRI at a given point in 
+                                                      
+10   See Benigno and Woodford (2004), Walsh (2003) or Woodford (2003). 
+11   More  elaborated  optimising  models  based  on  utility-maximising  agents  even  allow  choosing  this  loss  function  so  that  it 
+represents  the  utility  stream  of  private  agents,  which  in  turn  makes  meaningful  welfare  analyses  of  different  policies 
+possible. 
+BIS Review 18/2006 
+ 5
+history. Econometricians can use current, past, and future observations to make inferences about the 
+NRI, while policymakers have only past and current data at their disposal. Moreover, past and current 
+data may also be affected by data revisions, this so-called ‘real-time data problem’ being, in itself, a 
+significant obstacle to monetary policy analysis on its own.  
+Estimating the natural rate of interest 
+5.1 
+For  estimating  the  NRI,  a  number  of  different  methods  have  been  established  in  the  literature. 
+Unfortunately,  they  lead  to  a  wide  range  of  different  results.12  Such  variability  across  estimation 
+methods  poses  an  additional  problem  besides  the  one  of  uncertainty  surrounding  any  statistical 
+estimate. As we shall see below, dealing with these uncertainties in an appropriate manner is a real 
+challenge for monetary policy – a challenge which is both discussed in the current academic literature 
+and debated in the context of policymaking in practice. The various approaches to estimating the NRI 
+in the literature can be grouped into the following three categories: (1) univariate filtering approaches, 
+(2) structural econometric models with the NRI as a latent variable, and (3) fully-fledged equilibrium 
+models  with  microeconomic  foundations.  In  my  following  remarks,  I  will  sketch  the  nature  of  these 
+methods and comment on their advantages and drawbacks. 
+One approach to estimating the NRI is based on simply using realised real rates. The idea supporting 
+this modus operandi, is that in the long run – that is, after all shocks have washed out – the actual real 
+rate should have converged to its natural counterpart. If moving averages of actual real rates are taken 
+over the typical length of a business cycle, the resulting number may be interpreted as being close to 
+the  natural  rate.  Since  the  method  uses  actual  real  rates  it  already  inherits  the  arbitrariness  of 
+measuring them: one has to decide between ex ante and ex post measures of inflation and on the 
+type of price index used. Additionally, one has to decide the window width over which the sequence of 
+means is computed. Since all these choices will have an influence on the level of the estimated natural 
+real rate, different variants of this approach can result in quite different point estimates of the NRI.  
+The  NRIs  resulting  from  such  moving  average  estimations  typically  constitute  a  fairly  smooth  time 
+series. However, this stands in contrast to the characterising features of the ‘true’ natural rate outlined 
+above, because – theoretically - it can in fact exhibit strong variations corresponding to the size and 
+dynamics of the real shocks it depends on. In general, methods based on averaging will by their very 
+nature  translate  a  de  facto  abrupt  persistent  upward  change  in  the  NRI  into  a  smooth  phase  of 
+transition. This drawback remains even if the averaging method is refined, as is the case, for example, 
+in methods that filter out low-frequent components from the real rate.13
+Alternatively, the literature also employs econometric models which explicitly specify the dynamics of 
+the natural rate as an exogenous stochastic process. This approach is – on the one hand – based on 
+exogenous shocks and – on the other – on the assumption about certain structural relations between 
+observable  variables  and  the  NRI.14  These  structural  equations  may  contain  quite  general 
+formulations of inflation and output dynamics based on economic theory. Typically, they nest a variety 
+of  specifications  from  both  specific  theories  and  ad  hoc  assumptions.  For  instance,  an  inflation 
+equation may nest a forward-looking Phillips curve that would result from particular assumptions of a 
+micro-founded equilibrium model – as mentioned above – but would also contain lagged inflation and 
+real activity in order to take account of some degree of backward-lookingness that is present in the 
+data. Here, the key idea is that the NRI – which, by its very nature, is unobservable – may be filtered 
+out from observable data on the basis of the model’s implications for the interaction between the NRI 
+and these observable variables. This filtering technique is more efficient if it is two-sided, that is, if it 
+uses not just past and current data, but also future data. However, since policymakers are confined to 
+one-sided filtering, this real-time problem tends to reduce the usefulness of this method. 
+The aforementioned econometric approaches specify a fairly general structure of the dynamics of key 
+economic  variables  that  interact  with  the  NRI.  Alternatively,  one  may  use  more  specific  general 
+equilibrium models of the economy, which are usually based on explicit microeconomic foundations. 
+                                                      
+12   See in particular the survey in Crespo Cuaresma, Gnan and Ritzberger-Grünwald (2005). 
+13  These problems are analogous to those encountered when estimating potential output. Filtering low-frequency components 
+from  a  series  of  actual  output  does  not  in  general  lead  to  a  time  series  that  shares  the  characteristics  of  the  theoretical 
+concept of potential output.  
+14   See e.g., Laubach and Williams (2003) and Mesonnier and Renne (2004). 
+6 
+ BIS Review 18/2006
+For the euro area, the model by Smets and Wouters (2003), for instance, has gained some popularity 
+as a tool for monetary policy analysis. Such a model makes it possible to emulate the hypothetical 
+flexible-price path of the economy, that is, the sequence of equilibria in which all real variables are at 
+their natural levels. This counterfactual exercise allows us to derive the natural rate of interest. Usage 
+of an estimated equilibrium model also makes it possible to track and interpret the very sources of its 
+variation, such as shocks to technology, government spending, or a change in the tax system.15
+Moreover, structural equilibrium models direct attention to the role that specific key variables may play 
+in identifying the relative natural rate movements. As outlined above, inflation may be represented by 
+the sum of future expected natural real interest rates. But an immediate proxy for the expected natural 
+real interest rate is even less available than it is for the current natural real rate. However, exploiting 
+the  logic  of  forward-looking  models,  these  important  future  developments  may  be  inferred  from 
+observations available in real time. For instance, in variants of the New-Keynesian model, presented in 
+Andres,  Lopez-Salido  and  Nelson  (2004),  portfolio  adjustment  costs  lead  to  a  forward-looking 
+specification of money demand. This, in turn, implies that current real balances are linked not only to 
+current income and interest rates but also to the sum of expected future values of the NRI and interest 
+rate gaps. In other words, if their model is true, money contains valuable information on future natural 
+real rates. For policymakers, this a crucial point: Given the real-time data problems with which they are 
+confronted,  looking  at  monetary  developments  may  be  useful  for  learning  about  the  current  (and 
+future) state of the economy even in the New-Keynesian world which, at first sight, has no such role 
+for money to offer. And this point is to some extent also related to Wicksell’s theory, where an interest 
+rate  gap  has  direct  implications  for  credit  and  money  growth.  I  will  come  back  later  to  the  issue  of 
+monetary indicators’ usefulness.  
+However, deriving the natural rate of interest from structural models is accompanied by the risk that 
+the underlying narrow view of economic interactions may not be an adequate representation of reality. 
+Basing  estimates  of  the  NRI  on  a  distorted  picture  of  real-world  interactions  would  then  lead  to  a 
+distorted estimate of the NRI. Obviously, this shows that the use of the concept of the natural rate of 
+interest for policymaking comes with the problems of model and data uncertainty.  
+Monetary policy guided by estimates of the natural rate of interest 
+5.2 
+From the foregoing remarks it should come as no surprise that point estimates of the natural rate of 
+interest  vary  immensely  across  methods.  Again,  it  is  important  to  note  that  this  variation  across 
+estimation  approaches  prevails  in  addition  to  the  statistical  uncertainty  surrounding  every  point 
+estimate for any given model on which it is based. For the euro area since 1999, a synopsis in a paper 
+by Crespo Cuaresma, Gnan, and Ritzberger-Grünwald (2005) shows that estimated paths of the NRI 
+differ considerably in terms of their levels, the range that they cover over time, and their smoothness. 
+Therefore, the natural question arises as to whether the concept of the NRI can be useful to monetary 
+policymakers in practice. For illustration, let us consider again the most basic New-Keynesian model 
+without any output/inflation trade-offs. Here, policymakers can completely stabilise the path of inflation 
+and output: they set the nominal interest rate equal to the natural real rate of interest plus their inflation 
+objective. They commit to react to inflation and output gap fluctuations, but these would never occur in 
+equilibrium.  However,  if  the  natural  rate  is  not  measured  precisely  and  is  simply  replaced  by  its 
+estimate  in  the  above  rule,  then  “estimation  error  becomes  policy  error,  and  stabilization  policy 
+becomes destabilizing”.16
+One  therefore  has  to  explore  what  the  optimal  monetary  policy  looks  like  in  the  presence  of 
+measurement uncertainties concerning the natural rate. This is one instance of the general question of 
+how monetary policy should act in presence of uncertainty about the state of the economy and this 
+issue  currently  constitutes  a  very  active  research  area.  Under  specific  assumptions  the  apparently 
+comfortable principle of ‘certainty equivalence’ prevails: optimal policy should react to its best estimate 
+of a state variable in exactly the same way as it should react if this variable were precisely observable. 
+It is immediately clear that even in this ‘straightforward’ case, every policy that comes in the form of a 
+‘simple  rule’  loses  that  property  of  simplicity:  reacting  to  the  ‘best  estimate’  of  any  state  variable 
+                                                      
+15   See also Neiss and Nelson (2001). In their DSGE model, it is particularly interesting to see that the response of the NRI to a 
+technology shock depends crucially on the specification of capital adjustment.  
+16   Jonathan A. Parker in a comment on Orphanides and Williams (2002). 
+BIS Review 18/2006 
+ 7
+usually implies conducting a one-sided filtering exercise, yielding a state estimate which is a function 
+of  all  current  and  past  observables.  Moreover,  this  approach  is  conditional  on  two  crucial 
+requirements: first, the central banker has to know the structure of the data-generating process for the 
+NRI in order to come up with the best estimate. And second, this best estimate will typically depend on 
+the degree of mismeasurement of the NRI which, in general, is not precisely known either. Thus, in 
+trying to react appropriately to state uncertainty, uncertainty kicks in on another level, posing an even 
+greater challenge.  
+If model uncertainty or uncertainty about the degree of mismeasurement prevails, policymakers are 
+well advised to go for a strategy that is robust to misconceptions of the true economic mechanism or 
+the  degree  of  NRI  mismeasurement.  That  is,  a  policy  that  performs  acceptably  under  a  variety  of 
+possible model structures should be preferred to one that is optimal in one specific environment but 
+would  lead  to  disastrous  outcomes  if  another  setting  prevailed.  One  way  to  tackle  this  issue  is  the 
+Bayesian approach, where the policymaker has to assign a subjective probability distribution over the 
+class of possible models prevailing.17 Of course, doing so requires an a priori decision about the set of 
+models  considered  within  the  exercise.  Note  that  this  problem  is  closely  related  to  G.L.S  Shackle’s 
+work on  uncertainty:  coming  up with  a  sensible  set  of  models  –  relevant  for decisions affecting  the 
+future  –  may  not  be  accomplishable:  there  are  always  „fresh  kaleidic  shift(s)  of  the  environment“18, 
+thus, those models that are potentially adequate to describe the economic characteristics of the future 
+may not be imaginable today.  
+Model uncertainty in the sense of an unknown degree of mismeasurement of the natural rate19 is the 
+subject  of  Orphanides  and  Williams  (2002):  they  show  that  the  welfare  cost  of  underestimating  the 
+degree of mismeasurement of the natural rate of interest20 exceeds the cost of overestimating it. Put 
+differently,  a  policy  that  is  optimal  for  the  case of  low  measurement  uncertainty  would  induce  large 
+welfare losses if measurement uncertainty is, in fact, high, but would bring about only moderate losses 
+in efficiency in the converse case. Accordingly, the robust policy rule puts little weight on the estimate 
+of the natural rate. In the extreme, robust optimal policy would ignore it completely and go for a policy 
+rule that relies on first differences of observed variables rather than the relevant gaps.21  
+Summing up and looking ahead 
+6 
+This example illustrates that on top of all those statistical measurement problems the question of how 
+to react optimally to an estimate of the natural rate may be an even more intricate problem. So at the 
+end of the day, what can we make of the concept of the natural real rate of interest for the practice of 
+monetary policy? 
+To answer this question, let me come back to the properties for an ideal benchmark indicator of the 
+monetary policy stance, which I listed at the beginning.  
+First,  concerning  theoretical  foundations,  the  natural  real  rate  of  interest  –  with  an  already  long 
+tradition in economic theory – plays a key role in modern rational-expectations models of monetary 
+macroeconomics and stands on sound analytical ground. It is a tool for thinking about the monetary 
+transmission process. This is because the determinants of the natural rate of interest – for example 
+changes in preferences, advances in production technology and variations in government spending – 
+all have an effect on output fluctuations and inflation. Thus, the natural rate of interest subsumes all 
+these real shocks into a single number that – when compared with the actual real rate – provides an 
+indicator for the stance of monetary policy.  
+Second, even within the limits of the theoretical framework, the corresponding interest rate gap is not a 
+sufficient summary variable reflecting the overall pressure on inflation in the sense that it captures all 
+                                                      
+17   See  Angeloni,  Smets  and  Weber  (1999)  and  the  references  therein  concerning  the  problem  of  monetary  policy  making 
+under uncertainty with special reference to ECB policy.  
+18   Shackle (1972), p. 240. 
+19   Thus, compared to the latter considerations, model uncertainty in a quite narrow sense. 
+20   They are concerned with both the natural rate of interest and the natural rate of unemployment.  
+21   Orphanides and Williams even propose a policy rule that completely dismisses any reliance on natural rate concepts. See, 
+however, the comment by J. A. Parker who claims that within non-simple rules estimates of the natural rates can be fruitfully 
+exploited.  
+8 
+ BIS Review 18/2006
+possible determinants of price changes. Rather, cost-push shocks provide a source of inflation which 
+is  important  for  monetary  policymakers  to  know,  but  which  is  not  mirrored  by  the  natural  rate  of 
+interest.  
+Third,  the  natural rate of  interest  is  not  readily computable  from observable  economic  data.  On  the 
+contrary, its measurement is affected by severe problems. In addition to the usual statistical estimation 
+uncertainty,  estimated  NRIs  differ  widely  across  estimation  approaches.  The  more  simplistic  the 
+approach one follows, the farther away one will move from a theoretically founded notion of the NRI. 
+This problem is less severe if a detailed theoretical model is used for estimation. In this case, however, 
+the problem of model uncertainty becomes pivotal. 
+Thus,  I  think  one  can  safely  conclude  that  the  natural  rate  cannot  be  a  surrogate  for  a  detailed 
+analysis of the real and monetary forces relevant for the identification of risks to price stability. As we 
+have seen, even within the simple New-Keynesian model with cost-push shocks, the natural real rate 
+of interest or the corresponding real interest rate gap alone is not a sufficient measure of the monetary 
+policy stance.  
+Moreover,  it  is  far  from  certain  what  role  the  natural  rate  may  play  in  models  outside  the  New-
+Keynesian paradigm. This point is particularly relevant with respect to models that aim to capture the 
+longer-run perspective between monetary developments and inflation. Such models could represent 
+natural complements to models of short-run fluctuations – such as those of the New-Keynesian type – 
+in  the  toolbox  of  policymakers.  These  are  an  essential  device  for  judging  the  medium  to  long-term 
+risks to price stability. More generally, an anchoring of inflation expectations in the long run requires 
+that any analysis of the real side – in which natural rate considerations take place – is complemented 
+by an analysis of monetary and credit development. This is one line of reasoning that stands behind 
+the  two-pillar  strategy  of  the  Eurosystem,  which  takes  account  of  short  to  medium  run  inflationary 
+pressures within its economic analysis as well as of medium to long-run risks to price stability within its 
+monetary analysis. 
+However,  I  think  further  active  research  on  the  role  of  the  natural  rate  for  monetary  policy  and  its 
+measurement  is  certainly  worthwhile.  Theoretical  considerations  along  the  lines  of  Wicksell’s 
+cumulative process or of the New-Keynesian paradigm have demonstrated that the natural rate may 
+be  key  to  understanding  the  factors  that  drive  inflation.  And  since  policymakers  cannot  afford  to 
+discard  such  information,  they  should  certainly  keep  an  eye  on  it.  However,  one  cannot  judge  the 
+usefulness of the natural rate of interest for monetary policy purposes without taking into account the 
+serious problems that accompany its measurement and estimation. As has been pointed out, these 
+problems are severe and comprise a considerable degree of data as well as model uncertainty. Seen 
+from  this  perspective,  it  may  be  worthwhile  to  examine  in  more  detail  what  information  content  the 
+real-time  estimates  of  the  natural  rate  of  interest  from  various  empirical  approaches  –  or  more 
+precisely the implied real interest rate gaps – have for future inflation. This exercise would move away 
+a bit from the question of what measure provides an estimate that is as close as possible to the ‘true’ 
+natural rate, and would move towards the question of which is the most informative empirical measure 
+based on natural rate considerations for inflation in the medium run.22 Finally, within the very active 
+theoretical literature on optimal monetary policy under uncertainty, there remains the relevant question 
+of what to do with the – up to now very imprecise – estimates of the natural rate of interest.  
+Conclusion 
+Coming back to the title of this lecture “The role of interest rates in theory and practice - How useful is 
+the  concept  of  the  natural  real  rate  of  interest  for  monetary  policy?”  I  would  like  to  conclude  by 
+answering  this  question.  I  think  that  the  concept  of  the  natural  rate  of  interest  is  of  importance  for 
+modern monetary theory and that it is proving to be very useful in organising one’s thoughts about the 
+working  of  the  economy  and  the  effects  of  monetary  policy.  Thinking  again  of  Shackle’s  likening  of 
+Wicksell’s  natural  rate  of  interest  to  the  steam  locomotive  I  would  say  that  the  modern  theoretical 
+version  of  this  concept  is  indeed  a  high-speed  train.  However,  the  degree  to  which  this  theoretical 
+concept can be transferred to the sphere of practical monetary policy is, as yet, uncertain. 
+                                                      
+22   Neiss and Nelson (2001) find that a real interest rate gap based on an estimated DSGE model has explanatory power for 
+future inflation in the UK.  
+BIS Review 18/2006 
+ 9

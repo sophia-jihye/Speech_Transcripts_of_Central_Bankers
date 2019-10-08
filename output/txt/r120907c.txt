@@ -1,0 +1,386 @@
+Jean-Pierre Danthine: Taming the financial cycle 
+Speech  by  Mr  Jean-Pierre  Danthine,  Vice  Chairman  of  the  Governing  Board  of  the  Swiss 
+National Bank, at the 30th SUERF Colloquium, Zurich, 5 September 2012. 
+ Introduction 
+The global financial crisis has been weighing heavily on the world economy since 2007. The 
+crisis  was  severe.  In  most  advanced  countries,  the  recovery  has  been  weak  in  historical 
+comparison. Many of these economies are struggling hard to regain the jobs lost during the 
+last four years (slide 1).1 
+The crisis originated in the bursting of a house price bubble driven by an excessive credit 
+expansion  in  the  US,  which  eventually  pushed  the  global  financial  system  to  the  brink  of 
+collapse. In some countries, such as Spain or Ireland, the crisis was further compounded by 
+the  bursting  of their  own  housing  bubbles.  In  this  regard,  the  current  crisis  is  an  excellent 
+example. Historical evidence shows that the macroeconomic cost of an asset price bubble 
+that bursts is particularly severe when the property market is affected. Moreover, such events 
+tend  to  be  more  costly  when  the  bubble  is  financed  through  credit  and  when  leveraged 
+financial institutions are directly involved.2 
+Switzerland has been less affected by the recent crisis and has recovered more quickly from 
+it. There is no room for complacency, however. The recovery has been boosted by a thriving 
+housing  market  and  strong  credit  growth.  In  the  wake  of  this,  the  medium-term  risk  to 
+financial stability has been increasing. The dismal consequences of the recent global crisis 
+as  well  as  of  our  own  housing  market  crisis  experience  in  the  early  1990s  are  stark 
+reminders that we should not take any chances in this regard. We must ensure that a similar 
+crisis does not materialise in our country again. 
+How can we improve our ability to contain risks to system-wide stability knowing that, in case 
+of  adverse  shocks,  these  risks  can  materialise  with  devastating  consequences  for  the 
+broader economy? 
+In the first part of my speech, I argue that what is referred to as a macroprudential approach 
+to  financial  regulation  is  an  important  missing  link  in  our  quest  for  a  more  comprehensive 
+financial stability framework. It provides the necessary complement to sound microprudential 
+regulation  and  supervision  as  well  as  to  a  monetary  policy  that  focuses  primarily  on  price 
+stability. 
+I argue, in the second part of my speech, that the case for macroprudential policies applies 
+strongly  in  Switzerland.  Against  a  background  of  persistently  strong  growth  in  the  Swiss 
+credit  and  property  markets,  the  availability  of  a  new  macroprudential  instrument,  a 
+countercyclical  capital  buffer  (CCB),  is  an  important  step  forward.  I  will  describe  the  key 
+features of this important new instrument. 
+                                                
+1 
+In  the  US,  for  instance,  it  is  already  three  years  since  the  recession  ended,  in  technical  terms.  Economic 
+growth has settled at a modest 2% on average and only about a third of the jobs chopped during the downturn 
+have been restored (approx. 2.5 million, compared to 7.5 million). Even worse, growth in the euro area has 
+now all but come to a halt, and the currency union is faced with increasing unemployment.  
+2  Crowe et al (2011). 
+BIS central bankers’ speeches 
+ 1 
+How to deal with systemic risk: The case for macroprudential regulation 
+Let me proceed straight to the key problem at hand: the issue of systemic risk in financial 
+markets. 
+In  general  terms,  systemic  risk  arises  because  an  optimising  financial  institution  does  not 
+fully account for the cost that its behaviour imposes on other financial institutions. That is, at 
+heart, systemic risk originates in a negative externality imposed by individual financial firms 
+on the system. The underlying sources of systemic risk can be either structural or cyclical. 
+The  structural  dimension  of  systemic  risk  is  linked  to  spillovers  associated  with  three  key 
+properties of modern banking: high leverage, limited liability and interconnectedness. 
+On its own, high leverage implies a higher risk of insolvency. Combined with limited liability, 
+high leverage often leads to excessive risk-taking. This is because, with limited liability, the 
+diverse  set  of  stakeholders  (managers,  owners,  creditors)  benefits  from  the  upside  of 
+risk-taking but does not fully bear the cost when these risks materialise. As a consequence, 
+there are strong incentives to leverage the balance sheet beyond the level which would be 
+chosen if the individual stakeholders were fully exposed to the associated increase in the risk 
+of default. 
+This  problem  of  socially  excessive  risk-taking  is  particularly  damaging  in  the  case  of  large 
+interconnected  institutions  whose  failure  would  endanger  other  institutions,  with  adverse 
+consequences for the broader economy. Finally, the issue is further exacerbated if an implicit 
+or explicit guarantee of state support is extended to such institutions. The chain of distorted 
+incentives which has just been described, and, in particular, the moral hazard issue implied 
+by  the  guarantee  of  state  support,  is  now  well  recognised  and  is  being  addressed 
+energetically by the various regulators.3 
+The second source of systemic risk has a cyclical dimension (slide 2). This is the aspect on 
+which I would like to focus today. Here, systemic risk arises from the procyclicality of financial 
+agents’ behaviour, leading to the amplification of financial cycles.4 Procyclicality can arise, for 
+instance,  from  the  tendency  to  underprice  risk  during  booms  and  to  overprice  it  in 
+downswings. Sometimes exacerbated by regulatory requirements, it causes agents to take 
+similar actions in case of an adverse shock, namely to dispose of risky assets when prices 
+fall.  While  this  behaviour  may  be  individually  rational,  the  outcome  can  be  socially 
+devastating. Indeed this collective reaction tends to amplify an initial price movement, thus 
+leading to another round of asset selling, in particular if the boom is mainly financed through 
+credit. A financial system facing such strains is forced to retrench further from risk-taking and 
+eventually  from  credit  intermediation,  leading  –  in  extreme  cases  –  to  an  outright  credit 
+crunch. 
+How to deal with systemic risk – the traditional approach 
+While  these  arguments  are  not  profoundly  new,  the  policy  consensus  before  the  current 
+crisis  was  dominated  by  a  reluctance  to  address  systemic  risk  issues  directly.  This 
+consensus was based on two key arguments. 
+First, it was largely assumed that securing the solidity of individual financial institutions would 
+also  grant  system-wide  stability  and  thus  that  regulation  at  the  level  of  individual 
+firms  –  micro-regulation  –  would  suffice.  The  crisis  has  shown  that  this  view  is  clearly 
+questionable.  As  just  described,  risk  in  a  financial  system  can  arise  quasi  endogenously, 
+even if individual financial institutions appear to be robust. 
+                                                
+3   For more details, namely on ways to address TBTF issues, cf. Danthine (2011). 
+4  Bank of England (2011). 
+2 
+ BIS central bankers’ speeches 
+The second critical element of the pre-crisis policy consensus is known as the “Greenspan 
+Doctrine”.  This  states  that  pricking  an  asset  price  bubble  is  in  general  more  costly  than 
+cleaning up after the bubble has burst. The foundation of this doctrine is that it is simply too 
+difficult to identify ex ante when a bubble is forming. Specifically, it is inherently difficult to 
+disentangle situations where a credit or asset-price boom is justified by fundamentals from 
+those where it is based on misplaced expectations and is thus a threat to financial stability. 
+As a result, an attempt to prick a bubble may lead to an intervention that puts a halt to “a 
+good boom” which would have pushed the economy towards a higher level of development. 
+The  cost  of  such  unwarranted  interventions  in  the  form  of  foregone  growth  could  be 
+substantial.5 
+How to deal with the cyclical dimension of systemic risk – a macroprudential approach 
+The immense cost of the global crisis has led to a thorough rethinking of this traditional view 
+on  financial  regulation  and  macroeconomic  policy.  For  instance,  estimates  have  been 
+provided  suggesting  that  the  cumulated  output  loss  incurred  by  the  recent  crisis  could 
+amount  to  90%  of  2009  world  GDP.6  Naturally  enough,  the  afore-mentioned  approach  of 
+“benign  neglect”  is  no  longer  seen  as  an  acceptable  way  to  deal  with  potential  excesses 
+building up through the financial cycle. 
+Given that the cost of inaction when imbalances develop in the credit market can be huge, a 
+more precautionary approach is indispensable (slide 3). In general, its goal should be, first, to 
+enhance the resilience of the financial system to adverse shocks, and second – to the extent 
+possible – to try and preventively contain the build-up of systemic risk. This is the thrust of 
+the  macroprudential  approach.  For  instance,  in order to  address  the root  cause  of  cyclical 
+systemic  risk  directly,  the  goal  of  this  approach  should  be  to  reduce  the  procyclicality  of 
+financial agents’ behaviour. 
+Can  we  hope  to  achieve  this  with  monetary  policy  instruments,  or  do  we  need  new 
+specifically designed instruments? 
+Monetary  policy  comes  to  mind  since  it  is  conceivable  that  we  might  use  the  interest  rate 
+instrument more aggressively in the face of mounting cyclical excesses in the credit and real 
+estate markets. Raising interest rates in the case of a credit boom – leaning against the wind 
+– is a natural response, as the higher market borrowing rates would exert a dampening effect 
+on credit demand and – eventually – on real estate prices.7 
+Using  the  interest  rate  to  contain  asset  price  growth  would,  however,  regularly  lead  to 
+deviations from the interest rate path that would be optimally justified by the pursuit of the 
+price stability mandate. This is an illustration of the well-known principle according to which 
+the number of policy tools should equal the number of policy goals. 
+At  a  more  practical  level,  empirical  evidence  suggests  that  the  interest  rate  may  be  an 
+inefficient tool when used single-handedly for the purpose of dampening the financial cycle. 
+That  is,  containing  a  boom  may  require  very  large  interest  rate  movements,  leading  to 
+commensurate output losses.8 
+In sum, while interest rate policy may at times be counted on to support efforts to contain 
+financial stability risks, it is unlikely to suffice as the main, or sole, instrument in doing so. 
+                                                
+5   Blinder and Reis (2005). 
+6  Haldane (2010); Calculations based on former banking crises suggest that, on average, about 10% of GDP is 
+lost  initially  (peak-to-trough)  and  that  the  cumulated  (longer-term)  cost  may  have  added  up  to  20–100%  of 
+pre-crisis GDP (BCBS (2010)). 
+7   White (2009). 
+8   Danthine (2012). 
+BIS central bankers’ speeches 
+ 3 
+Thus the deployment of specific macroprudential instruments, targeted directly at the specific 
+source of systemic risk, seems appropriate. There are several potential candidates – ranging 
+from  capital  and  liquidity  oriented  tools,  to  taxation  or  outright  bans  on  certain  financial 
+activities.9 Ex ante it is difficult to single out the best instrument, independently of the context 
+and the targeted source of systemic risk. 
+I will abstain from an in-depth discussion of the catalogue of proposed tools and rather focus 
+on a practical case study, namely the macroprudential instrument introduced in Switzerland 
+earlier this year, the countercyclical capital buffer (CCB). 
+the 
+last 
+three  years.  As  a  consequence, 
+Macroprudential regulation in Switzerland 
+Why do we need this instrument? 
+In Switzerland, the indications of a gradual build-up of cyclical imbalances in the mortgage 
+and real estate markets have become increasingly evident over the past few years (slide 4). 
+In the last three years, yearly growth rates of mortgage lending and real estate prices have 
+amounted to about 5% on average.10 These numbers may not be spectacular compared to 
+the  double-digit  growth  rates  often  observed  during  later  build-up  stages  of  a  bubble. 
+However,  these  growth  rates  are  atypically  high  when  compared  to  the  below  average 
+economic  growth  observed  during 
+the 
+mortgage-lending-to-GDP ratio has reached historical heights while, in some segments and 
+regions,  residential  real  estate  prices  exceed  levels  that  can  be  justified  by  fundamental 
+factors such as demographics or income. 
+Given these developments, Switzerland is facing an increasing risk, both of defaults in the 
+mortgage  market  and  a  sizable  correction  in  property  prices,  either  of  which  might  impair 
+financial stability in the medium term. Specifically, an adverse shock – such as rising interest 
+rates,  lower  growth  or  increasing  unemployment  –  would  leave  some  borrowers  unable  to 
+service their loans, increasing the possibility and number of defaults, and ultimately leading 
+to a vicious feedback loop of falling property prices and impaired balance sheets throughout 
+the banking sector. 
+At the same time, Switzerland currently serves as perfect example for the afore-mentioned 
+argument that the interest rate is unlikely to suffice as instrument to ensure financial stability 
+(slide 5). Notably, it is clear that the current exchange rate situation invalidates the interest 
+rate as an available instrument to dampen the persistently strong growth in credit volumes. 
+At present, the interest rates required for monetary policy objectives differ considerably from 
+those required for financial stability policy objectives. This perfectly demonstrates the need 
+for  specific  instruments  to  be  able  to  address  both  policy  objectives  –  financial  and  price 
+stability – simultaneously. 
+Against  this  background,  the  Federal  Council  announced  a  package  of  measures  in  June 
+2012 addressing these risks in the mortgage and real estate markets. 
+In addition to the CCB, this package consists of a structural revision of capital requirements 
+for residential mortgage lending as well as a revision of the banking industry’s self-regulation 
+guidelines.  The  first  of  these  measures  consists  of  a  permanent  increase  in  the 
+risk-weighting11  for  the  loan  tranche  exceeding  the  80%  loan-to-value  ratio.  The  second 
+                                                
+9   Taxonomy  as  proposed  in  De  Nicolò  et  al  (2012).  For  an  overview  on  macroprudential  instruments  and 
+international experiences, cf. CGFS (2010). 
+10   Over the past three years, annual real growth amounts to, on average, 4.4% (houses) and 5.5% (apartments). 
+Annual real mortgage growth over the past three years amounts to, on average, 4.8%. 
+11   The risk-weighting is increased from 75% to 100%. 
+4 
+ BIS central bankers’ speeches 
+measure requires a 100% risk-weighting for new mortgage loans which do not meet tighter 
+minimum requirements stipulated in the banks’ revised self-regulation guidelines.12 
+The CCB, for its part, is a pre-emptive measure that allows authorities to temporarily raise 
+capital  requirements  in  the  banking  system  as  imbalances  in  the  credit  market  develop. 
+When activated, banks will be required to gradually build up an additional capital buffer of up 
+to  2.5%  of  total  domestic  risk-weighted  assets  during  the  upswing  in  the  credit  cycle.  The 
+CCB  requirement  is  a  supplement  to  other  capital  requirements.  Once  risks  have 
+materialised, or if the intensity of risk is subsiding, the capital buffer generated from the CCB 
+is released, either immediately or gradually. 
+The key features of the CCB 
+The CCB combines several key features that directly address the problem of cyclical risks to 
+financial stability. 
+In  particular,  when  activated,  the  CCB  should  help  reduce  the  amplitude  and  the 
+consequences  of  imbalances for financial  stability.  The  CCB  should  increase  resilience  by 
+ensuring that an additional buffer of capital is built up gradually during the boom, a buffer that 
+can then be released to cushion losses in an eventual downturn. It thus limits the threat of 
+vicious fire-sale spirals. Moreover, by increasing the relative cost of providing credit, the CCB 
+should help to lean against the build-up of excesses. 
+In addition, the buffer is designed in such a way that it can be implemented on a broad basis 
+or can target specific segments of the credit market only. Currently, for instance, signs of a 
+build-up of excesses in the Swiss credit market merely relate to the domestic mortgage and 
+residential  real  estate  markets. Thus,  if  the  buffer  were  to  be  activated,  it  would  be  aimed 
+solely at this segment of the credit market. 
+Not  least,  a  CCB  is  one  of  the  key  components  of  the  reforms  of  international  financial 
+regulation (Basel III framework). It will be introduced by most countries within the next few 
+years. In this context, criticism has been raised that an early introduction of the CCB would 
+cause competitive disadvantages for the Swiss financial sector in international comparison. 
+For various reasons, this criticism is invalid. First, the CCB will be activated only if deemed 
+necessary; most of the time, it is likely to remain turned off. Second, if activated, the CCB 
+would  be  applicable  to  Swiss  banks  and  to  subsidiaries  of  foreign  banks  in  Switzerland, 
+ensuring  a  level  playing  field.  Third,  given  the  geographical  diversification  of  the  two  big 
+banks, an activation of the CCB focused on domestic risk-weighted assets would not have a 
+material impact on these banks’ overall capital situation. Finally, by contributing to financial 
+stability  and  hence  reducing  the  risk  of  domestic  banking  crises,  the  CCB  should  help 
+increase  the  overall  long-term  attractiveness  and  competitiveness  of  the  Swiss  financial 
+sector. 
+How the CCB works 
+Let me now address four key questions pertaining to the functionality of the CCB; and, for 
+that matter, of any macroprudential instrument targeted at containing the cyclical dimension 
+of systemic risk. 
+First, how do we know that imbalances have reached a level such that an activation of the 
+CCB is warranted? 
+                                                
+12   These minimum requirements are twofold: First, at least 10% of the value of the collateral must be provided in 
+equity  from  sources  other  than  borrower’s  pension  assets.  Second,  the  mortgage  debt  on  residential 
+properties  has  to  be  repaid  such  that  it  amounts  to  no  more  than  two-thirds  of  the  collateral  value  after 
+20 years. 
+BIS central bankers’ speeches 
+ 5 
+As mentioned earlier, identifying unsustainable developments in asset and credit markets is 
+inherently difficult. Thus, the aim cannot, and should not, be to surgically prick bubbles or to 
+fine tune asset-price or credit market developments. 
+It is easier, however, although not trivial, to identify situations of intensified financial stability 
+risk. In such cases, taking precautionary action is fully justified. The question should thus be 
+rephrased as “How can we identify that the build-up of risk is approaching a critical stage?” 
+International  evidence  suggests  a  palette  of  quantitative  early  warning  indicators  that  are 
+reliable with respect to predicting banking crises and financial instability. For instance, real 
+estate boom-bust cycles are particularly damaging when associated with increased leverage 
+in both the real and financial sectors. To obtain a more accurate picture of the intensity of 
+systemic risk, a combination of indicators should be monitored simultaneously.13 
+In this spirit, the Swiss approach relies on a combination of indicators to assess whether, and 
+to what extent, the activation, adjustment or deactivation of the CCB is warranted.14 These 
+indicators  have  been  chosen  based  on  their  past  performance  as  early  warning  indicators 
+both for Switzerland and internationally (slide 6). 
+Still, a purely mechanical response to financial stability risk depicted by a set of indicators, 
+while  providing  a  certain  degree  of  transparency,  is  risky.  For  instance,  it  would  leave  no 
+room for considering the influence of developments not captured by these indicators. As a 
+consequence, an element of discretion should be embedded in the decision to activate the 
+CCB, or not, at a given point in time.15 
+The current situation provides a good example: The medium-term risks to financial stability 
+remain  high,  with  imbalances  in  certain  segments  persisting.  Some  recent  data  releases, 
+however,  indicate  a  possible  slowdown  in  momentum  in  Swiss  mortgage  and  real  estate 
+markets during the second quarter of 2012. In addition, the effect on credit momentum of the 
+other measures announced by the Federal Council in June 2012, namely the revision of the 
+risk-weighting and the self-regulation rules, remains to be seen.16 Taking these issues into 
+consideration, the SNB decided in August 2012 not to issue an immediate proposal to the 
+Federal Council for activation of the CCB. It will reassess the situation regularly. 
+The second key question pertaining to the functioning of the CCB is whether it is an effective 
+instrument to strengthen the resilience of the financial system and thus help to limit negative 
+spillovers (slide 7). 
+The  impact  of  higher  capital  ratios  and  more  provisions  on  the  resilience  of  banks  is 
+self-evident.  This  is  also  the  case  from  a  system-wide  perspective.  To  assess  the 
+effectiveness  of  the  CCB  in  strengthening  resilience,  we  can  draw  some  lessons  from 
+historical  experience,  namely  the  Swiss  real  estate  crisis  in  the  early  1990s.  Internal 
+calculations suggest that, had the proposed CCB regime been in place in the run-up to that 
+crisis, the resilience of the system as a whole would have increased significantly. From an 
+aggregate  perspective,  this  additional  capital  would  have  absorbed  a  large  portion  of  the 
+losses that were reported as a result of the crisis. 
+The  third  key  question  is:  To  what  extent  the  CCB  is  able  to  contain  the  build-up  of 
+excesses? 
+                                                
+13   IMF (2011), Drehmann et al (2011). 
+14   Namely, domestic mortgage volume indicators and domestic residential real estate price indicators. 
+15   For a detailed description of this principle of “guided discretion”, cf. SNB (2012). 
+16   Both measures are designed to have a dampening effect on house prices and mortgage volume momentum. 
+The former will be effective from January 2013, the latter already from July 2012 with a transition period until 
+November 2012. 
+6 
+ BIS central bankers’ speeches 
+the  CCB 
+is  activated, 
+Here,  international  empirical  evidence  suggests  that  tighter  capital  requirements  have,  on 
+average, a dampening impact on credit volume. This impact of tighter capital on lending is 
+greater  when  the  implementation  period  is  shorter.17  Moreover,  the  increase  in  capital 
+requirements may lead to a significant reduction in the likelihood of a systemic crisis.18 
+Expectations  concerning  the  effectiveness  of  leaning  against  the  credit  cycle  must  remain 
+realistic,  however.  There  is  no  guarantee  that  activating  the  CCB  will  fully  eliminate  future 
+imbalances in the Swiss mortgage and real estate markets. Inherent uncertainty regarding 
+the strength of its impact and hence the appropriate calibration remains. Moreover, if banks 
+hold  significant  capital  cushions  even  before 
+the  desired 
+countercyclical effect on credit growth may be weakened. We can note, however, that even if 
+the CCB has no effect on aggregate credit growth, it will nonetheless be useful if lending is 
+shifted  from  relatively  weak  banks  (constrained  by  the  CCB)  to  more  resilient  banks 
+(benefitting from a sufficient capital buffer). 
+Let us now turn to the fourth question pertaining to the functioning of the CCB: How does it 
+perform with respect to potential side-effects? 
+The most important concern in this regard is that, if the CCB generates capital constraints at 
+some banks, these banks will need to decide which sector to keep lending to. It may seem 
+reasonable  that  institutions  will  prefer  to keep  lending  to the  booming sector,  while  cutting 
+back on lending to other sectors. 
+The  design  of  the  CCB  takes  such  undesired  side-effects  into  account.  In  particular,  the 
+sectoral approach alleviates this problem to some extent. By increasing the cost of granting 
+credit to a given sector (real estate lending) relative to others, it should discourage lending to 
+the  former  as  it  is  “penalised”  in  terms  of  higher  capital  requirements.  And,  thanks  to  its 
+dynamic  nature,  the  CCB  can  be  flexibly  adjusted,  should  it  still  have  undesired 
+consequences in other segments of the credit market. 
+Conclusion 
+To  sum  up,  the  global  crisis  has  clearly  stressed  the  need  for  a  more  comprehensive 
+approach to financial stability. The potential cost of a systemic crisis is significant. Remaining 
+idle is no alternative. We must insist on addressing systemic risk issues head-on. This is the 
+intent of macroprudential instruments. 
+In  Switzerland,  financial  stability  risk  is  currently  building  up,  driven  by  persistently  strong 
+momentum in the mortgage and real estate markets. Against this background, the availability 
+of a tool such as the CCB is a significant step forward. The CCB is a “soft”, incentive-oriented 
+instrument  based  on  the  principle  of  prudence.  It  can  and  will  be  used  in  a  balanced  and 
+flexible way to deal with specific cyclical risks to financial stability. 
+References 
+Bank of England 2011: Instruments of macroprudential policy. A discussion paper. 
+BCBS 2010: An assessment of the long-term economic impact of the new regulatory 
+framework. 
+BIS  2010:  Assessing  the  Macroeconomic  Impact  of  the  Transition  to  Stronger  Capital  and 
+Liquidity Requirements. Final Report by the Macroeconomic Assessment Group established 
+by the Financial Stability Board and the Basel Committee on Banking Supervision. 
+                                                
+17   BCBS (2010) and BIS (2010). These estimates suggest that the median impact of increasing capital ratios by 
+1pp is a 1–2% reduction in lending. 
+18   BCBS (2010). 
+BIS central bankers’ speeches 
+ 7 
+Blinder, Alan S. and Reis 2005: Understanding the Greenspan Standard. Prepared for the 
+Federal  Reserve  Bank  of  Kansas  City  symposium,  The  Greenspan  Era:  Lessons  for  the 
+Future, Jackson Hole, 25–27 August 2005. 
+CGFS  2010:  Macroprudential  Instruments  and  Frameworks:  A  Stocktaking  of  Issues  and 
+Experiences. 
+Crowe, Christopher et al 2011: Policies for Macrofinancial Stability. Options to Deal with Real 
+Estate Booms. IMF Staff Discussion Note, SDN/11/02. 
+Danthine, Jean-Pierre 2012: Reconciling Price stability and Financial Stability. Speech held 
+at the Alumni Conference, University of Zurich, 24 January 2012. 
+Danthine,  Jean-Pierre  2011:  After  the  crisis:  improving  incentives  in  the  financial  sector. 
+Speech  held  at  the  Founding  event  of  the  School  of  Finance,  University  of  St.  Gallen, 
+20 May 2011. 
+De Nicolò, Gianni et al 2012: Externalities and Macroprudential Policy. IMF Staff Discussion 
+Note, SDN/12/05. 
+Drehmann,  Mathias  et  al  2011:  Anchoring  countercyclical  capital  buffers:  the  role  of  credit 
+aggregates. BIS Working Papers No 355. 
+Haldane,  Andrew  G.  2010:  The  $100  billion  question.  Comments  at  the  Institute  of 
+Regulation & Risk, Hong Kong, 30 March 2010. 
+IMF 2011: Global Financial Stability Report 2011. Grappling with Crisis Legacies. 
+Swiss  National  Bank  2012:  Implementing  the  countercyclical  capital  buffer  in  Switzerland. 
+Concretising the Swiss National Bank’s role. Fact sheet, June 2012. 
+White,  William  2009:  Should  Monetary  Policy  “Lean  or  Clean?”  Federal  Reserve  Bank  of 
+Dallas Working Paper No. 34. 
+8 
+ BIS central bankers’ speeches 
+ BIS central bankers’ speeches 
+  9 
+  10 
+ BIS central bankers’ speeches 
+  BIS central bankers’ speeches 
+ 11 
+  12 
+ BIS central bankers’ speeches 
+ BIS central bankers’ speeches 
+ 13 
+ 14 
+ BIS central bankers’ speeches 
+ BIS central bankers’ speeches 
+ 15 

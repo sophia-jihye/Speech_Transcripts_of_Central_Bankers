@@ -72,7 +72,6 @@ git clone https://github.com/sophia-jihye/bis_speeches_text_dataset.git
 
 ##### 0-2. You can download necessary packages by running `setup.py`
 ```sh
-cd src
 python setup.py install
 ```
 

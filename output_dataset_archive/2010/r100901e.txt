@@ -1,0 +1,312 @@
+Guy Debelle: On risk and uncertainty 
+Address by Mr Guy Debelle, Assistant Governor of the Reserve Bank of Australia, at the Risk 
+Australia Conference, Sydney, 31 August 2010. 
+ “The future’s uncertain and the end is always near” – Jim Morrison  
+Today I want to talk about the role of risk and uncertainty in the financial crisis. The primary 
+reason  why  I  want  to  do  that  is  that  I  believe  risk  assessment,  or  more  precisely,  mis-
+assessment has been one of the key elements of the crisis. While that is undoubtedly true in 
+any crisis, I think it has played a more central role in the current episode than in the past.  
+Risk  was  mis-assessed  by  financial  institutions,  risk  managers,  investors  and  regulators. 
+There was a false comfort taken from a misplaced belief that risk was being accurately and 
+appropriately measured. To some extent, the technology provided risk managers with a false 
+sense of security. Risk may well have been accurately measured for the particular regime 
+that the economy and financial markets were operating in. But the risk assessment was not 
+robust  to  a  regime  change  that  took  the  models  out  of  their  historical  comfort  zone.  Not 
+enough account was taken of uncertainty.  
+One of the messages I want to leave you with is that risk measurement based on historical 
+models  can  only  take  you  so  far.  Judgement  must  play  an  important  role.  Ultimately,  the 
+future is uncertain, in the sense that it cannot be quantified. The goal should be to design 
+systems that are as robust as possible to this uncertainty. A system with less leverage is one 
+obvious means of enhancing robustness.  
+Risk versus uncertainty  
+In discussing risk, I would like to highlight the key distinction between risk and uncertainty: 
+risk is quantifiable, uncertainty is not.  
+This is a distinction with a long tradition. Keynes made much of it,1 as did Frank Knight who 
+lends his name to “Knightian” uncertainty, on which he elaborated in Risk, Uncertainty and 
+Profit in 1921.2 Knightian uncertainty arises when you don’t know the underlying probability 
+distribution, which makes quantifying the risks impossible.  
+More  recently,  this  distinction  has  been  given  prominence  by  Donald  Rumsfeld  with  his 
+knowns and unknowns, as well as by Satyajit Das in Traders, Guns and Money and Nassim 
+Taleb in The Black Swan.  
+In addition to the distinction between risk and uncertainty in terms of measurability, Keynes 
+made the similar distinction between cardinal and ordinal probability. Indeed his Treatise on 
+Probability  has  this  as  one  of  its  central  concepts.  Cardinal  probability  is  quantifiable:  the 
+probability of heads in a coin flip is 50 per cent. Ordinal probability is qualitative: for example, 
+(as much as it pains me to say it), Collingwood are more likely to win the premiership this 
+year than Carlton. How much more likely they are to win, I couldn’t tell you exactly. Model-
+based risk management handles cardinal probability a lot better than ordinal probability.  
+In the period prior to the onset of the crisis, hubris developed in parts of the financial sector, 
+and in the investor community more generally, that everything could be precisely measured 
+and  priced.  In  particular,  that  risk  was  always  quantifiable.  To  some  extent,  in  the  narrow 
+                                                 
+1   See Skidelsky’s discussion in Keynes, The Return of the Master. 
+2   See Cagliarini and Heath (2000) on the effect of Knightian uncertainty on monetary policy. 
+BIS Review 111/2010 
+ 1
+sense, that is correct because, as just described, I see measurability as the key distinction 
+between risk and uncertainty. But risk assessment needs to take account of both risk and 
+uncertainty.  
+I am not saying that the quest for improved measurability was misplaced. There was a lot of 
+progress made in better understanding the way financial markets operate and enhancing the 
+technology of risk assessment. The problem was that the management of risk proved to be 
+too narrow. The focus tended to be on things that were quantifiable (cardinal probabilities) to 
+the exclusion of those which were not. Some risks were treated as cardinal even though they 
+were actually ordinal. Some risks, such as liquidity risk and roll-over risk were neglected.  
+Moreover, the risk assessment was often based on too short a history that did not include a 
+set  of  observations  relevant  to  the  events  that  were  unfolding.  Comfort  was  taken  in  the 
+precision of the measurement without thinking enough beyond the measurement. That is, not 
+enough judgement was exercised. Indeed, it seems to have often been turned off.  
+A key question to ask is: could it have included a relevant set of observations, or were the 
+events of the past three years unpredictable, too uncertain? That is a question I will come 
+back to shortly.  
+I don’t want to get too Rumsfeldian here, but an important element of risk management is to 
+know what you don’t know.3 (Although Mark Twain might beg to differ: “It ain’t what you don’t 
+know  that  gets  you  into  trouble.  It’s  what  you  know  for  sure  that  just  ain’t  so.”)  But 
+unfortunately even that is not good enough. From a risk point of view, ultimately you need to 
+be able to measure what you don’t know. That, I believe, is inherently impossible.  
+Because it is impossible, we should make society as robust as possible to uncertainty, while 
+realising that it is not possible to insulate it completely from uncertainty. I do not believe that 
+“the Truth is out there” waiting to be discovered. The Quant faction in financial markets, to 
+some extent, is on a quest to find “the Truth”, the data-generating process that is at the root 
+of financial markets.4 While a valiant quest, with much knowledge to be gained in its pursuit, 
+like Lancelot’s quest for the Holy Grail, it is likely to be in vain. (This is of course, itself, a 
+qualitatively probabilistic statement about an uncertain event!)  
+A  critical  issue  is:  how  important  is  all  of  this?  The  answer  is  that  it  depends  on  the 
+circumstances.  In  the  good  times,  not  being  able  to  quantify  the  risk  of  the  unknowable 
+downside, or take into account the uncertainties, is not that important while ever the good 
+times last. Indeed, there is little to be gained from doing so. Every once in a while, however, 
+it becomes the main game.  
+The  “Great  Moderation”  of  the  1990s  and  2000s  lulled  investors  and  risk  managers  into  a 
+false sense of security. The decline in volatility led many to conclude that a new, more stable, 
+regime  had  been  established.  Let  me  make  it  clear  that  I  am  not  saying  that  the  stable 
+macroeconomic environment of this period was a bad thing. Far from it. The improvement in 
+welfare generated by the low unemployment rates, stable growth and low inflation was large 
+and welcome. I do not subscribe to the somewhat Austrian view that the stability and decline 
+in volatility sowed the seeds of its own destruction.  
+Models  could  do  a  good  job  of  measuring  what  was  taking  place  during  the  Great 
+Moderation. The models were also doing a good job of out-of-sample prediction because the 
+future  was  unfolding  broadly  in  line  with  the  samples  used  to  estimate  the  models.  When 
+shocks  occurred,  they  were  still  consistent  with  the  error  distribution  that  underpinned  the 
+models and hence provided further validation to the models. Models were continually refined, 
+                                                 
+3   Actually, to give credit where credit is due, this should be attributable to Confucius, and then Thoreau, before 
+we get to Rumsfeld. 
+4   See Scott Patterson’s The Quants. 
+2 
+ BIS Review 111/2010
+but this was not too difficult. They may have become more complex, taking advantage of the 
+improvement in computing power to analyse price movements and discrepancies at a higher 
+and  higher  frequency.  But  the  underlying  data  were  still  assumed  to  come  from  the  one 
+stable Data Generating Process.  
+The problem came when the future unfolded in a way that was no longer consistent with the 
+history used to develop these models. This raises the question of whether things would have 
+been different if a more appropriate history had been used in the estimation, or is that simply 
+a pipedream?  
+What is the right history? Is it different this time? 
+This time is different. As Reinhart and Rogoff point out, this is the excuse which is always 
+used when there is a major shock to the status quo. However, a careful reading of Reinhart 
+and  Rogoff  shows  that  while  the  general  themes  often  repeat  themselves,  unfortunately 
+history doesn’t repeat exactly.5 Things are different enough to matter. History can inform, but 
+ultimately it is only a guide. History is not a forecast.  
+History plays a prominent role in risk assessment. History shapes the models used as well as 
+the  data  underpinning  them.  But  what  is  the  relevant  history  that  should  be  taken  into 
+account in the risk assessment?  
+I will answer this question using value-at-risk (VaR) models as an example. I am not meaning 
+to  single  these  out  (although  I  do  have  some  particular  misgivings  about  VaR  and  its 
+application), as the same issues arise with all models.  
+VaR models draw observations from a defined period of time which is generally not all that 
+long.  As  observations  are  realised,  the  model  is  further  refined.  If  observations  start  to  be 
+realised which lie outside the distribution of the VaR, it is updated to take account of that, 
+imparting a procyclicality to the process. If the short time period used to estimate the model 
+is an unrepresentative guide to what is about to unfold, then VaR has a serious problem.  
+But in an era of reduced volatility like the Great Moderation, the shortness of the time period 
+was not so much the issue. Indeed a longer data sample would still have generated similar 
+outcomes, as long as it lay within the period of the Great Moderation. Rather the problem 
+was  the  misplaced  expectation  that  volatility  was  permanently  reduced.  This  was  then 
+combined  with  the  belief  that  the  distinction  between  uncertainty  and  risk  was  no  longer 
+particularly relevant. That is, the belief was that while the future was still unknowable, it was 
+still likely to lie within the distribution of the recent past. This was believed to be so because 
+there  supposedly  had  been  a  regime  change  which  meant  that  the  earlier,  more  volatile, 
+period of history was no longer relevant.  
+But how much history should be relevant? That is a difficult question to answer, although it a 
+question which should always be asked.  
+When  one  is  looking  at  financial  market  pricing,  should  one  include  observations  from  the 
+1920s, when the structure of financial markets were markedly different? Or when the policy 
+reaction  function  today  is  completely  different  to  that  in  the  1920s?  In  that  regard,  it  is 
+interesting to read Lords of Finance and gain an insight into the mindset of the policy makers 
+at  the  time.  We  would  like  to  think  we  have  learned  from  that  history  and  hence  that  the 
+policy responses today have been conditioned by those lessons.6 Given that, the 1920s may 
+                                                 
+5  
+6   One  could  argue  that  given  the  Germans  experienced  hyperinflation  and  the  Americans,  the  Great 
+I recall this point often being made by the late Rudi Dornbusch, of whom Rogoff was a student. 
+Depression, the lessons policy makers in those two countries have drawn may be somewhat different. 
+BIS Review 111/2010 
+ 3
+not be relevant to model estimation today because there has been a major structural change. 
+So perhaps history can be too long, as well as too short.  
+To  use  another  example,  if  one  is  assessing  the  distribution  of  possible  outcomes  for 
+Brazilian interest rates, should one include observations from the periods of hyperinflation? It 
+would seem a more reasonable assumption that there has been a regime shift and hence 
+that earlier period is no longer relevant.  
+Similar arguments can be brought to bear on stress tests, which can be used to assess the 
+robustness of a model, or a risk management regime, to a set of outcomes that lie outside 
+the data history of the model. Stress testing can go beyond out-of-sample forecasting in that 
+one can conceive of a scenario which is not  completely model-consistent. Nevertheless, a 
+similar question can be asked: what is the universe of events that should be considered? To 
+take an extreme, should I stress test my model against the prospect of nuclear Armageddon. 
+It  would  seem  extreme  to  do  so  now,  but  maybe  in  the  1950s  it  wouldn’t  have  been 
+perceived as such a tail event.  
+To  take  perhaps  a  more  relevant  recent  example:  in  the  US,  financial  institutions,  credit 
+rating agencies and investors stress tested their mortgage portfolios and mortgage-backed 
+securities. However, the stress test was derived from the history of house prices in the US. 
+That  history  suggested  that  cities  in  the  US  had  their  own  price  cycles  and  that  the 
+correlations across markets were not particularly strong. Periods of large house price decline 
+were  confined  to  a  few  idiosyncratic  events  in  a  few  cities.  One  could  obviously  have 
+stressed  the  mortgages  assuming  some  moderate  nationwide  house  price  decline.7  And 
+indeed a number of the AAA-rated securities would not have maintained their rating under 
+that scenario. But given the history prior to 2007, would a stress test of a nationwide 20 per 
+cent decline in house prices have been considered plausible?  
+To illustrate this point one last time, consider Bear Stearns. With the benefit of hindsight, it 
+would  seem  sensible  that  Bear  should  have  stress  tested  their  funding  resilience  to  a 
+significant reduction in funding from the repo market. But how significant a reduction should 
+have been stressed? A 10 per cent reduction, a 50 per cent reduction or a complete closure 
+of the repo market?8 
+In the event, the latter was obviously what occurred. But there had not been such an event in 
+that market before, so it may well have been difficult to have even conceived of it or believed 
+it  to  be  a  plausible  stress.  In  terms  of  risk  assessment,  one  could  only  have  expressed  it 
+qualitatively not quantitatively. I could have told you that a closure of the repo market was an 
+extremely unlikely event, but I could not have assigned a probability to it. For a stress test, 
+the  ability  to  only  assign  an  ordinal  rather  than  a  cardinal  probability  is  not  necessarily  a 
+problem,  but  it  is  a  problem  in  then  assessing  the  market  value  of  financial  instruments 
+issued by Bear, or determining the appropriate risk mitigation strategy that Bear should have 
+adopted.  
+However, post-Bear, a complete closure of the repo market to a particular institution is now a 
+conceivable event, and maybe I could even begin to assign a cardinal probability to it. And to 
+some extent the market did in its re-pricing of CDS premia of various financial institutions. 
+But from a stress test point of view, it would appear that Lehman Brothers did not adequately 
+factor this event into its set of scenarios.  
+                                                 
+7   There is the possibly apocryphal story recounted in Michael Lewis’ “The Big Short” that a house price model 
+used by a rating agency could not accept a negative number. 
+8   See  William  Cohan  (2009)  for  a  detailed  account  of  the  effect  of  the  closure  of  the  repo  market  on  Bear 
+Stearns. 
+4 
+ BIS Review 111/2010
+Now,  having  seen  that  history,  banks  stress  test  their  resilience  to  a  closure  of  short-term 
+funding markets, because it is an event that is in the recent experience. But what heretofore 
+unconceived event will they be vulnerable to in the future?  
+The answer, of course, is that is impossible to tell. So an important part of the solution from a 
+regulatory  point  of  view  is  to  make  the  system  as  robust  as  possible  to  such  events. 
+Obviously one cannot make the system impregnable, nor would it be optimal to do so. So let 
+me now turn to some issues surrounding the design of a system that can be more robust to 
+uncertainty.  
+Towards a robust system  
+A primary step in making the system more robust is to be using the right models. Using a 
+number of models at the same time is probably going to be helpful too. But the point I have 
+been trying to make is that while that is a commendable objective, what is right in one set of 
+circumstances may not be right in another. A healthy dose of judgement needs to be added 
+to the model-based analysis. We might be comfortable in having an overall framework that is 
+robust  to  these  changes  in  circumstance,  but  it  may  well  not  be  possible  to  distil  that 
+framework down to a set of quantifiable models that can be useful in practice.  
+Hence the aim is to make the system robust, whatever the right model. As my colleague at 
+the Bank of England, Andy Haldane, has highlighted, leverage is a critical factor in making 
+the financial system less robust to uncertainty.9 Andy shows that leverage played the major 
+role in translating events which would have been somewhat damaging, but survivable, into 
+events  which  were  fatal.  Leverage  increases  the  returns  to  bets  which  pay  off,  but 
+simultaneously increases the losses from bets that do not.  
+Financial  institutions  had  (by  and  large)  made  the  assessment  that  the  leverage  that  they 
+were carrying was not fatal. Their models told them that it was not, unless there were draws 
+from  the  extreme  tails  of  the  model’s  distribution.  Unfortunately,  as  David  Viniar,  CFO  of 
+Goldman  Sachs,  put  it,  we  were  “seeing  things  that  were  25  standard  deviation  moves, 
+several  days  in  a  row”.  He  said  this  in  August 2007.  The  tails  continued  to  get  fatter  and 
+fatter for at least the next year.  
+The light-touch regulatory approach applied in some jurisdictions (although not in Australia) 
+also unfortunately assumed that the models were doing an adequate job. At this point, the 
+Efficient Markets Hypothesis (EMH) is generally dragged out and beaten. But I think that is 
+somewhat of a straw man. The main message I take from the EMH is that there are no gains 
+left  on  the  table,  not  that  (financial)  economics  had  reached  a  bliss  point  where  the  world 
+could be fully encapsulated by a utility-maximising representative-agent model.  
+The  goal  of  making  the  financial  system  more  robust  to  uncertainty  is  one  of  the  key 
+motivations  behind  the  reforms  being  finalised  in  Basel  at  the  moment.  It  is  worthwhile  to 
+note that the Basel reforms are primarily focussed at the institutional level. That is, the idea is 
+to  help  make  the  system  robust  to  an  idiosyncratic  institutional  shock  (although  measures 
+addressing  the  system  as  a  whole  are  also  being  considered).  This  includes  measures 
+designed to limit the leverage of financial institutions, deliver a more robust funding structure 
+and enhance their capital buffers.  
+While these measures work to increase the robustness at an institutional level, in the event 
+of a system-wide event, such as took place in 2008, a different set of considerations come 
+into  play.  Once  a  systemic  shock  of  that  nature  occurs,  it  requires  a  systemic  response, 
+which ultimately must come from the public sector, including the central bank, which has the 
+capacity  to  respond.  The  institutional  framework  determines  the  point  at  which  the  public 
+                                                 
+9   See Haldane (2009a,b). 
+BIS Review 111/2010 
+ 5
+sector needs to be called on. But in terms of insurance of the system as a whole, at some 
+point, it has to be provided by the public sector.  
+I do not believe it is socially optimal for the individual entity to fully insure itself. It would be 
+excessively costly for the financial sector to hold enough capital and liquidity to enable it to 
+survive a freezing of capital markets of the type that occurred in 2008. At some point, it is not 
+even affordable. As Ricardo Caballero puts it, the presence of “Knightian uncertainty [means] 
+that scarce capital is wasted insuring against impossible events”.10 
+Financial  services  are  a  key  intermediary  input  into  the  production  process.  A  severe 
+curtailment  of  those  services  has  a  material  impact  on  the  capital  accumulation  process, 
+unemployment  and  the  long-run  growth  prospects  of  the  economy.  It  is  in  the  interests  of 
+society  to  ensure  that  the  public  sector  provides  a  backstop  in  such  circumstances  to 
+mitigate  the  externality  caused  by  the  individually  rational  risk-aversion  of  financial  sector 
+participants.  
+Finally, the financial innovation of the decade or so prior to 2007 saw the development of a 
+large  number  of  derivative  products  whose  goal  was  to  disperse  risk  around  the  financial 
+system. This was done, in part, to enhance the robustness of the system to any idiosyncratic 
+shock  and  to  ensure  that  the  core  process  of  financial  intermediation  was  not  significantly 
+compromised when the shock hit. This worked up to a point, in that the situation, as bad as it 
+was,  may  have  been  even  worse  if  all  the  losses  resided  on  the  books  of  financial 
+intermediaries  rather  than  also  on  the  books  of  pension  funds  etc,  where  the  immediate 
+effect of the losses was diffused somewhat (although less of it turned out to be diffused than 
+originally thought). Whether this is true or not will be an interesting research question in the 
+years ahead.  
+Conclusion 
+The  argument  I  have  been  seeking  to  make  today  is  that  the  mis-assessment  of  risk  has 
+been  a  key  element  of  the  financial  crisis.  One  of  the  contributing  factors  to  this  mis-
+assessment  was  an  over-reliance on  a  model-based  approach  to  risk  management,  which 
+focussed too much on measurable risk without taking full enough account of unmeasurable 
+uncertainty.  
+Taking  account  of  uncertainty  is  not  easy,  after  all,  it  is  uncertain!  But  at  least  a  focus  on 
+ordinal  as  well  as  cardinal  probabilities,  in  part  by  stress  testing  with  scenarios  that  fall 
+outside  the  model’s  history,  would  surely  be  beneficial.  But  stress  testing  and  the 
+assessment  of  uncertainty  is  still  constrained  by  the  difficult  decision  as  to  what  is  the 
+relevant  set  of  stresses  that  the  framework  should  be  subjected  and  what  is  the  relevant 
+history. A healthy dose of judgement needs to be brought to bear on these decisions.  
+Given these difficulties, it is important to try to make the system as robust as possible to the 
+inherent irreducible uncertainty. One key element of this is restraining leverage, which can 
+limit the number of illnesses that turn into fatalities.  
+Bibliography 
+Ahamed L (2009), Lords of Finance: The Bankers who Broke the World, Penguin, New York.  
+Caballero  RJ  (2010),  “Crisis  and  Reform:  Managing  Systemic  Risk”,  XI  Angelo  Costa 
+Lecture, Rome, 23 March.  
+                                                 
+10   See Caballero (2010). 
+6 
+ BIS Review 111/2010
+Cagliarini A and A Heath (2000), Monetary Policy in the Presence of Knightian Uncertainty, 
+RBA Research Discussion Paper 2000-10.  
+Cohan  WD  (2009),  House  of  Cards:  How  Wall  Street’s  Gamblers  Broke  Capitalism,  Allen 
+Lane, Great Britain.  
+Das  S  (2006),  Traders  Guns  &  Money:  Knowns  and  Unknowns  in  the  Dazzling  World  of 
+Derivatives, Prentice Hall, Great Britain.  
+Haldane AG (2009a), “Small Lessons from a Big Crisis”, Remarks at the Federal Reserve 
+Bank of Chicago 45th Annual Conference “Reforming Financial Regulation”, 8 May.  
+Haldane  AG  (2009b),  “Why  Banks  Failed  the  Stress  Test”,  speech  given  at  the  Marcus-
+Evans Conference on Stress-Testing, 13 February.  
+Lewis M (2010), The Big Short: Inside the Doomsday Machine, W.W. Norton & Company, 
+Inc, New York.  
+Patterson  S  (2010),  The  Quants:  How  a  New  Breed  of  Maths  Whizzes  Conquered  Wall 
+Street and Nearly Destroyed It, Crown Business, New York.  
+Reinhart CM and K Rogoff (2009), This Time Is Different: Eight Centuries of Financial Folly, 
+Princeton University Press, Princeton.  
+Skidelsky RJA (2009), Keynes: The Return of the Master, Allen Lane, United Kingdom.  
+Taleb NN (2007), The Black Swan: The Impact of the Highly Improbable, Random House, 
+New York. 
+BIS Review 111/2010 
+ 7

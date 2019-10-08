@@ -1,0 +1,2105 @@
+Prompt Corrective Action: An Essential Element of Financial Stability Framework 
+- Viral V Acharya, Deputy Governor, Reserve Bank of India1 
+Remarks delivered at the Indian Institute of Technology, Bombay – 12th October 2018 
+ 
+Abstract 
+ This  talk  explains  why  the  Prompt  Corrective  Action  (PCA)  framework  of  the 
+Reserve  Bank  of  India  (RBI)  is  an  essential  element  of  its  financial  stability 
+framework. It lays out the case for structured early intervention and resolution by 
+regulators  for  banks  that  become  under-capitalised  due  to  poor  asset  quality  or 
+vulnerable  due  to  loss  of  profitability.  Detailing  the  mandatory  and  discretionary 
+actions  under  the  RBI's  Revised  PCA  framework,  it  compares  and  contrasts  these 
+with  the  PCA  framework  operating  in  the  United  States.  Finally,  it  documents 
+empirically how Indian banks under the PCA framework are being restored back to 
+health  through  better  capitalisation,  preservation  of  capital,  and  provisioning  for 
+losses. 
+ I  would  like  to  thank  the  Indian  Institute  of  Technology  (IIT),  Bombay,  and  in  particular, 
+Professor Pushpa Trivedi, who inspired me to pursue Economics and Finance, for inviting me 
+back to IIT, my undergraduate alma mater. It is always an occasion of great pride and immense 
+satisfaction for me to return to the Powai campus and be reminded of what I learnt here – the 
+importance of identifying big problems to solve, approaching them with an analytical mindset, 
+scything  through  seemingly  attractive  but  incomplete  fixes,  and  in  the  process,  discovering 
+durable solutions that address the root causes underlying the problems.   
+About  thirteen  months  back  on  the  7th  of  September,  2017,  I  spoke  at  the  8th  R  K  Talwar 
+Memorial  Lecture  about  “The  Unfinished  Agenda:  Restoring  Public  Sector  Bank  Health  in 
+India,” wherein, I touched upon three themes:  
+(i) 
+How  under-capitalised  banking  systems  engage  in  ever-greening  of  the  distressed 
+borrowers (“zombie lending”), as witnessed in the United States during the Savings 
+                                                            
+1  I  am  grateful  to  Governor  Dr.  Urjit  R.  Patel  and  Deputy  Governor  N.  S.  Vishwanathan  for  their  constant 
+encouragement, feedback and guidance. I also thank Vaibhav Chaturvedi for his excellent support throughout the 
+preparation of this speech; R Gurumurthy, Jagan Mohan, B Nethaji, Sooraj Menon and Vineet Srivastava of the 
+Reserve Bank of India; and, my co-authors, Sascha Steffen of Frankfurt School of Management and Finance and Lea 
+Steinruecke of University of Mannheim.   
+ 
+ 1 
+and Loan (S&L) crisis of 1980’s, Japan in the 1990’s, and the Eurozone following the 
+global financial crisis; 
+ 
+(ii)  What steps the Reserve Bank of India had undertaken to address the stressed assets 
+problem of Indian banks, viz., the creation of Central Repository of Information on 
+Large  Credits  (CRILC)  in  early  2014;  the  Asset  Quality  Review  in  2015;  and 
+reference  of  the  largest,  aged  non-performing  assets  (NPAs)  to  the  Insolvency  and 
+Bankruptcy Code (IBC) under the powers bestowed upon the Bank by promulgation 
+of the Banking Regulation (Amendment) Ordinance 2017 (since notified as an Act); 
+and, finally,  
+ 
+The  need  for  the  Government  of  India  (GoI)  to  meet  the  recapitalisation  needs  of 
+public sector banks (PSBs), in their current ownership structure or otherwise.  
+(iii) 
+Since then, the GoI has announced a recapitalisation package for PSBs in October 2017 of INR 
+2.11  trillion,  comprising  INR  1.53  trillion  of  government  capital  infusion  and  balance  to  be 
+raised  from  market  funding,  by  March  2019.  Equally  importantly,  the  Reserve  Bank  of  India 
+issued  a  circular  on  the  12th  of  February,  2018  for  the  resolution  of  stressed  assets,  which 
+employs the IBC reference as its lynchpin for resolution and is aimed at improving the credit 
+culture in both borrowers and lenders. 
+Another significant step has been taken by the Reserve Bank of India in parallel which has been 
+somewhat  under-appreciated,  viz.,  the  imposition  of  Prompt  Corrective  Action  (PCA)  on  a 
+number  of  banks  whose  capital,  asset  quality  and/or  profitability  do  not  meet  pre-specified 
+thresholds. Today, I wish to explain why PCA is an essential element of the Reserve Bank’s (and 
+more generally, of a banking supervisor’s) financial stability framework. 
+ Loss-absorption Role of Bank Capital  
+Before I discuss the Prompt Corrective Action approach, it would be useful to briefly talk about 
+the critical role of bank capital in relation to the process of resolution of stressed banks.  
+In its simplest form, a bank balance-sheet has assets on the left hand side of the balance-sheet, 
+and liabilities on the right hand side in the form of equity capital and deposits (and other forms of 
+debt liabilities such as unsecured bonds, and wholesale finance such as inter-bank liabilities or 
+short-term commercial paper).   
+Equity  capital  is  the  primary  loss-absorption  buffer  –  means  of  protection  –  against  the  asset 
+losses  of  a  bank.  It  is  meant  to  be  at  levels  high  enough  to  absorb  unanticipated  losses  with 
+enough margin so as to inspire confidence and enable the bank to continue as a going concern, in 
+particular, without passing on losses to bank creditors. Once the capital level is fully consumed 
+by the deteriorating financials, it exposes the unsecured creditors, including depositors, to bear 
+ 2 
+the losses. While the deposits typically are insured up to a certain level, economic history shows 
+that  more  often  than  not  the  ultimate  costs  of  paying  off  all  deposits  fall  on  the  sovereign, 
+especially in the case of large, complex and inter-connected banks.  
+Capital  constraints  at  a  wider,  systemic  level  also  impact  the  resolution  of  weak  banks.  The 
+United States experience, empirically documented by Granja, Matvos and Seru (2017), shows 
+that an optimal bidding strategy of a healthier bank – a potential acquirer, which may value the 
+weaker bank for its franchise value from deposits, gets adversely impacted if it is itself poorly 
+capitalized. In such a scenario, the overall value realization for the weak bank goes down.  The 
+poor capitalization of potential acquirers can also drive a wedge between their willingness and 
+ability to pay for a failed bank. In this manner, bank capital being at healthy levels also has a 
+system-wide  loss-absorption  role  by  helping  sell  weak  banks  to  healthy  ones  in  an  efficient 
+manner. 
+ 
+Given this criticality of bank capital in absorbing losses, it is natural why minimum bank capital 
+requirements are in place globally and why capital becomes one of the most important factors for 
+supervisors to monitor. In the aftermath of the global financial crisis, there has been a complete 
+overhaul of the international regime for minimum regulatory capital requirements of banks, as 
+enshrined in the revised Basel norms, viz., Basel-III.  
+The goal of Basel III is to raise the quality, consistency and transparency of the capital base of 
+banks to withstand unanticipated losses and to strengthen the overall risk coverage of the capital 
+framework. In addition to revising the minimum capital ratio requirements for credit risk, Basel 
+III  also  introduced  a  capital  conservation  buffer  (CCB)  and  a  countercyclical  capital  buffer.  
+CCB is designed to ensure that banks build up a capital buffer outside periods of financial stress 
+that  can  be  drawn  down  when  banks  face  financial  (systemic  or  idiosyncratic)  stress.  Banks 
+which draw down their capital conservation buffer during a stressed period are required to have a 
+definite plan to replenish the buffer and face capital distribution constraints. The objective of the 
+countercyclical  capital  buffer  is  to  use  capital  as  a  macro-prudential  instrument  aimed  at 
+protecting  the  banking  sector  from  periods  of  excess  aggregate  credit  growth,  that  have  often 
+been associated with the build-up of system-wide risk.  
+In  this  regard,  it  is  instructive  to  note  that  the  minimum  bank  capital  ratio  (to  suitably  risk-
+weighted  assets)  required  to  be  held  under  the  Basel  norms  is  only  a  floor.    Since  the  global 
+financial  crisis,  many  countries  require  their  banks  to  hold  capital  at  higher  levels,  as  shown 
+below.  Further,  in  other  major  jurisdictions  like  the  US  and  the  UK,  effective  capital 
+requirements  tend  to  be  even  higher  on  account  of  several  add-ons;  for  instance,  in  the  US, 
+higher leverage ratio (put simply, bank capital to unweighted assets ratio) and the stress tests – 
+annual Comprehensive Capital Analysis & Review (CCAR) – also push up the effective capital 
+requirements beyond Basel requirements for systemically important and/or large banks. 
+ 3 
+While this view of bank capital focuses on its benefits in the form of loss-absorption adequacy at 
+individual bank and systemic level, there is an equally important incentive role played by bank 
+capital that is worthy of discussion. 
+ 
+Jurisdictions 
+Basel III Prescriptions 
+Minimum 
+Common Equity 
+Ratio 
+4.5 
+Brazil 
+ Minimum Tier 1 
+Capital Ratio 
+Minimum Total Capital 
+Ratio 
+6.0 
+ 8.0 
+11 from 2013, gradually 
+aligning to Basel III by 2019 – 
+subsequently as per Basel 
+4.5 to 10.0 
+5.0 
+5.5 
+ 7.0 
+6.5 
+5.0 
+ 6.0 
+7.0 
+8.5 
+8.0 
+6.75 
+8.0  
+9.0 
+10.5 
+10.0 
+9.0 
+China 
+India 
+Mexico (CCB is integrated 
+into minimum requirements) 
+Singapore 
+South Africa 
+Switzerland 
+Turkey 
+Source:  Regulatory  Consistency  Assessment  Programme  (RCAP)  reports  of  the  Bank  for  International 
+Settlements (BIS) 
+ 
+Incentive Role of Bank Capital 
+Let me now explain why it becomes imperative for bank supervisors to intervene in a weak bank 
+much before the capital is completely eroded.  Conceptually, there are at least two reasons why 
+the world over banks that make losses to the point of being under-capitalised do not recapitalise, 
+or are not recapitalised, promptly.   
+6.0 to 13.0 
+8.0 to 19.0 
+12.0 
+4.5 
+6.0 
+First, while private banks typically hold greater capital than required by regulatory requirements, 
+shareholders are reluctant to inject capital once the capital is eroded by losses as it gets primarily 
+deployed  in  stabilising  bank  liabilities.    To  compensate  for  this  wealth  transfer  for  injecting 
+capital, shareholders require a much higher rate of return than when banks are better capitalised, 
+but such high required returns may render banking activity unprofitable to pursue. This is the 
+well-known “debt overhang” problem, studied extensively in financial economics (Myers, 1977).  
+Secondly,  when  banks  become  under-capitalised  en  masse  or  are  government-owned  to  start 
+with, it is often thought that recapitalisation should occur swiftly given the attendant real and 
+systemic risk costs of not recapitalising banks – costs that a government should internalise.  In 
+practice,  however,  banking  sectors  are  sometimes  “too  big  to  save”  relative  to  the  size  of 
+government  balance-sheets.  Even  when  that  is  not  so,  governments  may  themselves  be 
+financially constrained: bank recapitalisations must earn effective returns that exceed the costs of 
+ 4 
+raising additional finance (usually additional borrowings) or from cutting back on other fiscal 
+expenditures. Hence, it is quite common, even for government-owned under-capitalised banks to 
+take a while to get adequately recapitalised, if at all. 
+Regardless of the reason for the under-capitalisation of banks to persist, what is observed is that 
+creditors  of  under-capitalised  banks  are  not  only  offered  off-balance  sheet  government 
+guarantees, notably deposit insurance, but also implicit guarantees to uninsured creditors.  This is 
+done in the interest of financial stability and safeguarding of payment and settlement systems, 
+but carries the downside that under-capitalised banks often continue to access credit markets at 
+artificially low costs of borrowing. Consequently, without appropriate supervisory constraints in 
+place, such banks are in a position to delay the recognition of losses and engage in ever-greening 
+or  zombie  lending,  which  is  essentially  the  rolling  over  of  debts  of  unviable  borrowers  that 
+would have otherwise defaulted.  
+In  fact,  this  was  precisely  what  happened  in  Japan  at  the  turn  of  the  last  century  when  the 
+problem of non-performing loans and bank capital shortage persisted for over a decade. Hoshi 
+and Kashyap (2010) attribute this to two factors: first, banks not recognising the true losses on 
+NPAs, thereby overstating the quality of their loans; and, second, prevalence of zombie lending 
+by  under-capitalised  banks.  It  was  only  after  the  implementation  of  the  of  Financial  Revival 
+Program (Takenaka Plan) starting in 2003, involving more rigorous evaluation of bank assets, 
+increasing  of  bank  capital,  and  strengthening  of  governance  for  recapitalised  banks,  that  the 
+Japanese banks finally stopped the process of ever-greening non-performing loans and started to 
+accumulate capital through retained earnings over the next five years. 
+In addition to the above evidence on Japan which I covered in some detail in the 8th R K Talwar 
+Memorial  Lecture,  my  recent  joint  work  with  Sascha  Steffen  and  Lea  Steinruecke,  titled 
+“Kicking the Can Down the Road: Government Interventions in the European Banking Sector,” 
+examined all government interventions in the Eurozone banking sector during the 2007 to 2009 
+financial crisis. In particular, we analysed the implications of these interventions in the European 
+banking sector for the subsequent sovereign debt crisis and found that: 
+(i) 
+(ii) 
+Governments  with  weaker  public  finances  were  more  reluctant  to  recapitalise 
+distressed banks during the financial crisis; and, 
+ 
+The resulting insufficient recapitalisation of distressed banks had significant negative 
+consequences  for  the  efficiency  of  real  sector  lending.  In  particular,  weak  banks 
+remained  vulnerable  to  future  shocks  and  increased  their  risk-taking.  Furthermore, 
+these  banks  did  not  write  down  defaulted  loans  but  instead  ever-greened  loans  to 
+zombie  borrowers,  crowding  out  in  the  process  credit  extension  to  healthier 
+borrowers. 
+  5 
+The Case for Regulatory Prompt Corrective Action 
+How  should  under-capitalised  banks,  and  more  generally,  banks  whose  asset  quality  and 
+profitability  make  them  vulnerable  to  further  stress,  be  dealt  with,  taking  cognizance  of  the 
+reality  that  the  strength  of  market  discipline  by  bank  creditors  is  blunted  by  the  presence  of 
+explicit and implicit government guarantees?   
+This  question  received  significant  academic  and  policy-maker  attention  in  the  United  States 
+following the Savings & Loans (S&L) crisis, in which by mid-1980’s, so many thrifts had to be 
+resolved at such low levels of capitalisation that in the end a significant government bailout in 
+the form of blanket deposit insurance had to be engineered.  Effectively, it had been left until too 
+late to exercise regulatory discipline that could have substituted for the lack of adequate market 
+discipline;  as  a  result,  the  authorities  had  to  engage  in  excessive  forbearance  and  full-scale 
+bailout.  
+Key insight that emerged from the debate around the S&L crisis was that the banking regulator 
+needed  to  adopt  a  “structured  early  intervention  and  resolution”  (SEIR)  approach  (see,  for 
+instance, Benston and Kaufman, 1990, and White, 1991).  This insight, in turn, led to the passage 
+of Federal Deposit Insurance Corporation (FDIC) Improvement Act (FDICIA), 1991, and thus 
+was born the Prompt Corrective Action (PCA) framework of the FDIC as modern banking has 
+witnessed. [Another twin born then was risk-based deposit insurance premium!] 
+Prompt Corrective Action frameworks adopt the core principles of structured early intervention 
+and resolution in the following manner:  
+(i) 
+(ii) 
+Thresholds  of  performance  (in  case  of  FDIC,  bank  capitalisation)  are  identified  to 
+classify banks that breach the thresholds into categories, for instance, in the case of 
+FDIC into “under-capitalised”, “significantly under-capitalised” and “critically under-
+capitalised”.    The  first  thresholds  are  set  at  levels  that  are  well  above  what  would 
+allow for an effective resolution or revival of banks. 
+ 
+Banks  that  do  not  meet  the  thresholds  are  subjected  to  a  layered,  progressively 
+stringent  “program”,  consisting  of  mandatory  and  discretionary  regulatory  actions, 
+which  aim  to  prevent  further  hemorrhaging,  effectively  quarantining  the  banks  in 
+breach  until  they  are  resolved.  Another  important  rationale  is  to  help  supervisors 
+enforce corrective measures in a rule-based manner and this way reduce the risk of 
+forbearance.  
+Put simply, this is what Prompt Corrective Action (or PCA) is intended to achieve – to intervene 
+early and take corrective measures in a timely manner, so as to restore the financial health of 
+banks that are at risk by limiting deterioration in their health and preserving their capital levels.  
+By construction then, PCA involves some restrictions on bank scope and expansion as not doing 
+so would lead to excessive risks on the balance-sheets of these banks. Similarly, putting up PCA 
+ 6 
+banks for sale in the market and / or replacing bank management become potential mechanisms 
+for prompt resolution.  It follows as a corollary that the strength of the PCA framework depends 
+crucially on the extent of regulatory powers that can be exercised by the banking regulator. 
+While the intent of PCA is primarily remedial, it can also act as a deterrence and incentivise bank 
+management and shareholders to contain risks so they do not end up in PCA in the first place.  
+And, by the virtue of being reasonably rule-based, PCA reduces the scope for discretion; like 
+Odysseus,  bank  regulators  tie  themselves  to  the  mast  to  evade  the  voices  of  the  forbearance 
+sirens. 
+Reserve Bank’s Prompt Corrective Action (PCA) Framework 
+The  Reserve  Bank’s  PCA  framework  was  introduced  in  December  2002  as  a  structured  early 
+intervention  mechanism  along  the  lines  of  the  FDIC’s  PCA  framework.  Subsequently,  the 
+framework was reviewed by the Reserve Bank keeping in view the international best practices 
+and recommendations of the Working Group of the Financial Stability and Development Council 
+(FSDC)  on  Resolution  Regimes  for  Financial  Institutions  in  India  (January  2014)  and  the 
+Financial  Sector  Legislative  Reforms  Commission  (FSLRC,  March  2013).  The  Revised  PCA 
+Framework was issued by the Reserve Bank on April 13, 2017 and implemented with respect to 
+the bank financials as on March 31, 2017. 
+Annex Ia provides the thresholds deployed under the revised framework, publicly available at 
+https://www.rbi.org.in, linked to capital (CRAR – regulatory capital to risk-weighted assets ratio 
+– and Leverage ratio), asset quality (NNPA –  net non-performing assets to advances ratio), and 
+profitability (ROA – return on assets).  Under each measure, once the initial threshold is crossed, 
+successive thresholds are employed to categorise banks into those violating Threshold 1 only, 
+Threshold 1 and Threshold 2 only, or even Threshold 3.  
+The revised PCA framework strengthened the earlier one along several dimensions, the salient 
+changes being as follows: 
+(i)  While  capital,  asset  quality  and  profitability  continue  to  be  the  key  areas  for 
+monitoring  under  the  revised  framework,  common  equity  Tier-1  (Common  equity 
+Tier 1 capital to risk-weighted Assets) ratio has also been included to constitute an 
+additional trigger along with monitoring of leverage. This change acknowledges that 
+it is common equity capital of a bank that has the highest loss-absorption capacity and 
+is the least like debt. Overall, risk thresholds under the revised framework have been 
+made more granular.  
+ 
+Some of the corrective actions which were earlier a part of ‘structured (mandatory) 
+actions’  to  be  taken  by  the  supervisor  have  been  moved  to  a  more  comprehensive 
+menu of ‘discretionary actions’ under the revised framework (detailed comparison is 
+(ii) 
+ 7 
+in  Annex  Ib).  Thus,  the  scope  of  mandatory  actions  across  all  risk  thresholds  has 
+been restricted essentially to: 
+a.  Restriction on dividend distribution/remittance of profits; 
+b.  Requirement on promoters/owners/parents to bring in more capital;  
+c.  Restrictions on branch expansion;  
+d.  Higher provisioning requirement; and,  
+e.  Restrictions on management compensation.  
+ 
+(iii)  While  no  restriction  has  been  imposed  on  the  retail  deposit-taking  activity  of  any 
+bank till date, banks can be advised under the revised framework as a cost reduction 
+measure to reduce or avoid altogether the high-cost bulk deposits and instead improve 
+their Current Account and Saving Account (CASA) deposit levels. 
+It  is  useful  to  compare  this  Revised  PCA  Framework  of  the  Reserve  Bank  to  the  PCA 
+Framework of the FDIC as an international benchmark.  
+ 
+Comparison with the FDIC’s PCA Framework  
+Details of various thresholds as well as the mandatory and discretionary actions under the PCA 
+Framework  of  the  FDIC  are  given  in  Annex  II.    In  terms  of  the  conceptual  design,  both 
+frameworks mirror the core principles of structured early intervention and resolution. However, 
+there are at least three significant differences:  
+(i)  While FDIC triggers the PCA based only on bank capital thresholds, the Reserve Bank’s 
+PCA  thresholds  also  include  asset  quality  and  profitability.  The  rationale  for  this 
+difference  is  as  follows.  When  provision  coverage  ratio  (provisions  to  gross  non-
+performing  assets  ratio)  of  banks  is  at  international  standards  as  in  the  US,  most 
+anticipated  losses  are  already  built  into  bank  capital.  In  other  words,  non-performing 
+assets net of provisions (NNPA ratio) is low. However, the provision coverage ratio of 
+Indian banks has historically been much lower as we will see below (Chart 8), in part due 
+to their maintaining only the minimum required provisions. As a result, the present level 
+of bank capital masks the expected capital write-offs that will occur in future; this risk of 
+future  under-capitalisation  is  captured  by  looking  for  below-threshold  asset  quality  (if 
+NNPA ratio is high) and profitability (if return on assets or ROA is low so that capital 
+accretion in future will be weak).  
+ 
+(ii) The mandatory actions are much stricter and triggered earlier in terms of capitalisation 
+levels in case of the FDIC. For instance, restrictions on asset growth and prior approval 
+of  certain  expansion  proposals  kick  in  right  at  the  breach  of  Threshold-1  (“under-
+capitalised” category of FDIC’s PCA bank classification).  
+ 
+ 8 
+(iii) Beyond Threshold 2 (“significantly under-capitalised”), the mandatory actions by FDIC 
+may  include  recapitalisation,  change  in  management  or  even  divestiture.  Indeed,  most 
+banks  under  FDIC’s  PCA  are  resolved  through  auctions  where  typical  outcome  is  a 
+purchase by another bank with an assumption of the PCA bank’s liabilities. Powers to 
+undertake  such  actions  in  case  of  India’s  public  sector  banks  (PSBs)  lie  with  the 
+Government  of  India.    As  enunciated  in  Governor  Patel’s  speech  in  March  2018, 
+“Banking  Regulatory  Powers  Should  Be  Ownership  Neutral,”  the  Reserve  Bank  lacks 
+legislative powers to enforce divestiture or change in management at PSBs. 
+ 
+On  balance,  therefore,  it  can  be  concluded  that  the  RBI’s  PCA  Framework  is  less  onerous  as 
+compared to the FDIC’s PCA Framework.  
+Let  me  elaborate  on  the  point  (iii)  above.  Purchase  and  Assumption  (P&A)  is  the  most 
+commonly used resolution method by the FDIC, as part of which a healthy institution purchases 
+some  or  all  of  the  assets  of  a  failed  bank  and  assumes  some  or  all  of  the  liabilities.  When 
+deciding which of these techniques to employ, the FDIC is guided legislatively by the “least cost 
+to the taxpayers” requirement. The FDIC seeks bids from qualified bidders for the failed bank’s 
+assets  and  the  assumption  of  certain  liabilities,  including  deposits,  and  accepts  the  bid  that  is 
+judged least costly.  
+If  no  viable  P&A  buyer  can  be  found,  then  the  FDIC  typically  deploys  a  deposit  payoff.  A 
+deposit payoff involves repaying insured depositors, liquidating assets of the bank, and, dividing 
+the proceeds from asset liquidation between itself and uninsured bank creditors. The FDIC might 
+also use a Deposit Insurance National Bank (DINB) or bridge banks to resolve a failed bank, 
+which entail establishing a new national bank with a short-period charter from the Office of the 
+Comptroller of the Currency (OCC). The FDIC retains the majority of the assets in its corporate 
+capacity as the receiver and eventually sells them.  
+In India, merger of weak banks with stronger ones has been the primary mode of resolution of 
+weak banks in the past. Section 45 of Banking Regulation Act 1949 empowers the Reserve Bank 
+to make a scheme of amalgamation of a bank with another bank if it is in the depositors’ interest 
+or in the interest of overall banking system. The operation of the weak bank may be kept under 
+moratorium for a certain period of time to ensure smooth implementation of the scheme. Many 
+private sector banks have been merged with other private sector banks or the PSBs under this 
+mechanism. Since the onset of reforms in 1991, there were 22 mergers in the India banking space 
+till 2010, 11 of which were compulsory mergers under Section 45 of the BR Act, 1949 (Bishnoi 
+and Devi, 2015). However, one of the critical preconditions for this approach to succeed is that a 
+substantial  part  of  the  banking  sector  be  well-capitalised.  If  the  potential  acquirers  are  poorly 
+capitalised, it may result in inefficiencies in prices as well as timing in resolution of weak banks, 
+besides increasing the risk of weakening the acquirers themselves through such acquisitions.  
+ 
+ 9 
+Performance of the PCA banks in India 
+Let me now turn to some data.  The goal of the exercise will be to help understand the ten-year 
+performance (wherever data is available) of banks on which the Reserve Bank has imposed the 
+PCA.  The reason for examining the performance of these banks over a long time period is to 
+appreciate the fact that the progress of banks under PCA cannot be judged over a relatively short 
+time  scale.    The  longer  the  under-capitalisation  and  asset  quality  problems  have  festered,  the 
+more patient one has to be during the rehabilitation process.  There is no quick fix or overnight 
+silver bullet here; the reforms have to be implemented and allowed to run their course; they can’t 
+be chopped or diluted mid-stream; the focus has to be on stability that is durable.   
+As I explain below, there are emerging signs that the performance of banks under PCA is slowly 
+but steadily being restored.   
+Presently, there are twelve banks, eleven in the public sector and one in the private sector, under 
+the Reserve Bank’s Revised PCA Framework, with PCA having been imposed on them between 
+February 2014 and January 2018.  I will focus below only on the eleven PSBs under the PCA. 
+The share of these PCA banks in advances and deposits as on March 31, 2018 was 18.5% and 
+20.8%, respectively.  
+The following trends emerge as one tracks the performance of these banks in terms of 
+capitalisation and asset quality:  
+(i) 
+Capitalisation (Chart 1, 2): The declining trend of CRAR and Tier-1 capital ratio for 
+PCA banks that started in 2011 has been arrested and the ratio has been maintained 
+steady since 2014 at or above internationally prescribed levels. It may, however,  be 
+noted that the PCA banks have had lower CRAR and Tier-1 capital ratios compared 
+to non-PCA banks (barring 2011), and especially private banks (right since 2009).  
+ 
+Chart 1:  Capital to Risk-weighted Assets Ratio (CRAR)* 
+PSBs - PCA
+PSBs - Non-PCA
+Pvt Banks
+16.43% 
+12.04% 
+10.58% 
+18%
+17%
+16%
+15%
+14%
+13%
+12%
+11%
+10%
+9%
+8%
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Source: Reserve Bank of India 
+* Total Capital / Risk-weighted Assets  
+ 
+10 
+           (ii) 
+Chart 2: Tier 1 Capital Ratio*  
+PSBs - Non-PCA
+Pvt Banks
+PSBs - PCA
+14.24% 
+9.77% 
+8.05% 
+ 16%
+14%
+12%
+10%
+8%
+6%
+4%
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Source: Reserve Bank of India 
+* Tier 1 Capital /Risk Weighted Assets  
+Asset  quality  (Charts  3,  4,  5):  Both  the  gross  and  net  NPA  ratios  of  PCA  banks 
+mirrored  those  of  non-PCA  banks  up  until  about  2014.    However,  post  the  Asset 
+Quality  Review  (AQR)  exercise,  the  NPA  recognition  at  PCA  banks  has  led  to  a 
+sharper rise in both gross and net NPAs, relative to non-PCA banks, and especially 
+relative to private banks.  This does not mean that AQR caused the NPAs; it simply 
+induced  the  long-overdue  recognition  of  NPAs.    Notably,  the  stressed  assets  ratio, 
+which  besides  NPAs  includes  the  Restructured  Standard  assets  (that  enjoyed  the 
+regulatory forbearance under the earlier guidelines), reveals that the underlying asset 
+quality at PCA banks was deteriorating at a sharper pace compared to non-PCA banks 
+right since 2011, which is now accepted as the time by which the lending boom of 
+2009-10 began to unravel.  
+ 
+ 11 
+Chart 3: Gross Non-performing Assets Ratio (GNPA) (%)* 
+PSBs - PCA
+PSBs - Non-PCA
+Pvt Banks
+20.56 
+12.28 
+4.62 
+25
+20
+15
+10
+5
+0
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Source: Reserve Bank of India 
+* Gross NPAs / Gross 
+Advances  
+ 14%
+12%
+10%
+8%
+6%
+4%
+2%
+0%
+Chart 4: Net Non-performing Assets Ratio (NNPA) (%)* 
+PSBs - PCA
+PSBs - Non-PCA
+Pvt Banks
+11.53% 
+6.66% 
+2.39% 
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+Source: Reserve Bank of India 
+ *(Gross NPAs - NPA Provisions) / 
+(Gross Advances - NPA Provisions) 
+  12 
+ Chart 5: Stressed Assets Ratio*  
+PSBs - PCA
+PSBs - Non-PCA
+Pvt Banks
+21.69% 
+12.92% 
+5.07% 
+25.00%
+20.00%
+15.00%
+10.00%
+5.00%
+0.00%
+March
+2008
+March
+2009
+March
+2010
+March
+2011
+March
+2012
+Source: Reserve Bank of India 
+March
+2013
+March
+2016
+March
+2015
+March
+2014
+March
+2017
+* (Gross NPAs + Restructured 
+Standard Advances) / Gross Advances  
+March
+2018
+  
+The Tide is Turning for the PCA Banks… 
+As I have tried to explain, an important objective of the PCA is to first and foremost limit further 
+losses and prevent erosion of bank capital, creating a platform of stability for the bank, and in 
+turn, setting the stage for structural interventions to be implemented and pushed through.  
+In assessing whether this objective is being attained, three observations are in order: 
+(i) 
+Recapitalisation  (Chart  6):  The  Government  of  India  has  infused  more  than  Rs. 
+2,300 billion in public sector banks since 2005, more than half of which has gone into 
+banks currently under PCA. Within PCA banks, almost half of the total infusion (i.e., 
+Rs.  635  billion)  has  occurred  during  FY2018  and  FY2019,  after  the  banks  were 
+classified  under  PCA.  This  recapitalisation  has  been  an  important  contributor  to 
+financial stability of these banks and of the rest of the banking system they deal with.  
+ 
+ 
+ 13 
+Chart 6: Capital Infusion by Government of India in PSBs  
+ 542  
+ 358  
+ n
+o
+i
+l
+l
+i
+b
+ 
+.
+s
+R
+ 600
+ 500
+ 400
+ 300
+ 200
+ 100
+ (ii) 
+2008-09 2009-10 2010-11 2011-12 2012-13 2013-14 2014-15 2015-16 2016-172017-18
+Source: Reserve Bank of India  
+PSBs - PCA
+PSBs - Non-PCA
+  
+Preventing  further  deterioration  (Chart  7):    In  spite  of  their  worse  capitalisation 
+and stressed assets ratio compared to other banks, PCA banks had credit growth that 
+was as strong as that of other banks up until 2014.  However, since the AQR exercise 
+and the imposition of PCA, the year on year growth in advances for PCA banks has 
+declined from over 10% in 2014 to below zero (contraction) by 2016 and remained in 
+the  contraction  zone  since.    Given  the  evidence  presented  above  on  PCA  bank’s 
+sustained  problem  of  asset  quality  (Charts  3,  4  and  5),  this  is  indeed  the  required 
+medicine to prevent further hemorrhaging of their balance-sheets.  
+ 
+Chart 7: Yearly Growth in Advances (%) 
+PSBs - PCA
+PSBs - Non-PCA
+Pvt Banks
+35
+30
+25
+20
+15
+10
+5
+0
+20.26 
+8.13 
+2012
+2013
+2014
+2015
+2016
+2017
+2018
+-3.29 
+ 14 
+2008
+2009
+2010
+2011
+-5
+Source: Reserve Bank of India 
+  (iii) 
+Improvement in provision coverage ratio (Chart 8): Given the recapitalisation and 
+prevention  of  further  hemorrhaging,  the  provision  coverage  ratio  (PCR)  of  PCA 
+banks which had fallen off relative to that of other banks starting 2011 and reached 
+below  40%  during  2012-2016,  has  now  recovered  to  that  of  non-PCA  PSBs.    The 
+recovered level of PCR remains at present at around 50%, which is more 10% below 
+that of private banks, and away from the desirable 70%. These numbers suggest that 
+the  loss-absorption  capacity  of  PCA  banks  is  on  the  mend,  but  that  there  is  some 
+distance to go in their catch-up to healthy levels. 
+ 
+Chart 8: Provision Coverage Ratio (%)* 
+PSB Banks - PCA
+PSB Banks - Non-PCA
+Pvt Banks
+62.23% 
+49.06% 
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+2008
+2009
+2010
+2011
+2012
+2013
+2014
+Source: Reserve Bank of India 
+2015
+2017
+2016
+2018
+* Total NPA Provisions / 
+Gross NPAs  
+  There  is  an  assertion  being  made  in  some  circles  that  imposition  of  the  PCA  has  starved  the 
+Indian  economy  of  credit.  There  is  little  factual  basis  for  this  assertion,  either  for  the  overall 
+economy or at sectoral level. While it is true as shown above that PCA banks are experiencing 
+lending contraction on average (in terms of their year on year growth in overall advances), the 
+nominal  non-food  credit  growth  of  scheduled  commercial  banks  has  been  close  to  or  above 
+double-digit levels, for past several quarters, and with a robust distribution across the sectors of 
+the real economy (Chart 9).  This is because the reduction in lending at PCA banks is being more 
+than  offset  by  credit  growth  at  healthier  banks.    This  is  indeed  what  one  wants  –  efficient 
+reallocation of credit for the real economy with a financially stable distribution of risks across 
+bank balance-sheets.  Indeed, the funding for the economy as a whole has become diversified 
+over this period, also due to the growth of capital markets. 
+  15 
+Chart 9: Credit Growth in Scheduled Commercial Banks (year on 
+year %) 
+Total Non-food credit
+Services
+Large Industries
+MSME
+26.7 
+12.4 
+12.4 
+30.0
+25.0
+20.0
+15.0
+10.0
+5.0
+0.0
+-5.0
+5
+1
+0
+2
+ 
+r
+a
+M
+5
+1
+0
+2
+y
+a
+M
+ 5
+1
+0
+2
+ 
+l
+u
+J
+5
+1
+0
+2
+p
+e
+S
+ 5
+1
+0
+2
+v
+o
+N
+ 6
+1
+0
+2
+n
+a
+J
+ 6
+1
+0
+2
+ 
+r
+a
+M
+6
+1
+0
+2
+y
+a
+M
+ 6
+1
+0
+2
+ 
+l
+u
+J
+6
+1
+0
+2
+p
+e
+S
+ 6
+1
+0
+2
+v
+o
+N
+ 7
+1
+0
+2
+n
+a
+J
+ 7
+1
+0
+2
+ 
+r
+a
+M
+7
+1
+0
+2
+y
+a
+M
+ 7
+1
+0
+2
+ 
+l
+u
+J
+7
+1
+0
+2
+p
+e
+S
+ 7
+1
+0
+2
+v
+o
+N
+ 8
+1
+0
+2
+n
+a
+J
+ 8
+1
+0
+2
+ 
+r
+a
+M
+8
+1
+0
+2
+y
+a
+M
+ -10.0
+Source: Reserve Bank of India  
+ 1.6 
+8
+1
+0
+2
+ 
+l
+u
+J
+ There is also a call for more lending by PCA banks to large industries where the overall credit 
+growth remains muted.  Note that many of these industries are heavily indebted to start with and 
+are going through a deleveraging process under the IBC (so that at present, their sectoral capacity 
+is still somewhat in excess and credit demand itself weak).  The key point is that PCA banks are 
+de-risking the asset side of their balance sheets by moving away from riskier sector loans to less 
+riskier  ones  and  government  securities;  the  first  and  foremost  priority  is  to  limit  (effectively, 
+taxpayer) losses at PCA banks and prevent further erosion of their capital.  
+ Conclusion 
+Let me conclude. 
+I have tried to explain why adequate bank capital is critical to fortify bank balance-sheets and a 
+key indicator for the bank supervisors to closely monitor; and, how the Prompt Corrective Action 
+(PCA) framework is employed internationally by bank supervisors and regulators as an accepted 
+form  of  structured  early  intervention  and  resolution,  designed  to  help  banks  regain  health  by 
+preserving capital.  
+I then briefly explained the primary features of the Reserve Bank’s PCA framework, which is an 
+essential element of its apparatus for safeguarding overall financial stability.  
+ 16 
+The  evidence  I  presented  suggests  that  without  the  PCA  imposition,  some  banks  would  have 
+incurred  even  higher  losses  and  required  even  more  of  taxpayer  money  for  recapitalisation.  
+Imposition of PCA can thus be seen as first, stabilising the banks at risk, and then, undertaking 
+the deeper bank reforms needed for long-term viability of the business model of these banks.   
+It  is  important,  therefore,  that  the  PCA  framework  to  deal  with  financially  weak  banks  is 
+persisted with.  Any slackening of the approach in the midst of required course action is an all 
+too familiar and ultimately harmful habit that we must eschew.  
+Well begun is only half done, as they say! 
+ References 
+ 
+Acharya,  Viral  V.  (2017)  “The  Unfinished  Agenda:  Restoring  Public  Sector  Bank  Health  in 
+India,” R K Talwar Memorial Lecture, Indian Institute of Banking and Finance. 
+ 
+Acharya, Viral V., Sascha Steffen and Lea Steinruecke (2018) “Kicking the Can Down the Road: 
+Government Interventions in the European Banking Sector,” Working Paper, Frankfurt School of 
+Management and Finance. 
+ 
+Benston, George and George Kaufman (1990) “Understanding the Savings and Loan Debacle,” 
+The Public Interest, Spring, pp. 79-95. 
+ 
+Bishnoi, T.R. and Sofia Devi (2015) “Mergers and Acquisitions of Banks in Post-Reform India,” 
+Economic & Political Weekly, 50(37), pp. 50-58.  
+ 
+Granja, Joao, Gregor Matvos and Amit Seru (2017) “Selling Failed Banks,” Journal of Finance, 
+72(4), pp. 1723-1784. 
+ 
+Hoshi, T. and A.K. Kashyap (2010) ‘Will the U.S. bank recapitalization succeed? Eight lessons 
+from Japan,” Journal of Financial Economics 97, 398–417. 
+ 
+Myers,  Stewart  (1977)  “Determinants  of  Corporate  Borrowing,”  Journal  of  Financial 
+Economics, 5, pp. 147-175. 
+ 
+Patel,  Urjit  R.  (2018)  “Banking  Regulatory  Powers  Should  be  Ownership  Neutral,”  Inaugural 
+Lecture – Center for Law & Economics; Center for Banking & Financial Laws, Gujarat National 
+Law University. 
+ 
+ 17 
+White, Larry (1991) “The S&L Debacle: Public Policy Lessons for Bank and Thrift Regulation,” 
+Oxford University Press. 
+   18 
+Annex Ia: RBI’s Revised PCA Matrix (April 2017) - Indicators and risk thresholds 
+Revised PCA Framework 
+ Indicator 
+Risk  
+Threshold 1 
+Risk  
+Threshold 2 
+Risk  
+Threshold 3 
+Capital 
+ (Breach of 
+either CRAR 
+or 
+CET 1 ratio to 
+trigger PCA) 
+ CRAR - Minimum regulatory 
+prescription for capital to risk 
+assets ratio + applicable capital 
+conservation buffer(CCB)  
+current minimum RBI 
+prescription of 10.875% (9% 
+minimum total capital plus 
+1.875%* of CCB  as on March 
+31, 2018) 
+And/ Or 
+Regulatory pre-specified trigger 
+of Common Equity Tier 1 (CET 
+1min) + applicable capital 
+conservation buffer(CCB)  
+current minimum RBI 
+prescription of 7.375% (5.5% 
+plus 1.875%* of CCB  as on 
+March 31, 2018) 
+Breach of either CRAR or 
+CET 1 ratio to trigger PCA 
+Asset Quality  Net Non-performing advances 
+(NNPA) ratio 
+Profitability 
+Return on assets (ROA) 
+Leverage 
+Tier 1 Leverage ratio 
+  more than 250 bps but 
+not exceeding 400 bps 
+below Indicator 
+ <8.375% but 
+>=6.875% 
+  more than 162.50 bps 
+below  but not 
+exceeding 312.50 bps 
+below Indicator 
+  
+< 5.75% but >=4.25% 
+      
+In excess  of 
+312.50 bps 
+below Indicator 
+  
+< 4.25% 
+>=9.0% but < 12.0% 
+>=12.0% 
+Negative ROA for 
+three consecutive 
+years 
+Negative ROA 
+for four 
+consecutive 
+years 
+< 3.5%  
+ (leverage is over 28.6 
+times the Tier 1 
+capital) 
+upto 250 bps 
+below Indicator 
+  
+<10.875% but 
+>=8.375% 
+   upto 162.50 bps 
+below Indicator 
+   < 7.375% but >= 
+5.75% 
+>=6.0% but 
+<9.0% 
+Negative ROA 
+for two 
+consecutive 
+years 
+<=4.0% but > = 
+3.5% 
+(leverage is over 
+25 times the Tier 
+1 capital) 
+    19 
+Annex Ib: Mandatory and discretionary corrective actions under RBI’s Old (2002) and Revised 
+(2017) PCA Frameworks 
+ Specifications 
+ 
+Capital Risk 
+Threshold 1 
+ 
+ 
+NPA Risk 
+Threshold 1 
+•  Bank will 
+Old PCA 
+Framework 
+(Structured 
+Actions) 
+•  Submission 
+and 
+implementation 
+of capital 
+restoration plan 
+by the bank 
+Mandatory/Structured Actions 
+Revised PCA 
+Framework 
+(Mandatory 
+Actions) 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Restriction on 
+dividend 
+distribution/remitt
+ance of profits to 
+the parent in the 
+case of foreign 
+banks 
+ 
+Promoters/owners
+/parent in the case 
+of foreign banks 
+to bring in capital 
+ 
+restrict 
+expansion of its 
+risk-weighted 
+assets 
+•  Bank will not 
+enter into new 
+lines of 
+business 
+•  Bank will not 
+access / renew 
+costly deposits 
+and CDs 
+•  Bank will 
+reduce / skip 
+dividend 
+payments 
+ •  Bank to 
+undertake 
+special drive to 
+reduce the 
+stock of NPAs 
+and contain 
+generation of 
+fresh NPAs 
+•  Bank will 
+review its loan 
+policy 
+•  Bank will take 
+steps to 
+upgrade credit 
+appraisal skills 
+and systems 
+•  Bank will 
+strengthen 
+Discretionary Actions 
+Old PCA 
+Framework 
+Revised PCA 
+Framework 
+•  RBI will order 
+recapitalisation 
+•  Bank will not 
+increase its stake 
+in subsidiaries 
+•  Bank will reduce 
+its exposure to 
+sensitive sectors 
+like capital 
+market, real 
+estate or 
+investment in 
+non-SLR 
+securities 
+•  RBI will impose 
+restrictions on 
+the bank on 
+borrowings from 
+inter bank 
+market 
+•  Bank will revise 
+its credit / 
+investment 
+strategy and 
+controls 
+•  Bank will not 
+enter into new 
+lines of business 
+•  Bank will reduce 
+/ skip dividend 
+payments 
+•  Bank will not 
+increase its stake 
+in subsidiaries 
+ Common menu 
+  
+Special Supervisory 
+Interactions 
+• Special  Supervisory 
+Monitoring Meetings 
+(SSMMs) 
+at 
+quarterly  or  other 
+identified frequency 
+• Special 
+inspections/targeted 
+scrutiny of the bank 
+• Special  audit  of  the 
+bank 
+ 
+ 
+Strategy related 
+RBI 
+to  advise 
+bank’s Board to:  
+the 
+• Activate 
+the 
+Recovery  Plan  that 
+duly 
+has 
+approved 
+the 
+supervisor 
+been 
+by 
+• Undertake  a  detailed 
+review  of  business 
+model  in  terms  of 
+sustainability  of  the 
+model, 
+business 
+profitability 
+of 
+business 
+lines  and 
+activities,  medium 
+and 
+term 
+balance 
+viability, 
+sheet 
+projections, 
+etc.  
+long 
+• Review  short 
+term 
+strategy  focusing  on 
+addressing 
+immediate concerns  
+medium 
+term  business  plans, 
+• Review 
+ 20 
+follow-up of 
+advances 
+including loan 
+review 
+mechanism for 
+large loans 
+•  Bank will 
+follow-up suit 
+filed / decreed 
+debts 
+effectively 
+•  Bank will put in 
+place proper 
+credit-risk 
+management 
+polices / 
+process / 
+procedures / 
+prudential 
+limits 
+•  Bank will 
+reduce loan 
+concentration - 
+individual, 
+group, sector, 
+industry, etc. 
+ •  Bank will not 
+incur any capital 
+expenditure other 
+than for 
+technological 
+upgradation and 
+for such 
+emergent 
+replacements 
+within Board 
+approved limits 
+•  Bank will not 
+expand its staff / 
+fill up vacancies 
+ ROA Risk 
+Threshold 1 
+  •  Bank will not 
+access / renew 
+costly deposits 
+and CDs 
+•  Bank will take 
+steps to 
+Increase fee-
+based income 
+•  Bank will take 
+steps to contain 
+administrative 
+expenses 
+•  Bank will 
+launch special 
+drive to reduce 
+the stock of 
+NPAs and 
+contain 
+generation of 
+fresh NPAs 
+•  Bank will not 
+enter into new 
+lines of 
+business 
+•  Bank will 
+reduce / skip 
+achievable 
+identify 
+targets 
+set 
+and 
+concrete  milestones 
+for 
+and 
+achievement 
+progress 
+to 
+• Review  all  business 
+identify 
+for 
+lines 
+scope 
+enhancement/ 
+contraction  
+• Undertake  business 
+process 
+reengineering 
+appropriate  
+• Undertake 
+restructuring 
+operations 
+appropriate  
+as 
+of 
+as 
+to 
+Governance related 
+• RBI 
+actively 
+engage  with 
+the 
+bank’s  Board  on 
+various  aspects  as 
+considered 
+appropriate 
+• RBI  to  recommend 
+owners 
+to 
+(Government/ 
+promoters/  parent  of 
+foreign bank branch) 
+to  bring 
+in  new 
+management/ Board 
+remove 
+managerial  persons 
+under  Section  36AA 
+of  the  BR  Act  1949 
+as applicable 
+• RBI 
+to 
+• RBI to supersede the 
+Board  under  Section 
+36ACA  of  the  BR 
+Act 
+1949/ 
+recommend 
+supersession  of  the 
+Board as applicable  
+• RBI  to  require  bank 
+to  invoke  claw  back 
+and  malus  clauses 
+and  other  actions  as 
+available 
+in 
+regulatory 
+guidelines, 
+impose 
+restrictions 
+conditions 
+and 
+other 
+or 
+ 21 
+dividend 
+payments 
+•  RBI will 
+impose 
+restrictions on 
+the bank on 
+borrowings 
+from inter bank 
+market 
+•  All Structured 
+actions as in 
+earlier zone 
+•  Discussion by 
+RBI with the 
+bank’s Board 
+on corrective 
+plan of action 
+•  RBI will order 
+recapitalisation 
+•  Bank will not 
+increase its 
+stake in 
+subsidiaries 
+•  Bank will 
+revise its credit 
+/ investment 
+strategy and 
+controls 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+In addition to 
+mandatory actions 
+of Threshold 1, 
+ 
+Restriction on 
+branch expansion; 
+domestic and/or 
+overseas 
+ 
+Higher provisions 
+as part of the 
+coverage regime  
+ 
+•  Bank / Govt. to 
+•  Bank will 
+take steps to 
+bring in new 
+Management / 
+Board 
+appoint 
+consultants for 
+business / 
+organisational 
+restructuring 
+take steps to 
+change 
+promoters / to 
+change 
+ownership 
+•  Bank / Govt. to 
+•  RBI / Govt. will 
+take steps to 
+merge the bank if 
+it fails to submit / 
+implement 
+recapitalisation 
+plan or fails to 
+recapitalise 
+pursuant to an 
+order, within 
+such period as 
+RBI may 
+stipulate 
+  •  All Structured 
+actions as in 
+earlier zone 
+•  Discussion by 
+RBI with the 
+bank’s Board 
+on corrective 
+plan of action 
+•  Bank will not 
+enter into new 
+lines of 
+business 
+•  Bank will 
+permissible 
+the BR Act, 1949 
+under 
+• Impose 
+restrictions 
+or 
+directors’ 
+on 
+management 
+compensation, 
+applicable. 
+as 
+ 
+Capital related 
+• Detailed  Board  level 
+capital 
+of 
+review 
+planning 
+• Submission  of  plans 
+for 
+additional 
+and  proposals 
+raising 
+capital  
+• Requiring the bank to 
+reserves 
+retained 
+bolster 
+through 
+profits 
+• Restriction 
+on 
+investment 
+in 
+subsidiaries/associate
+s 
+• Restriction 
+in 
+expansion  of  high 
+risk-weighted  assets 
+to conserve capital 
+• Reduction 
+in 
+exposure  to high  risk 
+sectors 
+to  conserve 
+capital 
+• Restrictions 
+on 
+increasing  stake 
+in 
+subsidiaries and other 
+group companies 
+Credit risk related 
+•  Preparation  of  time 
+and 
+bound 
+plan 
+commitment 
+for 
+reduction of stock of 
+NPAs 
+•  Preparation  of  and 
+commitment  to  plan 
+for 
+containing 
+generation  of  fresh 
+NPAs 
+of 
+review 
+•  Strengthening 
+loan 
+mechanism 
+•  Restrictions 
+reduction 
+expansion 
+on/ 
+in  credit 
+for 
+22 
+Capital Risk 
+Threshold 2 
+ 
+NPA Risk 
+Threshold 2 
+ Capital Risk 
+Threshold 3 
+ 
+reduce / skip 
+dividend 
+payments 
+•  Bank will not 
+increase its 
+stake in 
+subsidiaries 
+•  All Structured 
+actions as in 
+earlier zone 
+•  RBI will 
+observe the 
+functioning of 
+the bank more 
+closely 
+•  RBI / Govt. 
+will take steps 
+to merge / 
+amalgamate / 
+liquidate the 
+bank or impose 
+moratorium on 
+the bank if its 
+CRAR does not 
+improve 
+beyond 3% 
+within one year 
+or within such 
+extended period 
+as agreed to. 
+   In addition to 
+mandatory actions 
+of Threshold 1, 
+ 
+Restriction on 
+branch expansion; 
+domestic and/or 
+overseas 
+ 
+Restriction on 
+management 
+compensation and 
+directors’ fees, as 
+applicable 
+ 
+ 
+below 
+borrowers 
+certain rating grades 
+risk 
+•  Reduction 
+in 
+assets 
+•  Restrictions 
+on/ 
+reduction 
+in  credit 
+expansion to unrated 
+borrowers 
+•  Reduction 
+in 
+unsecured exposures 
+loan 
+in 
+sectors, 
+or 
+in 
+concentrations; 
+identified 
+industries 
+borrowers  
+•  Reduction 
+•  Sale of assets  
+•  Action 
+plan 
+for 
+recovery  of  assets 
+through 
+of 
+identification 
+(geography 
+areas 
+industry 
+wise, 
+segment 
+wise, 
+borrower  wise,  etc.) 
+and  setting  up  of 
+dedicated  Recovery 
+Task 
+Forces, 
+Adalats, etc. 
+Market risk related  
+• Restrictions 
+on/reduction 
+in 
+borrowings  from  the 
+inter-bank market 
+• Restrictions 
+on 
+• Restrictions 
+renewing 
+accessing/ 
+deposits/ 
+wholesale 
+costly 
+deposits/ 
+certificates of deposits 
+on 
+derivative 
+activities, 
+derivatives that permit 
+collateral substitution 
+• Restriction  on  excess 
+of 
+maintenance 
+collateral  held 
+that 
+could contractually be 
+called any time by the 
+counterparty 
+HR related 
+• Restriction  on  staff 
+expansion  
+• Review of specialized 
+of 
+training 
+needs 
+ 23 
+existing staff 
+Profitability related 
+• Restrictions on capital 
+expenditure, 
+other 
+than for technological 
+upgradation  within 
+Board approved limits  
+on 
+• Restrictions 
+dividend payments 
+• Restriction  on  staff 
+expansion 
+Operations related 
+• Restrictions on branch 
+expansion 
+plans; 
+domestic or overseas 
+• Reduction in business 
+at  overseas  branches/ 
+subsidiaries/  in  other 
+entities 
+• Restrictions 
+entering 
+into 
+lines of business 
+on 
+new 
+• Reduction in leverage 
+through  reduction  in 
+non-fund 
+based 
+business 
+• Reduction 
+in 
+risky 
+assets 
+• Restrictions  on  non-
+credit asset creation 
+• Restrictions 
+undertaking 
+businesses 
+specified.  
+in 
+as 
+24 
+  Any other 
+ Annex II: FDIC PCA Matrix  
+ Well 
+capitalised 
+ 
+ (All 
+thresholds 
+to be met) 
+Adequately 
+capitalised  
+(All 
+thresholds to 
+be met) 
+Under-capitalised 
+(Any one or more 
+thresholds in breach) 
+Significantly Under-
+capitalised 
+(Any one or more 
+thresholds in breach) 
+Critically Under-
+capitalised 
+< 6% 
+< 4% 
+< 3% 
+< 3% 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Tangible Equity/Total 
+Assets ≤ 2% 
+> 10% 
+> 8% 
+<  8% 
+> 8% 
+> 6% 
+< 6% 
+> 6.5% 
+> 4.5% 
+< 4.5% 
+>5% 
+>  4% 
+< 4% 
+ Does not 
+meet the 
+definition 
+of well 
+capitalized 
+Not 
+subject 
+to a 
+capital 
+directive 
+to meet 
+a 
+specific 
+level for 
+any 
+capital 
+measure 
+ No 
+brokered 
+deposits 
+except with 
+FDIC 
+approval 
+(i)  Restricting 
+payment of capital 
+distributions and 
+management fees  
+(ii)  Requiring that the 
+FDIC monitor the 
+condition of the 
+FDIC-supervised 
+institution  
+(iii)  Requiring 
+submission of a 
+capital restoration 
+plan within the 
+established schedule  
+(iv)  Restricting the 
+growth of the assets  
+(v)  Requiring prior 
+approval of certain 
+expansion proposals 
+In addition to 
+Threshold 1 
+Restrict compensation 
+paid to senior 
+executive officers of 
+the institution 
+ 
+Any 1 or more of the 
+following: 
+ 
+(i) Requiring 
+recapitalization 
+(ii) Restricting 
+transactions with 
+affiliates  
+(iii) Restricting 
+interest rates paid. 
+(iv) Restricting asset 
+growth. 
+(v) Restricting 
+In addition to 
+Threshold 1 
+Restrict compensation 
+paid to senior 
+executive officers of 
+the institution. 
+ 
+Prohibited on making 
+any principal or 
+interest payment on 
+subordinated debt 
+beginning 60 days 
+after becoming 
+critically 
+undercapitalized. 
+ 
+Prohibited from doing 
+any of the following 
+without the FDIC's 
+prior written approval: 
+25 
+  Thresholds 
+Total risk-
+based capital 
+ratio 
+Tier 1 risk-
+based capital 
+ratio 
+Common 
+equity tier 1 
+ratio 
+Leverage 
+ratio 
+Capital 
+Directive/ 
+Other 
+Provisions 
+Mandatory 
+Actions 
+ activities 
+(vi) Improving 
+management 
+of 
+(a)  new 
+election 
+directors. 
+(b)  dismissing 
+directors 
+or 
+senior 
+executive 
+officers 
+(c)employing 
+qualified  senior 
+executive 
+officers 
+(vii) 
+deposits 
+correspondent banks 
+Prohibiting 
+from 
+(viii)  Requiring  prior 
+approval  for  capital 
+distributions  by  bank 
+holding company. 
+  (ix)Requiring 
+divestiture 
+ 
+(x) Any other action  
+ 
+the 
+banking 
+for 
+any 
+leveraged 
+into 
+(A)  Entering 
+material 
+any 
+transaction 
+other 
+than  in  the  usual 
+course of business, 
+including 
+any 
+investment, 
+expansion, 
+acquisition, sale of 
+assets,  or  other 
+similar  action  with 
+to  which 
+respect 
+depository 
+the 
+institution 
+is 
+required to provide 
+notice 
+to 
+the 
+appropriate 
+Federal 
+agency. 
+ (B)  Extending 
+credit 
+highly 
+transaction. 
+ (C)  Amending the 
+institution's charter 
+or  bylaws,  except 
+to 
+extent 
+necessary  to  carry 
+out 
+other 
+requirement of any 
+law,  regulation,  or 
+order. 
+ (D)  Making  any 
+material  change  in 
+accounting 
+methods. 
+ (E)  Engaging 
+any 
+transaction  
+ (F)  Paying 
+excessive 
+compensation 
+bonuses. 
+ (G)  Paying 
+interest  on  new  or 
+renewed  liabilities 
+at a rate that would 
+increase 
+the 
+institution's 
+weighted  average 
+cost  of  funds  to  a 
+level  significantly 
+exceeding 
+the 
+prevailing  rates  of 
+interest  on  insured 
+deposits 
+the 
+in 
+covered 
+any 
+or 
+in 
+ 26 
+Discretionary 
+Actions  
+  institution's normal 
+market areas. 
+with 
+ 
+appropriate 
+The 
+banking 
+Federal 
+agency shall, not later 
+than  90  days  after  an 
+depository 
+insured 
+institution 
+becomes 
+critically 
+undercapitalized: 
+(i)  appoint  a  receiver 
+the 
+(or, 
+concurrence  of 
+the 
+a 
+Corporation, 
+conservator)  for 
+the 
+institution; or 
+(ii)  take such other 
+action as the agency 
+determines, with the 
+concurrence of the 
+Corporation, would 
+better achieve the 
+purpose of this 
+section, after 
+documenting why the 
+action would better 
+achieve that purpose. 
+ 
+(i)  Restrict the 
+activities, and 
+ 
+(ii)  at a minimum, 
+prohibit any such 
+institution from doing 
+any of the following 
+without the 
+Corporation's prior 
+written approval: 
+ 
+(a)  Entering into any 
+material transaction 
+other than in the usual 
+course of business, 
+including any 
+investment, 
+expansion, 
+acquisition, sale of 
+assets, or other similar 
+action with respect to 
+which the depository 
+institution is required 
+to provide notice to 
+the appropriate 
+Federal banking 
+agency. 
+ (b)  Extending credit 
+(i) Requiring 
+recapitalization 
+(ii) Restricting 
+transactions with 
+affiliates  
+(iii) Restricting interest 
+rates paid. 
+(iv)Restricting asset 
+growth. 
+(v)Restricting 
+activities 
+(vi)Improving 
+management 
+(a)  new  election 
+of 
+directors. 
+(b)  dismissing 
+directors or senior 
+executive officers 
+(c)employing 
+qualified 
+senior 
+executive officers 
+from 
+(vii)Prohibiting 
+deposits 
+correspondent banks 
+(viii)Requiring  prior 
+approval  for  capital 
+distributions  by  bank 
+holding company. 
+ 27 
+(ix)Requiring 
+divestiture 
+Any other action 
+ for any highly 
+leveraged transaction. 
+ (c)  Amending the 
+institution's charter or 
+bylaws, except to the 
+extent necessary to 
+carry out any other 
+requirement of any 
+law, regulation, or 
+order. 
+ (d)  Making any 
+material change in 
+accounting methods. 
+ (e)  Engaging in any 
+covered transaction  
+ (f)  Paying excessive 
+compensation or 
+bonuses. 
+ (g)  Paying interest 
+on new or renewed 
+liabilities at a rate that 
+would increase the 
+institution's weighted 
+average cost of funds 
+to a level significantly 
+exceeding the 
+prevailing rates of 
+interest on insured 
+deposits in the 
+institution's normal 
+market areas. 
+ 
+ 28 

@@ -1,0 +1,635 @@
+Svante Öberg: Monetary policy and the elusive resource utilisation 
+Speech  by  Mr  Svante  Öberg,  First  Deputy  Governor  of  the  Sveriges  Riksbank,  at 
+Handelsbanken, Stockholm, 25 May 2009. 
+The  original  speech,  which  contains  various  links  to  the  documents  mentioned,  can  be  found  on  the  Sveriges 
+Riksbank’s website.  
+ Resource  utilisation  is  falling  rapidly  and  is  unusually  low.  But  it  is  difficult  to  determine 
+exactly  how  low  it  is.  And  it  is  difficult  to  ascertain  what  consequences  the  low  resource 
+utilisation  will  have  for  inflation  and  monetary  policy.  These  are  the  questions  I  intend  to 
+discuss in my speech today. 
+I  have  divided  my  speech  into  four  parts.  I  shall  begin  by  discussing  the  importance  of 
+resource utilisation for monetary policy and pointing out the differences as to how the targets 
+for  inflation  and  resource  utilisation  can  be  expressed.  After  that  I  shall  discuss  different 
+measures  of  resource  utilisation.  I  shall  go  on  to  describe  monetary  policy  and  resource 
+utilisation at present and I shall conclude with a few summarising comments. 
+I  wish  to  make  clear  from  the  start  that  I  will  not  make  any  new  assessment  today  of  the 
+appropriate direction for monetary policy in relation to the Monetary Policy Update that was 
+published  at  the  end  of  April.  I  also  want  to  point  out  that  the  picture  I  paint  of  resource 
+utilisation and monetary policy here is not necessarily shared completely by my colleagues 
+on the Executive Board of the Riksbank. 
+Resource utilisation is important for monetary policy 
+When we members of the Executive Board make decisions on monetary policy we take into 
+account  both  inflation  and  resource  utilisation.  Our  monetary  policy  is  normally  aimed  at 
+attaining the inflation target of two per cent a couple of years ahead. If we are also able to 
+support economic policy in general without neglecting the inflation target, then we do so. At 
+present  this  means  that  we  can  also  use  monetary  policy  to  try  to  mitigate  the  current 
+economic recession. 
+It is fairly easy to follow inflation. Inflation is measured by means of a well-established and 
+relatively uncontroversial instrument, the annual change in the consumer price index – the 
+CPI. Of course, there are other measures of inflation that we regularly follow, such as the 
+CPI with a fixed interest rate – the CPIF, the CPI with a fixed interest rate excluding energy, 
+the  EU-harmonised  measure  HICP,  and  a  number  of  measures  of  what  is  known  as 
+underlying inflation. But we always clearly state that it is the CPI that is our target variable. 
+We only use the other inflation measures to analyse and better understand developments in 
+inflation. 
+However,  it  is  much  more  difficult  to  determine  the  degree  of  resource  utilisation.  On  a 
+general  level,  resource  utilisation  refers  to  how  much  of  the  available  labour  and  capital 
+assets are used. In practice, one tries to measure it in several different ways. For example, 
+GDP in relation to trend GDP, employment ratio, unemployment and capacity utilisation. I will 
+take up a number of these measures a little later on. 
+It is also fairly simple to see how inflation relates to the set target, but it is much more difficult 
+to gain an impression of what the target for resource utilisation should be. We express the 
+inflation target as being that the annual change in the CPI should be two per cent, but we do 
+not have an equally well-defined target for resource utilisation. Instead, we usually say that 
+we endeavour to reduce the fluctuations in the real economy.  
+BIS Review 66/2009 
+ 1
+Resource  utilisation  is  important  in  a  monetary  policy  context  for  two  reasons.  Firstly,  it  is 
+related  to  important  targets  in  economic  policy,  such  as  a  high  GDP,  a  high  level  of 
+employment  and  low  unemployment.  The  economic  recession  we  are  now  experiencing 
+means that GDP will fall by around 4.5 per cent this year, that employment will fall by almost 
+300,000 persons in three years, and that unemployment will reach approximately 11 per cent 
+in  two  years’  time,  all  according  to  our  most  recent  forecasts  in  April.  The  expansionary 
+monetary policy we are now conducting is thus partly motivated by an aim to limit the depth 
+of the recession. 
+Secondly,  resource  utilisation  is  important  because  it  is  an  indicator  of  future  inflationary 
+pressures.  But  a  difficult  question  is  how  resource  utilisation  co-varies  with  inflation.  My 
+impression is that the connection between resource utilisation and inflation has been weaker 
+over  the  past  two  decades  than  it  was  before.  But  the  connection  probably  still  remains, 
+albeit in a weaker form. This means that in our monetary policy we also have to take into 
+account  what  effects  resource  utilisation  has  on  inflation  in  the  slightly  longer  term.  I  will 
+return to this issue later on.  
+Different measures of resource utilisation 
+There is no clear-cut means of defining resource utilisation, nor of measuring it. When one 
+tries to measure resource utilisation one is faced with different alternatives. For example, one 
+can draw conclusions regarding resource utilisation in the economy by comparing output or 
+employment with a trend, normal or ideal level. Examples of this approach include the GDP 
+gap, the employment gap and the flexprice gap. Another alternative with regard to measuring 
+resource  utilisation  is  to  use  as  a  base  responses  to  direct  questions  put  to  companies 
+regarding, for instance, their utilisation of labour and capital. Both of these approaches have 
+inherent difficulties. In the first case, one must relate actual output or employment to a trend, 
+normal or ideal level that is difficult to determine, and in the second case one must rely on 
+the companies’ own assessments of their resource utilisation.  
+GDP gap 
+A common means of measuring resource utilisation is to relate actual GDP to a long-term or 
+trend  level  of  GDP.  This  GDP  level  is  also  often  called  potential  GDP,  despite  the  word 
+potential  implying  that  GDP  cannot  be  greater  than  this  level.  The  measure  obtained  by 
+relating actual GDP to potential GDP – what is known as a GDP gap – has the advantage of 
+being easy to understand. It is also close to a number of concepts that are used in monetary 
+policy  analysis.  The  so-called  Taylor  rule  often  used  to  describe  how  monetary  policy  is 
+conducted contains such a GDP gap. When one talks about the target for monetary policy 
+being to minimise deviations in inflation from the target and fluctuations in the real economy, 
+the latter is often illustrated with a GDP gap.  
+But it is not entirely clear how one should measure the long-term or trend level of GDP. A 
+common method for determining this GDP level is to use some statistical tool to find a trend 
+in the available GDP statistics. The Hodrick-Prescott filter, or HP filter, is one such tool. This 
+filter is used to obtain an HP trend which is a cross between a linear trend and the uneven 
+curve  showing  the  actual  GDP  outcome.  Such  HP  trends  are  regularly  reported  in  the 
+Riksbank's Monetary Policy Reports.  
+Figure  1  shows  actual  GDP,  potential  GDP  measured  as  an  HP  trend  and  the  GDP  gap, 
+which  is  the  difference  between  these.  The  actual  GDP  gap  is  stated  as  a  percentage  of 
+GDP, measured on the right-hand scale, and in the figure this becomes a form of enlarged 
+image of the difference between actual and potential GDP. The dotted parts of the curves 
+represent the Riksbank’s forecasts from the April Monetary Policy Update. One can draw the 
+conclusion  from  this  figure  that  resource  utilisation  in  terms  of  the  GDP  gap  has  recently 
+2 
+ BIS Review 66/2009
+fallen below the normal level and that we are assuming that it will remain negative over the 
+coming years. 
+There are both advantages and disadvantages in measuring resource utilisation with the aid 
+of the GDP gap. One advantage is that this method does not require any other information 
+than historical GDP data. One disadvantage is that when using this method it is difficult to 
+estimate the trend and thereby the GDP gap at the end of the time series and it is precisely 
+the GDP gap at the end of the series that is the most interesting part. This problem becomes 
+particularly troublesome in a recession like the current one. This is because experiences of 
+previous recessions imply that some of the output capacity that is lost after a fall in resource 
+utilisation  never  returns  when  the  upturn  comes.  Quite  simply,  it  is  easier  to  wind  up 
+companies  than  to  build  them  up.  To  some  extent  these  problems  are  dealt  with  in  the 
+Riksbank’s calculations, in that the calculation of the trend level of GDP is affected by the 
+outcomes  for  years  of  weak  GDP  growth  and  by  parts  of  the  fall  in  productivity  being 
+assumed to be permanent. 
+Another consequence of using HP filters to find the trend-based GDP gap is that one risks 
+interpreting  an  increase  in  growth  that  is  due  to  a  temporary  rise  in  productivity  as  an 
+increase in resource utilisation. But in a situation with sticky prices an increase in productivity 
+may actually lead to a decline in resource utilisation as the increase in productivity makes it 
+possible to use fewer resources to produce the same volume as before. If we were in such a 
+case to use a trend-based output gap as a base, there is a risk that monetary policy would 
+become contractionary when it needed to be expansionary. 
+The  difficulty  with  the  trend-adjustment  method  is  thus  to  distinguish  from  current 
+developments what constitutes changes in the trend and what are deviations from the trend, 
+that is, changes in resource utilisation. 
+Flexprice gap 
+A theoretically interesting measure of resource utilisation that has gained increased attention 
+in  the  research  on  monetary  policy  is  the  so-called  flexprice  gap.  This  is  a  measure  that 
+relates  actual  output  to  potential  output  in  an  economy  with  entirely  flexible  prices  and 
+wages.  
+The advantage of this measure is that it has a well-defined theoretical base. To calculate the 
+flexprice gap one tries to determine the level of output that would be attained without some of 
+the imperfections that the real economy suffers from. One can, for instance, use as a base a 
+dynamic stochastic general equilibrium model of the New Keynesian type, where the primary 
+reason for inefficient resource utilisation is that prices and wages are slow to adjust to new 
+circumstances. Such a model makes it possible to obtain a measure of the effective output 
+that would arise if both prices and wages were entirely flexible – the flexprice output. The 
+difference between actual output and the calculated flexprice output is the flexprice gap. If 
+one  has  a  good  model  for  calculating  the  flexprice  gap,  one  avoids  the  problems  with  the 
+trend-based measure of managing disruptions caused by productivity shocks.1  
+However, this measure also has disadvantages. The results of the calculations are sensitive 
+to the exact design of the model. Nor is it as easy to interpret these results, which is partly 
+because the flexprice output varies more over time than the measure of the trend in GDP 
+                                                 
+1   For a more detailed description of the flexprice gap in the context of an in-depth discussion on how potential 
+production can be defined and measured, see Palmqvist, S. (2007), “Flexible inflation targeting – how should 
+central banks take the real economy into consideration?” Economic Review 2, pp. 91-105, Sveriges Riksbank. 
+http://www.riksbank.com/upload/Dokument_riksbank/Kat_publicerat/Artiklar_. 
+  PV/07_2eng_palmqvist2.pdf. 
+BIS Review 66/2009 
+ 3
+usually used. The flexprice gap is therefore not yet used in practice in our monetary policy 
+work.2  
+Nevertheless,  I  can  show  how  it  looks  when  it  is  calculated  using  the  Riksbank’s  macro 
+model RAMSES.3 Figure 2 shows that the flexprice gap occasionally differs somewhat from 
+the GDP gap. The fluctuations in the flexprice gap have in general been slightly less, which is 
+partly because the flexprice gap only captures the fluctuations in GDP that can be explained 
+by  sticky  prices  and  wages.  However,  the  flexprice  gap  and  the  GDP  gap  do  provide  a 
+uniform  picture  of  the  recent  development  towards  an  excessively  low  level  of  resource 
+utilisation  in  the  economy.  The  fact  that  the  flexprice  gap  is  now  negative  is  currently 
+interpreted to mean that output is now lower than it would have been if prices and wages had 
+adjusted to the changes that have recently affected the economy. 
+Labour market gaps 
+Another  type  of  measure  focuses  on  utilisation  of  labour.  These  are  based  on  Statistics 
+Sweden’s  labour  force  surveys  and  on  the  National  Accounts.  Figure  3  shows  two  such 
+measures:  unemployment  and  the  employment  rate,  that  is,  what  percentage  of  the 
+population of working age is employed. The curves provide a consistent picture of changes in 
+resource  utilisation  over  time.  At  the  same  time,  they  show  that  the  crisis  of  the  1990s 
+permanently raised unemployment and reduced the employment rate. This makes it difficult 
+to  determine  what  is  a  long-term  sustainable  level  for  resource  utilisation  in  the  labour 
+market. 
+From  the  perspective  of  general  politics,  it  is  normally  regarded  as  an  advantage  if 
+employment is high and unemployment is low. But in a monetary policy perspective it may be 
+a  problem  if  resource  utilisation  is  so  high  that  inflation  risks  overshooting  the  target.  If 
+resource utilisation is so low that inflation risks undershooting the target, the general political 
+and monetary policy implications coincide. 
+An  estimate  of  what  level  of  employment  can  be  regarded  as  normal  can  be  obtained  by 
+calculating an HP-based trend similar to that used for calculating the GDP gap. This can be 
+considered  to  represent  a  normal  situation  in  the  labour  market,  without  temporary 
+disruptions  that  affect  the  supply  of  or  demand  for  labour.  Gaps  that  measure  the  actual 
+deviation  in  employment  from  the  normal  level,  either  in  the  number  of  persons  or  in  the 
+number  of  hours  worked,  are  called  labour  market  gaps.  Figure  4  shows  two  such  labour 
+market-based gaps. 
+Capacity utilisation 
+But  neither  the  number  of  persons  employed  nor  the  number  of  hours  worked  provides  a 
+really good picture of resource utilisation. During a severe cutback in output such as in the 
+current  economic  situation,  companies  tend  to  a  large  extent  to  retain  their  employees, 
+although they have less work for them to do. To obtain a better picture of resource utilisation 
+the labour market statistics need to be supplemented with data from, for instance, Statistics 
+                                                 
+2   For  a  discussion  of  the  flexprice  gap  and  monetary  policy,  see  Jonsson,  M.,  C.  Nilsson  and  S.  Palmqvist 
+(2008),  “Should  monetary  policy  stabilise  resource  utilisation?"  Economic  Commentaries  1,  Sveriges 
+Riksbank. 
+http://www.riksbank.com/upload/Dokument_riksbank/Kat_publicerat/Ekonomiska%20kommentarer/2008/0803
+06e.pdf. 
+3   For  a  more  detailed  description  of  the  model,  see  Adolfson,  M.,  S.  Laséen,  J.  Lindé  and  M.  Villani  (2007), 
+"RAMSES - a new general equilibrium model for monetary policy analysis", Economic Review 2, pp. 33-68, 
+Sveriges Riksbank. http://www.riksbank.com/upload/Dokument_riksbank/Kat_publicerat/Artiklar_. 
+  PV/07_2eng_ramses.pdf. 
+4 
+ BIS Review 66/2009
+Sweden’s  data  on  capacity  utilisation  in  industry  and  the  National  Institute  of  Economic 
+Research’s Economic Tendency Survey. 
+Figure 5 shows capacity utilisation in industry as reported by the companies. According to 
+figures from Statistics Sweden, capacity utilisation in industry reached a peak of around 91 
+per cent in the first quarter of 2007, and has since fallen to around 78 per cent in the first 
+quarter  of  2009.  According  to  the  National  Institute  of  Economic  Research’s  Economic 
+Tendency  Survey,  capacity  utilisation  in  industry  during  the  same  period  has  fallen  from 
+around 88 per cent to around 72 per cent. In both cases a large fall is reported. But these 
+data  concern  only  a  small  percentage  of  the  economy  and  do  not  in  general  provide  the 
+same picture as, for instance, the GDP gap also shown in the Figure. 
+Aggregate measure of resource utilisation 
+At the Riksbank we have also produced an aggregate measure of resource utilisation. But 
+this is not intended to replace all other measures; it will be used as a generic complement to 
+the other measures. 
+The aggregate measure of resource utilisation has been produced with the aid of a principal 
+component analysis. This is a statistical method that extracts the common component from a 
+large amount of data. Figure 6 shows the results of one such analysis, where around thirty 
+labour  market  and  business  tendency  indicators  have  been  used  to  extract  a  common 
+component  for  resource  utilisation.  To  be  comparable  to  the  traditional,  trend-related 
+measures  of  resource  utilisation  the  indicator  has  been  normalised  so  that  its  standard 
+deviation coincides with that of the GDP gap. 
+The  figure  illustrates  two  important  conditions.  Firstly,  the  aggregate  measure  of  resource 
+utilisation  follows  the  GDP  gap  very  well.  Secondly,  the  labour  market  gap  lags  a  few 
+quarters behind both the resource utilisation indicator and the GDP gaps.  
+One disadvantage of this measure is that it is not suitable for forecasts of resource utilisation 
+short of making forecasts of all of the indicators included. As the measure coincides so well 
+with  the  GDP  gap,  I  believe  that  it  provides  some  support  for  the  argument  that  GDP 
+forecasts are a good indicator of how resource utilisation will develop in the future, however 
+with some reservations, and I will return to these later.  
+Which measure of resource utilisation is best? 
+My conclusions are firstly, that the various measures of resource utilisation provide a similar 
+picture of the economic cycles. However, the more precise picture varies quite substantially 
+between the measures.  Each individual measure offers some extra piece of information in 
+addition to what is contained in the other measures. But this does not prevent it from being 
+very useful to continue developing aggregate measures of resource utilisation. 
+Secondly,  all  of  the  measures  described  show  that  resource  utilisation  has  recently  fallen 
+rapidly.  The  GDP  gap,  the  flexprice  gap  and  the  indicator  that  is  intended  to  provide  an 
+aggregate measure of resource utilisation show that resource utilisation is already below the 
+normal level. The labour market gaps are lagging behind, but will, according to our current 
+forecast, soon point to labour force use of below normal levels. 
+The  GDP  gap  that  is  based  on  an  HP  trend  for  GDP  indicates  that  resource  utilisation  is 
+falling  by  around  10  percentage  points  from  the  peak  level  in  2007  to  a  trough  in  2010. 
+Although we have used a gradually declining output capacity as a basis for the calculation of 
+the HP trend, this fall in the GDP gap probably gives an exaggerated picture of the fall in 
+resource utilisation during the period as the potential output level ought to have fallen more 
+than  is  reflected  in  the  HP  trend.  The  deeper  and  longer  the  economic  recession  is,  the 
+larger  the  output  capacity  that  can  be  expected  to  disappear.  The  resource  utilisation 
+indicator shows the same picture as the GDP gap, but there are no forecasts for this. 
+BIS Review 66/2009 
+ 5
+The employment rate and unemployment will deteriorate by around 5 percentage points from 
+2008 to 2011 according to the forecast we made in April. These measures, which are not 
+related  to  any  normal  level,  show  a  slightly  smaller,  but  similar,  deterioration  in  resource 
+utilisation to that described by the hours gap and the employment gap. But for these two later 
+measures it is also a question of the deeper and more prolonged the recession is, the greater 
+the part of the fall in employment and hours that will be interpreted as a weakening in the 
+labour market trend that will not disappear in the next economic upturn. In this case we will 
+have what is usually termed persistence in unemployment, a phenomenon that has proved 
+common in many countries.  
+To  illustrate  the  significance  of  the  recession  for  the  calculations  of  the  HP  trend  and  the 
+trend  gap,  one  can  compare  the  calculations  of  the  future  trend  levels  of  GDP  and 
+employment  in  the  calculations  made  in  October  2008  and  April  2009.  The  trend  level  for 
+GDP  in  the  fourth  quarter  of  2011  is  approximately  5  per  cent  lower  in  the  more  recent 
+calculations  and  the  trend  level  for  employment  is  approximately  2.5  per  cent  lower.  The 
+recession is thus assumed to have lowered the potential level of GDP and employment and 
+thus also reduced the GDP and employment gaps.  
+Monetary policy and resource utilisation in the current situation 
+At  the  most  recent  monetary  policy  meeting  at  the  end  of  April  we  made  a  substantial 
+downward  revision  to  the  forecast  for  GDP  growth  in  the  world  in  relation  to  the  February 
+forecast. My assessment was then that our main scenario, with a decline in GDP in the world 
+of  around  1  per  cent  this  year  and  an  increase  of  just  over  2  per  cent  next  year  was 
+reasonable. But at the same time I considered that there was a risk that the recession would 
+even be deeper and more protracted than we predicted. My reasoning was based on the fact 
+that  recessions  that  arise  as  a  consequence  of  financial  crises  and  recessions  that  are 
+synchronised between several countries are normally followed by slow recoveries. 
+Sweden was in a severe recession in April and we are still. We were assuming a fall in GDP 
+of  around  4.5  per  cent  this  year  and  a  weak  recovery  next  year.  As  in  the  case  of 
+international developments, my assessment was that on balance the predominant risks were 
+that the recession could be deeper and more prolonged. CPI inflation was expected to be 
+negative  this  year,  but  underlying  CPI  inflation  with  a  fixed  interest  rate,  the  CPIF,  was 
+expected to be close to 2 per cent throughout the entire forecast period. In my opinion, there 
+was  no  reason  to  worry  about  deflation  and  no  reason  to  worry  about  high  inflation.  We 
+decided to cut the policy rate to 0.5 per cent. 
+Today  I  would  like  to  take  up  two  questions  in  the  current  situation  that  are  linked  to 
+monetary policy. These are the link between resource utilisation and inflation, and the limits 
+for stabilisation policy.  
+Monetary  policy  affects  inflation  through  its  impact  on  the  exchange  rate  and  thereby 
+resource utilisation in the economy, but also through its influence on demand and inflation 
+expectations. It may appear strange that inflation is calculated to be close to the target of two 
+per cent, despite the fact that resource utilisation has fallen rapidly and is so low during the 
+forecast period. 
+There are two explanations for this. Firstly, the connection between resource utilisation and 
+inflation is weaker now than before. I mentioned this in my introduction. And this is probably 
+because a changeover to a credible monetary policy that is aimed at stabilising inflation will 
+lead to the connection between resource utilisation and inflation weakening. Stable inflation 
+6 
+ BIS Review 66/2009
+expectations close to the inflation target quite simply provide less scope for other variables to 
+affect inflation.4  
+But  the  connection  is  not  negligible.  The  expansionary  monetary  policy  in  the  world  as  a 
+whole, the large GDP growth in the world during the years 2004-2007 and the increasingly 
+high resource utilisation finally led to substantial rises in energy, food and other commodity 
+prices in the world market, and thereby also to rising consumer prices. The forecasts now 
+being made both by international organisations and by ourselves indicate that inflation in the 
+world over the coming years will be positive, despite the low resource utilisation, but slightly 
+lower than was normal a few years ago.  
+The other explanation as to why inflation in Sweden is remaining close to the target despite 
+the low resource utilisation is that there are other factors than resource utilisation which exert 
+upward pressure on prices. One such factor is that unit labour costs have been increasing by 
+around 5 per cent a year during the period 2007-2009. Slightly higher wage agreements, but 
+above all falling productivity, have contributed to pushing up unit labour costs, something that 
+will  change  in  the  future  as  companies  reduce  their  workforces.  Another  factor  that  is 
+underpinning inflation is the weak krona. 
+Given  this,  the  assessment  I  made  at  the  most  recent  monetary  policy  meeting  was,  as  I 
+recently mentioned, that there was no reason to worry about either deflation or high inflation 
+during the forecast period. Resource utilisation is not so low that it could lead to deflation, but 
+it is sufficiently low to prevent inflation from becoming too high. 
+The  second  question I would  like  to  take  up  is  the  limits  for  stabilisation  policy.  There  are 
+limits as to what stabilisation policy can achieve with regard to alleviating the consequences 
+for the Swedish economy of such a powerful and global economic recession as the one we 
+are undergoing. For fiscal policy the limits are set by what is considered compatible with a 
+long-term  sustainable  development  in  public  sector  finances.  Monetary  policy  is  to  some 
+extent limited by the fact that there is a floor under which the repo rate cannot be cut. It is not 
+possible to avoid an international economic downturn entirely, but it is possible to prevent it 
+from becoming too deep. 
+In monetary policy it is also necessary to take into account what might happen further ahead 
+if one conducts a very expansionary monetary policy over a long period of time. In particular 
+the experiences of the years with low interest rates and rapid international growth prior to the 
+current financial crisis indicate that one may also need to take into account the more long-
+term consequences of monetary policy and at what pace inflation should be brought back on 
+target. 
+There is also reason to take into account not only the total amount of spare resources in the 
+economy,  but  also  the  composition  of  those  resources.  For  an  export-dependent  country 
+such as Sweden it is important, for instance, to take into account to what extent a large fall in 
+exports could be replaced by other parts of demand through expansionary monetary policy 
+and at what rate this could be done without inflation problems arising. Correspondingly, one 
+may need to take into account the extent to which the labour supply will decline as a result of 
+the  depth  and  length  of  the  recession  when  assessing  what  consequences  a  coming 
+recovery may have for wage formation. 
+The  conclusion  I  draw  from  this  is  that  it  is  important  not  to  overestimate  the  available 
+resources  in  the  economy  over  the  coming  years.  We  must  try  to  make  the  best  possible 
+assessments of the amount of resources that will disappear more permanently as a result of 
+                                                 
+4   For  a  more  detailed  analysis  of  this  connection,  see  Adolfson,  M.  and  U.  Söderström  (2003),  “How  is  the 
+target?”  Economic  Review  1,  pp.  49-63,  Sveriges  Riksbank. 
+economy  affected  by 
+http://www.riksbank.com/upload/Dokument_riksbank/Kat_publicerat/Artiklar_. 
+inflation 
+the 
+  PV/er03_1_artikel3.pdf. 
+BIS Review 66/2009 
+ 7
+the  recession  and  of  how  quickly  output  can  increase  without  causing  inflation  problems. 
+Otherwise there is a risk that we will conduct an expansionary monetary policy for too long 
+and thus risk inflation problems later on. 
+One necessary condition for conducting effective monetary policy is that the financial system 
+functions.  Since  last  autumn  the  Riksbank  has  taken  a  number  of  measures  to  safeguard 
+financial stability, in particular the extensive lending to the banks. We have recently decided 
+to extend the eligible counterparties for our monetary policy operations and to offer the banks 
+the opportunity to borrow from the Riksbank not merely at maturities of three months and six 
+months, but also at twelve months.  
+If economic developments should prove to be much worse than we are now predicting, there 
+may be reason to proceed with more unconventional measures to support the economy. One 
+possibility is to do as they have in a number of other countries and purchase government, 
+mortgage  and  corporate  bonds.  We  are  currently  examining  the  experiences  of  other 
+countries  and  analysing  the  advantages  and  disadvantages  of  this  type  of  measure.  For 
+instance, we need to consider to what extent it is the Riksbank that is best suited to carry out 
+this type of measure and whether it might instead be a task for a government agency.  
+Summary 
+I would like to summarise my speech as follows: 
+Resource utilisation is falling rapidly and is at an unusually low level. All of the measures of 
+resource utilisation that we have provide the same general picture. 
+But it is difficult to ascertain how low it is and when it will turn around. Different measures 
+paint different pictures on this issue. The GDP gap implies that resource utilisation will fall to 
+minus 4-5 per cent at the beginning of 2010 before it turns around, and the employment gap 
+points  to  resource  utilisation  falling  to  minus  3  per  cent  in  2011  before  the  labour  market 
+begins  to  improve.  However,  in  both  of  these  cases  the  measures  are  based  on  very 
+uncertain estimates of the available resources in the economy. 
+It  is  also  difficult  to  ascertain  what  consequences  the  low  resource  utilisation  will  have  for 
+inflation and monetary policy. The assessment we made at the most recent monetary policy 
+meeting was that the policy rate ought to be cut to 0.5 per cent. With this cut and the low 
+level  of  the  policy  rate  that  we  envisaged,  resource  utilisation  would  show  an  upturn  and 
+underlying  inflation  would  be  close  to  two  per  cent  during  the  forecast  period.  If 
+developments were to prove much more negative, there is a possibility to proceed with more 
+unconventional measures. 
+8 
+ BIS Review 66/2009
+Figure 1. GDP gap
+SEK million and percentage deviation from HP-trend respectively, 
+seasonally-adjusted data
+1 000 000
+900 000
+800 000
+700 000
+600 000
+500 000
+400 000
+300 000
+200 000
+100 000
+0
+80
+GDP (left scale)
+HP trend (left scale)
+GDP gap (right scale)
+85
+90
+95
+00
+05
+10
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+Note. Trend calculated using the Hodrick-Prescott filter. Broken lines refer to the Riksbank's forecasts. 
+Sources: Statistics Sweden and the Riksbank
+ Figure 2. Flexprice gap
+Percentage deviation from HP trend and flexprice output 
+respectively, seasonally-adjusted data
+GDP gap
+Flexprice gap
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+94
+96
+98
+00
+02
+04
+06
+08
+Note. Trend calculated using the Hodrick-Prescott filter. Flexprice gap calculated using the Riksbank’s
+macro model RAMSES. Broken lines refer to the Riksbank's forecasts. 
+Sources: Statistics Sweden and the Riksbank
+   5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+BIS Review 66/2009 
+ 9
+Figure 3. Employment and unemployment
+Per cent, seasonally-adjusted data
+85
+84
+83
+82
+81
+80
+79
+78
+77
+76
+75
+74
+73
+72
+71
+70
+Employment rate (left scale)
+Unemployment ages 16-64 (right scale)
+Unemployment ages 15-74 (right scale)
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+00
+02
+04
+06
+08
+10
+12
+Note. Broken lines refer to the Riksbank's forecasts. 
+Sources: Statistics Sweden and the Riksbank
+ Figure 4. Labour market gaps
+Percentage deviation from HP trend, seasonally-adjusted data
+Hours worked gap
+Employment gap
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+80
+84
+88
+92
+96
+00
+04
+08
+12
+Note. Trend calculated using the Hodrick-Prescott filter. Broken lines refer to the Riksbank's forecasts. 
+Sources: Statistics Sweden and the Riksbank
+   10 
+ BIS Review 66/2009
+Figure 5. Capacity utilisation in industry
+Index and percentage deviation from HP trend respectively, 
+seasonally-adjusted data
+100
+95
+90
+85
+80
+75
+70
+Statistics Sweden, actual capacity utilisation in industry (left scale)
+NIER, current capacity utilisation in manufacturing industry (left scale)
+GDP gap (right scale)
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+96
+98
+00
+02
+04
+06
+08
+Note. Trend calculated using the Hodrick-Prescott filter. Broken lines refer to the Riksbank's forecasts.
+Sources: National Institute of Economic Research, Statistics Sweden and the Riksbank
+ Figure 6. Resource utilisation indicator
+Index and percentage deviation from HP trend respectively, 
+seasonally-adjusted data
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+Resource utilisation indicator
+Hours worked gap
+Employment gap
+GDP gap
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+-5
+96
+97
+98
+99
+00
+01
+02
+03
+04
+05
+06
+07
+08
+Note. Trend calculated using the Hodrick-Prescott filter. The standard deviation of the resource utilisation
+indicator is normalised to that of the GDP gap. Broken lines refer to the Riksbank's forecasts.
+Sources: Statistics Sweden and the Riksbank
+   BIS Review 66/2009 
+ 11

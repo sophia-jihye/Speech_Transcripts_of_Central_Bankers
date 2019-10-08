@@ -1,0 +1,417 @@
+Jean-Pierre Danthine: After the crisis – improving incentives in the 
+financial sector 
+Speech by Mr Jean-Pierre Danthine, Member of the Governing Board of the Swiss National 
+Bank,  at  the  Founding  event  of  the  School  of  Finance,  University  of  St  Gallen,  St  Gallen, 
+20 May 2011. 
+ I would like to thank Gero Jung, Peter Kuster, Pierre Monnin, Angelo Ranaldo and Marlene Amstad for their help 
+and comments. 
+Introduction 
+It  is  a  great  pleasure  for  me  to  be  here  for  the  inaugural  ceremony  of  the  new  School  of 
+Finance  at  the  University  of  St.  Gallen.  Naturally,  finance  has  been  an  integral  part  of  the 
+University for a long time, but I am sure that today’s ceremony represents both a new step 
+forward and the realisation of a new objective. These are certainly warranted if we consider 
+the need for improving financial decision-making made clear by the recent financial crisis. I 
+will  take  this  opportunity  to  reflect  on  three  fundamental  questions  that  have  come  to  the 
+forefront during this episode.  
+The first issue I would like to address is the question of risk and risk-taking in banking. While 
+there is evidence that the excessive risk-taking that led to the last financial crisis was at least 
+partly attributable to knowledge or competence problems, another important element was the 
+misalignment  of  the  incentives  of  the  various  stakeholders  of  financial  institutions.  This  is 
+particularly apparent in the case of institutions that were deemed too big to fail. In order to 
+illustrate  this  point,  I  will  look  at  the  incentives  with  regard  to  risk-taking  by  the  various 
+stakeholders of a bank and try to gauge the likelihood that these incentives lead to decisions 
+that would be optimal from society’s viewpoint.  
+In my second section I will focus on the “too big to fail” (TBTF) problem. My goal here will be 
+to discuss the variety of solutions that can be envisaged in order to restore proper incentives 
+and  in  particular  assure  that  the  capital  necessary  for  maintaining  the  vital  functions  of 
+financial institutions will in the future come from sources other than taxpayers. I  will argue 
+that higher capital requirements, in part in the form of contingent convertible bonds (Cocos), 
+together  with  appropriate  organisational  measures,  can  fulfil  the  objective  of  a  “partial” 
+bankruptcy and lead to improved incentives for key bank stakeholders. In this speech I will 
+adopt a relatively academic point of view, appropriate for today’s circumstances, which will 
+lead  me  to  the  conclusion  that  sound  theoretical  principles  underlie  the  TBTF  package 
+currently submitted to the Swiss Parliament.1  
+Finally, I would like to address the question of the likely impact of current regulatory efforts 
+on the cost of capital for banks and their expected return on equity. 
+                                                 
+1  The importance of this issue for the Swiss National Bank (SNB) is reflected in the number of times it has been 
+addressed  by  members  of  the  SNB  Governing  Board.  For  a  more  detailed  and  focused  analysis  of  the 
+proposed Swiss law, see the speech given by my colleague Thomas Jordan earlier this week. 
+BIS central bankers’ speeches 
+ 1
+Part I: Risk and risk-taking 
+Progress in risk measurement: role in the crisis 
+There is no doubt that significant progress in both the definition and measurement of risk has 
+been made in the recent past. As an example,  the function of a risk manager was almost 
+non-existent  some  20  years  ago.  However,  it  is  equally  hard  to  dispute  the  fact  that  this 
+progress has been over-estimated. For instance it was regularly claimed in the early 2000s 
+that the financial system had never been as resilient and robust as it was at the time. Clearly, 
+developments  since  the  beginning  of  the  financial  crisis  in  mid-2007  have  proved  the 
+contrary, and we need to draw suitable lessons from that experience.  
+Progress in the definition and measurement of risk may well have played a role in the recent 
+financial  crisis.  A  reason  for  this  is  that  –  as  so  often  in  modern  finance  –  conceptual 
+progress,  in  tandem  with  progress  in  the  methodology  of  risk  management,  has  led  to  a 
+rather  blind  trust  in  models.  In  general,  a  trained  economist  learns  to  interpret  models  as 
+abstract  approaches  to  reality,  with  these  models  serving  as  a  support  for  economic  and 
+business reasoning. Models are not meant to be substitutes for complete, partially qualitative 
+reasoning including, in particular, a discussion of the model’s assumptions and their degree 
+of robustness. In some areas of finance, however, it appears that quantitative models have 
+increasingly been viewed as the alpha and omega of business reasoning. They have often 
+served as a substitute for an independent evaluation by business managers and decision-
+makers  alike.  We  should  therefore  welcome  some  of  the  ideas  put  forward  in  the  new 
+“Financial Modelers’ Hippocratic Oath”, such as “I will remember that I didn’t make the world, 
+and it doesn’t satisfy my equations” (Wilmott, 2009).2  
+Risk and luck 
+Finance  and  banking  are  intimately  linked  with  the  notion  of  risk.  Risk  is  a  fascinating  but 
+difficult  concept,  if  only  because  it  is  intimately  linked  with  the  concept  of  luck.  In  a  risky 
+world,  heroes  are  more  likely  to  be  lucky  than  smart.  In  asset  management,  for  instance, 
+Barras, Scaillet and Wermers (2010) find that around 8% of mutual funds display a significant 
+positive alpha, but of them only about 0.5% deliver a positive alpha that is not driven by luck. 
+One question that arises from this finding is whether the associated statistics would be very 
+different  for  the  group  of  successful  bank  managers  or  successful  traders  in  financial 
+markets.  Yet  remuneration  schemes  do  not  appear  to  take  this  identification  problem  into 
+account. It can be hypothesised that bonus payments are often a reward for luck rather than 
+compensation for actual skill or effort. This hypothesis represents a very significant challenge 
+for an efficient financial system. It is a challenge for a new school of finance. We need to 
+improve our ability to distinguish between skill and luck. Simultaneously we need to draw the 
+adequate  conclusions  from  the  difficulties  that  will  always  exist  in  signal  extraction  on  this 
+issue. 
+Excessive risk-taking: lack of knowledge... 
+Let me now turn to the question of financial risk-taking. Overall, there is no (expected) return 
+and no growth without risk so we have to be careful to foster a sufficiently pro-risk society. 
+But  risk  calculus  –  weighing  the  marginal  advantages  and  disadvantages  of  taking  more 
+risk –  is  a  difficult  exercise.  It  is  difficult  because  it  entails  probabilities,  that  are  hard  to 
+assess,  over  future  scenarios  which  are  themselves  often  hard  to  describe  fully  and 
+accurately. And the difficulty increases by an additional step if there is an externality, that is, 
+if  the  private  and  social  cost  and  benefit  of  additional  risk-taking  differ.  One  can  plausibly 
+                                                 
+2  Wilmott, P. (2009) “Financial Modelers’ Manifesto”, available at www.willmott.com, January 2009. 
+2 
+ BIS central bankers’ speeches
+argue that the recent financial crisis was, to some extent, the result of excessive risk-taking. 
+For  the  proponents  of  this  hypothesis,  the  ultimate  cause  is  in  question.  One  possibility  is 
+that  this  excessive  risk-taking  was  the  result  of  wrong  incentives,  with  decision-makers 
+wilfully taking more risk for themselves or their institutions than would have been privately or 
+socially  desirable.  The  alternative  would  be  that  a  misperception  of  the  probabilities  and 
+possible  consequences  of  the  decisions  was  the  prime  cause:  a  lack  of  knowledge  or 
+competence. Since I will essentially concentrate on the first possibility, i.e. incentives, let me 
+recall, by a way of contrast, a recent study by Fahlenbrach and Stulz (2011). These authors 
+show  that  the  losses  of  the  banks  whose  managers’  incentives  were  most  closely  aligned 
+with the long-term interests of the firm they managed were at least as large, in the last crisis, 
+as  those  at  the  financial  institutions  where  governance  was  more  obviously  lacking.  This 
+suggests that wrong incentives were not the only factor in the behaviour and decisions that 
+led to the crisis. Knowledge and competence were also at play. 
+... or a misalignment of incentives? 
+Incentives are an important component in risk and risk-taking. If there is an important lesson 
+in  economics  and  finance  that  has  not  been  invalidated  by  the  financial  crisis,  it  is  that 
+incentives really do matter. The excessive risk-taking that was observed prior to the financial 
+crisis is likely to have been – among other things – the result of the fact that key decision-
+makers  were  not  provided  with  the  right  incentives  to  carefully  analyse  and  balance  the 
+possible consequences of the risks they agreed to take. Let us take a bank as an example. 
+The main relevant stakeholders are the depositors, the shareholders, the managers and the 
+bondholders. What follows is a review of the situation of these stakeholders in relation to the 
+desired risk profile of a typical bank.3 
+  Depositors 
+Deposit insurance ensures that it is not the business of depositors to worry about 
+the  amount  of  risk  that  the  bank,  in  which  he  or  she  has  deposited  his  money, 
+decides to take. A key lesson of the Great Depression was that deposit insurance is 
+a  socially  justified  feature  of  the  banking  system.  This  follows  from  the  fact  that 
+banks  are  institutions  vulnerable  to  bank  runs,  no  matter  how  well  they  are 
+managed. The principle of deposit insurance is widely accepted and I will not further 
+question  it.  Yet,  the  extent  of  deposit  insurance  and  the  form  of  its  financing  are 
+important questions. Recent history has refocused our attention on these matters, 
+but these are not the issues I would like to deal with today. 
+Shareholders 
+The  incentives  for  shareholders  differ  from  those  of  depositors.  At  first  sight 
+shareholders, as ultimate owners of the bank, can be counted on to discipline risk-
+taking by the institution they own. After all, they stand to lose their entire stake if the 
+risks taken lead to bankruptcy. However, this is only true to a limited extent. Indeed, 
+if we go beyond an initial, superficial consideration of the situation, we soon realise 
+that shareholders cannot be expected to discipline risk-taking by a bank. There are 
+a number of reasons for this. In addition to the fact that individual shareholders are 
+often  small  and  scattered,  they  only  have  limited  ways  of  exerting  pressure  on 
+management,  short  of  disposing  of  their  share.  Importantly,  the  reality  of  limited 
+liability  seriously  biases  shareholders’  perspective  on  risk.  While  shareholders 
+benefit from the upside of risk-taking, they are not symmetrically penalised on the 
+                                                 
+3  The  focus  here  is  placed  on  a  typical  banking  institution,  but  other  financial  institutions  might  be  similarly 
+affected. 
+BIS central bankers’ speeches 
+ 3
+  downside.  This  asymmetry  is  particularly  acute  in  the  case  of  highly  levered 
+institutions.  For  these  institutions,  the  return  on  equity  in  good  times  is  high,  say 
+above  20%.  The  trade-off  between  high  returns  if  the  risky  gamble  pays  off,  and 
+zero, if it does not, is particularly lopsided. Both limited liability and the natural highly 
+leveraged  nature  of  banking  thus  come  with  a  natural  propensity  for  socially 
+excessive  risk-taking  on  the  part  of  banks’  owners.  In  this  sense,  shareholders 
+cannot  be  relied  upon  to  impose  on  managers  the  socially  optimal  level  of  risk-
+taking.4 
+Managers 
+What about the bank’s managers? Here theory tells us that, apart from reputation 
+and  other  soft  considerations,  the behaviour  of  managers  will  crucially  depend  on 
+the  link  between  their  remuneration  and  the  firm’s  performance.  What  is  at  issue 
+here is less the level of managerial remuneration. More important is the relationship 
+between  the  remuneration  and  the  medium  to  long-run  performance  of  the  bank. 
+Clearly,  a  managerial  remuneration  scheme  which  depends  exclusively  on  the 
+bank’s current performance places managers in a situation similar to limited-liability 
+shareholders.  They  cash  in  on  lucky  gambles  but  bear  few  of  the  negative 
+consequences  of  unlucky  ones.  Unless  we  are  willing  to  question  the  notion  of 
+limited  liability  for  managers  (as  does  Kotlikoff,  2010,  for  example),  this  kind  of 
+consideration provides the rationale for regulating managerial remuneration, and in 
+particular for imposing long waiting periods before managers can cash in bonuses.5 
+A  very  careful  design  of  managerial  payment  structure  is  needed  if  we  want  to 
+ensure that the risk decisions of self-interested managers are in line with the long-
+term interest of firm owners and society.6 
+Bondholders 
+Let me now turn to the issue of whether bondholders – the final stakeholder group – 
+contribute to a balanced weighting of risk and return in a bank’s decisions. Under 
+normal circumstances, discipline arises through the possibility and reality of default 
+and eventually bankruptcy. Bondholders who are deprived of the upside potential of 
+the risks taken by the bank and lose part (or all) of their stake in the event of default 
+can be counted on to ensure that the negative consequences of the risky gambles 
+taken by the bank are given proper weight. Indeed, the cost of debt increases with 
+additional risk-taking, thus reminding managers and shareholders of the downside of 
+the  risks  they  are  naturally  inclined  to  take.  In  reality,  this  is  precisely  where  the 
+moral  hazard  issue  associated  with  the  implicit  guarantee  of  the  “too  big  to  fail” 
+(TBTF)  status  becomes  relevant.  By  definition,  a  TBTF  financial  institution  can 
+expect to be rescued from bankruptcy. As a consequence, the banks’ bondholders 
+know they will not bear the cost of excessive risk-taking and therefore they need not 
+                                                 
+4  Though determining the precise level of socially optimal risk-taking is difficult to gauge for the economy as a 
+whole, excessive risk-taking by an individual institution is easier to detect.  
+In Switzerland, a FINMA circular on remuneration schemes lays down rules for the remuneration of employees 
+of financial institutions. Cf., FINMA Circular 10/1, “Minimum standards for remuneration schemes of financial 
+institutions”, October 2009. 
+5 
+6  Executive compensation schemes which could represent an additional mechanism for improving managerial 
+compensation include schemes that align managerial compensation with the long-term objectives of the firm. 
+Skills are better assessed in relative terms and on a risk-adjusted basis. Therefore, a compensation scheme 
+that  rewards  better-than-average  corporate  results  and  refers  to  risk-adjusted  performance  measures  may 
+reduce  risk-taking  and  reward  more  skills.  For  a  more  complete  discussion,  cf.  “The  Squam  Lake  Report: 
+Fixing the Financial System”, Princeton University Press, May 2010. 
+4 
+ BIS central bankers’ speeches
+take this cost into account when assessing the risk profile of the institution they lend 
+to.7  
+To sum up, the combination of deposit insurance, limited liability of shareholders, short-term 
+contracts of managers and the TBTF implicit state guarantee provide strong support for the 
+hypothesis that an excessive willingness to take risks may also have been a possible factor 
+in the recent financial crisis. In the case of systemically relevant financial institutions, it is not 
+clear  that  any  of  the  major  stakeholders  had  the  incentive  to  perform  a  balanced  risk 
+calculus. As mentioned before, competence and knowledge may have been at stake. They 
+can be improved through further investment in teaching and research in finance. This will be 
+to no avail, however, if the incentive structure in systemically relevant financial institutions is 
+not simultaneously corrected. 
+Part II: Too big to fail 
+TBTF: A problem of externalities 
+I will now build on the previous analysis of risk and risk-taking and focus on the possibility of 
+restoring  incentives  in  the  case  of  a  TBTF  institution.  By  definition,  TBTF  starts  with  an 
+externality:  an  institution’s  failure  cannot  be  accepted  because  its  implications  for  other 
+financial  institutions  and  for  the  real  economy  would  be  too  severe.  In  a  TBTF  situation, 
+various stakeholders face misaligned incentives. The moral hazard issue already mentioned 
+obviously  means  that  the  bondholders  face  the  wrong  incentives.  This  externality  has 
+additional  implications  for  the  social  dimension  of  the  risk  decisions  of  managers  and 
+shareholders.  This  is  because  the  private  cost  of  an  institution’s  failure  underestimates  its 
+social  cost.  In  other  words,  the  externality  implies  that  the  appropriate  risk  calculus,  taken 
+from  the  perspective  of  a  single  institution,  leads  to  excessive  risk-taking  from  the 
+perspective of society. The institution’s failure may be the unfortunate consequence of risks 
+that,  in  the  best  case,  were  justified  from  the  perspective  of  the  institution  itself.  But  it 
+imposes  additional  costs  on  other 
+institutions  and  market 
+participants.  These  extra  costs  were  not  taken  into  account  even  if  the  decision-making 
+process was privately optimal. 
+In  what  follows,  let  me  discuss  the  appropriate  recipe  in  the  presence  of  an  externality. 
+Economic theory mainly suggests two measures: either restoring the appropriate incentives 
+via a Pigovian tax8 or applying direct quantity regulation. 
+financial  and  economic 
+Limiting the size of the bank 
+One extreme solution to the TBTF problem falling within the second category of measures is 
+to  adopt  the  following  precept:  if  an  institution  is  too  big  to  fail,  then  it  is  too  big  to  exist.9 
+According to this view, the state should limit the size and scope of banks to levels where the 
+TBTF  externality  does  not  materialise.  Renouncing  the  benefits  associated  with  scale  and 
+scope is the price to pay for this radical solution.10 Potentially even more costly is the fact that 
+all benefits associated with size and scope that might be discovered in the future are also 
+forgone!  This  is  a  very  strong  encroachment  on  the  principles  prevailing  in  a  free  market 
+                                                 
+7  The argument outlined here is particularly relevant for holders of senior bonds. 
+8  See Pigou, A. (1920), The Economics of Welfare, London: MacMillan. 
+9  There are a variety of advocates of this view. Cf., for instance, King, M. (2009), speech at the Lord Mayor’s 
+Banquet for Bankers and Merchants of the City of London at the Mansion House, June 2009. 
+10  It is fair to acknowledge at this point that there is a lot of controversy and only weak evidence on the existence 
+and size of returns to scale and scope in banking. 
+BIS central bankers’ speeches 
+ 5
+economy,  which  is  –  among  other  things  –  based  on  the  principle  that  firms  are  best 
+positioned  to  select  their  business  plan  and  should  do  so  freely  within  the  appropriate 
+incentive structure. 
+Increasing capital requirements and imposing a capital surcharge 
+The  “Pigovian”  approach  is  often  more  suitably  and  closely  aligned  to  the  principles  of  a 
+dynamic market economy. In the problem at hand, the Pigovian approach may take the form 
+of the imposition of higher capital requirements together with a capital surcharge, modulated 
+to take account of the systemic risk of a financial institution. The benefits of increasing capital 
+requirements are manifold. First, imposing more equity capital naturally makes an institution 
+more  robust  and  able  to  withstand  adverse  scenarios.  This  reduces  the  probability  of 
+bankruptcy, thus the severity of the externality. Second, a greater capital requirement also 
+increases the stakes for shareholders as it decreases the degree of leverage of the financial 
+institute. This somewhat alleviates (although it does not fully resolve) the asymmetry problem 
+facing  limited  liability  shareholders  and  thus  improves  their  incentives  to  undertake  risk 
+monitoring.  Third,  to  the  extent  that  equity  capital  is  more  expensive  than  debt,  a  capital 
+surcharge works like a tax. It lets the firm decide on its optimal size but in so doing forces it 
+to  integrate  the  fact  that  a  larger  size  imposes  an  extra  cost  to  society  and  is  thus  only 
+warranted  if  the  additional  benefit  for  the  firm  justifies  the  additional  social  cost.  In  other 
+words: be big if you are convinced of the benefits of size but cover the social cost of your 
+decision!11  
+Imposing organisational measures 
+The level of the capital surcharge for systemically relevant institutions can, in the spirit of the 
+Pigovian  approach,  be  decreased  if  the  size  of  the  TBTF  externality  is  further  reduced  by 
+other means. This provides the rationale for imposing organisational measures with the goal 
+of making partial bankruptcy possible.12 The aim of organisational measures is to encourage 
+banks  to  isolate  the  divisions  that assume  essential  systemic  functions  from  those  that  do 
+not,  so  that  the  functioning  ability  of  the  former  can  be  maintained  in  a  case  of  near-
+bankruptcy, while the latter can be wound down. This would make it possible to dismantle a 
+systemically relevant institution in such a way that only those parts of the institution that are 
+vital to the economy need to be saved. Only a limited bailout is then necessary, and this can 
+then  be  rendered  compatible  with  the  functioning  of  a  free  market  economy,  if  the  capital 
+necessary for maintaining the vital functions does not come from the taxpayer.  
+Cocos: better incentives for bondholders 
+A  possible  way  to  keep  vital  parts  of  banks  functioning  during  crisis  situations  without 
+involving the taxpayer is to have recourse to contingent convertible bonds or Cocos. These 
+are  bonds  that  are  converted  into  equity  if  certain  thresholds  are  reached.  One  such 
+threshold  may  be  a  capital  level  corresponding  to  a  de  facto  bankruptcy.  With  these 
+“low-trigger”  Cocos,  the  necessary  capital  for  supporting  the  vital  functions  of  the  bank  is 
+forthcoming precisely when it is most needed, in other words, when the institution would not 
+otherwise be viable as a going concern. The conceptual attractiveness of Cocos is that, in 
+addition  to  recapitalising  banks  when  the  standard  form  of  recapitalisation  is  unavailable, 
+                                                 
+11  Banks’ liquidity issues are not dealt with explicitly here. Clearly, weak bank liquidity profiles were at the core of 
+the recent crisis. Liquidity measures represent a critical part of the Basel III regulatory framework. They are 
+also  part  of  the  TBTF  proposal.  Another  relevant  issue  relates  to  the  maturity  mismatch  between  a  bank’s 
+assets and liabilities. This is discussed in Hellwig (2008), among others. 
+12  For suggestions on improving resolution options for systemically relevant financial institutions, cf. also “The 
+Squam Lake Report: Fixing the Financial System”, Princeton University Press, May 2010. 
+6 
+ BIS central bankers’ speeches
+they  also  restore  creditors’  incentives  to  monitor  risk.  Cocos  can  therefore  be  viewed  as 
+partial  substitutes  for  unusable  or  impractical  bankruptcy  procedures,  as  they  ensure  that 
+one major class of stakeholders – which would otherwise be outside the risk calculus loop – 
+is now interested in monitoring the bank’s risk attitude and contributing to containing the pro-
+risk bias of the other stakeholders. 
+The Swiss solution 
+Resolving the TBTF issue is a first order of priority. It is of utmost importance for Switzerland, 
+given  the  relative  size  of  the  two  big  banks  in  relation  to  economic  output.13  The  recent 
+history of developments has helped us to understand that our two big banks are not only too 
+big  to  fail,  but  that  circumstances  could  arise  under  which  they  would  be  too  big  to  be 
+rescued  as  well.  The  solution  chosen  by  the  Swiss  authorities  to  address  this  important 
+problem  is  fully  in  the  spirit  of  the  above  conceptual  discussion.  It  relies  on  higher  capital 
+requirements  and  a  capital  surcharge  proportional  to  the  systemic  externality  with  a 
+substantial part of the extra capital taking the form of Cocos. It also imposes organisational 
+measures fulfilling the objective of allowing for a “partial” bankruptcy and thus reducing the 
+size of the TBTF externality. 
+Part III: The side effects of improved incentives 
+Will higher capital restrict bank lending? 
+Let  me  now  turn  to  the  examination  of  some  of  the  potential  side-effects  of  the  measures 
+described in the preceding section. A legitimate first question is whether improving incentives 
+in the way we have described could have undesired indirect effects such as modifying the 
+banks’ lending behaviour. An argument often heard is that higher equity requirements would 
+force banks to set aside, or hold in reserve, funds that could otherwise be used for lending. 
+Here the main observation is that extremely risky gambles should now be avoided as a result 
+of  improved  incentives.  There  has  been  excessive  risk-taking  in  the  past;  there  should  be 
+less  of  it  under  the  new  incentives.  Beyond  this  intended  effect,  which  concerns  only  the 
+most risky activities, the form of financing used by an institution – in itself – should have no 
+impact on the profit-maximising business model. That is, as far as activities and revenues are 
+concerned,  imposing  extra  capital  does  not  change  the  perspective  of  the  decision-maker 
+beyond  restoring  the  incentives  for  balanced  risk-taking.  The  exception  is  the  case  of 
+marginally  profitable  activities,  and  here  only  to  the  extent  that  the  cost  of  financing  is 
+increased (more on this later). Provided that activities are profitable, and bearing in mind that 
+in banking the targeted return on equity is not only highly positive but incomparably higher 
+than  in  other  sectors  of  the  economy,  the  cost  of  financing  should  not  be  the  main 
+determinant of activity. Holding more capital does not impair banks’ ability to create value by 
+lending,  provide  payment  services  or  satisfy  the  demand  for  investment  banking  activities. 
+High leverage is not a pre-requisite for banks to perform their socially valuable functions.  
+Will higher capital requirements increase the cost of financing? 
+I  now  want  to  address  the  question  of  whether  higher  capital  requirements  per  se  will 
+increase the cost of financing. A theoretical basis for answering this question can be found in 
+the work of Modigliani and Miller.14 In a perfect, frictionless world, the value of a firm does not 
+depend on whether it is financed by debt or equity. 
+                                                 
+13  The balance sheet of the two biggest Swiss banks adds up to a multiple of the size of domestic GDP. 
+14  Modigliani,  F.  and  Miller,  M.  H.  (1958).  “The  Cost  of  Capital,  Corporate  Finance  and  the  Theory  of 
+Investment”, American Economic Review, 48, 261–97. 
+BIS central bankers’ speeches 
+ 7
+Higher equity capital reduces leverage. Thus it reduces return on equity (ROE) when a bank 
+makes a profit but it increases it when the bank makes a loss. In other words, if increased 
+capital requirements lower the ROE in good times, they raise it in bad times, hence reducing 
+shareholder risk. It follows that shareholders will demand a lower average ROE for a better 
+capitalised bank, as this is the counterpart for the better protection they obtain in bad times. 
+We can thus expect a decrease in ROE, but this only reflects the decreased risk premium 
+associated with the decreased risk-taking. Similarly, the cost of debt decreases and this drop 
+in  the  cost  of  funds  perfectly  offsets  the  effect  of  the  greater  use  of  the  more  expensive 
+source  of  capital  in  the  firm’s  financing  structure.  The  essence  of  the  Modigliani-Miller 
+theorem is that the cost of capital and thus the firm’s value are unaffected.  
+Of course we do not live in a perfect world, and the Modigliani-Miller equivalence does not 
+hold. Financing matters. The relevant literature typically puts forward a number of factors to 
+justify the higher cost of equity financing: the fiscal advantage of debt, the cost associated 
+with bankruptcy and the differential liquidity and issuing cost between debt and equity. These 
+arguments  apply  to  pure  equity  financing,  not  in  the  case  of  Cocos.  As  debt  instruments, 
+Cocos  offer  the  fiscal  advantage  of  other  debt  instruments.  As  hybrid  instruments,  they 
+substitute for other hybrids that are already part of the financing structure of banks and that 
+have proved relatively inexpensive for banks to issue. Finally, it is not clear that bankruptcy 
+costs are relevant in the context of the TBTF problem where precisely those costs are never 
+really  incurred.  For  all  these  reasons,  we  may  hypothesise  that  the  total  cost  of  bank 
+financing will not materially increase as a result of higher capital requirements, in particular if 
+the  latter  can  take  the  form  of  Cocos.  It  is  the  case,  however,  that  mitigating  the  implicit 
+subsidy to TBTF institutions does correspond to a socially desirable increase in the cost of 
+doing business for these institutions.  
+Is maximising return on equity an appropriate objective? 
+As mentioned in our discussion of the cost of capital, return on equity will be affected. A more 
+highly  capitalised  bank  is  expected  to  have  a  lower  ROE  because  of  its  lower  risk  profile. 
+However, this is socially desirable. The common emphasis on ROE should be handled with 
+scepticism, as ROE is a measure that is not adjusted for the risk profile of the bank and thus 
+can be easily manipulated by increasing leverage.  
+Because ROE depends on the capital structure of a bank, this measure should not be used 
+to compare two banks with different capital structures. If, however, two banks have the same 
+capital structure, does it follow that targeting the highest ROE is the appropriate strategy? 
+If a bank is operating efficiently, its return on equity will be positively correlated with the risk 
+taken: on average, more risk means more reward and thus more profitability. However, as 
+we have seen, there is such a thing as too much risk-taking from society’s perspective, in 
+particular in the context of TBTF or systemically relevant institutions. That is, the amount of 
+risk taken by a TBTF bank can diverge from the risk that society would like the bank to take. 
+Targeting a very high return on equity is very likely to be inappropriate from a social point of 
+view, as excessive risk-taking imposes an externality on the stability of the system.  
+Concluding remarks 
+Let me conclude with a brief summary. Today I have first reviewed the incentives for risk-
+taking by the various stakeholders of a bank. This review showed that, in particular in the 
+case of a TBTF institution, no single stakeholder group is confronted with a natural incentive 
+for  a  prudent  weighting  of  risks.  I  have  concluded  that  we  should  not  be  surprised  by  the 
+assessment that the financial crisis could have its cause in excessive risk-taking by financial 
+institutions. Pursuing the case of TBTF institutions we have considered a set of measures 
+that  have  the  potential  to  correct  the  incentive  structure.  Higher  capital  requirements  in 
+general, a capital surcharge for systemically relevant institutions, Cocos and organisational 
+measures  designed  to  allow  for  “partial”  bankruptcies  naturally  belong  to  a  programme 
+8 
+ BIS central bankers’ speeches
+aiming at improving financial incentives. It is worth noting that these are essential elements 
+of the TBTF package currently submitted to the Swiss Parliament. Finally, I have discussed 
+the impact of such measures on the incentive to lend, the cost of capital and the return on 
+equity. The aim of these measures is, first, to improve the incentives for balanced risk-taking 
+and, second, to mitigate the implicit subsidy granted to TBTF institutions. These are the first-
+order  effects.  There  should  be  few  additional  side-effects  on  lending  practices  and  on  the 
+cost of capital. Average return on equity is likely to decrease in proportion to the decline in 
+the risks assumed by shareholders.  
+References 
+Admati, A. R., DeMarzo, P. M., Hellwig, M. F. and Pfleiderer, P. (2011) “Fallacies, irrelevant 
+facts and myths in the discussion of capital regulation: why bank equity is not expensive”, 
+Stanford GSB Research Paper No. 2063. 
+Barras,  L.,  Scaillet,  O.  and  Wermers,  R.  (2010)  “False  Discoveries  in  Mutual  Fund 
+Performance: Measuring Luck in Estimated Alphas”, Journal of Finance, 65(1), 179–216. 
+Fahlenbrach, R. and Stulz, R. M. (2011) “Bank CEO incentives and the credit crisis”, Journal 
+of Financial Economics, 99(1), 11–26. 
+Kotlikoff, L. J. (2010) “Jimmy Stewart is dead: ending the world’s ongoing financial plague 
+with limited purpose banking”, John Wiley & Sons, Hoboken, New Jersey. 
+Hellwig,  M.  (2008)  “Systemic  Risk  in  the  Financial  Sector:  An  Analysis  of  the  Subprime-
+Mortgage Financial Crisis”, Preprints of the Max Planck Institute for Research on Collective 
+Goods, Bonn 2008/43. 
+ 
+BIS central bankers’ speeches 
+ 9

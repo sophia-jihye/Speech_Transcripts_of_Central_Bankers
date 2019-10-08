@@ -1,0 +1,341 @@
+Sir Andrew Large: Financial stability - managing liquidity risk in a global 
+system 
+Speech  by  Sir  Andrew  Large,  Deputy  Governor  of  the  Bank  of  England,  at  the  Fourteenth  City  of 
+London Central Banking and Regulatory Conference, London, 28 November 2005. 
+ Introduction 
+1. 
+Much  is  written  today  about  the  search  for  yield.  Much  is  said  about  the  factors  that  underlie  it: 
+accommodative  monetary  policy;  savings  gluts;  and  financial  engineering  which  multiplies  the 
+opportunities for increasing leverage. And much, too, is said about new instruments, such as those 
+involving credit risk transfer, or new players, such as hedge funds, that trade them. 
+However, my main concern today is not with the search for yield as such, nor with market innovations 
+or new players. Rather, it is with the financial vulnerabilities to which they could give rise, and what 
+can be done to mitigate those vulnerabilities. 
+Because it seems to me that the search for yield also highlights some less benign aspects of today’s 
+financial  system:  the  opacity  of  markets  in  some  new  instruments;  the  difficulty  of  knowing  the  real 
+value  of  assets  and  contracts;  reliance  on  models  that  have  not  been  tested  in  the  full  range  of 
+economic  conditions;  the  uncertainties  over  behaviour  of  new  participants  in  the  markets  should 
+events  turn  adverse;  and  the  difficulty  we  have  in  judging  just  how  deep  markets  will  prove  to  be 
+should a substantial number of investors decide simultaneously to try to realise their investments. 
+On  a  more  practical  level,  there  is  no  lack  of  evidence  that  things  can  and  do  go  wrong.  We  have 
+recently  seen  lack  of  operational  discipline  in  some  financial  markets  leading  to  documentation 
+backlogs and to uncertainty over the enforceability of transfer of risks. We see more relaxed lending 
+criteria in the LBO market, increased reliance on potentially illiquid instruments in trading strategies, 
+and questionable quality of some IPO’s. We have seen specific examples of significant downgrades or 
+outright failures such as GM/Ford, AHBR and, more recently, Refco and Delphi.  
+One reaction to these episodes is that they show the market doing its work and are testimony to the 
+effectiveness of market discipline. The fact that the financial system has coped with these problems 
+may well also be testimony to the strengths of that system.  
+On the other hand, might not these episodes be a potential sign that all is not well? The question is: 
+are  vulnerabilities  mounting,  and  will  they  one  day  crystallise  when  a  bigger  shock  arrives  that  the 
+market simply cannot absorb? 
+The fact is, we just don’t know. And that is why we need to be particularly vigilant. 
+Such  questions  lead  me  to  think  about  issues  relating  to  liquidity.  If  a  period  of  market  stress 
+materialises, triggered by a sharp snap back in prices, it is critical that the financial system should be 
+able to meet a temporary increase in the demand for cash without precipitating, in the vernacular, a 
+‘market meltdown’. Liquidity is therefore the focus of my remarks today. By liquidity I mean two things. 
+First, institutional liquidity: the continued ability of individual financial institutions to meet claims as they 
+fall  due.  And  second,  market  liquidity:  the  depth  of  markets  for  the  sale  or  loan  of  assets  or  the 
+hedging of the risks that underlie those assets. 
+To set the scene, it is perhaps worth reflecting on how liquidity needs and processes may amplify the 
+risks of instability—that is, their ability, in stressed conditions, to disrupt the functioning of the financial 
+system generally, and the banking and payment systems specifically.  
+The traditional route arises from the banking system’s role in maturity transformation between short 
+term  deposits  and  long  term  loans.  Managing  this  mismatch  whilst  maintaining  the  confidence  of 
+depositors is the essence of the business of banking. However, the presence of this maturity mismatch 
+means  that  individual  banks  are  by  their  nature  fragile.  The  connections  between  banks,  and  the 
+potential for doubts about one bank to spread to others, mean that the failure of one bank to manage 
+its mismatch can potentially put at risk the financial system more widely. Bagehot in 1873 summed up 
+this link between maturity mismatch and systemic risk: 
+BIS Review 79/2005 
+ 1
+ ‘Of the many millions in Lombard Street, infinitely the greater proportion is held 
+by bankers or others on short notice or on demand; that is to say, the owners 
+could ask for it all any day they please: in a panic some of them do ask for 
+some of it. If any large fraction of that money really was demanded, our banking 
+system and our industrial system would be in great danger.’ 
+In Bagehot’s time, the role of the Bank of England was to act as guardian of the reserve of bullion that 
+underpinned the credibility of the whole banking system. The technology may have changed, but in 
+essence the role of the Bank today is one that Bagehot would recognize. Central bank money is the 
+ultimate  settlement  asset.  And  banks  still  demonstrate  their  ability  to  meet  depositors’  demands  for 
+repayment by holding a sufficient stock of high quality securities against which central banks—and in 
+normal circumstances the markets—will lend. Confidence in the modern financial system is therefore 
+underpinned by the preparedness of central banks to lend against such high quality security without 
+question. 
+Central banks have, therefore, a keen interest in developments that affect the demand for and supply 
+of liquidity. It is not surprising that they try to limit the likelihood of events that might lead to excessive 
+increases  in  demand  for  liquidity  or  constraints  on  its  supply,  and  also  try  to  have  in  place  the 
+operational apparatus to respond to such developments, if felt necessary, at minimum cost. 
+The  traditional  sources  of  liquidity  risk  for  banks  are  unusually  heavy  demands  from  depositors  for 
+repayment  and  from  their  customers  to  draw  down  pre-committed  funding.  Today’s  environment 
+encourages  us  also  to  recognise  disruption  to  markets  as  a  potential  trigger  for  such  extraordinary 
+demand. If you think about the expansion of markets in which banks participate, both as principals and 
+as intermediaries, and the fact that at times of stress investors would be likely to place a premium on 
+“safe” assets and ultimately on cash, then it soon gets you back to thinking about the robustness of 
+arrangements that enable banks to satisfy unexpected spikes in cash demand, perhaps in unexpected 
+locations. Markets rely on this in order for them to function with confidence. 
+How has the world changed? 
+2. 
+I  said  that  Bagehot  would  recognise  the  modern  role  of  central  banks.  However,  the  firms  that 
+comprise  the  financial  system  are  much  altered  since  his  day.  So  I  should  like  to  make  a  few 
+observations both about how this has affected firms’ own liquidity management, and crucially how the 
+public authorities might react. 
+Firstly, concentration in the global financial system has increased, with a relatively small number of 
+global  firms—banks  and  non-banks—representing  a  significant  fraction  of  the  system.  These  firms 
+often  employ  centralized  liquidity  management.  And  they  are  increasingly  strongly  interconnected, 
+within and across borders, and via new markets for risk transfer as well as more traditional channels. 
+Participation  in  risk  transfer  markets  does  more  than  just  create  new  links  between  firms:  it  also 
+creates a new potential demand on firms’ liquidity in the form of margin calls. Moreover, this additional 
+demand  may  be  positively  correlated  with  other  liquidity  risk  that  firms  face  in  the  event  of  market 
+stress. 
+Secondly, there are certain features of the prevailing financial and economic environment that give us 
+pause for thought. Market prices are at historically unusual levels: real and nominal returns on risk free 
+assets are low and credit spreads are tight, both in traditional and structured products. It is of course 
+hard  to  say  definitively  the  extent  to  which  today’s  markets  are  merely  reflecting  changed 
+fundamentals. But it is quite possible that some investors have unwittingly taken on higher levels of 
+risk in pursuit of what they would consider to be “normal” levels of return. And it is certainly prudent to 
+plan for the possibility of a sharp reversion of prices to historically more normal levels (or even beyond 
+them,  given  the  tendency  of  markets  to  overshoot).  There  could  be  a  period  of  impaired  market 
+liquidity  during  any  such  correction.  One  could  imagine  a  number  of  potential  catalysts  for  such  a 
+correction, ranging from a geo-political event to some form of major operational disruption. 
+The  Bank  concurs  with  the  widely  held  view  that  the  growth  of  markets  in  risk  transfer  should 
+contribute to greater financial stability, by allowing a more efficient dispersion of risks. But the depth 
+and reliability of the more recently developed markets in risk under stressed conditions has not yet 
+been fully tested. Moreover, risk transfer markets can, and probably at present do make the ultimate 
+destination of risks more opaque. This hampers our ability to assess the overall stability of the financial 
+system, and, potentially, to react effectively in a crisis. 
+2 
+ BIS Review 79/2005
+How have firms reacted to these changes? 
+3. 
+The banking industry has, not surprisingly, responded to these changes by paying greater attention to 
+liquidity  risk  management.  And,  as  well  as  day-to-day  management,  banks  have  given  more 
+consideration to how they would cope with extreme or ‘tail’ events.  
+Banks have developed, or are at least in the process of developing, sophisticated scenario analyses, 
+and  are  assessing  the  contingency  arrangements  that  would  be  required  to  respond  to  these 
+scenarios.  It  is  certainly  encouraging  to  observe  the  determination  with  which  many  banks  are 
+addressing liquidity risk, and it is at the same time noteworthy how efficiency drivers have led many 
+banking groups to take a more centralised approach to liquidity management.  
+But,  despite  the  progress  that  banks  are  making  in  addressing  liquidity  risk,  the  framework  that 
+underpins their contingency plans makes a number of assumptions, particularly regarding access to 
+funding markets. There seems, for example, to be a widespread view that, whatever has happened to 
+a  firm’s  access  to  wholesale  unsecured  funding,  it  will  be  able  to  borrow  secured  against  good 
+collateral.  Lying  behind  this  is  probably  an  expectation  that  national  authorities,  and  in  particular 
+central banks, will be ready to provide liquidity against good collateral in the event of the failure of one 
+or more of the markets for secured borrowing.  
+Banks are also giving greater thought to the impact of an extreme event on the value of collateral and 
+the proportion of that value that can be borrowed, as well as the sale value of any assets that they 
+might  consider  liquidating.  The  assumptions  here  might  prove  to  be  optimistic  particularly  in 
+circumstances  such  as  those  seen  in  1998,  when  extreme  events  led  to  one-way  markets  and  a 
+vicious circle in which asset price falls did not lead to increased demand but rather to further increases 
+in supply. It is for reasons such as these that the contingency planning that firms put in place needs to 
+be sufficient. 
+Banks  have  also  placed  increased  emphasis  on  identifying  potential  sources  of  liquidity  shocks. 
+Products  which  entail  the  posting  of  margin,  such  as  derivatives,  can  result  in  significant  calls  on 
+liquidity. 
+Policy responses 
+4. 
+So what gaps does this leave, and what policy responses are therefore needed on top of firms’ own 
+actions? There is scope for further work by the private sector on improving liquidity risk management. 
+But there are also a number of issues for public authorities to address. 
+The preparations that firms make are influenced by regulation. When balancing the costs and benefits 
+of measures to mitigate risk, banks naturally have regard to the interests of their own shareholders. 
+But  one  of  the  roles  of,  and  indeed  justifications  for,  regulation  is  to  ensure  that  firms  also  take 
+sufficient account of the interests of others who would be adversely affected by their failure: their own 
+borrowers and depositors, for example, but also the customers of other banks that would suffer losses 
+if a particular bank were to get into difficulties. In other words, one purpose of regulation is to align 
+private choices with public welfare maximisation. 
+Hitherto, public authorities have placed much emphasis on capital requirements as a way of achieving 
+this reconciliation. Indeed, one reason for imposing capital requirements is to limit the risk of liquidity 
+problems, by giving the market a level of assurance over the solvency of a firm. But this emphasis on 
+capital has perhaps overshadowed the importance of direct liquidity requirements. Analytically, liquidity 
+is a more difficult area. But arguably the case for prudential liquidity requirements in some form is just 
+as strong as for capital. Liquidity cushions are a first line of defence: in times of stress they can buy 
+time,  and  where  organisations  are  solvent  they  can  help  to  prevent  liquidity  problems  turning  into 
+solvency ones. I will return to this later. 
+But besides regulation, the public authorities—specifically central banks—have a crucial role as the 
+ultimate providers of liquidity. They therefore need to ensure that they are properly equipped to carry 
+out this function. 
+Avoiding or resolving liquidity problems is not just a matter of ensuring adequate aggregate liquidity; it 
+also means ensuring that liquidity can be, and is, distributed effectively round the system. This was 
+illustrated  by  the  events  of  9/11,  when  the  US  money  market  was  temporarily  unable  to  distribute 
+liquidity  to  the  banks  that  needed  it.  On  that  occasion,  for  example,  the  Federal  Reserve  injected 
+considerable liquidity,  more  than  $100bn,  via  a combination  of  daylight  overdrafts,  discount  window 
+BIS Review 79/2005 
+ 3
+lending, and general market support. 9/11 also highlighted the importance of central banks being able 
+to lend directly to solvent institutions facing a liquidity crisis. Under stressed conditions, and with the 
+associated uncertainties, attempts by a perfectly sound bank to borrow unusually large amounts from 
+the  market,  even  against  good  quality  collateral,  have  the  potential  to  raise,  or  exacerbate,  doubts 
+about that bank’s solvency. But a solvent bank that is in need of liquidity can safely reveal its need to 
+the central bank without precipitating a crisis in market confidence; uniquely, the latter is not at risk of 
+experiencing a run, and so will not overreact in an effort to protect its own balance sheet. 
+In  many  countries  ‘automatic’  direct  liquidity  provision  against  pre-defined  acceptable  collateral  is 
+hard-wired  into  the  operational  framework  for  monetary  policy  implementation  through  so-called 
+‘standing facilities’. In the UK we are broadening the range of firms to whom we can supply liquidity in 
+this  way.  This  implements  Bagehot’s  prescription  for  mitigating  systemic  risk,  that  the  central  bank 
+should  as  far  as  possible  make  clear  in  advance  its  preparedness  to  provide  liquidity  in  stressed 
+conditions. Referring to the central bank, he puts it thus: 
+ ‘The holders of the cash reserve must be ready not only to keep it for their own 
+liabilities, but to advance it most freely for the liabilities of others. They must 
+lend to merchants, to minor bankers, to “this man and that man”, whenever the 
+security is good.’ 
+The picture becomes more complex in the case of global firms that manage liquidity centrally. Such 
+firms have liquidity needs in multiple currencies and locations. They may find it costly to hold enough 
+liquid assets in every market in which they operate, and hence potentially face a mismatch between 
+the location of their liquidity needs and that of their liquid assets.  
+In  response  to  this  several  central  banks,  notably  those  in  Switzerland,  Sweden,  the  UK,  and  the 
+United  States,  have  taken  steps  to  allow  the  cross-border  use  of  collateral  in  some  or  all  of  their 
+routine  lending  activities.  Others  have  taken  the  alternative  route  of  attempting  to  reduce  collateral 
+costs for banks, and hence relax potential constraints, by accepting a range of less liquid and non-
+marketable  assets,  while  still  controlling  the  credit  quality  of  the  assets  involved.  For  example,  the 
+Eurosystem  accepts  a  wide  range  of  non-sovereign  debt  securities,  including  corporate  bonds  and 
+asset-backed securities. The European Central Bank’s proposed ‘Single List’ will also include certain 
+bank  loans;  indeed  these  are  already  eligible  in  some  member  countries.  Similarly,  the  Fed  has 
+broadened the range of collateral accepted at the Discount Window. 
+A working group commissioned by the Basel-based CPSS (Committee on Payment and Settlement 
+Systems)  in  2004  has  examined  whether  existing  arrangements  would  prove  adequate  in  an 
+emergency. It would appear that some of the infrastructure required to facilitate more extensive cross-
+border use of collateral is already in place: links between securities settlement systems, for example. 
+Nevertheless, central banks may need to put in place more cooperative and coordinated policies, such 
+as the establishment of a framework for information-sharing. 
+When  risks  do  crystallise  it  is  imperative  that  central  banks,  along  with  regulators  and  ministries  of 
+finance, are well prepared so that they are able to respond in an effective manner. The CPSS working 
+group  looked  at  preparations  that  are  needed  in  order  to  be  able  to  make  effective  use  of  existing 
+infrastructure in a crisis. But it is equally important that central banks and regulators be in a position to 
+make  the  decisions  necessary  for  resolution  of  a  crisis,  both  individually  and,  when  needed, 
+collectively. 
+This entails gathering data and intelligence on firms and markets, sharing it appropriately amongst all 
+relevant  public  authorities,  understanding  the  systemic  conjuncture,  and  setting  up  national  and 
+international  frameworks  for  coordination  of  decision  making.  I  could  give  an  entire  speech  about 
+questions  in  these  areas,  and  current  and  potential  initiatives  to  address  them1.  However,  today  I 
+would like to return instead to the subject of liquidity regulation. 
+                                                      
+1 One important pre-requisite is that the authorities have access to up-to-date and accurate information about financial firms, on 
+which they can base shared assessments of the position of individual firms and the likelihood of a crisis affecting the financial 
+system as a whole. The information needed includes, inter alia, a firm’s group structure, capital, liquidity asset holdings, large 
+exposures, and its involvement in markets and in payment, clearing and settlement systems. This information can be collectively 
+thought  of  as  a  ‘Fact Book’  on  a  firm.  In  some  countries  much  of  this  information  is  already  available.  The  FSA  recently 
+published a paper outlining the information that the UK authorities collectively deem it necessary to have in a financial crisis, and 
+asking for firms’ cooperation in making available a limited amount of additional information that is not already collected on a 
+routine basis.  
+4 
+ BIS Review 79/2005
+The potential willingness of the authorities to supply discretionary—as opposed to routine—liquidity in 
+a  crisis  is  likely  to  give  rise  to  moral  hazard,  because  in  the  real  world,  faced  with  incomplete 
+information,  it  is  difficult  or  impossible  to  identify  ex  ante  a  ‘pure’  liquidity  crisis.  By,  for  example, 
+relaxing normal criteria on collateral quality authorities may move from the injection of liquidity to what 
+is effectively the provision of risk capital. Firms may then be inclined to tailor their risk-taking to their 
+own assessment of the probability of intervention, while at the same time the incentive for firms to hold 
+adequate buffers of liquid assets is likely to be reduced. The gap between the amount of liquidity that 
+a firm will choose to hold, and the optimal public choice will then widen. It is not surprising, then, that in 
+most jurisdictions firms’ liquidity management is subject to standards imposed by regulation. 
+Intervening in this way requires that the authorities be able to answer some difficult questions. There is 
+the question of calibration: how much liquidity is ‘enough’ for any given firm? In other words, what is 
+the optimal public choice of liquidity buffer? And for how long should a firm be expected to be able to 
+survive without outside help? This is a much more difficult question for liquidity buffers than for capital, 
+as  in  the  case  of  liquidity  it  is  not  sufficient  merely  to  analyse  the  structure  of  a  firm’s  assets  and 
+liabilities.  The  firm  also  has  to  take  account  of  the  possible  ways  in  which  its  counterparties  and 
+creditors may behave in a crisis. Moreover, in a liquidity crisis, there is feedback from the actions that 
+a  firm  takes  to  meet  liquidity  needs—selling  assets  for  example—to  the  market’s  perception  of  its 
+solvency and hence to the size of those very liquidity needs. Furthermore, it is arguable that buffers 
+should vary to some extent with the level of risk that a firm brings to the financial system. Firms that, 
+for example, are relatively large or opaque, or have more extensive connections to other parts of the 
+financial system might be expected to meet higher standards under such a regime. 
+The impact of liquidity standards on a firm’s relationship with its central bank, both in normal times and 
+in crisis, also has to be considered. In many countries, the UK included, firms need to obtain central 
+bank money in order to make payments to other banks in the real time gross settlement system and to 
+settle  delivery  versus  payment  securities  transactions.  The  ability  to  obtain  central  bank  money—
+liquidity—depends at all times on having access to sufficient quantities of high quality collateral. And 
+such  collateral  is  of  course  amongst  the  best  forms  of  insurance  against  liquidity  problems.  So  the 
+extent to which prudential liquidity standards require firms to hold collateral, and the precise way in 
+such  requirements  are  calibrated,  have  a  direct  impact  on  the  economics  of  their  participation  in 
+payment systems and in central bank operations to implement monetary policy. 
+The  structural  and  conjunctural  developments  that  I  described  earlier  are  most  material  to  these 
+questions.  On  calibration,  for  example,  greater  inter-linkages  between  firms  mean  that  the  external 
+costs of failure—the costs that are not borne by the firm itself and are therefore unlikely to be taken 
+into  account  in  its  own  planning—are  greater.  If  markets  on  which  firms  now  rely  for  some  of  their 
+                                                                                                                                                                      
+We also obtain a great deal of additional information in the course of our own market operations, through our involvement in 
+payment systems and other infrastructure, through our counterparties and contacts, and in other ways. Intelligence of this sort 
+allows us to understand the environment—the products, techniques, and markets—in which firms operate and how they and the 
+markets in which they trade may behave in times of stress. It therefore supports analysis of how stress might spread and how 
+the authorities can most effectively respond; and it helps to identify the appropriate channels for communicating this response. 
+But  analysis  from  intelligence  can  also  provide  early  warning  of  symptoms  of  actual  or  incipient  stress;  for  example,  a  high 
+degree of leverage coupled with crowded trades in markets that can be illiquid. 
+The authorities then have time, where appropriate, to publicise any concerns so that firms can take action to prevent the risks 
+from crystallising, and factor them into stress tests and scenario analysis. We provide such analysis regularly in our Financial 
+Stability Review. And were a crisis to develop, an understanding  of the ‘systemic conjuncture’ is also required to enable the 
+authorities to assess on a continuing basis the likely systemic impact, and to choose an appropriate policy response.  
+As well as information exchange, strong co-ordination of decision making between central banks, regulators, and ministries of 
+finance, is likely to be essential for effective crisis management. This is true both at a domestic and an international level. A first 
+step is for the relevant national authorities to have clear, well established, processes for decision making and for communicating 
+externally, and to ensure that these processes are well understood by all parties. In the UK, HMT, the Bank and the FSA have a 
+published Memorandum of Understanding (MOU), established in 1997, which sets out a high-level framework for co-operation in 
+the field of financial stability. 
+Although there is no such agreement at an international level at an equivalent level of detail, a ‘Memorandum of Understanding 
+on co-operation  between banking regulators, central banks, and finance ministries of the European Union in  Financial Crisis 
+Situations’ was signed earlier this year. It is fair to say, however, that this represents only a first step. 
+Finally, if the authorities decide to take measures to mitigate the systemic impact of a crisis—for example through emergency 
+liquidity injection of one sort or another—it is vital that the central bank, supervisor and ministry of finance act, and are seen to 
+act,  in  a  decisive  and  joined  up  way.  In  the  UK,  the  MOU  provides  for  strategic  management  of  a  crisis  at  meetings  of  a 
+‘Standing Committee’, the members of which are senior representatives of HMT (who chair the meetings), the Bank, and the 
+FSA. 
+BIS Review 79/2005 
+ 5
+liquidity  became  fragile,  then,  all  else  being  equal,  firms  would  be  more  vulnerable  to  liquidity 
+problems. 
+This  argues  for  the  authorities  in  all  jurisdictions  to  review  whether  the  liquidity  standards  that  they 
+currently impose are still appropriate, given the nature of firms and their activities. But globalization 
+also means that there is a case to look again at consistency of liquidity standards across jurisdictions. 
+As  central  banks  or  regulators  we  are  each  seeking  to  achieve  a  high  level  of  soundness  in  our 
+respective  financial  systems.  But  the  soundness  of  any  of  the  global  firms  that  are  a  major  part  of 
+those systems is a function of the standards imposed on the group and its major subsidiaries in many 
+jurisdictions. 
+None  of  this  necessarily  argues  for  full  harmonization  of  liquidity  standards  in  the  way  that  capital 
+standards  have  been  harmonized.  But  each  jurisdiction  inevitably  relies  to  a  degree  on  liquidity 
+standards  imposed  elsewhere  to  ensure  the  soundness  of  potentially  systemically  significant  firms. 
+Central banks and regulators need at least, therefore, to come to a common understanding of what 
+they  are  individually  seeking  to  achieve  with  liquidity  regulation.  Are  we,  for  example,  seeking  with 
+such regulation to limit the likelihood of crisis, or the impact of a crisis should one arise, or both? What 
+sort of liquidity problems are envisaged in the regulation? Most importantly, we should seek a common 
+understanding of the dividing line between ex ante insurance, and ex post resolution. 
+Conclusion 
+5. 
+This  is  my  last  Financial  Stability  speech  as  Deputy  Governor  and  I  would  like  to  leave  you  with 
+several thoughts. 
+First, I can’t help feeling that it is at times such as this, when we have a relatively benign environment, 
+that we should seek to address difficult and contentious issues of the kind I have been discussing. It is 
+certainly  true  that  the  risk  transfer  markets  and  the  financial  system  have  coped,  with  remarkable 
+success, and with few signs of instability, with the various events and shocks in recent years. But we 
+need  to  be  sure  that  we are not complacent  in  placing  trust  in  the  ability  of  the  financial system  to 
+continue to absorb shocks smoothly. 
+Second, policy makers have found it hard to discuss lender of last resort issues because they can so 
+quickly  raise  the  spectre  of  moral  hazard:  by  giving  too  many  clues  to  their  likely  response  to 
+instability, policy makers fear undermining market discipline and so making crises more likely. Equally, 
+public  policy  makers  should  recognise  the  distinction  between  clarity  about  processes—where 
+transparency to my mind can only be positive for confidence—and transparency about how decisions 
+might  be  reached  in  a  particular  case,  where  constructive  ambiguity  remains  important  as  a 
+mechanism  to  reinforce  market  discipline.  On  the  other  side  of  the  fence,  banks  and  financial 
+institutions have made impressive strides in coping with these realities, but may be reluctant to move 
+explicitly  to  transparent  best  practice  standards.  Maybe  this  is  for  fear  of  giving  up  competitive 
+advantage, or maybe it is a fear that regulators might seek to impose unwelcome prescription in how 
+they manage liquidity risks.  
+Third,  my  message  today  is  that  both  public  and  private  sectors  would  be  wise  to  overcome  these 
+inhibitions in the interest of developing mechanisms for providing liquidity in a manner that is fit for 
+purpose in today’s globalised world, and recognises the new environment and systemic conjuncture. 
+In  the  case  of  private  entities,  they,  to  my  mind,  could  show  greater  enthusiasm  and  leadership  in 
+coming up with sets of best practice standards, in the knowledge that failure in one institution could be 
+severely damaging for others.  
+I  say  this  in  the  knowledge  that,  in  the  case  of  the  public  authorities,  debate on  all  these  issues  is 
+rising  rapidly  up  the  agenda,  not  just  in  London  where  the  FSA  and  ourselves  have  a  shared 
+responsibility,  but  in  other  major  financial  centres  as  well.  Progress  on  understanding  all  of  these 
+difficult  issues  can  be  made  through  ongoing  informal  dialogue  amongst  the  central  banks  and 
+regulators that are most concerned with our largest financial institutions. I am encouraged that there 
+are a number of informal groups who are undertaking work in this area. These feed into official groups 
+such  as  the Financial  Stability  Forum  where  the  vital  connection  between  the public  and  private 
+sector can be made. 
+These are stimulating and fascinating issues, and I confidently expect them to occupy people’s minds 
+for many years to come. 
+6 
+ BIS Review 79/2005

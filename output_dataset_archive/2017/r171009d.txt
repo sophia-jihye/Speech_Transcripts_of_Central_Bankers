@@ -1,0 +1,425 @@
+    
+ 
+Keeping up with fast markets 
+ 
+Speech given by 
+Chris Salmon, Executive Director, Markets, Bank of England 
+   
+13th Annual Central Bank Conference on the Microstructure of Financial Markets, London 
+6 October 2017 
+  I am grateful to Tom Horn, Geir-Are Karvik, Joseph Noss, William Rawstorne, Jack Worlidge, 
+Jonathan Rand and to other colleagues for their comments and contributions.  
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+1 
+    
+ 
+Good morning and welcome to the second day of our conference.  Yesterday we heard from Richard 
+Payne’s session on the subject of algorithmic trading – a key development in market structure, enabled by 
+the greater prevalence of electronic trading.  This morning I want to step back a little further and look at the 
+broader implications of the moves toward more electronic and automated trading. 
+ One phenomenon this has given rise to – and perhaps the element which has most captured the public 
+imagination – is the series of ‘flash’ events which have occurred over recent years (Chart 1).   
+ The 2010 flash crash in US equities was the first such episode to generate headlines outside the industry.  
+Four years later, in 2014, we saw something similar in the US treasury market, the most liquid bond market 
+in the world. 
+ Closer to home, shortly after midnight in London on 7 October last year, the bid for sterling momentarily 
+evaporated, with the currency falling nearly 10% against the US dollar before quickly reversing (Chart 2).  
+This was a rare example of a flash event involving such a major, liquid, currency pair, and occurred during a 
+G20 meeting in Washington DC, prompting our Governors to swiftly make contact with the Bank’s London 
+dealing desk for an explanation.  They say markets never sleep; neither did our staff on that particular night! 
+ In these episodes, prices moved sharply, before largely reversing – all within a matter of minutes, and to a 
+degree that far exceeded changes in market participants’ perceptions of economic fundamentals. 
+ Of course, sharp movements in asset prices are nothing new in themselves.  Just look at the tulip mania 
+ending in 1637, and the equity crashes of 1929, 1987, and the bursting of the dot-com bubble in 2000.  What 
+is new is the speed, and the typical near-total reversal.  And the Bank’s responsibilities for monetary and 
+financial stability make it incumbent on us to keep up.   
+ What has happened? 
+ What is clear is that flash crashes are likely just one symptom of material changes in the structure of certain 
+markets and the nature of their participants.  Although these changes are ongoing, we need to understand 
+them and their drivers, if we are to succeed in correctly identifying any implications for financial stability.  
+ One should be wary of over-generalisation, particularly with an audience such as this, given the substantial 
+diversity in markets across both product types and geography.  I would nonetheless characterise the broad 
+trends of the past few decades as follows: 
+ Firstly, there has been an increase in electronic trading across most markets.  This is particularly the case in 
+markets for inherently liquid instruments – i.e. those which are simple and homogenous, such as equities 
+(Chart 3). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+2 
+ 
+2 
+   
+ 
+Second, at least initially, the migration from voice to electronic trading has allowed for far greater 
+transparency around the prices at which market participants are both willing, and able, to transact.  
+ This in turn has given rise to a plethora of new data, which combined with advances in technology, has led to 
+the growth of algorithmic trading, including that at high frequency (Chart 4). 
+ And, for the purposes of this speech, by ‘fast markets’ I mean those markets where these trends have gone 
+furthest: most obviously major equity, foreign exchange (FX) and futures markets. 
+ In these markets, there is less need for intermediaries to warehouse risk, due to the inherent liquidity 
+characteristics that attract a wide range of participants, making it easier to find a near-instant match between 
+buyers and sellers.  This has allowed the emergence of new technology-focused, smaller, non-bank, market 
+participants that specialise in using algorithms to execute and route orders at high speed.  Chief amongst 
+these are principal trading firms (PTFs), who trade on a proprietary basis, using sophisticated technology 
+(Chart 5).  Importantly, some PTF firms have been able to make markets at lower marginal cost than other 
+participants, including by closing positions or offsetting risk in correlated instruments in shorter time frames.  
+These competitive pressures have been one factor prompting many banks to warehouse less risk in fast 
+markets, changing their business model to act as agents who sit between end-users and PTFs and the 
+remaining, typically large, bank market-makers.1 
+ To differing degrees across markets, regulation has also played a role in encouraging such activity.  In US 
+equity markets, for example, Regulation National Markets System (2005) required brokers to execute client 
+orders at the best price offered electronically on any venue, leading to fleeting arbitrage opportunities for the 
+fastest moving market participants.  In Europe in 2007, MiFID laid the groundwork for more competition, 
+leading to different types of trading venues and more market fragmentation, also contributing to the growth of 
+high-frequency trading.2  And this regulatory influence will continue, with MiFID II set to introduce a whole 
+host of new rules which bear on fast markets.  
+ 
+As Governor Carney has often stressed, central banks care deeply about the operation of financial markets.3  
+For the purposes of this speech, I will examine the implications of these developments through two prisms:  
+market efficiency and market resilience. 
+                                                          
+1 See BIS (2016), ‘Downsized FX markets: Causes and Implications’. 
+2 The Markets in Financial Instruments Directive (MiFID) was introduced in Europe in November 2007.  It increased competition 
+between traditional stock exchanges and alternative trading venues.  The resulting fragmentation contributed to the growth of high-
+frequency trading.  See CESR (2009), ‘Impact of MiFID on equity secondary markets functioning’, CESR/09-355, and ESMA (2014), 
+‘High-frequency trading activity in EU equity markets’, Economic Report 1. 
+3 See Carney, M (2015), ‘Building real markets for the good of the people’. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+3 
+ 
+3 
+   
+ 
+Fast markets and market efficiency  
+ There is much evidence that these developments have improved the day-to-day liquidity and efficiency of 
+these markets; that is, the degree to which participants are able to transact in reasonable size in a timely 
+manner, at or close to prevailing prices – giving rise to prices that accurately reflect market participants’ 
+aggregate view of asset values. 
+ Empirical research has found that, on average, the presence of high-frequency traders has been associated 
+with improved headline measures of liquidity, at least for trading in small size.  There are two reasons why 
+this might be the case.  First, as mentioned above, because automated traders are able to achieve low 
+operating costs per transaction, they are able to charge a narrower bid-ask spread as compensation for 
+providing market making services (Chart 6).  Second, their speed allows them to update or cancel their (limit) 
+orders quickly as news arrives, meaning their quotes are less likely to be stale when they are executed 
+(Chart 7).4  There is also evidence to suggest the presence of high frequency trading can improve market 
+efficiency.5 
+ These are potentially important benefits.  The ability to undertake transactions at – or close to – prices that 
+reflect economic fundamentals facilitates the proper allocation of capital, as well as the management and 
+transfer of risk.  It also gives borrowers the confidence to plan, and savers to finance, productive investment.  
+Efficient markets also allow for the transmission of monetary policy by allowing changes in policy interest 
+rates to be reflected quickly across financial markets and assets. 
+ The rise in automated high-frequency trading has, however, also increased the incentive for market 
+participants to protect information that could signal their trading intentions.  This is to reduce the risk of being 
+disadvantaged by trading with other – faster-moving – market participants, and thus receiving a worse price 
+(a phenomenon sometimes referred to as ‘slippage’).6 
+ This strategic interaction has manifested itself in two observable trends. 
+ First, there has been a partial reversal in the trend toward greater price transparency I highlighted earlier.  
+Market participants have embraced other forms of trading, which differ to traditional exchanges either by 
+offering less price transparency and/or a narrower range of counterparties.  
+                                                      
+4 This effect has been explicitly modelled by Jovanovic, B and Menkveld, A (2011) and empirically documented in a number of instances 
+and trading venues – e.g. by Hendershott, T, Jones, C and Menkveld, A (2011) for the NYSE, Riordan, R and Storkenmaier, A (2011) 
+for the Deutsche Börse, and Hasbrouck, J and Saar, G (2013) for the Nasdaq. 
+5 See Benos, E, Brugler, J and Hjalmarsson, E (2015), ‘Interactions among high-frequency traders’, Bank of England Working Paper, 
+No. 523. 
+6 See Kervel, V, and Menkveld, A. J (2017), ‘High-frequency trading around large institutional orders’, Working paper. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+4 
+ 
+4 
+   
+ 
+In equity markets, for example, there has been a shift away from trading on ‘lit’ exchanges7 (Chart 8).  The 
+market has moved more towards ‘off-book’ trading, where participants transact bilaterally, seeking not to 
+reveal information on their trading intentions, and to dark venues8, such as broker-crossing networks9 and 
+some multi-lateral trading facilities.10  Meanwhile, FX markets have seen a move away from ‘exchange-like’ 
+platforms11 toward trading methods offering a more restricted range of counterparties and/or offering visibility 
+to participants on who they are trading with (Chart 9).  The aim is to disclose less information to the broader 
+market, while counterparty awareness allows monitoring of metrics such as fill ratios and market impact over 
+time. 
+ Second, market participants’ desire to avoid revealing information on their trading intentions and seek the 
+best price has led them to split up large orders, including via the use of algorithms.  This can be seen in a 
+reduction in trade sizes (Chart 10), as well as an increase in the rate at which orders in some markets are 
+updated or cancelled. 
+ Here at the Bank we want end-users to both benefit from and be confident in the effectiveness of financial 
+markets.12  So whilst these behaviours are presumably rational – and cost-effective – for individual market 
+participants, we are mindful that an aggregate reduction in transparency has the potential to hamper efficient 
+price discovery.13  Moreover, the steps some participants are taking to conceal information raises questions 
+about how the aggregate efficiency benefits from faster markets are shared.  Finally, the occurrence of flash 
+crashes indicates that, even if fast market prices are more efficient in general, they are not always so. 
+ Collectively, these observations suggest we should at least temper the headline conclusion that fast markets 
+are more efficient:  as is often the case, the story here is somewhat nuanced. 
+ Fast markets and market resilience 
+ I want to look now at the implications for resilience, both of individual firms and of markets – that is, whether 
+they can function effectively in bad times as well as good. 
+ Again, fast markets may bring some important benefits.  For example, because they place less reliance on 
+risk warehousing by intermediaries, they were generally resilient during the 2008-09 financial crisis.  
+Stresses were concentrated in those markets that had relied on dealer balance sheets: in our case the Bank 
+of England introduced a ‘market maker of last resort’ scheme for corporate bond markets in 2009 to offset 
+                                                      
+7 A regulated multilateral trading system, subject to a range of regulatory requirements relating to: pre and post-trade transparency and 
+non-discriminatory access. 
+8 A trading venue where counterparties can post trading interest without making such information publicly available. 
+9 Where a bank or broker matches clients’ buy and sell orders electronically. 
+10 Where buyers’ and sellers’ orders are matched anonymously and executed at an agreed-upon reference price. 
+11 Electronic platforms operating via a central limit order book but that are not regulated exchanges. 
+12 See Bank of England (2015), ‘Open Forum: Building Real Markets for the Good of the People’, June. 
+13The available evidence is inconclusive.  Some studies have found use of less transparent venues, such as dark pools, beneficial for 
+pricing efficiency, but often only up to a certain share of the market.  See Aquilina, A, Diaz-Rainey, I, Ibikunle, G and Sun, Y (2017), 
+‘Aggregate Markets Quality Implications of Dark Trading’, FCA Occasional Paper, No. 29. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+5 
+ 
+5 
+   
+ 
+the dysfunction in that market; the question of a similar intervention in equity or FX markets simply never 
+arose. 
+ But fast markets, and associated changes in market structure, affect the nature and distribution of risks in 
+ways we are only beginning to understand.  Let me explore three examples: first, the implications of flash 
+crashes; second, the changing distribution of risks across firms; and third the potential vulnerability of critical 
+‘nodes’ in fast markets. 
+ Implications of flash crashes 
+ Though flash crashes are headline grabbing, and occasionally sleep-denying, they have so far had limited 
+systemic impact.  These episodes have been short-lived, and prices have stabilised quickly.  In some sense 
+this is quite natural: a sharp movement in market prices exceeding that justified by fundamentals should 
+present a highly profitable investment opportunity for the timely investor.  
+ While it is reasonable to draw comfort from the resilience of fast markets and the lack of spill-overs so far, it 
+is important we recognise the limits of our understanding. 
+ Having been heavily involved in the analysis of sterling flash episode I am confident that we are able to 
+provide forensic ex-post explanations.  The Bank for International Settlements (BIS) Markets Committee 
+study, which the Bank of England helped to author, demonstrates that14; as does the Joint Staff Report on 
+the 2014 US Treasury flash rally.15  But I doubt we can fully understand what conditions may trigger similar 
+future events or completely anticipate how they might unfold.16 
+ Specifically, in my view, we are not yet in a position to rule out that future flash episodes might interact with 
+aspects of financial market infrastructure in a way that gives rise to longer-lasting disruption.  Suppose, for 
+example, that a future flash episode happened to coincide with benchmark fixings in foreign exchange 
+markets, or a margin call related to equity or derivative markets.  The resulting impact on the recorded values 
+of a range of assets might risk mechanically prompting further sales and price falls. 
+ The changing distribution of risks for individual firms  
+ Moving on to my second example, even in the absence of systemic spill-overs from flash episodes, fast 
+markets alter the pattern of risks that individual market participants are exposed to.  And there good grounds 
+for concluding that more needs to be done to ensure market participants take account of this consistently.  
+                                                      
+14 See BIS (2017), ‘The sterling ‘flash event’ of 7 October 2016’, January. 
+15 See Joint Staff Report (2015), ‘The US Treasury Market on October 15, 2014’. 
+16 In this spirit, the FPC concluded following the sterling flash event that “such disruptions underscore the concern that liquidity in some 
+markets may have become more fragile in recent years”.  See Record of the Financial Policy Committee Meetings held on 23 and 29 
+November 2016. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+6 
+ 
+6 
+   
+ 
+Use of algorithms does not change the fundamental risks associated with trading in financial markets (e.g. 
+market, counterparty and operational risks).  But use of high-frequency trading algorithms does change their 
+relative intensity and can materially increase the potential to build up significant intraday positions.  This 
+latter point is most obviously true for those bank and non-bank intermediaries that specialise in high-
+frequency trading.  And though these firms should be expert in managing such risks, history shows this is not 
+a given.  Most famously, in August 2012, Knight Capital – a firm engaged in market making and at the time 
+the largest trader in US equities – lost $460 million as a result of an undetected manual error in its 
+algorithmic trading software.  And in 2013, an error in a trading algorithm at HanMag Securities – a Korean 
+brokerage firm – led it to place erroneous equity option trades, generating losses in excess of its capital. 17 
+ As I noted above, end-users – corporates and asset managers – are increasingly splitting up larger trades 
+into smaller pieces and trading them over a longer period.  Doing so exposes them to more execution risk; 
+that is, the risk that prices move against them before they have finished transacting – which traditionally was 
+more the preserve of intermediaries.  Some end-users are also now automating this trading process through 
+the use of algorithms.  Indeed, a recent Greenwich Associates survey found 21% of institutional asset 
+managers and 10% of corporates do so in foreign exchange markets.18  In so doing they swap one set of 
+risks for another, and the examples of losses by specialist firms in periods of fast market turbulence cautions 
+against assuming that all end-users will effectively manage the new risks associated with the use of 
+algorithms. 
+ These risks can exist through indirect as well as direct exposure to developments in fast markets.  Many 
+exchange-traded instruments (such as government bond futures and Exchange Traded Funds (ETFs)) are 
+intrinsically linked with less liquid underlying (slower market) instruments.  ETFs clearly bring many business-
+as-usual benefits which market participants value – for example, the convenience of being able to transfer 
+risk at high-frequency via standardised, exchange-traded securities in fast markets. 
+ There is a question, however, of how these interlinkages work in stress.  During the turbulence of August 
+2015, for example, equity investors flocked to trade in exchange-traded funds, causing ETFs to appear to be 
+priced at large discounts to the value of their – sometimes less liquid – underlying security (Chart 11). 
+ On this occasion, once again, the dislocation was short-lived.  
+ But if a future stress in fast markets – such as those for ETFs – were to persist for a longer period, it might 
+spill over to cause stress in other linked markets, including for less liquid underlying instruments, including 
+government or corporate bonds as well as equities, leading to wider implications for financial stability. 
+                                                       
+17 This also caused the firm to default at the CCP, creating a loss that was mutualised among the rest of the CCP’s members. 
+18 See Greenwich Associates (2016), ‘Long-term investors embrace FX algos’. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+7 
+ 
+7 
+   
+ 
+There is therefore a need to ensure that market participants’ risk management frameworks keep pace with 
+the speed at which these markets are capable of moving, taking into account the speed of possible shocks 
+and the potential for propagation, including to slower markets. 
+ The potential vulnerability of critical nodes in fast markets 
+ Finally, it is unclear whether we yet fully understand how the migration towards fast markets has changed the 
+nature or location of critical nodes within the system, and the risks to which they are exposed. 
+ Any intermediation model relies upon a particular infrastructure and has critical nodes.  Traditional over-the-
+counter (OTC) markets, for example, are critically dependent on the willingness of dealers to warehouse risk 
+in return for the informational advantage that seeing the flow provides.  
+ Such frictions have started to take new forms in fast markets.  In particular at the same time as high-
+frequency trading activity has increased, a number of banks have stepped back from acting as market 
+makers and have assumed a more infrastructural role.  But new market participants still rely on banks to 
+provide market access and extend them credit when engaging in algorithmic trading, through banks’ prime 
+brokerage and clearing businesses.  
+ Providing a competitive service to such technologically advanced clients – particularly those trading at very 
+high frequency – requires substantial investment in technology and infrastructure, including that to facilitate 
+the real-time monitoring of exposures and risk management.  The costs associated with this are high, and 
+serve as an effective barrier to entry.  As few banks provide these services, this leads to a concentration of 
+nodes of market access for short-term liquidity providers.   
+ The changing role of banks/dealers in fast markets prompts the question whether the nature of potentially 
+disruptive risks is also changing.  One obvious concern would be if a prime broker or clearing bank was 
+paralysed, including for reasons unconnected to its activity in fast markets – say because of a cyber attack.  I 
+think it is fair to say that our understanding of how market functioning would respond in such a scenario – i.e. 
+one in which a number of, in particular high-frequency, liquidity providers were denied market access – 
+remains relatively limited.  
+ If there is a common theme across all three of my examples, it is the limits of our understanding. 
+None of the points I have raised with regard to market resilience are wholly new.  We at the Bank are 
+following developments in the structure of these markets and their implications for financial stability closely, 
+including through discussions within the Bank’s Financial Policy Committee (FPC).19  And as regulator both 
+of many participants in electronic markets and some of those markets themselves, the Financial Conduct 
+                                                      
+19 See, for example, Shafik, M (2015), ‘Dealing with change:  liquidity in evolving market structures’ and the analysis of the sterling flash 
+crash in box 3 of the Financial Stability Review, November 2016 (pages 39-41). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+8 
+ 
+8 
+   
+ 
+Authority (FCA) too has remained deeply engaged and responsive to those developments which fall under its 
+purview.20 
+ Likewise, in none of these cases have I argued that there is a risk flashing red that requires an immediate 
+response.  Rather in the best traditions of central banking, my conclusion is that the authorities as a whole 
+need to remain vigilant and deepen our understanding, so that we can take appropriate action in the future if 
+required – be that from a macro-prudential or supervisory perspective. 
+ Looking to the future 
+ Financial markets are ever in a state of flux. 
+ In particular, the trend toward greater automation of trading – my focus today – looks certain to continue, 
+both in already fast markets as well as those currently more reliant on traditional intermediation methods. 
+ Market participants have a clear interest here in understanding how risks to their businesses are evolving 
+and in managing them prudently.  
+ For the authorities, we need to dig deep to understand what this means for the financial system as a whole: 
+both to appreciate the benefits and to remain vigilant as to the risks.  This remains very much in focus for the 
+Bank and the FCA.  It is important for us to ensure that regulation – both of individual participants, market 
+infrastructure and the financial system as a whole – keeps pace with the changes in the type and distribution 
+of risk.  Only then can it provide an adequate guard against risks to prudentially regulated institutions and 
+their counterparties. 
+ Regulation is most effective when informed by a rich and diverse set of research – and here we need help 
+from the academic community.  There is enormous potential for varied and interesting research in the area of 
+fast markets.  I have covered just some of the questions which seem to us to be particularly relevant at 
+present – and as markets evolve no doubt new topics and questions will present themselves.  I encourage 
+those of you with an interest in this area to keep running with it –your input is of great value to us. 
+ Keeping up with fast markets isn’t easy.  But with your help I’m sure we can rise to the challenge of ensuring 
+that fast markets are there to serve the real economy, both in good times and bad. 
+ Thank you. 
+                                                        
+20 For example, see Schooling Latter (2016), ‘Electronification of trading’. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 9 
+ 
+9 
+  
+ 
+Chart 1  Recent episodes of heightened short-
+term volatility in liquid markets(a)(b) 
+Sources:  Bloomberg and Bank calculations 
+(a) Sterling flash event 7 October 2016 (blue), US equity 
+markets flash-crash 6 May 2010 (magenta), and US Treasury 
+market flash-rally 15 October 2014 (orange). 
+(b) Data shown in two minutes intervals, and may not fully 
+capture the lowest traded prices during each event 
+       Chart 2  Thomson Reuters Matching GBP/USD price and order book behaviour in the sterling flash 
+event of 7 October 2016(a) 
+Source:  BIS Markets Committee report: “The sterling flash event of 7 October 2016” 
+(a) The blue and red circles here represent resting bid and offer limit orders, respectively, in the order book.  The black line 
+represents the implied mid-price, and the intensity of the blue and red colours signifies the size of the order. 
+     
+All speeches are available online at www.bankofengland.co.uk/speeches 
+10 
+ 
+10 
+   
+ 
+Chart 3  Numbers of electronic and floor equity 
+exchanges(a) 
+Chart 4  Share of algorithmic trading in FX spot 
+markets 
+Sources: Jain (2005), Hendershott & Seasholes (2006), 
+Sources: Bank of International Settlements and Electronic 
+exchange websites and Bank calculations 
+Broking Services (EBS) 
+ (a) Based on the date of automation of largest international 
+stock exchanges across 119 countries.   
+   Chart 5  Estimated proportion of PTF activity in 
+Chart 6  Yearly average bid-ask spreads for 
+total US equity trading 
+FTSE 100 constituents 
+    Sources: Tabb Group, reproduced from Credit Suisse – ‘We 
+Source: Thomson Reuters 
+are all High Frequency Traders Now’ 
+      
+All speeches are available online at www.bankofengland.co.uk/speeches 
+11 
+ 
+11 
+   
+ 
+Chart 7  Latency on the LSE and number of US 
+Chart 8  Share of trading across venues in UK 
+consolidated tape quote updates 
+equity markets 
+Source: Brogaard (2013), LSE Group, Credit Suisse Research 
+Source: Fidessa 
+ – ‘We’re All High Frequency Traders Now’ 
+    Chart 9  Share of trading across venues in US 
+spot FX markets 
+Chart 10  Average trade sizes in selected 
+equity(a), FX(b) and corporate bond markets(c) 
+     Source: US Foreign Exchange Commission 
+Sources: US Foreign Exchange Committee, World 
+Federation of Exchanges, FCA, Mizrach (2017) and Bank 
+calculations 
+(a) Trade sizes on London Stock Exchange (LSE) 
+(b) Based on US Foreign Exchange Committee survey of  
+US-based participants in FX spot markets 
+(c) UK and US corporate bond markets 
+    
+All speeches are available online at www.bankofengland.co.uk/speeches 
+12 
+ 
+12 
+   
+ 
+Chart 11 Deviation from NAV in equity and fixed 
+income ETFs (a) 
+Sources: Bloomberg and Bank calculations. 
+(a) Average across the 50 largest equity and fixed income 
+ETFs globally by assets. 
+          
+All speeches are available online at www.bankofengland.co.uk/speeches 
+13 
+ 
+13 
+ 

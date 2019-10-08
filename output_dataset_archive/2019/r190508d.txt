@@ -1,0 +1,1411 @@
+      
+Is All Economics Local? 
+ 
+ 
+Speech given by 
+ Andrew G Haldane 
+Chief Economist 
+Bank of England 
+ Sheffield Political Economy Research Institute (SPERI) Annual Lecture 
+University of Sheffield 
+7 May 2019 
+       The views expressed here are not necessarily those of the Bank of England or the Monetary Policy 
+Committee.  I would like to thank Shiv Chowla, Fergus Cumming, Alastair Firrell, Ryan Lovelock, 
+Rebecca Mari, Georgina Parker and Doug Rendle for their help in preparing the text.  I would like to 
+thank Arjun Ahluwalia, Mike Anson, Kate Barker, Paul Clarke, Diane Coyle, Tom Forth,  
+Clare Macallan and Rachael Muir for their comments and contributions.  
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+1 
+    It is wonderful to be here at the University of Sheffield, my alma mater, to give the SPERI Annual Lecture.  I 
+have been a great admirer of SPERI’s work over the years.  It has played an important role in shaping the 
+conversation  about  public  policy,  economically  and  socially,  locally  and  nationally.    My  topic  today  echoes 
+many  of  the  themes  SPERI  has  championed  –  the  role  of  local  perspectives  and  policies  in  better 
+understanding the economy and in shaping a better society. 
+ Tip O’Neill, the former Speaker of the United States House of Representatives, famously said “all politics is 
+local”.  Those words probably apply to politics everywhere.  They have also probably been true at every point 
+in  history.    But  at  this  particular  point  in  history,  with  local  or  national  identities  becoming  an  increasingly 
+potent force shaping our economies and societies, those words have a particular resonance.     
+ That set me thinking.  Does the O’Neill hypothesis hold for our economies too?  Is all economics local?  Are 
+our economies better understood as a nation-state solid or as a set of  loosely-linked local clusters?  Might 
+this  have  implications  for  how  we  map,  model  and  manage  the  economy?    And  might  it  even  have 
+implications for central banks, despite their policies operating nationally rather than locally? 
+ I  want  to  explore  these  questions,  tentatively  and  provisionally,  first  by  drawing  some  simple  maps  of  the 
+economy at different spatial resolutions.  These maps provide some insight into how “local” economies really 
+are.  How large are differences between-region?  How do they compare with differences within-region?  And 
+what do we know about flows of factors, including people, between and within regions? 
+ This  local  lens  poses  some  interesting  questions  about  how  the  economy  should  be  modelled.    Existing 
+models  of the macro-economy operate at a high  level of aggregation.   When is  this  telescopic lens  on  the 
+economy the most useful one?  When might a microscopic, or local, lens offer additional insights?  And how, 
+practically, can those microscopic perspectives be pieced together to give a macroscopic overview? 
+ When it comes to managing the economy, this has been fertile ground for policy debate recently.  Several 
+reports have made the case for rethinking local economic policies, including Michael Jacobs’ work as part of 
+the IPPR Commission on Economic Justice.1  The Government has put “place” centre-stage in its own policy 
+agenda.2  I discuss ways in which analytical techniques and data might help in shaping those policy choices. 
+ Some areas of public policy can only operate at the national rather than local level, such as monetary policy.  
+Even  then,  however,  a  local  perspective  can  be  important  for  better  understanding  the  economic  issues 
+people face and for building understanding and trust among those people.  That is why the Bank of England 
+has recently augmented its own local initiatives, as I will discuss.  Other central banks are following suit.   
+                                                       
+1  IPPR Commission on Economic Justice (2018).  See also Collier (2018). 
+2  Department for Business, Energy and Industrial Strategy (2017). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 2 
+ 
+2 
+  In his recent book, Raghu Rajan blames neglect of the Third Pillar of society – community – relative to the 
+market  and  the  state  (the  first  two  pillars)  for  rising  societal  disconnection  and  mistrust.3   Rajan  is  right.  
+Economic policymakers, including central banks, have a pivotal role to play in resurrecting that Third Pillar, in 
+making economic policy local, to better support our economies and societies.  Here is how. 
+ Mapping the Economy 
+ Let me begin with some simple mapping of the economy.  The most widely-used metric of economic success 
+is  Gross  Domestic  Product  (GDP).4   In  simple  terms,  this  measures  how  much  the  average  person  has 
+available  to  spend  on  the  good  things  in  life.    If  asked,  most  people  would  say  this  is  a  decent,  if  partial, 
+proxy for their overall economic health, even if they express bafflement at the concept of GDP. 
+ Aggregate GDP is far from being the only possible proxy for economic health.  The lived experience of most 
+people depends on more than their income.  A rich strand of literature has developed alternative measures of 
+people’s well-being.  As well as economic and financial health, these measures include physical and mental 
+health, their families,  friends and communities.5  This work  tells us  that people’s sense of well-being, if not 
+their GDP, is shaped by local factors, underpinned by the Third Pillar. 
+ Another  reason  why  aggregate  GDP  may  not  chime  with  most  people’s  lived  experience  is  because,  by 
+definition, most people are not “average”.  Economists use the idea of the average or representative agent 
+as a convenient shortcut.  But that agent is a fiction.  People’s lived experiences often differ very materially, 
+even within a single country or region – spatially, socially and financially.  For most people’s everyday lives 
+and everyday decisions, all economics is local. 
+ These imperfections in GDP are well-understood.  They certainly do not fatally undermine its usefulness as a 
+means of keeping economic score.  They do, however, suggest it can usefully be complemented by looking 
+at the economy through different lenses.  One of those different lenses comes from mapping the economy 
+bottom-up, rather than top-down, aggregating microscopic experiences into a macroscopic view.   
+ In  medicine,  we  use  a  variety  of  different  tools,  at  different  resolutions,  to  diagnose  problems  and  when 
+prescribing solutions:  thermometers, blood pressure monitors, X-rays, CT scans, ultrasound and blood tests.  
+Rarely does one of these measures provide all of the diagnostic answers.  Using them in combination can, 
+however, help reach robust clinical conclusions.  And that “micro-to-macro” approach is commonplace when 
+understanding other complex adaptive systems like the body, natural, physical and social. 
+                                                       
+3  Rajan (2019). 
+4  Coyle (2014).   
+5  For example, Helliwell, Layard and Sachs (2019), Ngamaba (2017) and Commission on the Measurement of Economic Performance 
+and Social Progress. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+3 
+ 
+3 
+   Like our bodies, the economy is also a complex, adaptive system.  As in medicine, it can be measured using 
+different tools at different resolutions.  There are various metrics of societal health, in addition to GDP.  For 
+example, there has been increasing interest recently in measures of physical and mental health.6  A number 
+of  statistical  agencies,  including  in  the  UK,  now  gather  direct  and  indirect  metrics  of  people’s  well-being.  
+Here we map a selection of those alternative metrics, based around health, wealth and happiness. 
+ A  different  sort  of  lens  comes  from  viewing  these  metrics  at  different  spatial  resolutions  –  regional,  local 
+authority, postcode  even.   This allows a  “micro-to-macro” jigsaw of the economy to be  pieced  together, as 
+with other complex systems.  Patterns in these systems often self-replicate at different resolutions;  they are 
+“fractal”. 7  One interesting question is whether economic systems also exhibit self-replicating patterns.  If so, 
+this has implications for how we understand and model them. 
+ We consider these questions using a sequence of maps.  Many of these maps are not new.   For example, 
+Philip  McCann  from  the  University’s  Productivity  Insights  Network  (PIN)  has  published  an  excellent  book 
+setting out a range of fascinating regional facts and maps.  So too have others.8  These maps provide useful 
+context when testing the Tip O’Neill hypothesis and when modelling and managing the economy. 
+ To provide the clearest visual guide, these maps are scaled by economic rather than geographic size  
+– so-called cartograms.9  Each region is initially scaled to have the same geographic area and then rescaled 
+in line with economic differences.  This means some areas shrink (such as Scotland) while others expand 
+(such as London) even without differences between them.  This helps when visualising local differences. 
+ (a) 
+  Differences between regions 
+ To fix ideas, Charts 1a and 1b plot a map and an accompanying cartogram of population by region in the UK 
+and,  by  way  of  comparison,  Germany.    It  uses  a  resolution  one-level  below  the  national  –  administrative 
+“regions” in England and each of Scotland, Wales and Northern Ireland.  Comparing the map and cartogram 
+suggests  the  UK  has  a  significant  demographic  skew  towards  London  and  the  South-East.    Germany  has 
+nothing like the same skew, with the cartogram and map little different.10 
+ A  key  focus  of  work  among  economic  geographers  is  the  importance  of  agglomeration  effects  –  that  is, 
+increasing returns to economic scale at the spatial level.11  If those effects are powerful, and if workers are 
+one of their most important sources, we would expect cartograms to have similar properties when looked at 
+by population, income (per head) and wealth (per household).  More should not only be merrier but wealthier.   
+                                                       
+6  For example, Case and Deaton (2017). 
+7  For example, Viscek, Shlesinger and Matsushita (1994). 
+8  McCann (2016), Centre for Cities (2019), What Works Centre for Local Economic Growth (2018). 
+9  See Dougenik, Chrisman and Niemeyer (1985). 
+10  Put differently, the correlation between geographic area size and population in the UK is in fact slightly negative (-0.05) while it is 
+relatively high and positive (0.7) in Germany.  
+11  Viladecans-Marsal (2004) and Rosenthal and Strange (2003), example. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+4 
+ 
+4 
+  Chart 1a:  Map (LHS) and cartogram (RHS) of population in the UK  
+                    
+All speeches are available online at www.bankofengland.co.uk/speeches 
+5 
+ 
+5 
+  Chart 1b:  Map (LHS) and cartogram (RHS) of population in Germany 
+ 
+Sources:  Eurostat and Bank calculations. 
+Notes:  Charts show population in 2018 for NUTS 1 regions.  Cartograms resized by population. 
+ 
+   As  Charts  2  and  3  show,  broadly-speaking  that  is  the  case.    The  income  per  head  cartogram  suggests  a 
+shrunken  North  and  a  swollen  South.    The  gap  between  richest  and  poorest  region  is  around  150%.    For 
+wealth per household, the North-South divide is also large, with a gap between richest and poorest of 130%.  
+These are striking differences.  But are they unusual compared either with the past or other countries? 
+            
+All speeches are available online at www.bankofengland.co.uk/speeches 
+6 
+ 
+6 
+  Chart 2:  Cartogram of UK income per head  
+  
+Sources:  Eurostat and Bank calculations. 
+Notes:  Purchasing power standard (PPS) per inhabitant for NUTS 1 regions. 
+ 
+        
+All speeches are available online at www.bankofengland.co.uk/speeches 
+7 
+ 
+7 
+  Chart 3:  Cartogram of Great Britain wealth per household  
+  
+Sources:  ONS Wealth and Assets Survey and Bank calculations. 
+Notes:  Data refer to 2014-16 for NUTS 1 regions, re-sized and coloured by median household  wealth.  No equivalent 
+data available for Northern Ireland. 
+ 
+      
+All speeches are available online at www.bankofengland.co.uk/speeches 
+8 
+ 
+8 
+   On  the  first  of  those,  Chart  4  plots  the  distribution  of  income  per  head  across  UK  regions  on  three  dates:  
+1997, 2007 and 2016.  All of the distributions are centred on mean levels of income in 2016.  This suggests a 
+modest increase in the degree of regional income dispersion over time.  The 2016 distribution has somewhat 
+fatter tails, lower and upper, than in earlier periods.12 
+  Chart 4:  Distribution of UK income per head over time (mean-aligned) 
+Sources:  ONS and Bank calculations. 
+Notes:  Chart shows regional gross disposable income for different time periods at current basic prices, centred around 
+the 2016 mean.  Observations for each region are weighted by the population of each region. 
+ 
+Chart  5  compares  the  regional  distribution  of  income  per  head  in  the  UK,  France  and  Germany  in  2016, 
+again centred on mean income levels in the UK in 2016.  It suggests a materially wider regional dispersion in 
+incomes in the UK than in France and Germany.  The gap between richest and poorest regions in the UK is 
+almost twice as large as in France and three-quarters larger than in Germany.13        
+                                                         
+12  Comparing NUTS 3 regions. 
+13  Figures refer to income differences at the NUTS1 regional level, using Purchasing Power Standard (PPS). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+9 
+ 
+9 
+  Chart 5:  Distribution of UK, France and Germany income per head in 2016 
+Île de  
+France 
+Oberbayern 
+Inner London - 
+West 
+  Sources:  Eurostat and Bank calculations. 
+Notes:    Purchasing  power  standard  (PPS)  per  household  in  NUTS2  regions  for  2016  centred  around  the  UK  mean.  
+Excludes NUTS region ‘FRY’ (‘Départements d'outre mer'). 
+ 
+These  regional  differences  in  GDP  are  found  in  alternative  metrics  of  economic  health,  such  as  pay  
+(Chart 6).14  They are also mirrored in medical health.  Chart 7 plots one measure of medical health by region  
+– average life expectancy.  This mirrors regional income differences.  Richer people tend to live longer.  The 
+gap between highest and lowest life expectancies regionally is around 3.4 years, or 4.2% of the UK average.   
+                                                                 
+14  Haldane (2019). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+10 
+ 
+10 
+  Chart 6:  Cartogram of UK pay  
+ Sources:  ONS Annual Survey of Hours and Earnings (ASHE). 
+Notes:  UK NUTS 1 regions re-sized and coloured by median gross weekly earnings (£) in 2018. 
+ 
+        
+All speeches are available online at www.bankofengland.co.uk/speeches 
+11 
+ 
+11 
+  Chart 7:  Cartogram of UK life expectancy  
+   
+Sources:  ONS and Bank calculations. 
+Notes:  Life expectancy at birth by local area in the UK (years) for UK NUTS 1 regions, re-sized and coloured by mean 
+life expectancy in 2010-12. 
+ 
+If  we  turn  to  an  alternative  measure  of  health  –  psychological  health  –  the  picture  changes  dramatically.  
+Chart  8  plots  a  subjective  measure  of  well-being  on  a  regional  basis.15   This  is  the  mirror  image  of  the 
+income and wealth maps.  Well-being is lowest in the richest region (London) and highest in a region where 
+incomes are low (Northern Ireland).  Income may buy you many things, but happiness is not one of them.16 
+ 
+                                                      
+15  This is based on answers to the question:  “Overall, how satisfied are you with your life nowadays?”  Other questions regarding well-
+being yield very similar conclusions.   
+16  Easterlin (1974) and Easterlin (2013), for example, point out that while wealthier people tend on average to be happier, happiness 
+does not increase in line with GDP per head.  Unemployment and debt arrears also have a large adverse psychological impact on 
+individuals, above-and-beyond their direct impact on income and wealth (Wildman (2003) and Taylor et al (2007)). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+12 
+ 
+12 
+   While simple, these maps suggest there is important information on economies and societies to be found by 
+peering  through  different  lenses:    lenses  that  operate  at  different  resolutions,  as  the  striking  UK  regional 
+differences  in  income,  wealth  and  health  demonstrate;    and  lenses  that  focus  on  different  economic 
+attributes, as the striking differences between the UK’s regional income and well-being maps demonstrate.     
+ Chart 8:  Cartogram of UK well-being  
+Sources:  ONS Annual Population Survey (APS) and Bank calculations. 
+Notes:    Responses  to  the  question,  “overall,  how  satisfied  are  you  with  your  life  nowadays?”  where  0  is  ‘not  at  all 
+satisfied’ and 10 is ‘completely satisfied’ for 2016/17.  UK NUTS 1 regions re-sized and coloured by mean response. 
+ 
+ (b) 
+Differences within regions 
+ Given  these  striking  regional  differences  in  health,  wealth  and  happiness  across  the  UK,  an  interesting 
+supplementary  question  is  how  those  differences  compare  within-regions.    As  we  alter  the  resolution  at 
+which  we  view  the  economy,  do  these  differences  narrow?    Do  economic  patterns  look  different  when 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+13 
+ 
+13 
+   comparing them within and between regions?  Or are these patterns self-similar at different resolutions, as 
+when we use a microscope to study the shoreline? 
+ Chart 9 provides one visualisation of these patterns at different resolutions.  These “violin” plots compare the 
+distribution of income per head at the regional (NUTS 1) level with the distribution at NUTS 2 and NUTS 3 
+level.    If  between-region  income  differences  were  much  larger  than  within-region  differences,  we  would 
+expect the violin to be much longer on its left than on its right hand side.   
+ This is clearly not the case.  The distributions of income within and between regions are in fact quite similar, 
+at both the NUTS 2 and 3 levels.  If anything, the distribution of outcomes within each region appears to be a 
+little larger than the distribution between regions.  If anything, income inequalities within a region appear to 
+be larger than income inequalities between regions.   
+ Chart 9:  ‘Violin’ plot of GVA per head  
+Sources:  ONS and Bank calculations. 
+Notes:  Regional gross value-added (GVA, income approach) per head of population at current basic prices for 2017 for 
+NUTS  1,  2 and 3,  log-scale.    Regional  figures  weighted by  population.    Dark  bar  shows  interquartile range,  dots  show 
+median and circle shows mean. 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+14 
+ 
+14 
+    Charts 10, 11 and 12 are violin plots for wages, health and well-being at higher resolutions.  For health and 
+well-being,  differences  within  a  region  or  local  authority  are  materially  larger  than  differences  between 
+regions.  The standard deviation of health outcomes at the local authority level is almost 3 times larger than 
+at  the  regional  level.    The  difference  between  the  highest  and  lowest  life  expectancy  among  UK  local 
+authorities is 12 years, or 15% of the average expected lifespan. 
+ Chart 10:  ‘Violin’ plot of wages  
+ 
+Sources:  ONS Annual Survey of Hours and Earnings (ASHE) and Bank calculations. 
+Notes:    Median  gross  wages  in  2018.    Regional  figures  weighted  by  number  of  jobs  per  region.    Dark  bar  shows 
+interquartile range, dots show median and circle shows mean.  No Northern Ireland wage data available at NUTS 3 level. 
+ 
+         
+All speeches are available online at www.bankofengland.co.uk/speeches 
+15 
+ 
+15 
+  Chart 11:  ‘Violin’ plot of health (life expectancy) 
+   
+Sources:  ONS and Bank calculations. 
+Notes:  Life expectancy at birth for NUTS 1, 2 and 3 regions in 2010-12.  Regional figures weighted by population in each 
+region.  Dark bar shows interquartile range, dots show median and circle shows mean.   
+ 
+              
+All speeches are available online at www.bankofengland.co.uk/speeches 
+16 
+ 
+16 
+  Chart 12:  ‘Violin’ plot of well-being (life satisfaction) 
+  Sources:  ONS Annual Population Survey (APS) and Bank calculations. 
+Notes:  Responses to the question, “overall, how satisfied are you with your life nowadays?” for NUTS 1, 2 and 3 where 
+0  is  ‘not  at  all  satisfied’  and  10  is  ‘completely  satisfied’  for  2016/17.    Regional  figures  weighted  by  population  in  each 
+region.  
+  
+ 
+Chart  13  plots  health  perceptions  by  electoral  ward  in  four  big  UK  cities:    Belfast,  Cardiff,  Edinburgh  and 
+(inner) London.17  The differences are big, with nearly twice as many people perceived to be in bad or very 
+bad health in Belfast than Edinburgh.  Even more striking are the differences in the same city, however, with 
+adjacent districts reporting bad health differences of between 3% and 25%. 
+                                                            
+17  Data refer to percentage of people in the census rating themselves in “bad” or “very bad” health. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+17 
+ 
+17 
+  Chart 13:  Heat maps of health in Belfast, Cardiff, Edinburgh and Inner London  
+      Sources:  2011 Census. 
+Notes:    Data  show  percentage  of  respondents  declaring  themselves  to  be  in  bad  or  very  bad  health  at  electoral  ward 
+level. 
+ 
+I draw two conclusions from these micro-level visualisations.  First, however striking the regional differences 
+in  economic  and  societal  health  across  the  UK  relative  to  historical  and  international  standards,  these 
+conceal  even  more  striking  differences  in  levels  of  health,  wealth  and  happiness  within  regions.    To  the 
+extent there is an inequality issue in the UK, it is as much or more a local rather than regional one. 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+18 
+ 
+18 
+   A  second,  nerdier,  point  is  what  this  means  for  our  understanding  the  economy.    Many  systems  –  social, 
+natural  and  physical  –  exhibit  a  pattern  in  which  the  distribution  of  outcomes  does  not  converge  at  higher 
+resolutions;  it remains constant or even expands.  These systems have a fractal property with patterns that 
+are self-similar at different levels of resolution.  Snowflakes and shorelines are the best-known examples. 
+ The  violins  charts  suggest  economic  systems  may  also  exhibit  some  of  these  properties,  with  distributions 
+which  do  not  converge  at  higher  resolutions  and  may  even  expand.    Outcomes  in  these  systems  are  not 
+distributed  like  a  bell-shaped,  Normal  distribution.    Instead,  outcomes  are  drawn  from  a  Power  Law 
+distribution, which has fatter tails and a much greater probability of extreme outcomes.18 
+ Chart 14 plots the distribution of health, wealth and happiness across the UK.  The straight line shows where 
+outcomes  would  lie  if  they  were  Normally-distributed.    Deviations  from  that  line,  at  its  extremities,  signify  
+fat-tails.  For health and income there is strong evidence of fat tails and Power law distributions.19 
+ Chart 14:  Power Law tests  
+  GVA per head 
+  Well-being 
+                                                             
+18  Haldane (2012) discusses Power Law distributions as they apply to economic and financial variables. 
+19  Haldane (2012). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  19 
+ 
+19 
+  Wages 
+Health (life expectancy) 
+  Sources and notes:  as per violin plots in Charts 9-12. 
+ 
+ 
+Fat-tails and Power Law distributions are associated with systems that are complex and adaptive.  The best 
+definition of complexity is, for me, the one provided by Herbert Simon back in 1962:  “one made up of a large 
+number  of  parts  that  interact  in  a  non-simple  way”.20   That  description  fits  our  maps  rather  well.    They  are 
+certainly made up of a large number of distinct parts, even within geographically-concentrated areas. 
+ If  the  economic  system  is  complex,  in  the  sense  of  Simon,  this  carries  important  implications  for 
+understanding  and  modelling  these  systems.    As  with  the  body,  to  understand  the  dynamics  of  a  complex 
+system it is crucial you study the micro-level moving parts.  It is equally important to understand interactions 
+among these parts.  What do we know about interactions among the economy’s moving parts? 
+ (c) 
+Movements between regions 
+ In  economic  systems,  interactions  occur  among  all  of  the  factors  involved  in  production  and  consumption 
+decisions – people, money, goods and services.  Capturing flows of these factors, and their interactions, is 
+crucial for understanding how a complex economic system will function.  Below I consider flows of money, 
+goods and services.  Let me start by considering flows of people. 
+ Chart 15 plots migration in and out of various regions in 2016-17, expressed as a proportion of the regional 
+population.  Even gross inflows and outflows are relatively modest, varying between 4% (London) and ½% 
+(Northern Ireland).  Net flows of people are even more modest, in all cases bar London averaging less than 
+0.6%.  One of the reasons regions are distinct may be because of their ring-fenced populations. 
+                                                       
+20  Simon (1962). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+20 
+ 
+20 
+  Chart 15:  Migration inflows and outflows between different UK regions 
+   
+Sources:  ONS Local Area Migration Indicators and Bank calculations. 
+Notes:  Data refer to mid-2016 to mid-2017, as a percentage of 2017 population. 
+ 
+Of  course,  people  living  in  one  region  can  still  commute  into  another  for  work  purposes.    Table  1  looks  at 
+commuting destinations across UK regions, as a percentage of each region’s population.  With the exception 
+of London and the South-East, worker flows from outside of the home region are modest, averaging only 5% 
+of the working population.  Even when looking at flows of workers, most regions are self-contained and local. 
+             
+All speeches are available online at www.bankofengland.co.uk/speeches 
+21 
+ 
+21 
+  Table 1:  Commuting flows between UK regions (percentage of workers resident in each region) 
+   
+Sources:  Nomis and Bank calculations. 
+Notes:  Percentage of each region’s workers commuting from each residential region. 
+ 
+ These flow data provide a useful lens on  local economic eco-systems.  As an example, Chart 16 plots the 
+time to get to work (in minutes) against the distance to work (in km) across the UK’s regions.  Most regions 
+outside London and the South-East are tightly clustered, with an average commute time of 27 minutes and 
+distance of 16 km.  Consistent with other evidence, this suggests most regions are local economically. 
+                 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+22 
+ 
+22 
+  Chart 16:  Distance vs. time to work 
+  Sources:  ONS Labour Force Survey, 2011 Census and Bank calculations. 
+Notes:  Average distance travelled (km) and usual time (minutes) from home to work by NUTS 1 region in England and 
+Wales. 
+ 
+The situation is somewhat different in London.  The average commute distance is materially shorter (11km) 
+but the average travel time almost doubles at (40 minutes).  A cartogram of commute times makes this point 
+strikingly (Chart 17).  Contrary to popular belief, London is life in the slow lane.  As we know commuting often 
+detracts  from  people’s  well-being,  this  cartogram  perhaps  explains  why  Londoners  are  richer  but  more 
+miserable.21 
+                                                              
+21  For example, Office for National Statistics (2014) and Novaco and Gonzalez (2009). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 23 
+ 
+23 
+ Chart 17:  Cartogram of UK travel time to work 
+ Sources:  ONS Labour Force Survey, 2011 Census and Bank calculations. 
+Notes:  UK local authorities re-sized and coloured by mean travel to work time (minutes). 
+ 
+            
+All speeches are available online at www.bankofengland.co.uk/speeches 
+24 
+ 
+24 
+   Modelling the Economy 
+ How can these micro-level data help when modelling the economy?  Economists and policymakers typically 
+use highly-aggregated models which operate at an economy-wide level, often comprising a small number of 
+“representative” agents.  In their most aggregated versions, there is a single representative household and 
+company.  The most widely-used is the Representative Agent New Keynesian (RANK) model.22   
+ RANK-type  models  have  real  virtues.    They  are  underpinned  by  an  optimising  view  of  individual  human 
+behaviour  and,  in  this  sense,  can  be  said  to  be  “micro-founded”.    They  are  explicitly  identified,  in  the 
+statistical sense, and parsimonious.  These characteristics mean these models can often offer deep insight 
+into comparative static questions about the impact of changes in the deep parameters of an economy, such 
+as shifts in risk-aversion among households or in levels of technology among firms.23   
+ There are also, of course, costs of simplicity.  The most serious is the inability of these models often to fit the 
+macro-economic  facts  at  business  cycle  frequencies,  particularly  at  times  of  economic  stress. 24   RANK 
+models fared poorly in capturing the dynamics of the economy either side of the global financial crisis.  At the 
+very time it was most interesting and important, these models were found wanting as a guide to the fortunes 
+of the economy and economic policy. 
+ One  response  has  been  to  develop  models  that  relax  the  representative  agent  assumption.    So-called 
+Heterogeneous Agent New Keynesian (HANK) models comprise distinct agents with distinct behaviours.  As 
+importantly,  these  models  capture  interactions  among  agents. 25    While  it  is  heterogeneity  that  is  often 
+emphasized, it is interactions between agents that is most important for replicating real-world dynamics. 
+ Consider the dynamics of two very simple systems:  a single and double pendulum.  The single pendulum is 
+a  representative  agent  model.    Once  disturbed,  its  motion  is  regular  and  its  distribution  normal  
+(Figure  1,  LHS).    The  double  pendulum  involves  two  identical  representative  agents  which  interact.    Its 
+dynamics are complex and highly non-linear and it is Power Law distributed (Figure 1, RHS).  Even simple 
+interactions among representative agents generate complex system dynamics. 
+                                                             
+22  For example, Galí (2015). 
+23  For example, Kydland and Prescott (1982). 
+24  Haldane (2016), Haldane and Turrell (2018). 
+25  For example, Kaplan, Moll and Violante (2018). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+25 
+ 
+25 
+  Figure 1 :  Single and double pendulum 
+Single pendulum 
+Double pendulum 
+   Sources: https://codepen.io/anon/pen/XQLNaZ 
+ 
+HANK-type models do a better job of capturing heterogeneity across agents than their RANK cousins.  The 
+number of interactions among their internal moving parts is nonetheless heavily constrained.  Certainly, they 
+do  not  come  close  to  capturing  the  granularity,  spatially  or  sectorally,  that  exists  in  real-world  economic 
+systems.  Are there alternative modelling approaches that capture more of these moving, interacting parts? 
+ Agent-Based Models (ABMs) use a larger array of distinct agents and permit a far-larger scale of interaction 
+among them.26  They have been used extensively to model complex systems – natural systems (rainforests 
+and  oceans),  physical  systems  (electricity  grids  and  war  zones)  and  social  systems  (swarms  of  birds  and 
+bees).27  These are systems where it is recognised that an understanding of interactions among the internal 
+moving parts is crucial for capturing behaviour of the system as a whole, in line with Simon’s dictum. 
+ For economists used to dealing with highly-aggregated models, the very dimensionality of ABMs is striking.  
+The largest in physics can now simulate interactions of up to 400 billion distinct particles at any one time.28  
+That  is  around  50  times  as  many  agents  as  there  are  humans  on  the  planet.    By  way  of  comparison,  the 
+largest-scale macro-models would typically have fewer than 10 distinct agent types. 
+ ABMs  have  been  used  to  study  the  economy,  albeit  not  very  extensively.29   The  Bank  has  recently  used 
+them  to  model  the  housing  and  corporate  bond  markets,  both  of  which  exhibit  non-linear  dynamics  due  to 
+complex  interactions  among  agents. 30    These  models  have  also  been  used  to  run  hypothetical  policy 
+simulations, in particular for macro-prudential policies.31  These models are no free lunch.  They pose difficult 
+choices, such as where to strike the balance between realism (complexity) and parsimony (simplicity).   
+                                                       
+26  Farmer (2019) discusses agent-based models in the context of complexity economics. 
+27  For example, Ge et al (2018), Ge and Polhill (2016) and Heppenstall et al (eds.) (2012). 
+28  https://arxiv.org/abs/1112.1754 
+29  For example, Cristelli, Pietronero and Zaccaria (2011) and Napoletano, Gaffard and Babutsidze (2012). 
+30  Baptista et al (2016) and Braun-Munzinger, Liu and Turrell (2016). 
+31  Baptista et al (2016). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 26 
+ 
+26 
+  We  typically  define  models  as  simplified  abstractions  of  reality,  partly  for  reasons  of  practicality  given 
+humans’  limited  capacity  to  track  too  many  moving  parts.    But  computers  these  days  can  keep  track  far 
+better  than  any  human.    If  the  largest  ABMs  have  a  dimensionality  greater  than  our  population,  why  not 
+model the economy at its highest possible resolution?  Why be abstract if you can be exact?  That would be 
+a very different conception of the term “micro-founded”. 
+ This  may  sound  like  science  fiction.    Yet  we  already  have  practical  examples  of  just  that,  starting  at  the 
+highest  level  of  resolution  –  the  firm.    In  1956,  Jay  Wright  Forrester,  an  electrical  engineer,  switched  from 
+devising  systems  for  detecting  incoming  Soviet  nuclear  bombs  to  designing  systems  for  understanding 
+production problems in companies.  He developed the first computer models of how companies operated.  In 
+so doing, he founded the discipline that would become “system dynamics”.32 
+ In line with Forrester’s initial insight, one of the most interesting developments recently when understanding 
+the dynamics of companies is the creation of so-called “digital twins”.33  These are a DNA-level digital clone 
+of a company, tracing the interactions among  its moving parts.  A digital twin is a high-resolution, dynamic 
+model  of  a  firm-level  micro-economy  that  can  be  used  both  to  understand  and  to  simulate  a  company’s 
+operations, however complex.  Their use among frontier companies is increasingly commonplace. 
+ The  data  necessary  to  calibrate  these  digital  twins  is  considerable,  but  also  increasingly  commonplace.34  
+Twenty years ago, the large American retailer Walmart created a system allowing them, and their suppliers, 
+to  monitor  their  complex  supply-chain  in  close  to  real  time.35   This  transformed  inventory  management  at 
+Walmart and its suppliers.  Twenty years on, these real-time data systems are rapidly becoming the norm.   
+ At the next level of resolution, could a digital twin be created at a town or city level?  Having started with the 
+firm, Jay Wright Forrester’s next project was to simulate a city, in an attempt to understand and help solve 
+the US’s “urban crisis” of the 1960s.  Forrester  developed DYNAMO, a computer-simulated model of a city 
+comprising 150 equations and 200 parameters.  His book Urban Dynamics, published in 1969, set out how 
+these computer models could be used to understand the evolution of cities.36 
+ Reading Forrester’s book in the 1980s, video-game developer Will Wright had an idea for  creating a game 
+involving building a dynamic model of a city.  The result was SimCity (Figure 2).  This quickly became one of 
+the most popular video games of its era.  Computer-simulated video games quickly came to be used to solve 
+real-world  city  planning  problems.    Subsequently,  ABM-like  models  of  simulated  cities  have  found 
+widespread use for urban planning and development.37   
+                                                       
+32  For example, Karnopp, Margolis and Rosenberg (1990). 
+33  Shaw and Fruhlinger (2019). 
+34  Bolton et al (2018) have discussed the possible guiding values for a national digital twin framework as part of work on behalf of the 
+Centre for Digital Built Britain. 
+35  Hardgrave et al (2006). 
+36  Forrester (1969). 
+37  For example, Motieyan and Mesgari (2018). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+27 
+ 
+27 
+  Figure 2:  SimCity 
+  Sources:    Electronic  Arts,  available  at:  https://help.ea.com/en-us/help/simcity/simcity-buildit/all-about-regions-in-simcity-
+buidlit/ 
+ 
+ If creating a digital twin is possible at the firm and city-region level, might it be feasible economy-wide?  An 
+economy-wide  map  constructed  at  the  microscopic  level,  and  an  accompanying  digital  twin  tracking  flows 
+among the moving parts, is an intriguing vision of how a future economic model might be constructed.  Paul 
+Clarke, Chief Technical Officer at Ocado, has recently set out a vision of smart cities and communities, with 
+tracking and modelling of flows through drones, robots and smart infrastructure, which is in this same spirit.38   
+ Such a model is not without precedent.  In 1949, the New Zealand economist A W Phillips built a machine in 
+his  landlady’s  garage  in  Croydon  using  liquid  and  tanks  to  illustrate  the  circular  flows  of  income  and 
+interactions  in  an  economy  (Figure  3).    This  early  analogue  computer  was  not  for  show;    it  was  used  to 
+understand the economy and simulate policy before digital computers existed.  Working versions still exist. 
+The model I have sketched is a high resolution, digital version of the Phillips machine.  
+                                                             
+38  Clarke (2018). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+28 
+ 
+28 
+  Figure 3:  Phillips machine 
+ Sources:  Image available at https://en.wikipedia.org/wiki/William_Phillips_(economist) 
+ 
+ Building  a  microscopic-level  model  of  the  economy  is  an  enormous  undertaking  if  it  were  to  be  attempted 
+top-down.  But that traditional top-down approach to model-building may itself need to be inverted.  Clarke’s 
+suggested approach is to build this model bottom-up.  The map would be crowd-sourced and then stitched 
+together, a Wikipedia-style or micro-to-macro approach to model-building. 
+ An economy-wide digital twin would, in a very literal sense, be micro-founded, but in a diametrically-opposing 
+way to existing models.  The foundations of this digital twin are constructed not on micro theory, but micro 
+fact.  If you were looking for clues on the feasibility and desirability of such an endeavour, consider the way 
+in which scientists have gone about understanding and simulating another complex, adaptive system which 
+affects everyone’s everyday lives – the weather.   
+ Weather systems are the archetypical complex, adaptive system, the very origin of the concept of chaos.39  
+Yet  despite  their  chaotic  properties,  our  understanding  of  weather  systems,  globally  and  locally,  has 
+improved dramatically over recent decades.  Errors in forecasting the weather have halved in a generation, a 
+remarkable  improvement.    The  reason  for  that  improvement  is  not  because  of  a  great  leap  forward  in 
+weather theory;  it is because of improvements in micro-level weather facts. 
+ Meteorologists piece together their models of weather systems from very high resolution readings.  It is this 
+improvement  in  data  resolution  that  has  held  the  key  to  improvements  in  weather  forecasting.  These 
+readings  come  from  a  range  of  meteorological  agencies,  as  well  as  from  private  companies  and  citizens.  
+These  data  can  be  pooled  and  stitched  to  give  a  global  map.    Weather  data  is  crowd-sourced,  
+Wikipedia-style, and then centrally stitched, a micro-to-macro approach.    
+                                                      
+39  Lorenz (1963). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+29 
+ 
+29 
+   As these data are collected in close to real-time, weather simulations are available in close to real-time.  This 
+also  allows  us  to  study  weather  systems  at  a  wide  variety  of  resolutions  –  globally,  nationally,  regionally, 
+down  to  the  local  village.    This  not  only  helps  people  better  understand  the  environment  facing  them.  
+Importantly, it improves the decisions they make, nationally and locally, governments and citizens. 
+ Weather is by no means a unique example.  Micro-level data, digital twins and massive-scale simulations are 
+being  used  to  better  understand  all  manner  of  other  systems  at  all  manner  of  resolutions  –  from  the  
+sub-atomic scale when seeking the Higgs-Boson, to the global scale when modelling flows across oceans, 
+the  world  wide  web  and  galaxies.    All  have  benefitted  from  drawing  on  mass  micro-level  data,  crowd-
+sourced, centrally-stitched, micro-to-macro. 
+ Until recently, fewer such high-resolution data existed when it came to tracking flows of goods and services, 
+people  and  money  through  our  economy.    That  is  changing.    These  data  increasingly  exist  in  companies, 
+whose  management  systems  capture  activity  in  close  to  real  time.    They  exist  through  now-ubiquitous 
+sensor,  camera  and  satellite  technology.    And  they  exist  in  governments,  local  and  central,  in  the  form  of 
+administrative data on people, goods and money flows. 
+ Increasingly, these data are being put to use to understand the economy.40  In the UK, the Office for National 
+Statistics recently started publishing a range of high frequency economic indicators, based on such sources 
+as administrative data on VAT returns and geospatial data on traffic flows.  The Bank has made increasing 
+use  of  these  sorts  of  data  in  its  own  real-time  assessment  of  the  economy.    Let  me  give  a  couple  of 
+examples.   
+ One topic attracting attention recently has been the economic consequences of a disruptive Brexit.  One of 
+the key channels through which this economic disruption might take place  is the inability of lorries to move 
+seamlessly  through  UK  ports.    To  track  this  disruption  in  the  event  of  a  disorderly  Brexit,  the  Bank  put  in 
+place  a  system  for  monitoring  traffic  flow  around  the  UK’s  main  ports  using  geospatial  data  from  Google 
+Maps.  This allowed close to real-time monitoring of potential port bottlenecks. 
+ As  an  illustration,  Chart  18  plots  traffic  times  into  and  out  of  Dover  during  February,  March  and  April  this 
+year.  The first highlighted mini-spike in traffic times is the Friday evening and Saturday morning before the 
+school  holidays.   The  second is  Easter weekend.   A disruptive Brexit would  potentially have pushed these 
+needles  off  the  Richter  scale.    There  is  huge  potential  for  more  extensive  use  of  geospatial  data  such  as 
+these to track goods and service flows across the economy, in normal as well as abnormal times.41     
+                                                         
+40  Haldane (2018a).   
+41  A geospatial commission has recently been set up, under Sir Andrew Dilnot, to look at precisely these questions.  See Geospatial 
+Commission (2019) for a discussion of its work to date and longer-term priorities. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+30 
+ 
+30 
+  Chart 18:  Traffic times into and out of Dover 
+    Sources:  Google Maps API and Bank calculations. 
+  A second example concerns the housing market.  This, too, is a local market.  That is why the most popular 
+house-buying  show  on  TV  is  called  “Location,  Location,  Location”.    Two  colleagues  at  the  Bank,  Fergus 
+Cumming  and  Al  Firrell,  have  recently  used  a  database  on  all  mortgages  granted  in  the  UK  since  2005  to 
+explore house-moving patterns.42  The results are preliminary, but let me share some of the early findings to 
+demonstrate what might be feasible. 
+ Chart 19 plots the frequency of house moves at different distances in 2018.  The modal distance of a house 
+move is less than 10km.  This is twice as likely as the second most popular distance  – 10-20km.  In other 
+words,  a  gravity  (distance)  model  of  house  moves  fits  the  data,  with  around  one-third  of  all  house  moves 
+within 50km.  Most house moves are local.  Most, but by no means all.  The median move is a little below 
+100km, the mean 130km.  There is a longer tail of long-distance house moves than I would have predicted.  
+                                                             
+42  Although this may sound simple, it involves a complex matching algorithm to identify housing chains, similar to Chakraborty, 
+Gimpelewicz and Uluc (2017). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+31 
+ 
+31 
+  Chart 19:  Distribution of house moves by distance (mortgage-to-mortgage movers in 2018) 
+  Sources:  Product Sales Database and Bank calculations. 
+  Part  of  the  explanation  lies  in  regional  and  demographic  differences.    People  outside  London  and  the  
+South-East – for example, in Scotland – are much more likely to move greater distances (Chart 20).  Older 
+people (over 46) are more likely to move larger distances than younger people (under 33) (Chart 21).  And 
+richer people are less likely to move larger distances than poorer ones (Chart 22). 
+                
+All speeches are available online at www.bankofengland.co.uk/speeches 
+32 
+ 
+32 
+   Chart  20:    Distribution  of  house  moves  by  distance  in  different  regions  (mortgage-to-mortgage 
+movers in 2018, moving to South-East England and Scotland) 
+Sources:  Product Sales Database and Bank calculations. 
+ Chart 21:  Distribution of house moves by distance for different ages (mortgage-to-mortgage movers 
+in 2018, upper and lower age quartiles) 
+ Sources:  Product Sales Database and Bank calculations. 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  33 
+ 
+33 
+ Chart  23: 
+(mortgage-and-mortgage moves in 2018, upper and lower income quartiles) 
+  Distribution  of  house  moves  by  distance 
+for  different 
+ income  groups  
+ Sources:  Product Sales Database and Bank calculations. 
+ Take Yorkshire and Humberside.  A third of all moves are within-region.  East, West, Home’s Best.  Some do 
+move to the West (around 15%) and some to the East (7%).  Although some head South-East for life in the 
+slow  lane  (7%),  a  larger  number  move  North  to  Scotland  (around  10%).    This  only  covers  moves  among 
+those  with  a  mortgage,  so  will  not  capture  first-time  buyers,  students,  renters  or  those  retiring  without  a 
+mortgage.  It nonetheless offers a new lens on the housing market, locally and nationally.   
+ It is not difficult to see how these micro-level flow data could be augmented.  Data from payments systems 
+can, and are, being used to track flows of money.  Companies’ management information systems can, and 
+are, being used to track flows of workers, goods and services.  And administrative data can, and are, being 
+used to track people, money and goods.  These micro-level data that could, with time, be pieced together to 
+provide a macro – or micro-to-macro – model of the economy.  Or that, at least, is the promise. 
+ Managing the Economy 
+ If  we  can  map  and  model  the  economy  at  a  high  resolution  how,  if  at  all,  might  this  affect  how  economic 
+policy  is  set?    Can  analysis  of  this  granular  type  help  when  thinking  about  appropriate  forms  of  policy 
+intervention?  Might it help in defining what might be a sensible geographic area for an economic strategy?  
+And might it even help in defining what that economic strategy might be? 
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+34 
+ 
+34 
+   There is  already a deep and  rich literature on  these topics.  One  strand looks  at  optimal currency areas.43  
+Another looks at optimal fiscal areas.44  And a third looks at optimal political or policy areas.45  This literature 
+identifies a rich range of factors important for determining the optimal spatial dimension of policy.  From that 
+long list, let me highlight three factors which are commonly found to play a crucial role: 
+ (a) 
+  Heterogeneity and Specialisation 
+Other things equal, the greater are the differences in the economic characteristics of an area, the stronger is 
+the case for recognising these differences in the setting of economic policy.  These economic characteristics 
+include:    the  cultural  and  political  preferences  of  citizens;    economic  fluctuations  over  the  business  cycle;  
+and structural features of the economy, such as industrial composition and policy transmission.46   
+ A related aspect is the degree of specialisation or comparative advantage in an economic area.  The greater 
+this  degree  of  specialism  or  comparative  advantage,  the  stronger  the  case  for  having  it  recognised  and 
+supported in the setting of economic policy.  Specialisation is one of the ways in which an economic area can 
+harvest the benefits of economies of scale and scope through the agglomeration multiplier.47 
+ On  the  face  of  it,  there  is  a  considerable  degree  of  heterogeneity  across  the  UK,  including  in  terms  of 
+income,  wealth,  health  and  happiness.    Other  things  equal,  this  would  support  locally-targeted  policy 
+interventions.    At  the  same  time,  those  differences  are  often  as  large  locally  as  they  are  regionally.    That 
+suggests a very decentralised setting of policy would be needed, which may come with costs.   
+ (b) 
+ Diversity and Risk-Sharing 
+One  of  the  most  important  of  those  costs  is  the  loss  of  risk-sharing.    A  diverse  economic  area  allows 
+aggregate fluctuations to be smoothed-out, in the same way a diverse portfolio of assets smooths out returns 
+to an investor.  And by smoothing-out aggregate fluctuations, diverse economic areas can help smooth out 
+local fluctuations by transferring resources between regions to insure against region-specific shocks. 
+ Another set of factors weighing in the  same direction  are economies  of scale and  scope.   The  smaller  the 
+geographic  area,  the  lower  the  potential  for  agglomeration  effects.    Some  of  these  agglomeration  benefits 
+may  themselves  arise  from  having  a  diverse  economic  eco-system,  as  this  enables  positive  spillovers 
+between sectors and skills within an area.48 
+                                                       
+43  Mundell (1961). 
+44  For example, Berger, Dell’Ariccia and Obstfeld (2018).   
+45  Alesina, Tabellini and Trebbi (2017). 
+46  For example, Alesina, Tabellini and Trebbi (2017), Carlino and DeFina (1996), Cumming (2018), Dow and Montagnoli (2007) and 
+Fratantoni and Schuh (2003). 
+47  Krugman (1991) and Krugman and Venables (1996). 
+48  Izraeli and Murphy (2003).  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+35 
+ 
+35 
+    (c) 
+ Factor Mobility 
+A third sector of factors influencing the choice of optimal policy area concerns the degree of factor mobility.  
+Easy  movement  of  factors  between  regions  can  smooth-out  differences  between  regions.    For  example, 
+people moving from low to high unemployment areas can smooth out regional differences in incomes.  In this 
+way, factor mobility can serve as a risk-sharing device between areas, even without policy intervention.   
+ The other side of this coin is that, people and money do not always flow in this direction.  Factor mobility can 
+sometimes  increase,  rather  than  smooth  out,  differences  between  regions.    For  example,  people  or  firms 
+may  move  to  areas  which  offer  strong  existing  incomes  and  jobs.    If  so,  this  will  tend  to  amplify,  not 
+ameliorate, regional differences. 
+ That  is  the  theory.    The  optimal  policy  strategy  involves  balancing  these  factors,  based  on  the  structural 
+characteristics of an economy, its degree of diversity versus specialism and the flows of factors within it.  A 
+digital  twin  of  the  economy,  of  the  type  outlined  earlier,  would  embody  these  factors  and  flows  and  would 
+provide a quantitative test-bed for making policy choices. 
+ In the absence of such a model, let me discuss two examples where existing data and analytical tools could 
+be  used  to  inform  policy  choices.    In  line  with  theory,  the  first  looks  at  flows  of  factors  within  a  region,  the 
+second  at  structural  economic  characteristics  across  regions.    These  data  and  techniques  can  be  used  to 
+shed  light  on  policies  which  might  boost  economic  growth,  locally  or  nationally,  in  line  with  the  UK 
+Government’s industrial strategy.49  
+ My  first  example  draws  inspiration  from  recent work  by  Tom  Forth  at  the Open  Data  Institute  in  Leeds,  on 
+behalf of the Productivity Insights Network (PIN) here at the University.50  This uses data on flows of people 
+to assess local growth prospects.  The story starts with the observation that many UK cities appear to punch 
+below  their  demographic  weight  in  income  terms.    Put  differently,  a  number  of  UK  cities  do  not  appear  to 
+benefit as much as their international counterparts from agglomeration effects. 
+ To  demonstrate,  Chart  22  plots  (log)  city  population  size  against  GDP  per  head  in  563  cities  in  advanced 
+economies  around  the  world,  including  a  number  of  UK  cities.    It  also  shows  a  line  of  best  fit.    This  is  
+upward-sloping and statistically significant, consistent with agglomeration effects.  Moving from a city the size 
+of  Oxford  (population  535,000)  to  one  double  its  size  such  as  Sheffield  (around  1.2  million)  should  be 
+                                                      
+49  Department for Business, Energy and Industrial Strategy (2017).  In a personal capacity, I chair the Government’s Industrial Strategy 
+Council which evaluates its progress. 
+50  Forth (2019). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+36 
+ 
+36 
+   expected,  on  average,  to  boost  GDP  per  head  from  £27,300  per  head  to  £28,100  per  head,  or  around 
+2.6%.51 
+ Chart 22:  City population and GDP per head 
+  
+Sources:  OECD Metropolitan Areas Population and Bank calculations. 
+Notes: GDP per capita in US$ in 2015 and log scale used for metropolitan area population. 
+ 
+ In fact, GDP per head in Sheffield is around 44% lower than in Oxford.  This is not just a North-South divide.  
+Income  per  head  in  Sheffield  is  little  different  than  in  Doncaster  just  down  the  road  (population  305,000).  
+                                                      
+51  Data set underlying Chart 22 refers to GDP per capita in US$ in 2015.  Numbers which convert to sterling in the text are based 
+around average $/£ bilateral exchange rate of 1.34 in 2018. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+37 
+ 
+37 
+   And it is not just Sheffield.  Many large UK cities sit below the line:  Belfast, Glasgow, Leeds, Manchester, 
+Cardiff,  Birmingham,  as  well  as  Sheffield.    Agglomeration  multipliers  seem  to  be  consistently  smaller  in  a 
+number of UK cities.  Why? 
+ Forth’s work suggests transport networks are a large part of the explanation.  By analysing commuting times 
+into Birmingham at different times of the day, he provide a measure of the “effective” working population.  At 
+peak  times,  the  effective  working  population  of  Birmingham  is  perhaps  50%  smaller  than  its  measured 
+population  due  to  poor  transport  infrastructure.    This  helps  explain  why  Birmingham  punches  below  its 
+demographic weight. 
+ This is a terrific example of how high-resolution data can be used to understand local patterns of economic 
+growth.    The  same  data  could  be  used  to  analyse  the  “effective”  working  population  in  other  UK  cities, 
+perhaps  helping  explain  their  under-performance.    It  could  also  be  used  to  answer  industrial  strategy 
+questions,  such  as  what  impact  new  transport routes  have  on  the  effective  working  population  of  the  UK’s 
+major cities and hence on their incomes through agglomeration effects.   
+ Imagine  a  transport  strategy  whose  aim  was  to  raise  the  effective  working  population  of  those  UK  cities 
+currently operating below the line.  Using Chart 22, doing so would raise UK GDP per head by around 10% 
+or  around  $4,100  (£3,100)  in  today’s  money.    Those  annual  benefits  could  be  compared  with  the  one-off 
+costs of investment to determine the desirability of such a policy, as part of the UK’s industrial strategy.  
+ My  second  example  draws  inspiration  from  recent  work  at  the  University  of  Cambridge  by  Penny  Mealy, 
+including  by  my  colleague  on  the  Industrial  Strategy  Council  Diane  Coyle.52   This  looks  at  the  structural 
+economic  characteristics  of  different  regions  and  provides  a  way  of  summarising  and  ranking  them.    The 
+particular  way  it  does  so  is  by  measuring  their  “economic  complexity”,  following  the  work  of  Hidalgo  and 
+Hausmann (2009) in the context of international trade. 
+ Without  going  into  the  technicalities,  the  complexity  index  can  loosely  be  thought  of  as  weighing  the  two 
+structural characteristics of an economic area which theory would suggest are crucial for economic success.  
+The first is the degree of specialism or comparative advantage in a particular product or industry:  the greater 
+this  specialism,  the  greater  an  area’s  complexity.    The  second  is  the  degree  of  diversity  in  this  specialism 
+across products and industries:  the greater this diversity, the greater an area’s complexity.53    
+ Though the construction of an Economic Complexity Index (ECI) is itself complex, the principles underlying it 
+are not.  An economic area exhibits complexity when it has a diverse set of highly-specialised industries.  An 
+                                                      
+52  Mealy and Coyle (2019). 
+53  This description sets out a stylised interpretation of ECIs as they were originally conceived by Hidalgo and Hausmann (2009).  
+Recent work by Mealy, Farmer and Teytelboyn (2019), however, has re-assessed the interpretation of ECIs and found that diversity is 
+mathematically orthogonal to ECIs.  In this new interpretation, ECIs instead provide a useful way to understand place-based similarly in 
+industrial specialisations. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+38 
+ 
+38 
+   area  lacking  complexity  has  few  or  no  industries  or  products  which  are  specialised.    ECIs  have  been 
+constructed at the nation-state level and, more recently, at the local level in the US and UK.54 
+ One of the interesting features of these empirical ECIs is that they appear to match the theory:  the greater 
+the  degree  of  specialisation  and  diversity,  and  the  higher  the  ECI,  the  better  the  economic  outcome.    One 
+rationale for this finding, proposed by Hidalgo and Hausmann, is that ECIs serve as a proxy of the degree of 
+knowledge embedded in an economic area, knowledge that comes courtesy of specialisation and diversity. 
+ Charts 23 and 24 plot local authority level ECIs against measures of income per head and hourly earnings in 
+the  UK.    They  show  a  positive,  statistically  significant  relationship.    The  same  has  been  found  at  national 
+level and among US states.  The embodied-knowledge effect is, on the face of it, an empirically strong one.  
+In a bivariate regression, ECIs account for around half of the regional variation in level of incomes and pay. 
+ Chart 23:  Local authority-level ECIs and income per head 
+R² = 0.4799
+GVA per head, 
+£000s
+-0.1
+-0.05
+0
+0.05
+0.1
+0.15
+0.2
+ECI
+140
+120
+100
+80
+60
+40
+20
+0
+0.25
+ Sources:    ONS  Regional  Gross  Value-Added,  ONS  Business  Register  and  Employment  Survey  (BRES)  and  Bank 
+calculations. 
+Notes:  ONS regional gross value-added (balanced) by local authority in the UK for 2016 against economic complexity 
+indices calculated using BRES.  City of London and Westminster excluded from chart. 
+ 
+                                                         
+54  Hidalgo and Hausmann (2009) for international comparisons and Mealy, Farmer and Teytelboym (2019) for regional comparisons. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+39 
+ 
+39 
+  Chart 24:  Local authority-level ECIs and hourly earnings 
+R² = 0.4466
+Hourly earnings,
+£ per hour
+ 35
+30
+25
+20
+15
+-0.1
+-0.05
+0
+0.05
+0.1
+0.15
+0.2
+ECI
+10
+0.25
+ Sources:  ONS Annual Survey of Hours and Earnings (ASHE), ONS Business Register and Employment Survey (BRES) 
+and Bank calculations. 
+Notes:  Data available for Great Britain only (i.e. excluding Northern Ireland).  Mean hourly earnings excluding overtime 
+against economic complexity indices calculated using BRES.    
+ 
+ Chart  25  plots  a  cartogram  of  local  authority  level  ECIs  for  the  UK,  at  the  NUTS  3  level.    It  shows  a 
+remarkable degree of difference across areas of the UK.  This matches regional differences in income and 
+pay.  These metrics could help when designing the Local Industrial Strategies currently being developed by 
+Local Enterprise Partnerships (LEPs) and the devolved nations in Scotland, Wales and Northern Ireland. 
+  Table 1:  Top 10 local authorities by ECI 
+City of London 
+Tower Hamlets 
+Southwark 
+Westminster 
+Islington 
+Camden 
+Hammersmith & Fulham 
+Kensington & Chelsea 
+Hackney 
+Cambridge 
+ 
+ 
+Sources:  ONS Business Register and Employment Survey (BRES) and Bank calculations. 
+ 
+    
+All speeches are available online at www.bankofengland.co.uk/speeches 
+40 
+ 
+40 
+  Chart 25:  Cartogram of local-authority level ECIs 
+ Sources:  ONS Business Register and Employment Survey (BRES) and Bank calculations. 
+Notes:  UK NUTS 3 regions re-sized and coloured using estimates of economic complexity. 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 41 
+ 
+41 
+   Table 1 lists the top ten local authorities by ECI across the UK in 2017, while Table 2 shows the bottom ten.  
+There is a high degree of inertia in both rankings.  The ECI framework could be used to help assess which 
+industrial  strategy  interventions  might  boost  the  degree  of  specialism  and  diversity,  and  hence  the  income 
+benefits, both in already-successful and struggling regions. 
+ Table 2:  Bottom 10 local authorities by ECI 
+Dudley 
+South Derbyshire 
+Wrexham 
+Aberdeenshire 
+North-East Lincolnshire 
+Moray 
+Hartlepool 
+Carmarthenshire 
+Breckland 
+Telford and Wrekin 
+ Sources:  ONS Business Register and Employment Survey (BRES) and Bank calculations. 
+ 
+Economic complexity can also be assessed across industries using a product complexity index (PCI).  This 
+proxies the embedded knowledge in an industry.  Table 3 plots the top-20 UK industries by PCI against their 
+sector shares.  Financial services, the creative industries, and higher education exhibit the highest economic 
+complexity  and  thus  potentially  generate  the  highest  value-added.    PCI  metrics  could  be  used  to  identify 
+industries where “sector deals” could benefit most the economy, as part of an industrial strategy. 
+ Table 3:  Top 20 UK industries by PCI and share of employment 
+Reinsurance 
+ Fund management activities 
+ Television programming and broadcasting activities 
+ Trusts, funds and similar financial entities 
+ Motion picture, video & television programme activities 
+ Sound recording and music publishing activities 
+ Legal activities 
+ Translation and interpretation activities 
+ Software publishing 
+ Creative, arts and entertainment activities 
+ Activities  auxiliary  to  financial  services,  except  insurance 
+and pension funding 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 0.01% 
+0.16% 
+0.08% 
+0.03% 
+0.34% 
+0.03% 
+1.09% 
+0.02% 
+0.04% 
+0.32% 
+0.66% 
+42 
+ 
+42 
+   
+Publishing  of  books,  periodicals  and  other  publishing 
+activities 
+ 
+Accounting,  bookkeeping  and  auditing  activities; 
+consultancy 
+tax 
+ Advertising 
+ Computer programming, consultancy and related activities 
+ Leasing  of  intellectual  property  and  similar  products, 
+except copyrighted works 
+ Market research and public opinion polling 
+ Organisation of conventions and trade shows 
+ Higher education 
+ 
+Sources:  ONS Business Register and Employment Survey (BRES). 
+Notes:  Dates for 2017.  Only industries with 1000+ employees included in table.   
+ 
+ 0.35% 
+1.29% 
+0.42% 
+2.43% 
+0.01% 
+0.14% 
+0.08% 
+1.61% 
+These  are  partial,  though  informative,  pieces  of  micro-level  evidence,  though  no  substitute  for  an  
+economy-wide  digital  twin.    This  could  be  used  as  a  general  equilibrium  test-bed  for  formulating,  and 
+evaluating  the  impact,  of  industrial  strategy  interventions,  nationally  and  locally.    Those  policy  simulations 
+could be complemented by controlled trials of policies, the like of which have been successfully pioneered by 
+the What Works Centre for Local Economic Growth.55   
+ The  economy  is  a  complex,  adaptive  system.    Behaviour  in  those  systems  is  difficult  to  predict  ex-ante, 
+especially at times of policy change;  it is emergent, just as a hurricane or tornado is emergent.  Often, our 
+policy intuition about complex systems is simply wrong.  No model, however micro-founded or data-rich, is 
+proof against those uncertainties.  But one that embodies complex, micro-level dynamics is more likely to do 
+so than one without them.  A complex systems framework can make for robust policy choice. 
+ That was Jay Wright Forrester’s insight in the 1950s.  We know it to be true from more recent experience.  
+The  real-time,  supply-chain  data  system  developed  by  Walmart  twenty  years  ago  transformed  inventory 
+management,  at  Walmart  and  elsewhere.    The  real-time  micro-level  models  developed  by  meteorologists 
+transformed weather-forecasting at around the same time.  Today, digital twinning is transforming processes 
+across companies.  These are microcosms of what might be achievable at the macroscopic scale. 
+                                                        
+55  For example, What Works Centre for Local Economic Growth (2018). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 43 
+ 
+43 
+  Can a Central Bank be Local? 
+ Finally, what are the implications of these local economic perspectives for central bank policy?  On the face 
+of it, these might seem few.  Central banks are national agencies.  Their policies, such as interest rates, can 
+only be set at the national level.  It is impossible for the Bank of England to set separate interest rates for 
+Aberdeen and Aberystwyth, Belfast and Birmingham.  A central bank, by definition, cannot be local. 
+ Or can it?  I would argue that not only is this feasible but essential.  I have spoken previously about the “twin 
+deficit”  problem  facing  central  banks:    the  deficit  in  public  understanding  and  the  deficit  in  public  trust.56  
+Boosting this understanding, and restoring trust, among the public is among the most pressing issues facing 
+central banks.  Reconnecting communities with institutions helps strengthen Rajan’s Third Pillar. 
+ But  how  is  this  best  done?    The  public’s  understanding  of  the  economy  and  policy  is  enhanced  when 
+messages  are  relevant  to  their  lives  and  locality. 57   A  central  bank’s  understanding  of  the  economy  is 
+enhanced if it can tap into the lived, local experiences of  companies and citizens making up the economy.  
+And  a better mutual understanding  between communities  and central banks  would, in turn, help  build  trust 
+between them.  Constructing a Third Pillar shrinks the twin deficits of public trust and understanding. 
+ This is not a new point.  Despite being headquartered in London since 1694, the Bank of England has had a 
+regional presence for much of its history.  After the UK banking crisis of 1825, the Bank set up a network of 
+15  regional  branches  to  provide  commercial  banking  facilities.58   Though  their  purpose  was  operational,  it 
+quickly became clear that the intelligence gathered by the Bank’s branches could help in understanding the 
+economy.  This intelligence was soon being fed back to Head Office.   
+ During  the  20th  century,  this  intelligence-gathering  role  was  expanded.    It  has  grown  steadily,  in  scale  and 
+importance, since then.  Today, the Bank’s 12 Agencies across the UK have around 9,000 regular company 
+contacts providing real-time intelligence on the economy.  Structured surveys from the Agents first appeared 
+in 1997.  Agents’ National Scores were first introduced in the mid-1990s and first published in 2006.  Agent’s 
+Company Visit Scores were first developed in 2007 and first published in 2015. 59 
+ Brexit  provides  as  good  an  illustration  as  any  of  the  ways  the  Agents’  high-frequency,  high-resolution 
+intelligence  can  improve  the  Bank’s  understanding  of  the  economy.    A  key  question  recently  has  been 
+whether  and  how  companies  have  been  preparing  for  Brexit.60   The  Agents’  network  was  used  not  only  to 
+track  how  prepared  companies  were  over  time,  but  what  form  this  contingency  planning  was  taking  
+– stock-building, seeking alternative suppliers, building cash reserves etc (Chart 26). 
+                                                       
+56  Haldane (2017). 
+57  For example, Agerström et al (2016). 
+58  Bank of England (1963). 
+59  Ellis and Pike (2005). 
+60  Bank of England (2019). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+44 
+ 
+44 
+  Chart 26:  Contingency planning by firms for Brexit 
+   Sources:  Bank of England and Bank calculations. 
+ Company  contacts  also  helped  the  Bank’s  Brexit  scenario  planning.    Companies  were  asked  about  the 
+consequences for their businesses of a “no deal, no transition” Brexit.  The results are shown in Chart  27.  
+They suggest a marked slowing in output, employment and investment under this scenario, consistent with 
+the Bank’s in-house macro-economic models.  This is micro-to-macro in practice. 
+ Chart 27:  Firms’ expectations for economy under a no-deal, no-transition Brexit 
+  Sources:  Bank of England and Bank calculations. 
+ 
+Recently, the Bank has used its regional network to augment its local engagement.  Two years ago, I began 
+a  programme  of  “Townhall”  visits  to  some  of  the  UK’s  most  poorly-performing  regions,  often  organised  in 
+conjunction with local charities, faith or community groups including Age UK, Citizens’ Advice, the Board of 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+45 
+ 
+45 
+   Deputies of British Jews, the Muslim Council of Britain, Oxfam and the YMCA.  These Townhalls engage the 
+public directly on issues around the economy and finance.  They, too, are a micro-to-macro approach. 
+ So far, I have undertaken 14 Townhall visits covering all parts of the UK.61  They are a direct conversation 
+between the Bank and the public, typically on local economic and financial issues.  They draw on the sorts of 
+listening  and  facilitation  techniques  more  familiar  from  anthropology  and  sociology.    Intelligence-gathering 
+means  extracting  economic  narratives,  rather  than  facts,  about  the  forces  shaping  people’s  lives  and 
+decisions.  The anthropologist Clifford Geertz calls this approach “deep hanging out”.62 
+ Deep  hanging  out  is  harder  than  it  sounds.    A  day’s  talking  leaves  me  tired.    A  day’s  listening  leaves  me 
+exhausted.   Entering a room as the least knowledgeable person, at least on local issues,  can be a culture 
+shock.    But  it  is  those  very  things  that  make  intelligence  from  the  Townhalls  distinctive  and  valuable.  
+Statistical surveys cannot capture narrative in a way conversations can.  The Townhall visits have been one 
+of the most enlightening things I have done in my almost 30 years at the Bank of England. 
+ The  Bank  has  recently  expanded  and  deepened  its  range  of  local  initiatives.    One  of  these  is  Citizens’ 
+Panels.63  After a couple of trials last year, the Bank recently began rolling-out Citizens’ Panels across each 
+of its regional agencies.  These panels have an independent external chair, drawn from the local region, to 
+facilitate  discussion.    Each  is  attended  by  a  senior  Bank  policymaker.    Messages  from  the  panels  will  be 
+drawn together periodically and published externally. 
+ Complementing  Citizens’  Panels,  the  Bank’s  direct  engagement  with  community  groups  is  now  being 
+expanded through a set of “Community Forums”, working in partnership with local charities and community 
+groups.  The Governor recently launched these forums with events in Tower Hamlets and Glasgow.  Other 
+Governors and Directors have their own Community Forums planned through this year and beyond. 
+ The Bank’s education programme also has strong local presence.  The educational materials developed by 
+the Bank for 11-16 year olds, econoME, have been taken up by a third of schools across the UK.  Last year, 
+staff ambassadors visited close to 300 schools across the UK to deliver talks on the economy and economic 
+policy.  These are examples of a central bank acting locally. 
+ Central  banks  around  the  world  seem  themselves  to  be  moving  in  this  same  direction,  with  greater  local, 
+citizen-level  engagement.    Other  central  banks  to  have  recently  launched  community-based  initiatives 
+include the US Federal Reserve’s “Fed Listens” events. These involve roundtables with the general public, 
+involving local leaders, policy experts and academics from across the United States.64 
+                                                       
+61  https://www.bankofengland.co.uk/outreach 
+62  Geertz (1998). 
+63  Patel, Gibbon and Greenham (2018) and Haldane (2018b). 
+64  https://www.federalreserve.gov/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications-fed-listens-events.htm 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+46 
+ 
+46 
+   These initiatives are a good foundation for central banks, for constructing a Third Pillar.  More of these types 
+of local, citizen-based engagements may be needed in the years ahead, if policy institutions are to shrink the 
+twin deficits and strengthen that Third Pillar.  There is scope to decentralise more of central banks’ activities, 
+giving them greater reach, voice and engagement locally.  That would certainly get my personal vote. 
+ Conclusion 
+ Our  economies,  like  our  politics,  are  local.    Like  the  seashore,  the  more  you  magnify  an  economy,  the 
+greater its richness, complexity, self-similarity.  Like our bodies, understanding our economic health means 
+taking readings at many resolutions.  It means understanding the moving body parts, and their interactions, 
+in  microscopic  detail.    It  calls  for  new  data,  at  a  higher  frequency  and  higher  resolution,  and  new  ways  of 
+stitching it together.  It means making micro-to-macro a reality. 
+ Our global weather systems, oceans, information networks, supply chains, solar system, galaxies and even 
+our universe can these days be mapped and modelled in microscopic detail in close to real time.  We cannot 
+yet do so for our economies.  I believe our economic policies would be better able to serve the public, and 
+better understood by them, if we could do so.   
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+47 
+ 
+47 
+  References 
+  
+Agerström, J, Carlsson, R, Nicklasson, L and Guntell, L (2016), ‘Using descriptive social norms to  
+increase charitable giving: The power of local norms’, Journal of Economic Psychology, Vol. 52, pp. 147-153. 
+ 
+Alesina, A, Tabellini, G and Trebbi, F (2017), ‘Is Europe an Optimal Political Area?’, NBER Working Paper, No. 23325. 
+ 
+Bank of England (1963), ‘Branches of the Bank of England, Bank of England Quarterly Bulletin, 1963 Q4. 
+ 
+Bank of England (2019), ‘Agents’ summary of business conditions’, Bank of England, 2019 Q1, available at 
+https://www.bankofengland.co.uk/agents-summary/2019/2019-q1/agents-survey-on-preparations-for-eu-withdrawal 
+ 
+Baptista, R, Farmer J D, Hinterschweiger, M, Low, K, Tang, D and Uluc, A (2016), ‘Macroprudential policy in an 
+agent-based model of the UK housing market’, Bank of England Staff Working Paper, No. 619. 
+ 
+Berger, J, Dell’Ariccia, G and Obstfeld, M (2018), ‘Revisiting the Economic Case for Fiscal Union in the Euro Area’, 
+International Monetary Fund Research Department. 
+ 
+Bolton, A, Enzer, M, Schooling, J et al (2018), ‘The Gemini Principles:  Guiding values for the national digital twin and 
+information management framework’, Centre for Digital Built Britain and Digital Framework Task Group. 
+ 
+Braun-Munzinger, K, Liu, Z and Turrell, A (2016), ‘An agent-based model of dynamics in corporate bond trading’, Bank 
+of England Staff Working Paper, No. 592. 
+ 
+Carlino, G and DeFina, R (1996), ‘Does Monetary Policy Have Differential Regional Effects?’, Federal Reserve Bank of 
+Philadelphia Business Review, March-April 1996. 
+ 
+Case, A and Deaton, A (2017), ‘Mortality and Morbidity in the 21st Century’, Brookings Papers on Economic Activity, 
+Spring 2017. 
+ 
+Centre for Cities (2019), ‘Cities Outlook 2019’, Centre for Cities, January 2019. 
+ 
+Clarke, P (2018), ‘How Online Grocer Ocado Is Automating Warehouses Using Swarms of Robots’, Harvard Business 
+Review, 22 May 2018. 
+ 
+Chakraborty, C, Gimpelewicz, M and Uluc, A (2017), ‘A tiger by the tail:  estimating the UK mortgage market 
+vulnerabilities from loan-level data’, Bank of England Staff Working Paper, No. 703. 
+ 
+Collier, P (2018), The Future of Capitalism:  Facing the New Anxieties, Allen Lane. 
+ 
+Coyle, D (2014), GDP:  A Brief but Affectionate History, Princeton University Press. 
+ 
+Cristelli, M, Pietronero, L and Zaccaria, A (2011), ‘Critical Overview of Agent-Based Models for Economics’, Università 
+di Roma. 
+ 
+Cumming, F (2018), ‘Mortgages, cash-flow shocks and local employment’, Bank of England Staff Working Paper, No. 
+773. 
+ 
+Department for Business, Energy and Industrial Strategy (2017), ‘Industrial Strategy – Building a Britain fit for the 
+future’, HM Government. 
+ 
+Dougenik, J, Chrisman, N and Niemeyer, D (1985), ‘An algorithm to construct continuous area cartograms’, The 
+Professional Geographer, Vol. 37, No. 1, pp. 75-81. 
+ 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+48 
+ 
+48 
+   Dow, S and Montagnoli, A (2007), ‘The Regional Transmission of UK Monetary Policy’, Regional Studies, Vol. 41, No. 
+6, pp. 797-808. 
+ 
+Easterlin, R (1974), ‘Does Economic Growth Improve the Human Lot?  Some Empirical Evidence’, in David, P and 
+Reder, M (eds.) (1974), Nations and Households in Economic Growth:  Essays in Honor of Moses Abramovitz, Academic 
+Press. 
+ 
+Easterlin, R (2013), ‘Happiness and Economic Growth:  The Evidence’, IZA Discussion Paper Series, No. 7187. 
+ 
+Ellis, C and Pike, T (2005), ‘Introducing the Agents’ scores’, Bank of England Quarterly Bulletin, Winter 2005, pp. 424-
+430. 
+ 
+Farmer, J D (2019), ‘How complexity can resolve the crisis in economics’, speech at Santa Fe Institute, 5 May 2019. 
+ 
+Forrester, J W (1969), Urban Dynamics, MIT Press.  
+ 
+Forth, T (2019), ‘”Birmingham isn’t a big city at peak times”:  How poor public transport explains the UK’s productivity 
+puzzle’, CityMetric, 31 January 2019. 
+ 
+Fratantoni, M and Schuh, S (2003), ‘Monetary Policy, Housing, and Heterogeneous Regional Markets’, Journal of 
+Money, Credit and Banking, Vol. 35, No. 4, pp. 557-589. 
+ 
+Galí, J (2015), Monetary Policy, Inflation, and the Business Cycle:  An Introduction to the New Keynesian Framework 
+and Its Applications, Princeton University Press. 
+ 
+Ge, J and Polhill (2016), ‘Exploring the Combined Effect of Factors Influencing Commuting Patterns and CO2 
+Emissions in Aberdeen Using an Agent-Based Model’, Journal of Artificial Societies and Social Simulation, Vol. 19, No. 3 
+ 
+Ge, J, Polhill, J, Craig, T and Liu, N (2018), ‘From oil wealth to green growth – An empirical agent-based model of 
+recession, migration and sustainable urban transition’, Environmental Modelling & Software, Vol. 107, pp. 119-140. 
+ 
+Geertz, C (1998), ‘Deep Hanging Out’, The New York Review of Books, 22 October 1998 
+ 
+Geospatial Commission (2019), ‘Annual Plan 2019/20’, HM Government. 
+ 
+Haldane, A (2012), ‘Tails of the unexpected’, paper given at “The Credit Crisis Five Years on:  Unpacking the Crisis” 
+conference at University of Edinburgh Business School, available at: 
+https://www.bankofengland.co.uk/speech/2012/tails-of-the-unexpected 
+ 
+Haldane, A (2016), ‘The Dappled World’, speech available at 
+https://www.bankofengland.co.uk/speech/2016/the-dappled-world 
+ 
+Haldane, A (2017), ‘Everyday Economics’, speech available at https://www.bankofengland.co.uk/speech/2017/andy-
+haldane-speech-during-regional-visit 
+ 
+Haldane, A (2018a), ‘Will big data keep its promise?’, speech available at 
+https://www.bankofengland.co.uk/speech/2018/andy-haldane-centre-for-data-analytics-for-finance-and-macro 
+ 
+Haldane, A (2018b), ‘Climbing the Public Engagement Ladder’, speech available at 
+https://www.bankofengland.co.uk/speech/2018/andy-haldane-royal-society 
+ 
+Haldane, A (2019), ‘Industrial Strategy and Institutions’, speech at Leeds Civic Hall, Industrial Strategy Council, 6 March 
+2019. 
+ 
+Haldane, A and Turrell, A (2018), ‘An interdisciplinary model for macroeconomics’, Oxford Review of Economic Policy, 
+Vol. 34, No. 1-2, pp. 219-251. 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+49 
+ 
+49 
+   Hardgrave, B, Waller, M, Miller, R and Walton, S (2006), ‘RFID’s Impact on Out of Stocks: A Sales Velocity Analysis’, 
+University of Arkansas Information Technology Institute. 
+ 
+Helliwell, J, Layard, R and Sachs, J (2019), ‘World Happiness Report 2019’, Sustainable Development Solutions 
+Network. 
+ 
+Heppenstall, A, Crooks, A, See, L and Batty, M (2012), Agent-Based Models of Geographical Systems, Springer. 
+ 
+Hidalgo, C and Hausmann, R (2009), ‘The building blocks of economic complexity’, Proceedings of the National 
+Academy of Sciences of the United States of America, Vol. 106, No. 26, pp. 10570-10575. 
+ 
+IPPR Commission on Economic Justice (2018), ‘Prosperity and Justice:  A Plan for the New Economy’, Institute for 
+Public Policy Research. 
+ 
+Izraeli, O and Murphy, K (2003), ‘The effect of industrial diversity on state unemployment rate and per capita income’, 
+The Annals of Regional Science, Vol. 37, No. 1, pp. 1-14. 
+ 
+Kaplan, G, Moll, B and Violante, G (2018), ‘Monetary Policy According to HANK’, American Economic Review, Vol. 
+108, No. 3, pp. 697-743. 
+ 
+Karnopp, D, Margolis, D and Rosenberg, R (1990), System Dynamics:  A Unified Approach, Wiley Interscience. 
+ 
+Krugman, P (1991), ‘Increasing Returns and Economic Geography’, Journal of Political Economy, Vol. 99, No. 3, pp. 
+483-499. 
+ 
+Krugman, P and Venables, A (1996), ‘Integration, specialization, and adjustment’, European Economic Review, Vol. 40, 
+No. 3-5, pp. 959-967. 
+ 
+Kydland, F and Prescott, E (1982), ‘Time to Build and Aggregate Fluctuations’, Econometrica, Vol. 50, No. 6, pp. 1345-
+1370. 
+ 
+Lorenz, E (1963), ‘Deterministic non-period flow’, Journal of the Atmospheric Sciences, Vol. 20, No. 2, pp. 130-141. 
+ 
+McCann, P (2016), The UK Regional-National Problem:  Geography, Globalisation and Governance, Routledge. 
+ 
+Mealy, P and Coyle, D (2019), ‘Economic Complexity Analysis:  A technical report for the research on Innovation & 
+Global Competitiveness’, Greater Manchester Independent Prosperity Review, March 2019. 
+ 
+Mealy, P, Farmer J D and Teytelboym, A (2019), ‘Interpreting economic complexity’, Science Advances, Vol. 5, No. 1. 
+ 
+Motieyan, H and Mesgari, M (2018), ‘An Agent-Based Modelling approach for sustainable urban planning from land use 
+and public transit perspectives’, Cities, Vol. 81, pp. 91-100. 
+ 
+Mundell, R (1961), ‘A Theory of Optimum Currency Areas’, American Economic Review, Vol. 51, No. 4, pp. 657-665. 
+ 
+Napoletano, M, Gaffard, J-L and Babutsidze, Z (2012), ‘Agent Based Models:  A New Tool for Economic and Policy 
+Analysis’, OFCE Briefing Paper, Sciences Po, pp. 1-15. 
+ 
+Ngamaba, K (2017), ‘Determinants of subjective well-being in representative samples of nations’, European Journal of 
+Public Health, Vol. 27, No. 2, pp. 377-382. 
+ 
+Novaco, R and Gonzalez, O (2009), ‘Commuting and well-being’ in Amichai-Hamburger, Y (eds.) (2009), Technology 
+and Psychological Well-being, Cambridge University Press. 
+ 
+Office for National Statistics (2014), ‘Commuting and Personal Well-being, 2014’, 12 February 2014. 
+ 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+50 
+ 
+50 
+   Patel, R, Gibbon, K and Greenham, T (2018), ‘Building a Public Culture of Economics:  Final Report of the RSA 
+Citizens’ Economic Council’, Royal Society for the encouragement of Arts, Manufactures and Commerce. 
+ 
+Rajan, R (2019), The Third Pillar:  How Markets and the State Leave the Community Behind, William Collins. 
+ 
+Rosenthal, S and Strange, W (2003), ‘Geography, Industrial Organization, and Agglomeration’, The Review of 
+Economics and Statistics, Vol. 85, No. 2, pp. 377-393. 
+ 
+Shaw, K and Fruhlinger, J (2019), ‘What is a digital twin?  [And how it’s changing IoT, AI and more]’, Network World, 31 
+January 2019. 
+ 
+Simon, H (1962), ‘The Architecture of Complexity’, Proceedings of the American Philosophical Society, Vol. 106, No. 6, 
+pp. 467-482. 
+ 
+Taylor, M, Pevalin, D and Todd, J (2007), ‘The psychological costs of unsustainable housing commitments’, 
+Psychological Medicine, Vol. 37, pp. 1027-1036. 
+ 
+Viladecans-Marsal, E (2004), ‘Agglomeration economies and industrial location:  city-level evidence’, Journal of 
+Economic Geography, Vol. 4, No. 2, pp. 565-582. 
+ 
+Viscek, T, Shlesinger, M and Matsushita, M (eds.) (1994), Fractals in Natural Sciences, World Scientific. 
+ 
+What Works Centre for Local Economic Growth (2018), ‘Developing effective local industrial strategies’, What Works 
+Centre for Local Economic Growth, June 2018. 
+ 
+Wildman, J (2003), ‘Income-related inequalities in mental health in Great Britain:  Analysing the causes of health 
+inequality over time’, Journal of Health Economics, Vol. 22, No. 2, pp. 295-312. 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+51 
+ 
+51 
+ 

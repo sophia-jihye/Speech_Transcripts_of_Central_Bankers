@@ -1,0 +1,420 @@
+G Gopalakrishna: Reserve Bank of India – Federal Reserve System 
+Market Risk Analysis Seminar 
+Inaugural speech by Mr G Gopalakrishna, Executive Director of the Reserve Bank of India, at 
+the Reserve Bank of India – Federal Reserve System Market Risk Analysis Seminar, New 
+Delhi, 21 January 2013. 
+ I  acknowledge  the  contribution  of  Mr  N  Suganandh,  Dy.General  Manager,  Dept.  of  Banking  Supervision,  in 
+preparing this speech. 
+1) 
+I  extend  a  warm  welcome  to  the  faculty  from  the  Federal  Reserve  and  all  the 
+participants  of  this  programme.  I  am  happy  to  inaugurate  the  Market  Risk  Analysis 
+Programme.  The  periodic  programmes  involving  the  Fed  Reserve  experts  have  been 
+welcomed wholeheartedly by the participants and we are glad to have another edition of the 
+training programme, with focus on market risk. I hope the participants would be immensely 
+benefited  by  this  programme,  just  like  the  participants  in  the  earlier  programmes.  The 
+programme also comes in the context of the proposed seminal change in the RBI’s banking 
+supervision methodology and process this year. I refer to the introduction of the risk based 
+supervision covering nearly half of the commercial banks in the first phase from the ensuing 
+cycle  onwards.  Focus  on  risks  and  tailoring  our  supervisory  stance  based  on  the  specific 
+risks in a financial institution would be the cornerstone of the new approach towards banking 
+supervision. In this milieu, there is a need for an enhanced understanding of the major risk 
+categories  individually  as  well  from  a  collective  perspective  in  terms  of  the  interactions 
+among the major risks. 
+2) 
+It has now come to be accepted that the inter-connected world has ensured that the 
+uncertainties in the advanced economies find their way to developing nations through various 
+channels  like  the  trade,  finance,  commodity  price  and  confidence  channels.  Critically,  the 
+uncertainties are reflected in the volatility of capital flows to emerging market which in turn 
+reflects  on  the  volatility  of  domestic  financial  market  variables.  To  understand  some 
+indicators  of  the  linkages,  we  can  see  that  the  ratio  of  India’s  external  trade  to  GDP  has 
+increased four-fold – from 8 per cent of GDP in 1972 to nearly 40 per cent now while the ratio 
+of two- way flow of goods and finance in and out of India to its GDP which incorporates non 
+trade related flows, has increased eight fold over last four decades, from 14 per cent in 1972 
+to well over 100 per cent now. Apart from linkages with the global developments, there are 
+several  domestic  factors  which  are  also  important  in  the  context  of  increasing  trend  of 
+volatility  in  domestic  financial  markets  such  as  widening  current  account  deficit,  growth 
+slowdown, growing fiscal deficit and sticky inflation, to name just a few. The uncertainty and 
+volatility  associated  with  the  financial  markets  are  expected  to  continue  at  least  for  the 
+foreseeable future, as the “new normal”. Managing the market risks in this context is a major 
+challenge for the corporates and the banks alike. 
+3)  Market risk is the most dynamic among the major risks, positions and hence the risks 
+can change much more frequently in quick time in comparison to other risks. The Financial 
+Stability Reports of the Reserve Bank have presented the results of coordinated stress tests 
+of scheduled commercial banks in respect of, inter alia, market risk. These tests conducted 
+on balance sheet and off balance sheet positions show that banks are indeed vulnerable to 
+sharp movements in market prices. Market risk is a risk practitioners delight at least from the 
+perspective  of  quantifying  them  while  it  is  not  so  straightforward  for  credit  risk  and  would 
+border  on  the  difficult  in  respect  of  operational  risk.  Of  course,  there  are  major  issues  in 
+respect of statistical methodologies in measuring market risk and VaR based measures have 
+been  derided  for  underestimating  risks.  The  issue  is  about  the  lack  of  having  acceptable 
+alternatives vis-à-vis accepting the imperfections and supplementing with other measures. I 
+will further elaborate later in my speech. 
+BIS central bankers’ speeches 
+ 1 
+4)  With  a  view  to  adopting  the  Basel  Committee  on  Banking  Supervision  (BCBS) 
+framework  on  capital  adequacy  which  takes  into  account  the  elements  of  credit  risk  in 
+various types of assets in the balance sheet as well as off-balance sheet business and also 
+to  strengthen  the  capital  base  of  banks,  Reserve  Bank  of  India  decided  in  April  1992  to 
+introduce a risk asset ratio system for banks (including foreign banks) in India as a capital 
+adequacy  measure.  Reserve  Bank  had  issued  guidelines  to  banks  in  June  2004  on 
+maintenance  of  capital  charge  for  market  risks  on  the  lines  of  “Amendment  to  the  Capital 
+Accord to incorporate market risks” issued by the BCBS in 1996. The market risk positions 
+subject  to  capital  charge  requirement  are:  (i)  The  risks  pertaining  to  interest  rate  related 
+instruments and equities in the trading book; and (ii) Foreign exchange risk (including open 
+position in precious metals) throughout the bank (both banking and trading books). With the 
+introduction of CDS, calculation of capital charge has been specified for banks using CDS as 
+a protection buyer or seller. 
+5) 
+A major action as part of Basel III framework is the introduction of the incremental risk 
+charge  for  the  trading  book.  In  2005,  the  Basel  Committee  became  concerned  that  banks 
+were reducing their capital requirements by shifting exposures from the banking book to the 
+trading  book.  Structured  products  whose  values  depended  on  the  credit  worthiness  of 
+companies  were  increasingly  put  under  trading  book.  The  products  were  less  liquid  than 
+other instruments in the trading book. Regulators had proposed an “incremental default risk 
+capital charge”(IDRC) that would be calculated with a 99.9% confidence level and a one year 
+time  horizon  for  instruments  in  the  trading  book  that  were  sensitive  to  default  risk.  These 
+instruments would therefore be treated in much the same way as similar instruments in the 
+banking book. In 2008, Basel Committee recognised that most of the losses sustained in the 
+credit  market  turmoil  of  2007  and  2008  were  from  changes  in  credit  ratings,  widening  of 
+credit  spreads  and  loss  of  liquidity,  rather  than  solely  as  a  result  of  defaults.  It  therefore 
+amended  its  previous  proposals  so  that  these  risks  were  included.  The  IDRC  became 
+generalised as “Incremental Capital Charge” (ICC). These measures are expected to reduce 
+the incentive for regulatory arbitrage between the banking and trading books. 
+6) 
+An  additional  response  to  the  crisis  is  the  introduction  of  a  stressed  value-at-risk 
+requirement.  Losses  in  most  banks’  trading  books  during  the  financial  crisis  have  been 
+significantly higher than the minimum capital requirements under the former Pillar 1 market 
+risk  rules.  The  Committee  therefore  requires  banks  to  calculate  a  stressed  value-at-risk 
+taking into account a one-year observation period relating to significant losses, which must 
+be calculated in addition to the value-at-risk based on the most recent one-year observation 
+period.  The  additional  stressed  value-at-risk  requirement  will  also  help  reduce  the 
+procyclicality  of  the  minimum  capital  requirements  for  market  risk.  This  is  expected  to 
+possibly  double  or  triple  the  capital  that  banks  would  have  to  keep  for  market  risks, 
+particularly for international banks. Perhaps this is the main reason for lukewarm response in 
+applying for advanced Internal Models Approach for calculating market risk capital in India. 
+As  the  recent  Financial  Stability  Report  of  RBI  issued  last  month  points  out,  only  three 
+commercial banks have applied for the advanced approach for market risk as opposed to 15 
+banks  who  have  applied for migrating  to IRB  approach for  calculation  of  credit risk  capital 
+and  9  banks  for  migrating  to  AMA  for  calculation  of  operational  risk  capital  charge.  Under 
+Basel III, even under Standardised approach banks are required to specifically consider the 
+various valuation adjustments while valuing their derivatives portfolios like – (i) incurred CVA 
+losses, (ii) closeout costs, (iii) operational risks, (iv) early termination, investing and funding 
+costs, and (v) future administrative costs and where appropriate, model risk. 
+7)  RBI has indicated that the capital requirement under IMA would be a function of three 
+components: (i) Normal VaR Measure (for general market risk and specific risk) (ii) Stressed 
+VaR Measure (for general market risk and specific risk) (iii) Incremental Risk Charge (IRC) 
+(for  positions  subject  to  interest  rate  specific-risk  capital  charge).  General  market  risk  and 
+specific risk can be modelled together or separately for normal VaR measure and stressed 
+VaR measure. In other words, a bank could calculate either a combined VaR measure for the 
+2 
+ BIS central bankers’ speeches 
+two  risk  categories  (general  market  risk  and  specific  risk)  or  separate  VaR  measures  for 
+each  of  them.  For  example,  the  most  extensive  approach  to  model  equity  risk  would  be 
+having risk factors corresponding to the volatility of individual equity issues. In such a case, 
+bank would have modelled both general market risk and specific risk together. However, in 
+cases  where  a  bank calculates  a  combined  VaR  measure,  it  should  be  able  to  isolate  the 
+VaR  for  each  component  so  as  to  enable  its  backtesting  and  use  in  the  day-to-day  risk 
+management. In addition, in the case of interest rate-sensitive positions, which have credit 
+risk, the banks will also have to compute incremental risk charge for default and migration 
+risks, which are generally not captured by the VaR model. To start with, banks in India are 
+required  to  model  general  market  risk  and  use  the  present  Standardised  Measurement 
+Method for specific risk. 
+8)  On measurement of market risks, VaR methodology has proved to be the main method 
+of assessing the overall market risk of trading positions over a short horizon, such as a 10 
+day period, and under “normal” market conditions. The mechanics of VaR has been variously 
+described at one end of spectrum as “a benchmark for managing financial risk” and at the 
+other end of the spectrum as an “intellectual fraud” along with various shades of opinions in 
+between  the  two  extremes.  In  effect,  the  methodology  allows  us  to  capture  in  a  single 
+number the multiple components of market risk such as curve risk, basis risk and volatility 
+risk. However, each time there is a turmoil in the worlds markets, the limitations of it as a 
+market risk measure are revealed. 
+9) 
+VaR  has  proved  unreliable  as  a  measure  of  risk  over  long  time  periods  or  under 
+abnormal market conditions. The danger posed by exceptional market shocks such as the 
+2007–08 financial crisis or the LTCM crisis in the world markets in 1998 – shocks that are 
+often accompanied by a drying up of market liquidity – can be captured only by means of 
+supplemental methodologies. The potential of VaR to exacerbate market volatility has also 
+been acknowledged. The herd mentality that is so typical of the financial industry means that 
+market sensitive risk management systems, such as VaR, actually make markets less stable 
+and more prone to crisis. This is because financial institutions may have to sell assets in the 
+affected classes when markets become volatile in order to keep within the VaR limits set by 
+senior  management;  this  depresses market  prices  even  further  and  increases  the  volatility 
+and correlation of the risk factors for these assets. This in turn might cause another set of 
+financial  institutions  to  exceed  their  VaR  limits,  forcing  them  to  reduce  their  exposure  by 
+selling still more of the same assets – perpetuating a vicious cycle. 
+10)  Thus the VaR measure works well as a risk measure only for markets operating under 
+normal conditions and only over a short period, such as one trading day. Potentially, it’s a 
+very poor and misleading measure of risk in abnormal markets, over longer time periods, or 
+for illiquid portfolios. Also, VaR, like all risk measures, depends for its integrity on a robust 
+control  environment.  In  many  instances  of  rogue-trading  cases,  hundreds  of  millions  of 
+dollars of losses have been suffered by trading desks that had orders not to assume VaR 
+exposures of more than a few million dollars. The reason for the discrepancy is reportedly 
+due to trading desks finding some way of circumventing trading controls and suppressing risk 
+measures.  For  example,  a  trader  might  falsify  transaction  details  entered  into  the  trade 
+reporting  systems,  by  using  fictitious  trades  to  balance  out  the  risk  of  real  trades,  or  by 
+tampering  with  the  inputs  to  risk  models,  such  as  volatility  estimates  that  determine  the 
+valuation  and  risk  estimation  for  an  options  portfolio.  As  you  would  agree,  opportunity  to 
+carry out such tasks is facilitated by inadequate management oversight arising from lack of 
+appreciation of the importance of the internal controls in trading environment. Further, there 
+were instances reported in recent years about management deliberately turning a blind eye 
+to risk measures or to the apprehension of the risk managers. 
+11)  For  a  good  risk  measure,  some  properties  have  been  propounded.  These  include 
+monotonicity,  translation  invariance,  homogeneity  and  sub-additivity.  The  risk  measures 
+satisfying all the conditions are referred to as coherent. It has been observed that while VaR 
+satisfies  the  first  three  conditions,  it  does  not  always  satisfy  the  fourth  condition  of  “sub 
+BIS central bankers’ speeches 
+ 3 
+additivity” which requires that the risk measure of two portfolios after they have been merged 
+should  be  no  greater  than  the  sum  of  the  their  risk  measure  before  they  were  merged. 
+However,  given  the  simplicity  and  want  of  better  alternative,  VaR  continues  to  be  used 
+supplemented with many other aspects like back testing to check the accuracy of the VaR 
+model,  stress  testing  and  scenario  analysis  to  assess  the  potential  impact  of  plausible 
+adverse market conditions among other measures. 
+12)  For  the  advanced  market  risk  approach,  a  bank  will  need  to  classify  its  back-testing 
+outcomes  into  three  zones  depending  on  the  number  of  exceptions  arising  from  back-
+testing.The  extreme  zone  is  the  red  zone  if  the  back-testing  results  produce  ten  or  more 
+exceptions  in  which  case  the  multiplication  factors  for  both  VaR  and  stressed  VaR  will  be 
+increased  from  three  to  four.  RBI  will  allow  10  or  more  exceptions  under  the  most 
+extraordinary circumstances. RBI may require banks whose model for market risk fall in Red 
+Zone to either discontinue the model or begin work on improving the model immediately. RBI 
+may  also  consider  further  increase  in  the  capital  requirements  if  the  bank  is  not  able  to 
+demonstrate that its models are capturing all market (general market risk and specific risk, if 
+any) risks it is exposed to. 
+13)  Banks  that  use  the  internal  models  approach  for  meeting  market  risk  capital 
+requirements must have in place a rigorous and comprehensive stress testing programme to 
+capture  such  potential  stresses.  The  stress  testing  programme  must  particularly  address: 
+(i) concentration  risk;  (ii)  illiquidity  of  markets  in  stressed  market  conditions;  (iii)  one  way 
+markets; (iv) event and jump to default risks; (v) non linearity of products; (vi) deep out of the 
+money positions; (vii) positions subject to the gapping of prices; and (viii) other risks that may 
+not  be  captured  appropriately  in  the  VaR  model  (for  example,  recovery  rate  uncertainty, 
+implied correlations and skew risk). 
+14) 
+In the aftermath of the financial crisis, model risk has come under intense scrutiny, and 
+the  governance  of  risk  model  supervision,  assessment  and  validation  has  taken  on  ever 
+greater  importance  for  the  risk  function  and  the  financial  industry  as  a  whole.  A  bank  is 
+required  to  l  have  a  model  validation  process  which  addresses  three  components  of  the 
+model:  (a)  a model  inputs  component,  which  delivers  data  and  assumptions  to  the model; 
+(b) a  model  processing  component,  which  encompasses  the  theoretical  model  and  the 
+computer  codes  which  transform  the  model  inputs  into  mathematical  estimates;  and  (c)  a 
+reporting  component,  which  translates  the  mathematical  estimates  into  useful  business 
+information. 
+15)  An interesting perspective is the interaction between credit risks and market risks. For 
+many reasons, both historical and practical, market and credit risk have often been treated 
+as  if  they  are  unrelated  sources  of  risk:  the  risk  types  have  been  measured  separately, 
+managed  separately,  and  economic  capital  against  each  risk  type  has  been  assessed 
+separately. The development of credit risk transfer markets and the moves to mark-to-market 
+accounting  for  portions  of  held-to-maturity  banking  book  positions,  however,  have  blurred 
+distinctions between them and raise questions regarding approaches that treat the two types 
+of risks separately. Market participants have argued that there are significant diversification 
+benefits  to  be  reaped  from  the  integrated  measurement  and  management  of  market  and 
+credit  risks.  The  recent  financial  crisis,  however,  has  illustrated  how  the  two  risks  may 
+reinforce each other and that in such stress situations illiquidity can worsen losses further. 
+16)  Market risk and credit risk are often distinguished by identifying the latter with (actual or 
+expected)  default. We  define  default  as  the  failure  to  meet  a  contractually  pre-determined 
+obligation. As the same economic factors tend to affect both types of risk, drawing a clear 
+distinction between them in practical risk measurement and management is, however, very 
+difficult. Even if distinct factors could be separately associated with the two types of risk, the 
+factors  often 
+therefore  risk 
+measurement  and  management  needs  to  explicitly  account  for  their  joint  influence.  In 
+practice, market and credit risk are often distinguished in relatively simple ways on the basis 
+in  determining  asset  values,  and 
+interact  significantly 
+4 
+ BIS central bankers’ speeches 
+of  instruments,  market  liquidity,  accounting  treatments  or  holding  periods.  It  is  being 
+increasingly  acknowledged  that  care  should  be  exercised  to  ensure  that  such  pragmatic 
+distinctions  do  not  lead  risk  managers  to  ignore  important  risks  that  emanate  from  the 
+interactions  between  market  and  credit  risk.  Examples  of  positions  in  which  such 
+compounding  effects  may  be  present  include  foreign  currency  loans,  floating  rate  loans 
+(including  sub-prime  mortgage  loans)  or  matching  long  and  short  positions  in  OTC 
+derivatives. 
+17)  As a BIS study states, Non-linear interaction emerges when losses from default on an 
+instrument depend on movements in market risk factors, or conversely, when changes in the 
+values of instruments due to movements of market risk factors depend on whether there is a 
+default  or  rating  migration.  In  these  circumstances,  the  two  types  of  risk  are  inextricably 
+linked,  and  attempts  to  measure  them  separately  and  then  combine  them  can  lead  to 
+substantial  biases.  In  fact,  research  shows  cases  in  which  the  combined  risk  is  actually 
+higher  than  the  sum  of  the  components  leading  to  “compounding  effects”  as  opposed  to 
+diversification effects. A particularly clear example is foreign currency loans, which constitute 
+a sizable part of lending in certain countries. Consider a bank lending in foreign currency to 
+domestic borrowers. These positions contain market risk (exchange rate risk) and credit risk 
+(default  risk  of  borrowers).  Now  assess  the  two  risks  separately.  When  for  example  the 
+domestic  economy  slows,  ceteris  paribus,  the  probability  of  domestic  borrowers  defaulting 
+increases. When the domestic currency depreciates, ceteris paribus, the value of the loan in 
+domestic currency increases as it is denominated in foreign currency. So, on the surface one 
+could think that the two effects offset each other. But this reasoning would neglect the strong 
+relationship  between  exchange  rate  changes  and  default  risk  in  this  type  of  contract.  The 
+ability of a domestic borrower to repay a loan in foreign currency depends in a non-linear way 
+on fluctuations in the exchange rate (unless the domestic borrower has other revenues in the 
+foreign  currency  in  which  the  loan  is  denominated).  A  home  currency  depreciation  has  a 
+particularly major effect on the repayment amount and therefore repayment probability of a 
+foreign currency loan by an unhedged domestic borrower, which tends to be stronger than 
+the valuation effect mentioned above. 
+18)  Similarly, floating or adjustable rate loans have coupons that change as interest rates 
+change. Therefore, if the coupons on the loans adjust frequently (or in the limit continuously), 
+then the interest rate risk of the loan is passed on to borrowers, and therefore, assuming the 
+loans  do  not  default,  they  have  no  market  risk  for  the  bank.  If  credit  risk  is  computed 
+separately  from  market  risk,  then  the  credit  risk  of  the  loans  is  computed  while  holding 
+interest  rates  constant.  This  treatment  of  credit  risk  can  miss  an  important  interaction 
+between  market  and  credit  risk.  For  example,  if  probabilities  of  default  are  increasing  in 
+interest rates, then holding rates constant can easily lead to an understatement of the true 
+probability  of  default  and  hence  the  sum  of  market  and  credit  risk,  when  computed 
+separately,  would  lead  to  an  understatement  of  total  risk.  The  same  is  the  case  with 
+matching long and short positions in OTC derivatives . The practical challenges of moving to 
+a fully  integrated measurement  and management  of  economic  risk,  however,  are  currently 
+substantial.  A  first  major  obstacle  to  integrating  market  and  credit  risk  measurement  and 
+management is that the metrics typically used for each of them are not fully comparable, with 
+market risk models capturing a full distribution of returns and credit risk models focusing on 
+losses from default and neglecting gains. 
+19)  Successful  management  of  market  and  credit  risk  often  relies  on  liquid  markets  to 
+hedge risks and unwind positions, as the ongoing financial crisis has abundantly illustrated. 
+Liquidity conditions interact with market risk and credit risk through the horizon over which 
+assets  can  be  liquidated.  In  particular,  deteriorating  market  liquidity  often  forces  banks  to 
+lengthen the horizon over which they can execute their risk management strategies. As this 
+time horizon lengthens, overall risk exposures increase, as does the contribution of credit risk 
+relative to market risk. The liquidity of traded products can vary substantially over time and in 
+unpredictable  ways.  Theoretical  research  indicates  that  such  liquidity  fluctuations,  all  else 
+BIS central bankers’ speeches 
+ 5 
+equal, should have a larger impact on prices of products with greater credit risk. Conversely, 
+as the financial crisis illustrated, valuation uncertainties or other shocks that enhance actual 
+or perceived credit risks can have adverse effects on liquidity and put in motion a downward 
+spiral between market prices and liquidity of traded credit products (see for example the case 
+of tranches from collateralised debt obligations based on sub-prime loans). 
+20)  As regards securitisation, the securitisation market is primarily intended to redistribute 
+the credit risk away from the originators to a wide spectrum of investors who can bear the 
+risk,  thus  aiding  financial  stability  and  provide  an  additional  source  of  funding.  The  recent 
+crisis  in  the  credit  markets  has  called  into  question  the  desirability  of  certain  aspects  of 
+securitisation  activity  as  well  as  of  many  elements  of  the  “originate  to  distribute”  business 
+model,  because  of  their  possible  influence  on  originators'  incentives  and  the  potential 
+misalignment of interests of the originators and investors. For example, if the incentives of 
+originators  are  not  sufficiently  aligned  with  those  of  the  holders  of  risk  then  banks’ 
+intermediation  function,  including  screening  and  monitoring  of  borrowers,  can  be  severely 
+impaired. Once these problems become apparent to the wider market, risk sharing markets 
+become dysfunctional or even disappear. If securitisation markets become illiquid, banks can 
+be exposed to heightened risk from exposures to both credit risk (defaults), for example as 
+loans can no longer be securitised, and to market risk from changes in the mark-to-market 
+value  of  the  securitised assets.  In  addition,  when  risk-sharing  markets  become  illiquid, the 
+signals  from  prices  can  become  distorted  or  even  disappear,  rendering  risk  measurement 
+especially challenging. A further requirement for well-functioning markets is that investors in 
+securitisation instruments should have a firm understanding of the associated risks. Recent 
+events exposed deficits in this understanding that were partly related to problems with the 
+availability  of  information  and  to  the  complexity  of  certain  securitisation  structures  that 
+obscured the  links  between  the  performance  of the  underlying  assets  and  the  price  of the 
+instruments. 
+21)  While  the  securitisation  framework  in  India  has  been  reasonably  prudent,  certain 
+imprudent practices have reportedly developed like origination of loans with the sole intention 
+of  immediate  securitisation  and  securitisation  of  tranches  of  project  loans  even  before  the 
+total  disbursement  is  complete,  thereby  passing  on  the  project  implementation  risk  to 
+investors. With a view to developing an orderly and healthy securitisation market, to ensure 
+greater alignment of the interests of the originators and the investors as also to encourage 
+the  development  of  the  securitisation  activity  in  a  manner  consistent  with  the  aforesaid 
+objectives,  several  proposals  for  post-crisis  reform  were  being  considered  internationally. 
+Central  to  this  is  the  idea  that  originators  should  retain  a  portion  of  each  securitisation 
+originated, as a mechanism to better align incentives and ensure more effective screening of 
+loans.  In  addition,  a  minimum  period  of  retention  of  loans  prior  to  securitisation  is  also 
+considered desirable, to give comfort to the investors regarding the due diligence exercised 
+by the originators. Keeping in view the above objectives and the international work, RBI had 
+framed  guidelines  regarding 
+the  Minimum  Holding  Period  and  Minimum  Retention 
+Requirement  among  other  measures  and  the  revision  in  its  securitisation  guidelines  was 
+issued in May, 2012. 
+In the context of banks applying for moving over to advanced approaches, there is a 
+22) 
+need to clearly distinguish between different Pillar I risks. For example, we need to be clear 
+as to under which risk category the following events would be classified – under market risk 
+or  under  operational  risk?  –  (i)  Incorrect  mark-to-market  valuations  and  VaR,  due  to,  for 
+instance,  erroneous  booking  of  a  trade  into  the  trading  system  and  the  market  moves  in 
+negative  direction  resulting  in  losses  (ii)  incorrect  specification  of  deals  in  the  term-sheet 
+(errors related to the transaction amount, maturities and financial features) (iii) unauthorised 
+trading in excess of risk limits (iv) failures in properly executing a stop loss. Those of you who 
+have answered as operational risk perhaps could be proud of having some level of detailed 
+understanding of the major risk categories. It is important to remember that with reference to 
+the interaction between operational risk and the other Pillar 1 risk types, for banks intending 
+6 
+ BIS central bankers’ speeches 
+to follow  AMA  for  operational  risk,  the  boundaries  between  operational  risk  and credit  and 
+market  risks  involve  different  treatments.  While  credit-related  operational  risk  losses  are 
+excluded from the operational risk capital requirement (as long as they continue to be treated 
+as  credit  risk  for  the  purpose  of  calculating  minimum  regulatory  capital),  operational 
+risk/market  risk  boundary  events  are  included  in  the  scope  of  operational  risk  rather  than 
+under market risk for regulatory capital calculation. 
+23)  When  distinguishing  between  operational  risk  (events  or  losses)  and  market  risk 
+(events  or  losses)  the  following  criteria  should  be  applied:  The  events  (and  the  related 
+losses)  which  should  be  included  in  the  “scope  of  operational  risk”  are:  (a)  Events  due  to 
+operational  errors;  (b)  Events  due  to  failures  in  internal  controls;  (c)  Events  due  to  wrong 
+selection of the model, made outside a defined business process/formalised procedure and 
+without  a  formalized,  conscious  risk-taking  process;  and  (d) Events  due  to  wrong 
+implementation  of  the  model.  In  all  these  cases,  the  whole  amount  of  the  loss  incurred 
+should be included in the “scope of operational risk loss”, unless the position is intentionally 
+kept open after the operational risk event is recognized. In the latter case any portion of the 
+loss due to adverse market conditions after the decision to keep the position open should be 
+ascribed to market risk. The events (and the related losses) which should be excluded from 
+the “scope of operational risk” include those arising from wrong selection of a model, made 
+through  a  formalized  corporate  process  where  the  pros  and  cons  of  the  model  itself  are 
+carefully weighed up. 
+24)  Participants would recall that a few days back the FED and OCC applied enforcement 
+action  against  JP  Morgan  after  they  found  weaknesses  in  internal  controls  in  its  London 
+office  which  lost  about  $6  billion  in  early  2012  on  derivatives  bets  through  synthetic  credit 
+portfolio  which  looked  more  like  speculation  than  hedging.  Some  of  the  key  requirements 
+forming part of the enforcement order included implementing risk management programme 
+effectively  and  consistently  across  the  firms  with  respect  to  trading  activities,  measures  to 
+ensure that controls for trading activities across lines of business are consistent, enhanced 
+model risk governance, measures to ensure that material risk management issues relating to 
+trading activities are escalated in a timely manner to senior management and the BoD or a 
+committee  thereof,  as  appropriate.  In  respect  of  internal  audit,  the  requirements  included 
+enhanced  escalation  procedures  for  timely  resolution  if  material  audit  exceptions  and 
+recommendations and measures to strengthen the ongoing quality assurance review of audit 
+practices. Similarly, in respect to a $2 billion loss at UBS, FSA while penalising the bank last 
+year had observed that risk management of the desk was not effective in controlling the risk 
+of unauthorised trading. The trade capture and processing system also had weakness which 
+were  exploited  in  order  to  conceal  unauthorised  trading.  The  system  allowed  trades  to  be 
+booked to an internal counterparty without sufficient details, there were no effective methods 
+in  place  to  detect  trades  at  material  off-market  prices  and  there  was  a  lack  of  integration 
+between systems. There was an understanding among personnel supporting the desk that 
+the operation divisions main role was that of facilitation. Their main focus was on efficiency 
+as opposed to risk control and they did not adequately challenge the front-office. All these 
+are  instances  are  indicative  of  what  is  missing  in  terms  of  management  and  control 
+processes that  lead  to  such  instances  and  are  instructive  to  us.  However,  notwithstanding 
+plethora of similar historical cases with perhaps slightly different modus operandi, new cases 
+keep coming now and then. Perhaps, the underlying causative factors arise from the system 
+of  incentives  and  disincentives,  which  have  also  been  factored  in  as  part  of  measures  to 
+address the issues causing the financial crisis of 2007–08. 
+25) 
+I am happy to note that the course coverage is comprehensive covering various areas 
+like sound internal controls and risk management systems for a bank’s trading book, tools to 
+measure,  monitor  and  control  market  risks,  discussion  on  emerging  issues  in  derivatives 
+markets, discussion on securitisation and basic accounting aspects relating to derivatives. I 
+hope the participants use the opportunity to further clarify their doubts relating to the subject 
+area of this programme from the Fed Reserve experts. I thank the Federal Reserve System 
+BIS central bankers’ speeches 
+ 7 
+for their continuing support in training our officials on various supervisory areas. I am certain 
+that  the  inputs  received  from  this  programme  would  assist  in  improving  knowledge  and 
+understanding  of  the  relevant  subject  areas  both  for  the  relatively  new  as  well  as 
+experienced inspecting officials who have gathered here, which is of particular significance in 
+the present context of moving to a risk based approach to supervision coupled with proposed 
+migration  of  some  of  the  banks  to  advanced  approaches  for  computation  of  capital  in  the 
+near  future.  I  wish  the  programme  a  great  success  and  wish  the  participants  a  fruitful 
+learning experience.  
+References 
+Bank for International Settlements (2011), ‘Revisions to the Basel II Market Risk Framework’, 
+February 
+Reserve Bank of India (2012), ‘Financial Stability Report’, December 
+RBI Guidelines on Implementation of Internal Models Approach (IMA) for market risk (2010) 
+Philippe  Jorion  (2009),  ‘Value  at  Risk-  The  New  Benchmark  for  managing  Financial  Risk’, 
+Tata McGraw Hill Education Private Ltd 
+Board  of  Governors  of  Federal  Reserve  System  (2013),  Consent  Order  with  JPMorgan 
+Chase and Co, January 
+FSA (2012), Notice to UBS AG, November 
+Reserve Bank of India ‘Guidelines on implementation of Basel III Capital Regulations in India’ 
+(2012) 
+Nassim  Nicholas  Taleb  (2010),  ‘The  Black  Swan-  The  impact  of  the  Highly  Improbable’, 
+Penguin Books 
+Bank for International Settlements (2009), ‘Findings on the interaction of market and credit 
+risk’, Working Paper No 16, May 
+RBI Guidelines on Advanced Measurement Approach (AMA) for Calculating Operational Risk 
+Capital Charge (2011) 
+8 
+ BIS central bankers’ speeches 

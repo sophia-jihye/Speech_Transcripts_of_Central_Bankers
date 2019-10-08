@@ -1,0 +1,923 @@
+José De Gregorio: Global confidence crisis – the value of waiting and the 
+coordination failures revisited  
+Keynote  speech  by  Mr  José  De  Gregorio,  Governor  of  the  Central  Bank  of  Chile,  at  the 
+opening  of  the  Post-Graduate  Program  of  the  School  of  Economics  and  Business 
+Administration of Universidad de Chile, Santiago, 4 June 2009. 
+I wish to thank Pablo García and Enrique Orellana for their helpful contributions and comments. 
+ “When,  as  today,  the  unknown  unknowns  dominate,  and  the  economic 
+environment is so complex as to appear nearly incomprehensible, the result is 
+extreme prudence, if not outright paralysis, on the part of investors, consumers 
+and firms. And this behaviour, in turn, feeds the crisis.” (Blanchard, 2009). 
+I  want  to  begin  by  thanking  you  for  inviting  me  to  open  the  academic  year  of  the  Post-
+Graduate Program of the School of Economics and Business Administration at Universidad 
+de Chile. Most of my presentations are for an audience that is primarily interested in learning 
+about the Bank’s view on the economy, so my lectures tend to focus largely on the national 
+and international junctures and their prospects. On this occasion, I will take advantage of the 
+academic  setting  that  brought  us  together,  and  the  freedom  I  was  given  to  choose  the 
+subject, to refer to a central aspect of the current global crisis, namely the confidence crisis, 
+focusing on some key concepts that can help us understand what is going on at this global 
+economic juncture. 
+The  natural  question  here  is:  what  was  the  ingredient  that  led  the  financial  events  of  mid-
+September of last year to end up the way they did? The developed world entered a severe 
+recession, and output dropped simultaneously in most countries. The crisis spread around 
+the world like a virus, with unprecedented and, of course, unforeseen strength and speed, 
+making no distinctions among economies’ strengths or weaknesses (Figure 1).  
+What  happened?  Why  was  there  no  differentiation?  How  could  such  massive  contagion 
+occur? Why the synchrony? All of these are very important questions in understanding how 
+the crisis was transmitted and how we will make it through. If there is one thing that is difficult 
+to explain it is the intensity of its impact. In Chile, neither the path that the domestic economic 
+cycle was experiencing nor the analysis of traditional transmission channels for an external 
+crisis  –  that  is,  financial  and  commercial  channels  –  are  capable  of  fully  explaining  what 
+happened (De Gregorio, 2009).  
+The  hypothesis  that  seems  to  have  most  ground  at  the  moment  is  that  a  deterioration  in 
+global  confidence,  understood  as  a  worsening  of  expectations  and  increased  uncertainty 
+around  the  world,  has  amplified  the  response to  the  initial  impact,  pushing  us  into  a  more 
+acute and synchronized crisis than we could envision at first. 
+It  helps  to  study  the  historical  relationships  among  the  data  if  cycles  and  patterns  tend  to 
+repeat themselves on a regular basis. But in the current crisis, which has no precedents in 
+many  decades,  to  look  at  simple  correlations  based  on  normal  periods  can  be  very 
+misleading.  From  my  standpoint,  it  is  more  important  to  conceptualize  what  is  happening 
+today, in order to analyze the prospects of the economy and draw policy conclusions. 
+To address this subject I will use some basic economics that will allow us to understand the 
+synchrony and severity of the current crisis. These arguments have been present for many 
+years in the profession and have gained enormous importance today. The first refers to the 
+existence of multiple equilibria and the effect of failed coordination. The second deals with 
+the  effect  of  uncertainty  on  economic  decision  making.  These  two  elements  help  us 
+understand how the confidence crisis that swept the world aggravated the output contraction, 
+hitting hardest the demand for industrial goods. In the next section I will describe the main 
+BIS Review 76/2009 
+ 1
+ideas  that  clarify  the  impact  of  the  confidence  crisis,  and  then  analyze  the  international 
+scenario in the following section. 
+Some basic ideas 
+The objective here is to account for the basic ideas behind the coordination failures, multiple 
+equilibria and how uncertainty affects aggregate demand. 
+Coordination failures 
+Let us assume a very simple economy1 with a large number of consumers. Each consumer 
+demands D units of a manufactured good, which we can think of as a durable good (e.g., car, 
+house, appliance, electronic device). We can also think of durable goods demanded by firms 
+when they invest (e.g., machinery and equipment, warehouses, plants).  
+The  demand  of  consumers  and  firms  is  a  function  of  their  expectations  of  future  income, 
+directly related with the expected value of aggregate output in the economy. Y will denote the 
+level  of  output  and  EY  its  future  expected  value.  We  will  also  assume  that  the  demand 
+depends on the level of uncertainty which we will call σ and I will discuss later. For now, it is 
+enough  to  consider  that  the  demand  falls  when  uncertainty  grows.  Thus,  the  demand  for 
+goods is represented by D(EY,σ). 
+Firms, in this example, produce what is demanded from them.2 Normalizing the population of 
+firms  and  consumers  to  1,  the  equilibrium  will  occur  when  the  demand  equals  the  supply 
+(Y=D). In equilibrium under rational expectations, product must be equal to expected product, 
+or: 
+Y=D(Y,σ) 
+Now, with a couple more assumptions we can find the equilibrium (Figure 2). The equilibrium 
+is  unique  in  A.  For  this,  the  demand  is  assumed  to  be  concave,  that  is,  any  additional 
+demand  for  goods  is  smaller  as  income  increases.  To  ensure  a  unique  equilibrium  we 
+assume that, for EY=0, the demand for the good is positive. This can be understood as the 
+individual having another source of income and expenses, and always wanting to devote part 
+of the other income to consume this good. Another simple way of seeing it is to think that the 
+individual will want to borrow to acquire this good, even if her income is very low, presumably 
+because she always expects to have the funds available in the future to repay. As we will 
+see, however, it is possible that multiple equilibria exist, with low and high output, as a result 
+of coordination failures.  
+Uncertainty and the value of waiting 
+Decision  making  under  uncertainty  has  always  been  a  complex  thing  to  study.  Often  to 
+simplify, we turn to quadratic specifications in order to use certainty equivalence. Surely this 
+                                                 
+1   This exercise is based on an MIT class exercise which, despite having saved my notes and after a number of 
+inquiries with friends, I have been unable to find. The original model was somewhat more complex because it 
+assumed strategic interactions among firms, and here the demand is only taken as given. More formal models 
+were developed in Cooper and John (1988). For a thorough review of this literature, see Cooper (1999).  
+ Note that because this is only an illustration, many aspects were left out of the analysis. In this case we are 
+assuming that there is some friction in the price-setting mechanism that prevents firms from selling all they 
+want at a given price. This friction may come from firms deciding how much to produce before they know the 
+demand,  which  would lead  us to incorporate the producers’ decisions  to this story. Analytically, however, it 
+would not change much. 
+2 
+2 
+ BIS Review 76/2009
+falls  short  of  describing  the  much  more  complex  reality;  for  example,  when  the  analysis 
+considers decisions to invest or consume (durables) in the presence of irreversibilities.3  
+When a decision is irreversible, there is no chance to back out; for example, an investment is 
+made for which no secondary market exists to liquidate it. The purchase of a durable good is 
+another case. We know, however, that in general there will always be some way to get rid of 
+the good, but part of its cost is impossible to recover – it is a sunk cost. A firm can build a 
+plant,  for  instance,  but  to  get  rid  of  it  the  firm  will  have  to  resell  it  below  cost  because  of 
+specific features that prospective buyers will not appreciate.  
+In an environment of certainty, expenses will be incurred whenever the benefits outweigh the 
+costs. Therefore, the choice is between spending and not spending. But with uncertainty and 
+irreversibility,  the  choice  is  no  longer  between  spending  and  not  spending,  but  rather 
+between spending, not spending, and waiting. This option has a value, because as time goes 
+by, uncertainty fades. 
+Thus, the more uncertain a choice is, the more profitable it is to wait. Imagine the case of a 
+firm having to invest. Such investment consists of enlarging its facilities and purchasing new 
+capital goods. If things go right, the investment will be very profitable. If things go wrong, the 
+benefits of investing will be very low, and the present value of the project will be negative. 
+Hence, had the firm known that things were going to go wrong, it would have preferred not to 
+invest. If the passing of time helps to know with more certainty whether things will go right or 
+wrong, the firm may find it convenient to wait and see. Waiting permits it to keep the choice 
+between investing and not investing open, which is not the case when the investment has 
+already  been  made.  Thus  the investment  can be  analyzed  with  the  theory  of  options.  The 
+firm  must  balance  the  cost  of  postponing  the  investment  with  the  benefit  of  learning  more 
+about the situation and making a better informed decision. Then, the larger the uncertainty, 
+the greater the benefit of waiting.  
+This same logic can be applied to a consumer that must decide on the purchase of a durable 
+good, but is uncertain about his future income. If the probability of losing his job increases, it 
+may be advisable to wait before making the decision. Although this analysis is very simple 
+intuitively, it is not easy to formalize. A consumer can sell his car or an electronic device if he 
+loses  his  income,  but  it  will  be  at  a  cost.  The  higher  this  cost,  the  more  irreversible  the 
+decision becomes.4
+This idea permits us to explain why the decision to wait and see can be optimal and permits 
+us to justify why demand, D, depends negatively on uncertainty, σ. 
+The increase in uncertainty and the fall in demand 
+What is critical about this analysis is that it can be very important from a quantitative point of 
+view.  The  decision  is  not  marginal.  An  increase  in  uncertainty  does  not  result  in  “some” 
+decrease in spending. An uncertainty shock that is common to all  will lead every firm and 
+every consumer to paralyze spending, causing a collapse in demand.  
+The  main  point  is  that  this  fall  can  be  so  sharp  that  one  can  even  have  more  than  one 
+possible equilibrium (Figure 3). This could be the case if households decide to increase their 
+savings significantly, such that low-income families would rather not spend on durable goods. 
+The same could be true if firms decide not to invest. Thus, households and firms would delay 
+                                                 
+3   For the case of irreversible investment, Dixit and Pindyck (1994) provide a very thorough analysis. A simple 
+example is presented in De Gregorio (2007), chapter 4. 
+Implications like the ones described here can be inferred from the precautionary savings theory. In order to 
+avoid  the  cost  in  lost  utility  of  extreme  negative  events,  the  consumer  chooses  to  keep  some  buffer-stock 
+savings.  If  uncertainty  aggravates,  for  example  by  increasing  the  dispersion  of  future  earnings,  then 
+precautionary saving will probably increase, which is done by postponing consumption decisions. 
+4 
+BIS Review 76/2009 
+ 3
+their  decisions  to  spend  on  durable  goods,  awaiting  uncertainty  to  clear  up.  Households, 
+however,  would  continue  to  spend  on  non-durables.  Actually,  the  share  of  goods  like 
+foodstuff  in  the  total  consumption  basket  would  increase.  Durable  and  investment  goods, 
+meanwhile, are the ones subject to this wait and see strategy and, by their own nature, their 
+purchase can be postponed.  
+Thus, there are two possible equilibria: B and C, both with output below the original level A. 
+Furthermore, we can think that in case C the loss of confidence is very big, which magnifies 
+the  fall  in  demand  that  may  result  from  a  cyclical  adjustment.  In  such  a  case  pessimism 
+dominates. Everyone thinks that economic activity will fall due to increased uncertainty and 
+that  is  exactly  what  happens,  so  pessimism  is  justified.  This  point  is  more  general:  facing 
+multiple equilibria, how do private expectations coordinate for the economy to converge to 
+one or the other? Evidently there is no natural mechanism, so failed coordination can easily 
+lead the economy to settle in the worst equilibrium. 
+The exercise I have presented is pretty simple and it surely overlooks many relevant aspects, 
+especially the dynamics that might allow us to analyze the loss of confidence. It is still helpful 
+because it explains why the increase in uncertainty triggered by the deterioration in output 
+and the financial crisis deepens the fall in output, whose effects can be substantial. 
+Let me proceed, then, by showing you what has been happening in the world and in Chile 
+and  how  we  can  observe  the  increase  in  uncertainty  in  agents’  expectations  and  its 
+propagation around the globe. 
+The global crisis of confidence 
+I will start by listing the main aspects I will be focusing on: 
+• 
+The synchrony of this crisis is unprecedented. The drop in output made no distinction 
+among economies’ strengths or weaknesses. 
+Global uncertainty and distrust were particularly acute towards the end of last year. 
+The severe drop in demand was concentrated largely in durable goods. Investment 
+and consumption of these products collapsed by the end of 2008. 
+ To contextualize this episode, I will begin by recalling that a debate about the accumulation 
+of  strong  global  imbalances  had  been  going  on  for  several  years,  focusing  on  their 
+implications  and  ways  to  correct  them.  The  Central  Bank  of  Chile  identified  them  as  a 
+significant risk in many of its Monetary Policy Reports. Meanwhile, the world proceeded with 
+very unusual dynamism. World GDP grew by an annual average of nearly 5 percent between 
+2004 and 2007, while commodity prices increased manifold. Copper, for instance, went from 
+selling at about US$1.00 per pound in late 2003 to approaching and even briefly surpassing 
+$4.00 during April and July 2008. Oil went from trading at around 30 to 35 dollars per barrel 
+in late 2003 to close to 150 dollars last July. Meanwhile, in the United States, the subprime 
+mortgage crisis had already erupted in mid 2007, and by March 2008 an important financial 
+institution, Bear Stearns, had collapsed. 
+An important point of this preamble of the facts of September 2008 is that the string of events 
+I  just  mentioned  had  no  significant  effect  on  economic  expectations, nor  did  it  change  the 
+mean of expected growth or increase uncertainty. This, despite the fact that the Bear Stearns 
+bankruptcy was a very significant occurrence for the international financial market. Actually, 
+the volatility of stock markets went up a rung in mid-2007, but was pretty mild if compared 
+with September 2008 (Figure 4). This stock volatility index (VIX), which is normally used as a 
+4 
+ BIS Review 76/2009
+good indicator of uncertainty,5 shows how it increased several times during the peak of the 
+crisis in September and October of last year. The latest figures show uncertainty declining, 
+although it remains high.  
+Thus,  according  to  market  consensus,  world  growth  for  2008-2009  posted  no  significant 
+changes between March and September of 2008 (Figure 5). The situation in Chile did not 
+differ  much  (Figure  6).  During  the  whole  of  2007,  growth  projections  for  2008  fluctuated 
+around 5 percent, even after the eruption of the housing crisis in the United States. At the 
+time of Bear Stearns’ bankruptcy there had been some adjustment in expected growth for the 
+year,  but  in  September  there  was  even  a  slight  correction  upwards.  The  Bank’s  forecasts 
+were similar. The growth projections for 2009 are not so different; actually the larger part of 
+the  correction  was  done  after  December  2008.  In  sum,  since  September  a  significant 
+correction has been applied to the expected value for growth. 
+In addition to a smaller forecast for future earnings, there has been an increase in related 
+uncertainty  (Figure  7).  In  the  United  States,  in  early  2008,  the  width  of  the  distribution  of 
+growth  projections  for  2009  was  2  percentage  points.  In  early  2009,  the  same  width 
+increased to 2.3 percentage points and, by May, with at least the data for the first quarter of 
+the year available, the width was of 3.3 percentage points. In Chile, GDP projections taken 
+from  the  Economic  Expectations  Survey  depict  a  similar  picture,  that  is,  the  level  of 
+uncertainty among those forecasting growth has been increasing, despite the fact that, as the 
+year passes and new data are added, the projections should not only be better but also have 
+a smaller degree of uncertainty. 
+What  began  happening  in  September  2008  that  changed  so  dramatically  the  economic 
+scenario  around  the  world,  Chile  included?  As  I  said  before,  the  simple  observation  of 
+traditional  transmission  channels  of  an  external  crisis  cannot  explain  the  events.  On  one 
+hand,  financial  conditions  tightened  significantly  worldwide.  The  domestic  financial  system 
+also suffered, although without any episodes that might compromise its solvency. However, 
+the  possibility  of  reduced  access  to  external  funds,  plus  the  increase  in  global  risk,  put 
+pressure on internal financial conditions, causing a significant increase in interest rates and 
+lending  standards.  At  the  same  time,  when  future  earnings  became  more  uncertain, 
+households and firms significantly reduced their demand for new credit, as revealed by the 
+Banking Credit Survey that the Central Bank conducts on a quarterly basis. 
+Overall, the tightening of financial conditions was not so severe as to hinder banks’ access to 
+external credit or their proper functioning domestically. This was possible also because of a 
+set  of  measures  adopted  by  the  Central  Bank  and  the  Ministry  of  Finance  to  ensure  the 
+proper functioning of the financial system. 
+Nonetheless, due to the higher uncertainty, the sensation that the world economy might enter 
+into a significant depression with huge losses of wealth triggered an unprecedented erosion 
+of global confidence. Growth forecasts began adjusting at great speed. Undoubtedly this hit 
+the behavior of households and firms hard around the world, which stopped their spending 
+plans, or put them on hold indefinitely.  
+Consumers’ and entrepreneurs’ expectations indicators showed a profound weakening in the 
+last quarter of 2008 (Figure 8). A look at durable goods consumption indicators reveals the 
+steep  fall  in  sales  levels  (Figure  9).  All  this  takes  me  back  to  the  previous  point  in  my 
+presentation.  The  dramatic  increase  in  uncertainty  that  began  in  September  of  last  year 
+altered  people’s  behavior  substantially,  leading  to  an  abrupt  and  sudden  paralysis  of  the 
+demand for durable goods. 
+                                                 
+5   Bloom (2009) presents evidence where the use of this indicator helps to understand the US economic cycle, 
+precisely because firms temporarily put their decisions on hold regarding investment and new hirings.  
+BIS Review 76/2009 
+ 5
+At the world level, the situation wasn’t so different. Expectations of both individuals and firms 
+suffered a severe decline (Figure 10). Stock prices around the world dropped dramatically, 
+reflecting  the  worsened  expectations  (Figure  11).  The  prices  of  commodities  also  fell 
+because  of  the  reduction  in  demand  expected  for  the  future.  The  exception  was  gold, 
+commonly used as a store of value at times when perceived risks increase (Figure 12).  
+The  drop  in  demand  was  particularly  steep  in  the  manufacturing  sector.  This  explains  the 
+severity of the corrections to growth forecasts in countries that export manufactured products 
+such as Japan and Germany and the recently industrialized Asian economies, among others. 
+These  countries  are  expected  to  experience  an  average  fall  in  GDP  of  around  5  percent 
+during this year. 
+The main effect of the reduction in world demand on the Chilean economy has been the drop 
+in the prices of our exports, and those of many other countries. This pulled down the terms of 
+trade and debilitated the national income prospects. However, as I have said a number of 
+times  before,  the  impact  of  reduced  demand  is  milder  in  countries  that  export  natural 
+resource  related  goods,  like  Chile.  Hence  the  drop  in  exports  in  countries  selling  raw 
+materials  to  the  world  has  had  a  relatively  small  effect  on  their  output.  Their  demand  has 
+dropped,  and  so  have  their  prices, but  they  have  not  experienced  the collapse  associated 
+with postponing expenditures on goods of industrial origin. Although selling is tougher, export 
+volumes  have  adjusted  less  than  the  world  average,  which  is  expected  to  fall  around  10 
+percent this year, while the baseline scenario of our latest Monetary Policy Report foresees 
+that the volume of Chilean exports will drop around 2 percent annually in the same period. 
+This has been one of the factors explaining the milder impact of the crisis in Latin America. 
+This  crisis  has  been  particularly  harsh  on  industrialized  economies,  which  have  seen  a 
+steeper  fall  in  demand  for  their  products  due  to  the  great  fall  in  demand  for  durable  and 
+investment goods (Figure 13). 
+Final remarks 
+Expansionary  macroeconomic  and  fiscal  policies  can  help  boost  economic  activity  when 
+facing a deep drop in demand. However, their effects on confidence are not obvious. Thus, it 
+is essential for measures taken to be sustainable and credible. If they lack credibility, their 
+expansionary effect will be constrained by lack of confidence. Furthermore, it is conceivable 
+that  in  the  presence  of  deep  macroeconomic  weakness  expansionary  policies  might 
+exacerbate  the  loss  of  confidence.  This  explains  why  many  countries  need  to  raise  their 
+interest rates and make fiscal adjustments in the midst of an economic crisis, because their 
+economic  policies  and  financial  systems  lack  credibility.  This  is  obviously  not  the  case  in 
+Chile  today.  In  our  country,  the  extraordinary  fiscal  and  monetary  stimulus  should  be  very 
+effective, because these efforts are sustainable and credible. This is visible also, to different 
+degrees, in other economies in the region that are committed to foreign exchange flexibility, 
+price stability, fiscal responsibility and financial soundness. Developed economies will need 
+to correctly address the medium-term effects of monetary expansions and increased public 
+debt. 
+If the origin of the global loss of confidence is the financial crisis, then stabilizing the banking 
+industry and restoring the payment system is not only a priority but a necessary condition for 
+economic  recovery.  Hence  the  importance  that  developed  countries  have  placed  on 
+stabilizing the financial system, which is timidly beginning to bear fruit.  
+No  simple  or  rapid  prescription  exists  to  rebuild  the  confidence  that  has  been  lost.  Some 
+think that conveying optimism is a good idea. However, if such optimism has no ground, only 
+a lack of sense of reality will be communicated. On the other hand, sending a pessimistic 
+message can erode confidence even further. If there is one thing we know, not only about 
+economics but about every walk of life, it is that people cannot be fooled forever, so the only 
+way to act is realistically. 
+6 
+ BIS Review 76/2009
+We are enduring a world recession, and nobody disagrees about the current hardships the 
+world  economy  faces,  so  the  discussion  has  shifted  to  when  we  will  see  the  first  signs  of 
+recovery.  The  scenario  of  global  economic  and  financial  catastrophe  has  dissipated,  and 
+confidence seems to be recovering. One piece of evidence that the “free fall” of the world 
+economy may have stopped is the evolution of growth projections for the year (Figure 14). 
+After  the  sharp  deterioration  post-September  2008,  the  downward  revision  to  the  growth 
+expected  for  this  year  has  moderated  in  magnitude  significantly  in  most  of  the  economic 
+zones.  In  Japan,  which  has  suffered  one  of  the  most  intense  revisions  in  the  past  few 
+months, the latest forecast revised upwards the expected growth for 2009. GDP growth for 
+2010, which had posted small but systematic falls since September, is showing stability in 
+the  latest  forecasts.  Combined  with  this,  perceptions  regarding  investors’  appetite  for  risk 
+seem  to  be  picking  up.  Sovereign  premiums  have  declined,  capital  flows  to  emerging 
+economies are returning, interest rates on Treasury bonds are increasing in many economies 
+and the various expectations indicators are signaling some degree of recovered confidence. 
+Extreme pessimism is withdrawing, but we cannot expect an accelerated recovery. 
+The confidence crisis is one piece – an important one – of the explanation of the synchrony 
+and strength of the shock that occurred at the end of last year. However, the distortions that 
+motivated this confidence crisis will have persistent effects, even after the confidence is fully 
+recovered. 
+The loss of confidence explains the sharp and sudden downfall of the global economy, as 
+well as its propagation to the other countries. However, the origin of the crisis is not this loss 
+of confidence, but rather can be traced back to years of financial excesses that will take time 
+to  resolve.6  The  big  and,  in  the  light  of  what  we  know  today,  unreasonable  private 
+overborrowing in many developed countries will have to be corrected, leading to significant 
+de-leveraging mostly of households. They will raise their saving rates which will hold back 
+growth in consumption and demand. The countries that grew fast based on credit booms will 
+have to adjust. We cannot expect the world economy to go back to pre-crisis growth rates. 
+These  are  normal  stages  of  the  business  cycle,  but  the  magnitude  of  the  imbalances  that 
+formed in those countries now experiencing financial crises indicate that their recovery will be 
+slower.  This  is  why  when  the  downturn  of  the  economic  cycle  combines  with  a  financial 
+crisis,  its  costs  are  magnified.  This  can  be  understood  and  even  quantified  by  using 
+consumption theories, but that we will save for a future opportunity. 
+Thank you very much. 
+References 
+Blanchard,  O.  (2009),  “(Nearly)  Nothing  to  Fear  but  Fear  Itself,”  The  Economist,  January 
+29th. 
+Bloom,  N.  (2009),  “The  Impact  of  Uncertainty  Shocks,”  Econometrica,  Vol.  77,  No.  3,  pp. 
+623-685. 
+Cooper,  R.  (1999),  Coordination  Games:  Complementarities  and  Macroeconomics, 
+Cambridge University Press. 
+Cooper, R. and A. John (1988), “Coordinating Coordination Failures in Keynesian Models,” 
+Quarterly Journal of Economics, Vol. 103, No. 3, pp. 441-463. 
+De  Gregorio,  J.  (2007),  Macroeconomía.  Teoría  y  Políticas,  Prentice  Hall-Pearson 
+Educación. 
+                                                 
+6  
+If the crisis was caused only by a rise in uncertainty, a rapid recovery could be expected (Bloom, 2009), but 
+the argument here is that imbalances exist that may hold back this recovery slowing it down. 
+BIS Review 76/2009 
+ 7
+De  Gregorio,  J.  (2009),  “Chile  frente  a  la  recesión  mundial,”  Estudios  Públicos,  Vol.  113, 
+summer 2009, pp. 5-26. 
+Dixit, A. and R. Pindyck (1994), Investment Under Uncertainty, Princeton University Press.  
+Figure 1
+Countries posting drops in real GDP in the fourth quarter of 2008 (*)
+(percentage of whole sample)
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+71
+74
+77
+80
+83
+86
+89
+92
+95
+98
+01
+04
+07
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+(*) Using the annualized quarterly GDP for a sample of 29 developed an emerging economies. 
+Source: Central Bank of Chile.
+  
+ 
+Figure 2 
+Equilibrium 
+ 
+ 
+ 
+ 
+D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+8 
+ A
+Y, EY 
+BIS Review 76/2009
+A
+B
+Bear Stearns 
+goes bankrupt
+Lehmann, AIG, etc. 
+Subprime crisis 
+erupts
+C 
+Figure 3 
+Multiple Equilibria 
+ 
+ 
+ 
+ 
+D 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Figure 4
+Volatility of S&P 500 (*)
+(percent)
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+Jan.06
+Jul.06
+Jan.07
+Jul.07
+Jan.08
+Jul.08
+Jan.09
+(*) Corresponds to volatility index VIX.
+Source: Bloomberg.
+ 
+BIS Review 76/2009 
+ Y, EY
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+ 9
+Figure 5
+Projected world growth
+(annual change, percent)
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+Subprime crisis 
+erupts
+Bear Sterns goes 
+bankrupt
+Lehmann, AIG, etc. 
+07 May Sep. 08 May Sep. 09 May
+(a) Projections for 2008
+Source: Consensus Forecasts.
+ 
+ 
+ 
+ 
+ 
+Figure 6
+Projected growth for Chile
+(annual change, percent)
+6
+5
+4
+3
+2
+1
+Subprime crisis 
+erupts
+Bear Sterns goes 
+bankrupt
+Lehmann, 
+AIG, etc.
+07 May
+Sep.
+08 May
+Sep.
+(a) Growth projectoins for 2008
+4
+3
+2
+1
+0
+-1
+-2
+-3
+6
+5
+4
+3
+2
+1
+0
+-1
+Source: Economic Expectations Survey, Central Bank of Chile.
+Bear Stearns goes 
+bankrupt
+Lehmann, AIG, 
+etc.
+08
+Jul. Oct.
+Apr.
+09
+(b) Projections for 2009
+Apr.
+Bear Stearns goes 
+bankrupt
+Lehmann, AIG, 
+etc.
+Apr.
+Jul. Oct.
+08
+(a) Growth projectoins for 2009
+09
+Apr.
+  10 
+ BIS Review 76/2009
+Figure 7
+Distribution of growth projection for 2009 (*)
+United States
+Chile
+-2.0 -1.5 -1.0 -0.5 0.0
+Jan. 08
+Jan. 09
+0.5
+Sep. 08
+May. 09
+1.0
+-1.3
+-0.8
+-0.3
+0.2
+0.7
+May 07/Aug.08
+Jan./May 09
+Sep./Dic.08
+(*) For the United States, minimum (maximum) point of each curve shows the difference between the lowest
+(highest) projection and the median. For Chile, the difference between decile 1(9) and the median.
+Sources: Consensus Forecasts and Economic Expectations Survey of the Central Bank of Chile.
+ 
+ 
+ 
+Figure 8
+Consumers' and entrepreneurs' perception indexes
+90
+140
+70
+70
+ 70
+50
+30
+10
+86 92 98 02 04 06 08
+120
+100
+80
+60
+60
+50
+40
+30
+04
+05
+06
+07
+08
+09
+IPEC (1)
+Total IMCE(3)
+U. de Chile (2)
+Excl. mining (4)
+(1) Values above (below) 50 points indicate optimism (pessimism). Before January 2003, the index was 
+published quarterly. From then on, its publication is monthly.
+(2) Index, March 2001 = 100.
+(3) Values above (below) 50 points indicate positive (negative) expectations.
+(4) Weighted average of three sector confidence indicators: manufacturing Industry, retail and 
+construction. 
+Sources: Adimark, Universidad de Chile and ICARE/Universidad Adolfo Ibáñez.
+BIS Review 76/2009 
+ 60
+50
+40
+30
+ 11
+Figure 9
+Durable goods sales
+(index, average January 1996 - April 2009=100)
+230
+190
+150
+110
+70
+30
+230
+190
+150
+110
+70
+30
+96 97 98 99 00 01 02 03 04 05 06 07 08 09
+New automobiles' sales (units)
+Capital goods imports (nominal)
+Sources: Asociación Nacional Automotriz de Chile (ANAC) and Central Bank of Chile.
+ 
+ 
+ 
+ 
+ 
+Figure 10
+Economic perception
+(diffusion indexes, percent)
+Business confidence (1)
+Consumers' confidence (2)
+70
+60
+50
+40
+30
+20
+08
+07
+       Brazil
+       U.S.
+       Japan        Eurozone
+Jul.
+       China
+       Mexico
+140
+120
+100
+80
+60
+40
+Jul.
+09
+S. Korea
+120
+100
+80
+60
+40
+20
+07
+      Brazil
+      China
+      U.S.
+      Mexico
+Jul.
+08
+Jul.
+09
+S. Korea
+    Japan
+Eurozone
+ 60
+50
+40
+30
+20
+10
+(1) S. Korea is anchored in 100. (2) Series of Japan, Eurozone and S. Korea anchored in 50. The rest of the series are 
+indexes with base January 2007=100.
+Source: Bloomberg.
+ 12 
+ BIS Review 76/2009
+Figure 11
+Stock market indicators (*)
+(Index 01/03/2005 =100)
+erupts
+Bear
+Stearns
+Subprime crisis 
+Lehman,
+ AIG, etc.
+400
+350
+300
+250
+200
+150
+100
+50
+Jan.05 Jul.05 Jan.06 Jul.06 Jan.07 Jul.07 Jan.08 Jul.08 Jan.09
+Emerging Europe
+Japan
+Emerging Asia
+United States
+Latin America
+Eurozone
+(*) MSCI for regions, Dow Jones for the U.S. and Nikkei for Japan.
+Source: Bloomberg.
+ 
+ 
+ 
+Figure 12
+Commodities prices
+(index 01/03/2005=100; gold in US dollars per ounce)
+400
+300
+200
+100
+0
+Jan.05
+Subprime crisis 
+erupts
+Bear
+Stearns
+Lehman,
+AIG, etc.
+Jan.06
+Jan.07
+GSCI grains and cereals
+GSCI energy
+GSCI metals
+Jan.08
+Jan.09
+Gold
+Source: Bloomberg.
+BIS Review 76/2009 
+ 400
+350
+300
+250
+200
+150
+100
+50
+ 1,200
+900
+600
+300
+0
+ 13
+Figure 13
+Share of durable goods in total exports and contribution of exports to GDP 
+quarterly growth in the fourth quarter of 2008
+ 
+s
+t
+r
+o
+p
+x
+e
+ 
+e
+l
+b
+a
+r
+u
+D
+ 
+)
+s
+t
+r
+o
+p
+x
+e
+ 
+l
+a
+t
+o
+t
+ 
+f
+o
+ 
+e
+g
+a
+t
+n
+e
+c
+r
+e
+p
+(
+HK
+SIN
+COR
+TAI
+ALE
+HOL
+HUN
+RCH
+R2 = 0,52
+FIN
+BEL
+60
+50
+40
+30
+20
+10
+NZL
+NOR
+CAN
+ARG
+BRL
+AUS
+CHL
+-35
+-30
+-25
+-20
+-15
+-10
+-5
+0
+5
+(contribution to GDP, annualized quarterly change, percent) 
+Exports 
+Source: Central Bank of Chile.
+ 
+ 
+ 
+ 
+ 
+Figure 14
+Change in growth projections for 2009 and 2010
+(month-on-month variation of median projection, percentage points)
+2009
+2010
+0.5
+0.0
+-0.5
+-1.0
+-1.5
+-2.0
+-2.5
+Feb.08
+0.5
+0.5
+0.0
+0.0
+-0.5
+-0.5
+-1.0
+-1.0
+-1.5
+-1.5
+-2.0
+-2.0
+Jul.08
+Dec.08
+United States
+Chile
+Japan
+Mexico
+-2.5
+May.09
+-2.5
+Feb.09
+Mar.09
+Eurozone
+Brazil
+Source: Consensus Forecasts.
+COL
+10
+0.5
+0.0
+-0.5
+-1.0
+-1.5
+-2.0
+  -2.5
+May.09
+Apr.09
+Latin America
+Eastern Europe
+14 
+ BIS Review 76/2009

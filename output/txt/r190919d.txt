@@ -1,0 +1,223 @@
+Central Bank of Chile 
+September 2019 
+ 
+Organisation for Economic Co-operation and Development 
+OECD Forum on Blockchain, September 2019 
+ 
+High-level Policy Panel Discussion on Central Bank Digital Currencies 
+Remarks by Mario Marcel, Governor of the Central Bank of Chile 
+ 
+Disruptive  technologies  in  Finance  or  “FinTech”  are  transforming  the  financial  industry  landscape,  challenging 
+traditional business models. These technologies have been able to address some gaps in the traditional financial 
+industry that can be grouped into five categories: Access, Speed, Cost, Transparency, and Security. 
+ 
+Leveraging on open-source technologies and Smartphone penetration, FinTech has seen fast adoption, disrupting 
+all  areas  of  the  financial  services  such  as  payments,  investments,  savings  &  lending,  insurance  and  risk 
+management. 
+   
+One  example  of  the  innovation  across  different  financial  services  is  this  research  framework  from  the  World 
+Economic  Forum.  Fintech  innovations  are  identified  and  grouped  into  clusters,  which  in  turn  are  a  result  of 
+innovation triggered by common themes that cut across financial services. These themes are enabled by different 
+technologies. 
+ 
+The  main  takeaway  here  is  to  understand  the  potential  of  these  technologies  to  innovate  across  all  financial 
+services and have a visual image of how this is reshaping the financial services. As this reshaping is taking place, 
+the policy makers, regulators, and supervisors need to understand the forces driving this innovation wave, in order 
+to assess the risks and opportunities of these new business models. 
+ 
+ Page 1 of 11 
+ Central Bank of Chile 
+September 2019 
+  Our  Central  Bank  understands  that  a  new  ecosystem  is  being  developed  and  has  responded  to  these  new 
+challenges with the 2018-2022 Strategic Plan, where the disruptive technologies are one of its five main focuses.  
+Specifically, we have put in place two initiatives to address FinTech challenges: the Technological Observatory and 
+the TechLab.  
+ 
+The Technological Observatory seeks to play an active role in financial technology research, assessing potential 
+impacts, risks, and policy actions, as well as to strengthen coordination with other institutions. During 2018, the 
+Observatory’s  work  focused  on  understanding  the  various  business  models,  risks,  and  opportunities  of  the 
+domestic  FinTech  ecosystem.  Therefore,  communication  with  the  FinTech  industry  has  been  intense  through 
+articulated meetings, consultation, informal briefings, seminars, workshops and publications. Internally, the work 
+has focused on agreeing on the areas in which we need to build knowledge. 
+ 
+The areas of interest are open banking, SupTech, securities and cash settlement of the CBC’s operations using DLT, 
+cryptoassets  from  a  financial  stability  perspective,  digital  payments  (retail  and  cross–border,  mainly),  CBDCs, 
+cybersecurity from a financial stability perspective, and Big data and digital economy. 
+ 
+On the other hand, the TechLab’s objective is to implement in an experimental stage disruptive technologies that 
+impacts cross-cutting processes within the CBC, such as cryptocurrencies, big data, artificial intelligence, and the 
+   Page 2 of 11 
+ 
+like. Currently we are experimenting with blockchain and machine learning techniques. Anyway, the TechLab was 
+started only three months ago and we are also exploring initiatives with other technologies such as APIs. 
+ 
+Central Bank of Chile 
+September 2019 
+  Let us talk a little bit more about the technology that brings us together, blockchain. This technology has several 
+use cases for a central bank: (i) Central bank digital currencies; (ii) Financial Market Infrastructures such as large-
+value  payment  systems  and  trade  repositories,  or  more  generally  RegTech  or  SupTech  implementations;  (iii) 
+Issuance and lifecycle of financial instruments; and (iv) opportunities of optimization of back office processes, such 
+as settlement of operations and reconciliation. 
+  
+Notwithstanding the potential this technology has, there are some yellow flags that need to be addressed: 
+ 
+ a.  DLT technology is still on an early stage and there might be unidentified drawbacks. Smart contracts that 
+can build on top of this technology make it significantly more powerful, but there is little experience on 
+how this works in practice. 
+b.  Borderless  technologies  raise  concerns  in  regulatory  compliance  across  regions.  Coordination  and 
+information sharing may be especially relevant. 
+c.  Proof of  Work  (PoW)  consensus  protocol  is  slow  and  needs  intensive  use  of energy.  Other  consensus 
+protocols have limited use at this point: Proof of Stake or Proof of Authority. 
+ Page 3 of 11 
+  d.  Regulatory gaps may arise: identifying theses gaps is a central point in the exploration of the technology. 
+Central Bank of Chile 
+September 2019 
+  
+Therefore, we need to understand this technology in order to embrace its benefits and mitigate the risks that 
+some use cases may involve. 
+ 
+With that in mind, we started a Project in collaboration with our local Central Securities Depository (CSD). This 
+project explores the feasibility of issuing bonds in a blockchain platform, and managing the whole life cycle of the 
+bonds in this platform. Hence, settlement of primary auctions and corporate actions are done in blockchain. 
+ 
+First, we discussed a conceptual model that would be a better fit to our regulatory framework. Secondly, two use 
+cases were selected and implemented as a proof of concept (PoC). Dummy versions of our real systems simulated 
+interaction with the DLT platform. Finally, a report with our conclusions will be released in November, once the 
+PoC is completed and possible corrections of the conceptual models are included. 
+ 
+  Having several other use cases that we could have implemented, why did we choose this one? The most important 
+reasons are: (i) duplicity of ledgers in current systems needing reconciliation periodically; (ii) more than one entity 
+access and write on the ledger, even though this conceptual model only had the Central Bank issuing, this model 
+was conceived to be used by other primary issuers (this is where the business model makes more sense!); (iii) 
+ Page 4 of 11 
+Central Bank of Chile 
+September 2019 
+ 
+opportunities in optimization of settlement processes for issuance and corporate actions; and (iv) to study the 
+feasibility of this technology (as an alternative) for the renewal of the current systems that manage our issuance 
+and the lifecycle of our bonds. 
+ 
+As  a  consequence  of  our  first  hands-on  experience  with  this  technology,  some  questions  which  are  still 
+unanswered were raised during the process: 
+ 
+a.  How  could  this  primary  market  be  integrated  with  the  secondary  market?  Could  this  same  model  be 
+useful? 
+b.  There is the need for further analysis of our legal framework and identify possible gaps (the PoC scope 
+only has a high-level legal analysis). 
+c.  When will this technology be mature enough to be considered as an alternative for critical systems? 
+  
+Now, I will narrow the topic of blockchain to  Central Bank Digital Currencies (CBDC), which is the focus of our 
+panel, and talk about the motivations, benefits and concerns. 
+ 
+To begin with, it is important to understand that CBDCs are not new, and Central Banks have been issuing CBDCs 
+since the first RTGS systems were around. These are the commercial banks’ reserves held in the RTGS systems. 
+Even though this form of CBDC is not blockchain based, it is important to mention that the CBDC concept is not a 
+novelty. 
+ 
+  Page 5 of 11 
+ Central Bank of Chile 
+September 2019 
+  That being said, the central banks need to have a clear motivation to issue a CBDC. These motivations will be 
+different and therefore the CBDCs will be different in their design, benefits and concerns. 
+ 
+One way of categorizing CBDCs is by their access: general purpose, or retail, and wholesale. For retail use, the 
+motivations in emerging economies are mainly to reduce cash in circulation, or promote electronic payments, 
+foster  financial  inclusion,  and  reduce  informality  and  tax  evasion.  On  the  other  hand,  the  motivations  for 
+wholesale use are mainly efficiency and security. 
+ 
+We could also mention cross-border payments as a motivation for either of the two categories as well. 
+ 
+ 
+In terms of the benefits, I can mention the following: 
+ 
+ a.  Some  research  indicates  that  DLT  may  enhance  market  efficiency.  DLT  registers  based  on  real  user 
+identities can improve competition, price transparency and liquidity. 
+b.  Crisis management  around the Zero Lower Bound. In a world of low  real interest  rates, the impact of 
+unconventional monetary policies, such as QE, nominal GDP targeting and forward guidance, appears to 
+be  limited (Blanchard, Dell’Ariccia and Mauro, 2013, Gagnon and Sack, 2018). Fixing negative nominal 
+interest rates in a flexible way could improve the Central Banks’ toolkit (Rogoff, 2019). However, there 
+ Page 6 of 11 
+ are some drawbacks. The general public could interpret negative interest rates as a new tax and probably 
+legislators  would  restrict  it  (Rogoff,  2019).  Also,  price  and  wage  rigidity  can  persist,  due  to  habit-
+consumption, market power, organizational inertia, information frictions. 
+ Central Bank of Chile 
+September 2019 
+ 
+Continuing with the benefits: 
+ 
+ c. 
+In a world with a widely used CBDC, commercial banks could be smaller/less systemic. CBDCs can give 
+central banks more intervention tools and reduce the risk of runs (Kumhof and Noone, 2018). 
+d.  Transparent balance sheets can make it easier to unwind troublesome financial institutions and divest 
+their assets. 
+e.  Monetary policy channels in a world with CBDCs may be faster and more powerful. Today monetary policy 
+works by affecting the balance sheets of banks and some financial intermediaries, which do not pass on 
+all the rate changes to final users due to market power and other frictions. If central banks can reach out 
+to more and more agents (businesses, households), then their role will become ever more central and 
+effective. 
+ 
+   Page 7 of 11 
+Central Bank of Chile 
+September 2019 
+ 
+Lastly, use of CBDCs could be explored as a more efficient alternative for remittances.  
+ 
+In Chile, immigration has had a sharp increase in few years. As in other parts of the world, they face high costs for 
+their remittances when using traditional methods based on a structure of correspondent entities. An alternative 
+option  that  is  being  used,  although  because  of  its  nature  is  not  possible  to  have  detailed  information,  are 
+remittances based on cryptoassets. While these remittances may be faster and even cheaper, they are outside of 
+the  regulatory  perimeter  and  thus  their  customers  are  exposed  to  several  risks  (counterparty,  liquidity, 
+operational). 
+ 
+The cross-border use of CBDC would reap the benefits of crypto-based methods, without their risks. Certainly, this 
+would require coordination between the central banks involved. 
+ 
+ 
+On the other hand, some concerns have still not been fully addressed: 
+ a.  Development and management costs of a CBDC, specially a retail CBDC that is available for a large number 
+of people, can be substantial. Technical capacity is still not mature enough, and risks of cyberattacks are 
+exacerbated. 
+b.  The level of anonymity that the CBDC should have is still a matter of discussion. In digital networks it can 
+be easy to identify anonymous users due to their links to non-anonymous nodes, such as large companies. 
+The  public  is  already  frightened  by  how  much  sensitive  individual  information  is  stored  (NSA,  Uber, 
+Google, Facebook…), it is possible that a CBDC could create anonymity concerns. 
+  Page 8 of 11 
+Central Bank of Chile 
+September 2019 
+c.  Some of these concerns end up in a discussion about which is the optimum design features: anonymous 
+or pseudo-anonymous? Interest bearing? Guaranteed convertibility of bank deposits into CBDCs? 
+d.  Finally,  there  are  some  additional  risks  to  take  into  account:  Reputational  risk  if  CBDC  is  not  widely 
+adopted by the public, or if privately issued currencies gain more traction; Financial exclusion of the “non-
+tech” persons? 
+     
+Even though many CBDC experiences are from developed economies such as Canada and Sweden, there are also 
+some  experiments  in  developing  economies  such  as  China,  Colombia  and  Uruguay.  For  emerging  economies, 
+where persons tend to be financially underserved, is CBDC the most efficient way to solve this problem? Other 
+alternatives, such as fast payments solutions, can be evaluated. 
+ 
+  Page 9 of 11 
+ In conclusion: 
+ 
+Central Bank of Chile 
+September 2019 
+  a.  Blockchain technology implies opportunities and concerns that should be carefully addressed: Which is 
+the goal of technology adoption? 
+b.  This is especially important in the case of CDBC: financial inclusion, response to new forms of e-money, 
+facilitate wholesale payments, faster payments, cross-border payments?  
+c.  CDBC does not necessarily need blockchain.  
+ 
+Our understanding is that DLT or Blockchain technologies are more useful when several participants of a 
+given system need to have access to a ledger of information and/or when participants do not necessarily 
+trust each other (and therefore proof of work requirements make the register almost immutable).  
+ 
+However, when a Central Bank issues its currency -- either in physical or digital format -- trust should be 
+a given. Also is far from obvious that all market participants should have access to sensitive information 
+such as all transactions in which the CBDC was used. In fact, the pilot program of Uruguay (“e-Peso”) was 
+not blockchain-based. 
+ 
+d.  There are different policies being explored and there is no “one size fits all” answer.  
+e.  Nevertheless, countries could largely benefit form sharing their experiences. 
+  Page 10 of 11 
+   Central Bank of Chile 
+September 2019 
+   Page 11 of 11 

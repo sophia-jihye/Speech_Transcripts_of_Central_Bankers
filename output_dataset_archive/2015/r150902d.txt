@@ -1,0 +1,495 @@
+  
+ 
+Vítor Constâncio: Understanding inflation dynamics and monetary policy 
+Panel remarks by Mr Vítor Constâncio, Vice-President of the European Central Bank, at the 
+Federal  Reserve  Bank  of  Kansas  City  Economic  Symposium,  Jackson  Hole,  Wyoming, 
+29 August 2015. 
+ The accompanying charts (plus slides) can also be found on the European Central Bank’s website. 
+I  would  like  to  thank  the  ECB  staff  members  that  have  done  the  econometric  work  for  this  intervention,  in 
+particular, Matteo Ciccarelli, Chiara Osbat, Elena Bobeica, Carlos Montes-Galdon and Marco Groß. 
+Summary 
+At  the  2015  Jackson  Hole  Economic  Policy  Symposium,  ECB  Vice-President  Vítor 
+Constâncio  discusses  main  challenges  in  understanding  inflation  dynamics.  He  reviews 
+recent developments in euro area inflation and related implications for monetary policy. 
+Understanding inflation dynamics has become particularly important in present times, in view 
+of  the  prolonged  low  inflation  phase.  The  traditional  relationship  between  slack  in  the 
+economy  and  inflation  seems  to  have  weakened  significantly  in  some  countries.  This 
+requires a careful examination since that relationship – the Phillips curve – is the traditional 
+cornerstone of the transmission mechanism giving central banks control of inflation. Inflation 
+dynamics  since  the  Great  Recession  have  shown  signs  of  instability  that  have  led  to  a 
+sequence of systematic forecast errors. The two puzzles of “missing disinflation” in 2009–11 
+followed by “excessive disinflation” after 2012 triggered a surge of new research around the 
+Phillips curve and its possible demise. 
+After reviewing a number of unsettled issues pertaining to the Phillips curve in the economic 
+literature,  such  as  those  related  to  the  measurement  of  economic  slack  and  inflation 
+expectations, the discussion note argues that the two puzzles can be explained, and that the 
+Philips curve for the euro area is alive and well. This is comforting since the opposite result 
+would raise serious questions about the central bank’s capacity to control inflation. 
+The current phase of low inflation is significantly driven by negative demand shocks at the 
+global and domestic level, besides commodity price developments. This is certainly the case 
+for  the  euro  area  where  the  low  inflation  can  largely  be  explained  by  domestic  demand 
+weakness, possibly leading to a larger degree of economic slack than indicated by the usual 
+methods.  The  link  between  inflation  and  real  economic  activity  appears  however  to  have 
+strengthened in the euro area as of late (steepening of the Phillips curve). We should thus be 
+able to bring the inflation rate closer to target in the medium term, provided that our policies 
+are successful in significantly reducing the economic slack. 
+Outline 
+1. 
+2. 
+3. 
+4. 
+5. 
+6. 
+Introduction 
+Prolonged low inflation: puzzles and forecasting errors 
+Drivers of low inflation in the euro area: domestic or external? 
+The Phillips curve as a vehicle to discuss inflation dynamics: 
+Measuring the economic slack, the slope and its stability; 
+Are  hybrid  New  Keynesian  Phillips  curves  useful  in  understanding  inflation 
+dynamics? 
+BIS central bankers’ speeches 
+ 1 
+ 7. 
+8. 
+inflation 
+the  coefficients  of 
+Stability  of 
+inflation 
+expectations and external prices. Limitations of the Phillips curve and the need to 
+use several different models. 
+Lessons  for  monetary  policy:  the  use  of  models  and  judgement  to  understand, 
+forecast  and  design  policies  to  influence  medium-term  inflation.  Achieving  the 
+inflation target in the euro area. 
+inertia,  economic  activity, 
+ Introduction 
+It  is  a  great  pleasure  to  participate  in  this  policy  panel  with  such  distinguished  fellow 
+participants. In my remarks today I will discuss the general difficulties in dealing with inflation 
+dynamics,  but  I  will  concentrate  on  the  recent  developments  in  euro  area  inflation  and 
+discuss their implications for monetary policy. 
+Understanding  inflation  dynamics  has  become  particularly  important  in  view  of  the 
+low inflation regime now prevailing and because the traditional relationship between slack in 
+the economy and inflation seems to have weakened significantly in some countries. 
+Figure 1 
+  
+If confirmed, the flattening of the Phillips curve would be relevant for monetary policy 
+because that relationship was the traditional linchpin of the transmission mechanism 
+that  gave  central  banks  control  of  inflation.  The  subsequent  focus  on  the  role  of 
+expectations  and  their  management  in  the  toolkit  of  monetary  policy  reduced  but  did  not 
+eliminate  the  relevance  of  that  traditional  mechanism.  In  2006  both  the  International 
+Monetary Fund (IMF) and the Federal Reserve started to highlight a decade-long decline in 
+the  slope  of  the  Phillips  curve,  i.e.  the  coefficient  of  economic  slack  (IMF  (2006),  Iakova 
+(2007) and Roberts (2006)). This decline has been challenged by Gordon (2007 and 2013) 
+as being too dependent on the Phillips curve specification, being particularly associated with 
+variants  of  the  New  Keynesian  Phillips  curve  (NKPC),  but  not  verified  by  Gordon’s  own 
+“triangle model”. Coibion and Gorodnichenko (2015) show that evidence of slope decline is 
+2 
+ BIS central bankers’ speeches 
+  mixed for the United States. Stock and Watson (2010) say that “there are some hints that the 
+slope parameter might be smaller at low levels  of inflation but these hints are not robustly 
+confirmed by statistical tests”. Stella and Stock (2012) even find signs of a steepening of the 
+Phillips curve for the United States. 
+More  important,  however,  was  the  emergence,  after  the  Great  Recession,  of  a  twin 
+puzzle: first, missing disinflation in 2009–11, and second, excessive disinflation after 
+2012, particularly in Europe. During the Great Recession (the recession that followed the 
+financial crisis), inflation in advanced countries did not fall as much as a traditional Phillips 
+curve  and  past  experiences  would  have  predicted,  given  the  severity  and  length  of  the 
+recession (Williams (2010) and Ball and  Mazumder (2011)). Just as puzzling, more recent 
+global developments point in the opposite direction, since, in spite of the ongoing recovery, 
+headline inflation rates in advanced (and a few emerging market) economies remain below 
+target. Clearly, one reason for the low inflation rates is the recent large decline in oil prices. 
+But core or underlying rates of inflation have also been below average almost everywhere. 
+The seemingly weakened relationship between inflation and economic slack in the cases of 
+the two puzzles seemed to have disposed of the Phillips curve. We will see why that is not 
+true after all. 
+Ex-post, we are not in the dark: If we exploit all available information we can recover 
+the dynamics of inflation after the fact fairly well, and rationalise inflation developments 
+after the financial crisis. For the euro area we can identify two distinct periods of disinflation 
+in the case of HICP excluding energy and food: the first from 2008 to 2010 and the second 
+starting in 2012. The analysis is based on a Bayesian VAR1 which includes HICP excluding 
+energy  and  food,  real  activity  indicators  (real  GDP,  the  unemployment  rate  and  real 
+investment), external variables (NEER, non-energy commodity prices, oil price in US dollars 
+and foreign demand) and financial variables (short-term interest rates lending rates and real 
+loans to non-financial corporations). 
+Figure 2 
+                                                
+1  The methodology is similar to Jarociński and Smets (2008), “House prices and the Stance of Monetary Policy”, 
+Federal Reserve Bank of St. Louis Review, July/August, 90(4), pp. 339–65. 
+ BIS central bankers’ speeches 
+ 3 
+  Each  inflation  dip  had  different  origins:  the  first  was  mainly  due  to  external  factors  (falling 
+energy  and  food  prices),  while  the  second  was  driven  more  by  domestic  sources  in  an 
+environment of weak demand. 
+There is a vast body of literature on the first puzzle of the “missing disinflation”, which 
+offers  a  variety  of  explanations:  the  increased  anchoring  of  expectations  by  a  credible 
+monetary  policy  (Bernanke  (2010)  and  IMF  (2013));  the  continued  decline  of  the 
+responsiveness to economic slack (IMF (2013)); the increased downward wage rigidities in a 
+recession  that  bend  the  wage  Phillips  curve  (Daly  and  Hobijn  (2014));  the  higher  forward-
+looking expectations of marginal costs in a dynamic stochastic general equilibrium (DSGE) 
+model  (Del  Negro, Giannoni  and  Schorfheide  (2015));  a  fall  in  total factor  productivity  and 
+increased costs of working capital (Christiano, Eichenbaum and Trabandt (2014)); a regime 
+switch in the slope explained by sticky prices and sticky information (Murphy (2014)); or the 
+role of higher mark-ups of liquidity-constrained firms (Gilchrist, Schoenle, Sim, and Zakrajsek 
+(2015)).  Others  pointed  to  important  measurement  issues  and  suggested  e.g.  using  short-
+term  unemployment  to  measure  slack  (Gordon  (2013),  Krueger  et  al.  (2014)  and  Ball  and 
+Mazumder  (2014))  or  household  expectations  from  surveys  to  relevantly  measure  inflation 
+expectations (Coibion and Gorodnichenko (2015)). 
+Most of these approaches, besides solving the puzzle a posteriori, also provide new methods 
+that  promise  to  improve  future  inflation  forecasting,  even  in  the  context  of  reduced-form 
+Phillips  curves.  The  use  of  short-term  unemployment2  or  household  inflation  expectations 
+that are closer to those of economic agents, are two examples of promising developments. It 
+is  also  helpful  to  introduce  time-varying  coefficients  or  regime-switching  estimates,  to 
+account for many possible sources of non-linearity in the Phillips curve. 
+For headline inflation, external supply shocks, for example in commodity prices, have played 
+a significant role but the two highlighted puzzles also apply to core inflation. Very importantly, 
+the trend for a weaker relationship with economic slack applies also to core inflation. Most of 
+the papers I have cited use the consumer price index (CPI) without energy and food or the 
+GDP  deflator  as  inflation  variables.  Only  a  few  also  use  headline  inflation.  Core  inflation 
+reflects  mostly  domestic  factors,  as  indirect  effects from  external  developments  are muted 
+and  take  time  to  operate.  That  is  why  I  consider  it  more  useful  to  focus  on  core  inflation 
+dynamics for the purpose of discussing their consequences for monetary policy. 
+Despite a few dissenters, the majority view in these papers is favourable to the idea 
+that the slope of economic slack has declined. There are several possible explanations: 
+The increased anchoring of inflation expectations makes inflation less sensitive to economic 
+activity. 
+Higher  import  volumes  as  a  result  of  increased  globalization  have  also  increased  the 
+importance of international prices relative to domestic prices, forcing domestic mark-ups to 
+be less sensitive to the state of the domestic economy. 
+Also  as  a  result  of  globalization,  inflation  across  countries  displays  an  important  common 
+factor that explains a substantial part of the national inflation variation. Ciccarelli and Mojon 
+(2010)  and  Ferroni  and  Mojon  (2014)  show  that  the  commonality  of  inflation  goes  beyond 
+what can be captured by commodity prices. They also report that the global inflation factor 
+would improve forecasts of domestic inflation in different specifications, from augmenting an 
+AR  (1)  model  to  using  it  in  Phillips  curves  or  BVARs.  Further,  they  demonstrate  that  the 
+importance of the common factor does not depend on spillovers among countries but is more 
+                                                
+2  See in particular Ball and Mazumder (2014), who use a parsimonious Phillips curve for core US inflation, with 
+only long-term inflation expectations (reduced in practice to a constant) and short-term unemployment. They 
+get a good fit for 2000-14 and even for a long period that starts as early as 1985 (the beginning of the Great 
+Moderation). 
+4 
+ BIS central bankers’ speeches 
+  the  result  of common  shocks  and  convergence  of monetary  policy  frameworks  around  the 
+world. Confirming these results, Medel, Pedersen and Pincheira (2014), using a sample of 31 
+OECD countries, report that the global inflation factor improves the inflation forecast for 50% 
+of  the  countries  in  the  case  of  headline  inflation  and  for  40%  in  that  of  core  inflation. 
+Nevertheless, the improvements in the forecasts mentioned in these papers are contained, 
+producing a 5% to 6% reduction in the root mean squared errors. 
+The fourth type of explanation relates to possible non-linearities in the relationship between 
+inflation  and  real  activity.  More  precisely,  the  coefficient  of  the  real  activity  measure  in  a 
+Phillips  curve  may  depend  on  the  size  and  duration  of  economic  slack,  on  the  level  and 
+volatility of inflation, and on the degree of anchoring of inflation expectations. Specifically: 
+Clark, Laxton and Rose (1996) and Macklem (1997) point to the role of capacity constraints: 
+during  recessions,  when  firms  operate  below  their  full  capacity,  if  demand  is  successfully 
+stimulated, firms will be able to produce more without incentives to raise prices. During boom 
+times, when firms operate closer to full capacity, additional demand translates into stronger 
+price  increases.  Thus,  the  slope  of  the  Phillips  curve  is  an  increasing  function  of  excess 
+demand. 
+Ball, Mankiw and Romer (1988) and Ball and Mankiw (1994) discuss convexity of the Phillips 
+curve in the context of adjustment/menu costs. Ball, Mankiw and Romer (1988) show that in 
+a  new-Keynesian  framework  the  frequency  of  price  changes  increases  when  the  average 
+rate of inflation increases, because firms must adjust their prices more frequently to keep up 
+with the general rise in prices. As a consequence, the slope of the Phillips curve increases 
+with the level of inflation. 
+Stiglitz (1986), Fisher (1989) and Akerlof, Dickens and Perry (1996) developed models with 
+downward  wage  and  price  rigidities.  These  models  embed  the  fact  that  workers  are  more 
+reluctant to accept a decrease in their wages than an increase. At times of excess supply, 
+the slope of the Phillips curve becomes an increasing function of the level of inflation. 
+The theories that imply convexity rationalise relatively stronger expansionary monetary policy 
+action  during  times  of  recession  (as  price  pressures  induced  by  expansionary  policy  are 
+expected to be smaller during recessions). 
+The consequences for monetary policy of the weakening of the link between the level 
+of  economic  activity  and  inflation,  if  this  weakening  indeed  happened,  would  be 
+significant. First, it has consequences on the sacrifice ratio: if inflation increases as a result 
+of shocks not related to domestic slack, then the cost of bringing inflation down in terms of 
+output loss would increase sharply. Second, if instead inflation becomes very low, monetary 
+policy  would  have  to  stimulate  economic  activity  more  strongly  and  could  lack  effective 
+instruments to do so. In sum, a flatter slope of the Phillips curve makes controlling inflation 
+either  more  costly  or  more  difficult.  Naturally,  when  that flattening  is  associated  with  more 
+strongly anchored expectations, the difficulties are mitigated. 
+What  this  underlines  is  the  need  to  carefully  monitor  the  relative  importance  of  different 
+drivers  of  domestic  inflation:  inertia,  expectations,  economic  slack,  supply  shocks  and 
+external variables. Several methods and models are necessary for the task, as policy makers 
+cannot rely on the perspective provided by a single tool. 
+Nevertheless,  the  fact  remains  that  forecasters  were  not  able  to  anticipate  the 
+disinflation for the euro area as a whole from 2012, or for the larger member countries. 
+This is particularly surprising because forecasters did take into account the fall in economic 
+activity  in  most  euro  area  countries  after  2011,  which  generated  significant  gaps  between 
+actual  and  potential  output.  The  ECB  has  not  been  alone  in  over-predicting  euro  area 
+inflation. The IMF, ECB Survey of Professional Forecasters (SPF), Consensus Economics, 
+Euro  Zone  Barometer,  OECD  and  European  Commission  have  also  systematically  over-
+predicted both headline and core inflation at all horizons, especially since the second quarter 
+of 2012. 
+BIS central bankers’ speeches 
+ 5 
+ Figure 3 
+  However, as policy makers we need more than just good inflation forecasts: we also 
+need to understand the inflation process in order to better assess the role of monetary 
+policy. We also need to be able to explain our reasoning to the public, as the management 
+of expectations has become such an important monetary policy instrument. This is one more 
+reason for continuing to use the Phillips curve as a tool to discuss inflation dynamics. 
+The current attention to the relationship between inflation and economic slack has led 
+to an intense debate on the stability of the Phillips curve and its power to explain the 
+twin puzzle. Empirical research, especially in the United States, shows that the slope of the 
+Phillips curve has varied over time, with a clear tendency to flatten over the years. 
+For the euro area, the evidence from several recent papers points to a steepening in 
+recent years (see e.g. Oinonen and Paloviita (2014), Riggi and Venditti (2015) and Foroni 
+and  Porqueddu  (2015)).  This  development  is  especially  marked  in  those  countries  which 
+experienced deeper and longer recessions and made greater efforts to reform their product 
+and  labour  markets,  with  an  impact  on  nominal  rigidities  (see,  for  Italy,  Riggi  and  Santoro 
+(2015)  and,  to  a  lesser  extent,  for  Spain,  Banco  de  España  (2013  and  2015).  When 
+analysing the excessive disinflation in the euro area since 2012, natural questions arise as to 
+whether we are facing a new regime of low inflation (e.g. due to demographics, integration of 
+low-cost  countries  in  global  trade,  less  powerful  trade  unions,  dominance  of  a  service 
+economy), and whether the Phillips curve (and “which” Phillips curve) is still an appropriate 
+framework of analysis. 
+A number of technical issues pertaining to the Phillips curve have not yet been settled 
+in the literature. 
+A  key  problem  in  this  debate  is  that  single-equation  estimates  of  the  Phillips  curve 
+might  not  correctly  identify  its  slope,  as  inflation  and  economic  slack  are  determined 
+simultaneously. 
+Moreover,  economic  slack  is  a  multidimensional  concept  that  is  not  directly 
+observable and choices must be made on how to estimate or measure it. 
+An  additional  problem  is  that  inflation  is  also  influenced  by  foreign  shocks,  either 
+directly  via  imported  inflation  or  indirectly  via  global  economic  slack,  as  a  consequence  of 
+international integration of production. How do we account for such external shocks? 
+6 
+ BIS central bankers’ speeches 
+  
+ 
+Further, the standard hybrid New Keynesian Phillips curve includes agents’ inflation 
+expectations,  which  are  also  difficult  to  measure.  Recent  work  by  Coibion  and 
+Gorodnichenko  (2015)  uses  expectations  from  surveys,  with  some  practical  success.  It 
+highlights that the choice of the measure of inflation expectations is crucial in understanding 
+inflation dynamics in the United States, advocating the use of surveys of household inflation 
+expectations  rather  than  those  of  professional  forecasters.  Naturally,  expectations  from 
+surveys  or  professional  forecasters  are  not  microfounded.  More  generally,  NKPC  has  had 
+many  problems  to  predict  inflation  even  when  embedded  in  a  DSGE  model.  As  King  and 
+Watson (2012) highlight when using the labour income share or unit labour costs the models 
+do  not  capture  that  the  last  15  years  do  not  show  a  co-movement  of  inflation  with  the 
+significant decline of those ULCs. Gürkaynak, Kisacikoglu and Rossi (2013) also illustrate the 
+subpar  performance  of  DSGE  models  to  forecast  inflation.  In  their  encompassing  survey 
+Mavroeidis,  Plagborg-Møller,  and  J.  Stock  (2014),  also  conclude  that  without  rejecting  the 
+NKPC, “we are unable to pin down the role of expectations in the inflation process sufficiently 
+accurately for the results to be useful for policy analysis”. 
+Finally  there  is  the  question  of  stability  of  Phillips  curve  parameters,  in  the  form  of 
+non-linearities  or  structural  changes.  As  sudden  decreases  in  forecasting  ability  are 
+frequently associated with instability, a plausible explanation for the recent inflation surprises 
+is  a  change  in  the  slope  of  the  Phillips  curve.  In  what  follows  I  am  going  to  show  some 
+robustness analysis of the Phillips curve. Let us focus on slack. 
+Economic slack is the great unknown: it is unobservable and is highly sensitive to the 
+assumptions  used  for  the  decomposition  of  economic  activity  into  trend  and  cycle. 
+Usual  measures  of  slack  can  vary  substantially  across  methods  and  variable  inclusion, 
+although they tend to agree on the timing of peaks and troughs. 
+The  fact  that  economic  activity  is  multidimensional  suggests  that  there  might  be 
+advantages in using large dynamic models to estimate it. For instance, ECB staff used a 
+dynamic factor model that performs a trend/cycle decomposition of real activity variables and 
+core inflation3 The model uses a single factor to capture common cyclical fluctuations and 
+estimates  the  output  gap  as  the  deviation  of  output  from  its  trend.  Different  modelling 
+assumptions, such as different sets of real activity indicators and different specifications of 
+the trend components of the variables, lead to different estimates of the output gap. These 
+differences are economically very relevant, with some models estimating an output gap that 
+was  close  to  zero  in  2014  on  average,  and  others  estimating  remaining  slack  of  as  
+much as –6%. 
+One way to discriminate among different estimates of the output gap is to check their 
+ability to forecast inflation. It turns out that the variants associated with a continuation of a 
+positive growth trend, implying a wider output gap, are the ones that produce better inflation 
+forecasts. The best variant from this perspective implies that the output gap was as large as 
+–6% in 2014 (see the left-hand chart of Figure 4). Assuming the opposite, namely a break in 
+the  output  trend,  which  we  could  call  a  secular-stagnation  hypothesis,  leads  to  a  much 
+poorer  forecast  ability  of  recent  inflation.  The  output  gap  estimated  by  the  IMF  and  the 
+European  Commission  are  halfway  between  the  extremes  arising  from  the  dynamic  factor 
+model I have described (see right-hand chart of Figure 4). 
+                                                
+3  Jarocinski M. and Lenza, M., “Inflation forecasts in a Bayesian dynamic factor model of the euro area”, ECB 
+Working Paper forthcoming. 
+BIS central bankers’ speeches 
+ 7 
+ Figure 4 
+ Taking into account uncertainty over how to measure slack and inflation expectations, 
+the Phillips curve is alive and well in the euro area (in some form). The dynamic factor 
+model just discussed is not the only one that can explain the recent excessive disinflation. 
+ECB  staff  have  conducted  a  specification  search  with  a  hybrid  NKPC  using  different 
+measures  of  slack  and  of  inflation  expectations,  and  also  including  import  prices  as  a 
+measure of external shocks. 
+ Figure 5 
+Several specifications are indeed able to track the recent disinflation. The results are 
+shown  in  Figure  5,  where  each  grey  line  is  the  conditional  out-of-sample  projection  of 
+inflation excluding energy and food, based on its own lag, lagged import prices, a measure of 
+slack  (lagged)  and  a  measure  of  inflation  expectations.  The  projection  is  based  on  the 
+realized values of the explanatory variables except for lagged inflation, which is determined 
+ 8 
+ BIS central bankers’ speeches 
+  dynamically.  While  indeed  many  models  pointed  to  inflation  increasing  faster  than  it  did, 
+some are able to track the disinflation quite well. These models tend to be those that use the 
+unemployment rate (or gap) and a short to medium-term measure of inflation expectations. 
+The result holds also for conditional forecasts that start earlier, through the financial 
+crisis and since the first recovery. In fact, the best specifications of the same hybrid NKPC 
+were evaluated by looking at out-of-sample dynamic projections of inflation over the period 
+up to end-2014 based on two different estimation samples, one ending in 2007 and the other 
+in 2009. Figure 6 shows that the results are satisfactory for both exercises. 
+Figure 6 
+ However,  as I  have  already  hinted, the  coefficients  of the  Phillips  curve  may  not  be 
+stable. As I mentioned above, the slope of the Phillips curve might have increased over the 
+period  when  we  were  over-predicting  inflation.  Running  the  same  specifications  just 
+described  over  two  samples,  one  stopping  at  2012  Q1  (when  we  started  to  systematically 
+over-predict  inflation  excluding  food  and  energy)  and  the  other  covering  the  full  sample 
+ending  in  2014  Q4,  there  is  some  evidence  of  an  increase  in  the  slope  estimate.  This 
+suggests the specific possibility of non-linearities that could be due to state-dependency of 
+the Phillips curve or to structural change of some form. Indeed, regime-switching estimates, 
+accounting  for  parameter  change  due  to  state-dependency  on  various  measures  of  the 
+business  cycle  can  help  to  explain  the  “excessive”  disinflation  since  2012. The  results  are 
+shown in Figure 7 below. 
+BIS central bankers’ speeches 
+ 9 
+ Figure 7 
+  How  much  time  variation  is  there  in  the  slope  of  the  Phillips  curve,  and  in  which 
+direction? The discussion on the steepening or flattening of the Phillips curve brings me to 
+recent discussions that pointed to a flattening, particularly for the United States, but also for 
+various other advanced economies. Let us take an agnostic view on the origins of the time-
+variation  (that  is,  without  necessarily  making  it  conditional  upon  regimes  identified  by  a 
+specific variable) and estimate a hybrid NKPC with time-varying parameters, similar to that in 
+Blanchard et al. (2015). Over the sample period running from 1999 Q1 to 2015 Q2, the slope 
+of headline inflation had a general tendency to decrease until 2011, after which it rebounded 
+(see the left-hand chart in Figure 8). For core inflation the upward shift started earlier (see 
+the  right-hand  chart  in  Figure  8). This  is  true for  the  euro  area  as  a  whole  but  particularly 
+valid  for  some  countries  that  experienced  longer  recessions  and  made  greater  efforts  to 
+reform their product and labour markets with an impact on nominal rigidities. 
+Figure 8 
+10 
+  BIS central bankers’ speeches 
+  Some variation is also visible in the estimates of the other parameters, with the weight on 
+expectations increasing over most of the 2000s relative to the level of persistence, and the 
+effect of the exchange rate, but not relative to the level of import prices in US dollars, which 
+slightly increased over time. 
+Figure 9 
+ The  impact  of  the  change  in  the  central  parameter  estimates  on  conditional 
+predictions  is  not  negligible.  Indeed,  estimating  this  model  with  constant  and  with  time-
+varying parameters and feeding it with technical assumptions based on the June ECB staff 
+macroeconomic projections for import prices, exchange rates and the measure of slack (i.e. 
+the unemployment rate, as the gap is estimated endogenously within the model), as well as 
+for projected inflation expectations, yields a significantly steeper profile for inflation excluding 
+food  and  energy  over  the  next  two-and-a-half  years  (Figure  10).  The  steepening  of  the 
+Phillips curve also helps improve its ability to fit the low inflation episode, together with the 
+use  of  measures  that  indicate  wider  negative  slack  and  short-  to  medium-term  survey 
+inflation expectations. 
+Figure 10 
+ BIS central bankers’ speeches 
+ 11 
+  Conclusions 
+Inflation dynamics since the Great Recession have shown signs of instability that have led to 
+a  sequence  of  systematic  forecast  errors.  The  two  puzzles  of  “missing  disinflation”  and 
+successive  “excessive  disinflation”  triggered  a  surge  of  new  research  around  the  Phillips 
+curve and its possible demise, which seems to have been prematurely foretold. 
+There  is  an  important  common  factor  in  inflation  in  the  advanced  economies  that  helps 
+explain national inflation dynamics. The current phase of low inflation, aside from commodity 
+price developments, is significantly influenced by negative demand shocks both at the global 
+and national level. 
+In  particular,  the  recent  low  inflation  in  the  euro  area  was  largely  triggered  by  domestic 
+demand  weakness,  which  probably  led  to  a  larger  degree  of  economic  slack  than  was 
+predicted by the usual methods. 
+The  Phillips  curve  seems  to  survive  the  recent  reassessment  and  is  still  a  valid  tool  of 
+analysis in the euro area, meaning that a sustained recovery in inflation is conditional upon 
+real activity and inflation expectations. 
+The  link  between  inflation  and  real  activity  appears  to  have  strengthened  in  the  euro  area 
+recently. Provided our policies are able to significantly reduce the output gap, we can rely on 
+a material effect to help bring the inflation rate closer to target. 
+References 
+Akerlof, G.A., Dickens, W.T. and Perry, G.L. (1996), “The Macroeconomics of Low Inflation”, 
+Brookings Papers on Economic Activity Vol. 27(1), 1–76. 
+Ball,  L.  and  Mankiw,  N.G.  (1994),  “Asymmetric  Price  Adjustment  and  Economic 
+Fluctuations”, Economic Journal, Vol. 104(423), 247–261. 
+Ball,  L.,  Mankiw,  N.G.  and  Romer,  D.  (1988),  “The  New  Keynesian  Economics  and  the 
+Output-Inflation Trade-off”, Brookings Papers on Economic Activity Vol. 19(1), 1–82. 
+Ball, L. and Mazumder, S. (2011), “Inflation Dynamics and the Great Recession”, Brookings 
+Papers on Economic Activity, Vol. 42, 337–405. 
+Ball, L. and Mazumder, S. (2014), “A Phillips Curve with Anchored Expectations And Short-
+Term Unemployment”, NBER WP 20715. 
+Banco de España (2015) “Variation in the Cyclical Sensitivity of Spanish Inflation: an Initial 
+Approximation”, Economic Bulletin July-August 2013. 
+Banco de España (2015), Annual Report. 
+Bernanke, B. (2010), “The Economic Outlook and Monetary Policy”, Speech at the Federal 
+Reserve Bank of Kansas City Economic Symposium, Jackson Hole, Wyoming. 
+Blanchard, O., Cerutti E. and Summers, L. (2015), “Inflation and Activity: Two Explorations, 
+and  Their  Monetary  Policy  Implications”,  presented  at  the  2015  ECB  Forum  on  Central 
+Banking. 
+Christiano,  L.J.,  Eichenbaum,  M.S.  and  Trabandt,  M.  (2014),  “Understanding  the  Great 
+Recession”, NBER WP 20040. 
+Ciccarelli,  M.  and  Mojon,  B.  (2010),  “Global  Inflation”,  The  Review  of  Economics  and 
+Statistics, Vol. 92(3), 524–535. 
+Clark, P., Laxton, D. and Rose, D. (1996), “Asymmetry in the U.S. Output-Inflation Nexus: 
+Issues and Evidence”, IMF Staff Studies, Vol. 46. 
+12 
+ BIS central bankers’ speeches 
+  Coibion,  O.  and  Gorodnichenko,  Y.  (2015),  “Is  the  Phillips  Curve  Alive  and Well  after  All? 
+Inflation  Expectations  and 
+the  Missing  Disinflation”,  American  Economic  Journal: 
+Macroeconomics, Vol. 7(1): 197–232. 
+Conti, A., Neri, S. and Nobili, A. (2015), “Why is Inflation So Low in the Euro Area?”, Temi di 
+discussione  (Economic  Working  Papers)  1019,  Bank  of  Italy,  Economic  Research  and 
+International Relations Area. 
+Daly,  M.  C.,  &  Hobijn,  B.  (2014),  “Downward  Nominal  Wage  Rigidities  Bend  the  Phillips 
+Curve”, Journal of Money, Credit and Banking, Vol. 46(S2), 51–93. 
+Del Negro, M., Giannoni, M.P. and Schorfheide, F. (2015), “Inflation in the Great Recession 
+and New Keynesian Models”, American Economic Journal: Macroeconomics 2015, Vol. 7(1): 
+168–196. 
+Eisner, R. (1997), “A New View of the NAIRU”, in: Improving the Global Economy: Keynesian 
+and  the  Growth  in  Output  and  Employment,  edited  by  P.  Davidson  and  Jan  A.  Kregel; 
+Cheltenham, UK; Lyme, NH, US: E. Elgar. 
+Ferroni, F. and Mojon, B. (2014), “Domestic and Global Inflation”, mimeo. 
+Fisher,  T.C.G.  (1989),  “Efficiency  Wages:  A  Literature  Survey”,  Bank  of  Canada  
+WP No. 89–5. 
+Foroni,  C.  and  Porqueddu,  M.  (2015),  “Inflation  Dynamics  in  the  Euro  Area:  the  Role  of 
+Inflation Expectations and Nonlinearities in the Phillips Curve”, mimeo. 
+Gilchrist, S., Schoenle, R., Sim, J. and Zakrajsek, E. (2015), “Inflation Dynamics During the 
+Financial Crisis,” Finance and Economics Discussion Series 2015–012, Washington: Board 
+of Governors of the Federal Reserve System. 
+Gürkaynak,  R.S.,  Kisacikoglu,  B.  and  Rossi,  B.  (2013),  “Do  DSGE  Models  Forecast  More 
+Accurately Out-of-Sample than VAR Models?”, CEPR Discussion Paper July 2013.  
+Gordon,  R.J.  (2007),  “Phillips  Curve  Specification  and  the  Decline  in  U.S.  Output  and 
+Inflation Volatility”, presented at Symposium on The Phillips Curve and the Natural Rate of 
+Unemployment, Institut für Welwirtschaft Kiel, Germany. 
+Gordon, R.J. (2013), “The Phillips Curve is Alive and Well: Inflation and the NAIRU During 
+the Slow Recovery”, WP 19390, National Bureau of Economic Research. 
+Iakova,  D.  (2007),  “Flattening  of  the  Phillips  Curve:  Implications  for  Monetary  Policy”,  IMF 
+WP No 07/76. 
+IMF  (2006),  “How  Has  Globalization  Changed  Inflation?”,  World  Economic  Outlook, 
+Washington, D.C.: IMF, April, 97–134. 
+IMF  (2013),  “The  Dog  That  Didn’t  Bark:  Has  Inflation  Been  Muzzled  or  Was  It  Just 
+Sleeping?”, World Economic Outlook Chapter 3, International Monetary Fund. 
+Jarocinski,  M.  and  Lenza,  M.  (2015),  “Output  gap  and  Inflation  Forecast  in  a  Bayesian 
+Dynamic Factor Model of the Euro Area”, forthcoming ECB Working Paper.  
+King, R. and Watson, M.W. (2012), “Inflation and unit labour costs”, Journal of Money, Credit 
+and Banking, 44(s2), 11–149. 
+Krueger, A., Cramer, J. and Cho, D. (2014), “Are the Long-Term Unemployed on the Margins 
+of the Labor Market?”, Brookings Papers on Economic Activity, Vol. 48(1), 229–280. 
+Macklem, T. (1997), “Capacity Constraints, Price Adjustment, and Monetary Policy”, Bank of 
+Canada Review (Spring): 39–56. 
+Mavroeidis,  S.,  Plagborg-Møller,  M.  and  Stock,  J.  (2014),  “Empirical  Evidence  on  Inflation 
+Expectations  in  the  New  Keynesian  Phillips  Curve”,  Journal  of  Economic  Literature,  
+March 2014, 52(1), 124–188. 
+BIS central bankers’ speeches 
+ 13 
+  Medel, C., Pedersen, M. and Pincheira, P. (2014), “The Elusive Predictive Ability of Global 
+Inflation”, Banco Central de Chile WP 725. 
+Murphy, R. (2014), “Explaining Inflation in the Aftermath of the Great Recession”, Journal of 
+Macroeconomics, Vol. 40, 228–244. 
+Oinonen, S. and Paloviita, M. (2014), “Updating the Euro Area Phillips curve: the Slope has 
+Increased”, Bank of Finland Research Discussion Papers.Riggi, M. and Santoro S. (2015), 
+“On the Slope and Persistence of the Italian Phillips Curve”, International Journal of Central 
+Banking, Vol. 11(2), 157–197. 
+Riggi,  M.  and  Venditti  F.  (2015),  “Failing  to  Forecast  Low  Inflation  and  Phillips  Curve 
+Instability: a Euro-area Perspective”, Journal of International Finance, Vol. 18(1), 47–68. 
+Roberts,  J.M.  (2006),  “Monetary  Policy  and  Inflation  Dynamics”,  International  Journal  of 
+Central Banking, Vol. 2(3), 193–230. 
+Stella, A. and Stock, J.H. (2012), “A State-Dependent Model for Inflation Forecasting”, Board 
+of  Governors  of  the  Federal  Reserve  System  International  Finance  Discussion  Papers 
+No 1062, November. 
+Stiglitz, J. (1986), “Theories of Wage Rigidity, In Keynes’ Economic Legacy: Contemporary 
+Economic Theories”, edited by J. L. Butkiewicz, K. J. Koford, and J. B. Miller, 153–222. New 
+York: Praeger. 
+Stock, J.H. and Watson,  M.W. (2010), “Modeling Inflation After the Crisis”, NBER Working 
+Papers 16488. 
+Williams, J.C. (2010), “Sailing into Headwinds: theUncertain Outlook for the U.S. Economy”, 
+Speech 85, Federal Reserve Bank of San Francisco. 
+ 14 
+ BIS central bankers’ speeches 

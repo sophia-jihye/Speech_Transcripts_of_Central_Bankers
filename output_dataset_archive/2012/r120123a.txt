@@ -1,0 +1,251 @@
+Andrew G Haldane: Accounting for bank uncertainty 
+Remarks by Mr Andrew G Haldane, Executive Director, Financial Stability, Bank of England, 
+at  the  Information  for  Better  Markets  conference,  Institute  of  Chartered  Accountants  in 
+England and Wales, London, 19 December 2011. 
+ The views are not necessarily those of the Bank of England or the Financial Policy Committee. I would like to 
+thank  Alan  Ball,  Verena  Bracke,  Antony  Ford,  Priya  Kothari,  Vasileios  Madouros,  Colin  Miles  and  Peter 
+Richardson and Paul Tucker for comments and contributions. 
+Introduction1 
+Fair value accounting principles are under attack from all quarters – accountants, regulators 
+and politicians. The paper by Christian Laux is a welcome attempt to shed some analytical 
+light  on  this  heated  debate.  It  represents  a  staunch  defence  of  fair  value  accounting 
+principles, as the least-worst means of measuring and managing financial risk. It makes a 
+compelling case. In these comments, I will focus on three issues.  
+Linking  these  issues  is  the  idea  that  the  special  characteristics  of  banks  might  require  a 
+special accounting treatment, perhaps even a distinct accounting regime. As context for that, 
+the  fair  value  debate  is  first  placed  in  some  historical  context.  Accounting  rules  for  banks 
+have  not  stood  the  test  of  time,  especially  at  crisis  time.  Better  recognition  of  the 
+uncertainties associated with bank assets, and the fragilities associated with bank liabilities, 
+might make for a more durable accounting regime.  
+Fair values and financial crises 
+The fair value debate is not a new one. It has a history stretching back at least a century. The 
+fortunes  of  this  debate  have  been  shaped  importantly  by  financial  crises.  Indeed,  a  clear 
+historical  pattern  has  emerged:  fair  value  accounting  principles  have  waxed  when  asset 
+prices and banks are rising and waned when both are falling.2  
+Consider  experience  in  the  United  States  either  side  of  the  Great  Depression.  Fair  value 
+principles were rolled-out progressively during the early part of the 20th century. This move 
+was led by the banks who held marketable securities as assets. As these securities rose in 
+value ahead of the Great Crash, marking them to market allowed profits to be booked. Rising 
+asset  prices  and  bank  profits  went  hand  in  hand,  with  fair  values  playing  the  role  of 
+matchmaker. That was one reason why the “roaring ‘20s” roared.  
+The stock market crash of 1929 put paid to this happy marriage. Falling asset prices, marked 
+to  market,  crushed  bank  profits  and  balance  sheets.  In  the  United  States,  around 
+10,000 banks  went  bust  between  1929  and  1938.  Fair  values  were  now  seen  as  more 
+troublemaker  than  matchmaker.  Pressures  to  suspend  fair  values,  from  banks,  regulators 
+and politicians, began to mount. 
+By 1938, after an initial recovery from the Great Crash, the United States was bracing itself 
+for a double-dip recession. In response, under pressure from the Federal Reserve, President 
+Roosevelt suspended fair valuation of investment bank assets. He instructed bank regulators 
+                                                 
+1  These remarks were given at the Institute of Chartered Accountants in England and Wales Information for Better Markets 
+conference on 19 December 2011, in response to a paper by Christian Laux. Both the paper and remarks are forthcoming in 
+Accounting and Business Research (July 2012). 
+2  Simonson and Hempel (1993), Plantin, Sapra and Shin (2008), Haldane (2010). 
+BIS central bankers’ speeches 
+ 1
+to  revert  instead  to  what  today  would  be  called  amortised  cost.  This  was  regulatory 
+forbearance on a system-wide scale. And a suspension of fair value accounting rules lay at 
+its heart.  
+Fast  forward  half  a  century.  During  the  1970s,  fair  value  principles  began  again  to  extend 
+their reach. The United States Savings and Loans crisis in the mid-1980s provided further 
+impetus.  One  of  the  major  contributors  to  the  downfall  of  the  thrifts  was  amortised  cost 
+valuation  conventions,  which  hindered  the  recognition  of  interest  rate  risk.  This  allowed 
+systematic  over-reporting  of  the  health  of  the  thrifts.  In  response,  the  United  States 
+developed and introduced a prompt corrective action regime, the Federal Deposit Insurance 
+Corporation Improvement Act (FDICIA), with fair values at its core. 
+But the wind was again about to shift direction in response to financial pressures. From the 
+early 1990s, the United States was facing severe financial headwinds. A real estate crash 
+placed US bank balance sheets under acute stress.3 Falling asset prices, marked to market, 
+added to these financial pressures. Questions about fair values resumed. In response, and 
+echoing Roosevelt in 1938, President Bush granted the SEC authority to suspend fair value 
+rules.  Although  this  authority  was  not  invoked,  it  demonstrated  a  willingness  to  provide 
+system-wide forbearance through fair value accounting rules. 
+Today, the self-same cycle is in motion. During the long pre-crisis boom, fair value principles 
+gained  ground,  in  particular  in  the  valuation  of  debt,  equity  and  derivatives:  in  the  US, 
+through  Statement  of  Financial  Accounting  Standard  157  (SFAS  157);  internationally, 
+through International Accounting Standard 39 (IAS 39). As in the roaring ‘20s, rising asset 
+prices, marked to market, inflated bank profits and balance sheets. Between 2000 and 2007, 
+major  international  banks  recorded  accumulated  gains  in  their  trading  book  totalling  over 
+£200 billion.  
+But as the crisis tide has turned, with falling asset prices and failing banks, so too has the fair 
+value  debate.  In  2008,  under  intense  pressure  from  an  ailing  banking  community,  the 
+Financial  Accounting  Standards  Board  (FASB)  and  the  International  Accounting  Standards 
+Board (IASB) eased back on fair value accounting rules. For example, banks were allowed to 
+switch financial instruments from trading to holding to avoid mark-to market requirements.  
+So,  historically,  fair  value  accounting  principles  have  gained  ground  when  the  going  has 
+been good, and lost it when it has got tough. From a financial stability perspective, this is a 
+cause  for  concern.  To  see  why,  consider  how  banks’  balance  sheets  then  appear  to 
+investors.  During  the  asset  upswing,  fair  value  gains  ground.  Mark-to-market  gains  are 
+booked as profits. To the extent that asset prices are over-inflated, so too are the recorded 
+profits of the banks.  
+During the downswing, fair value principles are rolled back. Potential losses are then hidden 
+from  view.  Today,  some  of  the  uncertainty  around  global  bank  valuations  stems  from  the 
+difficulty  in  gauging  these  losses,  obscured  by  provisioning  practices  in  banking  books. 
+Regulators and investors alike fear the fog created by such forbearance. 
+In  sum,  accounting  rules  in  general,  and  fair  value  principles  in  particular,  appear  to  have 
+played  a  role  in  both  over-egging  the  financial  upswing  and  elongating  the  financial 
+downswing. They have tended to over-emphasise return in the boom and under-emphasise 
+risk  in  the  bust.  That  is not  a  prudent  approach.  Indeed,  it  is  a  pro-cyclical  one.  We  need 
+accounting rules for banks which are crisis-neutral, valuation conventions for all seasons.  
+What  accounting  regime  might  best  deliver  this  robustness?  A  reasonable  starting  point 
+would be to recognise the clear differences between bank and non-bank balance sheets, in 
+                                                 
+3  Bernanke and Lown (1991). 
+2 
+ BIS central bankers’ speeches
+particular  valuation  uncertainty  associated  with  assets  and  maturity  mismatch  associated 
+with liabilities.  
+Bank assets and valuation uncertainty 
+Banks’  asset  portfolios  are  not  just  larger  and  more  complex  than  for  non-financial 
+companies. The business of banking is predicated on banks’ capacity to screen and monitor 
+these assets more accurately than capital markets. Banks serve as a “delegated monitor” for 
+investors.4 This means the risks and uncertainties around the valuation of bank assets are 
+fundamentally different than for non-financial firms. 
+To willingly finance loans to banks, however, investors need to be capable of monitoring and 
+pricing  these  risks  (known  unknowns)  and  uncertainties  (unknown  unknowns).5  Risks  to 
+banks’ balance sheets include the credit, market and liquidity risks associated with different 
+asset classes. Pricing these risks is, in some respects, the less difficult task. Standard asset 
+pricing models, such as the Capital Asset Pricing Model (CAPM), put the pricing of risk at 
+their core.  
+Pricing uncertainty is an entirely different kettle of fish. That uncertainty arises in part from 
+the absence of a single, well-defined model for pricing some assets. When there is model 
+uncertainty,  the  equilibrium  price  of  an  asset  is  no  longer  uniquely  defined.  Instead 
+equilibrium  prices  are  defined  by  a  range.6  The  wide  range  of  prices  at  which  similar-risk 
+assets have recently been carried on the balance sheet of banks is testament to the scale of 
+this model uncertainty (Chart 1). 
+To  price  that  uncertainty,  investors  would  need  information  on  the  potential  range  of 
+valuations, looking across sets of models and classes of assets. Historically, that information 
+has not been made available to investors. Post-crisis, this may have contributed to investor 
+aversion to bank instruments. Pre-crisis, it may have contributed to a lack of timely action by 
+banks themselves to restrict exposures to assets with significant valuation uncertainty.  
+In the light of this, the Bank of England has recently helped initiate a programme to enhance 
+information  on  the  valuation  range  of  banks’  fair-valued  assets,  working  alongside  the 
+Financial  Services  Authority  (FSA)  and  the  auditing  profession.  A  framework  for  capturing 
+such  uncertainty  was  put  forward  in  an  FSA  consultation  paper  on  “Proposed  Regulatory 
+Prudent Valuation Return”, published in December 2011.7  
+This  framework  suggests  that  an  upside  and  downside  range  for  fair-valued  assets  be 
+identified, categorised into distinct buckets.8 This would give a guide to the potential variation 
+in a bank’s solvency position arising from model uncertainty. It also asks banks to identify 
+portfolios where valuation uncertainty is so severe that it is not possible to provide a plausible 
+bound and to make disclosures around portfolios of particular interest to regulators. A VaR-
+equivalent figure needs also to be disclosed for each asset class, with reconciliation to the 
+net and gross values of all fair-valued assets and liabilities. 
+This  initiative  can  be  seen  as  a  first,  but  important,  step  towards  quantifying  the  intrinsic 
+uncertainty  around  the  valuation  of  banks’  asset  portfolio.  For  perhaps  the  first  time,  it 
+provides  confidence  intervals  around  banks’  balance  sheets  –  what  some  have  called 
+In the language of Knight (1921). 
+                                                 
+4  Diamond (1984).  
+5 
+6  Epstein and Wang (1994).  
+7  Financial Services Authority (2011). 
+8  These  buckets  would  provide  additional  granularity,  and  allow  greater  comparison  across  banks,  over  and  above  the 
+classification employed by, for example, the IFRS Levels 1, 2 and 3.  
+BIS central bankers’ speeches 
+ 3
+“confidence accounting”.9 The stage is now hopefully set for such principles to be rolled out 
+across Europe. For example, the European Banking Authority (EBA) is developing binding 
+technical standards on a prudent valuation methodology by end-2012.  
+These  developments  are  a  significant  departure  from  past  practices  in  reporting  bank 
+balance sheets. At present, this prudent valuation information will form part of the regulatory 
+return, which may be publicly disclosed. But in time, it would be desirable if it formed part of 
+banks’  reported  annual  accounts  to  maximise  investor  transparency  and  consistency.  This 
+would  parallel  the  approach  used  in  other  realms  of  public  policy  to  capture  economic 
+uncertainty – for example, the “fan charts” for inflation and GDP published by the Bank of 
+England.  
+Bank liabilities and maturity mismatches 
+A second dimension along which banks’ balance sheets are different is the structure of their 
+liabilities. Typically, these have a considerably shorter duration than their assets – in others 
+words, banks engage in maturity transformation. This is one of the main reasons for separate 
+regulatory and resolution rules for banks. But it has a bearing, too, on appropriate accounting 
+rules. 
+To see why, consider a bank with 50-year assets funded by overnight deposits. The bank 
+intends  to  hold  these  assets  to  maturity.  Under  current  rules,  holding intent,  alongside  the 
+characteristics of the assets themselves, is the arbiter of valuation. So those intentions would 
+enable  the  bank  to  hold  the  asset  in  its  banking,  rather  than  trading,  book  for  regulatory 
+purposes. 
+But  the  liability  structure  of  banks  means  that  holding  ability  may  in  practice  matter  much 
+more  than  holding  intent.  For  the  stylised  bank,  its  50-year  best  intentions  could  be 
+invalidated  within  24  hours.  In  that  event,  amortised  cost  would  be  a  very  misleading 
+valuation  convention.  The  bank’s  entire  asset portfolio  ought  really  to  be  valued  at  market 
+(and potentially fire-sale) prices.  
+For a bank with long-maturity illiquid assets, these differences in valuation convention could 
+have a material impact on solvency. They may even be the difference between solvency and 
+insolvency. Had their loan books been marked to market during the crisis, UK banks would 
+have had significantly negative net worth for a protracted period (Chart 2). Most global banks 
+would have been in a similar position. As the maturity of banks’ liabilities was low and falling 
+during  this  period,  this  marked-to-market  thought-experiment  is  not  as  fanciful  as  it  may 
+sound.  
+Three  implications  follow.  First,  it  underscores  the  importance  of  liquidity  regulation.  This 
+aims to close any maturity mismatch across the balance sheet. For example, the purpose of 
+the net stable funding ratio, agreed as part of Basel III, is to correct mismatches calculated 
+across the whole balance sheet.  
+Second, there is a debate underway internationally about the appropriate criteria for defining 
+the  boundary  between  banks’  trading  books  and  banking  books  for  regulatory  purposes. 
+Currently,  the  regulatory  boundary  is  based  on  banks’  trading  intent.  Yet  as  the  stylised 
+example  demonstrates,  holding  intentions  may  be  an  economically  incoherent  basis  for 
+valuation. There is a strong economic case for moving away from the existing intent-based 
+convention for differentiating banking and trading books. Indeed, there is a strong case for 
+basing asset valuations more systemically on the characteristics of banks’ liabilities, as well 
+as their assets.  
+                                                 
+9  Giffords and Mainelli (2009). 
+4 
+ BIS central bankers’ speeches
+Third, the maturity mismatch on banks’ balance sheets generates an inherent fragility. This 
+makes assessments of “going concern” by the auditing profession problematic. A run on a 
+bank  with  short-duration  liabilities  could  call  into  question  a  going  concern  assessment  in 
+very short order. The situation is made worse by the fact that, at present, the options open to 
+auditors when summarising a firm’s going concern status are effectively binary: either issue a 
+“clean” report or not.  
+For auditors, this can be an invidious choice. A clean verdict runs the risk of that judgement 
+being quickly invalidated if maturity mismatches are exposed by a liquidity run. But anything 
+other than a clean report might itself provoke that very run and hence become self-fulfilling. A 
+more  graduated,  less  binary,  approach  to  classifying  banks’  accounts  may  be  needed  if 
+auditors are to avoid finding themselves stuck between the devil and the deep blue sea.  
+Conclusion 
+To date, accounting rules for banks have bent with the financial stability wind in ways which 
+have  amplified  investor  and  regulatory  uncertainty.  To  lean  against  the  prevailing  wind, 
+accounting rules for banks may need to recognise more explicitly their differences. It is, after 
+all,  precisely  these  differences  that  justify  separate  regulatory  and  resolution  regimes  for 
+banks. A distinct accounting regime for banks would be a radical departure from the past.10 
+But if we are to restore investor faith in banking sector balance sheets, nothing less than a 
+radical rethink may be required.  
+ 
+ 
+                                                  
+10  Sharman (2011). 
+BIS central bankers’ speeches 
+  5
+   References 
+Bernanke,  B  and  Lown,  C  (1991),  “The  Credit  Crunch”,  Brookings  Papers  on  Economic 
+Activity, 1991:2, pages 205–39.  
+Board  of  Governors  of  the  Federal  Reserve,  “Banking  and  monetary  statistics, 
+1914–1941”, page 283, available at http://fraser.stlouisfed.org/publications/bms/. 
+Diamond,  D  (1984),  “Financial  Intermediation  and  Delegated  Monitoring”,  Review  of 
+Economic Studies, 51(3), pages 393–414. 
+Epstein, L and Wang, T (1994), “Intertemporal Asset Pricing under Knightian Uncertainty”, 
+Econometrica, 62(3), pages 283–322. 
+Financial  Services  Authority  (2011),  “Proposed  Regulatory  Prudent  Valuation  Return”, 
+Financial  Services  Authority,  CP11/30,  available  at  http://www.fsa.gov.uk/pubs/cp/ 
+cp11_30.pdf. 
+Giffords,  B  and  Mainelli,  M  (2009),  “The  Road  to  Long  Finance:  A  Systems  View  of  the 
+Credit Srunch”, Centre for the Study of Financial Innovation, Number 87.  
+Haldane, A G (2010), “Fair Value in Foul Weather”, available at http://www.bankofengland. 
+co.uk/publications/speeches/2010/speech427.pdf. 
+Knight, F H (1921), “Risk, uncertainty and profit”, Hart, Schaffner and Marx Prize Essays, 
+no. 31, Boston and New York, Houghton Mifflin.  
+Laux,  C  (forthcoming),  “Financial  instruments,  financial  reporting,  and  financial  stability”, 
+Vienna University of Economics and Business. 
+6 
+ BIS central bankers’ speeches
+Lord  Sharman  of  Redlynch  (2011),  “Going  Concern  and  Liquidity  Risks:  Lessons  for 
+Companies and Auditors, Preliminary Report and Recommendations of the Panel of Inquiry”, 
+available  at  http://www.frc.org.uk/images/uploaded/documents/The%20Sharman%20Report 
+%20-%20final%200311111.pdf. 
+Plantin, G, Sapra, H and H S Shin (2008), “Fair Value Accounting and Financial Stability”, 
+University of Chicago Graduate School of Business Research Paper 08–15. 
+Simonson,  D  G  and  G  H  Hempel  (1993),  “Banking  Lessons  from  the  Past:  The  1938 
+Regulatory Agreement Interpreted”, Journal of Financial Services Research, pages 249–267.  
+BIS central bankers’ speeches 
+ 7

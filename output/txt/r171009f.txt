@@ -1,0 +1,485 @@
+    
+ 
+The Bank of England’s FinTech Accelerator:  what have we 
+done and what have we learned? 
+ 
+Remarks given by 
+Andrew Hauser, Executive Director, Banking, Payments and Financial Resilience 
+   At a meeting for FinTech contacts of the Bank of England’s Agency for the South East and 
+East Anglia at the offices of Mills & Reeve, Cambridge 
+6 October 2017 
+ I am grateful to Sharmista Appaya and the Financial Accelerator team for their help and assistance in 
+preparing these remarks. 
+ 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+1 
+  Introduction 
+It is a pleasure to be with you here in Cambridge to talk about the Bank of England’s work on financial 
+technology (‘FinTech’) – and to hear from you about the latest developments in your businesses.   
+It is sometimes said that the UK’s thriving technology sector is all about London.  But nothing could be further 
+from the truth.  Forty-four of the UK’s 100 fastest-growing technology firms are based elsewhere in the 
+country1.  And some of the most exciting of all are right here in Cambridge – and speak regularly to our
+excellent local Bank of England Agency team, Phil Eckersley, Tim Pike and Alex Golledge. 
+In fact, I have first-hand knowledge of Cambridge’s long and proud history of hi-tech innovation, having 
+grown up only a short distance from here, at the height of the 1980s personal computer boom centred 
+around Acorn and Sinclair.  As a somewhat nerdy child, I attended an inspirational maths and computing 
+club at Homerton College where we learned, amongst other things, how to do recursive coding using a robot 
+turtle.  We purloined one of the earliest Local Area Networks for our ramshackle school computer shed.  And 
+I had a holiday job at the Cambridge Science Park – right at the start of its astonishing growth story.  I recall 
+one particularly memorable experience working on a robot designed to extract the meat from shellfish:  let’s 
+just say the results were messy! 
+FinTech and the Bank of England 
+Nearly three decades on, my current role in charge of the Bank’s banking and payments infrastructure gives 
+me a bird’s eye view of how technology is transforming financial services.  From the very visible application 
+of the latest mobile technology in retail banking, to the much less visible but just as important application of 
+cloud computing, cryptographic techniques and ultra-high speed processors to the wholesale and back office 
+functions that keep the financial markets running.   
+Some say there is nothing fundamentally new here:  technology has always played an important role in 
+driving change in the financial sector:  from the telegraph to the ATM (celebrating its fiftieth birthday this 
+year); from screen-based trading to online banking.  Harsher critics even suggest the very phrase ‘FinTech’ 
+is little more than a marketing tool, promoting hype over substance.  But this time is different, I believe, in 
+four key ways: 
+-  First, since the financial crisis, financial intermediaries have faced unprecedented pressures to 
+reduce costs to ensure their business models can deliver the sorts of returns expected by investors.  
+Some estimates put the necessary cost reductions as high as 35-40%2.  Savings of that scale
+1 Sunday Times Hiscox Tech Track 100 league table 2017, available at:  http://www.fasttrack.co.uk/league-tables/tech-track-100/ 
+2 McKinsey estimate of cost reduction required for UK and European banks to meet an 8% cost of capital:  see 
+http://www.mckinsey.com/industries/financial-services/our-insights/a-brave-new-world-for-global-banking. 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+2 
+2 
+  require transformational, not incremental, change – and that inevitably involves technology. 
+ -  Second, technology has become much more easily and cheaply available in recent years, reducing 
+entry costs sharply.  Until surprisingly recently, standing up competitive financial services technology 
+required access to expensive dedicated systems and communications links – something rarely if 
+ever available to new entrants.  Perhaps for that reason, key parts of the financial system have 
+remained based on a patchwork of reliable, but sometimes startlingly old, hardware and software.  
+The development of secure internet communications, service-based applications allowing firms to 
+buy as much (or as little) support as they need, open-source code and other key pieces of 
+infrastructure have changed all that, making it radically cheaper to build potentially transformational 
+technologies whilst only incurring the marginal costs of doing so. 
+ -  Third, major advances in the services available to consumers of non-financial products have made 
+them much more demanding of a similar consumer experience from banks and their peers.  Younger 
+consumers in particular now rely totally on their phones, and expect the same ease of use, choice 
+and service integration they get from the so-called ‘GAFA’ (Google, Apple, Facebook and Amazon).   
+Firms in Asia and elsewhere, such as Alipay and Tencent, unencumbered by legacy systems, have 
+perhaps moved furthest and fastest in that direction. 
+ -  And, fourth, public authorities are putting more weight on competition, reflecting a frustration in some 
+quarters with the pace of consumer-benefiting change, and a recognition that innovation and 
+competition may actually boost, rather than harm, prudential stability, where it helps reduce single 
+points of failure and replace operationally vulnerable legacy systems.  In the UK, the Bank of 
+England has a New Bank Start-up Unit and has recently broadened access to its Real-Time Gross 
+Settlement service3; the government created a new Payments Systems Regulator, focused on 
+competition, and is implementing Open Banking, itself the result of recommendations from the CMA; 
+and the FCA has pioneered the use of a so-called ‘regulatory sandbox’ as part of its Project 
+Innovate. 
+ These are strong and persistent forces.  The resulting technological change and innovation, though 
+uncertain in timing, will have profound implications for the nature and range of financial services available to 
+households and firms.  Traditional distinctions between regulated and unregulated activities, retail and 
+wholesale, on-shore and off-shore, will blur as conventional models of intermediation are progressively 
+‘unbundled’.  And new networks will emerge to change the way economic agents interact.  Some of these 
+developments will be positive.  Some may not be.  Either way, central banks cannot afford to stand on the 
+sidelines if they are to continue to deliver their mission of monetary and financial stability.   
+                                                      
+3 See http://www.bankofengland.co.uk/pra/nbsu/Pages/default.aspx and 
+http://www.bankofengland.co.uk/publications/Pages/news/2017/048.aspx respectively. 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 3 
+ 
+3 
+  Many of the most profound policy questions central banks will have to answer relate to financial stability.  
+Would a financial system based around narrower, more specialist payments, lending or asset management 
+entities be more or less safe than one based around universal banks?  If banks themselves increasingly 
+morph into utility providers, acting as platforms for others to sell their wares, what does that mean for the 
+distribution of risks in the system?  How does one judge the appropriate positioning of the regulatory 
+perimeter to ensure that risks are appropriately overseen whilst allowing valuable innovation to flourish?  Do 
+financial intermediaries and market participants understand the operational and financial risks posed by new 
+models of service provision, communications and technologies, and can they control them effectively?  What 
+does the introduction of ever-faster trading and banking systems, and the increasing use of algorithm-based 
+trading and financial advice mean for market dynamics?   
+ But FinTech also poses practical opportunities and challenges for central banks’ own operations.  Could 
+countries with declining transactional cash usage4 see the need to issue their own digital currencies?  Could 
+new technologies such as the distributed ledger help central banks’ to improve the resilience and efficiency 
+of their own payments and settlements infrastructure?5  How do central banks protect their own operations 
+from ever more sophisticated forms of cyber threat?  And how do supervisors keep up with ever more 
+detailed and high-frequency regulatory and market data reporting, and use it to make more informed and 
+timely decisions?   
+ The Bank of England has been a leading voice in these policy debates, and has produced, or contributed to, 
+a wide range of speeches, policy reports and technical analysis6.  But talk is not enough:  true understanding 
+also requires central banks to roll up their sleeves and get their hands dirty with the technology itself. 
+ The Bank’s FinTech accelerator:  what is it? 
+ That is why, in mid-2016, the Bank of England launched its FinTech accelerator project.  We had two 
+objectives in mind.  First, to improve our familiarity with FinTech products, concepts and firms:  their 
+strengths and weaknesses, their implications for financial markets, and their potential applications in central 
+bank operations.  And, second, to give FinTech firms some insight into the emerging questions and needs 
+central banks might have, as policymakers, regulators and operators.   
+                                                      
+4 The urgency of this question depends heavily on individual countries’ circumstances.  In the United Kingdom, the demand for cash 
+continues to rise.  In Sweden, by contrast, the demand for cash has fallen sharply in recent years and the central bank is actively 
+considering the costs and benefits of issuing its own ‘e-krona’:  see for instance http://www.riksbank.se/en/Financial-
+stability/Payments/Does-Sweden-need-the-e-krona/. 
+5 Similar themes were recently also highlighted by Christine Lagarde, Managing Director of the IMF, at the Bank of England’s 
+conference on monetary policy independence, 20 years on:   https://www.imf.org/en/News/Articles/2017/09/28/sp092917-central-
+banking-and-fintech-a-brave-new-world. 
+6 See for instance the Governor’s speech in April 2017:  
+http://www.bankofengland.co.uk/publications/Documents/speeches/2017/speech974.pdf, a compendium of the Bank’s work on digital 
+currencies:   http://www.bankofengland.co.uk/research/Pages/onebank/cbdc.aspx, and the recent report by the Financial Stability Board:  
+http://www.fsb.org/2017/06/financial-stability-implications-from-fintech/. 
+ 
+  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+4 
+ 
+4 
+   
+ 
+Now these clearly aren’t the goals of traditional private sector accelerators, which aim to make money by 
+helping nascent businesses refine the design of their products in ways likely to attract both investors and 
+customers.  We make no financial investment in the firms we work with.  But we do I think share the 
+underlying objective of ‘accelerated mutual learning-by-doing’7 – since central banks are likely to be key 
+stakeholders for many forms of FinTech over the medium term, both in shaping the rules that bear on them, 
+and as technology users.  
+ 
+TABLE 1  THE BANK AND PRIVATE SECTOR ACCELERATORS COMPARED8 
+  Private sector  
+Bank of England (BoE) 
+accelerators 
+accelerator 
+To help ventures define and 
+To work with innovative firms, 
+Purpose 
+build initial products and 
+helping them to understand 
+identify consumers and 
+the BoE’s needs, and the BoE 
+investors  
+to understand the technology 
+Duration of firm 
+engagement 
+Business model 
+3-6 months 
+1-3 months  
+Investment in successful 
+firms (can also be non-profit) 
+Non-profit, no equity taken 
+Selection 
+Competitive, in cohorts 
+Competitive, in cohorts 
+Venture Stage 
+Early 
+Generally later stages 
+Programme 
+Structured programme 
+PoCs structured according to 
+similar for all firms in the 
+central bank use cases and 
+cohort, culminating in a 
+success criteria.  No 
+demo day 
+comparison between firms 
+Resourcing and 
+Mentorship 
+Primary resourcing from 
+start-up staff but with support 
+from mentors  
+Start-up staff work with BoE 
+subject matter experts  
+Venture location 
+On-site 
+Mostly off-site 
+ In other respects, the Bank’s Accelerator operates in a similar way to traditional accelerators (Table 1).  We 
+undertake structured Proofs of Concept (‘PoCs’), organised in cohorts to ensure appropriate resource 
+allocation and focus.  Firms are chosen through an open, competitive selection process on the basis of a 
+well-defined central banking use case.  They work closely with the Bank’s subject matter experts for a  
+time-limited period.  And the results and key findings are published on the Bank’s web pages, and factored 
+                                                      
+7 See for instance Ian Hathaway’s Brookings study of accelerator performance at https://www.brookings.edu/research/accelerating-
+growth-startup-accelerator-programs-in-the-united-states/. 
+8 Framework adapted from Susan Cohen ‘What Do Accelerators Do? – Insights from Incubators and Angels’ innovations’ (Innovations, 
+volume 8, number 3/4, MIT Press). 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+5 
+ 
+5 
+   
+ 
+into the Bank’s future work programme.  Firms we have worked with have been invited to join the Bank’s 
+FinTech community, which meets periodically to share insights and assess developments in the sector. 
+ The Bank’s FinTech Accelerator:  what have we done? 
+ The Accelerator has done quite a lot in a short time.  In the 16 months since the Accelerator was established, 
+it has completed 9 PoCs with 10 firms across three cohorts (Table 2).  And we are announcing a further 
+cohort of 4 PoCs today – the details of which I will come back to shortly.  In total, some 200 firms have 
+applied to work with us across a wide range of disciplines.  The process is resource intensive for both sides.  
+But our broader interactions with those firms, even those not successful in their application, have been of 
+great value, allowing us to reach a much wider external audience keen to interact, collaborate, teach and 
+learn with us. 
+ The PoCs span most aspects of central banking, but can be grouped together into four broad technologies:  
+distributed ledgers; data storage and analysis; machine learning; and cyber security.  Let me discuss each in 
+turn9. 
+ Distributed ledger technology (DLT) (3 PoCs) 
+ DLT has in many respects been the poster-child for FinTech.  Thrown into prominence by the advent of 
+bitcoin and other cryptocurrencies, the attraction of DLT to central banks really lies in the potentially highly 
+attractive resilience characteristics of the underlying technology.  In its purest form, a DLT network operates 
+with no centre, and every node in the network holds a full copy of the ledger.  So the failure of a node has no 
+impact on the overall resilience of the system, with transactions simply rerouting elsewhere.  A single ledger 
+could also eliminate the need for costly reconciliations between market participants, increasing efficiency and 
+reducing operational risk.  For central banks currently operating centralised payments and settlements 
+systems with only limited redundancy and facing growing cyber and operational threats, such a model has 
+obvious attractions.   
+ Our first DLT PoC, undertaken with PwC, proved it was possible to build a multi-node scalable DLT 
+environment enabling the transfer of ownership of a fictitious asset.  But it also demonstrated that the 
+technology was some way from being sufficiently robust or scaleable to form the core of live central bank 
+infrastructure such as the Bank’s Real-Time Gross Settlement (RTGS) service – a conclusion that helped 
+inform the Bank’s plans for its RTGS renewal programme.  PoCs by other central banks have reached 
+broadly similar conclusions10. 
+                                                      
+9 More detailed write-ups of completed PoCs can be found at:  http://www.bankofengland.co.uk/Pages/fintech/default.aspx. 
+10 See for instance the Bank of Canada’s Project Jasper (http://www.bankofcanada.ca/research/digital-currencies-and-fintech/fintech-
+experiments-and-projects/), the Monetary Authority of Singapore’s Project Ubin (http://www.mas.gov.sg/Singapore-Financial-
+Centre/Smart-Financial-Centre/Project-Ubin.aspx) and the European Central Bank and Bank of Japan’s Project Stella 
+(http://www.boj.or.jp/en/announcements/release_2017/rel170906a.htm/). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+6 
+ 
+6 
+   
+ 
+DLT-based systems may well reach critical mass in the private sector rather sooner however – and many 
+firms and consortia have projects underway in this field.  We want to ensure that the next generation of 
+RTGS is able to support such systems, as and when they achieve sufficient market reach.  With that in mind, 
+our second DLT PoC explored the potential to use a DLT system, developed by Ripple using the open 
+source Interledger protocol, to link two simulated but otherwise standard RTGS systems, built in the cloud, to 
+enable cross-border payments to settle in central bank money simultaneously:  a long-standing policy goal of 
+central banks.  This PoC was particularly helpful in identifying some of the operational and technical 
+challenges of such synchronisation. 
+ Our most recent DLT PoC, which we are announcing today will be done with Chain, is designed to examine 
+a key tradeoff in DLT design.  The highly desirable resilience characteristics of DLT require sharing data on 
+the ledger across a number, or all, network participants.  But a fully replicated ledger poses clear privacy 
+issues, and may be vulnerable to a cyber attack on whichever is the weakest link.  The PoC will examine the 
+extent to which DLT based systems can be configured to enable privacy amongst participants, whilst keeping 
+data on a shared ledger:  one of the holy grails of DLT design.  
+ RegTech:  data storage and analysis (4 PoCs) 
+ As central bankers, we have always needed to process, store and analyse data to inform our policy and 
+operational responsibilities.  But that need has grown enormously in recent years, reflecting the increased 
+reporting requirements on supervised firms since the financial crisis, greater availability of high frequency 
+and qualitative data from public and private sources, and new policy responsibilities (eg for macro-prudential 
+supervision).  Making sense of such large and diverse data sets is not straightforward.  But central banks 
+need to do so to discharge their responsibilities, whilst respecting increasingly demanding data protection 
+requirements. 
+ Of course regulated firms face a similar challenge marshalling all of these data in the first place – and a  
+sub-branch of FinTech, sometimes known as ‘RegTech’, has grown up to facilitate the associated 
+monitoring, compliance and reporting demands.  More recently, that term has expanded to cover the use of 
+similar technology on the regulatory side, and a good number of the Accelerator’s PoCs have been in this 
+space, looking either at data analysis or the more advanced field of machine learning.     
+ Our first data analysis PoC, undertaken with Privitar, looked at ways to desensitise mortgage data collected 
+by the Bank so they could be shared more widely and used alongside other more aggregated data to draw 
+conclusions about developments in the financial system as a whole.  Another PoC, with Enforcd, examined 
+tools allowing the Bank’s legal team to draw out common trends in publically available regulatory 
+enforcement actions in order to inform their own work.  The third PoC worked with Experimentus ORB to 
+visualise the performance of internal Bank projects against a range of performance metrics.  And our fourth 
+PoC, which we are announcing today will be done with NTT Data and Reportix, will explore ways of storing, 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+7 
+ 
+7 
+   
+ 
+organising and combining the Bank’s regulatory and analytical data in a more flexible or ‘multi-dimensional’ 
+way based on the XBRL standard, rather than the current ‘form-centric’ (or tabular) format.  Although on the 
+face of it a rather dry and technical issue, improving the storage of data in this way would allow us to make 
+broader connections between data sets, help analyse and visualise trends in new and innovative ways, and 
+make it faster and easier to implement new XRBRL-based taxonomies in the future, without having to 
+reformat all of our databases. 
+ RegTech:  machine learning (4 PoCs) 
+ Machine learning (and its close bed-fellow artificial intelligence) builds on the basic tools I have just 
+summarised, but takes them a stage further, using algorithms to learn iteratively from data and drawing out 
+potential patterns.  In the near term, this could be used to complement and strengthen central bank analysis 
+and supervisory activity.  In the more distant future, it could do people like me out of a job!  This is perhaps 
+the most challenging and experimental area of FinTech in the Accelerator programme, and the results are 
+therefore necessarily more speculative than in the other categories. 
+ Our first PoC, conducted with BMLL, examined algorithms designed to analyse high resolution limit order 
+book data from trading exchanges.  The second used tools provided by Mindbridge Analytics to detect 
+anomalies in anonymised regulatory data from credit unions.  The PoC combined conventional data science 
+techniques (including clustering and classification algorithms) with a feature allowing users to flag items as 
+suspicious or safe, permitting the program to ‘learn’ from the user which items could be of potentially more 
+interest and adjusting its risk scores accordingly.  And a third PoC with the same firm, announced today, will 
+look to expand these findings to larger and more diverse data sets, including transaction data, and a broader 
+range of classification and machine learning algorithms.  Our fourth and final PoC in this category, also 
+announced today with Digital Reasoning will examine the extent to which analysis of the large quantities of 
+weakly-structured textual data on regulated firms available from multiple public data sources can yield 
+insights on intent and sentiment.  The PoC will look at whether those insights are capable of complementing 
+analysis of more formal data reporting. 
+ Cyber security (2 PoCs) 
+ The Bank, in common with other major financial institutions, spends a lot of time on cyber security – both for 
+its own systems, and in terms of its requirements and expectations of regulated firms.  Much of this takes 
+place as part of the Bank’s core work programme, but a number of more exploratory exercises have taken 
+place through the Accelerator.  In particular, we undertook a PoC with BitSight aimed at assessing the 
+extent to which a firm’s cyber resilience can be evaluated using publically available data.  And we worked 
+with Anomali and ThreatConnect to explore ways of consolidating threat intelligence into a format that can 
+be used to optimise information collation, enrichment and sharing. 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+8 
+ 
+8 
+   
+ 
+Non-PoC work of the FinTech Accelerator 
+ In addition to enabling PoCs, the Accelerator team has also been able to leverage off the contacts and 
+relationships made with firms and public authorities in the UK and overseas to provide a wider  
+intelligence-gathering and horizon scanning function on FinTech to inform the Bank’s policy and operational 
+work.  This has included convening topic-specific roundtables and seminars, supporting analytical and policy 
+initiatives, and providing periodic updates on hot topics in the sector. 
+ What have we learned?   Some tentative conclusions 
+ The work undertaken by the Accelerator has been of significant value, both for the Bank and, we believe, for 
+the broader FinTech community.   
+ For the Bank, we have gained first-hand experience of a range of new technologies, helping us to evaluate 
+their application both to the Bank’s own functions and in the wider market.  Our work on DLT has helped us 
+start to think through how the financial networks of the future may be able to operate in safer and more 
+efficient ways, and how we can ensure they can continue to benefit from access to central bank money.  Our 
+work on data analysis has thrown light on how we can manage ever larger data sets to monitor the economy 
+and the financial system in real time and draw out patterns that might help us set better policy or spot the 
+next crisis coming before it happens.  And our work on machine learning has helped us take the first baby 
+steps towards engaging with that data in a more interactive way, putting computers alongside our staff to 
+help them form the judgments on which monetary and financial stability depend. 
+ Through the Accelerator and the Bank’s broader Fintech work, we have made valuable connections with 
+important parts of the financial and technology sector beyond the regulatory perimeter – relationships that 
+could matter greatly in the years to come. 
+ And those engagements with FinTech firms have also exposed central bankers to some very different ways 
+of working and thinking:  more agile, more willing to experiment, less bound by convention.  Internal 
+‘hackathons’ run by our Technology department along similar lines, and aimed at identifying innovative 
+solutions to Bank-specific problems, have been extraordinarily popular and have shown central banking 
+officials to be capable of much more radical thinking than is sometimes supposed. 
+ The firms we have worked with have also valued the experience, giving them insights on the wider 
+application of their technologies, and the needs and thought patterns of regulators and policymakers.  Our 
+feedback has been honest:  positive where that is due, but also highlighting challenges or gaps where they 
+are evident.  And our work has in turn been part of the broader effort by the UK authorities to support and 
+guide the sector. 
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+9 
+ 
+9 
+   
+ 
+The latest wave of innovation in financial technology has shaken up traditional thinking about how to deliver 
+financial services, defining the pace and shape of innovation in what has sometimes been quite a  
+slow-moving industry technologically-speaking.  And those four driving forces I mentioned at the start – the 
+economic pressures on traditional business models, sharply-reduced technology barriers to entry, changing 
+consumer preferences and pro-competition regulation – will only intensify the pace of change in the years 
+ahead.  So what are the challenges?  I would pick out two11.  First, customer acquisition is hard!  Households 
+and firms are loyal to their traditional suppliers:  they will only switch if the offering is genuinely innovative, 
+not just a good-looking piece of marketing.  Similar considerations apply to central banking applications.  
+Second, widespread adoption also requires attention to those two traditional characteristics of successful 
+financial systems:  scaleability and resilience.  It is striking how much our conversations with leading firms 
+have increasingly turned to these issues, even over the short period we have been running our Accelerator 
+project.  These topics are dear to central bankers’ hearts, and will play a central role in shaping the next 
+stage in our engagement with FinTech. 
+ I look forward to our conversation today. 
+                                                       
+11 For a similar perspective, see also the most recent World Economic Forum report on FinTech:  
+https://www.weforum.org/reports/beyond-fintech-a-pragmatic-assessment-of-disruptive-potential-in-financial-services. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+10 
+ 
+10 
+ TABLE 2  BANK OF ENGLAND FINTECH ACCELERATOR PROOFS OF CONCEPT 
+Cohort 
+Project area 
+Cohort 1 
+ Cohort 2 
+Cybersecurity 
+Data analysis 
+Distributed ledger technology 
+Machine learning 
+Cybersecurity 
+Data analysis 
+Machine learning 
+Cohort 3 
+Distributed ledger technology 
+Data analysis 
+Distributed ledger technology 
+Cohort 4 
+Data analysis 
+Machine learning 
+            Company 
+BitSight 
+Privitar 
+PwC 
+BMLL 
+Anomali 
+ThreatConnect 
+PoC 
+We wanted to understand if we could get a view of a firm’s cyber resilience based 
+on publically available data.  
+This PoC explored a tool to desensitise data with the aim of being able to share data 
+more widely within the Bank. 
+We built a multi-node scalable distributed ledger environment in-house that 
+enabled the transfer of ownership of a fictitious asset.  
+Experimented with the alpha version of a machine-learning platform that used cloud 
+computing to evaluate patterns in data from a number of trading exchanges. 
+Both firms were asked to create a searchable database where intelligence on 
+cybersecurity threats could be optimised and stored. They helped enable the 
+automation of what was a very labour intensive analysis process. 
+Status 
+Completed 
+Completed 
+Completed 
+Completed 
+Completed
+ Enforcd Limited 
+In this PoC we wanted to understand the benefits in viewing publically available 
+enforcement action from different perspectives and the high level trends. 
+Completed 
+Mindbridge 
+Analytics Inc 
+The firm was asked to prove the value of their analytical tools for detecting 
+Completed
+anomalies in anonymised regulatory data collected from a sample of credit unions. 
+ Ripple 
+This PoC explored the synchronisation of two different fiat currencies between two 
+simulated RTGS systems built on the cloud. We wanted to understand the impacts 
+Completed 
+on settlement risk, speed and the efficiency of cross-border payments. 
+Experimentus 
+We applied the firm’s tool to historic projects to visualise how they had performed 
+ORB 
+Chain 
+Reportix and 
+NTT Data 
+Digital 
+Reasoning 
+against a range of standard key performance indicators. 
+This PoC is intended to explore how distributed ledgers can be configured to enable 
+privacy amongst participants whilst keeping data shared across a network. 
+Completed 
+In progress 
+This partnership of firms will investigate innovative storage solutions for regulatory 
+reporting data. In particular, the processing and storage of XBRL based data to 
+In progress 
+facilitate analysis and visualisation. 
+In this PoC we want to understand the sentiment in a sample of publically available 
+unstructured text data and how this might support the work of our supervisors. 
+In progress 
+Machine learning 
+ Mindbridge 
+Analytics Inc 
+This second phase PoC will examine the ability of the tool to analyse larger data sets 
+and a broader range of classification schemes and learning algorithms. 
+In progress 
+  

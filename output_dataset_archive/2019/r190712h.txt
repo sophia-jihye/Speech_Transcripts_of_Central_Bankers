@@ -1,0 +1,909 @@
+ J u l y   5 ,   2 0 1 9 
+B a n k   o f   J a p a n 
+Should the Bank of Japan Issue a Digital Currency? 
+Speech at a Reuters Newsmaker Event in Tokyo 
+ Masayoshi Amamiya 
+Deputy Governor of the Bank of Japan 
+(English translation based on the Japanese original) 
+  I. Introduction 
+It is a great honor and pleasure for me to be able to speak to you today. 
+ In  recent  years,  the  environment  surrounding  Japan's  payment  and  settlement  systems  has 
+gone  through  various  changes.  On  the  demand  side,  consumers  seek  more  convenient 
+payment services, such as those available during the nighttime and on holidays or low-cost 
+international  remittance  services.  Diversified  lifestyles  and  the  spread  of  e-commerce 
+businesses have contributed to this. On the supply side, new devices -- such as smartphones 
+and IC cards -- enabling the public to access payment services have continued to expand. In 
+addition  to  traditional  financial  institutions,  non-bank  firms  with  strong  capabilities  in 
+information  technologies,  or  so-called  FinTech  firms,  have  started  to  provide  cashless 
+payments services. 
+ As central banks have a responsibility to improve the safety and efficiency of payment and 
+settlement systems, their future landscape in the digital age is an extremely important topic 
+for  us.  In  fact,  whether  central  banks  should  issue  digital  currencies  as  a  payment 
+instrument substituting for cash (banknotes and coins) has become an important issue. 
+ Digital  currencies  issued  by  central  banks  are  called  "central  bank  digital  currencies" 
+(CBDCs). The Bank for International Settlements (BIS) conducted an interesting survey on 
+central bank initiatives for CBDC (Figure 1). Among the 63 respondent central banks, about 
+70 percent are engaged in CBDC work, most of which is in the form of research/study or 
+experiments/proof-of-concept.  Central  banks  that  have  actually  been  developing  CBDCs 
+and are seriously considering its issuance are in the minority; they are limited only to those 
+of countries, such as Sweden where the circulation of banknotes is rapidly  decreasing and 
+emerging  and  developing  countries  where  the  infrastructure  supporting  banknotes  has  not 
+yet fully developed. Except for these cases, many central banks see themselves as unlikely 
+to issue CBDCs in the short or medium term.   
+ Many central banks therefore take the position that they have no plan to issue CBDCs in the 
+near future but will continue research into CBDCs, which is the position the Bank of Japan 
+1 
+ also takes. But why do central banks take this seemingly contradictory position? The main 
+aim of this speech is to explain the background to this.   
+ First  allow  me  to  outline  Japan's  current  status  regarding  retail  payments  --  that  is, 
+developments  in  person-to-person  (P2P)  money  transfers  and  person-to-merchant  (P2M) 
+payments -- and then talk about the possible forms of CBDC and its expected roles. I will 
+then  discuss  the  implications  of  the  research  on  CBDC  for  the  future  payment  and 
+settlement systems as a whole, including private digital currency.   
+ II. Cash and Cashless Payments in Japan 
+Let's  start  by  looking  at  survey  results  and  statistics  to  discover  current  trends  in  retail 
+payments and the degree of progress toward a cashless society in Japan.   
+ Payment Instruments for Individuals 
+According to the results of a recent survey on individuals' payment instruments, the ratio of 
+cash  payments  to  cashless  payments  in  private  consumption  expenditure  is  almost  one  to 
+one (Figure 2). This figure displays the survey results of the share of payment instruments. 
+In the survey, transfers between bank accounts are included as cashless payments. Thus, it 
+should be noted that the ratio of cashless payments is at a higher level compared with that 
+excluding  transfers  between  bank  accounts,  which  is  often  the  case  in  other  surveys. 
+Looking at the share of payment instruments, the share of credit cards is high, at about 30 
+percent,  and  that  of  prepaid  electronic  money  issued  by  firms  such  as  transport  and 
+distribution firms is about 5 percent. The use of FinTech payment services, or "XYZ pay," 
+that use mobile devices such as smartphones is still very limited, accounting for less than 1 
+percent. 
+ At what pace will the share of cashless payments increase? It is difficult to project the pace 
+but  developments  in  the  amount  of  cash  in  circulation  are  useful  as  reference  information 
+(Figure 3). The year-on-year rate of change in the amount of cash in circulation  for 1  yen 
+and  5  yen  coins  for  2018  declined  very  moderately.  Meanwhile,  the  rate  for  the  100  yen 
+coin was in the range of 0.5-1.0 percent, increasing at around the same rate as the nominal 
+GDP  growth  rate  for  2018.  The  rates  for  the  500  yen  coin  and  1,000  yen  banknote  were 
+2 
+ over 2 percent. Those for 10,000 yen and 5,000 yen banknotes  were even higher, being in 
+the range of 3 to 4 percent.   
+ This  increase  in  the  amount  of  high  denomination  banknotes  in  circulation,  including 
+10,000 yen banknotes, reflects the increasing demand for cash as a store of value -- that is, 
+savings held in the form of cash under the mattress. The lower interest rate environment has 
+lowered opportunity cost of holding cash. On the contrary, not many people hold 1,000 yen 
+banknotes or 500 yen coins, or even 100 yen coins, under the mattress. I think the increase 
+in circulation of these banknotes and coins indicates the possibility of their continued use as 
+a means of payment rather than as a store of value. 
+ Based  on  these  facts,  cashless  payments  seem  to  be  expanding  in  small-value  payments 
+where the change piles up, but cash still continues to be widely used as a means of payment. 
+The  year  2018  saw  a  growing  social  interest  in  cashless  payments;  however,  despite  the 
+general  impression  gained  from  the  media,  the  pace  of  transition  from  cash  to  cashless 
+payments  seems  to  have  been  moderate.  The  news  that  there  were  long  queues  at  bank 
+ATMs  before  the  10-day  holiday  from  late  April  to  early  May  2019  indicates  that  cash  is 
+still an important payment instrument for many consumers. 
+ Moderate Transition to Cashless Payments 
+Why the moderate transition to cashless payments in Japan? It is considered that the causes 
+lie in both the demand and supply of cash payments.   
+ The demand for cash payments is thought to be related to people's perception of cash: less 
+concern  about  wasting  money  than  when  using  cashless  payment  instruments;  a  safe 
+environment where cash is rarely stolen and is even often returned when people lose their 
+pocketbooks or purses; and public confidence in the high anti-counterfeit security levels of 
+Japanese  banknotes,  resulting  in  counterfeit  banknotes  having  a  very  low  circulation.  The 
+prolonged low interest rate environment may also have pushed up the demand for cash.   
+ As  for  the  supply  of  cash  payments,  cash  payment  networks  supported  by  financial 
+institutions' bricks and mortar branches and ATMs are important (Figure 4). The denser the 
+3 
+ networks, the more convenient cash withdrawal from the bank account and cash deposit to 
+the account. For this reason, the greater the number of branches of financial institutions per 
+habitable  area,  the  higher  the  ratio  of  cash  in  circulation  to  nominal  GDP  tends  to  be. 
+Japan's  high  ratio  of  cash  in  circulation  to  nominal  GDP  is  considered  to  be  due  to  the 
+established  convenient  and  inexpensive  cash  supply  chain,  as  exemplified  in  the 
+concentration of financial institutions' branches and ATMs within a small national territory.   
+ These structural factors in the demand and supply of cash payments are considered to have 
+slowed  down  the  transition  to  the  cashless  payments.  Nonetheless,  if  the  number  of  new 
+cashless payments users and  merchants increases up to a certain scale, the use of cashless 
+payments  could  then  expand  sharply.  Let's  take  a  look  at  the  case  of  South  Korea.  In  the 
+wake  of  the  Asian  currency  crisis  in  the  late  1990s,  South  Korea's  government  promoted 
+cashless  payments  as  a  part  of  economic  policy  package.  It  introduced  a  system  of  a 
+deduction  of  20  percent  of  annual  credit  card  payments  from  taxable  income,  and  obliged 
+merchants  to  accept  credit  cards.  These  measures  turned  the  tide,  and  the  move  toward  a 
+cashless society accelerated.   
+ In  Japan  as  well,  the  government  plans  to  introduce  loyalty  rewards  for  using  cashless 
+payment  instruments  with  the  scheduled  consumption  tax  hike  in  October  2019.  These 
+measures may provide a boost toward the cashless society in Japan.   
+ III. Central Bank Digital Currency and Private Digital Currency 
+The phenomenon of the demand for cash being surprisingly persistent and the ratio of cash 
+in circulation to nominal GDP continuing to increase has been observed not only in Japan 
+but  in  many  countries.1  Nonetheless,  cashless  payments  will  likely  increase  in  numerous 
+countries in the long run. Against this background, there has been a growing interest in the 
+digitization of currencies issued by central banks, or central bank money. 
+                                                    
+1  Morten  L.  Bech  et  al.,  "Payments  Are A-Changin'  But  Cash  Still  Rules,"  BIS Quarterly  Review, 
+March 2018. 
+4 
+ 1. Issuance Forms of Central Bank Digital Currency 
+There are two main variants of CBDC. One variant is electronic central bank money, which 
+offers  access  to  a  limited group  of  users  such  as  banks,  among  whom  it  is  used  for  funds 
+settlement.  This  variant,  called  "wholesale  CBDC,"  adopts  new  information  technologies 
+such as distributed ledger technology (DLT)  in settlements using central bank deposits, or 
+central  bank  liabilities  which  have  been  digitized.  The  other  variant  is  electronic  central 
+bank money which is assumed to be widely accessible, including for individuals and firms. 
+This variant is called "general purpose CBDC." From now on, I will use the term CBDC to 
+refer to the general purpose variant. 
+ A  general  purpose  CBDC  is  a  substitute  for  cash  (banknotes  and  coins),  and  two  issuing 
+forms are possible (Figure 5). One is an "account-based" CBDC, in which individuals and 
+firms open an account at a central bank and use it to make transfers between accounts. This 
+scheme is fundamentally the same as transfers between accounts held at private banks. The 
+difference lies in whether the accounts are held at the central bank or at private banks. The 
+other form is a "token-based" CBDC, also referred to as a "value-based" CBDC, in which 
+users deposit CBDC to their smartphone applications or IC cards and transfer value to other 
+users when making payments. This scheme is similar to prepaid electronic money issued by 
+transport and distribution firms and FinTech firms. The difference is whether the issuer is a 
+private firm or the central bank. 
+ 2. Expected Roles for Central Bank Digital Currency 
+CBDCs  are  expected  to  play  various  roles  (Figure  6).  For  instance,  in  terms  of  monetary 
+policy,  academia,  in  principle,  argues  that  CBDCs  should  bear  interest  --  even  negative 
+interest  rates  in  some  cases  --  as  that  could  increase  the  effectiveness  of  monetary  policy. 
+This argument is based on the premise that the level of interest rates applied to CBDC could 
+work  as  the  effective  lower  bound  of  interest  rates  for  wide-ranging  financial  assets. 
+However, in order to overcome the zero lower bound of nominal interest rates, cash needs 
+to be completely eliminated. This is because even if a central bank applies negative interest 
+rates to CBDC, as long as cash which yields zero interest remains, there will be a shift of 
+funds  toward  cash.  Abolishing  cash,  used  by  many  people,  would  only  make  payment 
+infrastructures less convenient. There is no central bank that wishes to do this. 
+5 
+ Resolving the Crowding of Cashless Payment Instruments 
+We often hear the opinion that the rationale for issuing CBDC is to resolve the crowding of 
+cashless  payment  instruments  and  to  unify  all  payment  instruments.  Because  of  the  large 
+number of cashless payment instruments currently available, consumers are often at a loss 
+as  to  which  one  to  use.  In  this  regard,  Professor  Sheena  Iyengar  of  Columbia  University 
+conducted  an  interesting  experiment  on  the  provision  of  choice.  She  carried  out  a  social 
+experiment  where  consumers  shopping  at  a  grocery  store  encountered  a  tasting  booth  for 
+jam  that  offered  either  6  or  24  different  flavors.  The  results  showed  that  more  consumers 
+stopped at the tasting booth displaying 24 flavors, but when it came to purchasing behavior, 
+consumers  who  were exposed  to  6  flavors  were  more  likely  to  purchase  the  product.  This 
+implies that extensive options can attract people's interest, yet when they  are too extensive 
+they tend to reduce people's motivation to make a choice. Many might perhaps feel that this 
+notion is reflected in current developments in cashless payments in Japan.   
+ If central banks issue CBDCs and many consumers begin to use them, there is certainly the 
+possibility  that  this  would  lead  to  a  resolution  of  the  crowding  of  cashless  payment 
+instruments.  In  fact,  looking  back  at  the  history  of  currency  globally,  the  issuance  of 
+banknotes has become limited to central banks as the issue of banknotes by multiple private 
+banks in the past led to their uncontrollable increase, causing economic turmoil.   
+ That said, it is not appropriate to identify the current retail payments market with the past 
+where the uncontrollable increase in the issue of banknotes by multiple institutions caused 
+turmoil.  The  retail  payments  market  is  now  in  a  phase  where  FinTech  firms  and  financial 
+institutions  are  competing  with  each  other  in  payments  innovation.  The  Bank  of  Japan 
+judges  that  it  is  important  for  now  to  promote  innovation  in  the  private  sector,  as  it  has 
+strong  information  technology  capabilities.  If  the  current  crowding  of  cashless  payment 
+instruments is maintained forever, it would reduce consumers' economic welfare, but such a 
+situation will likely be resolved eventually in the process of competition.   
+ Maintaining the Competitive Environment in the Retail Payments Market 
+On  the  other  hand,  leaving  the  competition  up  to  the  market  may  not  lead  to  desirable 
+outcomes  in  the  long  term;  it  could  possibly  result  in  "market  failure."  The  payment  and 
+6 
+ settlement  systems  have  "network  externalities"  where  the  wider  a  network  is,  the  more 
+benefit the participants in the network can enjoy. For this reason, if the number of users and 
+merchants  in  the  network  exceeds  a  certain  scale  --  "a  critical  mass"  --  the  scale  of  the 
+payment platform would expand greatly, leading to an oligopoly or monopoly in the retail 
+payments market. If specific businesses gain strong control over the retail payments market, 
+it  could  distort  the  pricing  mechanism,  decrease  incentives  for  innovation,  or  increase 
+systemic risk when problems arise.   
+ At  present,  the Japanese  retail  payments  market  is  not  facing  any  oligopoly  or  monopoly. 
+However,  a  decline  in  competition  in  the  retail  payments  market  is  now  an  issue  in  some 
+countries like Sweden, where cash circulation is rapidly declining and society is becoming 
+increasingly  cashless.  Some  argue  that  the  issuance  of  CBDC  would  contribute  to 
+maintaining the competitive environment in the retail payments market.2  It is believed that 
+if  a  central  bank  builds  cashless  payment  platforms,  this  would  maintain  the  pressure  on 
+private sector firms to compete with each other. However, my take is that issuing CBDC is 
+not the best option to promote competition in the retail payments market. The first possible 
+prescription should be a government policy on competition, such as splitting up monopoly 
+firms  and  strengthening  regulations  to  resolve  distortions  in  competition.  Therefore,  I 
+believe it is not really appropriate to issue CBDC for the purpose of promoting competition 
+in the retail payments market.   
+ Fundamental Functions of Currency and a Two-Tiered System 
+To explore the rationale for issuing CBDC, we can simply get back to the fundamental roles 
+of currency. Payment instruments that are safe, reliable, inexpensive, and available to all are 
+essential  to  support  economic  activities.  I  think  most  people  would  agree  that  the  central 
+bank should continue to be responsible for supplying these instruments in the digital age as 
+well. The rationale for issuing CBDC may basically rest on this. 
+ CBDC  functions  not  only  as  a  means  of  payment  but  also  as  a  store  of  value.  In  normal 
+times, people may not be aware of the difference between central bank money and private 
+                                                   
+2  Walter Engert, Ben S. C. Fung, and Scott Hendry, "Is a Cashless Society Problematic?,"  Bank of 
+Canada Staff Discussion Paper 2018-12, October 2018. 
+7 
+ money  (i.e., money  issued  by  the  private  sector); however,  this  is  not the  case  in  times  of 
+financial crisis or natural disaster. When people are anxious, the precautionary demand for 
+central  bank  money  free  of  credit  risk  tends  to  increase.  When  the  Great  East  Japan 
+Earthquake hit Japan, there was a significant increase in cash withdrawal in disaster areas.3 
+Also, when the Lehman Brothers bankruptcy led to a financial crisis in Iceland, demand for 
+cash  soared  so  high  that  the  Central  Bank  of  Iceland's  inventory  of  banknotes  was  nearly 
+exhausted.4  These  facts  show  that  it  is  reasonable  to  say  that  a  framework  should  be  in 
+place to supply highly credible central bank money that is suitable for the digital age.   
+ Nevertheless, issuing CBDC in normal times with the purpose of preparing for crisis could 
+pose a new challenge. For example, if CBDC starts to substitute for bank deposits, it could 
+squeeze banks' credit intermediation and affect the real economy. There is also the view that 
+CBDC, which functions as a safe haven in times of stress, would rather amplify the stress. 
+Since all it takes is a few clicks on a computer or smartphone, a shift from bank deposits to 
+CBDC would occur in a much more drastic way in the digital age than with traditional bank 
+runs, and thus could exacerbate a financial crisis. This is called a "digital bank run." 
+ As we look deeper into these issues, we end up facing the issue of how we should treat the 
+"two-tiered  system,"  established  in  most  modern  states.  Under  the  two-tiered  system,  a 
+central bank exclusively supplies the public with central bank money consisting of cash and 
+central bank deposits,  and private banks provide deposits through credit creation based on 
+the  central  bank  money.  The  two-tiered  system  has  various  advantages  regarding 
+information processing and resource allocation. While the credibility of currency is ensured 
+by  central  bank  money,  financial  resources  are  efficiently  allocated  through  private-led 
+initiatives.  Private  sector  innovations  are  greatly  utilized  in  the  area  of  payment  services. 
+For  example,  new  cashless  payment  instruments  offered  by  FinTech  firms  provide  better 
+user interface using smartphones and make payment using deposits very handy.   
+ 3  Bank of Japan Payment and Settlement Systems Department, "Higashi Nihon Daishinsai chokugo 
+no  kin'yū  kessai-men  no  dōkō:  dēta  ni  motozuku  jijitsu  seiri,"  Bank  of  Japan  Research  Papers, 
+March 2013. 
+4  Central Bank of Iceland, "Rafkróna?," Central Bank Digital Currency Interim Report, September 
+2018. 
+8 
+  No  matter  how  safe  and  reliable  CBDC  is  as  a  payment  instrument,  the  benefits  derived 
+from the two-tiered system would be lost if private money were to be replaced by CBDC on 
+a considerable scale. When considering the design of payment and settlement systems, it is 
+necessary to examine ways to improve the overall functions and credibility of the systems. 
+In doing so, central bank money and private money should not be considered independently. 
+We  need  to  take  into  account  the interrelations  between the  two.  Next,  I  will  discuss  how 
+the  functions  of  private  digital  currencies  can  be  improved  to  achieve  a  level  close  to  the 
+expected  functions  of  CBDC  in  terms  of  creditworthiness,  general  acceptability,  and 
+settlement finality (Figure 7).   
+ 3. Improving the Functions of Private Digital Currency 
+Creditworthiness of Private Digital Currency 
+As I have mentioned earlier, in the digital age, it is important to prepare ourselves for crises 
+with  safe  assets,  and  CBDC  is  an  important  possibility.  However,  it  is  also  important  to 
+design a framework that improves the creditworthiness of private money, regardless of the 
+issuance  of  CBDC.  If  the  credit  risk  of  private  money  could  be  minimized  and  the  credit 
+gap between private money and central bank money could be narrowed, the issue of a shift 
+from bank deposits to CBDC could, in theory, be alleviated.   
+ In Japan, among the various types of private money, a framework of protection provided by 
+deposit insurance for bank deposits was put firmly in place after the crisis of the late 1990s. 
+As  for  electronic  money  issued  by  transport  and  distribution  firms  and  FinTech  firms, 
+consumer  protection  is  provided  by  securing  assets.  For  example,  firms  issuing  electronic 
+money  which  is  convertible  to  cash  are  required  by  law  to  secure  funds  equivalent  to  or 
+more than the amount received from users, by making a security deposit or by other means.   
+ As for developments overseas, in China, BigTech firms, including Alipay and WeChat Pay, 
+that  provide  payment  services  are  required  to  deposit  funds  equivalent  to  the  amount 
+received from their users in accounts at the People's Bank of China. This could be seen as 
+an example of a scheme where BigTech firms issue private digital currencies based on the 
+credibility of a central bank. In terms of functionality, it is very much the same as narrow 
+9 
+ banking, where the central bank requires full reserves, and is almost equivalent to CBDC in 
+terms of creditworthiness. 
+ To  ensure  the  stability  of  the  retail  payment  system  as  a  whole,  it  is  essential  to  design  a 
+framework that secures the creditworthiness of private digital currencies. The social impact 
+would increase as the scale of the cashless payment platforms operated by the private sector 
+grows.  With  regard  to  payment  instruments  and  services,  the  authorities  would  therefore 
+need  to  put  an  adequate  risk-based  regulatory  framework  in  place.  As  for  firms  operating 
+payment platforms, they would be required to take responsible action, including adoption of 
+sophisticated  risk  management  procedures  and  stringent  responses 
+to  regulatory 
+requirements.   
+ General Acceptability of Money 
+Even  if  the  creditworthiness  of  private  digital  currencies  improves,  it  does  not  mean  that 
+they  will  be  widely  accepted  as  money.  For  instance,  merchants  participating  in  different 
+payment  platforms  operated  by  FinTech  firms  do  not  necessarily  overlap. This  means  that 
+electronic  money  issued  by  a  FinTech  firm  cannot  be  used  in  transactions  with  merchants 
+participating  in  payment  platforms  operated  by  different  FinTech  firms.  Moreover,  users 
+cannot  conduct  P2P  money  transfers  across  different  payment  platforms.  Thus,  electronic 
+money  issued  by  FinTech  firms  is  at  present  considerably  inferior  to  cash  in  terms  of 
+general acceptability.             
+ Overseas,  there  are  cases  where  interoperability  among  payment  service  providers  is 
+ensured. For example, in Hong Kong, major banks and nonbank payment service providers 
+(store  value  facilities)  such  as  Alipay  and  WeChat  Pay  have  joined  the  Faster  Payment 
+System -- a real-time funds transfer system which operates on a 24/7 basis  -- launched by 
+the  Hong  Kong  Monetary  Authority  in  2018.  This  has  enabled  users  of  these  service 
+providers to conduct P2P money transfers. Users can even transfer funds to bank accounts 
+using  electronic  money  issued  by  these  nonbank  payment  service  providers.  To  the extent 
+that interoperability is ensured, the general acceptability of electronic money issued by the 
+private sector will likely increase.     
+ 10 
+ With  regard  to  interoperability  among  private  digital  currencies,  whether  a  central  bank 
+should  allow  new  nonbank  payment  service  providers,  such  as  FinTech  firms,  to  open 
+current accounts at the central bank may be an issue for discussion. If the interoperability of 
+private money is enhanced through safe and efficient settlement using  central bank current 
+accounts, private digital currencies could resemble CBDC in terms of general acceptability. 
+However, central banks need to examine the notion of allowing nonbanks to access current 
+accounts comprehensively from various aspects, including the potential impact on financial 
+systems  in  addition  to  interoperability.  Needless  to  say,  nonbanks  seeking  access  to 
+payment  and  settlement  systems  via  central  bank  current  accounts  would  be  required  to 
+meet strict standards in many areas, such as financial soundness, information security, and 
+risk  management.  Overseas,  nonbank  payment  service  providers  are  now  allowed  to  open 
+current  accounts  at  central  banks  in  countries  such  as  the  United  Kingdom  and  Australia. 
+This is also currently under consideration in Switzerland and Singapore. 
+ Settlement Finality 
+Now,  I  would  like  to  touch  upon  the  issue  of  "settlement  finality."  Finality  means  that 
+settlement of an obligation is irrevocable. Central bank money  is not only credit risk  free, 
+but also provides immediate finality. Banknotes can be used to settle obligations 24 hours a 
+day, 365 days a year with finality.   
+ In Japan, the launch of the Zengin More Time System in October 2018 has enabled users to 
+send funds on a real-time basis 24 hours a day, 365 days a year for transfers of less than 100 
+million yen per transaction (hereinafter referred to as "retail transfers"). It should be noted, 
+however,  that  transactions  between  financial  institutions,  accompanying  these  retail 
+transfers between users, are settled on a deferred net settlement (DNS) basis. Under a DNS 
+system,  payment  instructions  received  from  financial  institutions  are  pooled  until  a 
+designated time, and then the gross values of incoming and outgoing funds are netted out. 
+Only the net amount is settled. While  the efficient use of liquidity provided by DNS is an 
+advantage,  it  accumulates  unsettled  positions  up  to  the  designated  time,  which  means  that 
+settlement is not final until this net position is settled. In this way, DNS harbors a systemic 
+risk;  if  even  one  of  the  participating  financial  institutions  fails  to  meet  its  obligations,  it 
+could potentially start a chain reaction affecting all other institutions.   
+11 
+  If the number of retail transfers via deposit accounts at financial institutions increases with 
+the  progress  toward  a  cashless  society,  it  could  bring  an  increase  in  intraday  unsettled 
+positions,  thereby  accumulating  risks  in  payment  and  settlement  systems  as  a  whole.  To 
+address this concern, one option is to reduce dependence on settlement via deposit accounts 
+at  financial  institutions  by  issuing  a  CBDC  which  provides  immediate  settlement  finality. 
+However,  there  are  also  other  options;  settlement  methods  of  retail  transfers  between 
+financial  institutions  could  be  changed  from  DNS  to  real-time  gross  settlements  (RTGS). 
+RTGS  offers  a  simple  way  of  settling  funds  where  the  central  bank  immediately  executes 
+payment instructions received from  financial institutions. Under an RTGS system, as each 
+payment is settled with finality in real time  one after another, systemic risk can, to a large 
+extent,  be  contained.  To  settle  RTGS  transactions  24  hours  a  day,  365  days  a  year,  the 
+central bank's system also needs to operate throughout the day.   
+ Meanwhile, new RTGS platforms, which enable retail transfers 24 hours a day, 365 days a 
+year,  have  already  been  launched in  places  such  as  Australia,  Hong  Kong,  and  Europe.  In 
+these platforms, settlement finality is ensured, as with CBDC. I think that it is important for 
+each  jurisdiction  to  consider  the  most  desirable  way  to  settle  retail  transfers  through 
+cost-benefit analysis, while taking into account developments in payments and settlements 
+in each country.         
+ IV. Concluding Remarks 
+Today, I have had the pleasure of sharing with you my understanding on retail payments in 
+the digital age, focusing on the relationship between central bank money and private money. 
+ Now,  I  would  like  to  give  you  my  own  answer  to  the  question  I  posed  at  the  beginning: 
+"Why are many central banks, including the Bank of Japan, committed to researching and 
+studying  into  CBDCs  even  though  they  have  no  plan  to  issue  them  in  the  near  future?"  I 
+have two reasons. First, since technological innovation evolves rapidly, the retail payments 
+market structure could suddenly change dramatically, pushing us toward a cashless society. 
+In some cases, the need for CBDC issuance may suddenly increase. To be able to  adapt to 
+such  a  situation,  central  banks  need  to  deepen  their  understanding  on  the  latest 
+12 
+ developments  in  information  technologies  and  their  applicability  to  CBDC.  Second,  as  I 
+have discussed in the latter half of my speech, through research into CBDC -- or through the 
+CBDC  lens  --  central  banks  examine  more  fundamental  questions  such  as:  "What  are  the 
+required  functions  of  money?"; "What  ways  do  we  have  of  improving  the complementary 
+relationship between central bank money and private money?"; or "What ways  do we have 
+of enhancing the functionality of private digital currency?" This process can offer clues for 
+ways in which payment and settlement systems as a whole can be improved. 
+ The Bank will continue to examine CBDC with these two aspects in mind. In this respect, 
+allow me to introduce two of our recent initiatives. On the technological front, the Bank is 
+continuing  research  into  distributed  ledger  technology  --  DLT.  Project  Stella,  a  joint 
+research  project  with  the  European  Central  Bank  is  part  of  these  initiatives.5  This  project 
+has  resulted  in  three  reports  so  far,  exploring,  for  example,  the  applicability  of  DLT  to 
+payments using central bank deposits -- that is, wholesale CBDC. 
+ On the legal front, the Bank's Institute for Monetary and Economic Studies set up a study 
+group on legal issues regarding CBDC in November 2018. It identifies potential legal issues 
+that  would  arise  if  the  Bank  were  to  issue  CBDC  in  response  to  rapid  developments  in 
+technology and their possible interpretations. The report will be released in due course.   
+ The  Bank  will  continue  to  work  to  improve  the  efficiency  and  safety  of  payment  and 
+settlement systems. It will examine, from various perspectives, the desirable nature of these 
+systems, including the issue of CBDC. And this brings me to the end of my speech. 
+ Thank you very much for your attention. 
+                                                   
+5  http://www.boj.or.jp/en/paym/fintech/index.htm/ 
+13 
+Should the Bank of Japan Issue 
+a Digital Currency?
+July 5, 2019
+Speech at a Reuters Newsmaker Event in Tokyo
+Masayoshi Amamiya
+Deputy Governor of the Bank of Japan
+Bank of Japan
+Figure 1
+Survey on CBDC
+Initiatives for CBDC
+Likelihood of issuing a CBDC 
+going forward3
+Engagement in CBDC work1                          Type of CBDC work2
+ 100
+80
+60
+40
+20
+0
+CY
+ 100
+80
+60
+40
+20
+0
+No
+Yes
+2017
+2018
+Research/study Experiments/
+Development/
+proof-of-concept
+pilot
+arrangement
+ 100
+80
+60
+40
+20
+0
+Short term Medium
+term
+Very
+unlikely
+Somewhat
+unlikely
+Possible
+Somewhat
+likely
+Very likely
+Notes: 1. Share among the 63 respondent central banks. The sum of general purpose CBDCs and wholesale CBDCs.
+2. Share among the respondent central banks that answered that they were engaged in CBDC work in 2018 survey (multiple answers were allowed).
+The sum of general purpose CBDCs and wholesale CBDCs.
+3. Share among the 63 respondent central banks. Figures are for general purpose CBDCs. "Short term" denotes 1-3 years and "Medium term" denotes
+4-6 years.
+Source: Christian Barontini and Henry Holden, "Proceeding with Caution -- A Survey on Central Bank Digital Currency," BIS Papers, No.101, January 2019.
+1
+Figure 2
+Share of Payment Instruments in Private Consumption Expenditure
+Cash (48.2%)
+Credit cards (31.4%)
+Direct debit (10.5%)*
+Prepaid electronic money (5.0%)
+Internet banking (1.4%)*
+Bank transfer (using bank cards) (0.9%)*
+Debit cards (0.8%)
+FinTech services (0.7%)
+Deduction from salaries (0.2%)*
+Crypto-assets (0.1%)
+Other non-cash payment instruments (0.8%)
+Share of 
+cashless 
+payments
+(51.8%)
+Share of transfers between bank accounts (sum of instruments with asterisks[*]): 13%
+Note: In the figure "prepaid electronic money" refers to services such as Suica, PASMO, Rakuten Edy, nanaco, and WAON. "FinTech services" refers to payment
+services -- other than prepaid electronic money -- that is provided by FinTech firms; the services include iD, QUICPay, Alipay, WeChat Pay, Apple Pay,
+Google Pay, Rakuten Pay, LINE Pay, and Origami Pay. The survey was conducted online with a nationwide sample of 3,000 individuals who are between the
+ages of 20 and 69.
+Source: The Nippon Institute for Research Advancement (NIRA), Survey on Cashless Payments in Japan, September 2018 (available only in Japanese).
+2
+Figure 3
+Amount of Cash in Circulation
+Amount of banknotes
+in circulation
+Amount of coins
+in circulation
+Change in the amount of 
+banknotes/coins in circulation for 2018
+Annual average, 100 million
+100
+10,000 yen
+5,000 yen
+2,000 yen
+1,000 yen
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+CY
+85
+90
+95
+00
+05
+10
+15
+Source: Bank of Japan.
+Annual average, 100 million
+500 yen
+100 yen
+50 yen
+10 yen
+5 yen
+1 yen
+450
+400
+350
+300
+250
+200
+150
+100
+50
+0
+CY
+85
+90
+95
+00
+05
+10
+15
+5
+4
+3
+2
+1
+0
+-1
+Year-on-year change, %
+Nominal GDP 
+growth rate for
+2018
+n
+e
+y
+ 0
+0
+0
+ 0
+1
+n
+e
+y
+ 0
+0
+0
+ 5
+n
+e
+y
+ 0
+0
+0
+ 2
+n
+e
+y
+ 0
+0
+0
+ 1
+n
+e
+y
+ 0
+0
+5
+n
+e
+y
+ 0
+0
+1
+n
+e
+y
+ 0
+5
+n
+e
+y
+ 0
+1
+n
+e
+y
+ 5
+n
+e
+y
+ 1
+3
+Figure 4
+International Comparison of the Number of Financial Institutions' Branches 
+and Cash in Circulation
+International comparison of the number of financial 
+institutions' branches per habitable area 
+Correlation between the ratio of cash in circulation to 
+GDP and the number of branches per habitable area
+100,000
+10,000
+1,000
+100
+10
+1
+Number of branches per 10,000 km2
+Ratio of cash in circulation to GDP, %
+25
+20
+15
+10
+5
+0
+Japan
+Hong Kong
+Switzerland
+Russia
+Saudi Arabia
+United States
+India
+Argentina
+Mexico
+Singapore
+Australia
+Turkey
+Indonesia
+South Korea
+Canada
+South Africa
+Brazil
+Sweden
+0
+2
+4
+6
+8
+10
+12
+number of branches per 10,000 km2 habitable area
+(logarithmic value)
+n
+a
+p
+a
+J
+m
+u
+i
+g
+l
+e
+B
+e
+r
+o
+p
+a
+g
+n
+i
+S
+ g
+n
+o
+K
+g
+n
+o
+H
+a
+e
+r
+o
+K
+h
+t
+u
+o
+S
+ n
+i
+a
+p
+S
+e
+c
+n
+a
+r
+F
+y
+l
+a
+t
+I
+y
+n
+a
+m
+r
+e
+G
+a
+i
+d
+n
+I
+d
+n
+a
+l
+r
+e
+z
+t
+i
+w
+S
+a
+i
+s
+e
+n
+o
+d
+n
+I
+s
+d
+n
+a
+l
+r
+e
+h
+t
+e
+N
+s
+e
+t
+a
+t
+ S
+d
+e
+t
+i
+n
+U
+y
+e
+k
+r
+u
+T
+n
+e
+d
+e
+w
+S
+o
+c
+i
+x
+e
+M
+l
+i
+z
+a
+r
+B
+a
+i
+s
+s
+u
+R
+a
+d
+a
+n
+a
+C
+a
+n
+i
+t
+n
+e
+g
+r
+A
+a
+c
+i
+r
+f
+ A
+h
+t
+u
+o
+S
+a
+i
+l
+a
+r
+t
+s
+u
+A
+a
+i
+b
+a
+r
+A
+ 
+i
+d
+u
+a
+S
+Note: The figure shows the latest possible international comparison as of the end of 2016 (the figure for Japan is as of the end of fiscal 2016). The habitable area
+is calculated by deducting the forest areas from the total area.
+Sources: BIS, Statistics on Payments and Financial Market Infrastructures; World Bank; IMF, etc.
+4
+Figure 5
+Issuance Forms of CBDC
+Account-based CBDC
+Token-based CBDC
+Central Bank
+User's account
+(4)
+Merchant's account
+Central Bank
+(1) 
+Opens an account, 
+deposits cash 
+(3) Account transfer 
+instruction
+Deposits 
+cash
+(1)
+Issues
+CBDC
+(2) Shopping
+User
+Merchant
+User
+(2) Shopping
+Merchant
+(1) A user opens an account and deposits cash at a central bank.
+(2) The user shops at a merchant.
+(3) The user sends an account transfer instruction to the central
+bank.
+(4) The central bank transfers CBDC to the merchant's account.
+(1) A central bank issues CBDC to a user in exchange for
+cash. CBDC is stored on the user's smartphone
+application or IC card.
+(2) When the user shops at a merchant, CBDC is
+transferred to the merchant's terminal, etc.
+5
+Figure 6
+Expected Roles for CBDC 
+ Effectiveness on monetary policy
+ The level of interest rates applied to CBDC could work as the effective lower bound of
+interest rates for wide-ranging financial assets?
+ Resolving the crowding of cashless payment instruments
+ Will issuing CBDC promote the unification of all cashless payment instruments?
+ The crowding of cashless payment instruments will likely be resolved in the process of
+competition.
+ Maintaining the competitive environment in the retail payments market
+ Will issuing CBDC maintain the pressure on private sector firms to compete with each
+other?
+ The role of a government policy on competition.
+ Fundamental functions of currency and a two-tiered system
+ Central banks should continue to supply payment instruments that are safe, reliable,
+inexpensive, and available to all in the digital age as well.
+ Under the two-tiered system, overall functions of payment and settlement systems
+should be examined, while taking into account the interrelations between central bank
+money and private money.
+6
+Figure 7
+Improving the Functions of Private Digital Currency
+ Creditworthiness of private digital currency
+ It is important to minimize the credit risk of private digital currencies and narrow the
+credit gap between private money and central bank money for the stability of financial
+system and payment and settlement systems.
+General acceptability of money
+ Ensuring interoperability among payment service providers can increase the general
+acceptability of private digital currencies.
+ Overseas,
+there are cases where nonbank payment service providers and banks
+participate in the same payment and settlement platforms.
+ Settlement finality
+ Settlement finality is ensured in RTGS platforms that enable retail transfers on a 24/7
+basis as with CBDC.
+ Overseas, such RTGS platforms have already been launched in some places.
+7

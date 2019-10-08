@@ -1,0 +1,365 @@
+Benoît Cœuré: Ensuring the smooth functioning of money markets 
+Speech by Mr Benoît Cœuré, Member of the Executive Board of the European Central Bank, 
+at the 17th Global Securities Financing Summit, Luxembourg, 16 January 2013. 
+ Ladies and Gentlemen,1 
+It  is  a  pleasure  to  speak  to  you  today  at  this  annual  Global  Securities  Financing  Summit 
+organised by Clearstream / Deutsche Börse Group. 
+In my remarks today, I will talk about the smooth functioning of money markets and the role 
+of market infrastructures in this respect.  
+The speech is composed of two parts. I will start with some comments on developments in 
+the euro area (interbank) money markets. As you are well aware, the financial crisis and the 
+subsequent  sovereign  debt  crisis  have  led  to  a  gradual  shift  from  the  unsecured  to  the 
+secured segment of the money markets. Moreover, the crises have exposed the weaknesses 
+of certain financial institutions, causing the European interbank money market to fragment. 
+Fragmentation has occurred between cash-rich and cash-strapped banks and also between 
+different  jurisdictions,  leading  to  a  “renationalisation”  of  money  markets.  Since  money 
+markets can be a source and a propagation channel of financial instability, it is important to 
+ensure their proper functioning and mitigate the potential risks they pose. 
+In the second part of my speech I will consider the role of market infrastructures in ensuring 
+well-functioning  money  markets.  For  this  part,  I  will  refer  back  to  work  conducted  by  the 
+Basel  Committee  on  Payment  and  Settlement  Systems  (CPSS)  in  2010  when  it  examined 
+the extent to which the market infrastructure for repos added to the uncertainty or instability 
+evident  in  some  repo  markets.  I  will  take  up  two  issues  identified  in  the  related  report 
+published by the CPSS2 and which can be considered relevant for the smooth functioning of 
+euro money markets, i.e. the role of market infrastructures in providing adequate protection 
+against  counterparty  risk  as  well  as  the  efficient  use  of  collateral.  In  so  doing,  I  will  also 
+discuss some tensions which have emerged recently relating to a particular development at 
+market infrastructure level, where it is important to quickly address the underlying issues in 
+order to move forward. 
+Secured and unsecured money markets: developments in the euro area 
+1.  
+Well-functioning money markets are an essential component of the financial system. When 
+money markets do not function, financial stability and the transmission of monetary policy are 
+at risk, with potentially severe adverse consequences for the real economy. Deep and liquid 
+money  markets  insure  banks  against  liquidity  risk,  a  risk  that  arises  naturally  in  banking, 
+where maturity mismatch is the nature of the business. Unsecured money markets exert a 
+useful  disciplinary  effect  on  banks.  Money  markets  also  are  the  starting  point  for  the 
+redistribution of the liquidity provided by central banks and hence the starting point for the 
+transmission  of  monetary  policy.  For  example,  the  EONIA  rate  –  the  rate  of  unsecured 
+overnight lending between some of the largest euro area banks – is an important first link in 
+the chain of monetary policy transmission. 
+Ever since the financial turmoil started in August 2007 – more than five years ago – and then 
+became  a  severe  crisis  with  the  bankruptcy  of  Lehman  Brothers  one  year  later  in 
+                                                
+1  
+I  wish  to  thank  Fiona  van  Echelpoel,  Benjamin  Hanssens,  Florian  Heider,  and  Marie  Hoerova,  for  their 
+contributions to this speech. I remain solely responsible for the opinions contained herein. 
+2   CPSS report: “Strengthening repo clearing and settlement arrangements”, September 2010. 
+BIS central bankers’ speeches 
+ 1 
+September 2008,  money  markets  have  not  been  operating  smoothly.  The  outbreak  of  the 
+financial  crisis  has  been  well  documented,  but  it  is  worthwhile  recalling  the  extent  of  the 
+shocks,  which  are  still  being  felt  today.3  Within  a  few  days  after  the  demise  of  Lehman 
+Brothers  on  15 September  2008,  the  EURIBOR-OIS  spread,  which  had  been  zero  a  little 
+over  12  months  before,  rose  to  a  staggering  186  basis  points  (in  the  United  States  the 
+spread rose to 365 basis points).  
+In addition, cash-rich banks were apparently no longer lending to cash-poor banks. The flow 
+of liquidity in the financial system came to a sudden stop. Prior to the bankruptcy of Lehman 
+Brothers, banks hardly ever deposited funds at the ECB (where they earn the deposit facility 
+rate,  which  at  the  time  was  1%  less  than  the  policy  rate).  After  the  Lehman  bankruptcy, 
+banks suddenly deposited an aggregate amount of around €200 billion. Deposits increased 
+since the ECB responded to the tensions in the market by accommodating the increase in 
+banks’ demand for liquidity.4 The extent of banks’ use of the ECB’s deposit facility is a useful 
+indicator of the impairment of the flow of liquidity throughout the banking system, especially 
+when the group of depositing banks is different from the group of borrowing banks.5 
+A further troubling indication of the malfunctioning of money markets right after the Lehman 
+bankruptcy  came  from  cross-border  transactions.  Before  the  bankruptcy,  cross-border 
+transactions accounted for 60% of all unsecured overnight interbank lending. Right after the 
+bankruptcy,  this  proportion  dropped  to  50%.  A  fall  in  the  cross-border  flow  of  liquidity 
+indicates  a  fragmentation  of  the  euro  area  money  market  along  national  borders  and 
+threatens the implementation of a common monetary policy throughout the euro area. 
+The  ECB  reacted  and  succeeded  in  calming  markets,  including  money  markets,  first  by 
+conducting  two  monetary  policy  operations  with  a  three-year  maturity,  and  then,  most 
+recently,  by  committing  to  remove  redenomination  risk  in  countries  having  signed  to  an 
+ESM assistance programme (the so-called Outright Monetary Transactions, OMTs for short). 
+For example, the share of the cross-border overnight transactions increased gradually from 
+30% to 50% following the OMT announcement. 
+The rise and fall of the EURIBOR-OIS spread, of the use of the ECB’s deposit facility and the 
+proportion of cross-border transactions all indicate that banks are more risk-averse than they 
+were  before  the  financial  crisis.  Money  markets,  especially  unsecured  ones,  suffer  from 
+counterparty risk, that is, the fear of not being repaid. 
+Accordingly,  driven  by  the  desire  to  protect  and  ensure  repayment,  transactions  in  money 
+markets  have  become  both  more  short-term  and  secured.  There  is  no  official  data  on  the 
+overall size of the repo market in the euro area, although surveys are regularly conducted by 
+ICMA and the ECB. According to the latest ICMA survey, the total value of repo contracts 
+outstanding on the books of the 62 participating institutions was €5.6 trillion in June 2012, 
+in  December  2011.6  The  ECB’s  Money  Market  Study  of 
+down 
+from  €6.2 
+trillion 
+                                                
+3   See,  for  example,  F.  Heider,  M.  Hoerova  and  C.  Holthausen,  “Liquidity  hoarding  and  interbank  market 
+spreads:  The  role  of  counterparty  risk”,  ECB  Working  Paper  No  1126,  2009.  See  also  B.  Cœuré,  “The 
+importance  of  money  markets”,  speech  delivered  at  the  Morgan  Stanley  16th  Annual  Global  Investment 
+seminar, Tourrettes, Provence, 16 June 2012. 
+Injecting liquidity in the financial system increases the assets of the Eurosystem, which leads to an equivalent 
+increase in liabilities, in this case in the form of more deposits from banks. 
+4  
+5   A  similar  cessation  of  interbank  lending  after  the  Lehman  bankruptcy  has  been  documented  in  the  United 
+States. See G. Afonso, A. Kovner, and A. Schoar, “Stressed, Not Frozen: The Federal Funds Market in the 
+Financial Crisis”, Journal of Finance, Vol. 66, No 4, 2011. 
+6   See International Capital Market Association, “European Repo Market Survey”, No 23, June 2012, available at 
+http://www.icmagroup.org/assets/documents/Market-Info/Repo-Market-Surveys/ICMA-ERC-European-Repo-
+Survey-June-2012.pdf. 
+2 
+ BIS central bankers’ speeches 
+December 2012  with  172  banks  participating  shows  a  similar  development.7  The  Money 
+Market  Study  also  compares  the  development  of  the  secured  with  the  unsecured  market. 
+And  indeed,  while  the  unsecured  money  market  has  steadily  contracted  since  2007,  the 
+secured money market has held its ground over the same period. 
+Another, more recent and troubling development in the functioning of the money markets is 
+the  on-going  investigations  into  manipulations  of  key  money  market  reference  rates.  The 
+ECB is closely following this development and is supporting the attempts to reform reference 
+rates, given the role they play in the transmission of monetary policy. In our response to the 
+European  Commission’s  public  consultation,  while  stressing  that  reference  rates  should 
+remain private market initiatives, we have called for short-term governance reforms to restore 
+and  uphold  the  credibility  of  these  reference  rates,  associated  with  longer-term  measures 
+involving changes in the calculation methodology. In the short term, governance reforms and 
+increased supervisory and regulatory scrutiny can help to restore the market’s confidence in 
+the  integrity  of  the  benchmarks  and  to  ensure  their  continuous  viability.  An  appropriate 
+balance  must  be  found  between  a  sound  production  process  with  adequate  controls  and 
+safeguards  on the  one hand,  and  cost-efficiency  for  contributing  banks on  the  other  hand. 
+Also it is important that regulation is uniformly applied and enforced within the EU to avoid 
+risks  of  further  fragmentation  in  the  money  markets,  and  that  international  coordination  is 
+sought. In the longer term, a broader overhaul can be conceived, involving changes in the 
+calculation  methodology  and  possibly  other  changes  to  reflect  the  structural  changes  that 
+have  taken  place  in  terms  of  the  functioning  of  the  money  market  since  the  onset  of  the 
+crisis,  such  as  the  shift  towards  secured  transactions.  However,  this  process  should  be 
+primarily driven by the market, based on the needs of end-users, while being supported by 
+the public sector.  
+In  light  of  the  fundamental  importance  of  money  market  reference  rates,  we  are  closely 
+following the developments taking place as regards the shrinking number of panel members 
+for  establishing  EURIBOR  and  EONIA  rates.  Given  the  authorities’  commitment  to 
+addressing  the  shortcomings  revealed  in  the  rate-setting  process,  it  is  in  the  interest  of 
+markets  that  banks  remain  in  the  panel  while  the  regulatory  framework  is  being  amended 
+and  behave  as  responsible  market  participants,  thus  preventing  potential  disruption  in  the 
+functioning of an important financial market segment. 
+Related  to  the  shift  of  money  market  transactions  to  the  secured  segment  is  the  use  of 
+central  counterparties  (CCPs).8  In  2012,  CCP  repo  transactions  accounted  for  55%  of  all 
+repo transactions (up from 50% in 2010). In addition to the use of CCPs, triparty repo9 has 
+become more important. Triparty repo accounted for 11% of all repo transactions in 2012 (up 
+from 9% in 2010). 
+I will come back to CCPs and triparty repo later on, but would first like to say some words on 
+collateral and haircuts.  
+Collateral  of  course  is  intended  to  hedge  default  risk,  while  haircuts  are  usually  seen  as 
+being intended to hedge the risk on that collateral. In times of market stress however, large 
+and  sudden  margin  increases  can  create  self-reinforcing,  pro-cyclical  spirals  of  increasing 
+weakness,  exacerbate  market  swings  and  oblige  market  dealers  to  provide  collateral  to 
+                                                
+7   See  ECB  Money  Market  Survey:  http://www.ecb.int/pub/pdf/other/euromoneymarketstudy201212en.pdf? 
+4261e943bbcfec98572319740bda877b 
+8   A  CCP  is  an  entity  that  interposes  itself  between  the  buyer  and  the  seller  of  a  repo,  thereby  reducing 
+counterparty risk for both seller and buyer as long as the CCP itself is well diversified and well governed. 
+9   Under  triparty  repo,  a  central  securities  depository  (CSD),  an  international  CSD  or  a  custodian  bank,  for 
+example, acts as a facilitator between the buyer and the seller of a repo. The triparty agent handles the related 
+collateral management, including valuation and substitution as well as re-use of the collateral with a central 
+bank where possible. 
+BIS central bankers’ speeches 
+ 3 
+support  secured  transactions  just  when  it  is  most  costly  to  do  so.  Two  examples  come  to 
+mind. 
+First, when the sovereign debt crisis intensified, haircuts on government bonds under stress 
+also went up because the rise in yields reduced their collateral value. For example, when the 
+spread  on  Italian  ten-year  government  bonds  relative  to  core  issuers  rose  to  over 
+450 basis points in November 2011, the haircut for Italian government bonds was increased 
+by 500 basis points, leading to a posting of intraday margins about 12 times greater than in 
+any other preceding month in 2011. On the day of the increased haircut alone, the spread 
+between Italian and German government bonds rose by 60 basis points.  
+In  addition,  margin  increases  generally  reduce  the  amount  that  a  repo  seller  can  borrow, 
+which might increase the seller’s probability of default. This can trigger a negative feedback 
+loop: increases in the probability of default might cause repo buyers to increase the haircuts 
+imposed  on  the  seller, which  reduces  the  amount  the  seller  can  borrow  (when  it  needs  to 
+borrow subsequently), and so on.10 
+The  ECB/Eurosystem  has  been  successful  in  easing  market  tensions  using  standard  and 
+non-standard tools. However, the underlying structural problems which relate to uncertainty 
+about risk, whether in the form of counterparty, credit, liquidity or redenomination risk, need 
+to be solved. When implemented, the Single Supervisory Mechanism will play a key role in 
+comforting  confidence  in  euro  area  banks  and  re-establishing  cross-border  liquidity  flows 
+within the region. Market re-integration has now started. It will succeed only if it is supported 
+by  continued  efforts  by  governments  to  bridge  fiscal  and  competitiveness  imbalances. We 
+can consider how the further development of market infrastructures can be an important part 
+of this process. 
+The role of market infrastructures 
+infrastructures  have  proven  very  resilient 
+2.  
+In  the  second  part  of  my  remarks  today,  I  would  like  to  consider  the  role  of  market 
+infrastructures.  
+the  crisis.11  Resilient  market 
+Market 
+infrastructures also play an important role in helping to address some of the issues that have 
+been  identified  in  the  money  markets.  In  this  regard  we  can  usefully  build  on  the  CPSS’ 
+analysis of areas for further development and for enhancing market infrastructures in repo 
+markets. The CPSS has identified seven issues directly or indirectly related to repo market 
+infrastructure that may affect the resilience of repo markets. I would like to pick up on two of 
+these seven issues now in the context of euro area money markets. The first issue concerns 
+“effective  protection  against  counterparty  credit  risk”,  which  I  believe  can  be  addressed  to 
+some  extent  by  the  use  of  CCPs,  while  the  second  issue  relates  to  “the  inefficient  use  of 
+(high-quality) collateral due to constraints within repo clearing and settlement arrangements”, 
+which is being addressed via collateral optimisation initiatives.  
+to 
+Role of central counterparties (CCPs) 
+a)  
+CCPs play a major role in reducing counterparty risk, thereby mitigating the potential risks 
+associated  with  the  drying-up  of  funding  sources.  First,  as  independent  clearing  agents, 
+CCPs are well positioned to offer effective protection against counterparty risk through the 
+application of consistent margin requirements to a wide range of counterparties and through 
+                                                
+10   See  T.V.  Dang,  G.  Gorton,  and  B.  Holmström,  “Financial  Crises  and  the  Optimality  of  Debt  for  Liquidity 
+Provision,” working paper, November 2009. 
+11   Speech  by  Benoît  Cœuré,  at  the  joint  ECB-MNB  conference  on  “Cost  and  efficiency  of  retail  payments: 
+2012. 
+Evidence, 
+https://www.ecb.int/press/key/date/2012/html/sp121115_2.en.html. 
+banks”,  Budapest, 
+15  November 
+actions 
+central 
+policy 
+and 
+role 
+of 
+4 
+ BIS central bankers’ speeches 
+multilateral netting and risk sharing. Second, CCPs also provide enhanced transparency for 
+the markets they serve, which in turn facilitates appropriate risk management and may also 
+help to reduce excessive leverage. Third, as a result of multilateral netting, CCPs may also 
+free up collateral.12  
+Overall, provided that it is well-managed and in line with applicable regulatory and oversight 
+requirements, a CCP can be expected to guarantee trade execution under a wide range of 
+market conditions, including extreme or exceptional scenarios. This supports trading also at 
+times  of  distress  when  uncertainty  and  risk  aversion  may  disrupt  activity  and  exacerbate 
+volatility in markets.  
+Given  the  benefits  of  central  clearing  for  market  resilience  and  financial  stability  more 
+broadly, the ECB welcomes the overall increase in the share of transactions that are cleared 
+through  CCPs.  It  also  supports  the  execution  of  repo  transactions  via  CCPs.  In  Europe, 
+market incentives seem sufficiently strong to favour use of CCPs, and we would not see a 
+need at the current juncture to advocate regulatory action to impose central clearing of repos, 
+as has been the case for OTC derivative transactions.  
+At  the  same  time,  an  expanded  use  of  CCPs  should  be  accompanied  by  effective 
+supervision and oversight, which always needs  to be kept up to date and in line  with new 
+market  developments.  The  global  Principles  for  Financial  Market  Infrastructures  (PFMIs), 
+developed  jointly  by  CPSS  and  the  International  Organisation  of  Securities  Commissions 
+(IOSCO) and published last April, are a key pillar in this regard. Major jurisdictions around 
+the  world  are  now  updating  their  supervisory  and  oversight  requirements  for  CCPs  in 
+response  to  the  new  PFMIs,  thereby  leading  to  an  even  more  robust  set-up  for  CCPs. 
+Another major strand of work currently underway at both international and EU level concerns 
+the  development  of  recovery  and  resolution  regimes  for  CCPs.  In  the  EU,  the  European 
+Commission has recently consulted the public on a possible framework for the recovery and 
+resolution  of  financial  institutions  other  than  banks,  covering  CCPs  and  other  market 
+infrastructures.  We  trust  that  the  European  framework  will  be  closely  aligned  with  the 
+respective global work of the CPSS and IOSCO.  
+Besides CCPs, another key infrastructure to be considered in relation to the repo market is 
+the  trade  repository.13  Trade  repositories  provide  a  comprehensive  overview  of  the 
+transactions in the markets they serve, which contributes to better risk management, public 
+supervision and oversight as well as market discipline. The ECB actively supports the current 
+work to develop such a central database for the EU repo market.14 It could be established in 
+a joint effort by public authorities and the financial industry. 
+Collateral optimisation  
+b)  
+Let me now turn to the second point on collateral optimisation.  
+As  recognised  in  the  CPSS  report,  the  “efficient  and  flexible  use  of  collateral  facilitates 
+market participants’ collateral management and can contribute to the development of liquidity 
+and smoothly functioning repo markets”. This was considered to hold true for repo markets in 
+normal times as well as allowing an enhancement of the resilience of repo markets in times 
+of  stress.  The  need  for  efficient  and  flexible  use  of  collateral  facilities  has  even  become 
+                                                
+12   See, for instance, D. Duffie and H. Zhu, “Does a Central Clearing Counterparty Reduce Counterparty Risk?”, 
+Review of Asset Pricing Studies, Vol. 1, Issue 1, December 2011. 
+13   Trade  repositories  are  central  databases  that  compile  and  aggregate  data  across  various  execution  and 
+clearing venues. 
+14   See  Vítor  Constâncio,  Introductory  remarks  to  the  ECB  workshop  –  Repo  market  and  securities  lending: 
+see  https://www.ecb.int/press/key/date/2012/ 
+3  December 
+database, 
+2012, 
+towards 
+html/sp121203.en.html. 
+an  EU 
+BIS central bankers’ speeches 
+ 5 
+greater in the past couple of years, taking into account the generally increasing demands for 
+collateral assets coming from various quarters. Efforts are therefore being made to seek out 
+creative  and  innovative  ways  to  make  better  use  of  existing  collateral  in  terms  of  making 
+these assets available, when and where they are needed. 
+Both the Eurosystem and the industry have taken a number of initiatives in this respect. At 
+today’s conference, you will probably hear more about the many innovative solutions that are 
+coming from the industry in this respect, so I will limit myself to some key initiatives in which 
+the  ECB/Eurosystem  is  directly  involved,  although  naturally  cooperating  closely  with  the 
+industry. 
+The first initiative in this respect of course is TARGET2 Securities – T2S. The main objective 
+of establishing this single European infrastructure for securities settlement is to reduce risk 
+and  increase  efficiencies  in  the  post-trade  environment,  especially  as  far  as  cross-border 
+settlement  is  concerned.  This  greatly  enhanced  process  for  transferring  collateral  across 
+national  borders  in  Europe  will  in  itself  be  a  huge  benefit  to  market  participants  –  both  to 
+cover  collateralised  money  market  transactions  as  well  as  collateralised  credit  operations 
+with  central  banks.  Moreover,  T2S  incorporates  several  features  that  aim  to  help  banks 
+optimise their collateral management. Once T2S goes live for example, banks will no longer 
+need  to  hold  multiple  buffers  of  collateral  when  settling  in  several  European  countries  and 
+can  instead  use  the  state-of-the-art  T2S  auto-collateralisation  and  self-collateralisation 
+features, also on a cross-border basis.  
+The  second  initiative  that  I  want  to  mention  is  the  implementation  of  cross-border  triparty 
+collateral  management  services  within  the  Eurosystem  collateral  framework.  Triparty 
+services, as you know, involve a triparty agent acting as a facilitator between the two parties 
+to the repo. Triparty services are already used  within the current operational framework of 
+the Eurosystem, although only on a domestic basis and limited to a small number of euro 
+area countries (Germany, Luxembourg, France and Italy). In 2014 however, the possibility to 
+collateralise Eurosystem credit operations by using triparty services on a cross-border basis 
+will  be  introduced,  thereby  allowing  for  greater  efficiencies  in  collateral  mobilisation  and 
+re-use  of  collateral  received  in  triparty  repo  with  the  respective  central  banks  of  the 
+Eurosystem.  
+Another 
+triparty  settlement 
+interoperability.15 When we refer to this, we should keep in mind that an important feature of 
+the European repo market set-up is the (increasing) integration between the repo clearing, 
+settlement and collateral management layers. While there is an increasing integration across 
+these  layers  however,  there  remains  in  some  cases  a  certain  fragmentation  that  limits 
+traders’  opportunities  based  on  the  location  of  the  collateral. Working  in  close  cooperation 
+with  the  European  Repo  Council  (ERC),  the  international  central  securities  depositories 
+(ICSDs)  have  started  to  develop  a  triparty  settlement  interoperability  model  to  support 
+settlement of general collateral trading cleared by CCPs. With the interoperability between 
+the  two  ICSDs’  collateral  management  systems,  market  participants  would  avoid  the 
+fragmentation of their liquidity pools. 
+The  ECB  is  fully  behind  this  market-led  triparty  interoperability  initiative  because  of  its 
+collateral pooling benefits and efficiencies. Moreover, it reduces the costs for triparty repos 
+related  to  collateral  management,  settlement  and  legal  charges,  and  allows  trading  to  be 
+executed regardless of the location of the collateral. Non-discriminatory, risk-based access to 
+and  by  market  infrastructures  is  an  important  element  of  the  new  international  regulatory 
+framework.  With  market  participants  increasingly  moving  to  central  clearing,  the  business 
+is  associated  relates 
+initiative  with  which 
+the  ECB 
+to 
+                                                
+15   Triparty  interoperability  is  especially  relevant  for  standard  interbank  operations/repos,  which  are  cleared  at 
+CCPs and where CCPs use standardised baskets of eligible collateral (also referred to as general collateral 
+(GC) baskets). 
+6 
+ BIS central bankers’ speeches 
+case for triparty interoperability is growing. Furthermore, the new CPSS-IOSCO principles for 
+financial  market  infrastructures  were  specifically  strengthened  to  facilitate  access  and 
+interaction between such infrastructures.  
+Some  of  the  key  parties  involved  in  this  triparty  settlement  interoperability  initiative  have 
+started  to  show  signs  of  retreating  in  past  months.  While  the  ECB  understands  the 
+complexity of establishing a triparty interoperability model and the substantial efforts and in 
+particular  the  investment  costs  required  to  make  it  work,  it  would  like  to  strongly  urge  all 
+parties to continue to work together. Interoperability will bring important benefits – by allowing 
+a more efficient use of collateral by bringing together separate pools of liquidity. The ECB 
+remains ready to continue to support the triparty settlement interoperability initiative and to 
+help bring the project forward.  
+Concluding remarks 
+Let me conclude.  
+The resilience and proper functioning of market infrastructures is of paramount importance to 
+ensure  well-functioning money  markets.  Public  authorities  and  central  banks  have  both  an 
+interest and an obligation to ensure that market infrastructures have a high level of security 
+and operational performance. The market infrastructures in the euro area are performing well 
+in this respect and, as we have heard, there are a number of initiatives under way to further 
+enhance this (in particular as regards the collateralisation processes). 
+I would, however, urge industry representatives to further pursue the triparty interoperability 
+project,  and  seek  to  find  ways  to  address  the  issues  which  have  recently  appeared.  In 
+particular, where these issues are not going to be addressed by T2S, I would encourage the 
+industry  to  find  a  solution  now.  It  is  of  great  importance  that  collateral  can  flow  freely, 
+regardless of its location.  
+I am confident that further improvements will be made. 
+Thank you. 
+BIS central bankers’ speeches 
+ 7 

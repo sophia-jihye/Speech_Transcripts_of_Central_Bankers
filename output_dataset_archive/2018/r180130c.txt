@@ -1,0 +1,182 @@
+PSD2: WILL IT BE A GAME-CHANGER? 
+Speech by Job Swank, Executive Director of De Nederlandsche Bank at ESB’s Conversation 
+with Regulators on Innovation in Payment Services, 18 January 2018 in The Hague 
+1.   Introduction 
+•  Ladies and gentlemen, I’m grateful to the organizers of this conference for inviting me 
+here. This Conversation with Regulators is the last in a series of events on innovation in 
+payment services, organized by ESB. For those of you who can read Dutch, I highly 
+recommend the dossier Innovatie in Betalen, issued by ESB in September.  It has much 
+more to offer than you will hear from me today. 
+•  Today’s topic is PSD2. PSD2 is a European directive, to be implemented through national 
+legislation. And PSD2 is about payments. To most people, these topics – legislation and 
+payments – are extremely boring, a necessary evil. Probably not to you. Otherwise, you 
+wouldn’t be here, but you are certainly a minority. 
+•  But life will change for the better, at least according to innovators, fintechs and other 
+market suppliers. Customers can be disencumbered from the tedious activity of making a 
+payment. They may enter a shop or webshop, pick whatever they want and have the 
+shopkeeper take care of the payment … which will be the end of civilization as we know 
+it.  Or perhaps even more sophisticated: refrigerators, printers and other home appliances 
+can order their own refill … and arrange for the payment without intervention of the 
+consumer. A bank customer may receive an offer from a mortgage broker, perfectly 
+geared toward her financial position and spending pattern … before she even considers 
+buying a house. 
+•  This is not the future, this is now. Those services – if that’s the proper term to use – are 
+technologically feasible and supplied as we speak. So, the question is not whether or when 
+we will enter into a new era (we already have), but rather on what scale. This very much 
+depends on the receptiveness of the public at large and on the reactions of regulators and 
+supervisors to the new possibilities. 
+1 
+       •  PSD2 is the response of the regulators. It is a response that facilitates innovation. It com- 
+pels banks, payment institutions and other players to prepare for an era in which financial 
+services are mainly delivered through smartphones, tablets and other electronic devices. 
+•  DNB welcomes PSD2 and the associated innovations. Still, a number of issues are pending. 
+Customer privacy is the most salient one, but there are more challenges: on the demand 
+side, on the supply side and with the regulators. The rest of my talk is organized along this 
+triplet: demand, supply and regulation. I do not have definite answers to all pressing 
+questions related to PSD2. What I’ll try to do, is give you a concise impression of issues 
+that need further attention in the near future. 
+2.   PSD2 and the demand side: consumers and retailers 
+•  Let’s start with some basics. What is PSD2? PSD2 is the legal framework for retail 
+payments in the European Union. The radical new element of PSD2 is attractive for some, 
+and frightening for others. That is: a bank is obliged to give so-called service providers 
+online access to the account of a customer … if – and only if – the customer consents. 
+This is an important proviso. The service providers exist in two types: the ones that 
+initiate payments and the ones that extract and exploit information from bank accounts. 
+Such data – on all kinds of transactions – contain commercial value. The collected 
+information can also be redirected to the bank customer as a housekeeping book. Both 
+types of service providers will be regulated under PSD2. 
+•  What is the intrinsic demand for innovative payment services? The novelty of PSD2 is 
+primarily concerned with payments connected with e-commerce. Two facts. First, those 
+payments are still a small portion of the market. Right now, only 2 percent of total 
+payments in the Netherlands. Second, there are already several ways to pay online: through 
+credit cards, by PayPal and, in the Netherlands, through iDEAL. What else would you need 
+to become a happy payer? I hasten to say that this question may be rather silly. The story 
+goes that Henry Ford once sighed: “If I had asked my customers what they wanted, they 
+would have said … faster horses”. Paying online in the Netherlands is quite easy, also 
+compared to other countries. Moreover, already next year, the ideal of 24/7 instant 
+payments will be realized for mobile and internet payments. But judging from the 
+excitement in the industry, plenty of new P2P applications are likely to be within reach. 
+2 
+     •  What are retailers interested in, as for payment methods? Reach, user convenience, 
+conversion time and – last but not least – cost. Larger retailers may have an incentive to 
+offer payment initiation services themselves, hence bypassing their banks and avoiding 
+bank fees. From this angle, PSD2 may certainly become a game changer. 
+ •  The future need for account information services is also difficult to assess, at least where 
+consumers are concerned. Account information services can emerge as smartphone apps 
+that give the customer an up-to-date overview of her payments and financial position. This 
+may be quite useful to analyze one’s expenditures, when a financial advice is needed, or 
+some financial product. I assume that most people acknowledge the benefits of such a 
+service, especially if information from several accounts is combined. But this is probably 
+just the beginning of the further use of payment data. While the exploitation of account 
+information is extensively regulated, it is a very delicate matter. I will not go into the 
+possibilities and horror stories connected with the commercial use of payment data 
+(incidentally, the industry prefers the term “customer intelligence”). But let me elaborate a 
+bit on two contradictory attitudes with the general public when it comes to privacy. 
+  In 2014, ING announced it considered to use payment data of its clients for commercial 
+purposes. You may remember that this caused a national outcry on privacy. So fierce that 
+soon after the announcement, ING decided to abandon its plan. A recent survey by Carin 
+van der Cruijsen, a researcher at DNB, confirms that the Dutch public is very reluctant to 
+share their payment data with third parties, even for innovative services. An effective way 
+for banks to lose client confidence is to publicly hint at selling customer data to other firms. 
+At the same time, most people are frightfully willing – or unconscious – in allowing 
+internet firms like Google to tap and exploit their search activities on the Web. 
+  •  Of course, the European legislator has been fully aware of the privacy concerns. PSD2 
+provides for a number of requirements regarding the use of data and data protection. In 
+addition, the General Data Protection Regulation (GDPR) will become applicable soon. 
+But certain issues on privacy are still pending, mainly due to possible contradictions 
+between PSD2 and the GDPR concerning consent [, which is the legal basis for the 
+provision of payment services and the use of account information]. More work is needed 
+on this score by prudential and privacy supervisors. In the Netherlands, this requires close 
+cooperation between the Dutch Data Protection Authority and DNB. 
+3 
+PSD2 and the supply side 
+•  Payments business is a network industry. The entrance of new users – be it consumers or 
+retailers – increases the value of the network for all players. There are substantial 
+economies of scale, due to network externalities and also because setting up a payment 
+infrastructure requires large amounts of investment. This infrastructure is traditionally 
+offered by banks. However, the network effects may raise entry barriers on the supply 
+side, as well as lock-in effects on the demand side. These, in turn, may become obstacles 
+to innovation and competition. One way to overcome such obstacles is to separate the 
+provision of payment services from the infrastructure. This is exactly what PSD2 intends 
+to achieve to stimulate competition and innovation. Banks maintaining the infrastructure, 
+new players providing new services. 
+•  But this solution gives rise to new concerns. The first is the risk of fragmentation. The 
+potential benefits of PSD2 might be frustrated if banks and payment service providers 
+would communicate by a wide diversity of technical interfaces. Common standards help 
+to create a critical mass and to incite new players to enter the market. Standardization is 
+not provided for by PSD2 or its lower regulations. For good reasons, as regulations should 
+be technologically neutral and principle-based. Thus far, principles on standardization 
+could not be agreed in the Euro Retail Payments Board either, due to conflicts of interest 
+between banks and the new payment service providers [screen scraping, among other 
+things]. So, the question remains how standardization can be achieved without creating 
+one dominant force. I will come back to this shortly. The answer may be further 
+cooperation between banks and the new service providers to come to standards that will 
+be broadly accepted in the market. As long as competition is not hindered, of course. That 
+is the real challenge. 
+•  The second, related, concern is the potential role of BigTech. PSD2 makes it easy and 
+attractive for BigTech companies like Google and Apple to enter the European market as 
+payment service providers. If these companies were given a license, they would get access 
+to the accounts of bank clients and acquire the right to use payment data, provided that the 
+customer consents. Like other service providers, they will have to comply with PSD2 and 
+the General Data Protection Regulation. But BigTech companies have a clear competitive 
+advantage when it comes to global brand awareness, international reach and financial 
+resources. Hence, they may oust smaller players and obtain a dominant market position. 
+4 
+    “Winner takes all”. This is probably not the best outcome for Europe and certainly not in 
+the spirit of PSD2. The big – unanswered – question is, then, how to avoid it. 
+•  How should small players get the chance to develop. Loosely speaking, PSD2 gives them 
+the right to access bank accounts; again, if the customer consents. But this is only their 
+legal position. Can they survive if BigTech penetrates into the market? Will they be 
+squeezed, then, between the incumbent banks and the new big players? Not necessarily! 
+There is an increasing tendency for banks and fintech companies to work together. Banks 
+provide a large customer base, capital and regulatory experience. The fintechs, in turn, 
+offer specialist expertise and agility in product development. For them, the proverb “If you 
+can’t beat them, join them” seems to apply. 
+•  Another concern or challenge is: what does PSD2 imply for the business models of banks? 
+Banks provide and maintain the infrastructure, which the new players can use freely to 
+supply their services. Banks cannot charge for the access, for information requests or for 
+the use of their infrastructure. So, banks may need to review and adapt their business 
+models. Fortunately, PSD2 also provides banks with new business opportunities. They can 
+decide to become payment initiation service provider or account information service 
+provider and offer their customers the new services themselves. They can reorganize 
+themselves, create agile teams of young and creative people to develop innovative tools, 
+based on access to the account. This is already happening. And, of course, they can 
+closely cooperate with fintech companies. 
+3.   PSD2 and the payment system 
+ It is also important to look at the system as a whole. This is where DNB comes in. DNB is 
+entrusted with the prudential supervision of banks and payment service providers settled 
+in the Netherlands. DNB is also the central bank. In that capacity, it is legally mandated to 
+promote a sound functioning of the payment system. 
+•  PSD2 gives financial supervisors a prominent role in maintaining the security of payments 
+in the EU. PSD2 not only creates business opportunities, it may also change banks’ risk 
+profiles. Operational risk in particular is likely to increase. This includes cybersecurity, 
+digital fraud and the risk of mismanagement of personal data and privacy. New service 
+providers are also exposed to these risks. Banks, in addition, may have to adapt their 
+business models, which creates a strategic risk. On the other hand, individual banks 
+5 
+       prosper to the extent that they can exploit the new opportunities that PSD2 offers. 
+Supervisors and central banks will have to monitor these new risks and developments, 
+both for individual banks and from a system perspective. This is not something new. But 
+the playing field may become in a constant state of flux over the next decade, posing new 
+challenges to the authorities. 
+•  As a central bank, DNB welcomes PSD2 and the associated innovations. By increasing 
+competition, PSD2 can make the payment system more efficient. There are at least three 
+unresolved issues, though, which will come to the fore sooner or later. First, banks are 
+expected to maintain the infrastructure for payments, which the new players can access for 
+free. Then, the strategic question arises whether there will be sufficient incentives for 
+banks to invest further in the infrastructure. Second, the payment system as a whole may 
+become more complex and more fragmented, due to a lack of standards. Is this a problem 
+that needs intervention by the competent authorities or can it be solved by the industry 
+itself? It may serve as a warning here that, until now, European stakeholders have not been 
+able to develop a standard interface for access to bank accounts. Third, if BigTech 
+penetrates into the European market, who should organize the countervailing power to 
+prevent market dominance. And how could this be done? 
+4.   Concluding remarks 
+•  Let me conclude. PSD2 compels the payment industry to head for a new digital era. This 
+may have major strategic consequences for online payments. In my address, I have raised 
+a series of questions on privacy, on the potential role of BigTech and on the conceivable 
+prospect of a fragmented payment system. While DNB welcomes PSD2, these questions 
+deserve ample further reflection in the coming years. 
+ I thank you for your attention. 
+6 
+     

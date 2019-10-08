@@ -1,0 +1,1015 @@
+Charles Bean: The Great Moderation, the Great Panic and the Great 
+Contraction 
+Text of the Schumpeter Lecture by Mr Charles Bean, Deputy Governor for Monetary Policy 
+and Member of the Monetary Policy Committee, Bank of England, at the Annual Congress of 
+the European Economic Association, Barcelona, 25 August 2009. 
+I  am  grateful  for  the  assistance  of  Adrian  Penalver.  The  views  expressed  are  those  of  the  author  and  do  not 
+necessarily reflect those of either the Bank of England or the Monetary Policy Committee. 
+ Summary 
+Charles  Bean,  the  Bank  of  England’s  Deputy  Governor,  Monetary  Policy,  was  invited  to 
+deliver  the  Schumpeter  lecture  at  the  Annual  Congress  of  the  European  Economic 
+Association. The Great Moderation, the Great Panic and the Great Contraction, looks back at 
+the causes of the financial crisis and subsequent recession. He argues that much of what 
+went wrong can be analysed using standard economic tools.  
+The Great Moderation was a period of unusually stable macroeconomic activity in advanced 
+economies. This was partly thanks to good luck, including the integration of emerging market 
+countries into the global economy, and partly a dividend from structural economic changes 
+and better policy frameworks. The longer this stability persisted, the more markets became 
+convinced  of  its  permanence  and  risk  premia  became  extremely  low.  Real  short  and  long 
+term interest rates were also low due to a combination of loose monetary policy, particularly 
+in the US, and strong savings rates in a number of surplus countries.  
+Low interest rates and low apparent risk created strong incentives for financial institutions to 
+become  highly  geared.  Unfortunately  much  of  this  leverage  occurred  off-balance  sheet  in 
+order  to  avoid  on-balance  sheet  capital  charges.  The  innovative  financial  instruments 
+developed to achieve this were highly complex. This complexity did not seem to matter when 
+markets  were  steady  and  defaults  low  but  was  fatal  once  conditions  deteriorated,  as  it 
+became  impossible  to  understand  and  price  these  instruments  objectively.  Leveraged 
+institutions were trapped; as their assets sank in value and funding dried up, buyers became 
+wary  –  a  classic  lemons  problem.  As  losses  moved  inexorably  towards  institutions  at  the 
+heart  of  the  financial  system,  the  complexity  of  the  inter-bank  network  created  enormous 
+uncertainty about the extent of counterparty risk.  
+Uncertainties in the financial system were transmitted to the real economy after the collapse 
+of Lehman Brothers as expectations of future credit tightening, higher precautionary savings 
+and the postponement of investment took a sudden and widespread toll on global demand. 
+This  made  the  task  of  deleveraging  in  the  financial  system  even  more  difficult  and  the 
+tightening  of  credit  more  severe.  Central  banks  responded  aggressively  with  sharp  cuts  in 
+policy rates. To affect the yield curve over the medium run, central banks have made explicit 
+commitments to keep rates low for a significant period of time or engaged in purchases of 
+financial  assets.  Policy  makers  are  also  considering  the  benefits  of  developing  additional 
+macroprudential instruments which can be used to respond to rapid credit growth and rising 
+asset prices. These new instruments should directly target the incentives to extend excessive 
+credit.  But  there  are  a  number  of  practical  questions  to  answer  before  they  can  be 
+implemented. 
+Charles  Bean  concludes  that  it  is  a  mistake  to  look  for  a  single  culprit.  Just  as  in  Agatha 
+Christie’s Murder on the Orient Express, those with different motives but similar objectives 
+can all contribute to the same outcome. The economics profession was one of those culprits 
+and  there  are  lessons  for  the  discipline.  It  could  incorporate  psychology  or  behavioural 
+economics into the study of financial markets but this may be unnecessary since much of the 
+story can be explained using standard microeconomics. Economists should take more notice 
+BIS Review 101/2009 
+ 1
+of history and not treat crises as pathologies that happen in other times or in other places but 
+as a central feature of free-market economies that models should aspire to explain. Finally, 
+macroeconomists have to learn how to put credit markets into their models in a meaningful 
+way and which enable us to model shocks originating in the financial sector rather than just 
+as an amplification mechanism. 
+The Great Moderation, the Great Panic and the Great Contraction 
+The  past  twenty-four  months  have  been  tumultuous  for  the  global  economy,  for  economic 
+policy  makers  and,  indeed,  for  the  discipline  of  economics.  Following  a  long  period  of 
+unusually  good  economic  performance,  characterised  by  relatively  steady  growth  and  low 
+and  stable  inflation  in  the  advanced  economies  and  rapid  growth  and  development  in  key 
+emerging market economies, we have seen the eruption of a systemic financial crisis of quite 
+unusual intensity and international reach. The nearest precedent is probably the widespread 
+closing  of  international capital  markets  on  the  eve  of  the  First  World  War.  And  associated 
+with that, we have seen the sharpest internationally synchronised slowdown in growth in the 
+post-war period, together with an unprecedented contraction in world trade. 
+To the public at large our present troubles are the fault of: whiz-kid financiers, who created 
+financial  instruments  that  even  they  didn’t  properly  understand;  greedy  bankers,  who 
+pursued  profit  and  personal  reward  without  regard  to  risk  or  common  sense;  somnolent 
+supervisors,  who  failed  to  adequately  regulate  and  restrain  those  bankers;  and  negligent 
+central bankers, who allowed an explosion in liquidity, credit and asset prices that supported 
+the  whole  rotten  edifice.  And  all  the  while,  the  culprits  were  cheered  on  by  an  economics 
+profession that was over-enamoured of theoretical models, blind to the lessons of history and 
+subject to a severe case of “group think”. Wasn’t it blindingly obvious that the whole house of 
+cards would come crashing down at some point? 
+As one of those involved in responding to the crisis – and some might charge also a bit part 
+in creating the conditions for it – I want to look this evening at how we got here. But rather 
+than giving a blow-by-blow account of events, I want instead to focus on what I see as the 
+key underlying economic forces. How could what appeared initially to be little more than an 
+over-extension  of  loans  to  a  high-risk  subset  of  US  households  end  up  generating  total 
+financial sector losses in the advanced economies currently estimated by the IMF to be in the 
+region of $4.1 trillion and an output gap that is expected to reach nearly 6% of GDP in 2010? 
+And  while  there  were  a  few  Wise  Owls1  who  saw  trouble  coming,  why  did  most  of  the 
+profession  fail  to  spot  the  dangers?  Is  that  because  we  were  locked  into  an  inappropriate 
+paradigm?  If  so,  is  the  time  ripe  for  a  Schumpeterian  “gale  of  creative  destruction”  in  the 
+subject? 
+The credit boom  
+Let  me  start  by  recalling  a  few  facts  regarding  the  credit  boom  that  preceded  the  crisis. 
+During  the  decade  preceding  the  crisis  there  was  a  substantial  increase  in  the  ratio  of 
+household and business debt to GDP in a number of advanced economies, particularly the 
+United States, the United Kingdom and Spain; see the left-hand panel of Fig. 1. A striking 
+feature of this period was also the increased use of the credit markets by the financial sector 
+to  fund  its  activities,  rather  than  relying  on  the  traditional  medium  of  deposits;  that  is 
+illustrated in the right-hand panel for the United States. 
+This  build  up  in  debt  accompanied  a  wave  of  financial  innovation.  There  was  a  marked 
+expansion in the issuance of asset-backed securities: bundles of residential and commercial 
+                                                 
+1   Most notably Nouriel Roubini, Bob Shiller and Bill White and others at the BIS. 
+2 
+ BIS Review 101/2009
+mortgages, other consumer credit, and of loans to businesses that were sold on by the loan 
+originator,  thus  shifting  the  associated  risks.  And  a  new  class  of  asset  in  the  shape  of 
+Collateralised  Debt  Obligations  (CDOs)  was  created,  which  facilitated  a  further  layer  of 
+restructuring and redistribution of the risks in an asset-backed security. The extent to which 
+loans  were  moved  off  balance  sheet  through  these  means  is  shown  in  Fig.  2  (left-hand 
+panel). Finally, we saw a veritable explosion in the issuance of Credit Default Swaps (CDSs), 
+which  allowed  investors  to  hedge  themselves  against  a  wider  range  of  default  risks  (right-
+hand panel). 
+The  picture  that  emerges  from  this  is  one  of  a  more  complex  process  of  financial 
+intermediation, but one in which the innovation in contracts apparently allowed specific types 
+of  risks  to  be  split  out,  traded  and  redistributed  towards  those  in  a  better  position  to  bear 
+them. We thus seemed to be moving ever closer to an idealised Arrow-Debreu world of a full 
+set  of  state-contingent  securities.  Moreover,  it  seemed  natural  to  think  that  the  increased 
+dispersion of risk would make the financial system more, rather than less, stable, a view that 
+was certainly held by the former Chairman of the US Federal Reserve, Alan Greenspan: 
+“These 
+instruments  have  been  especial 
+contributors,  particularly  over  the  past  couple  of  stressful  years,  to  the 
+development of a far more flexible, efficient, and resilient financial system than 
+existed just a quarter-century ago.” (Greenspan, 2002). 
+increasingly  complex 
+financial 
+Accompanying  this  expansion  in  credit,  there  was  also  a  rise  in  certain  asset  prices, 
+particularly that of housing, in those countries where credit rose most sharply (see Fig. 3). 
+But significantly, that explosion in credit was not associated with a marked expansion either 
+in the demand for goods and services, or in consumer price inflation. It is also notable that 
+the  run-up  in  house  prices  in  the  United  States  was  less  marked  than  in  the  other 
+Anglophone  countries  and  Spain.  In  part,  that  may  reflect  a  more  elastic  response  in  the 
+construction of new houses in the United States. 
+The  point  to  stress  is  that  there  was  nothing  self-evidently  wrong  with  this  expansion  in 
+balance  sheets  and  the  associated  rise  in  asset  prices.  There  is  some  evidence  from 
+developing economies that suggests that increased development in financial markets helps 
+to foster growth and catch-up. And if financial innovation allows households to gain access to 
+mortgage finance where they were previously unable to, one should expect that to lead to a 
+rise  in  the  real  price  of  houses.  But  just  as  there  is  evidence  that  increased  financial 
+intermediation  is  often  a  Good  Thing,  so  there  is  also  evidence  from  numerous  past 
+credit/asset  price  boom-bust  episodes  that  a  juxtaposition  of  rapid  credit  expansion  and 
+sharp  asset  price  increases  is  often  a  harbinger  of  a  painful  bust  to  come.  So  everything 
+hinges on whether the underlying developments are sustainable or not. The mistake of (most 
+of) the economics profession, along with many others, was a failure to see what was really 
+going on beneath the surface and to understand how disruptively things could unwind. But, 
+as  I  shall  explain,  I  believe  that  the  standard  tools  of  economic  analysis,  far  from  being 
+proved redundant, can shed useful light on what went wrong.  
+Macroeconomic antecedents 
+The proximate causes of the present crisis undoubtedly lie within the financial markets. But it 
+is worth dwelling briefly on the macroeconomic environment in the years preceding the crisis, 
+which was conducive to the formation of what proved to be an unsustainable credit bubble. 
+BIS Review 101/2009 
+ 3
+The Great Moderation 
+To begin with, this period was characterised by an unusually high degree of macroeconomic 
+stability, with steady growth and low and stable inflation in most of the advanced economies; 
+see for instance Fig. 4, which shows performance in the G5 countries before and after 19922. 
+There are three broad explanations for this “Great Moderation”. 
+First,  it  could  just  have  been  a  happy  accident,  if  this  was  a  period  characterised  by 
+unusually small, or a benign sequence of, shocks. In particular, access to a cheap source of 
+manufactured goods as result of the rapid development of China and other emerging market 
+economies  created  a  terms  of  trade  gain  for  the  advanced  countries  and  a  beneficial 
+“tailwind”, which only mutated into a “headwind” towards the end of the period as rapid global 
+growth put upward pressure on oil and other commodity prices. 
+Second, changes in the structure of the economy could have meant that similar sized shocks 
+had  smaller  macroeconomic  effects.  Candidate  structural  changes  included  the  shift  from 
+manufacturing  to  services,  tighter  control  of  inventories  leading  to  an  attenuation  of  the 
+inventory  cycle,  increased  competition  in  product  and  labour  markets,  and  innovation  in 
+financial  markets  that  facilitated  the  greater  spreading  of  risk  and  an  enhanced  ability  to 
+smooth spending in the face of shocks to income or wealth. 
+A  final  possibility  is  that  better  macroeconomic  policies,  including  improved  policy 
+frameworks, had moved economies closer to the eponymous Taylor frontier which traces out 
+the lowest achievable inflation volatility for a given volatility of the output gap. In particular, 
+earlier  periods  were  bedevilled  by  monetary  policies  that  had  failed  to  anchor  inflation 
+expectations.  But  the  pursuit  of  inflation  targets  and  similar  stability-oriented  monetary 
+policies by independent central banks seemed to have been more successful in anchoring 
+inflation expectations. 
+Now  if  the  Great  Moderation  was  down  to  “good  luck”,  then  improved  macroeconomic 
+performance was more likely to be ephemeral. But if it was down to structural changes or 
+better policy, there was more chance of it proving permanent. Moreover, if it was permanent, 
+then  part  of  the  “dividend”  from  this  reduced macroeconomic  volatility  should  be a  greater 
+willingness to take on risk. 
+As it happens, the academic literature has so far failed to provide a conclusive answer on the 
+relative  contributions  of  the  various  explanations3.  But  what  matters  is  how  market 
+participants responded to these benign conditions. They are faced with what is, in essence, a 
+complex signal-extraction problem. But whereas many such problems in economics involve 
+learning about first moments of a distribution, this involves making inferences about higher 
+moments. The longer such a period of low volatility lasts, the more reasonable it is to assume 
+that it is permanent. But as tail events are necessarily rarely observed, there is always going 
+to be a danger of underestimating tail risks. 
+Certainly it appears from  measures of volatility  implied from options prices for US equities 
+(VIX)  and  treasuries  (MOVE)  that  the  perceived  risks  in  financial  markets  had  shrunk  to 
+extremely  low  levels  by  2006;  see  Fig.  5.  There  are  two  ways  of  rationalising  this.  One 
+possibility  is  straightforward  extrapolation  into  the  future  of  the  benign  experience  of  the 
+preceding few years. An alternative and complementary explanation is excessive faith in the 
+                                                 
+2   The Great Moderation appears to have started rather earlier, in the mid-1980s, in the United States.  
+3  
+In part, that is because shocks are not measured directly, only their consequences; so what appears to be 
+‘good  luck’,  may  reflect  the  beneficial  influence  of  structural  changes  or  better  policy  in  ameliorating  their 
+impact; see Bernanke (2004). Other contributions to this literature include: Cogley and Sargent (2005), Sims 
+and Zha (2006), and Stock and Watson (2003), who ascribe a sizeable portion of the improved performance to 
+good luck; and Clarida, Gali and Gertler (2000) and Lubik and Schorfheide (2004), who put more weight on 
+better policies. 
+4 
+ BIS Review 101/2009
+ability of policy makers to maintain steady growth in the real economy. The Fed’s reluctance 
+to use interest rates to lean against asset price booms coupled with a willingness to relax 
+monetary policy aggressively in the wake of sharp asset price falls (Greenspan, 2002) may 
+also have helped place a floor under expected asset prices (the “Greenspan Put”; see Miller, 
+Weller and Zhang, 2002).  
+A  tendency  of  people  to  underestimate  future  risks  during  periods  of  good  economic 
+performance seems to be a recurring theme in the history of financial markets. In part this 
+seems to be a mixture of a willingness or desire to believe that the world has changed for the 
+better,  and  moreover  to  find  ways  to  rationalise  that  belief  –  in  other  words,  “this  time  it’s 
+different”.  To  that  must  be  coupled  a  limited  imagination  –  shared  in  this  instance  with 
+regulators and central bankers – to see quite how badly things could go wrong. But when 
+market participants can claim, as David Viniar, the Chief Financial Officer of Goldman Sachs, 
+did  in  August  2007  that  they  “were  seeing  things  that  were  25-standard  deviation  moves, 
+several days in a row” it is a sign that something must be badly wrong4. Wrong, that is, not 
+with the world, but rather with market participants’ estimation of risk. 
+A particular feature of this underestimation of risk lay in the prevalent assumption that bad 
+shocks  were  likely  to  be  uncorrelated  with  each  other.  Thus  the  management  of  Northern 
+Rock  probably  believed  that  if  they  were  unable  to  roll  over  their  short-term  wholesale 
+funding in the Asset-Backed Commercial Paper market, then they would always be able to 
+find an alternative source of funds in the inter-bank market. But as it transpired, the same 
+forces that led to a shutting down of the former in August 2007 also led to the closure of the 
+latter at all but very short maturities. By the same token, many investors thought they had 
+purchased  relatively  safe  securities  because  there  were  insured  against  default  by  the 
+monolines or through the purchase of CDS contracts. But that insurance proved worthless 
+when  large  correlated  losses  occurred  and  the  insurers  proved  to  have  insufficiently  deep 
+pockets.  A  systemic  financial  crisis  is  apt  to  generate  dysfunctions  in  multiple  markets 
+simultaneously, making bad tail outcomes much more likely to occur than they appear when 
+risks  are  treated  as  largely  independent.  And  joint  distributions  with  independence  in  the 
+central  mass  but  high  correlation  in  the  tails  are  likely  to  be  extremely  hard  to  model  and 
+calibrate. 
+Monetary policy 
+Other macroeconomic features also probably contributed to the growth in credit leading up to 
+the crisis. In particular, according to some monetary policy was too loose over this period, 
+especially in the United States (see Taylor, 2007). Fig. 6 shows the difference between the 
+policy  rate  and  benchmark  estimates  of  an  “appropriate”  policy  rate  derived  from  a  Taylor 
+rule. Notwithstanding the usual caveats about the construction of such benchmarks, the very 
+low level of the Federal Funds rate relative to the Taylor rule during 2001-5 is striking. Of 
+course, the FOMC held rates this low for a reason – they were concerned about entering a 
+Japanese-style deflation and in order to mitigate that risk committed to holding the policy rate 
+at a low level for a sustained period so as to pull down longer-term market interest rates. 
+There is, though, little to suggest that policy rates were noticeably out of line in the euro area 
+and the United Kingdom. Credit was nevertheless growing rapidly, as documented earlier in 
+Fig. 1. Despite generally low and stable inflation, that led some – most notably Bill White and 
+colleagues at the Bank for International Settlements (Borio and White, 2003; White 2006) – 
+to argue that the credit/asset-price boom was storing up trouble for the future. Accordingly, 
+they argued that central banks should actively “lean against the wind” to mitigate these risks, 
+                                                 
+4   Dowd, Cotter, Humphrey and Woods (2008) calculate that, with a normal distribution, a 25-sigma daily event 
+should occur about once in every 1.31 x 10135 years; to put this in context, the universe is estimated to be just 
+12-14 billion years old!  
+BIS Review 101/2009 
+ 5
+even  though  inflation  objectives  did  not  appear  to  be  under  threat.  Others,  including  the 
+present  and  former  Chairmen  of  the  Federal  Reserve,  took  the  view  that  diagnosing  a 
+misaligned asset price was only possible in retrospect and that only a large increase in policy 
+rates could stop such a boom, which risked creating exactly the shock to the real economy 
+that one wanted to avoid (see Bean, 2003, and the references therein). I shall return to this 
+issue at the end of this lecture. 
+Global imbalances 
+Another feature of potential importance is the counterintuitive pattern of international capital 
+flows. The rapid development and integration into the global market economy of China, India, 
+Brazil  and  other  emerging  market  economies  could  have  been  expected  to  lead  to  capital 
+flows from the advanced countries into these economies in order to provide the investment to 
+equip the extra workers being brought on to the global labour market. But instead we saw 
+China exporting capital and the United States and the United Kingdom importing it; see Fig. 
+7. In 2007, for instance, the US current account deficit stood at $730 billion, while China’s 
+surplus stood at no less than $372 billion. Moreover, the deficits are also large in historical 
+terms.  
+A number of competing explanations have been advanced for this pattern of flows. First, it 
+could  simply  reflect  the  juxtaposition  of  strong  demand  in  the  United  States,  coupled  with 
+China’s adoption of an undervalued exchange rate in order to accelerate the development of 
+the traded goods sector and to soak up labour from the rural areas (Dooley, Folkerts-Landau 
+and  Garber,  2004).  Second,  it  could  reflect  a  “savings  glut”  in  the  surplus  countries 
+(Bernanke, 2005), resulting from a lack of an adequate household safety net in China, the 
+accumulation of precautionary holdings of international reserves by several emerging market 
+countries after the Asia crisis, and rational savings of the windfall gains from higher oil prices 
+on  the  part of  oil  producers.  Finally,  it  has  been  suggested  that  the  United  States  holds  a 
+comparative  advantage  in  the  creation  of  “high  quality”  financial  assets  from  real 
+investments, leading to a direction of savings into the US financial markets (Caballero, Farhi 
+and Gourinchas, 2008). 
+Now while these flows are certainly likely to have added to the growth in credit, on the face of 
+it  they  could  only  be  a  part  of  the  explanation.  For  instance,  the  cumulative  US  current 
+account deficit over the 2000-7 period was $4.7 trillion. Over the same period, the stock of 
+household,  corporate  and  government  debt  outstanding  rose  by  $14.4  trillion,  more  than 
+three times as much. But it is possible that the global imbalances may have played into the 
+credit  boom  through  another  route.  Bernanke’s  “savings  glut”  hypothesis  was  advanced 
+primarily  as  an  explanation  for  the decline in  long-term  real  interest  rates  seen  during  this 
+decade; see Fig. 8. And that low level of real returns on government bonds may in turn have 
+encouraged financial institutions to shift into other, riskier, assets that offered a higher return, 
+such as the burgeoning class of asset-backed securities – what came to be known as the 
+“search for yield”. 
+There  is  not  a  lot  of  research  yet  that  sheds light  one  way  or  the  other  on  the  role  of  the 
+global imbalances in the credit/asset-price boom. There is quite a strong correlation across 
+countries  between  house  price  inflation  and  current  account  deficits  (Fig.  9),  but  this  says 
+nothing about causality, which plausibly could also run from house prices, via demand, to the 
+current account. In fact, Granger-causality tests point to bi-directional causality, running from 
+both current accounts to house prices and vice versa5. That is consistent with an influence of 
+                                                 
+5   With four lags of each variable on the right-hand side and a full set of time and country fixed effect dummies 
+for  sixteen  countries  over  the  period  1975-2007,  the  F-statistic  for  the  exclusion  of  house  prices  in  the 
+equation  for  the  current  account  is  8.2,  while  the  F-statistic  for  the  exclusion  of  the  current  account  in  the 
+house price equation is 4.2. 
+6 
+ BIS Review 101/2009
+the imbalances on asset prices. But equally the results could just indicate that both variables 
+are affected by the state of the business cycle. 
+What went wrong? 
+While the macroeconomic environment may have provided fertile ground for the credit/asset 
+price boom to develop, to explain both the extent of the growth in credit and the magnitude of 
+the  subsequent  crisis  one  needs  to  dig  down  into  what  was  happening  inside  financial 
+markets. And when one does that, one finds a variety of incentive distortions and information 
+problems that appear to have played a central role.  
+Distorted incentives 
+Banks are vulnerable institutions because they make long-term loans with uncertain returns 
+that  are  financed  predominantly  by  short-term  debt  instruments  and  callable  deposits.  If 
+creditors  think  that  the  borrowers  will  be  unable  to  repay  the  loans,  then  there  is  every 
+incentive  for  them  to  run.  That  is  why  banks  are  required  to  hold  a  buffer  of  capital  and 
+reserves large enough to absorb losses in most feasible states of nature. 
+Consider for a moment a very simple financial intermediary (a “bank”) that can finance risky 
+lending  with  either  debt,  which  here  encompasses  both  deposits  and  credit  market 
+instruments, or equity. Assume that the bank pays RD on its debt and earns (a stochastic) RL 
+on its loans, net of intermediation and monitoring costs. Then the return on its capital, RK, is 
+given by: 
+RK = (1+λ)RL – λRD, 
+where  λ  is  the  leverage  (debt-to-equity)  ratio.  In  the  normal  course  of  events,  one  would 
+expect  the  return  on  debt  to  be  an  increasing  function  of  leverage,  as  the  greater  the 
+leverage, the greater the chance that the bank’s capital will be wiped out in the event of low 
+returns on the loans and they will be forced to default on part or all of the debt. Indeed, with 
+symmetric  information  between  bank  and  creditor,  there  should  be  no  gain  from  raising 
+leverage at all by virtue of the Modigliani-Miller theorem. 
+For a number of reasons, however, this may not work in practice. Creditors – especially if 
+they are households rather than sophisticated financial market participants – may not even 
+factor in the implications of higher leverage for the possibility of default. And even if they do, 
+the debt may be partially or wholly underwritten by the state, with the cost of the insurance 
+only  imperfectly  passed  back  to  the  bank.  Similarly,  the  bank  may  be  thought  to  be  too 
+important to be allowed to fail, in which case people might expect an injection of capital by 
+the state to make good abnormal losses. In any of these cases, there is an incentive for the 
+bank to raise leverage. Moreover, the lower is the perceived uncertainty associated with the 
+loans, the more the bank can afford to leverage up, while maintaining the same uncertainty 
+over the return on its capital. So the environment of the Great Moderation would have been 
+particularly conducive to intermediaries increasing the leverage of their positions.  
+The incentive distortions here are intrinsic to the process of financial intermediation. The next 
+set  of  distortions  is  more  specific  to  the  present  conjuncture  and  relates  to  securitisation. 
+Securitisation  is  attractive  because  selling  on  the  loans  and  the  attendant  risks  enables  a 
+bank to leverage more loans off its capital. And, as noted earlier, such distribution of risks 
+should in principle be beneficial for the economy. 
+Unfortunately, it transpired that this model, or at least its application in the past few years, 
+suffered from a number of incentive problems. First, there is the obvious one that if a loan 
+originator can sell a loan on at par, then he has less incentive to take care who he lends to. 
+The much higher default rates on cohorts of US sub-prime loans originated in 2006 and 2007 
+compared with earlier years is indicative of the consequences of this lack of incentive (see 
+BIS Review 101/2009 
+ 7
+Fig. 10). The originator needs to have enough “skin in the game” if he is going to exercise 
+due diligence in loan origination – and having a reputation at stake may not always suffice.  
+Second,  the  crisis  revealed  that  many  of  the  risks  that  securitisation  was  supposed  to 
+distribute more widely had in fact remained either within the banking system, or else could be 
+re-intermediated back into it. Thus, the debt securities issued by one bank were not sold on 
+to investors outside the banking system, but were instead bought by the proprietary trading 
+desks of other banks, leading to a network of cross-holdings of the underlying loans. That 
+may make sense when the main risks are idiosyncratic to the loans originated by particular 
+banks, but looks rather foolish when the risks are macroeconomic in nature and the returns 
+on all such securities are correlated. 
+Moreover, a considerable amount of the remaining risk was contained in institutions which, 
+while  not  formally  recognised  as  banks,  engaged  in  exactly  the  same  sort  of  maturity 
+transformation,  financing  long-term  assets  by  short-term  debt  instruments.  These  included 
+entities  such  as  conduits,  which  housed  the  securitised  loans  and  then  financed  them  by 
+selling  short-term  paper.  But  in  many  cases  these  entities  had  back-up  credit  lines  to  the 
+supporting bank, so that when funding difficulties arose, the securitised loans in effect came 
+back onto the bank’s balance sheet. And even where there was no formal obligation to act as 
+a lender of last resort, originators often chose to provide back-up finance in order to protect 
+their name in funding markets.  
+The  motive  for  setting  up  these  off-balance-sheet  entities  was  entirely  one  of  regulatory 
+arbitrage. Off-balance-sheet vehicles were not required to hold capital in the same way as a 
+bank  would  if  the  loans  were  on  their  balance  sheet.  So  it  appeared  to  be  a  neat  way  to 
+boost profits without having to raise more capital. The Banco d’España, the Spanish banking 
+supervisor,  insisted  that  Spanish  banks  would  have  to  treat  conduits  and  the  like  as  on 
+balance sheet for capital purposes. As a result, Spain did not see the mushrooming of these 
+off-balance-sheet vehicles. 
+A third distortion lies in the nature of remuneration contracts. Incentive contracts that offer 
+potentially unlimited upside rewards, but cap the downside losses, encourage traders to take 
+on excessive risk. One unintended consequence of financial innovation was that it enabled 
+clever traders to create positions with considerable embedded leverage – that is, portfolios 
+requiring  little  payment  up  front,  but  whose  returns  amplified  changes  in  the  value  of  the 
+underlying assets. Traders then had a natural incentive to gravitate towards these types of 
+highly risky instruments. 
+A related problem is that it is extremely difficult for management to observe the risk being 
+taken  on  by  their  traders,  particularly  when  innovative  financial  instruments  have  unusual 
+return distributions. Take, for example, a deeply out of the money option. This pays a steady 
+income  premium  and  has  little  variation  in  value  when  the  underlying  instrument  is  a  long 
+way from the strike price, but generates rapidly escalating losses in bad states of the world. 
+In good times this looks like a high return, low risk instrument. Only in very bad states of the 
+world do the true risks taken on become apparent. 
+Information problems 
+Information  problems  have  also  been  central  to  the  crisis.  Most  of  the  asset-backed 
+securities  that  have  proved  toxic  are  far  from  simple.  A  plain  vanilla  Residential  Mortgage 
+Backed  Security  (RMBS)  typically  contains  tens  or  hundreds  of  thousands  of  underlying 
+mortgages  and  even  the  documentation  on  them  can  run  to  a  couple  of  hundred  pages. 
+These instruments provide diversification, but unless the mortgages are fairly homogenous in 
+nature, it will be difficult for an individual investor to monitor the evolution of the underlying 
+risk exposures at all precisely. The problem is compounded when the pool of mortgages is 
+continually topped up to replace maturing mortgages, as is the case with Master Trusts, as 
+the characteristics of newer cohorts may differ from those of older cohorts. 
+8 
+ BIS Review 101/2009
+In addition, US RMBS contain embedded options that further complicates the evaluation of 
+their worth. Ordinary US mortgage loans are usually non-recourse and offer the borrower the 
+option of both early repayment and of default if the price of the house falls below the value of 
+the loan, leaving the lender to recover what they can from re-sale of the house at what will be 
+an uncertain price. US sub-prime mortgages also embed an option for the lender. Essentially 
+sub-prime  mortgages  are  structured  as  a  rolling  sequence  of  short-term  loans,  with  the 
+lender sharing in some of the increase in housing equity when house prices rise and having 
+discretion  over  whether  to  offer  a  new  and  affordable  loan  depending  on  whether  house 
+prices have risen or not (see Gorton, 2008, for further details). As a consequence of these 
+embedded options, RMBS, particularly of sub-prime mortgages, have a rather complex pay-
+off structure that is tricky to price and difficult to monitor. 
+CDOs  are  yet  more  complex.  These  re-package  the  payoffs  in  bundles  of  asset-backed 
+securities into an ordered hierarchy of other securities, with each tranche only bearing losses 
+once  tranches  above  it  have  been  wiped  out.  A  bundle  of  risky  assets  could  thus  be  re-
+packaged  into  other  assets,  some  of  which  offered  bond-like  returns  suitable  for  investors 
+such as pension funds seeking low-risk assets, while the tranches bearing more risk would 
+be sold to those willing to carry more risk6. But the pay-offs to these assets are highly non-
+linear  in  the  underlying  risks  (see  Fig.  11).  As  a  consequence  the  prices  are  apt  to  drop 
+sharply  with  changing  perceptions  of  the  underlying  default  rates,  a  feature  that  has  been 
+apparent during the crisis. 
+A typical CDO comprises a large number and variety of RMBS, including a mix of prime and 
+sub-prime mortgages from a variety of originators. On the face of it, this might seem like a 
+good thing as it creates diversification. However, even more than with plain vanilla RMBS, it 
+becomes impossible to monitor the evolution of the underlying risks – it is akin to trying to 
+unpick the ingredients of a sausage. That may not matter too much when defaults are low 
+and  only  the  holders  of  the  first,  equity,  tranche  suffer  any  losses.  Holders  of  the  safer 
+tranches can in that case sit back and relax – a case of rational inattention. But once defaults 
+begin to rise materially, it matters a lot what such a security contains. And with highly non-
+linear payoffs, returns can be extremely sensitive to small changes in underlying conditions. 
+When  defaults  on  some  US  sub-prime  mortgages  originated  in  2006  and  2007  started 
+turning out much higher than expected, there was a realisation that losses could be much 
+greater on some of these securities than previously believed. And a growing realisation of the 
+informational complexity of these securities made them difficult to price in an objective sense. 
+Essentially, investors switched from believing that returns behaved according to a tight and 
+well-behaved distribution to one in which they had very little idea about the likely distribution 
+of returns – a state of virtual Knightian uncertainty (Caballero and Krishnamurthy, 2008). 
+There was also a higher-order information problem arising out of the interconnected nature of 
+the  financial  system.  Banks,  when  they  appear  at  all  in  economic  models,  just  exist  to 
+transfer  funds  from  savers  to  borrowers  and  to  monitor  the  latter.  But  the  reality  is  a  high 
+degree  of  exposure  of  financial  institutions  to  each  other  as  a  result  of  interbank  loans, 
+holdings of CDSs written by other parties, holdings of securities issued by other parties, and 
+so  on.  In  normal  times,  one  does  not  need  to  know  much  about  a  counterparties’  risk 
+exposure.  But  when  there  are  doubts  about  solvency  of  a  major  institution,  one  needs  to 
+know not only one’s own exposure to that institution, but also about the exposure of one’s 
+other counterparties. 
+The collapse of Lehman Brothers was particularly critical in that, prior to that and particularly 
+in the light of the rescue of Bear Stearns, such an institution was probably viewed as being 
+too big and interconnected to fail. But the failure of the US authorities to put together a viable 
+rescue  plan,  together  with  growing  doubts  about  the  likely  effectiveness  of  the  Troubled 
+                                                 
+6   As it turned out, those willing to carry the risk were not always those best placed to bear it.  
+BIS Review 101/2009 
+ 9
+Asset  Relief  Program  (see  Taylor,  2009),  raised  the  possibility  in  investors’  minds  of  the 
+failure  of  a  whole  range  of  institutions  that  had  previously  been  considered  safe.  That  is 
+evidenced  in  the  simultaneous  sharp  spike  upwards  in  the  CDS  spreads  of  a  number  of 
+financial institutions after the collapse of Lehman’s (see Fig. 12). Moreover, the prospect of 
+having to make significant default pay outs called into question the solvency of a key provider 
+of that insurance, AIG. 
+The bottom line of all this is that the information requirements for managing risk escalated 
+rapidly at the same time as investors were waking up to the realisation that the distribution of 
+prospective returns on a range of asset-backed securities was a great deal worse than they 
+thought. Not surprisingly, there was a rush for the exits and a drying up of wholesale funding 
+to institutions that were thought to be at all vulnerable. Moreover, attempts to cope with that 
+by selling off assets ran into an adverse selection problem: if someone is selling an asset, 
+then perhaps that indicates that they know it’s a “lemon”. And even the revelation of central 
+bank  support  in  its  role  as  Lender  of  Last  Resort,  far  from  solving  the  problem,  could  be 
+interpreted as a negative signal about an institution, as was so in the case of Northern Rock, 
+for example. 
+As a result, at times, such as during the “Little Panic” of August 2007, as well as the “Great 
+Panic” of September-October 2008, the markets for a whole range of asset-backed securities 
+closed completely and investors sought safety in liquid government assets. These pressures 
+are reflected in the spread between measures of bank funding costs and equivalent maturity 
+government  debt  (Fig.  13).  Even  when  confidence  has  appeared  to  be  improving,  the 
+markets for asset-backed securities have remained dysfunctional. 
+Amplification and propagation 
+While  these  incentive  distortions  and  information  problems  help  to  explain  why  the  crisis 
+happened,  they  don’t  explain  why  its  impact  has  been  so  great.  Back  in  2007,  the  US 
+Federal Reserve estimated the unexpected losses associated with the sub-prime mortgage 
+market would be of the order of $50 billion7. Since then, the IMF have progressively raised 
+their estimate of the write-downs on US-originated assets to $2.7 trillion (see Fig. 14), while 
+their current estimate for write-downs across the United States, Europe and Japan stands at 
+$4.1  trillion.  Alongside  that  we  are  witnessing  a  sharp  and  internationally  synchronised 
+slowdown in global growth that will probably turn out to have been the sharpest in the post-
+war period, together with an unprecedented contraction in world trade (Fig. 15). The shortfall 
+in  advanced  country  GDP,  relative  to  potential,  alone  is  projected  by  the  Fund  to  reach 
+around $2.2 trillion by 2010. How could this come about? 
+The first thing to be said is that much more was involved than the imprudent extension of 
+loans to a few poor US households. Rather, the unexpected losses on sub-prime mortgages 
+and assets backed by them acted as a trigger for generalised doubts about the viability of a 
+whole class of assets and a general reappraisal of risk premia, which had become unduly 
+compressed at the tail end of the Great Moderation period. So the fundamental shock was a 
+much larger one.  
+But a number of amplification and propagation mechanisms also appear to have kicked in. 
+Some  of  these  positive  feedback  loops8  have  operated  entirely  within  the  financial  sector. 
+The  most  obvious  is  that  the  withdrawal  of  funding  and/or  the  need  to  maintain  adequate 
+                                                 
+7   Testimony by Ben Bernanke to the US Senate Banking Committee, 19 July 2007. 
+8   Numerous official-sector papers have insisted on referring to such mechanisms as negative feedback loops, 
+because they generate a larger adverse impact on asset prices or the real economy from the original negative 
+shock. But since they are amplifying, rather than stabilising, feedback loops, they should obviously be referred 
+to as positive feedback loops. 
+10 
+ BIS Review 101/2009
+capital  ratios  prompted  fire  sales  of  assets.  But  if  there  is  great  uncertainty  about  the 
+fundamental value of an asset or there is a suspicion that the seller may have chosen to sell 
+it because they know it is a lemon, then prices are likely to have to fall a long way before 
+buyers step forward. That is particularly so if potential buyers are concerned about their own 
+access to funding and therefore wish to remain in safe and liquid assets. But given the use of 
+mark-to-market accounting to value trading books, the falls in asset prices then worsens the 
+balance sheets of other institutions. That in turn reduces their capital ratios, aggravating their 
+problems in raising funds and generating a further round of asset sales. 
+Further  amplifying  mechanisms  arise  as  a  consequence  of  leveraged  positions.  The  net 
+worth  of  a  leveraged  investor  deteriorates  much  faster  than  his  gross  worth  when  asset 
+prices fall, as all of the loss is scored against capital. Thus even to hold leverage constant 
+requires  substantial  asset  sales,  further  depressing  asset  prices.  For  instance,  an  investor 
+with  $100  million  of  assets  financed  by  $10  million  of  capital  and  $90  million  of  debt  who 
+experiences  a  $5  million  loss  in  asset  value  would  have  to  sell  $45  million  of  assets  and 
+redeem an equivalent amount of the debt to restore his original leverage ratio. Brunnermeier 
+(2009)  refers  to  this  as  a  “loss  spiral”.  In  fact,  things  are  even  worse  than  this  because 
+lenders typically expect borrowers to fund a larger fraction of an investment themselves in 
+such  circumstances,  reinforcing  the  downward  spiral.  And  Adrian  and  Shin  (2008)  indeed 
+find that the leverage ratio of the five US large investment banks, which held a substantial 
+quantity of the securitised loans, was indeed strongly correlated with the size of their balance 
+sheets. 
+Now I noted earlier that once counterparty risk becomes a material concern, it is not only the 
+state of an intermediary’s immediate counterparties’ balance sheets that matter, but also the 
+state  of  those  counterparties’  counterparties  balance  sheets,  and  so  on.  In  practice,  what 
+used to be a very simple process of intermediating funds between savers and borrowers has 
+evolved  into  a  highly  complex  network,  which  is  both  difficult  to  comprehend  and  a  major 
+source of uncertainty. This complexity of the financial network is illustrated in Figs. 16 and 
+17, in which the size of the nodes is proportional to the size of the balance sheet and the 
+thickness of the external lines measures the sum of the bilateral exposures. Fig. 16 shows 
+the  network  for  the  major  players  in  the  UK  financial  system,  while  Fig.  17  shows  a 
+corresponding map for the international financial system. 
+In the first instance, any losses that arise will be scored against an institution’s capital. But 
+when it reaches the point of default, the losses cascade through the network until they reach 
+intermediaries with enough capital to absorb them. And default itself amplifies losses in the 
+network, most obviously through direct bankruptcy costs, but also through fire sales of the 
+sort  already  discussed.  Moreover,  when  entities  are  highly  leveraged,  they  will  have  only 
+limited capacity to absorb losses, making such a cascade of defaults more prone to occur. A 
+similar network dynamic can occur when institutions are hit by a payment shock, such as the 
+drying up of wholesale funding that occurred at the start of the crisis and again around the 
+time of the collapse of Lehman’s. 
+The analysis of the behaviour of such financial networks is still very much in its infancy9. But 
+a key point material to regulatory design is that some types of network will be inherently more 
+stable than others, depending on both the nature of the network and the obligations on its 
+members.  For  instance,  a  network  where  all  institutions  are  of  similar  importance  and 
+exposures  are  evenly  spread  is  likely  to  be  relatively  stable,  as  the  consequences  of  an 
+adverse shock to any one institution will be spread widely and thinly. In contrast, as we saw 
+with the collapse of Lehman’s, networks in which there are a relatively small number of key 
+players are potentially very susceptible to the failure of a key player. By the same token, a 
+network  in  which  exposures  are  collateralised  or  can  be  netted  across  the  system  will  be 
+                                                 
+9   For more discussion of this issue, see Haldane (2009). 
+BIS Review 101/2009 
+ 11
+more stable than one where gross exposures are forfeited in the event of default, as in the 
+latter case the cascade through the network of the losses is likely to generate more failures 
+on the way. 
+All the discussion thus far relates to amplification within the financial sector. But what about 
+the  substantial  impact  on  the  real  economy?  The  IMF’s  estimate  of  total  financial  sector 
+write-downs in the advanced economies since the start of the crisis is around $4 trillion. If we 
+assume an annual marginal propensity to consume out of wealth of 5%, that suggests a fall 
+in demand of around $200 billion. But the loss in advanced country GDP relative to potential 
+is projected to be more than 10 times bigger than that. So we cannot come near to explaining 
+the “Great Contraction” purely in terms of wealth effects. 
+The  most  obvious  additional  mechanism  for  the  propagation  of  the  financial  crisis  into  the 
+real economy is through a “credit crunch” as banks tighten lending standards and with it the 
+supply  of  credit  to  businesses  and  households.  That  could  arise  both  because  lenders 
+correctly  realise  that  they  were  under-pricing  risk  and  because  of  a  need  for  them  to  de-
+leverage. Both the bank lending data and credit conditions surveys in the US, UK and euro 
+area  are  consistent  with  some  restriction  in  the  supply  of  credit  from  the  middle  of  2007 
+onwards. But there was little evidence of an additional very sharp tightening in the supply of 
+credit last autumn that could explain the sharp fall in activity in the six to nine months after 
+the collapse of Lehman’s in 2008Q4 and 2009Q1. 
+There are two candidate, and mutually inclusive, explanations for the large impact on output. 
+Expectations  of  future  credit  availability  may  have  worsened  sharply.  Or,  more  plausibly, 
+there  may  have  been  a  more  general  increase  in  uncertainty  as  a  result  of  the  near-
+meltdown  in  the  financial  sector,  leading  to  an  increase  in  precautionary  savings,  the 
+postponement of planned investment projects and a running down of inventories. But either 
+way, globalised supply chains ensured that the shock to demand was transmitted worldwide. 
+History suggests that downturns associated with financial crises tend to be both deeper and 
+longer-lasting 
+the 
+macroeconomic characteristics of the present financial crisis against preceding episodes in 
+both  advanced  and  emerging  market  economies.  Their  results  can  be  summarised  as 
+follows: asset price collapses tend to be deep and prolonged; the aftermath of banking crises 
+tend to be associated with substantial and prolonged falls in output; the downturns typically 
+lead to a substantial build-up in public debt; and the antecedents of the present crisis appear 
+remarkably  similar  to  those  in  previous  episodes.  Fig.  18  documents  some  similar  results 
+from  a  recent  IMF  (2008)  exercise,  showing  that  the  cumulative  output  loss  in  outright 
+recessions, as well as in milder slowdowns, on average tends to be almost twice as much if 
+preceded  by  a  financial  crisis.  The  results  of  Furceri  and  Mourougane  (2009)  suggest, 
+moreover, that part of this output loss is permanent; they find that the typical OECD financial 
+crisis knocks around 2% off potential output, which rises to 4% for deep crises. 
+These findings suggest that financial crises can have a material impact on both the dynamics 
+of  the  business  cycle  and  on  the  underlying  equilibrium  growth  path.  The  literature  on  the 
+“broad  credit  channel”  and  the  “financial  accelerator”  points  to  an  amplifying  effect  of 
+changes in firms’ financial health on their cost of capital. In particular, when borrowers have 
+less  collateral  they  face  a  higher  external  finance  premium  to  compensate  lenders  for  the 
+increased  monitoring  costs  (see  e.g.  Bernanke,  Gertler  and  Gilchrist,  1999).  But  the 
+quantitative magnitude of the effect in this type of model is usually relatively modest. And the 
+banks  in  this  class  of  model  are  simple  or  non-existent,  and  any  incentive  or  information 
+problems relate to the borrower, rather than the financial intermediary. 
+Instead, it seems likely that the adequacy of bank capital and the associated phenomenon of 
+financial sector de-leveraging are likely to play a central role. Capital is essential because it 
+is the means by which intermediaries persuade creditors that they will almost surely get their 
+money back. Increasing capital is one way to get leverage down; that is why governments in 
+the  US  and  other  affected  countries  forced  banks  to  raise  more  capital  privately  or  else 
+than  average.  Reinhart  and  Rogoff  (2008,  2009)  have  mapped 
+12 
+ BIS Review 101/2009
+accept injections of extra capital financed by the taxpayer. Extending guarantees on funding, 
+whether retail or wholesale, is another way to make creditors believe that they will get their 
+money back, as are measures to insure or quarantine the risky bad assets. 
+An  open  question  is  therefore  whether  the  banking  system  will  be  able  to  support  an 
+adequate volume of credit as the extensive network of public support is removed. If not, then 
+further attempts to de-leverage are possible. And de-leveraging through the restriction of new 
+loans  generates  a  positive  feedback  loop  analogous  to  that  through  asset  sales.  De-
+leveraging by restricting credit growth may be privately rational, but if every intermediary tries 
+to do the same, the result will be lower activity and higher defaults and little improvement in 
+leverage  ratios  –  what,  to  paraphrase  Keynes,  we  might  describe  as  the  “paradox  of  de-
+leveraging”. A recent insightful contribution from Gertler and Karadi (2009) explicitly captures 
+the role that de-leveraging can play in slowing a recovery when financial intermediaries need 
+to hold capital in order to convince creditors that they will be repaid. 
+Policy: cure and prevention 
+The  severity  of  the  financial  crisis  and  the  sharpness  of  the  contraction  in  activity  have 
+prompted an aggressive response by policy makers. I have already mentioned the measures 
+taken to support the banking system directly. Lack of time prevents me expanding further on 
+that topic. But it would be remiss if I did not say a few words about the response of central 
+banks. 
+The  first  action  has  been  to  offer  extensive  liquidity  support,  particularly  after  the 
+intensification of the crisis in the wake of the collapse of Lehman’s. Following Bagehot, the 
+classic guide for central banks in the face of a financial crisis is to lend freely against good 
+collateral at a penalty rate. Although the details of the operations differ, the central banks in 
+each  of  the  main  jurisdictions  have  followed  that  guide,  widening  both  the  range  of  the 
+collateral that are prepared to lend against and extending the tenor of the loans. In the United 
+States,  because  of  the  critical  importance  of  non-bank  financial  intermediaries  to  the  US 
+economy,  the  Federal  Reserve  has  also  extended  the  range  of  counterparties  that  it  is 
+prepared to deal with. As a result, the balance sheets of central banks have mushroomed 
+(see Fig. 19). 
+All of the key central banks have also cut their policy rates aggressively, so that both policy 
+rates and short-term market rates are close to their effective floor of zero. Before the crisis 
+erupted, and with policy rates averaging somewhere in the 4-5% range, most central bankers 
+would have thought they had plenty of room for manoeuvre to offset adverse demand shocks 
+by  cutting  policy  rates.  But  the  transmission  mechanism  of  monetary  policy  is  weakened 
+when  the  financial  system  is  trying  to  de-leverage.  Hence  central  banks  have  found 
+themselves needing to inject even more stimulus, taking them into unknown territory.  
+There are two primary options10 confronting a central bank that has reached the zero interest 
+rate lower bound, both of which seek to influence a wider range of asset prices. The first is to 
+provide a commitment to keep the policy rate low for a significant period into the future. This 
+approach had already been followed by the Federal Reserve earlier in decade, when it set 
+interest  rates  much  lower  than  suggested  by  a  Taylor  rule.  At  the  present  juncture,  the 
+Federal Reserve, the Bank of Canada and the Riksbank have all made explicit statements 
+that imply policy rates will remain low. 
+The  idea  behind  providing  such  commitments  is  that  they  both  pull  down  market  interest 
+rates  further  out  along  the  yield  curve  and  raise  expected  future  inflation.  Indeed,  in  the 
+canonical New Keynesian/New Classical DSGE model, this is the only way of stimulating the 
+                                                 
+10   King (1999) and Buiter and Panigirtzoglou (1999) discuss these and other more exotic approaches. 
+BIS Review 101/2009 
+ 13
+economy  at  the  zero  interest  rate  lower  bound,  as  the  impact  of  monetary  policy  is 
+completely summarised by the current and future path of the policy rate. A variation on this 
+theme, in essence adopted by the European Central Bank, is to provide unlimited financing 
+to the banking system at the policy rate at longer maturities than usual.  
+The  other  option  involves  the  outright  purchases  of  assets,  rather  than  the  normal 
+repurchase agreements (i.e. collateralised lending) undertaken by central banks. This may 
+involve the purchase of either government debt or a range of corporate assets. And they may 
+be financed by the issuance of extra central bank reserves, raising the monetary base. Or 
+they may be financed by the sale of other assets in which case there will be no effect on the 
+monetary  base.  The  Federal  Reserve  and  the  Bank  of  England  have  bought  both 
+government  and  private  assets,  though  with  different  emphases,  in  part  reflecting  the 
+different financial market structures. In particular, the Federal Reserve has bought significant 
+quantities of a variety of corporate assets, whereas the Bank’s purchases have been more 
+heavily concentrated on purchases of government debt. 
+The aim of purchases of corporate assets is to enhance market liquidity by having the central 
+bank stand ready to act as a backstop buyer. In so doing, it should bring down spreads over 
+government  bond  yields  by  reducing  liquidity  premia,  encourage  issuance  and  generally 
+improve  the  functioning  of  capital  markets.  Importantly,  the  central  bank  may  not  need  to 
+make a large volume of purchases to make a difference. The mere fact of credibly standing 
+ready to buy may be enough to have the desired impact. However, the central bank will be 
+taking private credit risk onto its balance sheet, potentially exposing itself – and indirectly the 
+taxpayer – to the risk of credit losses. So ultimately, this may be better thought of as a fiscal 
+action. 
+Purchases  of  government  debt  are  instead  intended  to  have  a  more  general  impact  by 
+pushing down bond yields. That, in turn, can be expected to push up a whole range of asset 
+prices as the sellers subsequently re-balance their portfolios. Rather than being considered 
+unconventional,  purchases  of  government  debt  financed  by  the  issuance  of  extra  central 
+bank money is really just a return to the classic monetary policy operation of the textbook: an 
+open  market  operation.  The  only  things  that  distinguish  the  present  operations  from  a 
+traditional open market operation are the circumstances under which they are taking place 
+and their scale. 
+The  mechanism  whereby  asset  purchases  are  supposed  to  influence  the  economy  are 
+absent  in  the  canonical  New  Keynesian/New  Classical  macroeconomic  model,  because  of 
+the assumption that the returns on interest-bearing assets all move in tandem and that any 
+risk  or  term  premia  are  constant.  The  rationale  for  asset  purchases  –  that  relative  asset 
+supplies  affect  asset  prices  and  returns  –  instead  lies  in  an  older  strand  of  the  literature, 
+dating back to Tobin (1969) and Brunner and Meltzer (1972)11. Under normal circumstances, 
+when the asset purchases are financed by the issuance of additional central bank money, 
+one  would  also  expect  the  increase  in  commercial  bank  reserves  to  lead  to  increased 
+lending. However, when banks are trying to de-leverage, such additional reserves are more 
+likely  to  be  hoarded.  That  appears  to  be  what  happened  during  the  Japanese  experiment 
+with  quantitative  easing  in  the  early  part  of  this  decade  and  a  similar  response  is  to  be 
+expected from banks at the current juncture. 
+The  initial  responses  in  the  United  Kingdom  to  these  measures  have  been  moderately 
+encouraging.  Government  bond  yields  fell  significantly  on  the  commencement  of  the 
+programme of asset purchases, and yields appear to be some 50-75 basis points lower than 
+they would otherwise be. And there are also signs of beneficial effects on conditions in the 
+relevant corporate credit markets. Meier (2009) provides a fuller assessment. But it is very 
+early  to  draw  conclusions  on  the  efficacy  of  these  measures,  as  the  transmission  lags 
+                                                 
+11   Andres, Lopez-Salido and Nelson (2004) is a rare recent contributions in this tradition. 
+14 
+ BIS Review 101/2009
+through to nominal spending are likely to be quite long. Moreover, even in some years time, it 
+will still be difficult to draw firm conclusions, as the counterfactual is bound to be uncertain. 
+But it will certainly provide fertile ground for future PhD theses.  
+Let me turn now to the lessons from the crisis regarding the conduct of monetary policy in the 
+future. In the run-up to the crisis, there was a lively debate regarding the right way to respond 
+to rapid credit growth and rising asset prices. On the one hand, economists at the Bank for 
+International  Settlements  and  others  (e.g.  Borio  and  White,  2003;  Cecchetti,  Genberg  and 
+Wadhwani, 2002) advocated “leaning against the wind” by raising interest rates above that 
+apparently  warranted  by  inflation  and  activity.  On  the  other  hand,  the  Federal  Reserve 
+espoused a policy of “benign neglect” coupled with aggressive relaxation in the event that 
+asset  prices  fell  sharply  (see  e.g.  Greenspan,  2002;  Bernanke  and  Gertler,  2001)  on  the 
+grounds that identifying an asset price bubble in its early stages was difficult and trying to 
+deflate an established one was dangerous.  
+The events of the past couple of years have clearly tipped the balance in favour of taking 
+pre-emptive action. And in a second-best world, where monetary policy is the only instrument 
+available  to  cool  a  credit/asset-price  boom,  then  that  may  well  make  sense.  Indeed,  an 
+inflation-targeting  central  bank  ought  to  be  willing  to  undershoot  its  target  in  the  medium 
+term, if it thereby improves its chance of meeting the target further out through the avoidance 
+of a disruptive bust (Bean, 2003). But monetary policy is a blunt weapon for this purpose, 
+and raising interest rates enough to cool a credit/asset-price boom that is in full swing is likely 
+to involve substantial collateral damage to real activity. 
+Instead,  with  an  additional  objective  in  the  shape  of  credit  growth/asset  prices  one  really 
+needs another instrument that has a stronger and more direct impact on credit growth and 
+asset  price  inflation  than  monetary  policy.  That  is  what  so-called  “macro-prudential 
+regulation” is supposed to achieve. 
+Most discussion in policy circles has so far revolved around introducing pro-cyclical capital 
+requirements,  or  its  close  cousin  dynamic  provisioning.  Thus  banks  would  be  required  to 
+build up extra capital/reserves during a credit/asset-price boom that can then be run down in 
+the event of a bust. This should reduce the incentive for banks to leverage up in a boom, as 
+well as making the financial system more robust in a bust. However, other instruments could 
+also  be  deployed  to  this  end.  For  instance,  credit/asset-price  booms  seem  to  be 
+characterised by an excessive shift into riskier forms of lending. In that case, an instrument 
+more directly targeted at the microeconomic distortion would be to increase the risk-weights 
+that are attached to such lending when computing banks' required capital. And, as we have 
+seen in the present crisis, a lot of the action has taken place outside banks' balance sheets. 
+In that case, varying margin requirements might be a more appropriate instrument for dealing 
+with vulnerabilities building up in the capital markets more generally. The best approach is 
+likely to involve a portfolio of instruments. 
+Once  the  instruments  have  been  identified,  a  host  of  other  questions  then  need  to  be 
+addressed.  Precisely  which  variables  should  the  instruments  vary  with  and  how  are  the 
+variations supposed to be calibrated? And once that has been answered, policy makers need 
+to  understand  both  the  macroeconomic  impact  of  the  instruments  and  how  their  operation 
+interacts with monetary and fiscal policies. 
+Everything I have said so far about macro-prudential regulation has been couched in terms 
+of moderating the impact of the credit cycle over time. But the earlier discussion of network 
+effects  highlighted  the  potential  role  played  by  large  and  highly  interconnected  financial 
+intermediaries,  graphically  illustrated  in  the  aftermath  of  the  collapse  of  Lehman's.  That 
+points to another role for macro-prudential regulation, namely to increase the robustness of 
+the  financial  system  by  requiring  systemically  important  intermediaries  to  carry  heavier 
+capital requirements. So the cross-section dimension adds another set of instrument design 
+issues. 
+BIS Review 101/2009 
+ 15
+Some lessons for the discipline 
+Let me conclude with some observations regarding the implications of the crisis for the future 
+development of our subject. In all probability, the Great Panic and the Great Contraction of 
+2008  will  join  the  Great  Depression  of  the  1930s  and  the  Great  Inflation  of  the  1970s  as 
+discipline-defining  events.  The  struggle  to  understand  and  deal  with  the  Great  Depression 
+led to the invention of macroeconomics as a distinct branch of the subject. In the case of the 
+Great Inflation, economic theory for once led events, with the development of the natural rate 
+hypothesis foreshadowing the subsequent take-off in inflation. But the subsequent decades 
+were  spent  with  refining  our  understanding  of  the  inflationary  process.  What  will  be  the 
+legacy of the Great Panic and the Great Contraction? 
+First, in my view it would be a mistake to look for a single guilty culprit. Underestimation of 
+risk born of the Great Moderation, loose monetary policy in the United States and a perverse 
+pattern of international capital flows together provided fertile territory for the emergence of a 
+credit/asset-price  bubble.  The  creation  of  an  array  of  complex  new  assets  that  were 
+supposed to spread risk more widely ended up destroying information about the scale and 
+location  of  losses,  which  proved  to  be  crucial  when  the  market  turned.  And  an  array  of 
+distorted incentives led the financial system to build up excessive leverage, increasing the 
+vulnerabilities when asset prices began to fall. As in Agatha Christie's Murder on the Orient 
+Express, everyone had a hand in it.  
+Second, the economics profession has oversold the virtues of unfettered financial markets. 
+We  usually  start  from  a  presumption  that  markets  work  best  when  they  are  left  to 
+themselves,  unless  there  are  obvious  market  failures  present.  By  the  same  token,  even 
+though not strictly the case in theory, we usually start from a presumption that expanding the 
+range  of  available  securities  is  beneficial.  Yet  that  has  resulted  in  a  deeply  unsatisfactory 
+outcome. 
+One view is that we need to bring psychology and the insights of behavioural economics into 
+the study of financial markets (e.g. Akerlof and Shiller, 2009). That may indeed be part of 
+producing a richer and more accurate description of financial market behaviour, particularly 
+in regard to expectations formation. But, as I hope my lecture this evening has made clear, 
+distorted incentives, information failings, collective action problems and network effects have 
+played a large part in recent events. Our standard analytic toolkit should get us a long way in 
+understanding what has happened. And that is one step on the road to avoiding a repeat. 
+Third, we need to pay more heed to the lessons of history. Financial booms and busts have 
+occurred  with  some  regularity  ever  since  the  Tulip  Mania  of  1636-7.  Yet  we  tend  to  treat 
+them as pathologies that happen at other times or in other places. Their frequency suggests 
+that we would be better advised to think of them as a central feature of capitalist economies 
+that our models should aspire to explain. 
+Fourth,  we  need  to  put  credit  back  into  macroeconomics  in  a  meaningful  way.  Financial 
+intermediaries  are  conspicuous  by  their  absence  in  the  workhorse  New  Keynesian/New 
+Classical  DSGE  model.  The  focus  is  on  intrinsic  dynamics  resulting  from  inter-temporal 
+decision-making  in  the  face  of  a  variety  of  adjustment  costs  and  impediments  to  price 
+adjustment; there are no financial frictions to speak of. That such a framework has developed 
+is unsurprising in the light of the Great Inflation and its subsequent Great Moderation. But the 
+fact that financial intermediation plays a negligible role in Mike Woodford's magisterial state-
+of-the-art opus, Interest and Prices, speaks volumes. 
+Some authors have sought to introduce financial frictions into the standard framework12. But 
+in virtually all of this literature, financial intermediaries – if present at all – are very simple 
+                                                 
+12  See  e.g.  Christiano,  Motto  and  Rostagno  (2008);  Curdia  and  Woodford  (2009);  Gerali,  Neri,  Sessa  and 
+Signoretti (2008); Goodfriend and McCallum (2007), as well as the earlier work on the broad credit channel 
+16 
+ BIS Review 101/2009
+institutions  and  any  incentive  or  information  problems  relate  to  the  borrower.  But  much  of 
+what  has  happened  recently  is  best  understood  in  terms  of  frictions  that  lie  within  the 
+financial  sector  itself.  Models  that  have  a  role  for  bank  capital  and  where  the  evolution  of 
+banks' balance sheets play a central role13, such as the recent contribution by Gertler and 
+Karadi (2009) mentioned earlier, come closest to providing a suitable framework for analysis. 
+However,  even  these  contributions  neglect  important  features  of  the  present  crisis. 
+Developing  macroeconomic  models  with  a  sufficiently  rich  specification  of  the  financial 
+intermediation sector that capture the variety of incentive distortions and information frictions 
+I have discussed this evening represents a challenging research agenda14. 
+Reintroducing the financial intermediation sector as a source of shocks, rather than merely 
+acting  as  an  amplifying  mechanism  as  the  broad  credit  channel  does,  would  represent 
+something  of  a  return  to  older  models  of  the  business  cycle,  in  which  credit  creation  and 
+destruction played a central role. There has, in particular, been renewed interest in the work 
+of Hyman Minsky as a result of recent events (see e.g. Minsky, 1982). In Minsky's theory of 
+endogenous financial booms and busts, prosperous times lead to an excess availability of 
+credit  and  the  gradual  development  of  credit-fuelled  asset-price  bubbles.  Financial  crises 
+result  when  those  debt  levels  become  excessive  –  a  so-called  “Minsky”  moment.  A  credit 
+crunch then ensues leading to a downturn in the real economy. Much of what I have said this 
+evening contains echoes of Minsky's theory. 
+As a student at Harvard, Minsky was a protege of Schumpeter, whose teaching influenced 
+him greatly. Schumpeter viewed credit as an essential ingredient of the capitalist machine. 
+He  would  surely  have 
+in 
+macroeconomics over the past forty years. And he would surely endorse the need to rectify 
+that omission now. So let me leave the final words to him: 
+“Credit creation [is] the monetary complement of innovation. This relation…is at the bottom of 
+all the problems of money and credit.” (Schumpeter, 1939, p.111) 
+the  downplaying  of 
+intermediation 
+regretted 
+financial 
+Bibliography 
+Adrian, T. and Shin, H.S. (2008), “Financial intermediaries, financial stability and monetary 
+policy”,  in  Maintaining  Stability  in  a  Changing  Financial  System,  pp.  287-334.  Federal 
+Reserve Bank of Kansas: Kansas City. 
+Aikman, D. and Paustian, M. (2006), “Bank capital, asset prices and monetary policy”, Bank 
+of England working paper 305. 
+Akerlof, G. A. and Shiller, R. J. (2009), Animal Spirits: How Human Psychology Drives the 
+Economy, and Why It Matters for Global Capitalism. Princeton University Press: Princeton. 
+Andrés, J., López-Salido, J. D. and Nelson, E. (2004), “Tobin’s imperfect asset substitution in 
+optimising  general  equilibrium”,  Federal  Reserve  Bank  of  St.  Louis  working  paper  2004-
+003A. 
+Borio, C. and White, W. (2003), “Whither monetary and financial stability? The implications of 
+evolving  policy  regimes”,  in  Monetary  Policy  and  Uncertainty:  Adapting  to  a  Changing 
+Economy, pp. 131-212. Federal Reserve Bank of Kansas City: Kansas City. 
+                                                                                                                                                         
+discussed in Bernanke, Gertler and Gilchrist (1999). There is also the strand of work stemming from Kiyotaki 
+and Moore (1997). 
+13   Other  recent  contributions  on  the  bank  capital  channel  include  Aikman  and  Paustian  (2006);  Chen  (2001); 
+Meh and Moran (2004); Van der Heuvel (2008). 
+14   Recent  contributions  with  richer  models  of  the  banking  sector,  but  less  developed  specifications  of  the 
+macroeconomy include Goodhart, Sunirand and Tsomocos (2005, 2006) and Uhlig (2009). 
+BIS Review 101/2009 
+ 17
+framework”, 
+Bean,  C.R.  (2003),  “Asset  prices,  financial  imbalances  and  monetary  policy:  are  inflation 
+targets enough?” in Asset Prices and Monetary Policy (eds. A. Richards and T. Robinson), 
+pp. 48-76. Reserve Bank of Australia: Sydney. 
+Bernanke,  B.  S.,  (2004),  “The  Great  Moderation”,  remarks  at  the  Eastern  Economic 
+Association, Washington, DC, 20 February. 
+Bernanke,  B.  S.,  (2005),  “The  global  saving  glut  and  the  US  current  account  deficit”, 
+Sandridge Lecture, Virginia Association of Economics, Richmond, Virginia, 10 March. 
+Bernanke, B. S., and Blinder, A.S. (1988), “Credit, money and aggregate demand”, American 
+Economic Review, vol. 78(2), pp. 435-439. 
+Bernanke, B., and Gertler, M. (2001), “Should central banks respond to movements in asset 
+prices?”, American Economic Review, May, 91(2), pp. 253-257. 
+Bernanke, B.S., Gertler, M., Gilchrist, S. (1999), “The financial accelerator in a quantitative 
+business  cycle 
+in  J.B.  Taylor  and  M.  Woodford  (eds.)  Handbook  of 
+Macroeconomics, pp. 1341-1393. North-Holland.  
+Buiter, W. H., and Panigirtzoglou, N. (1999), “Liquidity traps: How to avoid them and how to 
+escape them”, NBER working paper 7245. 
+Brunner, K. and Meltzer, A. (1972), “Money, debt and economic activity”, Journal of Political 
+Economy, vol. 80, pp. 951-977. 
+Brunnermeier, M. K. (2009), “Deciphering the liquidity and credit crunch 2007-8”, Journal of 
+Economic Perspectives, vol. 23(1), Winter, pp. 77-100. 
+Caballero,  R.  J.,  Farhi  E.  and  Gourinchas,  P-O  (2008),  “An  equilibrium  model  of  global 
+imbalances and low interest rates”, American Economic Review, vol. 98(1), pp. 358-393. 
+Caballero,  R.  J.,  and  Krishnamurthy,  A.  (2008),  “Collective  risk  management  in  a  flight  to 
+quality episode”, Journal of Finance, vol. 63(5), pp. 2195-2230. 
+Cecchetti,  S.,  Genberg,  H.,  and  Wadhwani,  S.  (2002),  “Asset  prices  in  a  flexible  inflation 
+targeting  framework”,  in  W.  Hunter,  G.  Kaufman  and  M.  Pomerleano,  eds.,  Asset  Price 
+Bubbles:  The  Implications  for  Monetary,  Regulatory  and  International  Policies.  Cambridge, 
+MA: MIT Press, pp.427-444. 
+Chen,  N.  K.  (2001),  “Bank  net  worth,  asset  prices  and  economic  activity”,  Journal  of 
+Monetary Economics, vol. 48(2), pp. 415-436. 
+Christiano, L. J., Motto, R. and Rostagno, M. (2008), “Financial factors in business cycles”, 
+mimeo, Northwestern University. 
+Clarida,  R.,  Gali,  J.  and  Gertler,  M.  (2000),  “Monetary  policy  rules  and  macroeconomic 
+stability:  evidence  and  some  theory”,  Quarterly  Journal  of  Economics,  vol.  115(1),  pages 
+147-180. 
+Cogley, T. and Sargent, T. (2005), ”Drifts and volatilities: monetary policy and outcomes in 
+the post-WWII US”, Review of Economic Dynamics, vol. 8, pages 262-302. 
+Curdia, V., and Woodford, M. (2009), “Credit frictions and optimal monetary policy”, mimeo. 
+Dooley, M.P., Folkerts-Landau and Garber, P. (2004), “The revived Bretton Woods system”, 
+International Journal of Finance and Economics, vol. 9, pp. 307-313. 
+Dowd,  K.,  Cotter,  J.,  Humphrey,  C.  and  Woods,  M.  (2008),  “How  unlucky  is  25-sigma?”, 
+Nottingham University Business School CRIS working paper 2008.III, March. 
+Freeman,  R.B.  (2008),  “Labor  market  imbalances:  Shortages,  surpluses  or  what?”,  in  J. 
+Sneddon  Little,  ed.,  Global  Imbalances  and  the  World  Economy,  pp.  159-182.  Federal 
+Reserve Bank of Boston: Boston.  
+18 
+ BIS Review 101/2009
+Furceri, D., and Mourougane, A. (2009), “The effects of financial crises on potential output: 
+New empirical evidence from OECD countries”, OECD Working Paper 699, May. 
+Gerali, A., Neri, S., Sessa, L., and Signoretti, F. M. (2008), “Credit and banking in a DSGE 
+model”, mimeo.  
+Gertler,  M.,  and  Karadi,  P.  (2009),  “A  model  of  unconventional  monetary  policy”,  mimeo, 
+NYU, April.  
+Goodfriend, M., and McCallum B.T. (2007), “Banking and interest rates in monetary policy 
+analysis: a quantitative exploration”, Journal of Monetary Economics 54(5), pp. 1480-1507.  
+Goodhart,  C.  A.  E.,  P.  Sunirand,  and  D.  Tsomocos  (2005),  “A  risk  assessment  model  for 
+banks”, Annals of Finance 1(2), pp.197-224. 
+Goodhart,  C.  A.  E.,  P.  Sunirand,  and  D.  Tsomocos  (2006),  “A  model  to  analyse  financial 
+fragility”, Economic Theory 27 (1), pp.107-42. 
+Gorton,  G.  (2008),  “The  panic  of  2007”  in  Maintaining  Stability  in  a  Changing  Financial 
+System. Federal Reserve Bank of Kansas, Kansas City, pp. 131-262. 
+Greenspan, A. (2002) “World Finance and Risk Management”, Speech at Lancaster House, 
+25 September. 
+Greenspan, A. (2002) “Opening Remarks” in Rethinking Stabilization Policy, pp.1-10. Federal 
+Reserve Bank of Kansas: Kansas City. 
+Haldane,  A.  G.  (2009),  “Rethinking  the  financial  network”,  Speech  at  Financial  Student 
+Association, Amsterdam, April. 
+International Monetary Fund (2008), World Economic Outlook, October. Washington, DC. 
+King,  M.A.  (1999),  “Challenges  for  monetary  policy:  New  and  old”,  New  Challenges  for 
+Monetary Policy. Federal Reserve Bank of Kansas, Kansas City, pp. 11-58. 
+Kiyotaki,  N.,  Moore,  J.  (1997),  “Credit  cycles”,  Journal  of  Political  Economy,  vol.  105(2), 
+pp.211-248. 
+Lubik,  T.  and  Schorfheide,  F.  (2004),  “Testing  for  indeterminacy:  an  application  to  US 
+monetary policy”, American Economic Review, vol. 94(1), pages 190-217. 
+Meier,  A.,  (2009),  “Panacea,  curse  or  non-event?  Unconventional  monetary  policy  in  the 
+United Kingdom”, IMF Working Paper, July. 
+Meh, C. and Moran, K., (2004), “The role of bank capital in the propagation of shocks”, Bank 
+of Canada Working Paper 2004-6. 
+Miller,  M.  H.,  Weller,  P.  A.  and  Zhang,  L.  (2002)  “Moral  hazard  and  the  US  stock  market: 
+Analysing the Greenspan put”, Economic Journal, vol. 112, pp. C171-C186. 
+Minsky, H. (1982), “The financial-instability hypothesis: Capitalist processes and the behavior 
+of the economy” in Kindleberger and Laffargue, editors, Financial Crises. 
+Reinhart, C. M. and Rogoff, K. S. (2008), “Is the US sub-prime financial crisis so different? 
+An international historical comparison”, American Economic Review, vol.98(2), pp. 339-344. 
+Reinhart,  C.  M.  and  Rogoff,  K.  S.  (2009),  “The  aftermath  of  financial  crises”,  American 
+Economic Review,  
+Schumpeter, J. A. (1939), Business Cycles: A Theoretical, Historical, and Statistical Analysis 
+of the Capitalist Process. New York: McGraw-Hill. 
+Sims,  C.  and  Zha,  T.  (2006),  “Were  there  regime  switches  in  US  monetary  policy?”, 
+American Economic Review, vol. 96(1), pages 54-81. 
+BIS Review 101/2009 
+ 19
+Stock,  J.  and  Watson,  M.  (2003),  “Has  the  business  cycle  changed?  Evidence  and 
+explanations”,  in  Monetary  Policy  and  Uncertainty,  pp.  Federal  Reserve  Board  of  Kansas 
+City: Kansas City. 
+Taylor,  J.  B.  (2007),  “Housing  and  monetary  policy”  in  Housing,  Housing  Finance  and 
+Monetary Policy, pp. 463-476. Federal Reserve Bank of Kansas City: Kansas City. 
+Taylor, J. B. (2009), “The financial crises and the policy responses: An empirical analysis of 
+what went wrong”, NBER working paper 14631, January. 
+Tobin,  J.  (1969),  “A  general  equilibrium  approach  to  monetary  theory”,  Journal  of  Money, 
+Credit and Banking, vol. 1(1), pp15-29. 
+Uhlig, H (2009), “A model of a systemic bank run”, NBER working paper 15072. 
+Van  den  Heuvel,  S.J.  (2008),  “The  welfare  cost  of  bank  capital  requirements”,  Journal  of 
+Monetary Economics, vol. 55, pp. 298-320. 
+White, W. R. (2006), “Is price stability enough?”, Bank for International Settlements working 
+paper 205, April. 
+Woodford,  M.  (2003),  Interest  and  Prices:  Foundations  of  a  Theory  of  Monetary  Policy. 
+Princeton University Press: Princeton. 
+ 
+ 
+ 20 
+  BIS Review 101/2009
+ BIS Review 101/2009 
+   21
+ 22 
+   BIS Review 101/2009
+ BIS Review 101/2009 
+   23
+ 24 
+   BIS Review 101/2009
+    BIS Review 101/2009 
+ 25
+ 26 
+   BIS Review 101/2009
+   BIS Review 101/2009 
+ 27
+ 28 
+   BIS Review 101/2009
+ BIS Review 101/2009 
+   29
+ 30 
+ BIS Review 101/2009

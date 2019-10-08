@@ -1,0 +1,520 @@
+Fabio Panetta: Macroprudential tools – where do we stand? 
+Remarks  by  Mr  Fabio  Panetta,  Deputy  Director  General  of  the  Bank  of  Italy,  during  the 
+presentation  of  the  2013  Financial  Stability  Review,  Central  Bank  of  Luxembourg, 
+Luxembourg, 14 May 2013. 
+ It 
+therefore, 
+is  essential, 
+Introduction 
+1. 
+I  would  like  to  thank  the  Banque  Centrale  du  Luxembourg  (BCL)  for  inviting  me  to  this 
+conference. It  is  a  pleasure to  be  here,  and  to  discuss the  challenges associated with the 
+implementation of macroprudential (MAP) policy. It  is  a  very topical subject. The unusually 
+expansionary  stance  of  monetary  policy  in  the  major  regions  is  putting  pressure  on 
+asset prices and, in a context of weak economic activity and low inflation, may soon require 
+appropriate  macroprudential  measures. 
+to  deepen  our 
+understanding of MAP policy implementation and the optimal choice of MAP tools. 
+The debate on MAP policy that is taking place in academic and policy circles has produced 
+consensus  on  a  few  issues.  First,  macroprudential  policy  should  aim  to  contain systemic 
+risk. However, this is by no means a univocal statement of objectives, as systemic risk  has 
+multiple  facets,  and  defies  clear  measurement.  Even  the  usual  distinction  between  the 
+cross-sectional  dimension  and  the  time-series  dimension  of  systemic  risk,1  although 
+conceptually important,  does  not  provide  an  operational definition  of  the  objective  of  MAP 
+policy.  Second,  MAP  policies  have  important  interactions  with  other  policies,  such  as 
+monetary  and  fiscal  policy,  and  microprudential  policy.  Yet,  these  interactions  are  largely 
+unexplored. Third, selected MAP instruments seem to have some effectiveness. However, the 
+experience  gathered  thus  far  on  the  use  of  these  instruments  is  still  limited,  and  refers 
+largely to developing economies. 
+This  brief  discussion  suggests  that  in  spite  of  the  progress  made,  our  understanding  of 
+MAP  tools  and  their  impact  on  the  financial  system  and  the  real  economy  remains  very 
+incomplete. Several  important  questions  await  an  answer.  For  example,  when  imbalances 
+emerge, should we prefer broad-based or narrow instruments? How to monitor and minimize 
+elusion? What definition of the various instruments (e.g. the LTV) should be used? Do MAP 
+authorities have the statistical information or the legal basis to implement MAP policies? The 
+European Systemic Risk Board (ESRB) recently found that, as of September 2012, only two 
+countries were fully compliant with its recommendation on the macroprudential mandate of 
+national  authorities,  suggesting  that  the  answers  to  the  previous  questions  are  at  best 
+unclear. Moreover, a survey on euro-area countries recently conducted by the Bank of Italy 
+indicates  a  surprisingly  poor  state  of  affairs  concerning  statistics  on  residential  LTVs: 
+information  is  often  of  poor  quality  or  even  missing  altogether.  Definitions  are  barely 
+harmonized across countries. 
+Clearly, substantial progress is still necessary in this field. Given our limited experience,  we 
+must  rely  on  a  learning-by-doing  approach:  start  experimenting  with  MAP  tools  and 
+observe the consequences, focusing on (not-so-glamorous) technical details. 
+My  comments  today  are  devoted  to  operational  issues.  I  will  focus  on  three  aspects  in 
+particular.  First,  I  shall  briefly  look  at  recent  experience  with  MAP  tools  (Section  2).  I  will 
+                                                 
+1   The  cross-sectional  dimension  of  systemic  risk  refers  to  the  interconnectedness  and  common  exposures 
+in  the  financial  system,  while  the  time-series  dimension  refers  to  the  pro-cyclicality  of  the  financial 
+system.  See,  for example, Bank of England (2009), “The Role of Macroprudential Policy”, Discussion Paper, 
+November;  C. Borio  (2010),  Implementing  a  macroprudential  framework:  Blending  boldness  and  realism, 
+BIS;  J.  Caruana  (2010), Systemic risk: how to deal with it?, BIS, February. 
+BIS central bankers’ speeches 
+ 1
+then  review  some  conceptual  issues  on  the  implementation  of  MAP  tools  (Section  3).  In 
+Section 4 I will focus on operational challenges in the euro area. Conclusions are drawn in 
+Section 5. 
+Previous experience with macroprudential tools 
+2. 
+Most  of  the  previous  experience  in  practical  implementation  of  MAP  policies  relates  to 
+emerging/non-G10  economies,  such  as  South  Korea,  Brazil,  Turkey,  and  several  others.2 
+By  contrast,  experience  in  developed  economies  is  very  limited.  Exceptions  are  Spain, 
+where  dynamic  provisioning  has  been  applied  since  2000;  Switzerland,  which  recently 
+introduced  countercyclical  capital  requirements;  New  Zealand,  which  has  autonomously 
+applied a structural liquidity measure similar to the Basel III Net Stable Funding Ratio; and 
+the  UK, where  a  fully-fledged operational  framework  for  MAP  policy has  been  set  up  and 
+the  authorities  are  ready  to  start  experimenting  with  countercyclical  and  sector-specific 
+capital requirements. Many other countries are likely to enter this uncharted territory, partly 
+in connection with the implementation of Basel III. 
+The  non-advanced economies’ lead  in  applying MAP  policies is  probably due  to  two  main 
+reasons.  First,  these  economies  started  pioneering  MAP  tools  following  the  systemic 
+crises  and  severe  financial  instability  episodes  experienced  since  the  1990s.  By  contrast, 
+most  developed  countries  started  considering  MAP  tools  only  after  the  Global  Financial 
+Crisis and in most cases have not yet used them in practice. With the benefit of hindsight, we 
+now know that the cushions accumulated in the run-up to the crisis (capital buffers, liquidity 
+reserves) were too small, so that when the crisis erupted there was little that policymakers 
+could do in the way of releasing instruments in a countercyclical fashion. In other words, in 
+many countries MAP policies were “at their lower bound”, leaving little room for policy action.3 
+Second,  the  distinction  between  MAP  measures  and  unsophisticated  monetary  policy 
+measures  is  often  not  clear-cut.  At  least  some  policies  and  tools  that  are  labelled 
+“macroprudential”  in  emerging  economies  were  de  facto  substituting  for  insufficiently 
+developed  monetary  policy  frameworks.  This,  for  example,  is  the  case  of  reserve 
+requirements  and  quantitative  limits  on  credit.4  Hence,  the  available  empirical  evidence 
+from  emerging economies about MAP policy effectiveness may have to be interpreted with 
+caution. 
+This  caveat  notwithstanding, the  available  empirical  evidence  suggests  that  MAP  tools  do 
+have  some  effectiveness.5  Moreover,  recent  research  conducted  at  the  Bank  of  Italy 
+                                                 
+2   These  countries  experienced  both  time-varying  and  structural  measures.  For  example,  the  Brazilian 
+authorities  have  experimented  with  capital  requirements  on  new  loans  to  households  and  reserve 
+requirements; Turkey with foreign- exchange intervention and policy-induced volatility on short-term rates (to 
+counteract large capital inflows), reserve requirements, LTV limits, and increases in risk-weights and general 
+provisions on new consumer loans. Korea has implemented LTV and DTI limits on mortgage lending, levies 
+on non-core foreign exchange liabilities and ceilings on  banks’  foreign  exchange  derivatives positions.  Hong 
+Kong  has  also  used  LTV  and  debt  servicing  ratios  and  haircuts  on  share  margin  financing  and  repo 
+transactions. 
+3   P.  Angelini,  S.  Nicoletti-Altimari  and  I.  Visco  (2013),  “Macroprudential,  microprudential  and  monetary 
+policies:  conflicts,  complementarities  and  trade-offs”,  in  Stability  of  the  Financial  System  –  Illusion  or 
+Feasible  Concept?, edited by A. Dombret and O. Lucius, Edward Elgar, and Bank of Italy, Occasional Papers, 
+140, November (2012). 
+4   For example, in Italy, administrative controls on loans were used to steer monetary policy in the 1970s, when 
+there was no liquid money market. Reserve requirements were used to absorb excessive monetary base. 
+5   Among  others,  see  G.  Dell’Ariccia,  D.  Igan,  and  L.  Laeven  (2008),  “Credit  Booms  and  Lending 
+Standards: Evidence from the Subprime Mortgage Market”, CEPR Discussion Papers  6683; G. Dell’Ariccia, 
+D. Igan, L. Laeven, and H. Tong with B. Bakker and J. Vandenbussche (2012), “Policies for Macroprudential 
+Stability: How to Deal with Credit Booms”, IMF Staff  Discussion Note 12/6; C.H. Lim, F. Columba, A. Costa, 
+P.  Kongsamut,  A. Otani, M. Saiyid, T. Wezel, and X. Wu (2011), “Macroprudential Policy: What Instruments 
+2 
+ BIS central bankers’ speeches
+and elsewhere, also using theoretical calibrated or estimated models, finds that cooperation 
+between monetary and macroprudential policies in  targeting financial imbalances may lead 
+to significant gains.6 
+All in all, in developed and emerging economies alike, there seems to be a lot to learn in this 
+field:  about  the  true  degree  of  independence  of  MAP  tools  from  other  policies;  about  the 
+independence  of  the  various  MAP  tools  from  each  other.  And  about  some  important 
+conceptual  and  practical  issues  that  deserve  attention  to  make  MAP  instruments  fully 
+operational, an issue to which I turn in the next two sections. 
+Conceptual issues on the use of macroprudential tools 
+3. 
+Lists of potential MAP tools have been drawn up by many authorities.7 The ESRB has put up 
+for  internal  use  a  list  so  exhaustive as  to  earn  the  label  “the  yellow  pages”.  But  nowhere 
+more  than  in  this  field  is  actual  progress  likely  to  come  from  a  learn-by-doing  approach. 
+Therefore, in this section I will focus on some of the issues that might challenge the effective 
+implementation of MAP policy, such as 1) the scope of application of MAP tools and the risk 
+of  policy  circumvention  and  leakages;  2)  the  possibility of  symmetric  (versus  asymmetric) 
+impact  of  the  MAP  measures;  and  3)  the  speed  at  which  policy  tools  can  be  adjusted. 
+Finally, in Section 4 I shall discuss a number of operational challenges in Europe. 
+3.1 
+Scope of application of MAP tools: broad or targeted? Circumvention and 
+leakages 
+Broad  versus targeted  instruments. A first issue relates to the scope of application of MAP 
+tools.  Some  instruments  are  system-wide,  and  therefore  well-suited  to  lean  against  the 
+build-  up  of  imbalances  or  risks  in  the  entire  financial  system.  For  instance,  during  a 
+generalized  credit  bubble  system-wide  countercyclical  capital  buffers,  or  liquidity  and 
+reserve  requirements,  are  likely  to  be  effective  in  curbing  the  build-up  of  risks  and 
+endowing  the  system  with  loss  absorption  capacity.  However,  they  can  be  blunt  tools  to 
+counter a sector- specific  overheating.  In  this  case,  the  tightening  required  for  a  system-
+wide  tool  to  work would be unrealistically high, not cost-effective and rife with side-effects. 
+Targeted  instruments  may  be  more  suitable  for  dealing  with  risks  arising  in  particular 
+segments  or  subsectors  of  the  financial  system  (examples  are  sector-specific  capital 
+requirements,  LTVs,  and  limits  on  foreign  exposures).8 However,  targeted  measures  tend 
+                                                                                                                                                      
+and  How  to  Use  Them?  Lessons  from  Country  Experiences”,  IMF  Working  Papers  11/238;  G.  Terrier, 
+R.O. Valdés,  C.E.  Tovar,  J.A.  Chan-  Lau,  C.  Fernández-Valdovinos,  M.  García-Escribano,  C.  Medeiros, 
+M. Tang,  M.  Vera  Martin,  and  C.W.  Walker (2011), “Policy Instruments to  Lean Against the Wind in  Latin 
+America”, IMF Working Papers  11/159. 
+6   P. Angelini, S. Neri, and F. Panetta (2011), “Monetary and Macroprudential Policies”, Bank of Italy Working 
+Paper 801; Angelini, Nicoletti-Altimari and Visco, (2013), op. cit.; L. Gambacorta and F.M. Signoretti (2013), 
+“Should Monetary Policy Lean against the Wind? An analysis based on a DSGE model with banking”, Bank 
+of Italy, Working Paper,  forthcoming; S. Claessens, K. Habermeier, E. Nier, H. Kang, T. Mancini-Griffoli, and 
+F.  Valencia  (2013),  “The  Interaction  of  Monetary  and  Macroprudential  Policies”,  IMF  Policy  Paper; 
+O. Blanchard,  G.  Dell’Ariccia  and  P.  Mauro  (2013),  “Rethinking  Macro  Policy  II:  Getting  Granular”,  IMF 
+Staff  Discussion Note, 13/03. 
+7   The  set  of  core  instruments  includes  the  countercyclical  bank  capital  buffer,  envisioned  in  the  Basel  III 
+regulation; changes in  sectoral risk  weights, a  tool recently assigned to  the  UK Financial policy committee; 
+limits on loan-to- value, on debt-to-income ratios; and so on. 
+8   The  scope  of  the  instruments  can  be  very  narrow,  to  the  point  that  one  may  question  whether  they  are 
+really  macroprudential  in  nature.  For  example,  in  Korea  LTV  limits  were  envisaged  for  mortgages  in 
+specific  areas  of Seoul, where real-estate conditions were considered speculative. See D. Igan and H. Kang 
+(2011),  “Do  Loan-to-Value  and  Debt-to-Income  Limits  Work?  Evidence  from  Korea”,  IMF  Working  Paper 
+11/297. 
+BIS central bankers’ speeches 
+ 3
+to  be  more  prone  to  two  related  problems:  circumvention/elusion  and  leakages/waterbed 
+effects. 
+Circumvention/elusion  occurs  when  the  agents  to  which  the  policy  measure  is  directed 
+find ways to mitigate or even neutralize it. Leakages/waterbed effects arise when the agents 
+to which the measure is directed are fully affected, but other sectors are also affected and 
+adjust  their  behaviour so  as  to  contain  the  impact  of  the  measures. Due  to  these  effects, 
+MAP policy can at best lose effectiveness; at worst, it can exacerbate imbalances in parts of 
+the system. 
+Circumvention/elusion. Macroprudential  tools  and  policies  are  prone  to  circumvention, but 
+this is also true of most regulation. Is  there anything that makes MAP tools different? Two 
+remarks are in order. 
+First,  the  problem  of  circumvention  tends  to  be  more  acute  when  MAP  measures  are 
+targeted. A few examples may help to clarify this claim. First, consider the case of LTV limits 
+on  mortgages.  Faced  with  these  limits,  banks  may  use  alternative  products,  such  as 
+personal loans, to expand their real-estate exposure beyond the established limits, reducing 
+the measure’s effectiveness. Similarly, intermediaries may circumvent sector-specific capital 
+requirements  by  extending  personal  loans  to  entrepreneurs  rather  than  to  their  firms, 
+hence avoiding additional capital absorption. By the same token, borrowers may elude limits 
+on  the  debt-to-income  (DTI)  ratio  by  tapping  multiple  lenders,  who  have  no  way  of 
+controlling  circumvention  unless  a  central  credit  register  is  in  place.  Even  where  such  an 
+infrastructure  exists,  the  borrower  would  still  be  able  to  elude  the  limit  by  having  other 
+household members apply for the loan. 
+Finally, consider also the case of instruments targeted to maturity mismatches, such as the 
+limit on long-term foreign currency lending established in South Korea in the 1990s: at least 
+70  per  cent  of  foreign-currency  loans  with  maturity  above  3  years  had  to  be  matched 
+by foreign currency liabilities with the same maturity threshold. As Korean banks had little if 
+any  access  to  long-term  foreign  currency  funding,  they  entered  funding  contracts  with 
+maturity of 3  or  more  years  but  with  early  reimbursement clauses,  so  that  in  practice  the 
+maturity was much shorter (1 year or so).9  This allowed them to borrow at relatively cheap 
+rates, formally complying with the regulation but de facto eluding it. 
+My second  remark is  that  elusion is  more  likely to  occur during cyclical upturns. Consider 
+again  one  of  the  above  examples:  lenders  know  well  that  the  credit  risk  of  lending  to  an 
+entrepreneur is the same as that of lending to his/her firm. When optimism prevails and risk 
+aversion  is  low,  they  will  be  more  willing  to  overlook  prudency.  Indeed,  elusion  requires 
+lenders and borrowers to  collude, and this tends to be more likely in the positive phase of 
+the business cycle, exactly when the tightening measures should be taken. As I shall argue 
+below, this may have consequences for the effectiveness of MAP policies over the cycle. 
+Leakages/waterbed effects.  A related problem is the risk of leakages (or waterbed effects), 
+which occur when MAP policy measures propel imbalances elsewhere in the system. This is 
+also  a  special  case  of  the  tendency  of  regulation  to  push  activity  towards  the  less 
+regulated  part  of  the  financial  system  (such  as  the  shadow  banking  system).  But  the 
+effect  may also arise within the regulated financial system. For example, in the UK, between 
+1998 and  2007, the  resident  branches  of  foreign  banks  –  which  unlike  subsidiaries,  are 
+not  subject  to  host  country  regulation  –  increased  lending  in  response  to  tighter  capital 
+requirements  on  domestic  regulated  banks,  thereby  offsetting  about  one  third  of  the 
+tightening  manoeuvre.10  The  reciprocity  arrangements  included  in  the  Basel  III  package 
+                                                 
+9   J.  Kyu  Lee  (2013), “The  Operation of  Macroprudential Policy Measures: The  Case  of  Korea in  the  2000s”, 
+Bank of Korea Working Paper,  2013–1. 
+10   S.  Aiyar,  C.W.  Calomiris,  and  T.  Wieladek  (2012),  “Does  macropru  leak?  Evidence  from  a  UK  policy 
+experiment”, Bank of England Working Paper  No. 445. 
+4 
+ BIS central bankers’ speeches
+to  elude  sector-specific  capital  requirements  or  LTV 
+and  the  CRD-IV/CRR package address  the waterbed  effect  for the Countercyclical  Capital 
+Buffer, although  other  tools remain uncovered by formal reciprocity provisions. 
+What  are  the  solutions?  What,  if  any,  are  the  solutions  to  circumvention  and  waterbed 
+effect? There clearly is no silver bullet, but policies can help to mitigate problems. 
+First,  effective  micro  supervision can  go  a  long  way  towards  addressing circumvention. In 
+particular, a system that relies heavily on on-site inspections would create a strong deterrent 
+against  elusive  behaviour.  Refer  to  one  of  the  above  examples,  in  which  a  bank  uses 
+personal  loans 
+limits:  on-site 
+inspections would very likely uncover this  behaviour. Effective supervision would also  alert 
+the  authorities  to  waterbed  effects,  allowing  them  to  take  swift  corrective  action.  While 
+effective supervision and extensive on-site inspections are costly, for both the supervisor and 
+the intermediaries, the crisis has demonstrated that the cost of inadequate supervision can 
+be huge. To the extent that elusion requires collusion between lenders and  borrowers, on-
+site  supervision  should  be  intense also during positive phases of the business or financial 
+cycle. 
+Second, in response to elusion and waterbed effects, authorities may broaden the scope of 
+their  policies,  e.g.  with  the  simultaneous  use  of  complementary  macroprudential  tools, 
+rather  than  a  single  targeted  tool.  The  possibility  to  circumvent  an  LTV  limit  could  be 
+substantially reduced if it were used together with a DTI limit consolidated at borrower level. 
+In  fact,  while  the  former  would  limit  the  loan  exposure  relative  to  the  collateral  value,  the 
+latter would constrain the level of  overall lending to  each given customer based on his/her 
+income. A similar argument can also be made for the sector-specific capital requirements and 
+DTI.11 
+Third,  authorities  can  extend  the  perimeter  of  regulation  dynamically  in  order  to  include 
+segments  of  the  system  that  have  become  systemically  relevant  (UK  legislation  has 
+granted  this  power to  the FPC).12  In  this  respect, the  comprehensive approach adopted in 
+Italy  –  where  all  financial  intermediaries  are  subject  to  supervision,  with  appropriate 
+proportionality – has some merits.13 
+Finally, it  should be clear from the above examples that effective cross-border cooperation 
+among authorities is another important method of fighting spillovers. My assessment is that at 
+present, unfortunately, centrifugal forces seem to prevail, in Europe as elsewhere. 
+Is the functioning  of macroprudential tools symmetric or asymmetric? 
+3.2 
+Another issue to address in order to make MAP tools operational relates to their symmetric 
+or  asymmetric effectiveness along  the  financial  cycle.  The  premise  is  that  MAP measures 
+are effective if and only if they impose – or remove – economically binding limits, that is, if 
+they  are  more  stringent  than  the  constraints  imposed  on  intermediaries  by  voluntary 
+decisions or by market pressures. For example, if during recessions risk aversion or market 
+pressures  raise  banks’  desired  capital  ratios  above  regulatory  thresholds  (a  situation 
+that  applies  to  many  economies  in  the  current  environment),  a  policy  of  releasing  capital 
+constraints  (e.g.  via  the  countercyclical buffer)  would  have  no  effect:14 the  authority would 
+find itself pushing on a string. This reasoning suggests two considerations. 
+                                                 
+11   As pointed out by Blanchard et. al. (2013), op. cit. 
+12   Bank  of  England  (2013),  The Financial  Policy  Committee’s powers  to  supplement capital  requirements,  A 
+Draft Policy Statement, January. 
+13   Under this approach, regulatory and supervisory actions are proportional to the intermediary’s importance. 
+14   D.  Diamond  and  R.G.  Rajan  (2009),  “The  Credit  Crisis:  Conjectures about  Causes  and  Remedies”,  NBER 
+Working  Paper  No.  14379;  R.G.  Rajan  (2005),  “Has  Financial  Development  Made  the  World  Riskier?”, 
+NBER Working Paper  No. 11728. 
+BIS central bankers’ speeches 
+ 5
+First, MAP tools should in principle be more effective during upswings of the financial cycle: 
+when  optimism  prevails,  market  constraints  are  weaker  and  banks  typically  hold  less 
+excess  capital  or  liquid  buffers.  However,  as  already  mentioned,  during  such  times 
+incentives  towards  elusion  are  likely  to  be  stronger.  These  two  offsetting  effects  make  it 
+hard to gauge whether MAP instruments are more effective during upturns than downturns. 
+Second, for an effective release of some MAP tools in bad times, there must have been an 
+adequate tightening in good times. This is vividly illustrated by the behavior of capital ratios 
+during the current crisis. Large banks, typically endowed with thin capital buffers, reacted to 
+the downturn by increasing capital procyclically. By contrast, small banks, which entered the 
+crisis with large capital buffers, effectively acted as stabilizers. There is clear evidence of this 
+behaviour for both the US and the European banking systems (see Figure 1).15 
+The  IMF  has  recently analysed the  degree of  symmetry of  MAP  policies, without reaching 
+firm conclusions. In the 36 countries examined, between 2000 and 2011 the cases of policy 
+tightening  far  outnumbered  the  episodes  of  loosening.  Most  of  the  loosening  measures, 
+often consisting  in  the  relaxation  of  previously tightened  instruments,  occurred  after  2008. 
+The  econometric  exercise  is  inconclusive  on  whether  MAP  measures  have  symmetric  or 
+asymmetric  effects,  but  the  results  have  to  be  interpreted  with  caution,  as  the  incidence 
+of loosening events may be too small to detect statistically significant differences.16 
+Adjustment of policy tools: speed, size 
+3.3 
+The speed at which policy tools can be adjusted also deserves attention. In the Netherlands, 
+a recent decision by the government (contained in the 2012 Stability Programme) forsees a 
+gradual lowering of the maximum LTV ratio from 106 per cent in 2012 to 100 per cent. The 
+decline  is  expected  to  take  place  at  a  pace  of  about  1  percentage  point  per  year.  As  a 
+comparison,  in  Italy  the  average  LTV  declined  by  almost  10  percentage  points from 2006 
+to 2012 – about 1.6 percentage points per year. This is a much faster adjustment – note that 
+it  was  not  driven  by  the  regulator,  but  by  banks’  autonomously  adopted  policies. What is 
+the  right  adjustment  speed?  A  look  at  housing  market  cycles  provides  insights  in  this 
+respect.  Both  upturns  and  downturns  in  housing  cycles  in  advanced  countries  last  on 
+average  around  5  years.17  This  suggests  that  the  tightening  pace  adopted  in  the 
+Netherlands  might  be  too  slow,  with  risks  that  the  countercyclical  policy  could  be  fully 
+effective only at the turning point of the cycle. This is not a criticism;18 I just mean to illustrate 
+a general point. My assessment is that our knowledge in this area is particularly poor, and 
+that we must make the most of the empirical evidence that will accumulate from future policy 
+experiments. 
+The speed of adjustment is  clearly related to the  size of the adjustment. For example, the 
+countercyclical capital buffer will have to be managed taking into account that an increase, 
+say,  will  affect  all  banks  at  the  same  time.  Therefore,  a  sudden,  sharp  increase  could 
+                                                 
+15   S.G.  Hanson,  A.K.  Kashyap,  and  J.C.  Stein  (2011),  “A  Macroprudential  Approach 
+to  Financial 
+Regulation”, Journal  of Economic Perspectives, 25(1): 3–28 and Angelini, Nicoletti-Altimari and Visco (2013), 
+op. cit.. 
+16   E.  Nier,  H.  Kang,  T.  Mancini-Griffoli, H.  Hesse,  F.  Columba,  R.  Tchaidze,  and  J.  Vandenbussche  (2012), 
+“The  Interaction  of  Monetary  and  Macroprudential  Policies  –  Background  Paper”,  IMF  Policy  Paper.  The 
+analysis  suggests  that  the  effect  on  credit  growth  of  changing  the  reserve  requirement  is  stronger  when 
+loosening  than  when  tightening.  On  the  other  hand,  the  effect  on  house  prices  of  changing  LTV  ratios  is 
+stronger for tightening than for loosening. For the other macroprudential tools considered there is no significant 
+difference. 
+17   S. Claessens, A. Kose, M. Terrones (2011), “Financial Cycles: What? How? When?”, IMF Working  Papers, 
+11/76. 
+18   The  policy  move  in  the  Netherlands  may  be  structural  in  nature,  since  LTVs  exceeding  100  per  cent  are 
+probably questionable apart from cyclical considerations. 
+6 
+ BIS central bankers’ speeches
+send  many  banks  scrambling  for  funds  at  the  same  time,  generating  a  system-wide 
+dearth  of capital. Of course, this makes this tool potentially very powerful. 
+Operational challenges in Europe 
+4. 
+Let me now turn to two practical aspects in the implementation of macroprudential tools on 
+which significant progress is required, with a focus on Europe. 
+Gaps  in the statistical  framework 
+4.1 
+One  not  very  glamorous  but  key  issue  is  the  question  whether  statistical  reporting  is 
+adequate to  help  ensure  policy implementation and  instrument effectiveness. Consider the 
+housing  market.  Housing  market  cycles  differ  substantially  across  countries  (Figure  2), 
+suggesting  that  MAP  policies  aimed  at  curbing  problems  of  overheating  in  the  real-
+estate sector should be tailored to the national situation. The regulation being finalized in the 
+EU  (CRD-IV/CRR)  properly  allows  for  national  leeway.  In  line  with  this  evidence,  a 
+recent survey  among  euro-area  NCBs,  conducted  by  the  Bank  of  Italy  and  presented  in 
+our  latest  Financial  Stability Report,  shows  that  there  is  substantial  dispersion  of  average 
+LTV ratios in the euro area.19 Ratios on new loans in 2011 ranged from below 60 per cent in 
+some countries to more than 100 per cent in others (Figure 3; one must bear in mind that 
+LTV is not yet a MAP instrument in most EU countries). 
+There is  also significant heterogeneity in the underlying statistics. For  example, the survey 
+just  mentioned  showed  differences  with  regard  to  the  LTV  definitions  and  the  methods  of 
+collecting  and  aggregating  data  across  Europe.  Should  the  value  of  the  real  estate  be 
+recorded at  mortgage  issuance?  Or,  should  it  be  updated?  If  so,  how?  Should  there  be 
+a  difference between first homes and other houses? The list could continue. Each different 
+answer  to  any  of 
+these  questions  may  give  rise  to  methodological  differences  in 
+computed  LTVs.  These  discrepancies  hamper  cross-country  comparisons;  going  forward, 
+they can hinder MAP implementation and coordination among the euro-area countries. Work 
+to harmonize statistics in this field is beginning in the light of the forthcoming establishment 
+of the Single Supervisory Mechanism (SSM). 
+Consider next non-performing loans (NPLs). These are arguably key pieces of information for 
+micro as well as for macroprudential policies. But lack of a harmonized definition, even at the 
+European level,  prevents  robust  cross-country comparisons. As  an  example, the  definition 
+used  by Italian banks –  which is  set  by the  Bank of  Italy –  is  generally broader and  more 
+rigorous than elsewhere in  Europe.20  Our analyses show that, controlling for  differences in 
+the  way  collateralized  positions  are  treated  in  the  definition  of  NPLs,  Italian  banks  would 
+display  on  average  substantially  better  NPL  and  coverage  ratios  (Figure  4).  Also,  the 
+dynamics of  the two  ratios  would  change  substantially: whereas  the  official  coverage ratio 
+decreased by 1.5 percentage points between 2009 and 2012, the “adjusted” ratio (computed 
+according to the methodology used by a  sample of  large European banks) would increase 
+by  3.3  points.  What  is  more,  this  is  just  one  of  the  factors  affecting  cross-country 
+comparison  of  NPLs.  Other  differences  emerge,  e.g.  with  respect  to  the  definition  of 
+restructured  loans.  A  cross-country  comparison  that  fails  to  take  these  methodological 
+problems properly into  account  would  be misleading.  The  issue  is  clearly thorny,  because 
+changing  well-established  national  practices  to  converge  to  a  uniform  standard  entails 
+                                                 
+19   Bank of Italy (2013), Financial  Stability Report, No. 5, April. (http://www.bancaditalia.it/pubblicazioni/stabilita- 
+finanziaria/rapporto-stabilita-finanziaria/2013/rsf_2013_5/en_stabfin_5_2013/Financial-Stability-Report-5.pdf).  
+20   See  S.  Barisitz  (2013),  “Nonperforming  Loans  in  Western  Europe  –  A  Selective  Comparison  of  Countries 
+and  National  Definitions”,  in  Oesterreichische  Nationalbank,  Focus  on  European  Economic  Integration, 
+Q1/13  (http://www.oenb.at/de/img/feei_2013_q1_studies_barisitz_tcm14-253775.pdf).  The  study  suggests 
+that, in international comparisons, NPL ratios for Italian banks are biased upwards. 
+BIS central bankers’ speeches 
+ 7
+adjustment  costs,  which  generate  resistance.  The asset quality review that planned under 
+the developing SSM should address these problems. 
+A  last  example  concerns  indicators  of  banks’  funding/liquidity  conditions.  For  lack  of 
+data,  the  funding  gap  is  often  approximated  by  the  loans-to-deposits  ratio  (this  was 
+standard  practice  in  the  IMF  GFSR  until  recently,  and  it  still  is  in  the  FSR  of  the 
+European  Central  Bank).  However,  correct  measurement  of  the  gap  should  consider  all 
+sources of retail funding, including bank bonds subscribed by retail customers (which proved 
+to be as stable as retail deposits). Given large cross-country differences (for example, retail 
+bonds  are  an  important  source  of  funding  in  Italy,  but  not  in  other  countries),  the  use  of 
+rough  measures,  sometimes  induced  by  lack  of  publicly  available  data,  may  misrepresent 
+the  true  funding  conditions of banks in some countries and alter international comparisons 
+(Figure 5).21 
+The institutional framework in Europe 
+4.2 
+A  full  assessment  of  the  institutional  set-up  for  MAP  policy  in  the  European  Union  is 
+premature, also in the light of the implementation uncertainties for the SSM. However, it  is 
+clear  that  the  various  reforms  and  regulations  introduced  have  produced  a  very  complex 
+framework. An effort is necessary to minimize inefficiencies and foster an effective interaction 
+among the different actors involved. Several key issues remain to be addressed. 
+The first has to do with the respective roles and powers of the SSM and the National MAP 
+Authorities  (NAs).  The  legislation  being  finalized  (CRD-IV/CRR  and  the  SSM  Regulation) 
+gives  asymmetric  powers  to  the  two  parties,  with  the  ECB  able  only  to  tighten 
+macroprudential tools above the regulatory minima and the NAs empowered to implement bi- 
+directional policies.  At  the  same  time,  however,  a  symmetric feature  is  also  envisaged  by 
+the rules: the ECB can object to policy decisions taken by the NAs, which will in turn have 
+to  “duly  consider”  any  such  objections;  the  NAs  can  do  the  same  with  regard  to  ECB’s 
+decisions, and the ECB has also to “duly consider” the NAs’ objections. As for this symmetry 
+of “objection” powers, it remains to be seen who will have the final say if the objections are 
+not  duly  taken  into  account.  Without  a  tie-breaking  mechanism,  the  risk  of  a  stalemate 
+seems by no means negligible. 
+A  related  issue  is  that  of  cooperation/coordination between  the  SSM  and  the  NAs.  This  is 
+explicitly addressed only for the tools included in the CRD-IV/CRR package. It  is  essential 
+that  work  continue  on  the  definition  of  a  coordination 
+framework  also  for  instruments 
+currently excluded from the European regulation, such as the LTV or the DTI ratios, as an 
+equilibrium  relying  mainly  on  authorities’  good  will  could  turn  out  to  be  unstable.  Such  a 
+framework  would  help  address  the  risk  that  measures  taken  with  a  purely  domestic 
+perspective have negative spillovers on other countries. 
+A final issue concerns the interaction between the ESRB and the SSM, which is also likely to 
+be complex. Should the ESRB be strengthened and made more independent from the ECB- 
+SSM?  Or  should  it  be  kept  as  a  lean  institution,  in  charge  of  coordination  among  SSM 
+countries  and  other  EU  countries,  and  among  central  banks  and  supervisory  authorities 
+not  represented in  the  SSM?  The  debate  is  in  its  early stages.  Much  will  depend on  how 
+many EU countries join the SSM. While each solution has its pros and cons, the risk of an 
+overcrowded arena in the MAP field is material. 
+                                                 
+21   In the October 2012 GFSR the IMF calculated a 176 per cent loan-to-deposit ratio for Italian banks. For the 
+same date,  a figure of  117 per cent can  be derived once  retail bonds are  taken  into  account (see Bank of 
+Italy  (2012),  Financial  stability  report,  No.  4,  November).  In  the  GFSR  published  last  April,  following 
+discussions  with  the  Bank  of  Italy,  the  IMF  itself  included  the  correct  definition  of  retail  liabilities  in  their 
+analysis. 
+8 
+ BIS central bankers’ speeches
+To maximize the effectiveness of the MAP framework in Europe, a principle that should be 
+heeded  is  that  strong microprudential  supervision is  a  necessary precondition for  effective 
+macroprudential  policy. Indeed, MAP policy is to a large extent the use  of microprudential 
+tools with a macro perspective. It is therefore crucial to coordinate the use of prudential tools 
+for  both  purposes.  As  an  example,  consider  the  actions  that  the  Bank  of  Italy  recently 
+undertook  with  the  aim  of  increasing  bank  provisioning,  in  order  to  improve  investor 
+confidence  in  Italian  banks.  With  a  macroprudential  perspective,  in  order  to  avoid 
+procyclicality  the  Bank  of  Italy  at  the  same  time  asked  banks  to  increase  internally-
+generated  resources  by  containing  costs,  disposing  of  non-strategic  assets  and  aligning 
+dividend policies to  their  balance-sheet  and  income  strength.  These  actions  should  limit 
+the  risk  that,  in  a  context  of  weak  economic  activity  and  tight  credit  conditions,  the 
+increase  in  provisioning might lead to a deterioration in the availability of credit to the private 
+sector. 
+long  way 
+Conclusions 
+5. 
+Macroprudential policy may play a crucial role in preserving financial stability. But in this new 
+field  of  policymaking,  more  than  in  others,  we  should  keep  in  mind  that  no  solution  is 
+obviously right or wrong. More experience is needed on the functioning of macroprudential 
+authorities and the use of tools. As progress will inevitably follow from a learn-by-doing type 
+of approach, policymakers should not shy away from carefully planned but bold experiments. 
+Some  countries  are  already  moving  in  this  direction.  The  signs  of  overheating  that  are 
+emerging  in  some  segments  of  the  financial  system  may  soon  require  appropriate 
+macroprudential measures.  Policymakers should  not  repeat  the  errors  made  in  the  run-up 
+to the crisis, when many supervisors turned a blind eye to the imbalances that were building 
+up in their economies. 
+Some conceptual steps need to be taken. First, elusion and waterbed effects may hamper 
+the effectiveness of MAP policies, especially when measures are narrow. A system of tight 
+micro  supervision  can  go  a 
+towards  addressing  circumvention.  The 
+simultaneous  use  of  complementary  macroprudential  tools,  rather  than  a  single  targeted 
+tool,  can  also  help.  Effective  cross-border  cooperation 
+fight  spillovers. 
+Unfortunately, at present centrifugal forces seem to prevail, in Europe as elsewhere. 
+Second,  we  need  to  explore  carefully  the  degree  of  asymmetry  of  MAP  tools  over  the 
+financial cycle.  In  principle, MAP tools should be more effective during upswings, whereas 
+during  downturns  market  pressures  may  impose  excessive  constraints  on  intermediaries, 
+making the policies of releasing the previously accumulated buffers less effective. In practice, 
+however,  during  upswings  incentives  towards  elusion  are  likely  to  be  stronger.  These  two 
+offsetting  effects  make  it  hard  to  establish  whether  MAP  instruments  are  more  effective 
+during upturns than downturns. Also, for an effective release of some macroprudential tools in 
+bad times, there must have been a substantial tightening in good times. The speed at which 
+policy tools can be adjusted also deserves attention. 
+Third,  a  prerequisite  to  make  progress  in  all  of  the  above  areas  is  to  have  a  reliable 
+statistical  framework.  The  amount  of  work  needed  to  harmonize  key  indicators  for  MAP 
+policy is immense, even within the EU. 
+Finally, progress is needed in the definition of the institutional and legal framework for MAP 
+policy.  At  the  global  level,  the  design  of  financial  regulation involves,  in  different degrees, 
+several authorities and supranational bodies (the G20, the FSB, the IMF, the BIS, to name 
+just the main ones). The macroprudential arena is also very crowded. In Europe, tasks are 
+today (or will be shortly) shared among the ESRB, the ECB, the European Commission, and 
+the NAs. There is a material risk that such a proliferation of fora and decision-making bodies 
+could end up complicating coordination and synergies. In this context, I believe that serious 
+thought should be given to institutional simplification and a clear allocation of tasks. 
+ 
+is  key 
+to 
+ BIS central bankers’ speeches 
+ 9
+Tier 1 risk-based capital ratios for commercial banks, by bank size 
+Figure 1 
+(percentage points) 
+a) USA 
+  b) Europe 
+ c) Italy 
+  Source: Panel (a): Hanson, Kashyap and Stein (2011); panel (b): ECB; panel (c): Angelini, 
+Nicoletti-Altimari and Visco (2013), op. cit. 
+10 
+ BIS central bankers’ speeches
+Figure 2 
+House prices in Europe 
+(current prices; indices, 2000=100) 
+Figure 3 
+Loan-to-value ratio in selected euro area countries (1) 
+(per cent) 
+  BIS central bankers’ speeches 
+   11
+Figure 4 
+Effect of collateral and guarantees on 
+the Italian banking system’s NPL and coverage ratios (1) 
+(per cent) 
+ 12 
+   BIS central bankers’ speeches
+Figure 5 
+Loan-to-deposit ratio in selected countries 
+(per cent) 
+ BIS central bankers’ speeches 
+ 13

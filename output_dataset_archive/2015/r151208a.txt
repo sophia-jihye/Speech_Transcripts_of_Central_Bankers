@@ -1,0 +1,387 @@
+   Ben Broadbent: The Monetary Policy Committee’s forecasts and the 
+yield curve – predictions versus promises 
+Speech by Mr Ben Broadbent, Deputy Governor for Monetary Policy of the Bank of England, 
+at Reuters, London, 18 November 2015. 
+ I would like to thank Clare Macallan for research assistance and I am grateful for helpful comments from other 
+colleagues. The views expressed are my own and do not necessarily reflect those of the Bank of England or other 
+members of the Monetary Policy Committee. 
+Good morning!  
+The previous Governor of the Bank, Mervyn King, once referred to what he called the “rich 
+seam” of MPC communication. Rich or not, it’s certainly a wide seam: MPC members each 
+give several speeches a year; we publish minutes of every meeting, now supplemented with a 
+Monetary  Policy  Summary;  every  quarter  we  publish  a  50-page  Inflation  Report  that 
+summarises  the  MPC’s  collective  view  of  the  economic  outlook  and  includes  our  latest 
+forecasts; every Report is followed by a session in front of parliament’s Treasury Committee.  
+Yet, from all this, the outside world seems increasingly interested in only one particular nugget: 
+the MPC’s central inflation forecast two years ahead. This forecast is derived assuming that 
+interest rates follow the path priced into financial markets. Comparing the two, commentators 
+often make very precise inferences from the MPC’s projections about future policy.  
+When it’s above the 2% target, our two-year forecast is said to indicate that interest rates will 
+rise faster than the market expects; a sub-2% forecast is said to mean the opposite. Recently, 
+given the intense focus on the prospective date of the next rate change, this simple inference 
+has been refined even further: as long as the forecast is close to 2%, this must mean the MPC 
+is “endorsing” not just the general shape of the market path of interest rates but the particular 
+“lift-off” point it seems to imply.  
+Broad inferences of this sort may well be reasonable. But you shouldn’t push them too far. This 
+morning I want to explain why.  
+The most important problem is that, even if a particular path of interest rates results uniquely 
+in only one central inflation forecast, given all our other assumptions, the opposite does not 
+hold true: you can get to the same two-year forecast with lots of other paths as well. That’s 
+because changes in interest rates have at least some impact on inflation strictly within the two-
+year horizon. And although the MPC’s primary focus is obviously the rate of inflation, it has 
+other objectives too. Recognising these, the “planning horizon” for returning inflation to target 
+can vary according to the various trade-offs involved. After significant cost shocks, for example, 
+it wouldn’t make sense to return inflation very rapidly to target, given the volatility in output, 
+and in interest rates themselves, that can induce.  
+Second, the forecast depends not only on future interest rates but lots of other conditioning 
+assumptions as well, any of which can shift from one quarter to the next. So even to the extent 
+you can infer anything from the forecast about the MPC’s view of the yield curve, this too can 
+only ever be a highly conditional inference. Perhaps that’s why the two-year inflation is not 
+actually a very good predictor of changes in interest rates (as we shall see). Empirically, what 
+matters more is the subsequent evolution of the economy.  
+Another  difficulty  is  that  the  yield  curve  may  not  actually  be  giving  us  a  pure  read  on  the 
+market’s interest-rate expectations to begin with. It’s long been recognised that forward yields, 
+even on “risk-free” instruments like government bonds, can be affected by shifts in risk or term 
+premia. The MPC’s forecasts are conditioned on the yield curve as it is, not what we believe 
+the  market’s  true  expectation  to  be.  So,  in  and  of  itself,  this  doesn’t  invalidate  the  sort  of 
+inferences we’re talking about. But it’s certainly a complicating factor. 
+BIS central bankers’ speeches 
+ 1 
+   Flexible inflation targeting   
+Let me expand on the first point with the help of some simple simulations, performed using the 
+Bank’s COMPASS model of the economy.  
+They all kick off with the same unwelcome economic conditions, presumably caused by some 
+prior, off-stage shock to costs: inflation is 2% points above the target, output’s 1% point below 
+potential and official interest rates are at (what is assumed to be) their “neutral” rate, which is 
+assumed not to change.  
+All three simulations also have inflation back at target two years later. But each involves a very 
+different means of getting there.  
+In  the  first,  the  policymaker  –  call  it  Committee  A  –  hikes  Bank  rate  immediately  and 
+aggressively, by 2% points. This rapidly pushes the economy into recession, making the output 
+gap even larger. But it does at least succeed in bringing inflation back to target pretty promptly, 
+well within the two-year point. Indeed, inflation then falls somewhat below target thereafter, 
+and interest rates fall back sharply, to a level below where they started. Perhaps “A” stands for 
+“austere”, or (hyper) “activist”.  
+Committee B – “balanced”, maybe? – is a little gentler in its approach. Recognising that a 
+significant existing output gap will do some of the work in reducing inflation it raises rates only 
+a touch. Inflation therefore takes longer to come back to target. But it just about gets there by 
+the two-year point and, in the interim, the real side of the economy suffers less and interest 
+rates are less volatile.    
+Finally, just for effect, I’ve added a Comedy MPC (Committee C). This lot are a bit more random 
+and one can’t say their slightly drunken path for policy does much for the stability of anything 
+in the economy, whether inflation, output or (most obviously) interest rates themselves. But it’s 
+still sufficient to return inflation to target after two years.  
+How is this possible? Fundamentally, it’s because monetary policy begins to affect inflation not 
+just at but strictly within two years. The peak impact may take some time to build, in this model, 
+and it also persists for some time beyond two years. But as long as policy has any effect at all 
+on inflation before the two-year point, there’s an infinite variety of interest-rate paths that can 
+prospectively get you to any given rate at that date. We could invent policies for Committees 
+Xerxes, Yaphet and Zog and still not be done.  
+ 
+ 2 
+ BIS central bankers’ speeches 
+ Chart 1: Some policy simulations 
+  Source: Bank calculations. 
+  
+This raises a legitimate question. If you can do something about it before then, and all you care 
+about are deviations of inflation from the target – which in our remit “applies at all times” – why 
+not try and eliminate them as soon as possible, like our monotheistic friends on Committee A? 
+Shouldn’t the policy horizon simply be the shortest time delay between changes in interest 
+rates and their impact on consumer prices?  
+Well  one  problem  is  that  one can’t  be entirely  sure  about  what that  delay  is.  As  a famous 
+economist once said, monetary policy seems to operate with “long and variable” lags.  
+More  significantly,  the  MPC  isn’t  concerned  solely  with  inflation.  It  is  also  asked  to  avoid 
+“undesirable volatility in output”. And occasionally – in particular following shocks to costs or 
+supply – there are trade-offs between the two. These can lengthen the optimal time over which 
+to bring inflation back to target.   
+I think  this  had real relevance  at  the time I  joined the  MPC,  in mid-2011.  At  that  time, the 
+economy looked a bit like the starting point of these simulations. After a tepid recovery there 
+was still plenty of spare capacity in the economy. Companies said they were operating well 
+below capacity; unemployment was still high. But thanks to a series of cost shocks, including 
+the big depreciation of sterling’s exchange rate 2-3 years earlier, inflation was nonetheless well 
+above target.  
+BIS central bankers’ speeches 
+ 3 
+   In response, the MPC might have behaved like Committee A, ramming up interest rates to get 
+inflation back to 2% as quickly as possible. But that would almost certainly have pushed the 
+economy back into recession. Instead it took a more balanced approach. As I tried to explain 
+in  a  speech  I gave  later  that  year, the  MPC  had  arguably  tolerated the  (then)  high  rate of 
+inflation for longer than it might have done because the real side of the economy was so weak.  
+It signalled this choice more explicitly in early 2013. Following a further depreciation in the 
+currency,  rises  in  administered  prices  and  the  prospect  of  continued  weak  growth  in 
+productivity,  inflation  was  thought  “likely  to  remain  above  target  for  much  of  the  forecast 
+period”.  But  “attempting  to  bring  inflation  back  to  target  sooner…would  risk  derailing  the 
+recovery”  and  it  was  therefore  “judged  appropriate  to  look  through  the  temporary,  albeit 
+protracted, period of above-target inflation”.  
+I don’t think this was so exceptional. There is no inflation-targeting monetary authority that 
+behaves so rigidly as to attempt to offset all shorter-term shocks to inflation, no matter the 
+effects on the variability of interest rates and output. As the economist Lars Svensson puts it, 
+“in practice, inflation targeting is always ‘flexible’, because all inflation-targeting central banks 
+not only aim at stabilizing inflation but also put some weight on stabilizing the real economy”.  
+In  the  UK,  this  regard  for  the  occasional  trade-offs  faced  by  monetary  policy,  and  their 
+implication for the planning horizon, was formally enshrined in the MPC’s remit in March 2013. 
+The Committee is now required to “promote understanding of the trade-offs inherent in setting 
+policy and… [to communicate] the horizon over which it is appropriate to return inflation to the 
+target”. This description of the appropriate horizon is now a regular part of our communication, 
+notably in the newly introduced Monetary Policy Summary that introduces both the Inflation 
+Report and the Minutes of our meetings.  
+What of the current situation? The economy has also faced significant cost shocks in the past 
+couple  of  years,  this  time  in  a  negative  direction.  Commodity  prices  have  fallen  sharply, 
+sterling’s  exchange  rate  has  risen.  The  combined  impact  has  been  enough  to  push  CPI 
+inflation down to zero.  
+We don’t face the same trade-offs as during the 2009-12 period, as output now looks much 
+closer to potential. Equally, there is a good argument for “looking through” some of the effects 
+of these cost shocks. Faced with the same situation, Committee A would probably choose to 
+loosen policy now in order to get inflation back to target as rapidly as possible. But, with the 
+output gap projected to narrow further anyway, and because the effects of lower commodity 
+and import prices are likely to fade over time, it would probably then face the prospect of having 
+to re-tighten policy thereafter, as inflation threatened to move above the target.  
+There was a very slight flavour of this in the MPC’s latest projections. The Committee has said 
+it wants to get inflation back to target in “around two years and [keep] it there in the absence 
+of further shocks”. Given all the other underlying assumptions in the forecast, the yield curve 
+we faced at the time broadly does the first part of that job. But the central forecast rises a touch 
+above target at two years and then drifts a little higher. For what it’s worth, and if only at the 
+margin, that yield curve was thought likely to over-achieve.  
+Stuff happens: Forecasts are not promises 
+Let  me  summarise  these  points:  the  MPC  doesn’t  have  a  concern  only  for  inflation  and, 
+depending on the circumstances, it will face trade-offs with other objectives. This means the 
+horizon over which it’s appropriate to return inflation to target can vary, and that the horizon 
+will  generally  be  beyond  the  earliest  date  at  which  policy  can  affect  inflation.  There  are 
+therefore many interest-rate paths that can prospectively achieve a particular rate of inflation 
+two years ahead and one shouldn’t expect the central forecast at that date to be a failsafe 
+indicator of future changes in interest rates.  
+4 
+ BIS central bankers’ speeches 
+ Chart 2 Inflation forecasts explain a small 
+proportion of subsequent average vote 
+  vote 
+inflation 
+interest-rate 
+forecast  against 
+on 
+And it isn’t. Chart 2 plots the MPC’s central 
+the 
+two-year 
+average 
+the 
+Committee over the following three months. 
+There’s  a  moderate  correlation  –  on 
+average,  a  higher  inflation  forecast  is 
+followed  by  votes  for  tighter  rather  than 
+looser  policy,  conversely  when  it’s  below 
+target. 
+It’s hardly a tight relationship, however. The 
+degree of fit – the proportion of the policy 
+variation  explained  by  the  most  recent 
+inflation forecast – is only 8%, even less if 
+you exclude the figure for 2008Q4 (the dot 
+in the bottom left-hand corner). 
+Source: Bank of England and Bank calculations. 
+ What seems to have mattered much more is what actually happens to the economy. Chart 3 
+plots the same average vote against a contemporaneous survey measure of economic growth. 
+The  fit  is  much  better,  particularly  in  data  prior  to  2008.  Chart  4  then  plots  any  residual 
+correlation between forecasts and subsequent votes, controlling for the economic data. There 
+is none.   
+Admittedly, it’s become harder to uncover simple reduced form relationships, such as the one 
+in Chart 3, since the financial crisis. For much of that period interest rates have been pressed 
+up against the effective lower bound: there hasn’t been any variation to work with. In addition, 
+the pre-crisis relationship in Chart 3 exists because the MPC was generally confident about 
+the stability of the underlying rate of supply growth; that hasn’t been the case in recent years1.  
+Comparing Chart 2 and 3 is in any case slightly unfair as it measures forecasts at one date 
+against data on growth, which are released slightly later, over the following three months. But 
+it does at least bear out an important point about our inflation forecasts, not to say all forecasts: 
+while  they  do  carry  some  information  about  the  future,  they  are  ultimately  superseded  by 
+events.  
+This is a point that I – and countless other central bankers – have made before, of course. 
+However, it does seem to bear repeating. Too often, it seems to me, what we communicate 
+about the path of future policy, whether that’s direct or something backed out from forecasts, 
+is treated as something close to an unconditional promise. But it can’t be. That’s because it’s 
+the job of policy to respond to things that are unpredictable, in order to offset their effects, as 
+best  we  can.  So  even  if  it’s  the  MPC  that  sets  interest  rates,  in  some  narrow  sense,  it’s 
+ultimately the economy that determines them. And our forecasts are intended not as some 
+reliable guide of a particular policy path, but to help people understand how we see the nature 
+and distribution of economic risks over the future. 
+ 
+                                                 
+1  Broadbent (2014). 
+BIS central bankers’ speeches 
+ 5 
+ Chart 3 Policy decisions better correlated 
+with economic growth 
+Chart 4 Controlling for growth, IR 
+forecasts uninformative about policy  
+Source: ONS, CBI, Markit Economics, Bank calculations. 
+ 
+Source: ONS, CBI, Markit Economics, Bank calculations. 
+   The “excess” volatility of bond yields 
+One way to think about the unpredictability of the future is to look at financial markets. Prices 
+of financial assets are in many ways the embodiment of forecasts: they depend critically on 
+how people think the future will evolve. So every time the price of an asset changes, someone’s 
+forecast has gone wrong, or at least has had to be revised2. And as you know, asset prices 
+change a lot!  
+In fact, if anything, as the economist Robert Shiller observed many years ago3, they appear to 
+move  too  much.  Equity  prices  are  more  volatile  than  seems  justified  by  the  variability  of 
+corporate earnings, as least over the sample period he considered; bond yields look to be 
+more variable than reasonable forecasts of future short-term interest rates. Economists have 
+therefore presumed that asset markets are prone to “time-varying risk premia”.  
+In the case of bond markets, these would take the form of variations in the so-called “term 
+premium” – by definition the gap between yields and expected future short rates. And although 
+the term premium has generally been positive – on average, longer-term bonds have yielded 
+more than rolling over a sequence of short-term bills – it could also be negative at times. For 
+example, if investors worry about growing (if small) risks of some very bad economic outcome, 
+that would tend to depress the yield on safe assets to levels below the expected future short 
+rate. People are prepared to pay over the odds to insure against such tail risks4.  
+Unfortunately, it’s hard to distinguish these risk-induced movements in bond yields from those 
+in the true expected path of future interest rates. But there are some pieces of evidence that, 
+to me, are at least suggestive of such effects. 
+                                                
+2  Strictly speaking, I should limit this equivalence to unpredictable changes in asset prices. But that covers most 
+of them.    
+3  The  reference  is  Shiller  (1979);  see  also  Mankiw  and  Summers  (1984)  and  Campbell  (1995).  In  fact,  the 
+observation that bond yields fail to behave in accordance with the simple “expectations hypothesis” goes back 
+much further, to Macaulay (1938).  
+4  Gabaix (2012). 
+6 
+ BIS central bankers’ speeches 
+   First, forward interest rates in the UK are very sensitive to news from the US, puzzlingly so. 
+Chart 5 I’ve used before. It plots average responses of sterling yields, at two and ten-year 
+maturities, to various bits of economic news. What’s most striking are the significant reactions 
+to surprises in US payrolls releases. The UK is a relatively open economy, prone to shocks 
+from elsewhere. As the largest economy in the world, the US is bound to exert an influence on 
+our economy and the appropriate level of domestic interest rates. But it’s hard to imagine that 
+one learns more about inflationary pressure in this country from changes in US employment 
+than from those in the UK itself. What seems more likely is that that US employment releases 
+have effects on risk appetite, and this then leads to a high degree of co-movement – relative 
+to that in pure forecasts – between forward interest rates in the two currencies.  
+Table 1, which gives the results of simple regressions of changes in UK interest rates on their 
+US counterparts, suggests this might be a more general phenomenon. It shows that forward 
+yields are much more closely correlated across the two markets than spot interest rates. This 
+doesn’t disprove the expectations hypothesis. If, for example, country-specific shocks tended 
+to die out pretty quickly, but common, global shocks were more persistent, you might expect 
+to find this pattern. But that difference would have to be pretty stark to generate results of this 
+sort. And there is evidence (much more careful and thorough than I’ve presented here5) that 
+forward yields in different countries are, in fact, more volatile and  more tightly correlated than 
+the simple expectations hypothesis would suggest.     
+ 
+Chart 5 UK forward rates sensitive to 
+US payrolls release  
+ 
+Chart 6 Market yields more sensitive than 
+actual rate forecasts to shifts in risk 
+premia 
+Source: Bloomberg and Bank calculations; sample 2003-
+13.  
+ 
+Source: Bank of England and Datastream. 
+                                                 
+5  Sutton (1997)  
+BIS central bankers’ speeches 
+ 7 
+ Table 1:  
+  UK-US forward yields better correlated than spot rates 
+Changes in yields: UK on US Coefficient* R- squared
+3-months
+1 year
+1 year 3 year forward
+ 
+Source:  Bank  of  England  and  Bank  calculations;  Note:  All  coefficients  are 
+significant at 1%. 
+0.37
+0.41
+0.54
+0.12
+0.13
+0.35
+Second, swings in measures of risk aversion are more closely correlated with market yields 
+than with actual forecasts of future interest rates. There are, of course, good reasons why 
+changes  in  perceived  risks  should  affect  both.  Greater  risk  aversion  can  raise  the  cost  of 
+capital, reduce domestic investment and activity, and lower any reasonable expectation of the 
+policy rate. (An effect of this sort was clearly at work in the last Inflation Report forecast: weaker 
+equity  prices  led  the  Committee  to  revise  down  its  forecast  of  domestic  investment,  partly 
+offsetting the effect of a shallower yield curve on the projection for GDP growth.)  
+But the impact of such swings seems to be larger on market yields than on actual forecasts of 
+interest rates. The red line in Chart 6 plots the gap, in months, between the date of the first UK 
+rate  rise  implied  by  the  sterling  yield  curve  and  that  expected  by  professional  forecasters. 
+When the line goes up, markets are pushing out this “lift-off” date further than analysts. And 
+you can see this tends to happen when risky assets do poorly (the blue line is an estimate of 
+the  risk  premium).  Conversely,  the  gap  narrows  when  risk  appetite  improves.  This  pattern 
+suggests that market interest rates might be influenced by more than the expected path of 
+interest rates6. 
+To be clear, the MPC produces its forecasts on the yield curve as it is, not what it believes the 
+market’s true expectation of future interest rates to be. So the fact that the two might differ 
+does  not,  in  and  of  itself,  invalidate  the  sort  of  inferences  we’ve  been  talking  about.  But  it 
+should, at the least, make one a little careful about describing the yield curve as “the market’s 
+expectation of future interest rates”. It also means that, if an inflation forecast conditioned on 
+the yield curve ends up away from target, that doesn’t necessarily mean we “disagree with the 
+market”. It could just be that yields are being affected by something other than the market’s 
+true expectation.    
+Conclusion 
+Let me wrap up, summarising the main points. The MPC’s headline forecasts are based on 
+the assumption that interest rates follow the path priced into financial markets. That may or 
+may not be the same thing as the true outside expectation of future rates. At times, the yield 
+curve can move around for other reasons as well.  
+Nevertheless, many commentators then use the forecasts – in particular the central prediction 
+of inflation two years ahead – to infer things about the likely path of interest rates over the 
+future.  Recently, there has been a particular focus on backing out implications for the date of 
+the first rise in official interest rates.  
+                                                
+6  Unlike professional forecasters, markets gets to update their opinions every minute of every day, and for most 
+of the time are therefore at an advantage over analysts. But Chart 6 plots data only on days on which the 
+analysts publish their projections, so the comparison is that much fairer. Nor, for what it’s worth, is there any 
+evidence that we can find that markets predict actual interest rates any better than analysts.  
+8 
+ BIS central bankers’ speeches 
+   That’s fine as far as it goes. If the central projection’s a long way from target, that can tell you 
+something about the MPC’s view of the suitability of the yield curve – given, at least, all the 
+other assumptions in its forecasts. In May 2009, after the first slug of QE, the Inflation Report 
+forecast was well below target. This suggested that, unless the economy improved much faster 
+than it expected, the Committee believed that monetary conditions would need to be looser 
+than implied by the yield curve at the time.   
+As things turned out, that’s exactly what happened. But there are limits to how far this kind of 
+reasoning should be taken. One particular problem, when it comes to the so-called “lift-off” 
+date for interest rates, is that the yield curve is currently very flat. As a result, even relatively 
+moderate changes in forward rates, prompted by unexceptional news about the economy, can 
+result in big shifts in the date at which the yield curve first reaches some particular level. But 
+that doesn’t mean the MPC’s views about future policy have moved so dramatically. If nothing 
+else, this demonstrates the problem with focusing too obsessively on that particular date.  
+More generally, the MPC’s inflation forecast is a far from perfect indicator of interest rates. It 
+involves lots of conditioning assumptions, not just forward interest rates, and any of these can 
+change. Our understanding of the economy evolves over time and the economy itself is always 
+subject to unforeseeable shocks. Empirically, the behaviour of the economy matters more for 
+interest rates than prior forecasts.  
+In addition, the MPC isn’t solely concerned with inflation anyway, still less its most likely rate 
+at a fixed point in the future. That means that the target horizon for inflation is generally longer 
+than the earliest point at which policy can affect it – there is therefore no single, unique path of 
+interest rates that will do the job.  It also means that the horizon itself can vary.  
+I will therefore conclude with something of an apology. For those in the audience wanting me 
+to give a direct and unequivocal promise as to when Bank Rate will change, you will, I’m afraid, 
+be disappointed. I can’t. But you should look on the bright side. If there is any value in listening 
+to people like me, it is to help you with what is the best way to try and predict future interest 
+rates - to forecast the economy yourselves (which is probably more interesting). After all, if the 
+future were perfectly predictable we wouldn’t have to bother trying. 
+References 
+Broadbent Ben, 2014, “Unemployment and the conduct of monetary policy in the UK”, Speech 
+given at the Federal Reserve Bank of Kansas City 38th Economic Symposium, Jackson Hole, 
+Wyoming.  
+Campbell John, 1995, “Some lessons from the yield curve”, Journal of Economic Perspective, 
+Vol. 9, No. 3. 
+Eguren-Martin F. and N. McLaren, 2015, “How much do UK market interest rates respond to 
+macroeconomic data news?”, Bank of England Quarterly Bulletin.  
+Gabaix Xavier 2012, “Variable rare disasters: an exactly solved framework for ten puzzles in 
+macro-finance”, Quarterly Journal of Economics, Volume 127, Issue 2, Pp. 645–700. 
+Joyce M. and A. Meldrum, 2008, “Market expectations of future Bank rate”, Bank of England 
+Quarterly Bulletin. 
+Macaulay Frederick,  1938,  “Some Theoretical Problems  Suggested  by  the  Movements of 
+Interest  Rates,  Bond  Yields,  and  Stock  Prices  in  the  United  States  Since  1856”,  National 
+Bureau of Economic Research, pp. 33. 
+Mankiw  G.,  and  L.  Summers,  1984,  “Do  long-term  interest  rates  overreact  to  short-term 
+interest rates?”, Brookings Papers on Economic Activity. 
+Shiller Robert, 1979, “The volatility of long-term interest rates and expectations models of the 
+term structure”, The Journal of Political Economy, Vol. 87, No. 6, pp 1190–1219.  
+BIS central bankers’ speeches 
+ 9 
+   
+Sutton  Gregory,  1997,  “Is  there  excess  comovement  of  bond  of  bond  yields  between 
+countries”, Bank for International Settlements, Working Paper No. 44. 
+10 
+ BIS central bankers’ speeches 

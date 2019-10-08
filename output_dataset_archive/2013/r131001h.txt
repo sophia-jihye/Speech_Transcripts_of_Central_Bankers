@@ -1,0 +1,195 @@
+H R Khan: Payment systems in India – reflecting on some recent trends 
+and future challenges 
+Inaugural address by Mr H R Khan, Deputy Governor of the Reserve Bank of India, at the 
+International  Seminar  on  “Adoption  of  ISO  20O22  in  RTGS”,  held  at  the  College  of 
+Agricultural Banking, Pune, 30 September 2013. 
+ The  speaker  acknowledges  the  contributions  of  Ms.  Nilima  Ramteke,  Smt.  Nikhila  Koduri  and  Shri  Jayakumar 
+Yarasi of the Reserve Bank of India. 
+1.  On  behalf  of  Reserve  Bank  of  India,  it  is  my  privilege  to  welcome  all  the  distinguished 
+participants  to  India,  to  the  city  of  Pune  and  to  the  College  of  Agricultural  Banking  –  a 
+premier  training  establishment  of  the  Reserve  Bank  of  India  focussed  on  rural  and  co-
+operative  financial  sector  development  besides  general  banking  with  emphasis  on 
+technology  led  business  processes.  It  is  also  a  matter  of  great  privilege  for  me  to  be 
+inaugurating this important International Seminar on Adoption of ISO 20022 in RTGS. 
+2.  We  are  all  aware  of  the  importance  of  language  in  communication.  Language  is  the 
+medium  or  a  tool  that  carries  information  from  sender  to  receiver  and  the  efficacy  of 
+communication depends upon the efficacy of the language. The oft quoted example “hang 
+him  not  leave  him”,  where  a  simple  change  in  the  placement  of  a  comma  could  decide 
+between life and death, emphatically points to the criticality of effective communication. As 
+much  as  it  is  important  in  our  social  lives,  the  language  is  also  very  critical  in  financial 
+transactions where even seemingly small lapses could lead to huge implications. There is a 
+great  need  for  a  robust  financial  messaging  system  which  could  serve  as  a  common 
+language  of  communication  in  payment  systems  and  I  am  sure  ISO  20022,  which  is  the 
+focus of the Seminar, would help in building a safe and secure payment system through a 
+commonly  understood  messaging  medium  in  structured  formats  (syntax)  and  meanings 
+(semantics). 
+3.  As  you  are  aware,  the  Reserve  Bank  of India  is  in  an  advanced  stage  of  adoption  and 
+implementation of ISO 20022 in its Next Gen RTGS. We have adopted this standard as this 
+is  based  on  Extensible  Markup  Language  (XML),  a  technical  solution  that  constructs  a 
+document according to certain rules and makes it legible for both computers and end users. 
+XML does not use a fixed definition, which is an important advantage because it allows for 
+the  ISO  20022  standard  to  be  expanded  or  changed  in  the  future  for  supporting  new 
+developments. From a system point of view, XML messages are actually easier to work with, 
+than  other  formats.  For  most  contemporary  systems,  XML  is  the  default  format  when 
+exporting data. It is, therefore, easier to create a file in this format. Hence for our RTGS, it 
+was a natural choice. 
+4. I am sanguine that this Seminar would provide a common platform for sharing experiences 
+across  various jurisdictions  and  will  be  a  learning  experience for  each  one  of  us.  Reserve 
+Bank is, perhaps one of the few, if not the first, Central Banks to adopt ISO 20022 messaging 
+standards for RTGS. This is the result of a successful collaboration and hard-work of officers 
+of Reserve Bank, banks and other stake holders in the country. 
+Adoption of technology in clearing operations: from manual to mainframe 
+5.  India  has  made  rapid  strides  in  adoption  and  leveraging  of  technology,  especially  in 
+financial sector. A couple of decades ago, our banking and payment systems were driven by 
+manual processes – we had clearing houses at district levels where bankers would sit across 
+tables  and  conduct  the  cheque  clearing  operations.  With  the  advent  of  Core  Banking 
+Solutions  (CBS)  and  other  innovative  measures  which  leveraged  technology,  clearing 
+operations  have  been  computerised  and  a  wide  array  of  products,  such  as,  MICR  based 
+BIS central bankers’ speeches 
+ 1 
+clearing, Speed Clearing, etc. have been introduced. Another innovative clearing mechanism 
+is our grid based Cheque Truncation Project (CTS) which is operational in three grid centres, 
+viz., New Delhi, Mumbai and Chennai. As you would appreciate, the grid based CTS clearing 
+operations are heavily dependent on technology and has little scope of manual intervention. 
+Further,  in  order  to  bring  homogeneity  in  the  security  features  of  cheques  and  reduce 
+incidence  of  frauds  in  the  CTS  clearings,  new  cheque  standards  –  CTS  2010  have  been 
+implemented.  Over  the  years  a  number  of  electronic  products  have  gained  popularity. 
+Similarly,  there  have  been  a  number  of  developments  in  manner  of  processing  electronic 
+payments viz., moved from ECS (local) to NECS (centralised). The other electronic payment 
+systems which have gained popularity are the NEFT and RTGS. 
+Encouraging electronic payments 
+6. Reserve Bank remains committed towards providing a safe, efficient, accessible, inclusive, 
+interoperable  and  authorised  payment  and  settlement  systems  for  the  country.  Today,  our 
+payment systems are driven by demands of convenience and ease of use & access. This 
+necessitates  convergence  of  e-payment  products  by  leveraging  on  innovation,  capabilities 
+and  integration  of  various  systems  through  unified  solution  architecture  and  technology. 
+Payment  System  Vision  Document  2012–15  of  the  Reserve  Bank  of  India  articulates  the 
+orientation  of  overall  regulatory  policy  stance  towards  promoting  a  less  cash/less  paper 
+society, the “green” initiative which is also echoed by the Reserve Bank’s IT Vision document 
+2011–17.  This  places  greater  emphasis  on  the  use  of  electronic  payment  products  and 
+services that can be accessed anywhere and anytime by all at affordable prices. 
+7.  The  growing  volumes  of  electronic  payments  reflect  customer  acknowledgement  of 
+convenience and trust. Electronic payments, whether Person to Person (P2P) or Person to 
+Business (P2B), generally take one of the two forms – online payments carried out through 
+internet,  and,  proximity  payments  facilitated  by  the  use  of  cards  (card  payments).  Internet 
+and mobile banking channels are very widely used and are increasingly becoming popular. 
+These channels are used by customers for both account information services and payment 
+initiation  services.  Data  collected  from  a  few  banks  indicates  that  substantial  number  of 
+customers are registering for internet banking facility and there has been a significant growth 
+in the usage of internet banking for funds transfer through NEFT and RTGS. 
+8. The RTGS system, implemented in March 2004, has become the backbone for settlement 
+of  large  value  payments.  In  2012–13,  RTGS  handled  68.52  million  transactions  of  value 
+Rs.1026  trillion  with  a  growth  rate  of  24%  in  volume  terms.  The  Reserve  Bank  is  in  the 
+process  of  implementing  the  Next  Generation  RTGS  (NG-RTGS)  built  on  ISO  20022 
+standards with advanced liquidity management functions, future date functionality, scalability, 
+etc. NG-RTGS has several functions for banks to manage their liquidity position. 
+9.  The  growing  popularity  and  acceptance  of  the  NEFT  system  for  the  interbank  funds 
+transfers  is  reflected  in  the  volume  and  value  handled  by  the  system,  which  increased  by 
+74% (volume) and 62% (value) in the year 2012–13 compared to the year 2011–12. NEFT 
+handled record volume of 47.61 million transactions during August 2013. Given that NEFT 
+has become a flagship remittance system in the country catering to the needs of individuals, 
+corporates and governments alike, many efficiency enhancements have also been made in 
+the system. Hence, NEFT at present processing 12 batches on weekdays and six batches on 
+Saturdays. With the introduction of the feature of continuous release of credit messages, the 
+participants have been given additional time window to process the transactions. 
+10. Similarly, there has also been a surge in the customers registered for mobile banking. 
+The  mobile  payments  in  2012–13  have  reached  53.30  million  in  volume  terms  and 
+₹ 59.90 billion  in  value  terms.  The  growth  rate  in  2012–13  has  been  108%  in  volume  and 
+229% in value terms. The overall share of mobile payments in the payment system, however, 
+is minuscule. Given the huge potential of mobile banking to be game changer, Reserve Bank 
+of  India  has  constituted  a  Technical  Committee  on  Mobile  Banking,  chaired  by  Shri  B. 
+2 
+ BIS central bankers’ speeches 
+Sambamurthy, Director, IDRBT. The Committee will examine the challenges faced by banks 
+in  increasing  the  usage  of  mobile  banking  including  the  usage  of  USSD  (Unstructured 
+Supplementary Service Data) channel. The Committee will examine various options including 
+the feasibility of using encrypted SMS based applications for funds transfer that can run on 
+any type of handset for expansion of mobile banking in the country. 
+11.  The  volume  of  electronic  transactions  has  increased  to  1.7  billion  in  2012–13  from 
+1.2 billion  in  2011–12,  indicating  a  growth  of36  per  cent.  The  total  value  of  electronic 
+transactions has increased to ₹ 1212.37 trillion in 2012–13 from ₹ 967.52 trillion in 2011–12 
+registering a growth of 25.31 per cent. In the year 2012–13, the share of electronic payments 
+in the overall non-cash payments, at 56.4 per cent, has surpassed the paper based payment 
+systems. During the previous year (2011–12) the electronic payments represented 48.2 per 
+cent of over-all non-cash payments. The trend clearly indicates rising consumer acceptance 
+for the e-modes of payments. On the flipside, however, the growing importance and usage of 
+electronic payments has increased the vulnerability towards risks and threat of frauds. 
+Securing electronic payments 
+12. In 2011, a Working Group on Information Security, Electronic Banking, Technology Risk 
+Management  and  Cyber  Frauds  (Chairman:  G  Gopalakrishna)  made  comprehensive 
+recommendations for enhancing security in internet banking. The recommendations included 
+authentication methodologies, changes in mobile phone numbers, beneficiary management 
+aspects,  etc.  Based  on  these  recommendations,  instructions  have  been  issued  to  banks 
+offering  electronic  banking  services  to  their  customers.  Taking  cognisance  of  the  recent 
+developments and attendant unpredictability of cyber-attacks and vulnerability of electronic 
+payments to misuse, Reserve Bank instructed banks to introduce certain minimum checks 
+and balances to mitigate the impact of such attacks. Banks have also been instructed to put 
+in place customer induced caps on value of transactions, limit on number of beneficiaries to 
+be added in a day, sending alerts when beneficiary is added, velocity check on number of 
+transactions,  introduction  of  additional  factor  of  authentication,  etc.  Banks  have  also  been 
+instructed to consider feasibility of using digital signatures for large value payments in RTGS 
+and  capture  of  IP  address  as  an  additional  validation  check.  The  Reserve  Bank  has 
+mandated  additional  factor  of  authentication  for  all  Card  Not  Present  (CNP)  transactions. 
+Several measures have already been initiated to secure the Card Present (CP) transactions 
+through  implementation  of  recommendations  of  the  “Working  Group  on  Securing  Card 
+Present transactions” (Chairperson: Gowri Mukherjee) in a time bound manner. 
+13.  It  becomes  the  responsibility  of  all  the  stakeholders  to  ensure  timely  completion  of  all 
+tasks  mandated  towards  fool-proofing  the  ecosystem  for  electronic  payments.  One  of  the 
+measures for securing card present transaction is implementation of UKPT (Unique Key Per 
+Terminal)  or  DUKPT  (Derived  Unique  Key  Per  Transaction)  and  TLE  (Terminal  Line 
+Encryption)  to  secure  the  technology  infrastructure.  While  most  banks  have  implemented 
+these measures, 100 per cent achievement is likely to materialise soon leading to a safe and 
+secure environment for electronic payment systems in our country. 
+14.  While  it  is  critical  that  technological  measures  are  put  in  place,  what  is  equally,  if  not 
+more,  important  is  creating  awareness  amongst  the  consumers/customers  using  these 
+electronic payment methods. Reserve Bank has initiated a series of awareness programmes 
+– e-BAAT (Electronic Banking Awareness Training) alongwith banks and other stakeholders. 
+At  the  same  time,  serious  attention  needs  to  be  paid  to  related  issues  of  consumer 
+protection,  grievance  redressal  mechanisms,  and  issues  of  consumer  liability  in  case  of 
+negligence or complicity in the event of unauthorised/fraudulent transactions. 
+Challenges in Indian payment systems ecology 
+15. There are several issues which need to be addressed to make the electronic payment 
+system infrastructure in India more efficient and integrated; the crucial ones being building 
+BIS central bankers’ speeches 
+ 3 
+dexterity  of  payment  systems  through  standardisation,  interoperability,  and  creation  of 
+common infrastructure. 
+16. In India, there are different types of messaging solutions and formats specific to each of 
+the  payment  systems.  Consequently,  banks/system  participants  are  required  to  develop 
+application  specific  APIs  (Application  Program  Interface)  to  integrate  with  these  payment 
+systems. In the current system, however, it may be a challenge to achieve portability, i.e., a 
+seamless switchover in the case of failure of one payment system into another. It is in this 
+context  that  adoption  of  common  message  format  and  messaging  solution,  which  is  the 
+theme  of  this  Conference,  assumes  a  lot  of  importance  in  developing  portability  and 
+interoperability. 
+17. We  have  taken  several  steps  to  promote  interoperability  and  development  of  common 
+infrastructure.  ATMs  in  India  are  national  infrastructure  and  are  connected  through  ATM 
+networks. We have permitted interoperability of Business Correspondents. The micro-ATMs 
+used by the BCs have been standardised to facilitate interoperability. There is, however, a lot 
+of scope for further developments, such as, linking the non-bank payment systems with the 
+inter-bank payment networks, etc. We are working towards putting in place GIRO payment 
+systems which will integrate common infrastructure for bill payments. 
+18. We recognise the importance of standardisation, portability and interoperability which will 
+not  only  lead  to  harmonisation  of  payment  processing  across  systems  but  also  will  bring 
+several  benefits.  Convergence  of  various  payment  systems  could  make  payments  truly 
+channel agnostic. 
+Summing up 
+19. Before I conclude, I intend to flag a few issues for you all to discuss and deliberate: 
+• 
+Will  the  implementation  of  the  ISO  20022  message  standards  reduce  the 
+complexities  and  compress  application  development  time  required  to  manage  our 
+payment architecture? 
+Will  adapting  to  such  global  standard  also  enable  us  to  substantially  increase 
+security and improve internal processes? 
+Will upgrading the payment architecture to comply with ISO 20022, also allow other 
+businesses to realise the efficiency gains? 
+Further,  how  can  implementation  of  global  ISO  20022  message  standards  in  the 
+BFSI 
+forward 
+standardisation, automation and dematerialisation in other sectors? 
+(Banking,  Financial  services  and 
+Insurance)  areas  drive 
+   With these thoughts, I would like to wish you all the very best for productive deliberations in 
+this important Seminar. 
+4 
+ BIS central bankers’ speeches 

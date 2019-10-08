@@ -1,0 +1,356 @@
+José Manuel González-Páramo: Rethinking risk management – from 
+lessons learned to taking action 
+Speech  by  Mr  José  Manuel  González-Páramo,  Member  of  the  Executive  Board  of  the 
+European  Central  Bank,  at  the  Risk  and  Return  South  Africa  conference,  Cape  Town, 
+4 March 2011. 
+ Introduction 
+1. 
+Good afternoon, 
+I was very pleased to accept the organisers’ kind invitation to participate in this conference 
+and to speak about a topic that at the European Central Bank (ECB) we consider of utmost 
+relevance:  How  to  adjust  our  financial  risk  management  frameworks  in  the  light  of  the 
+lessons learned from the crisis. 
+Indeed,  the  ECB  has  always  placed  a  great  importance  on  the  design,  development  and 
+implementation of sound risk management practices. The financial and economic crisis that 
+started in 2007 and that continues affecting the global economy has prompted us to rethink 
+and further strengthen the risk management function at the ECB and within the Eurosystem 
+(consisting of the ECB and of the national central banks of the seventeen countries that have 
+adopted the euro).  
+Therefore,  it  is  a  pleasure  to  have  the  opportunity  to  share  our  recent  experience  with 
+distinguished professionals from the financial industry, such as those present in this room. 
+My intention is to comment upon a number of issues that may have probably been already 
+touched upon in the previous sessions. More specifically, I will first summarise some of the 
+general lessons for risk managers that we have learned from the financial crisis. I will then 
+discuss how the risk management function needs to be adjusted to the new economic and 
+financial environment. Finally, I will quickly describe some of the challenges ahead for central 
+banks as risk managers. 
+Lessons from the financial crisis 
+2. 
+So let me start by referring to some of the key lessons from the financial crisis. 
+From  the  selection  of  topics  for  this  conference,  with  its  focus  on  innovations  in  risk 
+management and reforms to the regulatory frameworks, it is clear that we have learned very 
+valuable  lessons  from  the  crisis.  However,  the  fact  that  we  are  drawing  lessons  from  the 
+crisis  is  not  only  illustrated  by  the  novelty  of  the  issues  under  discussion,  but  also  by  the 
+different  approaches  taken  to  examine  topics  that  were  regularly  discussed  in  Risk  and 
+Return conferences in pre-crisis times. 
+As examples of topics that were “usual suspects” in past conferences, but are now presented 
+in a different manner, let me mention two specific issues: (1) the broadening of investment 
+universes, and (2) the advantages in terms of yield pick-up of investing in new markets and 
+asset classes.  
+In  the  past  the  analysis  on  these  issues  would  have  typically  concentrated  on  the  return 
+aspects  and  portfolio  management  considerations,  with  only  limited  space  for  risk-related 
+considerations  in  the  exposition,  the  latter  usually  consisting  of  some simple  references  to 
+the  tracking  error  of  certain  assets  against  the  benchmark  portfolios.  Nowadays,  even 
+presentations firmly oriented on return-maximising investment decisions dedicate more time 
+to look at the absolute risks of trading strategies and assets, and this is particularly true for 
+credit and liquidity risks.  
+BIS central bankers’ speeches 
+ 1
+Indeed, during the current crisis we have learned the hard way that those “forgotten” risks, 
+which  were  perceived  as  not  deserving  a  single  slide  in  many  presentations  of  the  past, 
+matter more than we previously thought. For those holding responsibilities in the design and 
+implementation  of  public  policies,  to  observe  the  increasing  recognition  among  market 
+participants of the importance of strengthening risk management practices constitutes one of 
+its very few positive consequences.  
+Causes and dynamics of the crisis 
+Some of the main lessons from the crisis seem obvious in hindsight, but unfortunately were 
+not seen as such before the outburst of the financial turmoil in 2007 and 2008. In particular, 
+there  are  clear  indications  that  the  way  we  look  now  at  the  trade-off  between  risks  and 
+returns has significantly changed over the past thee years and a half. 
+However, the key question is whether the shift in attitude towards risk has changed only as a 
+consequence  of  the  materialisation  of  some  “forgotten”  risks  or  whether  there  is  a  deeper 
+and  more  structural  explanation  for  this  shift.  My  view  is  that  the  reason  why  academics, 
+market participants and public authorities devote more time and resources to identifying and 
+assessing risk-related issues is not only the severity of the crisis and the uncertainty currently 
+surrounding  our  economic  and  financial  systems,  but  more  fundamentally  the  fact  that  not 
+only  the  roots,  but  also  the  trunk  and  branches  of  the  crisis  are  closely  related  to  risk 
+management and governance aspects. 
+In  this  regard,  a  number  of  thoughtful  explanations  of  the  causes  and  dynamics  of  the 
+financial and economic crisis have been put forward. There is no doubt that risk managers 
+can  extract  valid  lessons  from  all  of  them,  since  there  may  be  indeed  some  truth  to  all. 
+Indeed,  there  is  probably  no  single  argument  that  can  alone  explain  everything  that  has 
+happened over the past few years and we also must remain objective enough to separate 
+ideology  from  facts,  when  assessing  the  different  versions of  the  history  that  have  or  may 
+become best-sellers.  
+Some  of  the  possible  causes  and  elements  characterising  the  nature  and  evolution  of  the 
+crisis  that  have  been  advanced  by  commentators  include:  (i)  the  excessive  borrowing  by 
+financial industry and the private sector due to the prevailing low interest rates; (ii) the build 
+up of financial disequilibria and asset price bubbles; (iii) the biased system of incentives that 
+led investors to excessive risk-taking; (iv) the failure by regulators to adapt to the state of the 
+evolution of the financial system; (v) the market failures related to information asymmetry and 
+lack  of  transparency  about  risks  and  characteristics  of  the  different  products;  (vi)  the 
+existence of obvious conflicts of interests affecting key agents needed in the securitisation 
+process; and (vii) finally, the failure of investors to conduct due diligence, blindly relying on 
+information and models that proved to be inappropriate to capture some very relevant risks. 
+It is probably not very adventurous to say that the bursting of the house price bubble in the 
+US,  with  the  ensuing  increase in  the  default  rate  and  the  severe  underperformance  of  the 
+subprime mortgage sector, was the spark that ignited the financial and economic crisis.  
+In the summer of 2007, as highly leveraged investors were forced to unwind some positions 
+to cover margin calls, liquidity in some fixed-income markets dried out completely. Investors 
+found themselves trapped and were forced to sell assets at considerable discounts. In some 
+cases further sales – particularly for subprime Mortgage Backed Securities – were forced by 
+stop-losses and Value-at-Risk based risk budgets. Liquidity risk-related losses piled up over 
+losses registered as a result of fair value accounting as risks in the real estate sector started 
+to materialise on a scale unseen since the Great Depression.  
+In  the  absence  of  asset  liquidity  and  with  many  of  the  main  actors  in  financial  markets 
+undergoing  painful  processes  of  loss-recognition,  consolidation  and  deleveraging,  some  of 
+the assumptions of the models regularly used for risk management did not hold anymore. For 
+2 
+ BIS central bankers’ speeches
+instance, this was the case of the assumptions of price continuity and sufficient arbitraging 
+activity that underlie proper market functioning. 
+Furthermore,  a  variety  of  assets  had  to  be  priced  using  models  that  were  over-reliant  on 
+assumptions and inputs such as credit ratings that had come under strain, thereby increasing 
+the  scope  for  model  risk.  As  a  result,  uncertainty  about  the  “true”  fair  value  of  the  assets 
+being held by financial institutions increased significantly. 
+As  if  the  discovery  of  these  “forgotten”  risks  –  the  liquidity  risk  as  well  as  tail  market  and 
+credit risks – would have not been sufficient evidence of the failures of investment decision-
+making practices at the global level, the default of Lehman opened our eyes even wider and 
+the focus shifted to counterparty risk. This source of risk became increasingly important due 
+to  the  implementation  of  hedging  and  trading  strategies  based  on  derivatives  contracts, 
+which were very concentrated on a few institutions.  
+Financial globalization and international integration, which are key components of the recipe 
+for global prosperity, acted during the crisis as a channel for the transmission of shocks to 
+the  global  economy.  Systemic  risks  arose  due  to  the  interconnectedness  of  the  financial 
+systems and the impossibility to isolate the problems within the sectors and institutions that 
+were hit first. The global financial architecture showed deficiencies that need to be addressed 
+in order to strengthen the foundations of our economic systems. 
+The role of risk management in the crisis 
+In general, most of the causes of the crisis that I have just described relate to some extent to 
+a  clear  deviation  from  well-established  principles  in  the  management  of  risk  by  financial 
+institutions  and  investors.  Common  sense  risk  management  practices  such  as  “know  your 
+counterparties”,  “invest  only  in  products  you  understand”,  “do  not  outsource  credit  risk 
+management by relying exclusively on external credit assessments”, “do not rely exclusively 
+on quantitative models, no matter how sophisticated they are” were abandoned. 
+Overconfidence  in:  (1)  the  ability  of  portfolio  managers  to  generate  returns,  (2)  the 
+advantages  of  financial  innovation  to  spread  in  an  efficient  way  risks  and  returns,  (3)  the 
+adequacy  of  models  and  data  used  to  estimate  risks,  (4)  the  efficiency  of  markets,  and 
+(5) the ability and willingness of monetary authorities to mitigate the effect of downturns in 
+asset  prices,  did  not  allow  the  capital  markets  to  adequately  reflect  upon  and  price-in  the 
+considerable risks that were being built. 
+Quite  obviously,  the  crisis  has  taught  us  some  lessons.  Expressions  like  “stress-testing”, 
+“black-swan”, “animal-spirits” and even “sovereign debt” have become the new buzzwords in 
+the financial industry. Risk managers have been reminded of model risk; portfolio managers 
+have  discovered  the  true  face  of  risks;  market  participants  have  started  to  think  about  the 
+compound effects of risks, the dynamics of crises and the impact of systemic risks arising 
+from  macroeconomic  shocks,  contagion  effects  and  “hidden  imbalances”;  academic  and 
+practitioners  have  further  analysed  market  failures,  particularly  based  on  behavioural  and 
+institutional aspects; and a certain degree of scepticism has spread, leading to some people 
+wondering  whether  there  is  a  genuinely  risk-free  asset  and  what  are  the  real  benefits  of 
+diversification. 
+It seems clear that the “risk reassessment” process in the wake of the financial and economic 
+crisis  has  been  rather  extensive  and,  perhaps,  even  excessive.  For  instance,  market 
+reactions  to  recent  rumours  about  the  financial  soundness  of  institutions  and  sovereigns 
+have  been  in  some  cases  “off-the-charts”.  Likewise,  markets  that  had  traditionally  enjoyed 
+lively trading activity and relatively good liquidity conditions completely dried-out. 
+The shift in attitude that we have experienced in recent years relates not only to the ability of 
+market participants to take risks, but also to their willingness to take them. In general, the 
+crisis  has  eroded  the  capital  position  of  the  financial  industry,  forcing  some  institutions  to 
+embark  on  a  process  of  deleveraging  and  risk  downsizing  that,  in  absence  of  an  orderly 
+BIS central bankers’ speeches 
+ 3
+mechanism,  may  bring  global  capital  markets  further  down.  This  process  has  dragged  the 
+real  economy  and  the  fiscal  position  of  many  countries,  thereby  contributing  to  the  further 
+deterioration of the global picture of risks.  
+This  sort  of  negative  feedback  from  financial  factors  can  be  explained  both  from  the 
+fundamental side, as global risks did increase while the ability to absorb losses decreased, 
+but also from a behavioural perspective, since confidence disappeared as the evolution of 
+the crisis pushed us to unchartered territories and away from the comfort zone in which we 
+thought we were living. 
+As  central  bankers,  but  also  as  risk  managers,  we  fear  that  in  some  cases  we  may  have 
+gone  too  far,  and  that  what  we  see  now  cannot  be  explained  only  in  terms  of  a  better 
+understanding of risks, but in many cases reflects a sharp increase in risk aversion that it is 
+not  always  fully  justified  by  the  “learning  process”.  It  seems  obvious  that  we  need  to 
+incorporate in our decision-making process and in the models we use to support it, the notion 
+that markets are driven by behavioural factors. 
+All in all, one can optimistically conclude that this time some important lessons have been 
+learned and hope that by implementing the necessary reforms, confidence can be restored. 
+In any case, a crucial question remains: has the crisis changed our minds in a permanent 
+manner  or  are  we  just  living  in  a  “crisis”  mode  and  the  lessons  learned  will  be  forgotten 
+shortly after once the crisis is over? Or if I may paraphrase the title of Reinhardt and Rogoff’s 
+best-seller, is this time any different? 
+To make it truly different we need to take action. 
+And we need to take action on different battle fields. 
+Adapting risk management to a new economic and financial environment 
+3. 
+We need to start adapting our risk management frameworks to a new economic and financial 
+environment.  
+Public  authorities  need  to  incorporate  the  lessons  from  the  crisis  into  the  regulation  in  a 
+meaningful  manner.  Among  the  different  regulatory  measures  that  need  to  be  taken  to 
+prevent similar crisis in the future let me mention the following:  
+1. 
+promoting  sound  risk  management  practises  and  better  integrating  the  risk 
+management function into the decision-making process of agents;  
+addressing  the  challenges  posed  by  “too-big-to-fail”  institutions  and  the  related 
+moral hazard;  
+enhancing  the  global  financial  infrastructure  to  make  it  more  robust  to  crisis,  by 
+promoting instruments and initiatives to mitigate counterparty risks and limiting the 
+channels of contagion of firm- or sector-specific shocks;  
+further  encouraging 
+elaboration of financial statements; and  
+redesigning regulatory policies and capital requirements to avoid procyclical effects, 
+for  instance  by  introducing  dynamic  provisioning  mechanisms  as  well  as  liquidity 
+and funding requirements. 
+fair  valuation  and  standardisation 
+transparency, 
+the 
+in 
+2. 
+3. 
+4. 
+5. 
+The  implementation  of  changes  to  the  international  banking  regulatory  standards  as 
+proposed in the Basel III accord will represent a key milestone in this regard. The gradual 
+adjustment to the new regulatory framework over a sufficiently long period, also to take into 
+account the weakened economic position of many developed countries and financial systems 
+as a consequence of the crisis, will mitigate the impact of implementing the new rules. In the 
+medium to long run, the transition to a regulatory framework designed to improve the capital 
+4 
+ BIS central bankers’ speeches
+that  historical  data,  opinions  and  models  are 
+position and the risk management practices of financial institutions will play a major role in 
+fully restoring the credibility and public confidence in the financial system.  
+Further initiatives aiming to improve the governance and transparency of capital markets and 
+institutions  will  also  be  needed  to  restore  the  orderly  functioning  of  the  markets.  In  this 
+regard,  the  ECB  has  launched,  in  cooperation  with  market  participants,  an  initiative  to 
+disclose  loan-by-loan  level  data  in  the  European  ABS  market,  which  in  our  view  will  help 
+reviving such market and mitigate some of the risks associated to those products. 
+Of course, this initiative relies on the will of market participants to improve the way in which 
+due diligence is performed. The commitment of the ECB and the Eurosystem in this regard 
+may serve market participants as a benchmark. It is the duty of public institutions to live up to 
+the highest governance standards, and therefore we strive at continuously improving our due 
+diligence and risk management practices. 
+We  expect  that  financial  institutions  and  private  investors  in  general  also  will  rethink  their 
+governance and risk management functions. In this respect, risk management should help 
+driving the strategy and decision making processes by defining the extent of the risk appetite 
+of the institution clearly and by establishing a clear enterprise-wide risk management system. 
+In  this  context,  the  design  and  attribution  of  risk  budgets  and  the  clear  communication  of 
+risks to decision-making bodies and to all relevant business areas should be ensured. 
+A better due diligence in the risk management function requires reducing dependence on the 
+output of specific risk models and on external assessments, such as those provided by rating 
+agencies. The correct understanding and assessment of risks requires the development as 
+much  as  possible  of  internal  capacities  to  evaluate  risks.  In  addition,  it  is  essential  to 
+understand 
+the 
+comprehension and communication of risks, but with limitations that need to be accounted 
+for in the decision-making process. 
+In  this  regard,  I  would  like  to  emphasise  that  what  constitutes  a  severe  problem  is  not  so 
+much the use of risk measures such as Value at Risk, models like the single-factor Gaussian 
+copula model for credit risk, and risk opinions like external credit ratings, but rather the lack 
+of understanding of the limitations of those measures and models.  
+Accordingly, there has historically been an over reliance and mechanical use of models and 
+external opinions that constituted one of the critical failures of the financial system before and 
+during the crisis. Those models, measures and opinions are still valid tools, but need to be 
+used in a correct manner, and need to be complemented by other tools and, more generally, 
+by expert judgement.  
+Risk  managers  should  not  simply  take  comfort  in  recent  historical  regularities  and  in  well-
+established standards for risk measurement. Discomfort should be their habitat. All business 
+areas of the institution should contribute and challenge the risk management function to look 
+at risks in a different manner and to adopt better communication strategies.  
+We have recently lived through many “what-ifs” that almost nobody thought of, and although 
+risk management is all about dealing with uncertainty rather than making point forecasts, our 
+warm  and  placid  financial  models,  fed  with  short-sighted  inputs,  were  not  capable  of 
+adequately capturing the risks that ended up materialising.  
+In  hindsight  it  seems  unbelievable  that  we  believed  in  models  that  were  predicting  that 
+nothing terrible could happen in 99 out of 100 years, usually using less than 10 years of data 
+to construct such prediction. In the last 100 years, not counting the recent crisis, we have 
+experienced  2  world  wars,  the  Great  Depression  and  an  increasingly  frequent  number  of 
+financial  crises  affecting  specific  sectors  and  regions  that  have  often  been  a  source  of 
+contagion.  
+It does not take a statistician to prove that the models were fundamentally misused. It just 
+takes common sense, but as the saying goes, this may be the least common of the senses. 
+that  aid 
+tools 
+just 
+BIS central bankers’ speeches 
+ 5
+How  could  we  be  ready  for  the  unthinkable  if  we  were  not  even  ready  to  assimilate  past 
+experiences? Some have said that standard risk management models could not capture a 
+“black swan” event. Well, in some cases they could not capture a white swan either.  
+In  this  regard,  stress  testing  is  seen  as  one  of  the  core  elements  of  a  modern  risk 
+management function. The design of plausible yet demanding (forward-looking) stress tests 
+both  at  the  business  area  and  at  a  firm-wide  level  can  significantly  contribute  to 
+understanding  the  sources  and  the  consequences  of  the  risks  faced  by  the  different 
+institutions. 
+One  of  the  key  lessons  that  we  have  learned  from  the  crisis  is  the  interaction  between 
+different types of risk. This interaction sometimes leads to compounding effects that were not 
+properly captured by the risk management tools available before the crisis. A comprehensive 
+risk management framework should therefore not only be firm-wide, but also encompass and 
+aggregate  in  a  meaningful  manner  the  different  types  of  risks  to  which  a  specific  firm  or 
+institution is exposed. We need to pay attention to inter-risk correlations (i.e. the interaction 
+across different types of risks), as much as to intra-risks correlations, and build a portfolio 
+that is as diversified as possible on both dimensions and that matches our hedging needs or 
+our risk-return preferences. 
+But  the  single  most  valuable  lesson  that  we  have  recently  learned  is  that  crises  are  more 
+frequent than what we tend to think. In this regard, we should also be ready for new crises 
+that will be different from the present one. No matter whether the next crisis ahead will be 
+due  to  increases  in  the  prices  of  oil  and  food,  to  geopolitical  tensions  or  to  the  bust  of 
+potential asset bubbles in emerging markets, we should stand ready to react to any of those 
+possible shocks.  
+In order to be prepared we need to understand that finance and economics are not natural 
+sciences,  there  are  no  “fundamental  laws”  to  discover,  but  they  are  more  about  modelling 
+and understanding the outcome of  interactions between humans in human-made  systems. 
+That is, probably, one of the biggest challenges risk managers need to face. 
+Challenges ahead for central banks as risk managers 
+4. 
+Last but not least, I would like to quickly refer to the challenges ahead for central banks. 
+I’m not going to refer to the challenges faced by those central banks which are also banking 
+supervisors or regulators, which are relevant enough to be deserve a full conference on their 
+own, but I will focus on the crisis and risk management function in central banks. 
+The job of central banks is akin to that of risk managers, in the sense that they have to deal 
+with crisis situations and manage risks to the economy using a limited toolbox. The role of 
+the ECB in the management of the different stages of the crisis has been and continues to be 
+very  prominent,  also  through  our  participation  in  institutions  such  as  the  recently  created 
+European Systemic Risk Board. Obviously, such crisis management role requires having a 
+deep  understanding  of  risks,  particularly  systemic  risks,  to  the  financial  system  and  the 
+economy in general. 
+Of course, the materialisation of risks may potentially have implications for the central bank’s 
+own financial position. In this regard, central banks around the globe also act as risk takers in 
+the conduct of monetary policy operations and investment operations.  
+Central  banks,  as  other  public  investors,  are  distinct  from  most  market  participants  in  that 
+they have been entrusted with the management of public funds. As a consequence, central 
+banks are typically perceived to be very conservative investors. While this perception may be 
+right with regards to the risk appetite of the central bank as an investor, this is not so clear 
+when  it  comes  to  its  role  as  policy-maker.  Central  banks  need  to  take  some  risks.  For 
+instance, they must hold amounts of assets denominated in foreign currency on a scale that 
+private financial institutions would consider to be very large from a risk-return perspective.  
+6 
+ BIS central bankers’ speeches
+Further to this, at times of crisis central banks tend to follow, due to their responsibility as 
+policy-makers, the so-called “inertia principle” that recommends not to take risk management 
+actions that could worsen the pro-cyclical behaviour of the financial markets. Obviously, such 
+principle applies to monetary-policy operations, where central banks have typically increased 
+their level of risk taking during the crisis, but also to some extent to their investment activities. 
+With the markets being shut-down for almost all financial institutions and the economy being 
+strangled by lack of financing, the central banking community had to resort to a number of 
+unconventional measures to support the continued provision of credit to the economy and to 
+sustain the implementation of the monetary policy in an environment where its transmission 
+could be endangered.  
+In  the  language  of  risk  managers,  “unconventional  measures”  means  larger  exposures. 
+Asset  purchases,  long-term  operations,  full-allotment  tender  procedures,  relaxation  of  the 
+collateral framework… All these measures have something in common: they raise the bar for 
+risk management in central banking precisely in those times in which our brains are wired to 
+shout  “run”.  But  of  course,  we  must  exercise  a  disciplined  and  calmed  responsibility  and 
+accept our role in crisis situations.  
+Indeed, central banks are likely to be more exposed to risks in the event of a crisis. At the 
+same  time,  they  need  to  remain  financially  sound  to  ensure  their  independence  and 
+credibility in the conduct of monetary policy. This is particularly important at times of crisis, 
+when inflationary expectations risk becoming unanchored.  
+This  is  why  it  is  crucial  for  central  banks  to  continuously  re-think  their  risk  management 
+framework to stand ready, even in the “good times”, to switch to the “crisis mode”, and also 
+to ensure that the decisions taken in the midst of a crisis will not jeopardise their ability to 
+pursue their institutional objectives in the future. 
+Concluding remarks 
+5. 
+To  conclude,  it  is  crucial  for  a  central  bank  to  fulfil  the  highest  governance  standards  in 
+organizing its risk management function and applying state-of-the-art tools, in order to ensure 
+that  the  right  decisions  are  taken  in  the  design  of  the  risk  control  framework  and  the 
+implementation of monetary policy and investment operations. By doing so we may also be 
+encouraging other market participants to follow. Therefore, our responsibility is twofold. 
+As  you  see,  the  challenges  we  face  may  be  slightly  different  from  those  faced  by  private 
+institutions. But the lessons learned from the crisis, and the actions to be taken in the near 
+future may not be so different. 
+We are all on the same boat, learning how to sail towards a safe port. 
+Thank you for your attention. 
+BIS central bankers’ speeches 
+ 7

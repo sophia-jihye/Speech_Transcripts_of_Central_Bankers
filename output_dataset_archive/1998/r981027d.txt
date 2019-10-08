@@ -1,0 +1,387 @@
+Mr.  McDonough  gives  his  perspective  on  the  Year  2000  problem  and  the
+challenges  it  poses      Remarks  by  the  President  of  the  Federal  Reserve  Bank  of  New  York,
+Mr. William J. McDonough, before the Regional Y2K Meeting for Financial Regulators in the
+Asia/Pacific Region, held in Sydney on 19/10/98.
+I am delighted to be here today at the first of several regional forums on the Year
+2000  problem  that  the  Joint  Year  2000  Council  is  organizing.  As  an  original  sponsor  and  ex
+officio  member  of  the  Council,  I  am  especially  pleased  that  it  has  been  successful  in  rapidly
+organizing  today’s  events  to  coincide  with  the  International  Conference  of  Bank  Supervisors
+meetings.  This  gathering  provides  another  example  of  how  financial  market  supervisors  and
+regulators such as yourselves are leading the way in tackling this issue around the world.
+In my remarks today, I will provide my perspective on the Year 2000 problem and
+the  challenges  it  poses.  My  experience  with  the  issue  draws  first  on  my  role  at  the  Federal
+Reserve Bank of New York, where we are addressing Year 2000 challenges as a central bank, as
+a bank supervisor, as a payment system operator and as a business much like any other business.
+Internationally, I became involved with the issue through the G-10 Committee on Payment and
+Settlement  Systems  and  spoke  out  about  the  need  for  payment  system  operators  worldwide  to
+address  the  Year  2000  problem.  More  recently,  on  the  Basle  Supervisors’  Committee,  I  have
+been learning about the Year 2000 issues that confront bank supervisors around the globe.
+Scope
+Simply put, I do not think it would be possible to overstate the importance of the
+Year  2000  problem  as  an  issue  for  the  financial  markets.  Naturally,  the  tendency  in  these
+turbulent times is to focus on day-to-day concerns, and to leave future problems to be dealt with
+later. This tendency must be resisted strongly if we are to succeed in addressing the Year 2000
+problem.
+I  say  this  because  the  Year  2000  problem  is  an  issue  for  every  country,  firm,
+organization,  government  agency,  bank  and  piece  of  critical  infrastructure  in  the  world.  If  the
+Year 2000 problems that exist within software programs and embedded computer chips are not
+repaired  by  January  1,  2000,  the  affected  systems  will  cease  to  function  or  will  malfunction.
+Those  firms  that  have  checked  for  Year  2000  problems  overwhelmingly  have  found  that  their
+systems were affected and would not have functioned normally in the Year 2000 without being
+fixed. Moreover, the efforts of firms around the world have demonstrated that while the extent of
+the Year 2000 problem varies, no country or sector is immune from it or can afford to ignore its
+impact.
+Financial  sector  organizations  such  as  banks,  securities  firms  and  insurance
+companies  are  typically  among  the  most  highly  affected  organizations.  National  and  local
+government  systems  and  services  are  affected.  Critical  infrastructure  such  as  transport,  water,
+power and telecommunications systems are also likely to be affected. Nearly all aspects of the
+economy in every country are therefore potentially at risk because of the widespread dependence
+on a country’s core infrastructure.
+The unprecedented scope of the Year 2000 problem means that a critical aspect of
+the  issue  is  the  management  challenge.  Substantial  management  resources  are  needed  to
+coordinate the efforts to assess, repair,  and  test  affected  systems  prior  to  the  fixed  deadline  of
+BIS Review   85/1998
+- 2 -
+January 1, 2000. At the Federal Reserve, for example, we have created a number of management
+positions within our organization that are focused exclusively on different aspects  of  our  Year
+2000 preparations.
+A  final  point  that  underscores  the  need  for  urgent  and  sustained  action  is  the
+increasing focus on the issue by the media, by the public and by market observers such as the
+rating  agencies.  Over  the  course  of  1999,  the  extent  of  Year  2000  preparations  by  financial
+organizations will become the subject of ever more intensive scrutiny. As supervisors, therefore,
+we  must  do  all  we  can  to  support  the  efforts  of  market  participants  to  address  the  problem
+effectively, and to build confidence among others that this is being accomplished. While we must
+make it clear that supervisors cannot solve the problem, we can help mobilize others to take the
+necessary steps.
+Of  course,  I  realize  that  most  of  you  are  already  fully  convinced  of  the  need  to
+seriously  address  the  Year  2000  issue  and  are  more  interested  in  advice  on  how  to  tackle  the
+problem.  In  this  regard,  I  will  focus  on  approaches  that  supervisors  can  take  in  five  areas:
+(1) encouraging  cooperation  and  coordination;  (2)  encouraging  information  sharing  and
+disclosure;  (3)  developing  assessment  plans;  (4)  encouraging 
+testing  programs;  and
+(5) developing and supporting contingency plans.
+Cooperation and Coordination
+The  single  most  important  piece  of  advice  that  can  be  given  on  the  Year  2000
+problem  is  to  work  cooperatively  with  others.  This  applies  at  a  number  of  levels.  First,  every
+organization  should  develop  an  internal  Year  2000  plan  that  encourages  cooperation  between
+different  parts  of  the  organization.  For  example,  a  successful  Year  2000  program  for  an
+organization  will  encompass  not  only  the  software  programs  that  are  maintained  by  the
+information technology department, but will also address the Year 2000 risks that may be posed
+by the embedded chips in the firm’s buildings, including heating and cooling, building security
+and safety systems.
+The  benefits  of  cooperation  include  the  sharing  of  information,  so  that  the
+resources  required  to  obtain  valuable  information  can  be  reduced.  Cooperation  across
+organizations is also essential to the development of joint industry initiatives, including testing
+programs. For example, we have seen industry associations play a very valuable role in raising
+industry  awareness  and  providing  a  focal  point  for  the  sharing  of  information  and  the
+development of joint Year 2000 initiatives. I strongly urge each of you here today to challenge
+the industry associations in your countries to develop an aggressive Year 2000 program for the
+mutual benefit of all their members.
+In fact, a largely unprecedented amount of cooperation already is taking place with
+respect to Year 2000. For instance, the Joint Year 2000 Council brings together more regulators
+and supervisors in one organization than has ever been done before. In April of this year, the four
+sponsoring  organizations  realized  that  they  needed  to  pool  resources  and  bring  together  their
+respective experts to discuss the issue collectively and to develop a common dialogue with the
+global  supervisory  community.  The  efforts  of  the  Council  to  date  have  been  valuable  in
+communicating  Year  2000  information  to  this  community,  and  I  support  the  continuation  and
+expansion of these efforts.
+BIS Review   85/1998
+- 3 -
+The  Global  2000  Coordinating  Group,  which  consists  of  internationally  active
+financial institutions, is another example of an important effort to foster cooperation on the Year
+2000 issue. The firms represented on Global 2000 are working together to tackle several different
+aspects  of  the  problem,  especially  the  international  dimension.  They  have  approached  this
+collective effort with a high degree of transparency and I applaud their efforts at cooperation.
+Cooperation  is  also  needed  between  the  supervisory  community  and  the  private
+sector.  The  New  York  Fed  has  hosted  a  series  of  informal  meetings  in  New  York  bringing
+together banks, securities firms, settlement systems, insurance companies and regulators to help
+each  understand  better  the  perspectives  of  others  around  the  table.  The  New  York  Fed  also  is
+participating  in  joint  efforts  with  several  industry  associations  that  focus  on  Year  2000
+contingency planning and on testing. For these two issues, in particular, it is critical that an active
+dialogue be established between the public and private sectors.
+The final element of cooperation needed for an effective approach to Year 2000 is
+cross-industry cooperation. Most financial market participants  are  not  accustomed  to  gathering
+extensive  information  from  other  industries,  such  as  the  telecommunications  industry.  Yet
+financial  firms,  among  others,  depend  critically  on  the  proper  functioning  of  sectors  such  as
+transportation, electric power generation, and government services. In the absence of cooperation
+and coordination, the lack of information flowing across sectors can create serious obstacles to
+achieving  successful  Year  2000  outcomes.  Errors  of  omission  in  coordinating  your  efforts
+broadly can be far more significant than you might realize.
+Based on our experience in the United States, the creation of a government body
+to  assist  in  coordinating  preparations  can  play  an  important  role.  In  the  United  States,  the
+President’s Council on  the  Year  2000  Conversion  has  been  active  in  promoting  cross-industry
+discussions and tracking the progress of different industries. Governments in other countries such
+as Australia, Italy, Japan, Mexico, Saudi Arabia and the United Kingdom have also implemented
+national Year 2000 strategies.
+As supervisors, our first task is to address the Year 2000 issues in the sectors for
+which we have responsibility. However, we cannot lose sight of the dependence of the financial
+sector  on  the  broader  national  and  international  infrastructure.  Year  2000  issues  affecting  this
+infrastructure must be addressed. Each of us must seek to ensure that these concerns are being
+appropriately  tackled  within  our  own  countries  and  that  information  on  these  preparations  is
+being made available to financial market participants.
+Information Sharing and Disclosure
+This last point brings me to my next topic – information sharing and disclosure. In
+the absence of good information on Year 2000 preparations, we would naturally expect market
+participants  to  take  a  conservative  approach  and  to  protect  their  own  interests.  It  is  vital  that
+market  participants  be  encouraged  to  be  as  forthcoming  as  possible  about  the  steps  they  have
+taken to prepare for the Year 2000 conversion.
+There  are  a  variety  of  different  types  of  disclosure,  and  all  may  play  a  role  in
+fostering  better 
+is  voluntary
+self disclosure, which is a form of information sharing, such as when firms discuss Year 2000
+issues  and  strategies  among  each  other.  In  addition,  financial  organizations  need  to  provide
+information on their Year 2000 efforts to their customers and counterparties, their investors and
+information  about  Year  2000  preparations.  First, 
+there 
+BIS Review   85/1998
+- 4 -
+others.  In  the  case  of  banks,  for  example,  it  is  important  for  correspondent  and  custodial
+customers to develop comfort that the bank will be able to function normally in the new century.
+Banks  and  other  firms  need  to  develop  strategies  for  conveying  appropriate
+information efficiently to these constituents. In response to a flood of Year 2000 questionnaires
+from  their  customers,  some  banks  in  New  York  are  beginning  to  hold  forums  to  convey
+information and build confidence that they are addressing the problem. Another practice we are
+seeing is organizations declining to fill out  questionnaires  regarding  their  Year  2000  readiness
+unless the firm asking the questions discloses the same information. It is clear to me that this sort
+of market discipline is going to become a powerful force in the coming months for firms that are
+perceived  to  be  lagging  and  failing  to  disclose.  A  solid  program  of  self-disclosure  is  the  best
+available approach to ensuring that all parties are willing to share information.
+Of  course,  supervisors  and  regulators  may  also  need  to  develop  mandatory
+disclosure programs or to interpret existing disclosure requirements to cover Year 2000-related
+issues.  In  the  United  States,  the  Securities  and  Exchange  Commission  has  progressively
+strengthened  its  efforts  to  require  meaningful  disclosure  by  all  types  of  firms.  Clearly,
+supervisors  considering  increased  transparency  need  to  act  rapidly  to  ensure  that  any  new
+requirements will become effective in time to be useful to market participants.
+An important challenge in considering either voluntary or mandatory disclosure is
+the question of what information should be disclosed. Some information can in fact be downright
+misleading.  For  example,  a  firm  may  engage  in  internal  testing  and  locate  a  number  of  Year
+2000-related problems in its systems. Of course, it is the process of this testing that will enable
+the  firm  to  locate  and  overcome  these  problems.  Thus,  disclosing  its  internal  test  results  in
+isolation could give a false impression of its readiness. In general, comprehensive self-disclosure
+in written form, supplemented by a willingness to answer specific questions, is proving to be the
+most effective way of sharing information.
+Another issue that often comes up in this context is the question of certification.
+External  parties,  whether  auditors  or  examiners,  cannot  realistically  certify  Year  2000
+compliance.  The  best  that  they  can  do  is  focus  on  the  effectiveness  of  the  process  that  the
+organization has established. Oversight by these third parties should not be seen as a substitute
+for  an  organization’s  own  due  diligence,  an  area  in  which  internal  audit  departments  have
+traditionally played a leading role. Internal auditors also could be useful in helping firms develop
+their Year 2000 disclosures.
+Another concern is the existence of possible legal obstacles that may stand in the
+way of Year 2000 information sharing. In the United States, several efforts have been made to
+limit or remove these obstacles, and such efforts may be needed in other countries as well. For
+example, a ruling was issued by our Justice Department limiting the extent to which Year 2000
+information sharing could be viewed as a violation of antitrust laws. Recent legislation reduces
+the  legal  liability  for  statements  made  in  good  faith  that  later  turn  out  to  be  inaccurate.
+Supervisors  have  been  supportive  of  these  efforts,  and  I  encourage  each  of  you  to  consider
+whether  substantial  impediments  to  meaningful  information  sharing  may  exist  in  your  own
+countries.
+The  final  point  that  I  will  make  in  this  area  concerns  the  power  of  leading  by
+example.  As  supervisors  and  regulators,  we  should  each  strive  to  communicate  frequently  and
+openly  with  our  constituents  about  our  own  Year  2000  programs.  At  the  Federal  Reserve,  we
+BIS Review   85/1998
+- 5 -
+have testified before Congress on our efforts and have made available a large amount of material
+through the World Wide Web and numerous publications. As leaders in the financial markets, it
+is important that we set the right tone in promoting information sharing and transparency in our
+own preparations.
+Assessment and the Role of the Supervisor
+I will now turn to the role of supervisors in promoting Year 2000 readiness among
+the  firms  that  we  supervise.  The  primary  effort  must  be  to  communicate  the  seriousness  and
+urgency  of  the  problem  to  the  firms  under  our  jurisdiction.  In  the  United  States,  the  bank
+supervisors  are  examining  every  bank  operating  in  the  United  States  regarding  its  Year  2000
+program. As part of this program, the Federal Reserve conducted reviews of approximately 1,600
+organizations, including a significant number of foreign banking organizations.
+These reviews have had a very substantial effect in increasing bank awareness of
+the  issue  and  in  focusing  senior  management’s  attention  on  the  problem.  Initial  reviews,
+completed  by  mid-1998,  indicated  that  10-15%  of  domestic  banks  had  inadequate  Year  2000
+programs, with the US operations of foreign banks showing an even higher percentage. In almost
+all cases, the supervisory attention led to immediate steps being taken by the banks involved, and
+the percentage of banks now in this category is well below 5%.
+What can we do if we find banks that are not progressing rapidly enough? If an
+institution is judged to be deficient, we can communicate these findings through meetings with
+senior management and the board of directors. We can call for the submission of detailed plans
+and formal responses to the deficiencies noted. Naturally, such institutions also will be subject to
+increased monitoring and supervisory review. We can and have put restrictions in place that limit
+expansion by banks judged to be behind schedule. As a result of these measures, we have found
+virtually all banks willing to take seriously their Year 2000 responsibilities.
+We  are  now  in  the  second  phase  of  our  supervisory  program  for  Year  2000.
+During this second phase, which will last through March 1999, we will conduct another round of
+supervisory  reviews  focused  on  Year  2000  testing  and  contingency  planning.  We  also  will  be
+looking  at  how  banks  are  addressing  Year  2000  risks  arising  from  their  relationships  with
+vendors,  customers  and  counterparties.  Even  if  banks  are  successful  at  tackling  their  internal
+Year  2000  concerns,  they  may  still  face  risks  from  critical  services  that  they  receive  from
+vendors. In addition, banks should assess their credit exposures to customers that face significant
+Year 2000 challenges of their own.
+I  hope  that  all  financial  organizations  sufficiently  address  the  Year  2000
+conversion  in  time  to  limit  possible  disruptions.  If  they  do  not,  we  will  find  it  increasingly
+difficult  to  deal  with  the  issues  arising  from  deficient  organizations  over  the  course  of  1999.
+There will likely be some chance that vigorous catch-up efforts on their part will allow them to
+avert  serious  problems.  On  the  other  hand,  the  closer  the  time  until  January  2000,  the  more
+difficult  it  will  be  for  the  customers  of  that  firm  to  find  an  alternative  provider  of  financial
+services. Many banks already are indicating that they will be reluctant to take on new wholesale
+customers  in  the  latter  half  of  1999.  To  avoid  this  bottleneck,  supervisors  need  to  take  all
+possible steps to identify firms whose progress to date has been insufficient, and to pressure them
+to adopt a plan that will address their Year 2000 problems.
+BIS Review   85/1998
+- 6 -
+Inevitably,  however,  supervisors  may  face  difficult  enforcement  issues  during
+1999  regarding  those  institutions  that  are  not  making  appropriate  progress.  The  timing  and
+severity  of  these  enforcement  steps  will  not  be  easy  to  gauge,  and  I  hope  that  the  Basle
+Committee’s  Year  2000  efforts  will  provide  some  guidance  for  supervisors  on  the  issues
+involved in making these choices.
+A key concern that I would have today about an organization is whether its senior
+management truly understands the scope of the Year 2000 problem and the need to tackle it as a
+critical management challenge and not simply as a technical issue. If appreciation of the problem
+is lacking at the upper levels of an organization, experience suggests that the lack of concern will
+filter through to the entire organization, with potentially devastating results.
+Testing
+Of the many different elements of a sound Year 2000 project plan, perhaps none is
+more crucial than testing. In that regard, I will now turn to some of the most important issues
+related to Year 2000 testing. As a first step, it is important to distinguish the different types of
+testing and test programs that are in place or being developed. The Joint Year 2000 Council’s
+recently published paper, “Testing for Year 2000 Readiness” contains a valuable discussion of
+these different types of tests.
+Internal  tests  are  those  over  which  the  testing  institution  has  full  control  and  in
+which  external  parties  are  not  directly  involved.  Firms  that  have  engaged  in  multiple  types  of
+tests have reported that the internal future date testing phase was the most important in terms of
+uncovering  remaining  Year  2000  problems.  Uniformly,  every  institution  that  has  engaged  in
+internal testing  also  has  indicated  that  this  process  indeed  located  further  Year  2000  problems
+that  needed  repair.  Thus,  in  spite  of  extensive  repair  efforts,  some  problems  were  not  isolated
+until  internal  future  date  tests  were  performed.  This  underscores  why  every  organization  must
+build in a program of rigorous internal testing as a part of its Year 2000 project schedule, even
+for  applications  designed  to  be  Year  2000  compliant.  Moreover,  the  internal  testing  process
+cannot wait until the last minute. Experience has shown that testing programs overall typically
+consume over 50% of the resources allocated to Year 2000 projects.
+External tests are conducted by  an  institution  to  assess  the  risks  in  repaired  and
+internally tested systems where they  interface  with  systems  of  other  institutions.  External  tests
+are particularly important where the interface is proprietary or specific to the particular business
+activity and the dependency on the external interface is critical. For the most critical systems, in
+particular  payment  and  settlement  systems,  external  testing  must  be  done,  and  should  be  done
+carefully.
+External tests can take a variety of forms. Point-to-point tests verify the ability of
+an institution to transmit and receive data with another entity. End-to-end tests take this one step
+further and verify the ability of an institution originating a transaction to transmit test data to a
+recipient  through  an  intermediary  which  correctly  performs  business  functions  using  that  data.
+End-to-end  tests  are  particularly  appropriate  for  real-time,  interactive  applications.  Some
+organizations  are  using  a  series  of  point-to-point  tests  to  effectively  simulate  an  end-to-end
+testing process.
+With regard to Fedwire, the Federal Reserve’s large-value funds transfer system,
+we have made the system available for external tests from July of this year. We have also begun
+BIS Review   85/1998
+- 7 -
+a program of shared testing days that allows multiple customers to simultaneously perform end-
+to-end testing over the system. These tests will cover the full range of payments and accounting
+applications that we provide and will address both the century date conversion and the leap year
+date in 2000, which many systems also may not handle correctly.
+One of  the  key  lessons  that  has  come  out  of  our  test  process  for  Fedwire  is  the
+importance of extensive planning for each aspect of the testing program. For example, both the
+testing schedule and test scripts required extensive efforts to develop. Furthermore, without the
+very substantial amount of communication and advance planning by the Federal Reserve and the
+banks  involved,  we  could  not  be  confident  that  the  tests  would  provide  a  meaningful  output.
+Naturally, appropriate internal testing must also be completed in order to derive maximum value
+from the external testing program.
+These lessons are particularly pertinent in the case of industry-wide external tests
+that are designed to permit most or all system participants to test simultaneously with each other.
+For  example,  the  Securities  Industry  Association  in  the  United  States  has  developed  a  very
+ambitious program of this type for the US stock market. I believe that the Association would be
+the first to admit that the amount of work required to pull this off has been staggering. As time
+grows ever shorter, such industry-wide tests may prove impractical for some markets.
+Many market participants are also considering the role of proxy testing, in which
+the tests are conducted by a third party, such as a user group, rather than by each institution for
+itself. Needless to say, there is some risk in such an approach. However, proxy testing may be
+appropriate where it is not practical for every user of a service to conduct point-to-point testing
+with every other user.
+In terms of advice, Year 2000 testing obviously is critical, but each market must
+consider what is achievable in the time that remains. Internal testing is the most critical, and no
+institution should be allowed to go forward with a Year 2000 plan that does not allot ample time
+for  internal  testing.  External  testing  also  is  important,  and  payment  and  settlement  systems  in
+particular should make external test facilities available to participants. The degree of elaborate
+external testing that can be achieved will then be a function of the time available to adequately
+plan for such a test. It simply does not make sense to devote considerable resources to a test plan
+that is not likely to be realized. A key goal of testing programs is to build confidence that systems
+will work as expected on January 3, 2000. There is no doubt that having to call off a test at the
+last minute because of insufficient planning will be counter-productive to reaching such a goal.
+Contingency Planning
+The final issue I will discuss today is contingency planning. Much has been said
+about the need to develop contingency plans for the Year 2000 conversion, and I fully support
+these efforts. We need contingency plans in place for two main reasons. First, to ensure that we
+have considered how to handle the inevitable disruptions that will occur as a result of Year 2000,
+and, second, to help build confidence that disruptions will not have systemic consequences. In
+the process of contingency planning, we must also keep in mind that it is prudent to consider the
+possibility of some very serious, but improbable, events.
+Contingency  planning  for  Year  2000  will  not  be  limited  to  the  century  rollover
+itself. As my colleague, Roger Ferguson, has described it, there will be a Year 2000 “shadow”
+that will affect financial markets both before and after the event itself. This shadow will relate to
+BIS Review   85/1998
+- 8 -
+the  uncertainty  among  market  participants  about  the  possible  consequences  of  Year  2000
+disruptions  for  particular  firms  and  markets.  In  some  cases,  this  concern  will  lead  market
+participants to consider conventions and procedures for limiting risks during the rollover itself.
+For  example,  some  transactions  that  normally  would  be  executed  for  settlement  on  January  3,
+2000  may  be  postponed.  In  other  cases,  uncertainty  about  the  possible  consequences  of  Year
+2000 disruptions could lead to over-reactions on the part of market participants. As supervisors,
+we will need to be increasingly alert to the possibility of Year 2000 rumors affecting the liquidity
+of firms during the latter half of 1999, and should support the disclosure of accurate information
+in response.
+The Basle Committee’s Year 2000 Task Force will be developing a contingency
+planning document focused on issues relevant for bank supervisors. I am pleased to see that the
+Joint Year 2000 Council also has formed a sub-group to address contingency issues, including
+sound practices for financial institution contingency planning as well as market-wide aspects. As
+I see it, there are three broad areas to consider in developing contingency plans. First, each firm
+should have a contingency plan that covers business continuity issues in the case of operational
+problems  affecting  its  own  systems.  Institutions  also  should  develop  contingency  plans  that
+would help address Year 2000 problems arising from their vendors or customers, or as a result of
+disruptions to public infrastructure. These plans should seek to assess the risks that firms face in
+each instance and should focus on the possible measures that may be available to mitigate those
+risks.
+Second, supervisors and regulators need to develop their own contingency plans
+for how they will deal with problems affecting them or the institutions under their jurisdiction.
+Most organizations have some experience in contingency planning for various types of market
+disruptions, so this will not be entirely new ground. However, several aspects of the Year 2000
+problem  are  unique  and  will  require  fresh  thinking.  For  example,  the  potential  scope  of
+operational problems that may be experienced across different markets globally is new. At the
+time of the century change, there also may be significant uncertainty about how long problems
+will last, as well as the extent to which some participants are facing more than simply operational
+problems. On both of these fronts, I am hopeful that the transition to the euro at the end of this
+year will give us some insight into how supervisors and regulators should cope with these issues.
+The third major element of contingency planning that needs to take place is both
+cross-industry and cross-border in scope. The Year 2000 problem has reminded us of the extent
+of interdependencies in our global economy. Financial markets in particular are dependent on a
+mix  of  firms  to  provide  liquidity  in  all  of  the  various  markets.  These  firms  are  dependent  on
+vendors  for  market  information  and  communications,  on  payment  and  settlement  systems  to
+complete transactions, and on power generators and other infrastructure providers to support all
+of their activities. In turn, these infrastructure providers are dependent on receiving and paying
+for adequate supplies to keep their plants operating, as well as on relevant insurance coverage to
+ensure that they can operate without unlimited liability.
+We  must  consider  the  scope  of  these  dependencies  in  formulating  contingency
+plans.  Needless  to  say,  there  is  no  way  that  the  financial  sector  can  completely  insulate  itself
+from  more  widespread  Year  2000  disruptions  by  developing  contingency  plans.  However,  we
+should do what we can to prepare realistically for a wide variety of outcomes, including some
+that  may  not  be  very  likely.  We  also  should  open  lines  of  communication  with  relevant
+associations and regulatory bodies outside the financial sector in order to better understand their
+preparations and contingency plans, and so that they could understand ours.
+BIS Review   85/1998
+Conclusions
+- 9 -
+These  thoughts  represent  my  perspective  on  the  key  issues  facing  the  global
+supervisory community regarding the Year 2000 challenge. As you can infer, I am a very serious
+believer in the need for vigorous efforts to address the problem. The scope of the challenge is
+enormous and much work remains to be done before January 1, 2000.
+Nevertheless,  I  am  not  a  doomsayer.  I  believe  the  financial  sector  can  and  will
+successfully  address  Year  2000.  I  say  this  because  I  believe  we  are  capable  of  harnessing  an
+unprecedented level of cooperation to tackle the problem. I see this happening here today.
+I say this because the resources that are being devoted to address Year 2000 are
+large  and  growing.  We  see  a  number  of  firms  and  systems  testing  successfully  ahead  of  the
+schedules they have set for themselves, demonstrating the value of the Year 2000  investments
+that these organizations have made.
+I  say  this  because  I  see  governments  taking  the  problem  seriously  and  devoting
+significant  attention  to  Year  2000  issues  throughout  the  economy.  I  support  these  steps  and
+encourage each of you to urge your government to move in  this  direction  if  it  has  not  already
+done so.
+As supervisors and regulators, we must continue our efforts to promote solid and
+transparent programs covering Year 2000 information sharing, testing, and contingency planning.
+I am convinced that through the aggressive efforts of the global supervisory community and the
+firms that we supervise, we can build confidence that the financial sector will rise to the occasion
+long before January 1, 2000, which I might remind you is only 439 days from today.
+BIS Review   85/1998

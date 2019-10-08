@@ -1,0 +1,413 @@
+Frederic S Mishkin: Monetary policy flexibility, risk management, and 
+financial disruptions 
+Testimony by Mr Frederic S Mishkin, Member of the Board of Governors of the US Federal 
+Reserve System, at the Federal Reserve Bank of New York, New York, 11 January 2008. 
+The original speech, which contains various links to the documents mentioned, can be found on the US Federal 
+Reserve System’s website.  
+ In my remarks today, I would like to consider the rationale for greater flexibility in monetary 
+policy during periods of financial disruptions. Before doing so, however, I would like to make 
+not just one, but two important disclaimers. First, as usual, my remarks reflect only my own 
+views and are not intended to reflect those of the Federal Open Market Committee (FOMC) 
+or of anyone else associated with the Federal Reserve System. And second, my comments 
+today should not be viewed as suggesting what policy actions I would be likely to advocate at 
+the next FOMC meeting; rather, my purpose here is to discuss at a general level what can be 
+said about the appropriate framework for monetary policy when we face a financial disruption 
+of the sort that we have seen recently.  
+I  have  two  reasons  for  making  the  second  disclaimer.  First,  in  some  circumstances,  the 
+appropriate near-term path for policy rates can be highly uncertain and may well evolve right 
+up until the time of the meeting, depending on the implications of the incoming data. Second, 
+as I noted in a speech in late November, I think there is too much focus on what decision will 
+be  made  about  the  federal  funds  rate  target  at  the  next  FOMC  meeting  (Mishkin,  2007e). 
+What  is  important  for  pricing  most  financial  assets  is  the  path  of  monetary  policy,  not  the 
+particular  action  taken  at  a  single  meeting.  For  these  reasons,  I  hope  the  recent 
+enhancements  to  the  Federal  Reserve’s  communication  strategy  –  especially  the  greater 
+prominence of the macroeconomic projections of FOMC participants – will help shift attention 
+toward our medium-term objectives and our approach in meeting these objectives.1  
+In particular, the Congress has given the Federal Reserve a specific mandate (often referred 
+to  as  the  dual  mandate)  of  fostering  the  objectives  of  price  stability  and  maximum 
+employment. Therefore, when the economy faces a disruption in financial markets, monetary 
+policy  must  aim  at  balancing  the  risks  to  both  economic  growth  and  inflation.  In  the 
+remainder of this speech, I will elaborate a bit further about why financial market disruptions 
+can  pose  significant  risks  to  the  macroeconomy.  Then  I  will  explain  how  the  science  of 
+monetary  policy  can  help  provide  a  conceptual  framework  for  a  systematic  approach  to 
+managing  these  risks,  and  I  will  briefly  discuss  how  that  framework  can  be  useful  for 
+understanding the course of Federal Reserve policy over the past few months. 
+Financial disruptions and macroeconomic risk 
+Before  considering  the  appropriate  policy  response  to  strains  in  financial  markets,  it  is 
+essential  to  consider  the  sources  of  these  strains  and  the  potential  consequences  for  the 
+macroeconomy.  In  general,  the  U.S.  financial  system  is  an  efficient  mechanism  for 
+channeling  funds  to  individuals  or  corporations  with  worthy  investment  opportunities, 
+because  the  financial  markets  are  highly  competitive  and  provide  strong  incentives  for 
+collecting and processing information.  
+                                                 
+1  
+I appreciate the comments and assistance of William English, Andrew Levin, Brian Madigan, Roberto Perli, 
+David Reifschneider, and David Wilcox. 
+BIS Review 4/2008 
+ 1
+Although financial markets and institutions deal with large volumes of information, some of 
+this information is by nature asymmetric; that is, one party to a financial contract (typically the 
+lender) has less accurate information about the likely distribution of outcomes than does the 
+other  party  (typically  the  borrower).2  Historically,  banks  and  other  financial  intermediaries 
+have  played  a  major  role  in  reducing  the  asymmetry  of  information,  partly  because  these 
+firms tend to have long-term relationships with their clients. Recent years have witnessed the 
+development  of  new  types  of  financial  institutions  and  of  new  markets  for  trading  financial 
+products, and these innovations have had the potential (not always realized) to contribute to 
+the efficient flow of information.  
+The continuity of this information flow is crucial to the process of price discovery – that is, the 
+ability of market participants to assess the fundamental worth of each financial asset. During 
+periods  of  financial  distress,  however,  information  flows  may  be  disrupted  and  price 
+discovery may be impaired. As a result, such episodes tend to generate greater uncertainty, 
+which  contributes  to  higher  credit  spreads  and  greater  reluctance  to  engage  in  market 
+transactions.  
+As  I  noted  in  another  recent  speech,  financial  disruptions  are  associated  with  two  distinct 
+types of risk: valuation risk and macroeconomic risk (Mishkin, 2007d). Valuation risk refers to 
+the extent that market participants become more uncertain about the returns on a specific 
+asset,  especially  in  cases  where  the  security  is  highly  complex  and  its  underlying 
+creditworthiness  is  relatively  opaque.  In  recent  months,  for  example,  this  type  of  risk  has 
+been central to the repricing of many structured credit products, as investors have struggled 
+to  understand  how  potential  losses  in  subprime  mortgages  might  filter  through  the  various 
+layers of securities linked to these loans. 
+While valuation risk is relevant for individual investors, monetary policymakers are concerned 
+with  macroeconomic  risk.  In  particular,  strains  in  financial  markets  can  spill  over  to  the 
+broader economy and have adverse consequences on output and employment. Furthermore, 
+an economic downturn tends to generate even greater uncertainty about asset values, which 
+could initiate an adverse feedback loop in which the financial disruption restrains economic 
+activity; such a situation could lead to greater uncertainty and increased financial disruption, 
+causing  a  further  deterioration  in  macroeconomic  activity,  and  so  on.  In  the  academic 
+literature,  this  phenomenon  is  generally  referred  to  as  the  financial  accelerator  (Bernanke 
+and Gertler, 1989; Bernanke, Gertler, and Gilchrist, 1996, 1999). 
+The  quality  of  balance  sheets  of  households  and  firms  comprise  a  key  element  of  the 
+financial accelerator mechanism, because some of the assets of each borrower may serve 
+as collateral for its liabilities. The use of collateral helps mitigate the problem of asymmetric 
+information,  because  the  borrower’s  incentive  not  to  engage  in  excessive  risk-taking  is 
+strengthened by the threat of losing the collateral: If a default does occur, the lender can take 
+title  to  the  borrower’s  collateral  and  thereby  recover  some  or  all  of  the  value  of  the  loan. 
+However, a macroeconomic downturn tends to diminish the value of many forms of collateral, 
+thereby exacerbating the impact of frictions in credit markets and reinforcing the propagation 
+of the adverse feedback loop. 
+                                                 
+2   Such  asymmetry  leads  to  two  prominent  difficulties  for  the  functioning  of  the  financial  system:  adverse 
+selection  and  moral  hazard.  Adverse  selection  arises  when  investments  that  are  most  likely  to  produce  an 
+undesirable  (adverse)  outcome  are  the  most  likely  to  be  financed  (selected).  For  example,  investors  who 
+intend to take on large amounts of risk are the most likely to be willing to seek out loans because they know 
+that they are unlikely to pay them back. Moral hazard arises because a borrower has incentives to invest in 
+high-risk projects, in which the borrower does well if the project succeeds but the lender bears a substantial 
+loss if the project fails. 
+2 
+ BIS Review 4/2008
+Risk management and the science of monetary policy 
+Given that a financial market disruption can pose significant risks to the macroeconomy, risk 
+management  is  crucial  in  formulating  the  appropriate  response  of  monetary  policy. 
+Unfortunately, most existing studies of optimal monetary policy have completely abstracted 
+from considerations of macroeconomic risk, because these studies use specific formulations 
+or  approximations  which  imply  that  the  design  of  the  optimal  monetary  policy  does  not 
+depend  on  the  magnitude  or  direction  of  uncertainty  facing  the  economy  –  an  implication 
+referred to as certainty equivalence.  
+To elaborate on these issues, it’s necessary for me to proceed at a somewhat more technical 
+level, but I promise to use plain English again later in the speech. In particular, the standard 
+textbook  approach  to  analyzing  optimal  monetary  policy  utilizes  a  linear-quadratic  (LQ) 
+framework,  in  which  the  equations  describing  the  dynamic  behavior  of  the  economy  are 
+linear and the objective function specifying the goals of policy is quadratic. For example, in 
+light of the dual mandate, monetary policy is often characterized as seeking to minimize a 
+loss function comprising the squared value of the inflation gap (that is, actual inflation minus 
+desired  inflation)  and  the  squared  value  of  the  output  gap  (that  is,  actual  output  minus 
+potential output).  
+Under  these  assumptions,  the  optimal  policy  is  certainty  equivalent:  This  policy  can  be 
+characterized by a linear time-invariant response to each shock, and the magnitude of these 
+responses  does  not  depend  on  the  variances  or  any  other  aspect  of  the  probability 
+distribution of the shocks. In such an environment, optimal monetary policy does not focus on 
+risk  management.  Furthermore,  when  financial  market  participants  and  wage  and  price 
+setters are relatively forward-looking, the optimal policy under commitment is characterized 
+by considerable inertia.3
+Indeed, the actual course of monetary policy over the past quarter-century has typically been 
+very  smooth  in  the  United  States  as  well  as  in  many  other  industrial  economies.  For 
+example, the Federal Reserve has usually adjusted the federal funds rate in increments of 25 
+or 50 basis points (that is, 1/4 or 1/2 percentage point) and sharp reversals in the funds rate 
+path have been rare. Numerous empirical studies have characterized monetary policy using 
+Taylor-style rules in which the policy rate responds to the inflation gap and the output gap; 
+these  studies  have  generally  found  that  the  fit  of  the  regression  equation  is  improved  by 
+including  a  lagged  interest  rate  that  reflects  the  smoothness  of  the  typical  adjustment 
+pattern.4
+While  an  LQ  framework  may  provide  a  reasonable  approximation  to  how  monetary  policy 
+should operate under fairly normal circumstances, this approach is less likely to be adequate 
+for thinking about monetary policy when the risk of poor economic performance is unusually 
+high. First, the dynamic behavior of the economy may well exhibit nonlinearities, at least in 
+response  to  some  shocks  (Hamilton,  1989;  Kim  and  Nelson,  1999;  and  Kim,  Morley,  and 
+Piger,  2005).  Furthermore,  the  use  of  a  quadratic  objective  function  does  not  reflect  the 
+extent  to  which  most  individuals  have  strong  preferences  for  minimizing  the  incidence  of 
+worst-case  scenarios.  Therefore,  given  that  the  central  bank’s  ultimate  goal  should  be  to 
+maximize the public welfare, I believe that the design of monetary policy ought to reflect the 
+public’s  preferences,  especially  with  respect  to  avoiding  particularly  adverse  economic 
+outcomes.  
+                                                 
+3   The  now-classic  textbook  on  this  topic  is  Woodford  (2003);  refer  also  to  Goodfriend  and  King  (1997); 
+Rotemberg  and  Woodford  (1997);  Clarida,  Gali,  and  Gertler  (1999);  King  and  Wolman  (1999);  Erceg, 
+Henderson,  and  Levin  (2000);  Benigno  and  Woodford  (2003);  Giannoni  and  Woodford  (2005);  Levin  and 
+others (2005); and Schmitt-Grohé and Uribe (2005). 
+4   Clarida, Gali, and Gertler (1998, 2000); Sack (2000); English, Nelson, and Sack (2003); Smets and Wouters 
+(2003); Levin and others (2005); further discussion is in Bernanke (2004). 
+BIS Review 4/2008 
+ 3
+the  degree  of  skewness  and 
+Most  of  the  quantitative  studies  of  optimal  monetary  policy  have  also  assumed  that  the 
+shocks hitting the economy have a time-invariant Gaussian distribution, that is, a classical 
+bell  curve  with  symmetric  and  well-behaved  tails.  In  reality,  however,  the  distribution  of 
+shocks hitting the economy is more complex. In some instances, the uncertainty facing the 
+economy is clearly skewed in one direction or another; again, this is likely when there are 
+significant  financial  disruptions.  The  Federal  Reserve  often  reports  on  our  judgments 
+regarding 
+the  associated  economic  costs  by  giving 
+assessments of the “Balance of Risks” in the press releases that are issued following FOMC 
+meetings.  
+In  addition,  at  least  in  some  circumstances,  the  shocks  hitting  the  economy  may  exhibit 
+excess kurtosis, commonly referred to as tail risk because the probability of relatively large 
+disturbances  is  higher  than  would  be  implied  by  a  Gaussian  distribution.  In  that  light,  one 
+element of the recent enhancements to the Federal Reserve’s communication strategy is that 
+FOMC  participants  now  provide  assessments  of  the  relative  degree  of  uncertainty.  For 
+example,  in  the  “Summary  of  Economic  Projections”  issued  in  late  November,  FOMC 
+participants indicated that the degree of uncertainty regarding the economic growth outlook 
+was  relatively  high  compared  to  the  average  degree  of  uncertainty  over  the  past  two 
+decades. This account could be interpreted as a statement that the Committee perceived the 
+tail risk as unusually large. 
+With a nonquadratic objective function (consistent with the importance of uncertainty for the 
+course of monetary policy) as well as nonlinear dynamics and non-Gaussian shocks, optimal 
+monetary policy will also be nonlinear and will tend to focus on risk management. Policy in 
+this  setting  tends  to  respond  aggressively  when  a  large  shock  becomes  evident;  for  this 
+reason,  the  degree  of  inertia  in  such  cases  may  be  markedly  lower  than  in  more  routine 
+circumstances. Indeed, as I will argue, I believe that financial disruptions of the sort that have 
+been experienced in recent months tend to have highly nonlinear effects on the economy. 
+Thus,  compared  with  the  standard case,  optimal  policy  may  well  involve  much  more  rapid 
+adjustment – a pattern that I will refer to as policy flexibility. 
+Formal  models  of  how  monetary  policy  should  respond  to  financial  disruptions  are 
+unfortunately  not  yet  available,  and  this  is  an  area  of  research  that  I  plan  to  pursue  with 
+Board staff. However, I do have some thoughts about what a systematic framework should 
+look  like,  and  I  would  like  to  share  them  with  you  without  going  into  any  further  technical 
+details.  
+A risk-management framework for dealing with financial disruptions 
+Although  the  assumptions  behind  the  LQ  framework  might  be  reasonable  during  normal 
+times,  financial  disruptions  are  likely  to  produce  large  deviations  from  these  assumptions, 
+making it especially important to adopt a more flexible framework for analyzing the behavior 
+of a central bank that practices risk management. What factors come into play with special 
+vigor  during  financial  disruptions?  First,  financial  disruptions  are  likely  to  lead  to  highly 
+nonlinear  behavior  because  the  cost  and  availability  of  credit  can  shift  suddenly. 
+Furthermore, even though linear approximations of the financial accelerator mechanism have 
+typically been used in recent quantitative studies, this mechanism is, in fact, highly nonlinear 
+(Levin,  Natalucci,  and  Zakrajšek,  2004).  Finally,  because  financial  disruptions,  if  severe 
+enough,  raise  the  probability  of  particularly  adverse  outcomes,  the  standard  approach  of 
+employing  a  quadratic  approximation  of  the  objective  function  may  not  be  sufficiently 
+accurate  to  convey  the  extent  to  which  policymakers  seek  to  avoid  such  outcomes  in 
+maximizing the public’s welfare.  
+In  light  of  these  risk-management  considerations,  how  should  monetary  policy  respond  to 
+financial disruptions? 
+4 
+ BIS Review 4/2008
+Periods  of  financial  instability  are  characterized  by  valuation  risk  and  macroeconomic  risk. 
+Monetary policy cannot – and should not – aim at minimizing valuation risk, but policy should 
+aim at reducing macroeconomic risk. By cutting interest rates to offset the negative effects of 
+financial turmoil on aggregate economic activity, monetary policy can reduce the likelihood 
+that a financial disruption might set off an adverse feedback loop. The resulting reduction in 
+uncertainty can then make it easier for the markets to collect the information that facilitates 
+price discovery, thus hastening the return of normal market functioning. 
+To  achieve  this  result  most  effectively,  monetary  policy  needs  to  be  timely,  decisive,  and 
+flexible.  First,  timely  action  is  crucial  when  an  episode  of  financial  instability  becomes 
+sufficiently  severe  to  threaten  the  core  macroeconomic  objectives  of  the  central  bank.  In 
+such circumstances, waiting too long to ease policy could result in further deterioration of the 
+macroeconomy and might well increase the overall amount of easing that would eventually 
+be  needed.  Therefore,  monetary  policy  must  be  at  least  as  preemptive  in  responding  to 
+financial  shocks  as  in  responding  to  other  types  of  disturbances  to  the  economy.  When 
+financial  markets  are  working  well,  monetary  policy  can  respond  primarily  to  the  incoming 
+flow  of  economic  data  about  production,  employment,  and  inflation.  When  a  financial 
+disruption occurs, however, greater consideration needs to be given to indicators of market 
+liquidity,  credit  spreads,  and  other  financial  market  measures  that  can  provide  information 
+about sharp changes in the magnitude of tail risk to the macroeconomy.  
+Second,  policymakers  should  be  prepared  for  decisive  action  in  response  to  financial 
+disruptions.  In  such  circumstances,  the  most  likely  outcome  –  referred  to  as  the  modal 
+forecast – for the economy may be fairly benign, but there may be a significant risk of more 
+severe adverse outcomes. In such circumstances, the central bank may prefer to take out 
+insurance by easing the stance of policy further than if the distribution of probable outcomes 
+were  perceived  as  fairly  symmetric  around  the  modal  forecast.  Moreover,  in  such 
+circumstances,  these  policy  actions  should  not  be  interpreted  by  the  public  or  market 
+participants as implying a deterioration in the central bank’s assessment of the most likely 
+outcome  for  the  economy,  but  rather  as  an  appropriate  form  of  risk  management  that 
+reduces the risk of particularly adverse outcomes.  
+Third,  policy  flexibility  is  crucial  throughout  the  evolution  of  a  financial  market  disruption. 
+During the onset of the episode, this flexibility may be evident from the decisive easing of 
+policy  that  is  intended  to  forestall  the  contractionary  effects  of  the  disruption  and  provide 
+insurance  against  the  downside  risks  to  the  macroeconomy.  However,  it  is  important  to 
+recognize that financial markets can also turn around quickly, thereby reducing the drag on 
+the economy as well as the degree of tail risk. Therefore, the central bank needs to monitor 
+credit  spreads  and  other  incoming  data  for  signs  of  financial  market  recovery  and,  if 
+necessary,  take  back  some  of  the  insurance;  thus,  at  each  stage  of  the  episode,  the 
+appropriate monetary policy may exhibit much less smoothing than would be typical in other 
+circumstances.  
+Of course, while policymakers may need to react aggressively to financial market information 
+that  indicates  a  significant  shift  in  macroeconomic  risks,  monetary  policy  would  typically 
+move back toward a more incremental approach once the risks to the macroeconomy have 
+returned to more usual levels. 
+Risk management and the anchoring of inflation expectations 
+An important proviso to my discussion thus far involves the other part of the dual mandate, 
+price stability. A central bank must always be concerned with inflation as well as growth. As I 
+have emphasized in an earlier speech about inflation dynamics, the behavior of inflation is 
+significantly influenced by the public’s expectations about where inflation is likely to head in 
+the  long  run  (Mishkin,  2007a).  Therefore,  preemptive  actions  of  the  sort  I  have  described 
+here would be counterproductive if these actions caused an increase in inflation expectations 
+and the underlying rate of inflation; in other words, the flexibility to act preemptively against a 
+BIS Review 4/2008 
+ 5
+financial  disruption  presumes  that  inflation  expectations  are  well  anchored  and  unlikely  to 
+rise during a period of temporary monetary easing. Indeed, as I have argued elsewhere, a 
+commitment to a strong nominal anchor is crucial for both aspects of the dual mandate, that 
+is,  for  achieving  maximum  employment  as  well  as  for  keeping  inflation  under  control 
+(Mishkin, 2007b).  
+How  can  a  central  bank  keep  inflation  expectations  solidly  anchored  so  it  can  respond 
+preemptively  to  financial  disruptions?  The  central  bank  has  to  have  earned  credibility  with 
+financial  markets  and  the  public  through  a  record  of  previous  actions  to  maintain  low  and 
+stable inflation. Furthermore, the central bank needs to clearly indicate the rationale for its 
+policy actions. Policymakers also need to monitor information about underlying inflation and 
+longer-run  inflation  expectations,  and  if  the  evidence  indicates  that  these  inflation 
+expectations  have  begun  rising  significantly,  the  central  bank  should  be  prepared  to  hold 
+steady or even raise the policy rate.  
+The Federal Reserve’s recent monetary policy decisions 
+The  framework  I  have  outlined  here  can  be  useful  in  understanding  the  rationale  for  the 
+recent decisions of the Federal Reserve and our policy approach going forward. Yesterday, 
+Chairman Bernanke provided a detailed discussion of economic and financial developments 
+and of the Federal Reserve’s policy strategy, so here I will just relate some key points of his 
+discussion to the major themes that I have emphasized today.  
+First,  we  are  proceeding  in  a  timely  manner  in  countering  any  developments  that  might 
+threaten economic or financial stability. The FOMC has not been basing its decisions solely 
+on the incoming flow of economic data; for example, the sequence of interest rate cuts was 
+initiated last fall even though growth in the gross domestic product had been quite strong in 
+the third quarter. Rather, our policy approach has reflected the rapid deterioration of financial 
+market  conditions,  which  has  contributed  to  a  worsening  of  the  economic  outlook  and  the 
+emergence of pronounced downside risks to economic growth and employment. 
+Second, in my view, the Federal Reserve has been acting and will continue to act decisively, 
+in  the  sense  that  our  policy  strategy  reflects  the  evolution  of  the  balance  of  risks  and  not 
+simply  a  change  in  the  modal  outlook  for  the  macroeconomy.  The  disruption  in  financial 
+markets poses a substantial downside risk to the outlook for economic growth, and adverse 
+economic or financial news has the potential to cause further strains. In that light, the Federal 
+Reserve’s  policy  strategy  is  aimed  at  providing  insurance  to  help  avoid  more  severe 
+macroeconomic outcomes.  
+Third, because we recognize that financial and economic conditions can change quickly, the 
+Federal  Reserve  is  prepared  to  respond  flexibly  to  incoming  information.  Of  course,  in 
+making its decisions, the Federal Reserve also gives careful consideration to the outlook and 
+risks  associated  with  the  second  aspect  of  our  dual  mandate,  namely,  price  stability. 
+Because  longer-run  inflation  expectations  appear  to  have  remained  reasonably  well 
+anchored, in my view, the easing of the stance of policy in response to deteriorating financial 
+conditions  seems  unlikely  to  have  an  adverse  impact  on  the  outlook  for  inflation. 
+Nonetheless,  we  will  continue 
+inflation  and  inflation 
+expectations, especially given the potential risks to price stability that are associated with the 
+rapid  increase  in  energy  prices  and  the  depreciation  of  the  dollar.  In short,  the  FOMC  will 
+determine the future course of monetary policy in light of the evolution of the macroeconomic 
+outlook  and  the  balance  of  risks  to  our  objectives  of  maximum  employment  and  price 
+stability.  
+incoming  data  on 
+to  monitor 
+6 
+ BIS Review 4/2008
+Conclusions 
+The monetary policy that is appropriate during an episode of financial market disruption is 
+likely to be quite different than in times of normal market functioning. When financial markets 
+experience  a  significant  disruption,  a  systematic  approach  to  risk  management  requires 
+policymakers to be preemptive in responding to the macroeconomic implications of incoming 
+financial market information, and decisive actions may be required to reduce the likelihood of 
+an  adverse  feedback  loop.  The  central  bank  also  needs  to  exhibit  flexibility  –  that  is,  less 
+inertia than would otherwise be typical – not only in moving decisively to reduce downside 
+risks arising from a financial market disruption, but also in being prepared to take back some 
+of that insurance in response to a recovery in financial markets or an upward shift in inflation 
+risks. 
+Finally,  while  I  have  argued  that  monetary  policy  needs  to  be  decisive  and  timely  in 
+responding  to  a  financial  market  disruption,  a  lot  of  art  as  well  as  science  is  involved  in 
+determining the severity and duration of the disruption and the associated implications for the 
+macroeconomy (Mishkin, 2007c). Indeed, assessing the macroeconomic risks to output and 
+inflation  in  such  circumstances  remains  among  the  most  difficult  challenges  faced  by 
+monetary  policymakers.  Furthermore,  a  central  bank  may  well  be  able  to  employ  non-
+monetary  tools  –  such  as  liquidity  provision  –  to  help  alleviate  the  adverse  impact  from 
+financial disruptions. All of these considerations must be taken into account in determining 
+the most appropriate course of monetary policy.  
+References 
+Benigno, Pierpaolo, and Michael Woodford (2003). “Optimal Monetary and Fiscal Policy: A 
+Linear-Quadratic  Approach,” 
+in  Mark  Gertler  and  Kenneth  Rogoff,  eds.,  NBER 
+Macroeconomics Annual 2003. Cambridge, Mass.: MIT Press, pp. 271-332. 
+Bernanke,  Ben  S.  (2004).  “Gradualism,”  speech  delivered  at  an  economics  luncheon  co-
+sponsored  by  the  Federal  Reserve  Bank  of  San  Francisco  (Seattle  Branch)  and  the 
+University of Washington, held in Seattle, May 20. 
+Bernanke,  Ben  S.,  and  Mark  Gertler  (1989).  “Agency  Costs,  Net  Worth,  and  Business 
+Fluctuations”, American Economic Review, vol. 79 (March), pp. 14-31. 
+Bernanke, Ben S., Mark Gertler, and Simon Gilchrist (1996). “The Financial Accelerator and 
+the Flight to Quality”, Review of Economics and Statistics, vol. 78 (February), pp. 1-15. 
+Bernanke, Ben S., Mark Gertler, and Simon Gilchrist (1999). “The Financial Accelerator in a 
+Quantitative  Business  Cycle  Framework”,  in  John  B.  Taylor  and  Michael  Woodford,  eds., 
+Handbook of Macroeconomics, vol. 1, part 3. Amsterdam: North-Holland, pp. 1341-93. 
+Clarida,  Richard,  Jordi  Galí,  and  Mark  Gertler  (1998).  “Monetary  Policy  Rules  in  Practice: 
+Some International Evidence”, European Economic Review, vol. 42 (June), pp. 1033-67. 
+Clarida,  Richard,  Jordi  Galí,  and  Mark  Gertler  (1999).  “The  Science  of  Monetary  Policy:  A 
+New Keynesian Perspective”, Journal of Economic Literature, vol. 37 (December), pp. 1661-
+707. 
+Clarida,  Richard,  Jordi  Galí,  and  Mark  Gertler  (2000).  “Monetary  Policy  Rules  and 
+Macroeconomic Stability: Evidence and Some Theory”, Quarterly Journal of Economics, vol. 
+115 (February), pp. 147-80. 
+English,  William  B.,  William  R.  Nelson,  and  Brian  P.  Sack  (2003).  “Interpreting  the 
+Significance of the Lagged Interest Rate in Estimated Monetary Policy Rules”, Contributions 
+to Macroeconomics, vol. 3 (no. 1), article 5. 
+BIS Review 4/2008 
+ 7
+Erceg, Christopher J., Dale W. Henderson, and Andrew T. Levin (2000). “Optimal Monetary 
+Policy with Staggered Wage and Price Contracts”, Journal of Monetary Economics, vol. 46 
+(October), pp. 281-313. 
+Giannoni,  Marc  P.  ,  and  Michael  Woodford  (2005).  “Optimal  Inflation-Targeting  Rules”,  in 
+Ben  S.  Bernanke  and  Michael  Woodford,  eds.,  Inflation  Targeting.  Chicago:  University  of 
+Chicago Press, pp. 93-172. 
+Goodfriend, Marvin, and Robert King (1997). “The New Neoclassical Synthesis and the Role 
+of  Monetary  Policy”, 
+in  Ben  S.  Bernanke  and  Julio  J.  Rotemberg,  eds.,  NBER 
+Macroeconomics Annual 1997. Cambridge, Mass.: MIT Press, pp. 231-83. 
+Hamilton,  James  D.  (1989).  “A  New  Approach  to  the  Economic  Analysis  of  Nonstationary 
+Time Series and the Business Cycle”, Econometrica, vol. 57 (March), pp. 357-84. 
+Kim, Chang-Jin, and Charles Nelson (1999). “Has the U.S. Economy Become More Stable? 
+A Bayesian Approach Based on a Markov-Switching Model of the Business Cycle”, Review 
+of Economics and Statistics, vol. 81 (November), pp. 608-16. 
+Kim, Chang-Jin, James Morley, and Jeremy Piger (2005). “Nonlinearity and the Permanent 
+Effects of Recessions”, Journal of Applied Econometrics, vol. 20 (no. 2), pp. 291-309.  
+King, Robert G., and Alexander L. Wolman (1999). “What Should the Monetary Authority Do 
+When Prices Are Sticky?” in John Taylor, ed., Monetary Policy Rules. Chicago: University of 
+Chicago Press, pp. 349-98. 
+Levin,  Andrew  T.,  Fabio  M.  Natalucci,  and  Egon  Zakrajšek  (2004).  “The  Magnitude  and 
+Cyclical Behavior of Financial Market Frictions”, Finance and Economics Discussion Series 
+2004-70. Washington: Board of Governors of the Federal Reserve System, December. 
+Levin,  Andrew,  Alexei  Onatski,  John  C.  Williams,  and  Noah  Williams  (2005).  “Monetary 
+Policy under Uncertainty in Micro-Founded Macroeconometric Models”, in Mark Gertler and 
+Kenneth Rogoff, eds., NBER Macroeconomics Annual 2005. Cambridge, Mass.: MIT Press, 
+pp. 229-88. 
+Mishkin,  Frederic  S.  (2007a).  “Inflation  Dynamics”,  speech  delivered  at  the  Annual  Macro 
+Conference, Federal Reserve Bank of San Francisco, San Francisco, March 23.  
+Mishkin, Frederic S. (2007b). “Monetary Policy and the Dual Mandate”, speech delivered at 
+Bridgewater College, Bridgewater, Va., April 10.  
+Mishkin,  Frederic  S.  (2007c).  “Will  Monetary  Policy  Become  More  of  a  Science?”  Finance 
+and Economics Discussion Series 2007-44. Washington: Board of Governors of the Federal 
+Reserve System, September.  
+Mishkin, Frederic S. (2007d). “Financial Instability and Monetary Policy”, speech delivered at 
+the Risk USA 2007 Conference, New York, November 5.  
+Mishkin,  Frederic  S.  (2007e).  “The  Federal  Reserve’s  Enhanced  Communication  Strategy 
+and  the  Science  of  Monetary  Policy”,  speech  delivered  to  the  Undergraduate  Economics 
+Association, Massachusetts Institute of Technology, Cambridge, Mass., November 29.  
+Rotemberg,  Julio,  and  Michael  Woodford  (1997).  “An  Optimization-Based  Econometric 
+Framework  for  the  Evaluation  of  Monetary  Policy”,  in  Ben  S.  Bernanke  and  Julio  J. 
+Rotemberg, eds., NBER Macroeconomics Annual 1997. Cambridge, Mass.: MIT Press, pp. 
+297-346. 
+Sack,  Brian  (2000).  “Does  the  Fed  Act  Gradually?  A  VAR  Analysis”,  Journal  of  Monetary 
+Economics, vol. 46 (August), pp. 229-56. 
+Schmitt-Grohé, Stephanie, and Martin Uribe (2005). “Optimal Fiscal and Monetary Policy in a 
+Medium-Scale  Macroeconomic  Model”,  in  Mark  Gertler  and  Kenneth  Rogoff,  eds.,  NBER 
+Macroeconomics Annual 2005. Cambridge, Mass.: MIT Press, pp. 383-425. 
+8 
+ BIS Review 4/2008
+Smets,  Frank,  and  Raf  Wouters  (2003).  “An  Estimated  Dynamic  Stochastic  General 
+Equilibrium Model of the Euro Area”, Journal of the European Economic Association, vol. 1 
+(September), pp. 1123-75. 
+Woodford, Michael (2003). Interest and Prices: Foundations of a Theory of Monetary Policy. 
+Princeton: Princeton University Press. 
+BIS Review 4/2008 
+ 9

@@ -1,0 +1,262 @@
+Agathe Côté: Modelling risks to the financial system 
+Remarks  by  Ms  Agathe  Côté,  Deputy  Governor  of  the  Bank  of  Canada,  to  the  Canadian 
+Association for Business Economics, Kingston, Ontario, 21 August 2012. 
+ Introduction 
+It  has  become  a  summer  tradition  for  the  Bank  of  Canada  to  address  the  Canadian 
+Association for Business Economics. This year it is my pleasure and I thank you for the kind 
+invitation. 
+An audience of colleagues and fellow economists offers me an opportunity to delve into a 
+complex subject, and one that is particularly timely: financial system risk. 
+We continue to see today the enormous costs to the global economy of the financial crisis 
+that started five years ago. Of the many lessons we have learned from the crisis, a key one is 
+this: we need to pay more attention to the stability of the financial system as a whole. 
+This means understanding better how risks get transmitted across financial institutions and 
+markets, and understanding better the feedback loop between the financial system and the 
+real  economy.  From  a  policy  perspective,  this  means  taking  a  system-wide  approach  to 
+financial regulation and supervision. Major reforms of the global financial system now under 
+way address this need. 
+System-wide risk has been a focus of attention at the Bank of Canada, and at other central 
+banks,  for  some  time.  Ten  years  ago,  the  Bank  issued  the  first  edition  of  its  semi-annual 
+Financial System Review in which it identifies key sources of risks to the Canadian financial 
+system  and  highlights  the  policies  needed  to  address  them.  A  year  later,  in  2003,  we 
+organized our annual conference on the theme of financial stability.1  
+In the wake of the global financial crisis, the Bank has intensified its research efforts in this 
+area.  In  particular,  a  priority  is  to  improve  the  theoretical  and  empirical  models  we  use  to 
+analyze  elements  of  the  financial  system  that  can  lead  to  the  emergence  of  risks  and 
+vulnerabilities. With more finely tuned quantitative models and tools, the Bank will be better 
+able to identify risks on a timely basis so that the private sector and policy-makers can take 
+corrective action to support financial stability. 
+Let me acknowledge upfront that this task is complex. While macroeconomic models have 
+long  been  used  to  guide  monetary  policy  decisions  by  central  banks,  models  of  financial 
+stability and systemic risk are much less advanced. 
+In my remarks today, I want to talk about the progress that we have made at the Bank in 
+modelling risks to the financial system. I will start by briefly describing the notion of systemic 
+risk  and  various  approaches  used  to  identify  and  measure  it.  I  will  then  discuss  two 
+state-of-the-art  quantitative  models  that  we  have  developed  to  improve  our  assessment of 
+risks to the Canadian financial system. 
+The multiple dimensions of systemic risk 
+Systemic, or system-wide, risk goes beyond individual institutions and markets. It is the risk 
+that the financial system as a whole becomes impaired and that the provision of key financial 
+services breaks down, with potentially serious consequences for the real economy. 
+                                                
+1  Bank of Canada annual conference on “The Evolving Financial System and Public Policy” held in December 
+2003 in Ottawa. 
+BIS central bankers’ speeches 
+ 1 
+Systemic risk manifests itself in different ways. There is a time dimension, which refers to the 
+accumulation of imbalances over time, and a cross-sectional dimension, which refers to how 
+risk is distributed throughout the financial system at a given point in time. 
+Procyclicality  is  the  key  issue  in  the  time  dimension.  It  reflects  the  tendency  to  take  on 
+excessive  risk  during  economic  upswings  –  too  much  punch  from  the  punchbowl,  if  you 
+will  –  and  to  become  overly  risk  averse  during  the  downturns.  Procyclicality  makes  the 
+financial system and the economy more vulnerable to shocks, and increases the likelihood of 
+financial distress. 
+Risk  concentrations  and  interconnections  are  the  key  issues  in  the  cross-sectional 
+dimension. Financial institutions can have similar exposures to shocks or be linked through 
+balance  sheets.  As  a  result,  losses  in  one  institution  can  lead  to  fears  of  contagion  that 
+amplify the adverse effects of the initial shock. For instance, uncertainty about the viability of 
+counterparties can lead to hoarding of liquidity, which may seem like an appropriate action 
+for the individual institution but can have disastrous consequences for the financial system as 
+a whole. 
+System-wide surveillance requires that we regularly assess the importance of various types 
+of systemic risk. How  we judge a particular risk will be based on the probability that it  will 
+lead  to  financial  system  distress,  and  on  the  extent  of  its  impact  should  that  distress 
+materialize. 
+Early-warning indicators 
+A fundamental challenge is to detect the risks arising from both global and domestic sources 
+in  an  environment  with  a  vast  number  of  potential  indicators.  Therefore,  one  direction  of 
+research at the Bank has been to isolate the key signals from this broad information set by 
+identifying  a  smaller  group  of  variables  that  can  serve  as  early-warning  indicators  of 
+emerging imbalances. 
+Since financial crises in Canada have been rare, international data are used to help establish 
+numerical  thresholds  for  each  domestic  indicator.  For  example,  if  international  evidence 
+suggests that credit growth above a certain rate tends to be associated with increased risk, 
+then a period with credit growth above the threshold would suggest an elevated probability of 
+financial stress. Selecting the level of thresholds involves a difficult trade-off between false 
+alarms  and  failure  to  signal  an  event,  so  in  practice  the  early-warning  indicators  are  used 
+mainly to identify areas where more detailed investigation may be warranted. They provide 
+an  objective,  practical  starting  point  to  detect  the  buildup  of  imbalances  in  the  financial 
+system. 
+One early-warning indicator that we regularly track is the deviation of the aggregate private 
+sector credit-to-GDP  ratio from  its trend  (the  credit-to-GDP gap),  which  serves  as  a  rough 
+measure  of  excessive  leverage  across  the  financial  system  (Chart  1).  This  indicator  has 
+been shown to provide some leading information as a predictor of banking crises, and has 
+been proposed by the Basel Committee on Banking Supervision (BCBS) as a useful guide 
+for  decisions  about  when  to  activate  the  countercyclical  capital  buffer  –  an  important 
+macroprudential policy instrument in the Basel III agreement.2  
+Given the complexity of systemic risk, it is unrealistic to expect a single measure or indicator 
+to  serve  all  purposes.  Combining  indicators  can  produce  better  signals  with  fewer  false 
+alarms  and  undetected  crises.  For  example,  research  shows 
+the 
+that  combining 
+                                                
+2  See D. X. Chen and I. Christensen, “The Countercyclical Bank Capital Buffer: Insights for Canada.” Bank of 
+Canada Financial System Review (December 2010): 29–34. 
+2 
+ BIS central bankers’ speeches 
+credit-to-GDP gap with a measure of real estate prices produces an indicator that performs 
+better than either variable on its own.3  
+Our own work at the Bank reinforces findings elsewhere that aggregate private sector credit 
+and real estate prices are among the most reliable indicators of financial stress. 
+Identifying sources of risk is essential, but so is determining the likelihood that these risks will 
+materialize. Therefore, another important aspect of ongoing research is the development of 
+statistical models to help us forecast the probability that a crisis will occur based on a group 
+of indicators.4  
+Macro stress tests 
+Early-warning indicators are useful to gauge the probability of financial stress, but a thorough 
+assessment also requires an analysis of what could happen if the risk materializes. This is 
+the goal of macro stress testing. 
+A good part of the Bank’s efforts in recent years has been devoted to developing and refining 
+stress-testing models. This class of models takes a large but plausible macroeconomic shock 
+as a starting point and analyzes its impact on the balance sheets of banks or other sectors of 
+the economy. 
+The  Bank  now  has  two  main  stress-testing  models  to  help  monitor  risks  to  the  financial 
+system.  These  models  can  also  be  used  to  assess  the  potential  impact  of  policy  tools  or 
+regulatory actions in mitigating financial system risks. 
+Assessing risks from elevated household debt 
+The first, the Household Risk Assessment Model, or HRAM, is a microsimulation model that 
+assesses how the debt burden of Canadian households can affect financial stability. Using 
+microdata  from  household  balance  sheets,  the  model  allows  us  to  estimate  how  various 
+shocks would affect the distribution of debt within the household sector. The simulations take 
+into  account  changes  over  time  in  individual  debt  levels,  as  well  as  changes  in  household 
+wealth from savings and fluctuations in the value of financial assets. Tracking the asset side 
+of  household  balance  sheets  gives  us  a  more  accurate  picture  of  systemic  risk  since 
+changes in wealth affect households’ ability to pay their debt. 
+Household vulnerabilities depend not only on the average level of debt, but also on how debt 
+is distributed across individuals. One strength of the model is precisely its ability to account 
+for  this  distribution.  For  instance,  while  record-low  interest  rates  in  recent  years  have 
+contributed to a relatively low aggregate household debt-service ratio, the share of Canadian 
+households that are considered most vulnerable – those with a debt-service ratio equal to or 
+higher than 40 per cent – has climbed to above-average levels, as has the proportion of debt 
+held by these vulnerable households (Chart 2). 
+Using HRAM, we estimate that if interest rates were to rise to 4.25 per cent by mid-2015, the 
+share  of  highly  indebted  households  would  rise  from  slightly  above  6  per  cent  in  2011  to 
+roughly 10 per cent by 2016, while the proportion of debt held by these households would 
+rise from 11.5 per cent to about 20 per cent over the same period. 
+So while the aggregate household debt-service ratio paints a somewhat rosy picture, taking 
+into account distributions gives us a clearer and more cautionary indication of how vulnerable 
+our financial system actually is to household debt. 
+                                                
+3  See C. Borio and M. Drehmann, “Assessing the Risk of Banking Crises – Revisited,” BIS Quarterly Review 
+(March 2009): 29–46. The Bank of Canada is also conducting research on approaches to combine indicators. 
+4  For example, logit and probit models are used widely to calculate the probability of a crisis. 
+BIS central bankers’ speeches 
+ 3 
+Another strength of the model is that it provides a flexible tool for simulating the impact on 
+household  solvency  of  a  wide  range  of  potential  shocks,  such  as  an  increase  in 
+unemployment.  HRAM  indicates  that  household  loans  in  arrears  would  more  than  double 
+under  a  severe  labour  market  shock  similar  to  that  observed  in  the  recession  of  the  early 
+1990s. 
+Despite  the  model’s  strengths,  we  continue  to  enhance  our  analysis  by  improving  HRAM. 
+Expanding  the  behavioural  aspects  of  the  model  is  one  way  to  do  this.  For  instance,  the 
+model currently allows distressed households to pay their debts by selling their liquid assets, 
+but not their homes. Work is also under way to improve the design of the shock scenarios. 
+Results  of  stress  tests  using  HRAM  are  regularly  reported  in  the  Bank’s  Financial  System 
+Review  and  constitute  an  important  element  of  our  overall  assessment  of  the  risks 
+associated with household finances. 
+Assessing contagion effects in the banking system 
+HRAM  provides  invaluable  information  on  vulnerabilities  in  the  household  sector,  but  the 
+Bank is also interested in assessing risks more broadly within the Canadian financial system. 
+To this end, we have been working for several years on developing a MacroFinancial Risk 
+Assessment Framework (or MFRAF).5  
+Drawing  on  detailed  data  from  bank  balance  sheets,  MFRAF  is  a  quantitative  model  that 
+tracks the contribution of individual banks to systemic risk. Traditional stress-testing models 
+focus exclusively on solvency risk, and estimate the overall risk to the financial system by 
+simply aggregating credit (or other asset) losses that would materialize at individual banks in 
+the  event  of  a  severe  shock.  MFRAF  goes  beyond  this  traditional  approach  by  taking  into 
+account  linkages  among  banks  arising from  counterparty  exposures  –  or  network  spillover 
+effects – as well as funding liquidity risk, that is, the risk of market-based runs on banks. 
+The financial crisis illustrated the significant risks associated with a deterioration of funding 
+liquidity. The collective reactions of market participants led to mutually reinforcing solvency 
+and  liquidity  problems  at  banks  around  the  world.  As  funding  liquidity  evaporated,  many 
+well-capitalized institutions had to take writedowns on illiquid assets, or sell them at a loss, 
+creating uncertainty in the market about their solvency and adding to the downward pressure 
+on asset prices. 
+MFRAF has been built to integrate funding liquidity risk as an endogenous outcome of the 
+interactions  between  solvency  concerns  and  the  liquidity  profiles  of  banks.  This  strong 
+microeconomic  foundation  constitutes  a  major  innovation  in  macro  stress-testing  models. 
+MFRAF also incorporates network externalities caused by the defaults of counterparties, with 
+the size of a counterparty’s interbank exposures increasing the likelihood of spillover effects. 
+A  key  lesson  from  the  model  is  that  failure  to  account  for  either  funding  liquidity  risk  or 
+interbank  exposures  could  lead  to  significant  underestimation  of  the  risks  to  the  financial 
+system  as  a  whole  if  the  banking  system  is  undercapitalized  and  relies  extensively  on  the 
+short-term funding market.6 Importantly, the loss distributions generated by the model exhibit 
+fat tails, a key feature of the actual distribution of financial system risks (Chart 3).7  
+                                                
+5  Work  on  MFRAF  started  in  2006,  ahead  of  the  2007  IMF-FSAP  exercise  for  Canada  which  involved  the 
+assessment  of  the  Canadian  banking  sector  using  a  credit-risk  model  only.  The  analytical  foundation  of 
+MFRAF is based on the work by S. Morris and H. S. Shin, “Illiquidity Component of Credit Risk,” Princeton 
+University,  2009,  which  provides  a  theoretical  framework  for  roll-over  risk,  and  by  F.  Allen  and  D.  Gale, 
+“Financial  Contagion,”  Journal  of  Political  Economy  108,  1  (2000):1–33,  which  explores  the  spread  of 
+contagion in a banking network. 
+6  This hypothetical banking system consists of six major banks whose main balance-sheet parameters (capital 
+ratio level, reliance on short-term funding and holdings of liquid assets) are in line with those observed in 2007 
+4 
+ BIS central bankers’ speeches 
+The fact that the model is able to replicate this important stylized fact demonstrates that it 
+has significant potential as a tool for assessing systemic risk. Nevertheless, while MFRAF is 
+already somewhat complex, the layers of interaction will need to be further augmented. For 
+instance,  the  model  misses  any  negative  feedback  that  could  occur  between  heightened 
+risks to the banking system and the real economy. The model could also be expanded over 
+time to include other types of financial institutions and markets. 
+Compared  with  other  approaches  that  use  market-based  data,  such  as  the  asset-pricing 
+approach, the transmission channel in models like MFRAF is transparent, and this improves 
+our interpretation of results. Because of this “story-telling” ability, many central banks have 
+begun to use this type of framework in their financial stability analysis.8  
+In  addition  to  assessing  risks,  MFRAF  can  be  used  to  examine  the  merits  of  policy  or 
+regulatory initiatives such as capital and liquidity rules. As the model becomes more refined, 
+the objective is to use it more to complement other existing macro stress-testing exercises 
+and  to  sharpen  our  analysis  and  communication  of  risks  in  the  Bank’s  Financial  System 
+Review. 
+Conclusion 
+Let me conclude. 
+The Bank of Canada is conducting extensive research into finding methodologies and tools 
+to identify and measure systemic risk. 
+While  work  in  this  area  is  extremely  complex,  the  Bank  has  made  substantial  progress  in 
+recent  years.  We  now  have  two  state-of-the  art  models.  And  with  HRAM,  the  Bank  of 
+Canada is one of the few central banks at the leading edge of using microsimulation models 
+to assess vulnerabilities in the household sector. 
+Our efforts to build these models have provided us with important lessons. 
+First, distributions matter – we cannot rely solely on aggregate data: distributional features 
+and  complex  interactions  are  very  important  for  assessing  risks.  This  means  developing 
+models  that  capture  these  effects.  Our  household  simulation  model  is  aimed  directly  at 
+understanding  how  the  distribution  of  debts,  assets  and  income  affects  financial  stability. 
+MFRAF  uses  information  about  the  interconnections  of  individual  financial  institutions 
+because these can lead to non-linear network effects that are also important for assessing 
+systemic risks. 
+Second, predicting behaviour under stress conditions is very difficult. Models need to be able 
+to  handle  a  variety  of  “what-if”  scenarios  corresponding  to  different  assumptions  about 
+behaviours under stress. 
+Finally,  we  need  to  consider  the  many  different  sources  of  risk  to  the  financial  sector  and 
+take into account their cumulative effects and interactions; otherwise we may underestimate 
+risks. 
+                                                                                                                                                   
+for international banks that were bailed out during the crisis. See C. Gauthier and M. Souissi, “Understanding 
+Systemic  Risk  in  the  Banking  Sector:  A  MacroFinancial  Risk  Assessment  Framework,”  Bank  of  Canada 
+Review (Spring 2012): 29–38. 
+7  See  A.  Haldane,  “Tails  of  the  Unexpected,”  speech  to  the  University  of  Edinburgh  Business  School, 
+8 June 2012). 
+8  See C. Borio and M. Drehmann, “Assessing the Risk of Banking Crises - Revisited,” BIS Quarterly Review 
+(March 2009): 29–46. Also see A. Foglia, “Stress Testing Credit Risk: A Survey of Authorities’ Approaches,” 
+International Journal of Central Banking 5, no. 3 (2009): 9–45. 
+BIS central bankers’ speeches 
+ 5 
+Obviously,  quantitative  measures  alone  will  never  be  enough  to  get  a  complete  picture, 
+especially since the financial system evolves rapidly. Intelligence gathered from discussions 
+with  the  financial  sector,  as  well  as  information  shared  with  other  policy-makers  and 
+supervisors here in Canada and in the international community, will always be critical to the 
+overall assessment of the risks. 
+While we are making progress, it is important to remember that financial system modelling is 
+still 
+infancy.  The  goal  –  understanding,  preventing,  and  reducing  systemic 
+|risk – deserves our attention, diligent research and hard work. 
+It has been my pleasure to share some of the Bank’s efforts with you today. 
+Thank you very much. 
+its 
+in 
+6 
+ BIS central bankers’ speeches 
+    BIS central bankers’ speeches 
+ 7 
+ 8 
+ BIS central bankers’ speeches 

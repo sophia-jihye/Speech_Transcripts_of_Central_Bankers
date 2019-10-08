@@ -1,0 +1,515 @@
+Masaaki Shirakawa: Toward development of robust payment and 
+settlement systems 
+Speech  by  Mr  Masaaki  Shirakawa,  Governor  of  the  Bank  of  Japan,  at  a  symposium 
+commemorating  the  25th  anniversary  of  the  Center  for  Financial  Industry  Information 
+Systems, Tokyo, 13 November 2009. 
+ Introduction 
+I. 
+It is a great pleasure to have this opportunity to speak at the symposium commemorating the 
+25th anniversary of the Center for Financial Industry Information Systems (FISC). Since its 
+establishment  in  1984,  the  center  has  greatly  contributed  to  strengthening  the  safety  of 
+financial  information  systems  and  improving  the  sophistication  and  efficiency  of  financial 
+services  in  Japan.  FISC  has  served  the  industry  through  its  wide-ranging  activities,  which 
+include developing industry guidelines on information system audit and security, publishing 
+annual  reports  on  financial  information  systems  in  Japan,  and  organizing  seminars  on 
+various topics. As the center marks its quarter-century milestone, I would like to express my 
+respect and gratitude for the work it has done over the years. 
+The twenty-five years of FISC closely overlap with the history of the birth and evolution of the 
+Bank of Japan Financial Network System (BOJ-NET). The  Bank of Japan had just started 
+developing the system when the center was founded in 1984. The system went live in 1988, 
+followed by a number of improvements thereafter. These include the introduction of delivery-
+versus-payment (DVP) for Japanese government bonds (JGBs), the development of an out-
+of-region backup center in Osaka, a changeover from deferred net settlement (DNS) to real-
+time gross settlement (RTGS), and the introduction of liquidity-saving features into the RTGS 
+system. These measures have contributed to enhancing the safety and efficiency of payment 
+and settlement systems in Japan. 
+One major objective behind improvements in payment and settlement systems is to avert the 
+negative impact of a financial crisis on the economy. As recent events in the global financial 
+system  have  shown,  unfortunately,  financial  crises  occur  repeatedly.  While  each  crisis 
+emerges  in  a  different  manner,  there  are  certain  common  features:  an  overly  optimistic 
+outlook on the economy, followed by excessive leverage and liquidity, finally leads to a crisis; 
+and unwinding of leverage and contraction of liquidity take place once the crisis is underway. 
+Preventing the emergence of a bubble economy and the occurrence of a financial crisis is a 
+challenge we must continuously tackle. However, considering the history of recurring "boom-
+and-bust"  cycles,  I  must  emphasize  the  importance  of  building  a  robust  financial 
+infrastructure  that  can  absorb  shocks  in  a  flexible  manner.  This  is  especially  relevant  for 
+payment  and  settlement  systems,  which  form  the  bedrock  of  the  financial  infrastructure. 
+Today,  I  would  like  to  present  to  you  the  Bank’s  views  on  the  challenges  that  need  to  be 
+addressed to further strengthen the robustness of payment and settlement systems in Japan. 
+II. 
+Performance of Japan’s payment and settlement systems during the recent 
+crisis 
+The failure of Lehman Brothers in autumn 2008 triggered unprecedented disruptions in the 
+global  financial  market.  The  aftermath  of  the  disruptions  challenged  Japan’s  payment  and 
+settlement systems to prove its robustness against shocks. Overall, a favorable assessment 
+can be made that the payment and settlement systems in Japan withstood the turmoil in the 
+financial  market,  operating  effectively  as  designed.  At  a  minimum,  unfavorable  issues  in 
+payment and settlement systems did not trigger a chain of defaults among Japan’s financial 
+institutions.  It  is  true  that  the  financial  crisis  revealed  some  tasks  that  still  need  to  be 
+BIS Review 155/2009 
+ 1
+addressed. Nevertheless, I would like to emphasize that the systems have demonstrated a 
+high level of robustness, and praise the patient efforts that the relevant parties have made to 
+improve  the  systems  over  the  years.  Chart  1  shows  some  major  streams  of  ceaseless 
+efforts. In order to correctly acknowledge the progress made to date, I will start by giving two 
+examples. 
+Elimination of foreign exchange settlement risk 
+A. 
+First,  the  arrangement  for  eliminating  foreign  exchange  settlement  risk  has  functioned 
+effectively. Settlement of foreign exchange transactions entails the risk, namely principal risk, 
+that  a  party  to  a  trade  pays  one  currency,  for  example,  the  yen,  but  cannot  receive  the 
+counter-currency,  for  example,  the  U.S.  dollar  –  a  risk  that  arises  due  to  the  time  zone 
+difference  between  the  settlement  systems  for  the  two  currencies.  In  order  to  resolve  this 
+problem, major banks around the world jointly invested to establish CLS Bank International 
+(CLS;  stands  for  continuous  linked  settlement)  in  New  York,  which  began  its  settlement 
+service in 2002. Major economies’ central banks, including the Bank of Japan, played a key 
+role in the establishment of CLS. 
+Under the CLS system, settlement of the two currency legs is carried out simultaneously on a 
+payment-versus-payment (PVP) basis. Each participant holds an account for the two traded 
+currencies  at  CLS,  and  the  transfer  of  the  two  currencies  is  made  on  the  two  parties’ 
+accounts simultaneously only if the payer of each currency has sufficient funds or foreign-
+currency collateral for settlement in their accounts (Chart 2). Transfer of funds between CLS 
+and its participants takes place on their accounts at the central banks, currency by currency. 
+CLS deals with seventeen eligible currencies, and the CLS settlement process takes place 
+during a five-hour window corresponding to the morning hours in Europe, early evening in 
+Japan, and very early morning in the United States, respectively. 
+CLS has played a critical role throughout the recent financial crisis. On an average day, CLS 
+settles  3  to  4  trillion  U.S.  dollars,  which  accounts  for  almost  60  percent  of  the  foreign 
+exchange settlements worldwide.1 While the value further surged immediately following the 
+failure  of  Lehman  Brothers,  CLS  completed  settlement  of  the  significant  amounts  of 
+payments in a stable manner. 
+The effective functioning of CLS was particularly important because, over the course of the 
+recent global financial crisis, the functioning of the U.S. dollar funding market was severely 
+impaired  and  non-U.S.  financial  institutions,  including  Japanese  and  European  financial 
+institutions, became increasingly dependent on foreign exchange swaps as a source of U.S. 
+dollar  funding.  If  CLS’s  PVP  mechanism  had  not  existed  and  financial  institutions  had 
+confronted foreign exchange settlement risk under the rapid undermining of confidence in the 
+soundness of financial institutions, they would have had much more difficulty in funding U.S. 
+dollars through the foreign exchange swap market. Simultaneous multi-currency settlement 
+in  CLS  acted  as  a  bulwark  to  protect  against  the  intensifying  shock  of  the  global  financial 
+crisis. 
+Ensuring settlement of JGB transactions 
+B. 
+A second example is that JGB transactions continued to be settled without serious problems 
+despite the significant shock arising from the failure of Lehman Brothers Japan (LBJ). I will 
+explain the JGB settlement process, focusing on a central counterparty (CCP) called Japan 
+Government Bond Clearing Corporation (JGBCC). 
+                                                 
+1   See Bank for International Settlements, Committee on Payment and Settlement Systems (2008). 
+2 
+ BIS Review BIS Review 155/2009
+A CCP replaces a bilateral contract between parties with two contracts between the CCP and 
+the individual party. Thus, the CCP becomes a buyer to every seller and a seller to every 
+buyer.  This  brings  two  benefits.  First,  the  CCP  offsets  a  large  number  of  obligations  and 
+claims across the participants, thereby reducing the amount of securities and cash needed 
+for settlement. For example, in September 2009, an average of 35 trillion yen worth of JGB 
+transactions was submitted to the JGBCC every day, but this came to a net 9 trillion yen or a 
+quarter of the amount of the original transactions.2  
+Second,  in  the  event  of  a  participant’s  default,  a  CCP  guarantees  performance  of  delivery 
+and payment obligations to other participants (Chart 3). In such an event, the CCP becomes 
+unable to receive securities from the participant in default, which would result in the failure of 
+delivery to other participants on the settlement day, the so-called "settlement fails." It would 
+immediately attempt to purchase securities from the market and therefore resolve settlement 
+fails.3  For  payment  obligations,  the  CCP  borrows  funds  to  make  payments  to  other 
+participants  as  scheduled.  It  repays  funds  by  liquidating  the  securities  that  were  originally 
+intended for delivery to the participant in default. 
+A CCP cannot function well without appropriate risk management measures. A CCP needs 
+to be equipped with contingency liquidity funding arrangements to continue the performance 
+of payment obligations. Moreover, it needs to have adequate financial resources and loss-
+sharing  arrangements  among  the  participants,  so  as  to  be  prepared  for  potential  losses 
+arising from the closing-out of a defaulter’s outstanding positions. 
+JGBCC  and  other  CCPs  in  Japan  have  been  working  to  strengthen  risk  management 
+measures. Thanks to these continuous efforts, the existing risk management controls have 
+proved effective and the operations of CCPs have been ensured during the recent financial 
+crisis.  With  LBJ’s  default,  JGBCC  had  to  fund  significant  amounts  of  liquidity  very  quickly. 
+Nevertheless,  it  managed  to  raise  funds  from  external  sources  using  the  existing  liquidity 
+arrangements. In addition, while JGBCC and other CCPs suffered losses from the closing-
+out  of  LBJ’s  outstanding  positions,  those  losses  were  fully  covered  by  collateral  that  LBJ 
+provided.4  
+Having said that, there is still room for improvements in CCPs’ risk management framework. 
+Moreover,  there  is  also  a  long-standing  issue  with  respect  to  JGBCC.  The  netting  ratio  of 
+JGBCC is not high, because not all major market players participate in JGBCC. Although it is 
+fundamentally  a  matter  between  JGBCC  and  the  participants,  a  higher  netting  ratio  would 
+benefit  all  market  participants.  From  this  perspective,  the  Bank  expects  CCPs  in  Japan  to 
+provide the lead in efficient and safe clearing business with strengthened risk management 
+framework. 
+                                                 
+2   For monthly statistics of major payment and settlement systems in Japan, see the Payment and Settlement 
+Statistics released on the Bank’s web site (http://www.boj.or.jp/en/index.htm). 
+3   After LBJ’s failure, a chain of settlement fails has spread to the broad JGB markets via the CCP and other 
+market participants who had bilateral contracts with LBJ.  Since many institutional investors had little tolerance 
+to  settlement  fails,  market  participants  in  general  became  concerned  about  the  creditworthiness  of 
+counterparties, and the liquidity of repo market has shrunk. To address these issues, the securities industry is 
+working  to  increase  acceptance  of  settlement  fails  and  reviewing  the  fails  practice.  See  Bank  of  Japan, 
+Financial Markets Department (2009b) (available only in Japanese). For the number and average duration of 
+settlement fails, see Figures on Settlement of Japanese Government Bonds released on the Bank’s web site 
+(http://www.boj.or.jp/en/index.htm). 
+4   See Bank of Japan, Payment and Settlement Systems Department (2009a) (available only in Japanese). It 
+explains how payment and settlement systems in Japan coped with the failure of LBJ, and summarizes the 
+lessons  learned  from  the  experience.  Also  see  Bank  of  Japan,  Financial  Markets  Department  (2009a) 
+(available only in Japanese) and Bank of Japan (2009b). They summarize what implications LBJ’s failure had 
+on Japan′s money markets and identify challenges for Japan’s repo markets. 
+BIS Review 155/2009 
+ 3
+Apart  from  use  of  a  CCP,  the  industry  had  worked  on  the  introduction  of  RTGS,  the 
+achievement  of  DVP  for  securities  transactions,  and  the  dematerialization  of  securities 
+certificates. Those safeguarding measures are now taken for granted, but the fact that these 
+mechanisms prevented initial disruptions to amplify the scale of the financial crisis through 
+malfunction of payment and settlement systems should not be underestimated (Chart 1). 
+Challenges confirmed from the experience of the financial crisis 
+III. 
+As I explained, payment and settlement systems in Japan functioned well during the financial 
+crisis.  Nevertheless,  there  are  several  remaining  challenges  to  the  development  of  robust 
+payment  and  settlement  systems.  The  financial  crisis  provoked  active  debate  on  financial 
+supervision and regulation, and opinions have not converged yet. Compared with this topic, 
+some consensus has been reached on the way to strengthen the robustness of payment and 
+settlement systems. 
+What  is  a  robust  payment  and  settlement  system?  It  is  a  payment  and  settlement  system 
+capable  of  preventing  the  outbreak  of  a  financial  crisis  even  in  the  face  of  an  extremely 
+stressful  shock  to  itself.  To  realize  such  a  robust  system,  it  is  important  to  identify  what 
+determines the magnitude of systemic risk, that is, the factor that influences the probability of 
+a  certain  shock  leading  to  a  financial  crisis.  In  my  view,  the  following  three  measures  are 
+essential to mitigate systemic risk in payment and settlement systems: (1) reducing the size 
+of  outstanding  settlement  positions  of  individual  market  participants;  (2)  taking  appropriate 
+measures  depending  on  the  state  of  interconnectedness  embedded  in  payment  and 
+settlement  systems;  and  (3)  enhancing  alternative  arrangements  for  critical  settlement 
+functions.  I  will  explain  the  challenges  for  Japan’s  payment  and  settlement  systems, 
+according to these three factors. 
+Reducing the size of outstanding settlement positions 
+A. 
+The  first  challenge  is  to  reduce  the  size  of  individual  market  participants’  outstanding 
+settlement  positions.  While  the  size  of  financial  transactions  is  a  given  with  respect  to  a 
+payment and settlement system, the settlement risk of financial transactions can be reduced. 
+The key in this regard is outstanding settlement positions or outstanding exposures arising 
+from settlement activities. Please see Chart 4. The horizontal axis shows the time from trade 
+execution  to  settlement,  and  the  vertical  axis  shows  the  settlement  value  of  financial 
+transactions.  The  longer  the  time  to  settlement,  in  which  participants  are  exposed  to 
+settlement risk, the more likely one could suffer losses from the default of the counterparty. 
+Principal risk in securities and foreign  exchange settlements can be eliminated using DVP 
+and PVP mechanisms. However, market risk – a risk of loss arising from price movements 
+during replacement of unsettled positions – increases as time to settlement lengthens. In an 
+intuitive sense, the area inside the rectangle in this graph shows the size of risk exposures. 
+Given  the  value  of  financial  transactions  or  settlement  on  the  vertical  axis,  a  key  point  for 
+systemic risk control is how to reduce the length of time on the horizontal axis. 
+If a time from trade execution to settlement is shortened, outstanding settlement positions will 
+be  reduced.  Chart  5  shows  the  outstanding  settlement  positions  where  one  unit  trade  is 
+executed  per  day.  In  the  next-day  settlement  system  –  the  so-called  T+1  settlement  – 
+outstanding settlement positions will be reduced to one third, compared with T+3 settlement. 
+Moreover, if securities are delivered a day after the trading day, settlement fails, which may 
+arise from the default of market participants, are likely to be resolved more quickly. In other 
+words, a shorter settlement cycle contributes to reducing the risk of loss and liquidity burden 
+arising from the replacement of unsettled positions. 
+In  the  United  States  and  the  United  Kingdom,  the  government  securities  markets,  where 
+huge value is exchanged every day, have moved to T+1 settlement and have managed to 
+reduce  outstanding  settlement  positions.  In  Japan,  market  participants  have  initiated  a 
+4 
+ BIS Review BIS Review 155/2009
+project that aims to achieve a shorter settlement cycle for the government securities market. 
+A shorter settlement cycle not only reduces the size of outstanding settlement positions, but 
+also  makes  government  securities  more  attractive  financial  instruments.  Government 
+securities are highly liquid assets that are easily convertible to cash, but the securities with 
+the T+1 settlement are more liquid and more favorable than those with the T+3. Government 
+securities  are  extensively  traded  among  a  wide  range  of  market  participants  including 
+dealers,  institutional  investors,  and  foreign  investors.  The  move  to  shorten  the  settlement 
+cycle  would  require  operational  changes  to  the  front,  middle,  and  back  offices  of  those 
+market participants. While much work needs to be done on the market side, the Bank will 
+provide extensive support to market participants’ efforts. 
+Taking appropriate measures depending on the state of interconnectedness 
+B. 
+The  second  challenge  is  to  take  appropriate  measures  that  consider  the  state  of 
+interconnectedness  of  settlement  between  market  participants.  In  practice,  the  network  of 
+interconnections within the financial system is very complex. In a single financial market or a 
+payment and settlement system, market participants are interconnected through trading and 
+settlement  activities.  Moreover,  market  participants  participate  in  multiple  financial  markets 
+including money, bonds, equity, and derivatives markets, and settle their funds and securities 
+transactions 
+through  multiple  payment  and  settlement  systems.  This  creates 
+interconnectedness between payment and settlement systems by common participants. 
+While interconnectedness raises important issues for financial supervision and regulation, I 
+will  focus  on  the  issue  of  interconnectedness  within  payment  and  settlement  systems. 
+Chart 6-1 illustrates the workings of a bilateral settlement network, with market participants 
+represented by circles and obligations between market participants indicated by lines. This is 
+a  model  of  one  hundred  market  participants  settling  transactions  in  a  given  payment  and 
+settlement  system.5  Suppose  a  financial  institution  goes  bankrupt  and  fails  to  perform 
+settlement  obligations;  depending  on  the  size  of  default,  this  could  lead  to  subsequent 
+defaults of its counterparties at the ends of lines. The chart does not take into account the 
+timing  of  each  settlement,  but  the  order  of  securities  deliveries  and  payments  is  also  an 
+important  factor  under  the  RTGS  environment.6  For  the  bilateral  settlement,  it  is  important 
+that  individual  participants  have  adequate  management  of  counterparty  risk;  for  example, 
+collection of margins and the closing-out procedures in the event of a counterparty’s default. 
+Chart 6-2 shows an image of settlement via a CCP. As you can see, the network complexity 
+is  resolved  because  a  bilateral  contract  between  parties  is  replaced  with  a  set  of  new 
+contracts  with  the  CCP.  On  the  contrary,  risks  are  concentrated  on  the  CCP.  From  this 
+perspective, and based on the experience of LBJ’s default, CCPs in Japan are reexamining 
+their  risk  management,  such  as  by  reviewing  contingency  liquidity  arrangements  and 
+strengthening  stress  testing  schemes.  It  is  not  easy  to  reach  a  consensus  among  diverse 
+                                                 
+5   See  Imakubo  and  Soejima  (2008a)  (available  only  in  Japanese).  It  shows  that  the  network  of  bilateral 
+obligations  within  financial  markets  has  a  very  complex  structure.  It  notes  that  the  settlement  network  in 
+money markets in Japan has shifted from a “hub-and-spoke” model centered on money market brokers, to a 
+“dual  structure  of  core  and  periphery”  model  with  small-world  network  property,  and  examines  what 
+implications  the  changes  in  network  structure  have  on  systemic  risk.  It  also  gives  examples  of  empirical 
+studies on financial networks  with respect to the money market transactions in Italy, settlement in Fedwire, 
+and interbank exposures in Switzerland. 
+6   See Imakubo and Soejima (2008b) (available only in Japanese) and Bank of Japan (2009a) (Box 2-2). They 
+verify  how  liquidity  shock  propagates  within  a  network  through  a  chain  of  settlement  delays  using  the  real 
+settlement data of BOJ-NET. The former demonstrates that the contagion process of liquidity shock is strongly 
+dependent on the network structure. The latter demonstrates that the liquidity saving features of the BOJ-NET 
+Funds Transfer System significantly reduces the magnitude of contagion triggered by liquidity shock using a 
+simulation approach. 
+BIS Review 155/2009 
+ 5
+participants  in  CCPs,  but  the  Bank  is  confident  that  CCPs  in  Japan  are  making  progress 
+toward better risk management commensurate with the important roles of CCPs. 
+Chart 6-3 shows one example of the intermediate structure. The settlement via CLS, which I 
+explained earlier, corresponds to this structure. This network model also has a weak point. In 
+the CLS settlement, a large number of indirect participants settle their transactions through a 
+relatively  small  number  of  direct  participants.  In  this  business  model,  a  direct  participant 
+takes on significant credit and liquidity risks due to indirect participants for which they settle, 
+and this issue was highlighted during the experience of the recent financial crisis. In relation 
+to CLS, another issue is that some important transactions are not eligible for the five-hour 
+settlement  window  of  CLS  and  are  settled  outside  CLS.7  To  address  this  point,  CLS  is 
+exploring the possibility of setting up a second settlement window. 
+In  sum,  it  is  important  that  every  payment  and  settlement  system  takes  systemic  risk 
+reduction measures according to the state of interconnectedness and the network structure. 
+As a tangent to the main point, I will give you an example of an attempt to reduce systemic 
+risk;  namely,  taking  advantage  of  a  CCP  for  the  over-the-counter  (OTC)  credit  derivatives 
+market,  which  has  attracted  much  attention  recently.  In  the  United  States  and  Europe, 
+several  CCPs  for  credit  default  swaps  (CDSs)  have  been  established.  Traditionally,  CDS 
+contracts traded in the OTC market were settled bilaterally between market participants, as 
+shown in Chart 6-1. The global CDS markets have expanded rapidly since the early 2000s, 
+creating a complicated web of obligations between market participants. Major dealers’ back 
+offices could not catch up with the expansion of CDS transactions, causing significant growth 
+in a backlog of outstanding confirmations. As a result, it is said that regulatory authorities and 
+market participants themselves faced difficulty understanding the size of the CDS market and 
+the  whole  structure  of  counterparty  risk  that  the  participants  were  exposed  to  via  bilateral 
+transaction. The startup of CCPs for CDSs, as well as encouragement of the use of trade 
+confirmation services and trade repository services, aimed to improve risk management and 
+market  transparency.  Broad  use  of  CCPs  is  also  expected  to  promote  standardization  of 
+OTC credit derivatives contracts. 
+It  should  be  noted,  however,  that  setting  up  a  CCP  and  simplifying  complex  relationships 
+alone  does  not  eliminate  systemic  risk.  The  CCP  becomes  the  single  nexus  of  all 
+counterparty  risks,  and  consequently  takes  on  significant  risks.  Therefore,  it  must  be 
+equipped  with  an  adequately  rigorous  risk  management  framework,  and  special  attention 
+needs to be paid to the continuation of clearing operations under an extreme but plausible 
+market condition. In fact, overseas central banks have been strengthening oversight of CCPs 
+while encouraging the use of CCPs, as they are two sides of the same coin with respect to 
+risk concentration into a CCP. In Japan, the setting up of a CCP for OTC credit derivatives 
+market is becoming an important issue, so I would emphasize again the importance of an 
+adequately rigorous risk management framework. 
+C.  Enhancing alternative arrangements for critical settlement functions 
+The  third  challenge  is  to  enhance  alternative  arrangements  in  the  event  of  disruption  to 
+critical settlement functions. Critical settlement functions could be disrupted by various kinds 
+of contingencies including failure of a financial institution, a natural disaster, and the outbreak 
+of  a  pandemic.  If  a  certain  critical  settlement  function  is  disrupted  due  to  those  external 
+shocks  and  no  alternatives  are  available,  it  could  potentially  lead  to  the  manifestation  of 
+systemic risk; in other words, a kind of financial crisis. 
+                                                 
+7   The  same-day  foreign  exchange  transactions  are  not  eligible  for  the  current  settlement  window  of  CLS.  In 
+addition, the out leg of in/out swaps – the measures used by CLS members to reduce liquidity risk in CLS 
+settlement – is settled outside CLS. 
+6 
+ BIS Review BIS Review 155/2009
+For this reason, financial institutions and operators of payment and settlement systems have 
+been  making  efforts  to  develop  and  improve  backup  systems.  Within  these  efforts,  the 
+strengthening  of  utilities  services  including  a  backup  communication  network  and  power 
+supply has been one major challenge. Furthermore, to enhance alternative arrangements for 
+critical settlement functions, it is important to set up contingency staffing arrangements while 
+securing  a  backup  for  hardware  and  software.  As  we  all  know,  FISC  has  been  making 
+significant  contributions  in  this  area.  Thanks  to  these  contributions,  steady  progress  has 
+been made in the business continuity arrangements of financial institutions and payment and 
+settlement  systems  during  the  last  decade.  I  hope  that  relevant  parties  will  make  further 
+efforts toward the development of robust payment and settlement systems. 
+IV.  The Bank’s involvement in payment and settlement systems 
+I would now like to turn to the involvement of the Bank in improving the safety and efficiency 
+of payment and settlement systems. Among the various activities of the Bank in this area, 
+today I will focus on the operation of BOJ-NET and oversight of private-sector payment and 
+settlement systems. 
+Improving the safety and efficiency of BOJ-NET 
+A. 
+I  will  start  with  the  operation  of  BOJ-NET.  As  the  central  bank  of  Japan,  the  Bank  is 
+responsible  for  providing  society  with  risk-free  settlement  assets  in  the  form  of  banknotes 
+and current accounts at the Bank in a safe and efficient manner. Transfer of funds across 
+those  accounts,  as  well  as  the  transfer  of  JGBs,  takes  place  over  BOJ-NET,  a  settlement 
+platform  operated  by  the  Bank.  On  an  average  day,  BOJ-NET  settles  50  thousand  funds 
+transfers worth 100 trillion yen and 15 thousand JGB transfers worth 80 trillion yen. BOJ-NET 
+has  continued  to  demonstrate  extremely  high  operational  stability  and  has  ensured  the 
+smooth processing of such large transaction amounts. 
+Over the years, the Bank has worked to improve the functionality of BOJ-NET. One example 
+of recent enhancements is the Next-Generation RTGS (RTGS-XG) project for the BOJ-NET 
+Funds Transfer System. In 2001, the system was converted from a DNS system to a pure 
+RTGS system, which settles transactions one-by-one on a real-time basis. An RTGS system, 
+by its design, is effective in eliminating settlement risks associated with DNS, but at the same 
+time requires relatively larger amounts of liquidity. The RTGS-XG project aims to reduce the 
+amount of liquidity needed under RTGS while also expanding the benefits of RTGS to large-
+value payments that are currently settled in private-sector DNS systems, namely the Foreign 
+Exchange  Yen  Clearing  System  (FXYCS)  and  the  Zengin  System  (clearing  system  for 
+domestic funds transfers). 
+The  project  is  being  implemented  in  two  phases.  Phase  1  is  the  introduction  of  liquidity-
+saving features into the BOJ-NET Funds Transfer System and the settlement of payments in 
+the FXYCS through RTGS. This was successfully implemented in October 2008.8 
+The  liquidity-saving  features  consist  of  centralized  queuing  and  offsetting  mechanisms 
+(Chart 7). "Queuing" allows payment instructions to be held pending within the system. The 
+"offsetting" mechanism searches among the newly entered and queued payment instructions 
+for  a  set  of  instructions  that  can  be  settled  simultaneously.  Our  estimate  based  on  actual 
+transaction data shows that the liquidity-saving features enable payments to be settled much 
+earlier in the day using a lower amount of liquidity9 (Chart 8). 
+                                                 
+8   For the details of payment activity after Phase 1 and a description of liquidity-saving features, see Bank of 
+Japan (2009a) and Bank of Japan, Payment and Settlement Systems Department (2009b). 
+9   The change in average settlement time is largely due to the shift of the FXYCS from DNS to RTGS. 
+BIS Review 155/2009 
+ 7
+The Bank is currently working in cooperation with the Zengin System to implement Phase 2 
+of the project, which aims to settle large-value payments in the Zengin System – defined as 
+payments above 100 million yen – through RTGS (Chart 9). Implementation of Phase 2 is 
+scheduled for November 2011 in coordination with the next upgrade of the Zengin System. 
+With  such  implementation,  virtually  all  large-value  interbank  payments  in  Japan  will  be 
+processed on an RTGS basis. 
+Another example of enhancements to BOJ-NET is the planned development of the new BOJ-
+NET  system.  The  current  BOJ-NET  system  went  live  in  1988  and  has  been  serving  the 
+industry  with  highly  reliable  and  stable  operation  for  more  than  twenty  years.  During  this 
+period,  the  environment  surrounding  the  system  has  gone  through  significant  change, 
+including  increasing  interconnectedness  among  payment  and  settlement  infrastructure  and 
+globalization of financial markets. The Bank believes that the new BOJ-NET system should 
+have  the  capability  to  respond  to  ongoing  and  future  developments  in  both  payment  and 
+settlement  industry  and  technologies  supporting  the  industry,  and  that  this  should  be 
+achieved  by  migrating  to  the  latest  information  processing  technology,  adopting  a  system 
+architecture  with  greater  flexibility  for  future  changes,  and  enhancing  accessibility  from  its 
+participants and external systems to the new BOJ-NET systems and services. 
+The Bank decided to fully review the configuration of the BOJ-NET system, and last month 
+released  the  principles  guiding  development  of  the  new  system  and  the  implementation 
+schedule.10  This  was  done  following  a  public  consultation  process,  with  many  valuable 
+opinions received from relevant parties. Some of the possible changes under the new BOJ-
+NET system include (1) expanding the range of transactions that can use the liquidity-saving 
+features, (2) facilitating interoperability with other systems – for example, by adopting XML-
+based  messages  –  and  (3)  improving  connectivity  with  other  securities  settlement 
+infrastructure.  The  Bank  believes  that  the  enhanced  BOJ-NET  system  will  underpin  the 
+activities  of financial  institutions in  Japan  as  they  pursue  new  opportunities  in  response  to 
+developments  in  financial  markets  and  services.  The  Bank  will  continue  to  closely  consult 
+with relevant parties as it develop the detailed functionalities and specifications of the new 
+system. 
+B.  Oversight of private-sector payment and settlement systems 
+In  addition  to  the  operation  of  BOJ-NET,  the  Bank  conducts  oversight  of  private-sector 
+payment and settlement systems. Oversight involves monitoring the design and operation of 
+individual  systems  and  encouraging  improvements  where  necessary,  with  primary  focus 
+placed on systems that are systemically important. Oversight is widely recognized around the 
+world as a critical function of central banks, although its legal basis may vary from country to 
+country. Financial stability, together with price stability, supports sound development of the 
+national  economy.  Central  banks  have  attached  importance  to  their  oversight  activities  to 
+ensure that payment and settlement systems do not become a source of instability, and to 
+lay the foundation for further enhancement of the financial system. 
+One issue that the Bank has worked on over the years as part of its oversight activities is 
+preparing arrangements for coping with participant default. In the international standard for 
+systemically  important  payment  systems  prepared  by  central  banks,  it  is  considered  best 
+practice  for  multilateral  netting  systems  to  ensure  completion  of  daily  settlements  on  time, 
+even  in  the  event  that  the  two  participants  with  the  largest  settlement  obligations  in  the 
+system  cannot  fulfill  their  obligations.  In  many  cases,  this  is  achieved  by  using  collateral, 
+third-party guarantees, and/or contingency liquidity arrangements such as committed lines of 
+credit. The Bank discussed the need to achieve such a high level of safety with operators of 
+private-sector payment systems. In 2003, the Zengin System enhanced its risk management 
+                                                 
+10   See Bank of Japan (2009c). The public consultation document is available only in Japanese. 
+8 
+ BIS Review BIS Review 155/2009
+measures to meet the international best practice; the FXYCS followed in 2004. These efforts 
+have enhanced the robustness of these systems against financial shocks. 
+The Bank also oversees securities settlement systems. After introducing DVP for JGBs as 
+the central securities depository (CSD) for JGBs, the Bank worked with private-sector CSDs 
+and stock exchanges to develop detailed plans for the introduction of DVP for other types of 
+securities;  namely,  dematerialized  commercial  paper  (CP),  corporate  and  other  bonds, 
+investment trusts, and equities. The Bank was also involved in the development of CCPs for 
+equities  and  JGBs,  which  went  live  one  by  one  from  2003  to  2005.  During  the  planning 
+phase  of  these  systems,  the  Bank  provided  its  views  on  the  system  design  in  light  of 
+international discussions and standards on risk management. 
+As I explained earlier, work is under way to address the lessons learned from the financial 
+crisis. The Bank has already started discussions and initiated studies with system operators 
+and market participants on the shortening of the JGB settlement cycle and improvements in 
+liquidity arrangements in JGBCC. Other ongoing work includes a review of market practice 
+on  settlement  fails  and  strengthening  CCPs’  risk  management  methodologies  using  stress 
+testing. 
+Making  changes  to  payment  and  settlement  systems  through  the  oversight  process  takes 
+time. The Bank considers that long-term engagement through its effective oversight activities 
+is  critical  to  ensuring  that  financial  transactions  continue  to  be  settled  without  any  friction, 
+even in the event of a crisis. 
+V.  Closing remarks 
+At the beginning of my speech, I touched upon some of the major developments in payment 
+and  settlement  systems  in  Japan  that  have  taken  place  over  the  past  twenty-five  years. 
+Earlier in my career, I was involved in some of those initiatives in the late 1980s. At that time, 
+RTGS, DVP, and dematerialization of securities seemed like a dream. After years of efforts, 
+however, they have become reality. I am proud to have taken part in such an exciting period 
+of Japan’s payment and settlement system development. Looking back on the past quarter-
+century, I would like to conclude by offering three observations. 
+First,  improvements  in  payment  and  settlement  systems  bring  a  very  high  return  for  the 
+economy in the long run. To take a rather cynical view, over the years, financial institutions in 
+Japan  and  overseas  have  been  heavily  beaten  by  a  number  of  events  –  for  example,  the 
+Latin American debt crisis, East Asian financial crisis, and the collapse of the mortgage and 
+commercial real estate bubble – that resulted in large losses eating away at the reserves of 
+past  earnings.  In  contrast,  investments  in  payment  and  settlement  system  reforms  have 
+constantly brought subtle but significant benefits to the economy and the financial system as 
+a whole, although it is difficult to quantify such benefits at the level of individual institutions. 
+An understanding that investments in forward-looking projects pay off can be gained simply 
+by  imagining  what  would  have  happened  during  the  recent  global  financial  crisis  if  RTGS, 
+DVP, and various other projects were left untouched. 
+Second, because of such wide-ranging effects, it is critical that the relevant parties continue 
+to  plan  and  implement  changes  with  a  long-term  perspective,  taking  into  account 
+developments in financial markets and technological innovation. In this context, in Europe, a 
+big project called TARGET2-Securities is under way. Under this project, participating CSDs 
+will outsource their securities settlement function to the centralized single platform operated 
+by the Eurosystem. This is expected to enhance efficiency and reduce costs of cross-border 
+transfer of euro-denominated securities, contributing to further development of the integrated 
+market. In Japan, too, continuous efforts for improvement in view of future developments will 
+be essential. 
+Third, effective implementation of forward-looking initiatives requires a deep understanding of 
+and insight into the value of developing payment and settlement infrastructure, not only by 
+BIS Review 155/2009 
+ 9
+working-level  experts  but  also  by  the  senior  management  of  financial  institutions  and 
+infrastructure  providers.  At  many  firms,  payment  and  settlement  activities  are  usually 
+categorized  as  "back-office"  functions  and  a  "cost  center."  However,  improvements  in 
+payment and settlement procedures could have positive externalities, resulting in advances 
+in  industry  practices  and  market  growth  with  new  opportunities  for  generating  additional 
+value. I hereby ask senior management officials to review their payments business in light of 
+such possibilities and continue to support ongoing and future initiatives in this area. 
+I  am  sure  that  FISC  will  continue  to  play  an  important  role  in  the  various  efforts  toward 
+development of a robust payment and settlement system.  
+Thank you for your kind attention. 
+References  
+Bank for International Settlements, Committee on Payment and Settlement Systems (2008), 
+"Progress in Reducing Foreign Exchange Settlement Risk," May 2008. 
+Bank  of  Japan  (2009a),  "Payment  and  Settlement  Systems  Report  2007–2008,"  February 
+2009. 
+Bank of Japan (2009b), "Financial Markets Report," March 2009.  
+Bank of Japan (2009c), "Establishment of the New BOJ-NET," October 2009.  
+Bank of Japan, Financial Markets Department (2009a), "Developments and Issues of Money 
+Markets in Japan: The Tokyo Money Market Survey in August 2008 and the Impact of the 
+Failure of Lehman Brothers," January 2009 (available only in Japanese). 
+Bank  of  Japan,  Financial  Markets  Department  (2009b),  "Toward  the  Well-Established 
+Practice on Settlement Fails in Japan: Focusing on Significance and Role of Fails Practice 
+and the Review of Fails Practice in the U.S., " October 2009 (available only in Japanese). 
+Bank of Japan, Payment and Settlement Systems Department (2009a), "Lessons for Japan’s 
+Payment and Settlement Systems Learned from the Collapse of Lehman Brothers Japan," 
+March 2009 (available only in Japanese).  
+Bank  of  Japan,  Payment  and  Settlement  Systems  Department  (2009b),"BOJ-NET  Funds 
+Transfers after the Implementation of Phase 1 of the Next-Generation RTGS  Project," No. 
+09-E-04, Bank of Japan Review, July 2009.  
+Imakubo,  Kei,  and  Yutaka  Soejima  (2008a),  "Transaction  Network  in  Japanese  Interbank 
+Money Market," vol.27 (2), Kin’yu Kenkyu, November 2008 (available only in Japanese).  
+Imakubo, Kei, and Yutaka Soejima (2008b), "The Microstructure of the Japanese Interbank 
+Money  Market:  Interconnection  of  the  Fund  Transfer  in  BOJ-NET  Settlement  Data," 
+vol.27 (2), Kin’yu Kenkyu, November 2008 (available only in Japanese).  
+10 
+ BIS Review BIS Review 155/2009
+Graphs 
+   BIS Review 155/2009 
+ 11
+  12 
+   BIS Review BIS Review 155/2009
+    BIS Review 155/2009 
+ 13
+   14 
+ BIS Review BIS Review 155/2009
+   BIS Review 155/2009 
+ 15
+  16 
+   BIS Review BIS Review 155/2009

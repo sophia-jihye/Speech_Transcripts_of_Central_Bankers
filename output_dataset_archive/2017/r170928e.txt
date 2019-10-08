@@ -1,0 +1,335 @@
+Vítor Constâncio: Developing models for policy analysis in central
+banks
+Opening speech by Mr Vítor Constâncio, Vice-President of the European Central Bank, at the
+Annual Research Conference, Frankfurt am Main, 25 September 2017.
+ I  am  pleased  to  welcome  you  to  the  second Annual  Research  Conference  of  the  European
+Central  Bank.  Every  year  this  aims  to  be  our  flagship  research  event,  bringing  together
+academics and central bank researchers working at the cutting edge of economics.
+We  value  research  because  it  contributes  to  shape  the  intellectual  framework  that  we  use  to
+understand  economic  developments  and  to  take  policy  decisions.  We  are  especially  keen  to
+keep abreast of new developments in the research frontier because they are on top of the new
+challenges  to  understand  the  economy´s  behaviour  which  is  vital  for  devising  appropriate
+policies. In the words of Christiano, the Great Recession was a macroeconomics earthquake  to
+which the field is still adjusting. Christiano highlights mainly three aspects: the need to recuperate
+the Keynesian view that demand shocks and the paradox-of-thrift can be important for economic
+performance, the notion that economy is not quickly self-correcting and requires public policies
+intervention  and,  finally,  that  the  financial  sector  can  endogenously  generate  imbalances  with
+significant consequences for the real economy. With hindsight, it is surprising how these points
+were  neglected  by  mainstream  economics  for  so  long.  Many  other  aspects  can  be  usefully
+added to that list.
+1
+First,  that  stabilisation  policies  are  crucial  and  that  not  only  growth  counts  as  significant
+fluctuations  leave  behind  permanent  losses.  Related  to  this,  is  the  the  notion  that  demand
+shocks can affect the supply side via hysteresis effects in labour supply and the capital stock via
+investment deceleration. The distinction between short- and long-term is necessary for theorising
+and teaching, but often is not useful for policy analysis models.
+Second,  the  heterogeneity  of  agents,  particularly  of  consumers,  is  important  to  understand
+aggregate  behaviour,  in  view  of  indebtness,  credit  restrictions  and  income  and  wealth
+composition.
+Third, behavioural economics has also cast doubt on the full rational expectations paradigm as a
+too demanding hypothesis about the cognitive powers of economic agents, especially for long
+horizons.  In  this  context,  the  myopic  assumption  explored  by  Gabaix  (2017)   is  a  welcomed
+development.
+2
+Fourth,  agents’  heterogeneity  relates  to  the  issue  of  distribution  that  had  been  neglected  but
+which, with the use of Heterogenous Agents New Keynesian (HANK) models, helped bring to the
+fore as exemplified by the recent contribution of Ahn et al. (2017) at the NBER Macroeconomics
+Annual Conference.  It shows how significant the feedback loop is and how models with realistic
+household heterogeneity fit empirical consumption dynamics better.
+3
+Fifth, the assumption of a unique steady state is now challenged by the consideration of multiple
+equilibria,  particularly  some  without  full  employment  as  seen  in  the  work  by  Farmer  and
+collaborators . The idea of abandoning the notion of an aprioristic theoretical equilibria in favour
+of  the  pure  interaction  of  heterogeneous  agents  with  behaviour  rules  in ABMs  (Agent  Based
+Models) is more controversial.
+4
+A  final  point  refers  to  the  question  whether  conventional  monetary  policy  is  as  powerful  as
+portrayed in mainstream DSGE models via Euler equations. The protracted recovery seems to
+give ground to the old view of monetary policy effectiveness being asymmetric and weaker in
+ 1 / 6
+BIS central bankers' speeches
+recessions. There is justification for rethinking a more active role for fiscal policy, following the
+recent papers by Auerbach and Gorodnichenko (2017) . A reconsideration of the effectiveness of
+both macro policies has become even more necessary in view of the two major problems that
+central  banks  are  now  confronted  with:  first,  the  lingering  low  inflation  associated  with  flatter
+Phillips curves that impairs the policy transmission and, second, the need for policy instruments
+to deal with the next recession, even if a mild one.
+5
+The  various  points  I  just  listed  are  some  of  the  relevant  aspects  of  the  on-going  revision  of
+macroeconomics and justify the point recently made by Blanchard that we need different types of
+models to understand, forecast and analyse the economy and the policies necessary to address
+its  shortcomings.  In  that  spirit,  I  will  concentrate  my  remaining  remarks  on  some  on-going
+developments in the specification of macroeconomic models at the ECB.
+Desirable properties of policy models
+Macroeconomic models can be used for a variety of purposes in central banks. They are helpful
+to  articulate  relationships  between  certain  variables  of  interest  in  a  systematic  fashion,  while
+ensuring that resource constraints are respected. They provide input to the complex process of
+macroeconomic forecasting. And they can be helpful to conduct scenario analyses and study
+policy counterfactuals.
+To perform these tasks effectively, a model should satisfy two simple criteria. First, since many
+policy questions are inherently quantitative in nature, a useful model must fit the data reasonably
+well and should be able to produce effective economic forecasts. Model-based counterfactual
+analyses  will  only  serve  as  a  credible  benchmark  for  policy  discussion,  if  the  results  are
+quantitatively  plausible.  In  practice,  this  criterion  has  two  implications.  On  the  one  hand,  the
+model should incorporate realistic elasticities. For example, the dynamic effects of changes in
+monetary policy interest rates should be consistent with available reduced-form evidence. In the
+euro  area,  the  model  should  provide  a  reasonably  good  account  of  the  inflationary  impact  of
+national fiscal expansions, or of developments in national wage negotiations. On the other hand,
+the model should provide a credible narrative for observed economic developments.
+The second criterion is really an implication of the first. Partly due to new research findings, partly
+as  a  result  of  puzzling  economic  developments,  we  constantly  update  our  beliefs  on  the  key
+economic  mechanisms  that  are  necessary  to  fit  the  data.  The  model  should  be  reasonably
+flexible  to  be  able  to  adapt  to  a  changing  economic  and  policy  environment  and  to  speak  to
+current  policy  questions.  The  financial  crisis  is  a  case  in  point.  The  macroeconomic  models
+maintained by central banks in the early 2000s were not equipped to speak to all the questions
+arising in the aftermath of the crisis without further adjustments. From today’s standpoint, these
+adjustments are simply inescapable. We would like the model to provide a reasonable account of
+the dynamic effects of non-standard monetary policy measures. With policy rates at the effective
+lower bound, we really need the model to provide realistic implications on the impact of forward
+guidance. For me as a policymaker, it is of key importance that our models can be adapted fast
+enough to address newly emerging questions in a timely manner. Of course, in order to reap the
+benefits of a flexible modelling framework, it is equally important to have expert staff using and
+enhancing the models in a practical and innovative manner.
+The new ECB multi-country model: ECB-MC
+These considerations played an important role at the ECB, when we were just recently faced
+with the decision of enhancing the multi-country (MC) model of the euro area. Which paradigm
+should we adopt?
+One option was to remain within the DSGE framework. For over 10 years, DSGE models have
+been the key tool used for policy analysis exercises in many central banks. This has also been
+ 2 / 6
+BIS central bankers' speeches
+6
+the  case  at  the  ECB,  where  the  initial  development  of  estimated  DSGE  models  has  taken
+place.   DSGE  models  are  typically  estimated  and  thus  consistent  with  the  data.  They  often
+reproduce the dynamic effects of changes in monetary policy interest rates that are observed in
+identified  Variable Autoregression  Models  (VARs.)  This  is  also  the  case  for  the  DSGE  model
+developed in the Directorate General Research, the New Area-Wide Model, is regularly used for
+7
+counterfactual policy analysis.
+At  the  same  time,  a  good  fit  of  the  data  is  to  some  extent  accomplished  by  DSGE  models
+through  persistent  shock  processes,  which  questions  the  empirical  validity  of  the  model’s
+intrinsic  propagation  mechanisms.  More  importantly,  DSGE  models  do  not  always  provide  a
+plausible  story  for  observed  economic  developments.  For  example,  so-called  “technology
+shocks” tend to play an overwhelmingly important role in accounting for the evolution of GDP,
+even  when  external  data  do  not  show  any  evidence  of  technological  innovations.  Moreover,
+DSGE models can only slowly be adapted to a new policy environment. The requirement of full
+internal  consistency  makes  the  incorporation  of  new  features—be  it  a  more  granular  financial
+sector,  household  heterogeneity  or  stronger  nonlinearities—often  very  demanding.
+Enhancements come with long gestation periods, sometimes limiting the ability of DSGE models
+to speak to newly emerging policy questions, in a timely manner.
+In designing the new ECB-MC we have therefore started from the premise that, in the words of
+Olivier  Blanchard,  “policy  models”  cannot  be  expected  to  have  the  same  tight  structure  as
+“theory  models”.   We  have  decided  to  adopt  a  semi-structural  approach  inspired  by  two
+guidelines: 1) include financial frictions or financial mechanisms that could allow monetary policy
+shocks to be transmitted via channels that were absent before the crisis; 2) adopt a more flexible
+and empirically-driven approach.
+8
+The  emphasis  is  on  equation-by-equation  fit,  while  the  cross-equation  constraints  are  mostly
+ignored  because  they  do  not  impinge  on  the  model’s  ability  to  provide  sound  quantitative
+predictions. When introducing financial frictions, we have relied on a reduced form representation
+that is consistent with different theoretical micro-foundations. This more flexible, semi-structural
+approach allows us to model a wide range of banking and financial variables, going from bank
+lending  spreads  to  term  premia,  without  taking  a  stance  on  the  exact  theoretical  mechanism
+linking them to the macroeconomy.
+9
+At its core, the new ECB-MC model is designed along the lines of the Federal Reserve’s FRB/US
+model.  The behavioural decision rules of private agents are based on optimisation and in the
+long run the model boils down to a neoclassical growth model. In the short run, however, it is
+assumed that agents face adjustment costs which imply staggered adjustment of the actual to
+the desired levels.
+Challenges ahead
+I  believe  the  design  of  the  ECB-  MC  model  will  increase  the  robustness  of  our  model-based
+policy analyses and strengthen our capability to address newly emerging policy questions in a
+timely  manner.  The  model  development,  which  has  been  led  by  the  Directorate  General
+Research,  is  a  joint  effort  of  economists  from  a  wide-range  of  policy  areas  inside  the  ECB,
+colleagues from national central banks and academic consultants. I am confident it will soon be
+part of the ECB toolkit. However, it is easy to forecast that further refinements will prove to be
+necessary in the future, for the model to continue being a valuable policy tool. I specifically see
+four  areas  where  significant  progress  has  already  been  made,  but  further  improvements  are
+likely to be necessary.
+The  first  area  is  related  to  the  modelling  of  aggregate  consumption.  I  share  the  concern  of
+Muellbauer  that  the  standard  DSGE  framework  imposes  unrealistic  micro-foundations  for  the
+behaviour of households as embodied in the ‘rational expectations permanent income’ model of
+10
+ 3 / 6
+BIS central bankers' speeches
+10
+11
+consumption.
+ In typical representative-agent models, consumption behaviour is captured by an
+Euler equation, an inter-temporal optimality condition that links today’s level of consumption to
+expected consumption in the next period and further into the future. In its linearised form, it does
+neither envisage that consumers face idiosyncratic (household-specific) and uninsurable income
+uncertainty,  nor  that  uncertainty  interacts  with  credit  or  liquidity  constraints.  This  is  in  stark
+contrast  to  recent  research  that  emphasises  the  importance  of  precautionary  saving,  liquidity
+constraints,  leverage  and  of  heterogeneity,  including  heterogeneity  in  marginal  propensities  to
+ Compared to simple representative-agent models, the ECB-MC clearly marks an
+consume.
+improvement.  The  consumption 
+is  explicitly  affected  by  agents’  wealth
+holdings.
+ Agents have shorter average horizons than presumed under the text-book permanent
+income hypothesis and the model further allows for the presence of agents that do not optimize
+but  rather  exhibit  ‘hand-to-mouth’  behaviour.  Last,  but  not  least,  risk  aversion  and  income
+uncertainty  also  play  a  role  for  consumption  behaviour.  This  setup,  for  example,  allows
+quantifying how larger income uncertainty reduces the power of forward guidance. All in all, I think
+that we are moving in the right direction. Nevertheless, the modelling of aggregate consumption
+is an area in which research is currently developing fast and we should be ready to learn from
+new findings.
+function 
+12
+The  second  area  of  improvement  concerns  the  modelling  of  expectations. As  Sargent  (1993)
+emphasizes,  rational  expectations  can  be  a  meaningful  characterisation  of  the  long-run
+equilibrium, but the transition to a new steady state might display non-rational behaviour.
+ An
+increasing body of research aims to explore the implications of alternative types of departures
+from  rational  expectations  for  business  cycle  dynamics  in  general,  and  the  transmission  of
+monetary policy in particular, as in the papers by Garcia-Schmidt and Woodford (2015), Gabaix
+(2017) or Fahri and Werning.
+ Once again, the ECB-MC goes in the right direction. The model
+can be simulated under two expectation setups: (i) in a model consistent manner, and (ii) under
+the assumption of bounded rationality where agents form expectations with a small-scale VAR
+model.  Other  expectation  formation  mechanisms,  such  as  learning  or  the  use  of  market
+expectations, are also easily implementable. As was shown by Blanchard and co-authors in a
+recent  study  on  the  macroeconomic  effects  of  changes  in  the  expectations  of  long-run
+productivity growth, different assumptions on the expectation formation mechanism can lead to
+considerably different outcomes.
+ Assessing the most realistic way of treating expectations in
+policy models remains a crucial area for further work.
+14
+15
+13
+17
+16
+The third area of improvement has to do with the nexus between inflation, wages and the real
+economy. When modelled through the expectations-augmented Phillips curve, the nexus seems
+to have become weaker after the financial crisis.
+  Commentators have repeatedly talked about
+a  “missing  disinflation”  at  the  trough  of  the  Great  Recession,  and  about  “missing  inflation”  in
+more  recent  years.
+  Recent  studies  have  come  up  with  alternative  explanations  for  these
+phenomena. For instance, the “missing disinflation” has been argued to be the consequence of
+either  the  presence  of  well-anchored  inflation  expectations ,  increased  downward  wage
+rigidities  in  recessions ,  or  a  fall  in  total  factor  productivity  and  increased  costs  of  working
+capital
+.  Understanding  the  underlying  sources  of  this  apparent  structural  change  will  be
+important  for  monetary  policy.  The  semi-reduced-form  nature  of  the  ECB-MC  makes  it  ill-
+equipped  to  address  this  deep  question,  but  studying  structural  changes  is  challenging  for  all
+current models built to study cyclical developments.
+18
+19
+20
+The fourth and final area where further improvements are necessary is macro-financial linkages.
+I have already mentioned that the ECB-MC incorporates such linkages. Nevertheless, the exact
+way  in  which  they  affect  the  monetary  policy  transmission  mechanism  remains  imperfectly
+understood, even if the empirical literature is making important advances.
+ These linkages are
+also  relevant  for  financial  stability  and  may  evolve  in  response  to  the  recent  reforms  in  the
+regulatory environment. This is why at the ECB we are also making parallel progress on this front
+21
+ 4 / 6
+BIS central bankers' speeches
+within the DSGE paradigm, through the 3D model. The 3D model has been developed under the
+macroprudential  research  (MaRS)  network,  and  can  be  used  to  assess  the  macroeconomic
+benefits and costs of macroprudential policies. “3D” alludes to the fact that, contrary to previous
+models, it captures the distinct benefits of capital requirements through reductions in default risk
+in  the  economy,  not  only  for  banks  but  also  for  borrowers,  i.e.  non-financial  firms  and
+households.
+Concluding remarks
+22
+To  conclude,  building  models  for  policy  analysis  is  associated  with  trade-offs.  This  is  an
+important reason for central banks to not rely on a single model and a single modelling paradigm,
+but to make use of a suite of models based on different paradigms. I could not agree more with
+Blanchard who recently expressed his view that also other types of general equilibrium models
+beyond DSGEs are useful policy tools.
+ I am pleased this view has been getting more traction
+lately,  as  alternative  types  of  models  will  continue  to  be  part  of  central  banks’  toolbox.
+Development of those models can greatly benefit from insights from academic research, so I am
+very much looking forward to the contributions to be presented at this conference.
+23
+Thank you for your attention.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+Christiano, L. (2017), “The Great Recession: a macroeconomics earthquake”, Minneapolis FED Policy Paper
+17–01.
+Gabaix, X. (2017), “A Behavioral New Keynesian Model”, mimeo.
+Ahn, S., G. Kaplan, B. Moll, T Winberry and C. Wolf (2017), “When inequality matters for Macro and Macro matters
+for Inequality”, NBER Macroeconomics Annual.
+See, e.g. Famer, R. and K. Platonov (2017), “Animal spirits in a monetary model”.
+Auerbach, A. and Y. Gorodnichenko (2017), “Fiscal stimulus and fiscal sustainability”, paper presented at the
+Federal Reserve Bank of Kansas City Economic Symposium, Jackson Hole, Wyoming.
+See,  e.g.  Coenen,  G.,  R.  Motto,  M.  Rostagno,  S.  Schmidt,  and  F.  Smets  (2017),  “DSGE  models  and
+counterfactual analysis”, in “DSGE Models in the Conduct of Policy: Use as intended” (eds. R. Gürkaynak and C.
+Tille), VoxEU.org Book, CEPR Press.
+See Christoffel, K., G. Coenen, and A. Warne (2008), “The New Area-Wide Model of the Euro Area: A Micro-
+Founded Open-Economy Model for Forecasting and Policy Analysis”, ECB Working Paper Series No. 944.
+See Blanchard, O. “The Need for Different Classes of Macroeconomic Models”, PIIE RealTime Economic Issues
+Watch, January 12, 2017.
+Brayton, F. and P. A. Tinsley (1996), “A guide to FRB/US: a macroeconomic model of the United States", Finance
+and Economics Discussion Series 96–42, Board of Governors of the Federal Reserve System (U.S.).
+Muellbauer, J. (2016), “Macroeconomics and consumption: Why central bank models failed and how to repair
+them’,’ VOXEU. See also Muellbauer, J. (2016), “Consumption and macroeconomics“, CEPR Discussion Paper
+No 11588.
+See, e.g., Kaplan, G., and G. L. Violante (2014), “A Model of the Consumption Response to Fiscal Stimulus
+Payments”, Econometrica, 82(4), 1199– 1239; and Mian, A., K. Rao, and A. Sufi (2013), “Household Balance
+Sheets, Consumption, and the Economic Slump”, Quarterly Journal of Economics, 128 (4): 1687–1726.
+Muelbauer, J. and R. Lattimore (1995), “The Consumption Function: A Theoretical and Empirical Overview,” in
+Handbook of Applied Econometrics Macroeconomics, eds. M. H. Pesaran and M. Wickens (Oxford, K.: Blackwell,
+1995), 221–311.
+Sargent, T. J. (1993), ”Bounded Rationality in Economics”, (Oxford: Clarendon).
+ 5 / 6
+BIS central bankers' speeches
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+See, for instance, García-Schmidt, M. and M. Woodford (2015), “Are Low Interest Rates Deflationary? A Paradox
+of  Perfect-Foresight  Analysis”, NBER  Working  Paper  No.  21614;  Gabaix,  X.  (2016),  “A  Behavioral  New
+Keynesian  Model”, NBER Working Paper No. 22954; and Farhi, E. and I. Werning (2017), “Monetary Policy,
+Bounded Rationality and Incomplete Markets”, NBER Working Paper No. 23281.
+Blanchard, O., G. Lorenzoni and J. P. L’Huillier (2017), “Short-run effects of lower productivity growth. A twist on
+the secular stagnation hypothesis”, Journal of Policy Modeling, 2017, ISSN 0161–8938.
+Blanchard, O., E. Cerutti and L. Summers (2016), “Inflation and activity – two explorations and their monetary
+policy implications”, ECB, Inflation and Unemployment in Europe, Conference proceedings of the ECB Forum
+on Central Banking, pp. 25–46.
+For a summary see Constâncio, V. (2015)“Understanding inflation dynamics and monetary policy” remarks at
+the  Federal  Reserve  Bank  of  Kansas  City  Economic  Symposium,  Jackson  Hole,  Wyoming.  See  also
+Constâncio,  V.  (2017),  “Understanding  and  overcoming  low  inflation”,  remarks  at  the  Conference  on
+“Understanding  inflation:  lessons  from  the  past,  lessons  for  the  future?”,  Frankfurt  am  Main,  21  and  22
+September 2017.
+Bernanke, B. (2010), “The Economic Outlook and Monetary Policy”, speech at the Federal Reserve Bank of
+Kansas City Economic Symposium, Jackson Hole, Wyoming.
+Daly, M. C. and B. Hobijn, (2014), “Downward Nominal Wage Rigidities Bend the Phillips Curve”, Journal of
+Money, Credit and Banking, Vol. 46(S2), 51–93.
+Christiano, L. J., M. S. Eichenbaum and M. Trabandt (2015), “Understanding the Great Recession”, American
+Economic Journal: Macroeconomics, Vol. 7(1), 110—167.
+See Gertler, M. and P. Karadi (2015), “Monetary Policy Surprises, Credit Costs, and Economic Activity”,  American
+Economic Journal: Macroeconomics, pp. 44–76.
+Clerc, L., A. Derviz, C. Mendicino, S. Moyen, K. Nikolov, L. Stracca, J. Suarez and A. P. Vardoulakis (2015),
+“Capital Regulation in a Macroeconomic Model with Three Layers of Default”, International Journal of Central
+Banking, pp. 9-63.
+See: Blanchard, O. (2016), “Do DSGE models have a future?”, Peterson Institute for International Economics
+Policy Brief 16, 11 August; Blanchard, O. (2016), “Further Thoughts on DSGE Models”, Peterson Institute for
+International  Economics  Realtime  Economic  Issues  Watch,  3  October ;Blanchard,  O.  (2017),  “The  need  for
+different classes of macroeconomic models”, Peterson Institute for International Economics Realtime Economic
+Issues Watch, 12 January.
+ 6 / 6
+BIS central bankers' speeches

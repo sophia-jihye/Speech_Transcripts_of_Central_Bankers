@@ -1,0 +1,269 @@
+Andrew G Haldane: Haircuts 
+Remarks  by  Mr  Andrew  G  Haldane,  Executive  Director,  Financial  Stability,  of  the  Bank  of 
+England and member of the Financial Policy Committee, summarising a forthcoming paper in the 
+Journal of Monetary Economics “Complexity, Concentration and Contagion”, 1 August 2011. 
+ The views are not necessarily those of the Bank of England or the Financial Policy Committee. I would like to 
+thank Marnoch Aston, Benjamin Nelson, Sujit Kapadia, Vasileios Madouros, Priya Kothari and Andrew Mason for 
+comments and contributions. 
+During the summer months, I have my hair cut slightly shorter than during the winter months. 
+This helps keep my head a little cooler in the summer heat and my ears a little warmer in the 
+winter cold. Anyone who has seen them will know this is a smart strategy for my ears, to say 
+nothing of my head. This strategy is explicitly counter-cyclical. When the temperature goes 
+up, my hair-length comes down and vice-versa. I am not alone. National statistics show that 
+expenditure on haircuts increases as temperatures rise.  
+The  financial  system  also  makes  choices  about  haircuts.  The  haircuts  in  question  are  the 
+amount  of  collateral  a  borrower  places  with  the  lender  over  and  above  the  face  value  of 
+borrowing. But collateral haircuts tend to behave rather differently to personal haircuts. They 
+fall when the financial temperature is increasing and rise when the chill sets in. This strategy 
+is  explicitly  pro-cyclical.  It  will  tend  to  result  in  financial  markets  being  hot-headed  in  the 
+summer and frozen-eared in the winter. 
+Table 1 demonstrates this pattern. It compares haircuts on a range of financial instruments 
+used  to  back  borrowing  –  so-called  securities  financing.  They  are  shown  on  two  dates, 
+before  (June  2007)  and  after  (June  2009)  the  financial  crisis.  Haircuts  rose  by  up  to 
+90 percentage  points  in  the  space of  these  two  years,  as  the  scorching  pre-crisis summer 
+gave way to a frozen crisis winter. In other words, haircuts exhibited a rather dramatic pro-
+cyclicality over the course of the crisis. 
+Table 1: 
+Typical haircut on term securities financing transactions (per cent) 
+ June 20071 
+June 20091 
+Medium-term G7 government 
+bonds 
+Medium-term US agencies 
+AAA-rated prime MBS 
+Asset-backed securities 
+AAA-rated structured products 
+AAA- and AA-rated investment 
+grade bonds 
+High-yield bonds 
+G7 countries equity 
+0 
+1 
+4 
+10 
+10 
+1 
+8 
+10 
+Source: Committee on the Global Financial System (2010). 
+1  Prime counterparty. 
+1 
+2 
+10 
+25 
+100 
+8 
+15 
+15 
+BIS central bankers’ speeches 
+ 1
+This haircut cycle played an important causal role in the crisis. Secured financing became an 
+increasingly  important  source  of  credit  in  both  bank  and  non-bank  markets  over  the  past 
+decade. In the US, the repo market financed roughly half of the growth in investment banks’ 
+balance sheets between 2002 and 2007. In the UK, the securitisation market trebled in size 
+over  the  same  period.  Those  were  the  heady  days  of  summer.  Since  then  the  US  repo 
+market has shrunk by 40%, while the UK securitisation market remains frozen. 
+Pro-cyclicality in the haircuts applied to secured financing transactions in turn amplified the 
+cycle  in  credit.  Thin  haircuts  made  it  cheaper  for  banks  to  mobilise  collateral  to  finance 
+borrowing  when  the  credit  cycle  was  in  the  upswing,  adding  momentum  to  the  upward 
+pendulum of asset prices and credit. And fat haircuts immobilised collateral when the credit 
+cycle reversed, exaggerating the downward pendulum swing. 
+A  further  factor  amplifying  these  swings  came  from  the  fact  that  much  of  the  secured 
+financing took place within the financial sector. In the run-up to crisis, banks and near-banks 
+entered  into  secured  financing  transactions  with  one  another,  inflating  both  counterparties’ 
+balance sheet. In the UK, fully two-thirds of the trebling in balance sheets between 2002 and 
+2007 can be explained by expanding claims on other parts of the financial system.  
+These  cross-system  dependencies  in  financing  have  “externality-like”  effects.  During  a 
+generalised boom, individual banks lend freely to one another and all of the moving parts of 
+the  financial  system  are  lubricated.  The  system  co-ordinates  itself  on  a  high  liquidity 
+equilibrium. Liquidity has positive spillover effects or externalities; liquidity is a public good. 
+And with rising asset prices and liquidity and falling haircuts, the credit multiplier is high and 
+self-reinforcing.  
+But  that  cycle  can  just  as  quickly  reverse.  In  a  situation  of  stress,  individual  banks  hoard 
+rather than lend liquidity. The system then co-ordinates itself on a low liquidity equilibrium. 
+Liquidity  then  has  negative  spillovers,  imposing  negative  externalities;  illiquidity  is  a  public 
+bad.  And  with  asset  prices  and  liquidity  falling  and  haircuts  rising,  the  credit  multiplier 
+becomes self-reinforcing downwards.  
+Given  these  pro-cyclicalities,  there  have  been  recent  proposals  by  both  policymakers  and 
+academics  to  regulate  collateral  requirements.1  This  is  one  possible  arm  of  so-called 
+macroprudential  policy.  Within  the  UK,  haircuts  on  secured  financing  or  OTC  derivative 
+transactions have been identified as one possible tool for executing macroprudential policy.2 
+The  UK’s  new  interim  Financial  Policy  Committee,  housed  in  the  Bank  of  England,  will 
+provide advice to government on possible macroprudential tools over the next year or so.  
+The debate on haircuts as a policy tool is live internationally too. In a recent speech in Atlanta, 
+US  Treasury  Secretary  Tim  Geithner  proposed  the  introduction  of  international  minimum 
+standards  for  margins  on  derivatives  transactions.3  This  would  be  akin  to  the  international 
+minimum  standards  for  capital  adequacy  introduced  through  the  Basel  agreements.  Since 
+1934, the US authorities have had regulatory powers to impose minimum margin requirements 
+on lending against equity and some other assets – so-called Regulation T. But these policies 
+have not been used actively, with minimum margins unchanged since 1974. 
+To  date,  analysis  of  the  macroprudential  role  of  haircuts  has  been  largely  descriptive.  A 
+recent paper, co-authored with Prasanna Gai and Sujit Kapadia, attempts to fill that gap.4 We 
+                                                 
+1  For  example,  Committee  on  the  Global  Financial  System  (2010),  “The  role  of  margin  requirements  and  haircuts  in 
+procyclicality”, CGFS Publications No. 36, Geanakoplos, J (2010), “Solving the present crisis and managing the leverage 
+cycle”,  Federal  Reserve  Bank  of  New  York  Economic  Policy  Review,  August,  16  (1)  and  Kashyap,  A  K,  Berner,  R  and 
+Goodhart, C, “The Macroprudential Toolkit”, forthcoming in the IMF Economic Review.  
+http://www.hm-treasury.gov.uk/d/consult_newfinancial_regulation170211.pdf. 
+http://www.treasury.gov/press-center/press-releases/Pages/tg1202.aspx. 
+“Complexity, Concentration and Contagion”, which is forthcoming in the Journal of Monetary Economics, Vol 58 (5). 
+2 
+3 
+4 
+2 
+ BIS central bankers’ speeches
+develop a model of a banking network, inter-connected through unsecured interbank lending 
+and secured funding markets. This financial web exhibits classical tipping point properties. It 
+is even-tempered most of the time. Indeed, having a tight-knit circle of financial friends helps 
+keep the financial system strong and stable. Risks are diffused across the system. A problem 
+shared is a problem halved. The system is in a high-liquidity equilibrium. 
+But,  on  occasion,  the  system  can  be  pushed  beyond  its  tipping  point.  Connectivity  then 
+generates contagion. A problem shared is a problem multiplied. The best of financial friends 
+become  the  worst  of  enemies.  In  the  model,  one  of  the  key  channels  for  contagion  is  the 
+secured financing market as banks hoard rather than lend liquidity when haircuts rise. The 
+liquidity feast then turns to famine as secured and unsecured financing markets dry up. The 
+system  switches  to  a  low-liquidity  equilibrium.  These  liquidity  droughts  were  perhaps  the 
+defining feature of the financial crisis during 2007 and 2008. 
+In  the  model,  the  likelihood  of  such  systemic  liquidity  crises  depends  critically  on  two  key 
+structural characteristics of the financial system – the two c’s: concentration and complexity. 
+The  greater  the  concentration  within  the  financial  system,  the  greater  the  potential  for 
+systemic collapse as larger banks spread a disproportionate amount of financial pain around 
+a densely networked financial system. A greater degree of system complexity has a similar 
+effect,  creating  more  channels  for  contagion  and  heightening  banks’  incentives  to  hoard 
+liquidity when the weather worsens. The two c’s are very much features of today’s financial 
+system. On the face of it, that bodes ill for future systemic crises.  
+So what role might policy play in avoiding those crises? The model provides a test-bed to 
+consider  a  range  of  policy  options,  including  for  haircuts  policy.  An  illustrative  policy 
+experiment, based on a simulation of the model in which haircuts spike sharply, is shown in 
+Chart  1.  Up  the  vertical  axis  is  a  measure  of  the  probability  of  a  systemic  liquidity  crisis. 
+Along the horizontal axis is the initial size of the haircut on secured financing transactions.  
+The  three  lines  trace  three  policy  options.  Consider  first  the  “baseline”  path  without  policy 
+intervention.  Provided  haircuts  remain  high  come  rain  or  shine  –  in  the  example,  above 
+around 20% – the probability of a liquidity crisis remains very low. But if haircuts are lowered 
+even modestly, resilience is eroded. In the example, lowering haircuts from 20% to 5% raises 
+the crisis probability by an order of magnitude, from less than 0.1 to almost 1. In other words, 
+a  hands-off  haircuts  policy  runs  a  significant  risk  of  systemic  collapse  if  haircuts  are  pro-
+cyclically trimmed during the upswing. 
+To  prevent  this,  policy  makers  could  seek  to  control  haircuts  directly.  In  the  example, 
+significantly  greater  resilience  could  be  achieved  by  imposing  a  haircut  limit  of  20%. 
+Alternatively,  policy  makers  could  seek  to  lean  against  the  pro-cyclical  tendencies  of  the 
+financial  system  as  systemic  risk  increases.  The  other  two  lines  in  Chart  1  show  different 
+sets  of  activist  policy  intervention.  Both  require banks  to  build  up  larger  liquid  asset  buffer 
+stocks  in  the  event  of  haircuts  being  trimmed.  This  lessens  the  need  for  banks  to  hoard 
+liquidity, so reducing system-wide liquidity stress.  
+The  two  policies  differ  in  how  aggressively  they  respond  to  such  excesses  –  “weak”  and 
+“tough”. Either way, the effects are striking. Even the weak policy shrinks the probability of 
+collapse by more than half, whatever the initial level of haircuts. And under the tough policy, 
+the financial system is effectively inoculated against haircut-induced pro-cyclicality. 
+It may be over-optimistic to think policy could eliminate the adverse effects of haircut-induced 
+pro-cyclicality.  For  example,  we  have  little  theoretical  understanding  of  how  haircut-based 
+policies  might  affect  banks’  behaviour.  And  we  have  little  empirical  case  law  on  the 
+implementation  of  these  policies.  For  example,  haircuts  policy  might  be  circumvented  by 
+banks substituting towards unsecured finance. So any quantitative calibration of the effects 
+of a haircut-based policy rule is necessarily tentative. Nonetheless, the model simulations are 
+suggestive – and, at least qualitatively, encouraging. 
+BIS central bankers’ speeches 
+ 3
+Aggregate haircuts and probability of a systemic liquidity crisis 
+Chart 1: 
+s
+i
+s
+i
+r
+c
+ 
+y
+t
+i
+d
+i
+u
+q
+i
+l
+ 
+c
+i
+m
+e
+t
+s
+y
+s
+ 
+a
+ 
+f
+o
+ 
+y
+t
+i
+l
+i
+b
+a
+b
+o
+r
+P
+1
+0.9
+0.8
+0.7
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0
+25
+20
+Baseline
+Weak
+15
+Initial aggregate haircut (h) 
+10
+Baseline
+'Weak' haircut-dependent liquidity requirement
+'Tough' haircut-dependent liquidity requirement
+Source: Gai, Haldane and Kapadia (2011). 
+Tough
+5
+0
+ This financial network set-up can be used to assess a number of other topical policy issues. 
+These include: 
+ 
+Central clearing: Central clearing of financial transactions tackles the complexity of, 
+and concentration within, the financial system at source. The dense knitting of the 
+financial  web  is  unravelled  and  replaced  with  a  simple  hub-and-spokes  topology. 
+This will tend to reduce the liquidity hoarding incentives of investors, so making for 
+more  resilient  funding  markets  in  the  event  problems  strike.  Provided  the  central 
+clearing  house  is  beyond  reproach,  this  topology  also  reduces  the  contagious 
+consequences  of  individual  bank  stress:  liquidity  cascades  are  headed-off  at  the 
+clearing house. The proviso is important, though. Robustness of the central clearing 
+basket becomes more important as more eggs are placed in it. This calls for a sea-
+change improvement in risk management practices among the clearing houses, as 
+more financial transactions come to be centrally cleared to meet G20 commitments. 
+Otherwise the too-important-to-fail problem simply re-emerges in a different guise. 
+Liquidity  policy:  One  implication  of  the  model  is  the  importance  of  banks 
+maintaining  buffers  of  the  highest-quality  liquid  assets.  These  have  a  doubly 
+beneficial  effect.  First,  they  reduce  banks’  need  to  hoard  liquidity  in  situations  of 
+stress. Second, high-quality assets reduce the amplitude of the haircut cycle in the 
+first place, as Table 1 demonstrates. The first reduces the impact of a liquidity event, 
+the second its probability. The upshot is a fall in the chances of a systemic liquidity 
+crisis. The new Basel III liquidity regulation uses a strict definition of what counts as 
+liquid assets. The model underlines the importance of sticking to that definition. The 
+model  suggests  that  financial  system  robustness  would  be  further  enhanced  by 
+BIS central bankers’ speeches
+ 4 
+ targeting liquidity requirements on the most connected banks in the system, as this 
+would lean against the destabilising effects of system-wide concentration. 
+Hot  heads  make  for  bad  decisions,  frozen  ears  for  uncomfortable  ones.  Financial  markets 
+have  felt  the  effects  of  this  change  in  the  weather  more  dramatically  than  most.  Suitably 
+designed, macroprudential  policy can  help  moderate  those  swings  in  temperature,  thereby 
+improving the health of the financial system. 
+BIS central bankers’ speeches 
+ 5

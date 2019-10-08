@@ -1,0 +1,321 @@
+Anand Sinha: IT and governance in banks – some thoughts 
+Address by Mr. Anand Sinha, Deputy Governor, Reserve Bank of India at the Program for 
+Independent Directors of Banks organized by IDRBT, Hyderabad, 15–16 June 2012. 
+ Assistance provided by Mr. P K Chophla is gratefully acknowledged. 
+Shri  Sambamurthy,  Director,  IDRBT;  Shri  Prabhakar,  Chairman  and  Managing  Director, 
+Andhra  Bank,  Shri  Rao,  Managing  Director,  SBH,  Shri  Siva  Kumar,  member  of  faculty, 
+IDRBT, distinguished fellows of IDRBT; other members of the faculty; and directors on the 
+Boards of banks. Wish you all a very good morning. 
+Independent directors are looked upon by both the stakeholders and regulators as important 
+contributors to the value additive and ethically positive oversight of executive management 
+activities. The organization of this programme, by IDRBT and its Director, Mr. Sambamurthy, 
+which focuses on IT governance, Information Security and the role of Board therein, is very 
+timely  as  these  factors  have  assumed  critical  importance  in  the  sphere  of  corporate 
+governance in general and bank governance in particular. 
+While talking about this programme organized by IDRBT, it would be appropriate to recall, in 
+brief,  that  this  institution,  conceptualized  in  1994  and  established  in  1996  by  the  RBI  to 
+function  as  a  centre  for  research  and  development  in  banking  technology,  has  been 
+commendably  striving  to  meet  its  objectives.  It  has  to  its  credit  several  achievements  like 
+launch  of  Structured  Financial  Messaging  System  (SFMS)  and  National  Financial  Switch 
+(NFS)  management;  besides  publication  of  guidance  on  best  practices  and  a  number  of 
+research papers on topics of contemporary relevance to the Indian banking industry. Now, 
+with the reviewed and redefined goals, the Institute is all set to support the banking Industry, 
+by  working  at  the  intersection  of  banking  and  technology,  mainly  in  the  areas  of  financial 
+networks  and  applications,  electronic  payments  and  settlement  systems,  security 
+technologies for the financial sector, financial information systems and business intelligence. 
+I  am  sure  the  institute  will  continue  to  enrich  the  banking  Industry  in  the  times  to  come 
+through its good work. 
+Corporate governance 
+Coming  to  the  theme  of  this  programme,  I  would  dwell,  first  of  all,  on  the  concept  of 
+governance. At the core of corporate governance is the principle of fiduciary duty, centered 
+on oversight of management functioning in order to optimize stakeholder interests, within the 
+limits of legal and regulatory compliance. This had its origin and basis in the need to balance 
+the powers of executive management and the interests of diffused owners, i.e. shareholders, 
+through an oversight process. This dominant view of governance comes from Agency theory, 
+which  emphasizes  monitoring  and  control 
+this  perspective,  directors’ 
+responsibilities  take  two  forms:  ensuring  accountability  to  minimize  downside  risks  and 
+enabling managerial entrepreneurship to reap upside potential. 
+Over a period of time, the optimization of shareholders’ interest objective has broadened to 
+include  strategic  efficiency  and  social  responsibility.  Connotation  of  oversight  has  changed 
+and  expanded,  to  mean  effective  leadership  in  guiding  the  management  in  strategic 
+decisions,  creation  of  suitable  structures  and  processes  for  effective  implementation  and 
+monitoring of managerial performance; and ensuring compliance with laws and regulations. 
+The scope of oversight has undergone further change with implied inclusion of an ethic that 
+transcends strict response to regulations. This interpretation of the meaning of governance 
+and role of the Board has gained greater currency in the wake of some big ticket events like 
+collapse  of  Enron,  WorldCom,  HIH  insurance,  and,  in  the  aftermath  of  the  recent  crisis, 
+functions. 
+In 
+BIS central bankers’ speeches 
+ 1 
+where a large part of the blame was attributed, inter alia, to unethical conduct by banks and 
+market  participants.  Over  all,  the  concept  of  governance  has  come  to  signify  strategic 
+leadership  support  and  objective  oversight  by  the  Board  to  ensure  optimized  resource 
+utilization, effective compliance and robust management. 
+It is in this overall context of governance that IT governance has evolved as an area of great 
+contemporary  interest.  Information  technology  has  grown  from  a  mere  enabler  to  an 
+essential component of business processes in the banking industry  where information and 
+data  are  considered  most  valued  resources.  IT  is  a  critical  asset,  not  simply  in  enabling 
+organizational success but also in providing opportunities for competitive advantage. 
+IT and Indian banking 
+Banking in India, as all of us know, has traversed a long way from the days of manual work 
+processes to  mechanization, followed  by  word  processing  on  standalone  PCs  and  onto  IT 
+based applications and so on. As things stand today, it would be difficult to imagine a bank of 
+any significance which does not have some or most of the key processes being run on IT 
+based applications. Most of the customer related functions in banks, be it account opening, 
+transaction processing or account and data maintenance, are all run on IT enabled systems. 
+It is the reach and capacity of information technology that has facilitated banks to transcend 
+the  limitations  of,  geographical  spread,  burgeoning  transaction  volumes  and,  to  an  extent, 
+human  resources.  Banks  are  expanding  their  size  and  services  to  cater  to  fast  increasing 
+customer needs through technology enabled payment systems, internet based access and 
+innovative service delivery modes. 
+Other important business activities of banks such as participation in securities, currency and 
+money markets, besides compliance functions like reserve maintenance, regulatory reporting 
+etc. are all having processes heavily dependent on information technology. Even in case of 
+internal  work  processes  having  large  component  of  manual  processing,  dependence  on 
+computers and IT based communication mechanism is increasingly felt. 
+Overall, banks are dependent on IT based systems for almost all of their activities, although 
+the level of sophistication and refinement in such systems may vary from bank to bank or 
+across activities or banking Industry segments (commercial banks, cooperative banks etc.). 
+Reasons  for  this  are  not  far  to  seek.  Technology  has  become  essential  component  for 
+customer  related  and  market  related  activities  and  participant  banks  cannot  meet  the 
+requirements  imposed  by  timelines  or  volumes  without  leveraging  on  technology.  Even  for 
+backend and internal work processes, cost and time constraints are pushing banks to lean 
+upon  technology.  It  may  not  be  possible  to  store  and  retrieve  huge  amounts  of  customer 
+data,  transaction  data  and  business  information,  but  for  the  power  of  technology  based 
+systems.  More  so,  the  globalization,  competition  and  compliance  requirements  make  it 
+imperative for banks to increasingly use IT based platforms and applications for most of their 
+activities. It has become necessary for banks to use modern marketing as well as customer 
+service  tools  to  survive  in  a  competitive  environment;  which  involve  large  scale  data 
+collection, analysis and efficient communication which are not possible without the help of IT. 
+IT and financial inclusion 
+IT has a great role to play in furthering the financial inclusion drive, involving expansion of 
+banking  access  to  remote  locations  in  a  cost  effective  way.  Reaching  banking  to  the 
+excluded segments has been the focus of regulatory agenda and many initiatives have been 
+taken in this regard. Of the 74,414 villages with a population of more than 2000 identified as 
+unbanked, 74,199 (99.7 per cent) villages have already been provided with banking services, 
+on the back of concerted efforts of the banking fraternity encouraged by the Government and 
+Reserve Bank of India. In the next stage, it has been proposed to cover unbanked villages 
+with population less than 2000. Considering the vast geographical expanse of the country, 
+2 
+ BIS central bankers’ speeches 
+such a gigantic task would not be possible at all without the help of technology. Technology 
+has  the  potential  to  cut  down  the  costs,  bring  down  the  barriers  and  make  the  financial 
+inclusion a viable business proposition. 
+Financial  inclusion,  apart  from  its  social  welfare  enhancing  role,  should  make  a  lot  of 
+business sense for banks in as much as they can get a large stable pool of retail deposits 
+which  will  contribute  very  significantly  to  the  robustness  of  the  individual  banks  and  to 
+financial  stability  at  the  systemic  level.  Additionally,  there  would  be  small  value  but  large 
+volume  of  lending  and  other  business.  What  is  constraining  the  full  realization  of  this 
+business potential is the comparatively large transaction costs. Several technological efforts 
+and innovations have been made for increasing the reach which has reduced the transaction 
+costs. However, much more needs to be done to make the financial inclusion an attractive 
+and profitable business for banks. 
+IT in banking – concerns 
+While  the  increased  deployment  of  IT  certainly  has  its  own  benefits  in  terms  of  enabling 
+banks to meet the business requirements and enhance their service delivery capacity, such 
+IT  usage  and  dependence,  however,  bring  in  some  new  challenges  and  concerns.  These 
+challenges keep on getting more complex and qualitatively different, as technology keeps on 
+evolving  rapidly.  For  instance,  technologies  like  cloud  computing  bring  in  advantages  and 
+efficiencies along with new risks which have to be managed. Any delay in adoption of new 
+technologies would only let the competition pass by the laggard institutions. 
+Cloud  computing  is  an  innovative  concept  which  enables  participants  to  leverage  on 
+collaborative sharing of resources, which not only brings down costs but also facilitates the 
+participants  to  concentrate  more  on  their  core  activities,  leaving  the  management  of  IT 
+resources  to  the  service  providers.  This  facility,  by  making  the  sophisticated  applications 
+affordable,  has  the  potential  to  enable  even  the  marginal  players  to  make  use  of  the 
+technology  and  develop  their  businesses.  However,  this  being  a  new  technology  data 
+integrity and confidentiality seem to be a major concern at this stage. Further, if too many 
+participants  rely  on  a  single  service  provider,  it  may  lead  to  a  risk  of  over-concentration 
+inasmuch as the failure of the service provider will be catastrophic. Banks will have to assess 
+the pros and cons of new technologies and put in place adequate safe guards while adopting 
+them. 
+As regulator and supervisor of the banking system in India, inter alia, its many other roles, 
+RBI is concerned about the soundness of the financial system in general and banking system 
+in particular. While IT usage contributes to efficiency, it brings, along with it, certain issues 
+such  as, 
+financial  and  compliance 
+considerations;  process  management  to  ensure  cost  effective  and  timely  service  delivery; 
+security  of  customer  and  business  data  at  access,  storage  and  retrieval  level,  as  also  the 
+accuracy  of  data  and  information  for  internal  and  external  reporting.  Important  issues  and 
+concerns in this context have been flagged by RBI in the IT vision document 2011–17 and 
+the  recent  Monetary  Policy  statement  (April  2012). These  concerns mainly  revolve  around 
+the areas of governance, information security and MIS/ reporting and banks have to address 
+these issues, on priority. 
+technology  selection  with  strategic, 
+issues  of 
+Technology and information security 
+Information  security  is  an  area  that  needs  constant  and  continuing  attention,  considering, 
+particularly, the operational risks associated with the use of technology. Security and integrity 
+of  data,  communication  and  storage  has  acquired  challenging  dimensions  as  all  of  these 
+activities are carried out over technology enabled systems. Internet and remote access are 
+necessities  today,  while  threats  through  these  modes  come  in  newer  forms  each  day. 
+Privacy  and  confidentiality  of  customer  as  well  as  business  data  are  at  stake.  Denial  of 
+BIS central bankers’ speeches 
+ 3 
+service, disruption, permanent data loss and even data manipulation are risks that cannot be 
+ignored. The IT management systems and processes in banks, therefore, have to be robust 
+enough to meet these challenges effectively, on continuing basis. Any lapse in this regard 
+can  lead  to  several  kinds  of  risks  to  the  bank,  its  customers  as  well  as  other  market 
+participants, depending on the size and significance of the institution as well as magnitude of 
+risk event. 
+Regulatory reporting and MIS 
+Another area of significant importance to the top managements, regulators and shareholders 
+is the quality and efficiency of data reporting. Indian banking, even today, has housekeeping, 
+MIS and reporting processes which are largely interspersed with manual intervention. This 
+has implications for the quality, consistency and timeliness of data, with the risk of subjective 
+interpretation, manipulation and delays, leading to potential adverse consequences in many 
+forms.  Even  where  the  information  collection  and  submission  process  is  largely  IT  based, 
+process design itself has to be in sync with information and reporting requirements. The top 
+management,  Board,  regulators,  the  shareholders  and  customers  may  not  get  correct  or 
+timely information and disclosures due to inadvertent or deliberate action on the part of those 
+compiling or submitting information. There have been instances of process design facilitating 
+manipulation of data, with serious implications. So, it is imperative that information systems 
+are designed and managed in a way that data and information are efficiently and accurately 
+compiled and reported. Automated data flow (ADF) initiative by RBI is a step in this direction. 
+Banks are being exhorted to ensure ADF implementation at the earliest, not only as a matter 
+of regulatory comfort but also in their own interest. Benefits for banks in such implementation 
+are  many.  One,  reduction  in  the  number  of  procedures  and  sub-processes  in  procuring 
+information, leading to enhanced efficiency on cost and time parameters. Two, more efficient 
+internal  monitoring,  review  and  managerial  decision  making,  reducing  the  scope  for 
+misreporting.  Three,  accurate  and  timely  regulatory  reporting  leading  to  reduced  risk  of 
+adverse regulatory action and timely support for course correction, where required. I would 
+urge the Independent Directors to provide an oversight in their banks to this project so that 
+the complete switchover to ADF is achieved in a timely and efficient manner. 
+Regulatory compliance and single view of information 
+As we all know, banking regulation across the globe is being tightened in the wake of recent 
+financial  crisis.  Both  Basel  II,  which,  for  large  banks,  focusses  on  internal  processes  for 
+measuring  and  managing  risks  and,  Basel  III,  have  enhanced  the  need  for  continuous 
+monitoring  of  data  on  several  parameters  to  ensure  continuing,  rather  than  “point  in  time” 
+compliance.  There  are  new  regulatory  provisioning  requirements  as  well,  which  can  be 
+complied with, only by proper data collection, compilation, and analysis and reporting. It is 
+mandated that business decision making and regulatory reporting processes use the same 
+data and information. Any lapse in this regard is increasingly being viewed adversely by the 
+markets,  customers,  shareholders  and  regulators.  It  may,  in  fact,  become  highly  time  and 
+cost intensive proposition for banks to collect, compile and report on the basis of voluminous 
+data  on  diverse  parameters  through  processes  having  manual  interventions.  The  time 
+criticality,  even  for  internal  reporting,  is  further  amplified,  by  the  fact  that  in  a  severely 
+competitive market environment, quick information dissemination and decision making is an 
+absolute requirement for growth and, may be for survival itself. Risks and opportunities have 
+to be recognized quickly, followed by swift action to avoid being swamped by events. So, it is 
+in the interest of all stakeholders to ensure that there is a single view of information and data 
+in the banks with automated/ straight through processing for internal and external reporting. 
+As recent events have shown, ability to identify the risks in time and manage them effectively 
+differentiates  successful  institutions  from  the  unsuccessful  ones.  To  survive  in  the  fast 
+changing  environment,  institutions  are  required  to  have  complete  handle  on  the  risks  they 
+4 
+ BIS central bankers’ speeches 
+face  which  helps  them  in  taking  corrective  action.  For  this  they  need  to  have  robust  IT 
+systems  which  can  collect  risk  information  from  across  different  business  segments  and 
+different geographical locations in a timely and comprehensive manner. The systems should 
+be able to process data and provide necessary reports to the management to enable quick 
+action  where  necessary.  Building  of  such  systems  involves  significant  investments  and, 
+therefore, requires, a dedicated focus from the Board and the top managements. 
+Weak and ineffective governance has been a very important contributory factor to the current 
+crisis  and  clearly  this  is  an  area  which  needs  considerable  improvement.  In  this  context, 
+maintaining  robust  risk  information  technology  (IT)  systems  that  can  generate  timely, 
+comprehensive,  cross-geography,  and  cross-product  information  on  exposure  is  of  vital 
+importance and, therefore, needs closer attention of the Board. Let me quote from a recent 
+G-30  document  “Toward  Effective  Governance  of  Financial  Institutions”  which  succinctly 
+emphasises the role of risk information technology in financial Institutions and the critical role 
+Boards can play in implementing them. 
+Ultimately, the quality of risk information that FI boards and management teams 
+receive depends largely on the quality of the organization’s IT systems. Ideally, 
+FIs  need  risk  IT  systems  that  can  gather  risk  information  quickly  and 
+comprehensively, producing global, cross-product, cross-legal entity estimates of 
+their exposures promptly. Unfortunately, few global FIs are capable of this. They 
+are  hampered  by  legacy  systems  that  are  inefficient,  costly,  and  burdensome. 
+Boards  are  well  advised  to  press  management  to  maintain  –  and  where 
+necessary increase – investment in risk IT systems, both as a short-term priority 
+and as part of a long-term strategic initiative. 
+Risk IT investments must not be sidelined by necessary upgrades to finance and 
+customer data systems. Instead, they must be integrated and prioritized. Given 
+that for many large firms, necessary investments will run to several billion dollars 
+over the coming years, boards may need to rethink their approach to evaluating 
+management’s  investment  in  core  IT  spending.  While  some  firms  still  have  the 
+audit  or  risk  committee  review  IT  investments,  others  have  established 
+committees  dedicated  to  IT  oversight.  That  is  an  interesting  trend,  and  worth 
+further consideration. 
+IT governance 
+Coming to IT governance, there are two ways to look at it. One is to view it as a sub-set of 
+overall  corporate governance  and  the  other  is to  see  it  as  a  distinct concept/  discipline  by 
+itself. There are arguments on both sides, but the former looks more appropriate. Corporate 
+governance, with its holistic definition covering fiduciary, strategic leadership/ guidance and 
+ethics related roles, is inclusive of IT strategy and IT management oversight as IT systems 
+and  information  are  as  valuable  as  any  other  resource  for  a  bank,  and  may  be  more. 
+Dependence  on  these  resources  and  systems  make  it  imperative  that these  are  managed 
+and  governed  through  an  appropriate  IT  governance  framework  (ITG).  There  are  several 
+alternative  ITG  frameworks  (over  14  as  per  a  2009  research),  with  many  more  evolving, 
+suitability of which depends on the overall ecosystem in which a bank operates. 
+In an early research on governance, IT governance mechanisms were categorized into three: 
+decision  making,  alignment  processes  and  communication  approaches.  Some 
+ITG 
+frameworks like Cobit (Control Objectives for Information and Related Technologies), COSO 
+(Committee of Sponsoring Organisations of the Treadway Commission) and ITIL (Information 
+Technology Infrastructure Library) provide guidance from micro level onwards. AS 8015, the 
+Australian standard for ICT governance, is targeted at strategic level. However, there is no 
+single  dominant  approach  for  ITG.  Some  recent  research  has  conceived  ITG  as  having: 
+(i) defensive  or  (ii)  strategic  approach  where  defensive  approach  refers  to  preventing  or 
+mitigating disasters while strategic approach aims to create sustainable shareholder value by 
+BIS central bankers’ speeches 
+ 5 
+either  reducing  costs  or  creating  a  sustainable  competitive  advantage.  In  practice,  holistic 
+understanding of legal, regulatory, business and internal ethic environment contexts should 
+determine the suitability of the framework for a particular bank. What is important is that ITG 
+achieves  its  applicable  objectives,  both  defensive  and  strategic,  and  enhances  the  overall 
+corporate governance in a bank, by facilitating maximization of benefits and minimization of 
+risks  emanating  from  IT  deployment.  It  focuses  specifically  on  information  technology 
+systems, their performance and risk management. 
+Role of board and independent directors 
+While we have discussed about governance in general and, IT governance in particular, one 
+aspect  which  remains  to  be  mentioned  is  the  importance  of  the  role  that  independent 
+directors on the Boards of banks are expected to play. Banks, basically, are organizations 
+which  mainly  have  roles  of  intermediaries  as  well  as  financial  market  participants.  Their 
+soundness and stability has potential impact much beyond their own well being. So, the role 
+of  Board  in  banks  is  more  focused  on  compliance,  organizational  ethic  and  strategic 
+guidance. In the Indian banking context, Boards have a lot to contribute to strategic ITG as 
+the  IT  implementation  is  still  evolving  and  structures  for  robust  oversight  on  acquisition, 
+deployment  and  management  of  IT  systems  and  information  security  mechanisms  need 
+closer  attention  and  strengthening.  Investments  required  in  acquisition,  maintenance  and 
+regular upgradation of technology systems in banks, along with the need to have appropriate 
+human  resource,  are  significant,  and,  therefore,  require  appropriate  management  controls 
+and accountability framework under a watchful Board. 
+Regulations and laws do contribute, but do not constitute the whole story about governance, 
+as recent global events have shown. Governance landscape, including IT governance, has 
+much  more  to  be  covered  by  quality  of  Board  oversight  than  mere  compliance  with  the 
+written  word.  Good  governance  should  be,  and  is  often,  the  result  of  endogenous  factors 
+those  that  emerge  from  within,  not  without.  Governance  is  not  about  what  decisions  get 
+made  –  that  is  management  –  but  it  is  about  who  makes  the  decisions  and  how  they  are 
+made.  Independent  directors,  with  an  assumption  of  higher  level  of  objectivity  and 
+professionalism,  are  expected  to  guide  the  banks  in  a  manner  that  our  banks  as  well  as 
+customers reap the fruits of IT deployment while the risks are contained through appropriate 
+assessment and mitigation measures. 
+Aristotle said “it is better for a city to be governed by a good man than good laws”. Board and 
+its Directors can contribute towards governance, including IT governance, more than the law 
+under which it is constituted, and that is what is expected of them. 
+In  conclusion,  I  would  exhort  the  independent  directors  to  perform  their  role  at  a  level 
+expected of them, so as to benefit the Industry, economy and society and once again convey 
+my thanks to IDRBT for organizing the program. 
+I wish the program great success. Thank you. 
+References: 
+EI  Sawy,  Omar  A;  Pavlou,  Paul,  A:  IT  enabled  Business  Capabilities  for  Turbulent 
+Environments (2008) 
+Filatotchev, 
+complementarities, Journal of Management Studies (2007) 
+Group of Thirty: Toward Effective Governance of Financial Institutions 
+ITGI: Board Briefing on IT Governance (2003) 
+Parent, M; B.H. Reich – Governing IT Risk: California Management review (2009) 
+I  –  Corporate  Governance  and  Firms  Dynamics:  Contingencies  and 
+6 
+ BIS central bankers’ speeches 
+Picou, A; Rubach, MJ – Does Good governance matter to Institutional Investors (2006) 
+Richard Briesbois, Greg Boyd, Ziad Shadid; Office of the Auditor General of Canada – What 
+is IT Governance? And why it is important for the IS Auditor 
+Shailer, GEP: An introduction to Corporate Governance in Australia (2004) 
+Syaiful Ali, Peter Green, Michael Parent – The role of compliance in Information technology 
+Governance (2009) 
+Weill,  P;  Ross  J.W.:  IT  Governance:  How  top  performers  manage  IT  Decision  rights  for 
+superior results – HBS Press (2004) 
+BIS central bankers’ speeches 
+ 7 

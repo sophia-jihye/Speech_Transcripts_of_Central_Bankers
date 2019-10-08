@@ -1,0 +1,315 @@
+Lucas Papademos: Central banks in the 21st century 
+Speech  by  Mr  Lucas  Papademos,  Vice-President  of  the  European  Central  Bank,  as  panellist  in 
+Session 1 on Monetary Policy at a conference on “Central banks in the 21st century” organised by the 
+Bank of Spain, Madrid, 8 June 2006. 
+References to the speech can be found on the ECB’s website. 
+Ladies and Gentlemen, 
+ I. Introduction 
+Let me start by saying a few words of thanks and extending my best wishes to this great institution, 
+which is celebrating 150 years of bearing the prestigious name of Banco de España. I would like to 
+thank Governor Caruana and the Banco de España for organising this excellent conference and for 
+inviting me to participate in this panel.  
+To  kick  off  this  conference,  Alan  Blinder  has  prepared  an  impressive  survey  which  presents  and 
+assesses the main critical issues that are currently truly relevant for monetary policy-makers. He has 
+demonstrated  again  an  admirable  ability  to  blend  top  academic  research with  good central  banking 
+practice  and  common  sense  to  produce  this  insightful  and  stimulating  review.  Alan’s  list  of  16 
+questions  regarding  monetary  policy  is  fairly  long  and,  indeed,  somewhat  longer  than  the  list  he 
+presented in 1999 at the first ECB conference. This may seem discouraging and might suggest that 
+not much progress has been made over the past six years. However, the two lists are not identical: 
+some of the original questions have been resolved, and new ones have arisen. Therefore, there are 
+still  plenty  of  critical  issues  concerning  the  science  and  art  of  central  banking  that  need  to  be 
+addressed, and Alan himself provides answers to most of them.  
+Given the wide range of questions raised by Alan, I will inevitably have to be selective and do some 
+cherry-picking,  by  focusing  on  issues  that  are  more  controversial  or  more  interesting  from  my 
+perspective, and that can also be discussed adequately in the limited time available. I will discuss a 
+number  of  issues  regarding  the  objectives  and  strategy  of  monetary  policy,  aspects  of  policy 
+implementation  including  central  bank  communication  and  transparency,  the  relationship  between 
+monetary policy and financial markets, and the implications of globalisation for monetary policy.  
+II. Monetary policy objectives: some fundamental, strategic and analytical issues 
+I  would  like  to  begin  by  addressing  some  critical  questions  concerning  the  institutional  design  of 
+monetary policy, in particular issues relating to monetary policy objectives. These include fundamental 
+issues regarding the choice and ranking of policy goals, as well as other important subjects pertaining 
+to the strategy and analysis employed in pursuing these goals. 
+A  fundamental  development  in  monetary  policy-making  over  the  past  two  decades  has  been  the 
+emergence of a strong consensus – or at least a general acceptance of the view – that the overriding 
+aim of monetary policy should be the attainment and preservation of price stability. This view is shared 
+by an overwhelming majority of central banks and academic economists. It is presumably also shared 
+by the political authorities, as manifested by the legislation that has been enacted in many countries to 
+enable  central  banks  to  pursue  this  objective.  The  roots  of  this  consensus  are  (1)  the  greater 
+appreciation of the benefits of price stability for durable economic growth and social welfare; (2) the 
+recognition that monetary policy can effectively determine price developments over the medium and 
+longer  run,  but  cannot  permanently  and  systematically  influence  economic  activity;  (3)  growing 
+evidence that independent central banks can pursue price stability effectively while minimising output 
+volatility. 
+Despite the general agreement on the primacy of price stability as a monetary policy objective, there 
+are differences of opinion on several related issues: (1) how this goal is linked and ranked relative to 
+BIS Review 51/2006 
+ 1
+other policy objectives; (2) what is the appropriate strategy for policy formulation; (3) whether and how 
+the concept of price stability should be defined in quantitative terms; (4) how to operationally specify a 
+final policy target and in particular the measures of inflation and economic activity that central banks 
+should aim to control. These differences are not  inconsequential for the formulation and conduct of 
+monetary policy. 
+The central bank’s objective function 
+In examining these issues, Alan uses, for part of his analysis and assessment, an objective function 
+for monetary policy that is often employed in academic work: a quadratic loss function that penalises a 
+weighted average of the deviations of the inflation rate (π) from its target value (π*) and the deviation 
+of  real  output  (y)  or  the  unemployment  rate  (u)  from  their  “equilibrium”  or  “natural”  values  (y*,  u*). 
+Although, as Alan acknowledges, this particular specification of policy-makers’ objectives is motivated 
+(if not dictated) by “mathematical convenience” (in the theoretical analysis of monetary policy, given 
+that it facilitates the derivation of results, especially under conditions of uncertainty, the fact is that it 
+imposes unrealistic constraints on policy-makers’ preferences and does not appropriately describe the 
+objectives of many central banks, including the ECB.  
+In  the  case  of  the  ECB,  the  Treaty  establishing  the  European  Community  states  that  “the  primary 
+objective of the ESCB shall be to maintain price stability” and that, “without prejudice to the objective 
+of price stability, the ESCB shall support the general economic policies in the Community with a view 
+to contributing to the achievement of the objectives of the Community”, which include a high level of 
+employment and sustainable and non-inflationary growth. In the euro area, monetary policy goals are 
+therefore not stated, and cannot be expressed in terms of their relative importance (which, in principle, 
+cannot  be  captured  by  choosing  the  size  of  the  parameter  λ  defining  the  relative  weight),  but  are 
+clearly  specified  in  a  hierarchical  (or  lexicographic)  manner,  which  emphasises  the  overriding 
+importance  of  price  stability  and  also  implies  that  policy  should  not  be  formulated  in  terms  of  an 
+objective function which trades off inflation volatility against output volatility. The underlying proposition 
+is that, in general, price stability contributes to reducing output volatility.  
+I should also briefly mention that the selected loss function does not seem to be able to capture the 
+points  raised  by  some  economists  concerning  the  potentially  asymmetric  costs  of  high  and  low 
+unemployment, relative to its natural or NAIRU level. It is also unclear as to whether it can provide an 
+appropriate  representation  of  policy  preferences  for  those  central  banks  that  have  opted  for  an 
+inflation-targeting strategy and at the same time aim to support a high level of economic activity. This 
+observation partly relates to the specific functional form and partly to the results of Svensson (1997), 
+who has shown that the parameters of a Taylor rule are not related in a straightforward way to the 
+relative weight λ of inflation and output deviations from their target values. 
+Monetary policy strategy and the operational target for price stability 
+Given  the  choice  and  ranking  of  objectives,  a  key  aspect  of  the  policy  framework  is  the  strategy 
+adopted  for  pursuing  them,  which  involves  decisions  concerning  the  method  of  analysis  and  the 
+quantitative  definition  and  operational  target  for  price  stability.  The  approaches  chosen  by  central 
+banks differ, but they are converging. Many central banks have opted for an inflation-targeting strategy 
+based on a single analytic model and aimed at an inflation rate of 2% or 2.5% as the midpoint of the 
+target range. The ECB has adopted a more general and eclectic strategy that includes both economic 
+analysis  and  monetary  analysis.  It  has  also  adopted  a  quantitative  definition  of  price  stability  –  an 
+increase in the price level that does not exceed 2% – and, given this definition, it aims to maintain 
+inflation  at  “below  but  close  to  2%”.  The  Federal  Reserve  has  not  yet  formally  adopted  a  precise, 
+operational price stability or inflation target (though implicitly a target for core inflation at 1.75%-2% 
+has recently been used). We have found the selection and announcement of a quantitative definition 
+of  price  stability  extremely  important  for  policy  formulation  as  well  as  for  guiding  and  anchoring 
+inflation  expectations  to  price  stability.  Moreover,  it  provides  a  yardstick  for  the  assessment  of  the 
+effectiveness of monetary policy and for democratic accountability.  
+However, despite the adoption of a quantitative definition of price stability to orient our policy, the ECB 
+does not use the term “inflation targeting” to describe its own strategy – even if Alan tends to put us in 
+the same camp. Presumably, there must be some real differences warranting this position, and indeed 
+there are. First, for the Governing Council of the ECB, inflation projections based on a single model 
+are  not  the  only  all-encompassing  tool  on  the  basis  of  which  decisions  and  communication  are 
+organised; our projections are seen as important input to our economic analysis, but are strictly staff 
+2 
+ BIS Review 51/2006
+projections and one element of our economic analysis. A second major difference is that we assign an 
+important role to monetary analysis in assessing the medium to long-term inflation trends and risks. A 
+final  point  is  that  our  policy  framework  has  a  medium-term  orientation  but  we  have  eschewed 
+specifying a fixed time horizon for our assessment of the outlook for price stability.  
+At the same time, there are no major differences in the practical implementation of monetary policy 
+strategies among price stability-oriented central banks and, with regard to at least some aspects of the 
+policy  framework,  remaining  differences  are  diminishing.  In  recent  years,  for  example,  we  have 
+observed  a  greater  focus  by  some  inflation-targeting  central  banks  on  the  medium  and  long-term 
+horizon and on the role of money and credit growth in determining medium to long-term inflation trends 
+and in influencing asset price dynamics. 
+Core versus headline inflation 
+Despite the convergence of many aspects of the monetary policy strategies, there are still important 
+differences. One such difference is whether the operational target for inflation should be the headline 
+or  a  core  measure  of  inflation.  Alan  has  declared  that  he  is  firmly  in  the  “core”  camp  for  several 
+reasons. He argues that a central bank should aim at core inflation because (i) it cannot effectively 
+control  headline  inflation  given  its  inability  to  offset  supply  shocks;  (ii)  it  can  better  forecast  future 
+headline inflation on the basis of past core-inflation dynamics, and (iii) targeting core inflation is likely 
+to result in more sensible monetary policy in the presence of supply (energy price) shocks. 
+In  this  debate,  I  am  firmly  in  the  “headline  inflation”  camp.  Let  me  explain.  To  begin  with,  our 
+responsibility  as  central  bankers  is  to preserve  the stability  of  the  overall,  general price  level  which 
+determines  the  public’s  purchasing  power  and  social  welfare.  The  inability  to  offset  immediately 
+supply-side  shocks  does  not  change  this  responsibility,  while  the  medium-term  orientation  of  our 
+monetary policy clearly indicates that we do not aim to offset such unanticipated shocks over the short 
+run. I believe it is important to differentiate the role of a core inflation measure in the definition of the 
+central bank’s objective from its relevance and potential usefulness in the assessment of the outlook 
+for price stability and the formulation of policy. With regard to the monetary policy strategy, the price 
+index used to define the medium-term objective should be a comprehensive and credible measure of 
+citizens’ purchasing power which cannot be criticised for being defined in an arbitrary manner. Core 
+inflation measures fall short of this requirement because of the exclusion of important items relevant 
+for the public and because of the degree of arbitrariness in the definition of core inflation.  
+Another issue concerns the use of an appropriate measure of core inflation as an information variable 
+in the formulation of monetary policy. There are two pertinent questions: first, which measure of core 
+inflation  provides  reliable  information  about  domestic  underlying  inflationary  pressures  by  removing 
+short-term  noise  from  headline  inflation  due  to  transitory  shocks,  and  second,  whether  different 
+measures of underlying inflation can better forecast developments in headline inflation. 
+Many  concepts  of  core  inflation  have  been  proposed,  such  as  HICP  inflation  excluding  energy  and 
+food  components,  trimmed  means  of  the  HICP  sub-indexes  and  model-based  measures.  While  the 
+proposed different core measures can be helpful in removing transient noise from trend inflation, there 
+is  no  strong  evidence  in  the  euro  area  that  a  specific  core  inflation  measure  is  a  reliable  tool  for 
+forecasting  headline  inflation  at  relevant  horizons.  Our  experience  and  analysis  leads  to  different 
+conclusions than those derived from the US experience cited by Alan (see Blinder and Reis, 2005). In 
+the euro area, the gap observed between headline and core inflation often closes with core inflation 
+increasing and converging towards higher headline inflation. 
+For  example,  in  the  euro  area  in  the  period  1999-2002,  a  considerable  positive  gap  opened  up 
+between the headline inflation and the underlying measure which excludes food and energy prices. 
+However, following a period of strong demand growth, this gap was closed not by a significant drop in 
+headline inflation, but by a delayed upward movement in this “core” measure. Following the indication 
+of the core measure on this occasion would have been a costly policy mistake (see ECB, 2005). 
+This  episode  shows  that  the  usefulness  of  core  measures  might  be  generally  limited,  and  that 
+medium-term inflationary pressures are very much related to various underlying causes and processes 
+as well as to the nature and dynamics of the shocks affecting the economy. Consequently, the optimal 
+monetary policy response cannot be determined on the basis of a simple rule relying on a measure of 
+core inflation; it depends on the size, nature and persistence of shocks affecting the economy. And 
+such shocks cannot, in general, be identified and their effects cannot be adequately assessed only by 
+using a measure of core inflation. 
+BIS Review 51/2006 
+ 3
+A  point  that  should  be  emphasised  with  regard  to  the  appropriate  response  of  monetary  policy  to 
+supply shocks is that their ultimate effects on inflation and output dynamics will obviously and crucially 
+depend  on  the  reaction  of  economic  agents,  especially  of  the  participants  in  product  and  labour 
+markets,  which  is  influenced  by  their  expectations  about  the  response  of  the  central  bank  to  such 
+disturbances. The fact that no significant second-round effects have been observed in the recent past 
+does  not  imply  that  they  will  not  emerge  in  the  future,  if  an  accommodative  monetary  policy  is 
+maintained,  especially  as  the  economic  recovery  gains  momentum.  If  a  central  bank  adjusts  the 
+monetary  policy  stance  only  when  second-round  effects  have  become  clearly  visible,  by  relying  on 
+some measure of core inflation, its response will come too late and it is likely that a larger dose of 
+monetary tightening would be required than would have been the case if it had adjusted earlier on the 
+basis of its assessment of all pertinent risks to future headline inflation. 
+The  strategy  of  the  ECB,  therefore,  relies  on  a  comprehensive  analysis  of  the  shocks  affecting 
+headline inflation as well as on a wide variety of economic indicators and methods of analysis in order 
+to  assess  the  outlook  for  price  stability  over  the  medium  term.  And,  importantly,  the  medium-term 
+orientation  of  the  ECB’s  monetary  policy  strategy  ensures  that  in  our  assessment  we  appropriately 
+discount short-term volatility due to transitory supply shocks.  
+III. Central bank transparency and communication of future policy rates 
+The  second  big  theme  I  want  to  address  is  central  bank  transparency  and,  in  particular,  Alan’s 
+suggestion that central banks should announce their conditional monetary policy plans, at least as part 
+of their forecasts. When discussing the issues of transparency and communication, it is important to 
+distinguish between general aims and principles, on the one hand, and practical and effective means 
+of fulfilling them, on the other. 
+I  fully  agree  with  Alan  on  the  importance  of,  and  the  reasons  for,  (maximum)  central  bank 
+transparency and I partly share his view on the limits to (optimal) transparency. But I draw different 
+conclusions  about  the  usefulness  of  pre-announcing  an  explicit  path  for  future  policy  rates  over  a 
+period of one to two years. This is because of my different assessment of the nature and extent of the 
+uncertainty we face, the quality of available information and the limitations to our analytical methods, 
+which have implications for the effectiveness of Alan’s proposed communication strategy. 
+A  high  degree  of  transparency  is  an  essential  element  of  the  democratic  accountability  of  central 
+banks.  Transparency  also  enhances  the  effectiveness  of  monetary  policy  by  helping  to  guide  the 
+expectations  of  economic  agents  and  bring  them  into  line  with  policy  objectives  and  actions.  It  is 
+particularly important that markets and the public at large have a good understanding of the systematic 
+and conditional conduct of monetary policy by the central bank, so that expectations about future price 
+developments and the path of policy rates are in line with the central bank’s mandate. For all these 
+reasons, the ECB has always striven to be as transparent as possible and has tried to communicate 
+clearly, and by a variety of means, its policy objective, its strategy, its assessment of the economic 
+situation, as well as the outlook for price stability and the associated risks. 
+The limits of central bank transparency 
+Are there limits to the transparency of central banks? Alan’s view on this issue is nicely presented by 
+paraphrasing Einstein: “Every central bank has to be as transparent as possible, but not more so.” The 
+crucial issue is the meaning or interpretation of “but not more so”. Alan argues that the meaning of this 
+proposition  is  that  the  default  option  should  be  disclosure,  unless  there  are  good  reasons  for  the 
+central bank to maintain the confidentiality of certain information in its role of supervisor or fiscal agent. 
+In my view, there is another interpretation of the meaning “but not more than possible”, which takes 
+into  account  the  limitations  of  our  analytical  tools  and  the  uncertainty  surrounding  the  medium  to 
+longer-term outlook. This interpretation also relates to the second objective of transparency, which is 
+to provide economic agents with useful information so as to enhance clarity and understanding about 
+policy actions and to reduce pertinent uncertainty. If future policy actions over a fairly long time horizon 
+depend  on  projections  about  the  future  paths  of  many  exogenous  variables  that  are  inevitably 
+characterised  by  uncertainty,  as  well  as  on  various  shocks  that  by  definition  cannot  be  anticipated, 
+and, more importantly, when there is considerable uncertainty about certain structural or behavioural 
+parameters of the economy, then providing explicit guidance on the future policy rates, conditional on 
+the  underlying  projections  and  assumptions,  generally  involves  risks  that  can  undermine  the 
+usefulness of providing more information on the central bank’s policy intentions.  
+4 
+ BIS Review 51/2006
+Let me elaborate on some of the risks. First, the general public may fail to fully understand that a pre-
+announced path of future policy rates is conditional and that changes in the state of the economy will 
+require changes to this policy path. Eventual deviations from the previously projected policy path may 
+therefore be viewed, at least by many who are not experts in monetary economics, as a failure of the 
+central  bank  to  follow  its  announced  intentions.  This  could  damage  its  credibility,  even  if  it  is 
+conducting policy in an optimal manner. Second, the central bank is often faced with a high degree of 
+uncertainty, including “Knightian” uncertainty, about the functioning of the economy and the response 
+of economic agents to shocks and policy actions. Under such circumstances, it is difficult to determine 
+an  optimal  or  appropriate  path  of  policy  rates  over  a  long  time  horizon  and  to  agree  about  such  a 
+policy  path  in  a  policy-making  committee,  and  to  properly  convey  to  the  public  all  the  conditions 
+underlying such a path. Finally, I do not think that publishing a path of future policy rates, which is 
+mechanically  derived  from  an  empirically  estimated  reaction  function,  would  be  helpful.  On  the 
+contrary, it would be difficult to explain the difference between this path and the one decided by the 
+decision-making  body  in  the  context  of  a  forward-looking  strategy  with  a  medium-term  orientation. 
+Confusion rather than greater clarity may be the outcome of implementing such an approach. 
+For this reason, I suggest that a central bank should be as transparent as possible, but no more so 
+than  is  realistically  useful for  enhancing  the  clarity  and  understanding  of  the  future  monetary  policy 
+stance.[1]  This  does  not  mean  that  central  banks  cannot  give  qualitative  guidance  about  the  future 
+policy stance by means of official statements, particularly in special circumstances when the size and 
+balance of risks to the outlook for price stability dictates the provision of such guidance or when the 
+central bank believes that market expectations about future monetary policy are deviating significantly 
+from its policy intentions as determined by its own assessment. 
+However,  I  share  some  of  Alan’s  considerations  on  the  limits  and  drawbacks  of  macroeconomic 
+projections based on a constant interest rate assumption. As you know, in order to improve the overall 
+consistency  and  forecast  quality  of  the  Eurosystem  staff  macroeconomic  projections,  we  recently 
+decided  to  change  the  assumption  about  the  future  path  of  short-term  interest  rates  that  is 
+incorporated in the staff projections. With the projections released today, we have started to produce 
+macroeconomic projections that are conditional on the path of future interest rates expected by the 
+markets,  as  embedded  in  the  yield  curve  and  in  futures  prices.  This  approach  corresponds  to  the 
+second  option  in  Alan’s  paper  and  addresses  the  concerns  expressed  by  eliminating  an  internal 
+inconsistency and improving transparency. It will not solve all of his concerns, but it should mitigate 
+some of them. 
+IV. Monetary policy and asset prices 
+I will turn now to the questions in Alan’s list that concern the relationship between monetary policy and 
+financial markets. In Question 14, Alan asks: how should central banks react to asset price bubbles? 
+To answer this properly, I would need at least another 20 minutes. Unfortunately, I do not have that 
+much time, but let me make two remarks.  
+First, I agree with Alan that asset price bubbles are difficult to identify in real time and are thus often 
+only identified ex post. This notwithstanding, it appears to me that there are a number of tools that can 
+help  identify  the  emergence  of  bubbles.  The  ECB  does  not  target  asset  prices,  but  pays  close 
+attention  to  asset  price  movements  with  a  view  to  preserving  the  stability  of  consumer  prices  over 
+longer horizons. In this regard, the role of money and monetary analysis in the ECB’s strategy helps 
+us to assess developments in asset prices and the degree to which they pose a risk to price stability 
+over the longer term. 
+Second, excessive appreciations and subsequent rapid reversals in asset prices could have very high 
+costs for price stability and for the real economy. Therefore, a policy of only “mopping up after” – to 
+use Alan’s terminology – could have worked on some specific occasions, but this may not always be 
+the case while, at the same time, it might create moral hazard problems. In light of this, a central bank 
+may want to consider a policy of carefully “leaning against the wind” under certain, clearly exceptional, 
+circumstances. It would then adopt a somewhat tighter policy stance in the face of an inflating asset 
+market than would otherwise be the case if confronted with a similar macroeconomic outlook under 
+more  normal  market  conditions.  Given  the  uncertainty  surrounding  the  appropriate  monetary  policy 
+stance  under  such  circumstances,  it  could  consider  to  err  on  the  side  of  caution  by  trying  to  avoid 
+feeding the bubble with an overly accommodative policy. These issues, which have been extensively 
+discussed, deserve further analysis and consideration. 
+BIS Review 51/2006 
+ 5
+V. The implications of globalisation for monetary policy and the global responsibilities of 
+central banks 
+My final remarks relate to the last, very challenging and open question raised by Alan on the global 
+responsibilities of the main central banks. This is an important question that cannot be answered in a 
+simple, straightforward manner and in a limited period of time. And Alan does not provide an answer, 
+either. I would like to pose, however, a set of related questions on the implications of globalisation for 
+monetary  policy.  In  a  globalised  economy,  should  the  role  and  orientation  of  monetary  policy  be 
+changed?  Should  the  framework  for  analysis  and  policy  formulation  be  amended?  Is  the  required 
+analysis for setting policy becoming more demanding? The direct and brief answers I recently gave to 
+these questions are: no, no and yes to some extent. 
+It  is  sometimes  argued  that  the  monetary  policy  of  a  major  central  bank  should  help  guide  the 
+domestic  economy’s  adjustment  to  the  evolving  global  economic  environment  and  the  competitive 
+pressures associated with globalisation; and that it should foster the adjustment of global imbalances 
+and  even  assume  responsibility  for  the  smooth  functioning  of  the  global  economy.  In  my  opinion, 
+globalisation does not affect the central role and overriding responsibility of central banks to preserve 
+price stability “at home”. On the contrary, maintaining price stability in a rapidly evolving, globalised 
+economy that may influence the dynamics of inflation in various ways becomes more essential and 
+challenging, particularly in situations where adverse inflation shocks or inflationary pressures in some 
+economies are now more easily transmitted to others.  
+Consequently,  if  the  primary  objectives  of  monetary  policy  are  unaffected  by  globalisation,  the 
+appropriate strategic framework for analysis and policy formulation should remain the same. However, 
+the analysis required for policy formulation will have to carefully take into account the various effects of 
+globalisation on the dynamics of inflation, economic growth and asset prices. For example: in the a 
+globalised economy, traditional measures of core inflation are even more difficult to interpret and use 
+as indicators of underlying domestic inflationary pressures; the estimates of potential output are more 
+difficult  to  calculate  in  a  robust  manner;  and  the  measurement  and  usefulness  of  output  gaps  are 
+subject to greater uncertainty than is usually the case. Consequently, our role and responsibilities as 
+central bankers are fundamentally the same in the globalised economy, but the performance of our 
+tasks may be becoming more challenging. Having said that, I would agree that other pertinent issues 
+raised by Alan deserve careful consideration. 
+VI. Concluding remarks 
+Clearly, there are many questions still to be answered, and challenges to be addressed. We should, 
+however, also not forget that during the last two decades, industrialised countries have experienced a 
+marked  reduction  in  the  average  level  of  inflation  and  in  the  volatility  of  both  output  and  inflation.  I 
+have  no  doubt  that  improved  economic  policies,  and  better  monetary  policy  in  particular,  have 
+contributed,  perhaps  largely,  to  this  development,  and  despite  the  room  for  potential  further 
+improvements,  as  suggested  by  Alan.  On  this  optimistic  note,  which  befits  such  a  celebratory 
+conference, I should like to conclude. 
+Thank you for your attention. 
+6 
+ BIS Review 51/2006

@@ -1,0 +1,869 @@
+27/10/2017
+Uncertainty | Speeches | RBA
+Speech
+Uncertainty
+Guy Debelle
+  Deputy Governor
+7th Warren Hogan Memorial Lecture Sydney – 26 October 2017
+Uncertainty is one of the few certainties in monetary policy decision-making. It enters at nearly every
+stage of the process – from understanding where the economy is at the moment to knowing where it
+will be in the future. Tonight, I will discuss some of the main ways that uncertainty affects things. In
+doing so, I will draw on the ‘Superforecasting’ template described by Philip Tetlock.
+discuss the monetary policy reaction function, which is one area where we can try to minimise
+uncertainty.
+ I will also
+[1]
+In describing these various manifestations of uncertainty, I will outline some forthcoming changes to
+the way uncertainty is presented in the RBA's 
+changes is to portray uncertainty in a form that is usable and understandable. I would also like to
+discourage an excessive focus on false precision.
+. The intention of these
+1. Uncertainty about Where We Are
+I will start by discussing the uncertainty about the present. It is obviously important to have a good
+idea of where you are, in order to know where you are going. We do have some sense of where the
+economy is, albeit imperfect. Most of the time, the uncertainty about where exactly we are is not
+consequential to the setting of monetary policy, but at times it can be.
+Some of the uncertainty relates to the frequency of data releases and the time it takes for data to be
+collected and published. Take the case of output and inflation, two of the most important summary
+statistics on the economy. It is now late October. But we won't receive an official read on GDP in the
+current quarter until the December quarter national accounts are released in early March of next year.
+That's more than four months away. This is by no means intended as any criticism of the ABS. It just
+highlights the challenges of compiling such statistics for an entity as large and complex as the
+Australian economy.
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+1/16
+S
+t
+a
+t
+e
+m
+e
+n
+t
+ o
+n
+ M
+o
+n
+e
+t
+a
+r
+y
+ P
+o
+l
+i
+c
+y
+27/10/2017
+For inflation – which is also published quarterly in Australia – we won't get an official read on the
+current rate until the December quarter Consumer Price Index (CPI) is released in late January, three
+months from now. In most other countries, the CPI is published monthly, so the wait to get an
+assessment on current inflation is not so long elsewhere.
+Uncertainty | Speeches | RBA
+More timely and more frequent estimates of output and inflation are not unambiguously desirable.
+There is clearly a trade-off between timeliness and accuracy. But, in the case of inflation, a more
+frequent estimate would help to identify changes in the trend in inflation sooner; it probably comes
+with more noise, but we have ways to deal with that. Any reading on inflation always contains
+varying degrees of signal and noise about the ‘true’ inflation process. At the moment, we need to
+wait three more months to gain a better understanding as to whether any particular read on inflation
+is signalling a possible change in trend or is just noise. That is one of the reasons why the RBA has
+long advocated a shift to monthly calculation of the CPI.
+That said, we do not depend solely on GDP and the CPI to assess the current state of the economy.
+We spend a lot of time and effort piecing together information from a large number of other sources.
+These include higher frequency and more timely data, including from the ABS, but also from a wide
+range of other data providers. The information we obtain from talking to people, particularly through
+our business liaison program, is also invaluable.
+The question then arises as to how we can filter the information we receive from all these different
+sources to gain an overall picture about inflation and the state of the overall economy. Take GDP as
+an example. Some of the data released before the national accounts, such as monthly retail sales and
+international trade, feed directly into the calculation of GDP. So we have a direct read on those. We
+‘nowcast’ other components of GDP using data that are more timely. Let me illustrate for household
+consumption. We get a good measurement of consumption of goods by looking at monthly retail
+sales and sales of motor vehicles and fuel. But there is very little timely information on household
+consumption of services, so the nowcast of this component relies more on statistical relationships.
+Some of these relationships are pretty weak, so we also supplement this with information on sales
+from our regular discussions with our business liaison contacts. This then gives us an estimate of
+consumption for the quarter. To get a preliminary nowcast for GDP growth for the quarter, we
+aggregate our best estimate for each of the relevant components. We then ask ourselves whether this
+estimate is consistent with other information that we have, such as the monthly labour market data,
+as well as predictions from our macro forecasting models.
+The nowcast can be then updated with new information as it comes to hand. That said, my
+observation from a couple of decades of forecasting is that your first estimate of GDP (three months
+out) is often the best, and that additional information is often noise rather than signal.
+Measurement uncertainty
+Aside from when data are published, uncertainty about the present also arises from how things are
+measured. This takes two forms. First, there is the methodology used to actually measure the
+variable in question. Second, there are the revisions to data after they were first published.
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+2/16
+27/10/2017
+On the first, a good example is the CPI. The CPI measures prices for a large number of items
+purchased by households. When aggregating these to calculate the overall consumer price index,
+each item is assigned a weight based on its average share of household expenditure. That is, the aim
+is to weight each price by the amount households spend on it, on average, in the period in question.
+Uncertainty | Speeches | RBA
+Obviously, these weights can change through time. But the weights used in the CPI are only updated
+each time the ABS conducts a Household Expenditure Survey, which, in recent times, has been every
+five or six years.
+In between each household expenditure survey, a number of things can happen. First of all, some
+new goods and services can come along that weren't there before. One example you might think of
+is a mobile phone. Though it's not quite that straightforward, as before mobile phones, households
+spent money on landline phone bills and on cameras. So often these ‘new’ goods are providing
+similar services to something that was there before. Nevertheless, the ABS needs to take account of
+these new goods coming in, as well as some old items dropping out.
+Secondly, households adjust their spending in response to movements in prices and income. In
+practice, households tend to substitute towards items that have become relatively less expensive, and
+substitute away from items that have become relatively more expensive. But the expenditure weights
+in the CPI are only updated every five or six years. Over time, the effective expenditure weights in
+the CPI become less representative of actual household expenditure patterns. That is, they are
+putting more weight on items whose prices are rising than households are actually spending on
+them. This introduces a bias in the measured CPI – known as substitution bias – which only is
+addressed when the expenditure weights are updated. Because households tend to shift expenditure
+towards relatively cheaper items, infrequent updating of weights tends to overstate measured CPI
+inflation.
+The ABS will very shortly update the expenditure weights in the CPI. Because of substitution bias,
+history suggests that measured CPI inflation has been overstated by an average of ¼ percentage
+point in the period between expenditure share updates. While we are aware of this bias, we are not
+able to be precise about its magnitude until the new expenditure shares are published, because past
+re-weightings are not necessarily a good guide. It is also not straightforward to account for this in
+forecasts of inflation. However, from a policy point of view, the inflation target is sufficiently flexible
+to accommodate the bias, given its relatively small size.
+[2]
+Going forward, the ABS will update the expenditure shares annually, rather than every five or six
+years. This will reduce substitution bias in the measured CPI.
+Another form of uncertainty about where we are, and sometimes also where we've been, comes
+from revisions to data after they were first published.
+ I will illustrate this point with a couple of
+recent examples. In the annual national accounts for 2015/16 released in October last year, there
+was a sizeable reappraisal of the allocation of total investment between the mining and non-mining
+sectors of the economy (Graph 1). There were upward revisions to the level of mining investment
+throughout the past decade, which was offset by downward revisions to the level of non-mining
+investment.
+[3]
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+3/16
+27/10/2017
+Why is this important? In analysing investment over the course of the past decade, it has been very
+useful to separately analyse investment in the mining sector and investment in the rest of the
+economy because of the markedly different drivers of the two and the differing sources of
+information we have.
+Uncertainty | Speeches | RBA
+More recently, in the June quarter national accounts, the data on non-mining business investment
+were revised upwards. The effect of both of these two revisions has significantly changed the profile
+of recent years to show more substantive growth in non-mining business investment than had been
+recorded earlier. This is very much welcome news for the economic outlook. A rebound in
+investment outside the mining sector has been a core part of the RBA's forecast for a while.
+So in this case, the revisions resulted in a reassessment both of where we are now, but also, of
+where we have come from.
+Graph 1
+Another example concerns the household saving ratio, which is useful in gauging current and
+prospective developments in household consumption. Revisions can have a material effect on the
+profile of the household saving ratio. At times, these have been substantial (in both directions),
+which can change our understanding of what was going on at any particular point in time. It also can
+complicate the estimation of economic relationships if the historical data change.
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+4/16
+27/10/2017
+The annual national accounts, where the ABS ‘confronts’ the data and takes account of possible
+inconsistencies, as well as incorporates new information sources, is due out tomorrow, and might
+again change our understanding of where the economy is at currently in some key areas.
+Uncertainty | Speeches | RBA
+Note that again this is not at all a criticism of the ABS. The process of collecting the data before
+publication is time consuming and very challenging, both practically and conceptually. Many of the
+issues I have raised here, and more, apply to data in other economies. I am just seeking to highlight
+the uncertainties that enter the assessment of where we are.
+Uncertain economic concepts
+In addition to these uncertainties about where we are, there are also uncertainties that arise from
+important economic concepts that we can't measure directly.
+One of these is the neutral policy rate, which I talked about recently.
+[4]
+Another is the degree of spare capacity in the labour market, which, like the neutral rate, is
+fundamentally important to a central bank tasked with achieving price stability and full employment.
+But, like the neutral rate, it is difficult to measure spare capacity directly. (The output gap is the GDP
+equivalent, with similar measurement challenges).
+A useful benchmark for assessing the degree of spare capacity in the labour market and inflationary
+pressures is the NAIRU, or non-accelerating inflation rate of unemployment. When the actual
+unemployment rate is above the NAIRU, there is spare capacity in the labour market, which would
+typically exert downward pressure on wage growth and inflation. The NAIRU is not observable, but it
+can be estimated.
+ Indeed, I have spent part of my economic life doing just that.
+[5]
+[6]
+The NAIRU can only be estimated, rather than directly measured like GDP or inflation. As we get
+new data on unemployment, wages and inflation, we can update our estimates of the NAIRU.
+Graph 2 shows various vintages of estimates of the NAIRU. That is, the NAIRU is estimated using
+data up to the end of the period shown, so, for example, the 2001 estimate uses the data up to end
+of 2001, while the 2017 estimate uses the data up to the current period. As we get a set of outcomes
+for inflation and unemployment that are different from what our previous model of the NAIRU
+suggested, we can apportion that difference to either the residual in the estimated equation or to a
+change in our estimate of the NAIRU.
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+5/16
+27/10/2017
+Uncertainty | Speeches | RBA
+Graph 2
+[7]
+ There are a few noteworthy divergences between different vintages of
+The graph shows that, most of the time, our current estimate of the NAIRU is not much different
+from our earlier estimates.
+the NAIRU. Most of these divergences occur around sharp movements in the unemployment rate
+where, in real time, it is difficult to disentangle how much of these movements are structural versus
+cyclical. Note that in these circumstances, the sign of the unemployment gap is not changing, just the
+size of it.
+Graph 3 shows the confidence intervals around the estimates of the NAIRU. As can be seen in the
+graph, the current estimate of the NAIRU from this model is around 5 per cent. The 70 per cent
+confidence interval around this estimate is ±1 percentage point. That is, we can be fairly sure that
+the NAIRU lies between 4 and 6 per cent.
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+6/16
+27/10/2017
+Uncertainty | Speeches | RBA
+Graph 3
+But what does this uncertainty about the NAIRU mean from a monetary policy point of view? How
+much of a problem is it that it is difficult to pin down the estimate of spare capacity in the labour
+market that precisely?
+The estimates suggest that the NAIRU is slow moving most of the time. Changes in the actual
+unemployment rate generally give you a pretty good gauge as to what is going on in terms of the
+general direction and extent of change in spare capacity in the labour market. We can then see how
+outcomes in terms of wage and price growth evolve in subsequent periods to assess whether we
+need to revise our estimates of spare capacity, but most of the time we are unlikely to revise those
+estimates materially. That is why I find the unemployment rate to be a particularly useful guide to
+the current state of the economy.
+We can bring other pieces of information to bear to confirm the assessment of the current state of
+spare capacity in the labour market, including information from business surveys. Measures of
+underemployment are also helpful. Of particular benefit is our business liaison program, which can
+give us an indication of whether wage and price pressures are starting to emerge in particular parts
+of the economy.
+That said, there are periods where this ability to rely on the gradual evolution of estimates of spare
+capacity breaks down, most notably the 1970s. So we always need to be alert to these possible
+regime shifts.
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+7/16
+Uncertainty | Speeches | RBA
+27/10/2017
+Most recently, this has been an issue (to some extent a pleasant issue) for a number of central banks.
+The unemployment rate has approached and gone below previous estimates of the NAIRU in the US,
+Germany and Japan, yet wage and price inflation has remained subdued. As a consequence,
+estimates of the NAIRU in those countries have continued to be revised lower. This can, presumably,
+only go on for so long, as eventually the laws of supply and demand mean that as new workers
+become increasingly hard to find, companies will actually have to pay higher wages to fill jobs.
+Here in Australia, our assessment is that there still remains a sizeable degree of spare capacity in the
+labour market. Our forecast is that spare capacity will be gradually reduced in the period ahead. But,
+as it is reduced, we will be alert to the possibility that these developments we see in other labour
+markets, in terms of subdued inflation in the face of minimal spare capacity, occur here too.
+2. Uncertainty about the Future
+Having talked about uncertainty about the present (and the past), I will now turn to discuss
+uncertainty about the future. As I said in a speech on uncertainty almost a decade ago, the late Jim
+Morrison put it best: ‘the future's uncertain and the end is always near’.
+[8]
+Monetary policy affects the economy with a lag. Changes in interest rates affect output, employment
+and inflation over a period of time. In Australia, we estimate that a change in the policy interest rate
+today has its peak impact on aggregate demand in about 12 to 18 months. The peak impact on
+inflation is closer to two years.
+So, in thinking about the appropriate stance of monetary policy today, we need to make an
+assessment about the likely state of the economy over the next couple of years. We need to make
+forecasts. How much output will be produced in the economy in 18 months' time? How fast will
+prices be rising in two years' time? How would changing the level of interest rates now affect these
+outcomes? These questions are difficult to answer with any degree of precision. The inaccuracy of
+economic forecasts is well documented and often much maligned.
+As Glenn Stevens noted when speaking on forecasting a few years ago, ‘one big difference in
+economics is that some decisions based on forecasts may alter the outcomes – as in the case of
+ He went on to
+economic policy decisions, or spending decisions by businesses and households’.
+observe that this is one advantage weather forecasters have over the economics profession. Human
+behaviour doesn't change the weather, at least over short horizons. Economics has to deal with the
+vagaries of human behaviour, which seem to be more difficult to predict and are more consequential
+than the vagaries of the weather.
+[9]
+The economics profession has developed a range of methods to deal with forecast uncertainty.
+Rather than try and summarise that work, I would like to discuss some of the ways we deal with
+forecast uncertainty at the RBA.
+Before I do that, it will be useful for me to outline how RBA staff generate forecasts for key variables
+like output growth, inflation and the unemployment rate.
+[10]
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+8/16
+Uncertainty | Speeches | RBA
+27/10/2017
+As I alluded to above, we begin with very careful analysis of the data; trying to understand where
+things are at now. It is always useful to have some idea of where you are, before working out where
+you are going! We monitor thousands of variables relating to the domestic and global economies and
+financial markets. And we try to understand the relationships between these variables. We also try
+and gain a better understanding of developments in the economy by talking to people – firms,
+unions and employee groups, financial market participants, other public institutions and government
+departments, academics, think tanks. Much of this occurs through the RBA's liaison program. We also
+talk to our colleagues at other central banks, and participate in a range of international forums to try
+and understand global economic developments and how they might affect Australia.
+The forecasts for key variables are generated using a combination of econometric models and our
+judgement. We try and take an eclectic approach to this. For any given variable, we don't know what
+the ‘true’ model is, or the true data-generating process is, if you would like to take a more
+atheoretical approach. There is rarely one single model that outperforms all the rest. Or, even if we
+thought we knew what that model was today, structural changes in the economy means that it
+mightn't be the true model tomorrow.
+So we typically estimate a range of different models for each of the key variables that we are
+interested in. To some extent, this is utilising the wisdom of crowds. To illustrate, consider the
+models we use to forecast inflation. One approach is an extension of the Phillips Curve, that I was
+discussing above when talking about the NAIRU, where inflation is a function of spare capacity in the
+labour market, import prices and inflation expectations. Another approach is to model inflation as a
+mark-up over input costs, such as growth in labour costs and import prices. ‘Bottom-up’ approaches
+are also used; for example, forecasting non-tradable and tradable inflation separately, and
+aggregating those to get a forecast for overall inflation. We can also use time series techniques to
+estimate the data-generating process only using the inflation data itself.
+These give us a range of forecasts for inflation. They highlight the issue of model uncertainty, that is,
+we are not sure which model is the right model for inflation. It poses the difficult challenge of how to
+process/weight the different forecasts that we have. This is where the art of forecasting comes in,
+though science can help us with this challenge too. Here it is important, in my view, to be flexible
+and eclectic rather than rigid and dogmatic.
+In addition to single-equation models, we also have a number of macroeconomic and multi-equation
+models that are used to cross-check the forecasts. These models have the advantage of incorporating
+feedback effects. For example, higher wage growth increases firm's input costs and could lead to
+higher inflation. That, in turn, could increase inflation expectations and encourage workers to push
+for higher wage growth. The macro models also impose internal consistency, so we can have greater
+confidence that forecasts for individual variables are consistent with each other. It is also useful to
+check that adding up constraints aren't being violated!
+Often we use our judgement to augment the forecasts generated by the econometric models.
+Applying judgement is appropriate for a number of reasons.
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+9/16
+Uncertainty | Speeches | RBA
+27/10/2017
+We do not have a fully articulated behavioural model of the economy where we are confident about
+the evolution of all the parameters. Hence we estimate models that are the average outcomes over
+the time period over which they are estimated. The model fits the data, on average, with some
+degree of imprecision. At any point in time there are residuals. That is, at any point in time, the
+current outcome is not likely to be exactly where the model expects it to be.
+We can bring judgement to bear on those residuals and their possible evolution. There is likely to be
+information about the current state of the variable in question that is not easily incorporated in the
+model. For example, over the past decade, the information we have gained from our liaison program
+from talking to the large resource companies has been very informative and, most importantly, quite
+accurate about the profile of investment in the resources sector. But this information was difficult to
+incorporate directly into standard models of business investment.
+The nature of these idiosyncratic residuals or shocks may have some degree of predictability to them,
+which, again, we can utilise in the forecasts. We may have some reason to believe the residuals are
+likely to be correlated in the immediate future, if we have some understanding as to what underpins
+them today.
+At other times, we may have reason to believe that the econometric model has broken down.
+Behavioural parameters may change through time, particularly in the face of policy changes. In the
+words of the standard investment disclaimer: past behaviour may not be a good guide to future
+performance.
+Although judgement is necessary, we are also mindful of its dangers. It can lead to biases, for
+example, the tendency to see persistent patterns in random data. And it can be harder to explain,
+replicate and refine than quantitative models. As elsewhere, a balance is needed.
+So, we must always ask the question: how relevant is the past for forecasting the future? Does
+history repeat, rhyme or is it bunk?
+Dealing with forecast uncertainty
+Despite these efforts, the history of economic forecasting tells us that our central forecast will almost
+certainly be wrong. But there are things we can do to manage this uncertainty.
+The methodology in Philip Tetlock's 
+again.
+[11]
+ is very helpful: try, fail, analyse, adjust, try
+It is essential to ask, after the fact, what 
+ cause our forecasts to be wrong? Evaluating forecasts 
+ is as important as generating the forecasts. This can be described in three stages:
+Where were we wrong? For which variables were our forecast misses the largest?
+Why were we wrong? There are a number of possible reasons. Was it because the model was the
+wrong model? Has the model changed? Was our judgemental adjustment wrong? Was our forecast
+for an explanatory variable wrong? Was there an economic event or ‘shock’ that we didn't anticipate?
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+10/16
+S
+u
+p
+e
+r
+f
+o
+r
+e
+c
+a
+s
+t
+i
+n
+g
+d
+i
+d
+e
+x
+p
+o
+s
+t
+27/10/2017
+Having attempted to answer these questions, we can then ask what can we learn? What, if anything,
+do we need to adjust in our forecasting framework?
+Uncertainty | Speeches | RBA
+To understand forecast misses, it is important to ask whether there were any unanticipated economic
+events or ‘shocks’. It is just as important to understand the source of these shocks; not only can that
+help us understand the forecast misses, but it can also help us understand economic developments
+more generally.
+That said, it is important to be mindful of hindsight bias. Hindsight is always the best forecaster. So
+it is important to differentiate between what we should have known 
+have learnt 
+ and what we can only
+ I will illustrate the issue arising from forecast uncertainty by showing the forecast misses for
+underlying inflation and the unemployment rate since 1993 (Graph 4).
+[12]
+Graph 4
+Not surprisingly, forecast misses are more common than not, as I have already noted. The inflation
+misses (the vertical axis) are centred on zero; they have been unbiased. But the unemployment
+misses (the horizontal axis) have been negative more often than positive. That is, on average over
+this period, the unemployment rate has been lower than we had forecast. That's a good economic
+outcome. But, as a forecaster, this bias is something we would hope to avoid.
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+11/16
+e
+x
+ a
+n
+t
+e
+e
+x
+ p
+o
+s
+t
+Uncertainty | Speeches | RBA
+27/10/2017
+I have labelled on the graph some of our biggest misses. The cluster on the left represents the
+financial crisis, which we thought was going to deliver much lower growth and higher unemployment
+in 2010 than it did. Again, from an economic outcomes point of view, it is better that it turned out
+this way. If we ask ourselves, why did things turn out to be better than feared in this instance, a
+large part of the explanation was the unexpectedly large fiscal stimulus in China in 2008-09, which
+was particularly beneficial for the Australian economy. There was also the beneficial effect of fiscal
+actions in Australia and the labour market turned out to be more flexible than we had expected.
+Finally, there was the domestic monetary policy response and the depreciation of the exchange rate,
+the extent of which were not forecast. Most of these fall into the category of 
+were difficult to foresee 
+ events, which
+ The cluster at the top represents the increase in underlying inflation in 2008, which we did not fully
+anticipate. In the bottom left is 1999, when both unemployment and inflation turned out surprisingly
+well. But these outliers are unusual, with most of our errors clustered around the centre. To reinforce
+that point, I have drawn ellipses – under certain assumptions we would expect 70 per cent and
+90 per cent of our forecast errors to fall within these ellipses, respectively.
+A feature of the chart is how featureless it is. It is tempting to assume that forecast misses for
+unemployment and inflation would be negatively correlated; if unemployment is surprisingly low,
+then inflation would be surprisingly high. This would be consistent with demand shocks. But, in
+reality, there is not much correlation. Supply shocks – where, for example, both unemployment and
+inflation were surprisingly low – have been about as common as demand shocks.
+How consequential are these forecast errors for the actual setting of monetary policy? To a large
+extent, that is the acid test. The answer to that question is dependent on whether the forecast misses
+were foreseeable 
+. It also depends on what the monetary policy response has
+been between when the forecast was made and when the outcome is actually realised. As I noted
+earlier, one challenging dynamic in forecasting the economy is that we are all participants in the
+process and can have an impact on the actual outcomes with our future actions.
+ and 
+How we communicate uncertainty
+So far I have discussed how we think about forecast uncertainty and some of the approaches we use
+to make our forecasts as robust as possible.
+But how do we communicate forecast uncertainty? In the RBA's quarterly 
+, our approach is to show graphically confidence intervals around the central forecasts.
+[13]
+The following graph from the August 
+ shows this for year-ended GDP growth (Graph 5).
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+12/16
+e
+x
+ p
+o
+s
+t
+e
+x
+ a
+n
+t
+e
+e
+x
+ a
+n
+t
+e
+e
+x
+ p
+o
+s
+t
+S
+t
+a
+t
+e
+m
+e
+n
+t
+ o
+n
+ M
+o
+n
+e
+t
+a
+r
+y
+P
+o
+l
+i
+c
+y
+S
+t
+a
+t
+e
+m
+e
+n
+t
+27/10/2017
+Uncertainty | Speeches | RBA
+Graph 5
+The black line shows actual GDP growth up to the latest data point, and then the central forecast.
+This is the modal forecast; the outcome we consider most likely.
+The dark blue area is the 70 per cent confidence interval around the central forecast, based on our
+forecasts errors since 1993. Roughly speaking, it says that – if we make similar forecast errors to
+those in the past – there is a 70 per cent chance that GDP growth in two years' time will be between
+2 and 4½ per cent.
+show that there is considerable uncertainty around the forecasts for GDP. This is true for other
+forecasters, as well as GDP forecasts for other economies.
+ The light blue area is the 90 per cent confidence interval. These intervals
+[14]
+In the 
+, we have also published a table of forecasts for key variables.
+Recently these forecasts have been published as ranges, for example, 2–3 per cent for inflation. In
+the next 
+point. Anything more precise than that is false precision in my view.
+, these ranges will be replaced by the central forecasts to the nearest quarter
+This evolution in the approach to portraying the forecasts and the uncertainty around them is
+because the technology has improved. We are making the change because we think that we can
+provide more useful information about the central forecast and the degree of uncertainty around the
+forecast.
+Given the uncertainty around the central forecasts, I would strongly encourage you not to place too
+much significance on small changes from quarter to quarter. That is, avoid falling into the trap of
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+13/16
+S
+t
+a
+t
+e
+m
+e
+n
+t
+ o
+n
+ M
+o
+n
+e
+t
+a
+r
+y
+ P
+o
+l
+i
+c
+y
+S
+t
+a
+t
+e
+m
+e
+n
+t
+Uncertainty | Speeches | RBA
+27/10/2017
+false precision. The exact estimates are, in the end, not that important. The sense of central tendency
+conveyed by the graphs is more important and the accompanying text will continue to provide our
+assessment as to whether the changes are material or not. The monetary policy reaction is more
+likely to be affected by where the actual outcomes for inflation and growth fall within those intervals
+in the graph than whether or not the forecast in the table is actually achieved.
+Similarly, focussing on how exactly the point estimates in the table change from quarter to quarter is
+likely to be less informative than the evolution of the information in the graphs.
+We will also continue to supplement this information with a discussion of some of the uncertainties
+around the forecast. This gives some sense as to what are some of the forces that could cause the
+outcome to depart from the modal forecast. That is, they may be low probability events, but, if
+realised, they would be highly consequential for the Australian economy.
+The discussion of these different scenarios comes from asking ourselves the question: 
+, what
+things could cause our central forecast to be wrong? What would our forecasts look like (say) if the
+exchange rate was 10 per cent lower than we assumed? Or if Chinese GDP growth slowed sharply?
+Or if households save less income than we assumed?
+These scenarios involve changing a key assumption or central forecast for a particular variable, and
+then evaluating the outcome relative to the central forecasts. The scenario effectively picks out a
+different point in the distribution of possible forecast outcomes. Macro models are an effective tool
+for scenario analysis. At the RBA, we have several macro models we can use, depending on the
+scenario we want to evaluate. Over the period ahead, we will be conveying the potential outcomes of
+such scenario analysis in the 
+ Monetary Policy and Uncertainty
+At various times throughout this speech, I have raised the issue of how consequential these various
+sources of uncertainty are for the monetary policy decision-making process. Most of the time, the
+uncertainties, while needing to be acknowledged, have to be taken for what they are. That is, we can
+assume that they will probably evolve only slowly, in a way that gives time for monetary policy to
+respond appropriately as they are realised. Another way of putting this is that monetary policy
+responds to the modal forecast, the most likely outcome. If an uncertainty is realised that changes
+that modal outcome, then monetary policy responds appropriately when that information becomes
+available. It does not respond to the weighted average of the likelihood of all the various
+uncertainties. In part, this is because it is impossible to articulate all the uncertainties and/or assign
+probabilities to them. It is also because if we were to set policy in response to the mean, rather than
+the modal, forecast, we would almost certainly have the wrong policy setting in whatever future state
+of the world is realised. This approach is very much in keeping with Brainard's gradualism in
+policymaking under uncertainty.
+[15]
+At times, there is a need for a decisive policy response as particularly large shocks away from the
+modal path come to pass. The financial crisis is a particularly good example of this. But such events
+tend to be the exception rather than the rule.
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+14/16
+e
+x
+ a
+n
+t
+e
+S
+t
+a
+t
+e
+m
+e
+n
+t
+ o
+n
+ M
+o
+n
+e
+t
+a
+r
+y
+ P
+o
+l
+i
+c
+y
+Uncertainty | Speeches | RBA
+27/10/2017
+Whatever the circumstances, though, it is important that there is a good understanding of what the
+monetary policy reaction is likely to be. That is, it is important that people have a good
+understanding of what the reaction function is. Then they can have reasonable surety about how the
+central bank will respond given the outcomes for inflation, unemployment and output that actually
+come to pass. They can have some confidence in saying: if I think this is my most likely forecast for
+the economy, then it is likely that monetary policy will be adjusted in this way. At the same time, it is
+important to note that the monetary policy decision is ‘not rigidly and mechanically linked to
+forecasts’, not least because of all the uncertainties I have just been discussing.
+[16]
+Another way of putting this is that we can try and make the monetary policy decision-making system
+as robust as possible to the inherent uncertainty that we have no choice but to deal with.
+Conclusion
+Most (all?) decisions in life are taken under some degree of uncertainty. This is because decisions are
+about something that will happen in the future, which is uncertain. Policymaking under uncertainty is
+similarly a fact of life. As Tetlock puts it, ‘it is one thing to recognise the limits on predictability and
+quite another to dismiss all prediction as an exercise in futility.’
+[17]
+In this speech, I have tried to articulate a number of ways in which uncertainty enters the monetary
+policy decision-making process. There is uncertainty about both where we are and where we are
+going. But not all these sources of uncertainty are above the materiality threshold that impinges on
+the actual monetary policy decision or on other economic decision-making. We need to avoid false
+precision in both our assessment of outcomes and forecasts and in our policy response to them.
+In that regard, I have noted a change to the way we will present our forecasts to try and encourage a
+shift of focus to the central tendencies for the future paths of key economic variables.
+We will continue to assess how our forecasts turn out and adjust our framework and methodology
+where and when appropriate. We will try and understand the sources of forecast misses and question
+whether they were knowable 
+ or 
+ In doing so, we continue to aspire to have ‘perpetual beta’, recognising the need to be cautious,
+pragmatic, self-reflective, analytical and thoughtful updaters.
+[18]
+Endnotes
+[*]
+Thanks to Mick Plumb for his help.
+[1]
+[2]
+[3]
+Tetlock P and D Gardner (2015), 
+, Crown Publishing, New York.
+Stevens G and G Debelle (1995), ‘Monetary Policy Goals for Inflation in Australia’, RBA Research Discussion Paper No
+9503.
+See Bishop J, T Gill and D Lancaster (2013), ‘GDP Revisions: Measurement and Implications’, RBA 
+11–22.
+, March, pp
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+15/16
+e
+x
+ a
+n
+t
+e
+e
+x
+ p
+o
+s
+t
+S
+u
+p
+e
+r
+f
+o
+r
+e
+c
+a
+s
+t
+i
+n
+g
+  T
+h
+e
+ A
+r
+t
+ a
+n
+d
+ S
+c
+i
+e
+n
+c
+e
+ o
+f
+ P
+r
+e
+d
+i
+c
+t
+i
+o
+n
+B
+u
+l
+l
+e
+t
+i
+n
+27/10/2017
+[4]
+Debelle G (2017), ‘Global Influences on Domestic Monetary Policy’, Speech at the Committee for Economic
+Development of Australia (CEDA) Mid-Year Economic Update, Adelaide, 21 July.
+Uncertainty | Speeches | RBA
+[5]
+[6]
+[7]
+[8]
+[9]
+[10]
+[11]
+[12]
+[13]
+[14]
+[15]
+[16]
+[17]
+[18]
+Cusbert T (2017), ‘Estimating the NAIRU and the Unemployment Gap’, RBA 
+, June, pp 13–22.
+Debelle G and J Vickery (1998), ‘Is the Phillips Curve a Curve? Some Evidence and Implications for Australia’
+, 74, pp 384–398; Debelle G and D Laxton (1997), ‘Is the Phillips Curve Really a Curve? Some
+Evidence from Canada, the United Kingdom and the United States’, IMF Staff Papers, 44 (2), pp 249–282.
+Note that the model to estimate the NAIRU here is not changing through time, just the sample period. There would
+likely be additional variation if different models were used through time.
+Debelle G (2010), ‘On Risk and Uncertainty’, Address to the Risk Australia Conference, Sydney, 31 August.
+Stevens G (2011), ‘On the Use of Forecasts’, Address to the Australian Business Economists Annual Dinner, Sydney,
+24 November.
+Lowe P (2010), ‘Forecasting in an Uncertain World’, Address to the Australian Business Economists Annual
+Forecasting Conference Dinner, Sydney, 8 December and Kent C (2016), ‘Economic Forecasting at the Reserve Bank
+of Australia’, Address to the Economic Society of Australia (Hobart), Hobart, 6 April.
+See Tetlock and Gardner (2015), p 177.
+See Tulip P and S Wallace (2012), ‘Estimates of Uncertainty around the RBA's Forecasts’, RBA Research Discussion
+Paper No 2012-07. Thanks very much to Peter Tulip for generating this graph.
+See Tulip and Wallace (2012).
+This is an intuitive interpretation, not the technical definition of a confidence interval.
+Brainard W (1967), ‘Uncertainty and the Effectiveness of Policy’, 
+, 57, pp 411–425.
+Stevens G (2011), ‘On the Use of Forecasts’, Address to the Australian Business Economists Annual Dinner, Sydney,
+24 November.
+See Tetlock and Gardner (2015), p 10.
+See Tetlock and Gardner (2015), pp 190–192.
+© Reserve Bank of Australia, 2001–2017. All rights reserved.
+http://www.rba.gov.au/speeches/2017/sp-dg-2017-10-26.html
+16/16
+B
+u
+l
+l
+e
+t
+i
+n
+E
+c
+o
+n
+o
+m
+i
+c
+ R
+e
+c
+o
+r
+d
+A
+m
+e
+r
+i
+c
+a
+n
+ E
+c
+o
+n
+o
+m
+i
+c
+ R
+e
+v
+i
+e
+w

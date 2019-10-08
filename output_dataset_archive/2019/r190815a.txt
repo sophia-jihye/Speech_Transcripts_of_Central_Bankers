@@ -1,0 +1,80 @@
+Benjamin E Diokno: Data Governance Seminar
+Speech by Mr Benjamin E Diokno, Governor of Bangko Sentral ng Pilipinas (BSP, the central
+bank of the Philippines), at the Data Governance Seminar, Manila, 14 June 2019.
+ To my colleagues here in Bangko Sentral and  to our resource persons today, good morning.
+Welcome to our data governance seminar. As we prepare ourselves with the data governance
+seminar this morning, let me start with some food for thought:
+It used to be that the problem of society is not having enough data and computing power.  Today,
+what we are facing is clearly an abundance of data and almost unlimited computing power.
+In  a  Forbes  magazine  article,  internationally  best-selling  author  and  strategic  business  and
+technology advisor Bernard Marr notes that there are 2.5 quintillion bytes of data created each
+1
+day.  Further, 90% of  available data across the globe was created only in the last two years.
+On  the  other  hand,  according  to  the  World  Economic  Forum,  the  entire  digital  universe  is
+expected to reach 44 zettabytes by 2020, roughly 40 times more bytes than there are stars in the
+observable universe.
+Going by this, data is the new currency.  Understanding of data as a strategic asset is now quite
+fundamental to every business and organization—the BSP included. In fact, in my recent policy
+pronouncements, I always say that the Monetary Board’s decisions are always data driven and
+evidence-based on market conditions.
+Despite  the  significance  of  data,  even  highly  technical  and  professional  organizations  still
+experience  issues  in  data  consistency,  quality,  and  timeliness.  This  affects  an  organization’s
+ability to generate the data needed for high quality decisions and policies.
+These seem to indicate that many organizations have yet to reach that point of being able to
+effectively harness the power of their data assets.
+This  is  where  data  governance,  our  topic  for  today,  becomes  most  relevant.  DAMA,  an
+international  organization  of  professionals  and  standard  setters  in  data  management,  defines
+data governance “as the exercise of authority and control over the management of data assets.”
+Its purpose is to ensure that data is collected, processed, organized, protected, and consumed
+properly,  according  to  agreed-upon  policies  and  best  practices.     It  is  about  determining  data
+strategy  and  policy,  defining  standards  for  data  quality  and  delivery,  as  well  as  establishing
+oversight and issue management processes. This is to ensure that the reliable and actionable
+data are received by the ones who need it, when they need it, and in the way they need it.
+2
+Thus, a well-functioning data governance structure should guide decisions made about data and
+how people and processes are expected to behave in relation to it.  Too many times, however,
+this  is  left  to  chance  or  to  operate  within  silos  with  different,  if  not  competing  objectives,
+sometimes to the detriment of the organization in general.
+To establish a data governance program is to be able to exercise authority and deliberate control
+over data and, as a result, increase the value that can be derived from our data assets. Data
+governance  need  not  be  intrusive  or  invasive,  and  neither  should  it  be  restrictive.    Instead,  it
+should  be  designed  around  the  best  way  data  processes  can  support  the  delivery  of  our
+mandates.
+ 1 / 2
+BIS central bankers' speeches
+Following the global financial crisis of 2007, the Basel Committee on Bank Supervision (BCBS) 
+3
+issued BCBS 239 covering the principles for effective risk data aggregation and risk reporting.  
+These principles, issued in January 2013, aim to strengthen banks’ risk data aggregation and risk
+reporting  with  a  view  to  improving  their  risk  management,  decision-making  processes,  and
+resolvability.
+One of the key takeaways from BCBS 239 is Principle 1. It is entirely devoted to governance,
+recognizing the importance of having a strong governance framework, risk data architecture and
+IT infrastructure as preconditions to ensure compliance with the other principles in the guidelines.
+The rest of the principles outline building data aggregation capabilities, reporting practices, and
+tools to monitor compliance.
+While  the  guidelines  are  principally  intended  for  systemically  important  banks,  many  of  the
+principles may be ported over and applied to how an institution like our own should be governing
+our data for our purposes, even while we explore the applications of other generally accepted
+principles and best practices in data governance.
+Our goal in today’s session is to jumpstart the definition of our data governance strategy.  We
+have  invited  experts  from  the  industry  as  well  as  the  most  senior  data  stakeholders  in  the
+organization to this workshop in order to accelerate our journey— because it will be a journey
+towards a more efficient and effective data governance in the BSP.
+We believe that with active support of the Monetary Board and the Office of the Governor and the
+strong partnerships among the business users and the IT teams, we will be well on our way
+towards  defining  our  data  governance  strategy  and  practices  to  address  not  only  our  present
+needs but also to position us well for our future data and information requirements.
+Thank you.
+1
+2
+3
+www.forbes.com/sites/bernardmarr/2018/05/21/how-much-data-do-we-create-every-day-the-mind-blowing-
+stats-everyone-should-read/#3452202160ba; 
+www.weforum.org/agenda/2019/04/how-much-data-is-
+generated-each-day-cf4bddf29f/
+DAMA-DMBOK to the Data Management Body of Knowledge, 2nd ed. DAMA International, 2017
+Principles for effective risk data aggregation and risk reporting. Bank of International Settlements. January 2013. 
+www.bis.org/publ/bcbs239.pdf
+ 2 / 2
+BIS central bankers' speeches

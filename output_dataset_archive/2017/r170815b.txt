@@ -1,0 +1,290 @@
+Christopher Kent: Innovative mortgage data
+Speech by Mr Christopher Kent, Assistant Governor (Financial Markets) of the Reserve Bank of
+Australia, at Moody's Analytics Australia Conference 2017, Sydney, 14 August 2017.
+ I  thank  Michael  Tran  and  Michelle  Bergmann  for  invaluable  assistance  in  preparing  these
+remarks.
+Introduction
+I’d  like  to  thank  Moody’s  for  the  invitation  to  speak  to  you  at  this  conference  on  innovation  in
+banking and risk management. My discussion is relevant to both of these issues.
+The Reserve Bank has always emphasised the value of using a wide range of data to better
+understand economic developments. One relatively new source of data for us is what we refer to
+as the Securitisation Dataset. Today, I’ll briefly describe this dataset and then I want to tell you a
+1
+few of the interesting things we are learning from it.
+The  Bank  collects  data  on  asset-backed  securities.  Currently,  the  dataset  covers  about  280
+‘pools’ of securitised assets. We require these data to ensure that the securities are of sufficient
+quality to be eligible as collateral in our domestic market operations. The vast bulk of the assets
+underlying  these  securities  are  residential  mortgages  (other  assets,  such  as  commercial
+property mortgages and car loans, constitute only about 2 per cent of the pools). Some of these
+are ‘marketed securities’ that have been sold to external investors. There are also securities that
+2
+banks have ‘self-securitised’.
+Self-securitisations are primarily used by participating banks for the Committed Liquidity Facility
+(CLF) in order to meet their regulatory requirements.  The size of the CLF across the banking
+system is currently $217 billion. Self-securitisations are also used to cover payment settlements
+that occur outside business hours via ‘open repo’ transactions with the RBA.
+3
+The Bank has required the securitisation data to be made available to permitted data users (such
+as those who intend to use the data for investment, professional or academic research). This
+has  helped  to  enhance  the  transparency  of  the  market.  Much  of  that  has  been  achieved  by
+requiring data that is comparable across different pools of securities.
+Another benefit of the Securitisation Dataset is that it provides a useful source of information to
+help  us  better  understand  developments  in  the  market  for  housing  loans.  The  dataset  covers
+information on 1.6 million individual mortgages with a total value of around $400 billion. Currently,
+this accounts for about one-quarter of the total value of home loans outstanding in Australia.
+Nature of the data
+Let me make a few brief remarks about the nature of the data.
+For each housing loan, we collect (de-identified) data on around 100 fields including:
+loan characteristics, such as balances, interest rates, loan type (e.g. principal-and-interest
+(P&I), interest-only), loan purpose (e.g. owner-occupier, investor) and arrears status;
+borrower characteristics, such as income and the type of employment (e.g. pay as you go
+(PAYG), self-employed);
+details on the collateral underpinning the mortgage, such as the type of property (e.g. house
+4
+or apartment), its location (postcode) and its valuation.
+ 1 / 13
+BIS central bankers' speeches
+The dataset is updated each month with a lag of just one month. The frequency and timeliness of
+the data allow us to observe changes in interest rates, progress on repayments (i.e. the current
+loan balance) and the extent of any redraw or offset balances (just to name a few) without much
+delay.
+I should note that, while the dataset covers a significant share of the market for housing loans, it
+may not be entirely representative across all its dimensions. In particular, the choice of assets in
+the collateral pool may be influenced by the way that credit ratings agencies assign ratings and
+by  investor  preferences.  Also,  in  practice  it  may  take  quite  a  while  until  new  loans  enter  a
+securitised pool. I’ll mention one important example of this later.
+Now let’s look at some interesting things we have learnt from this dataset.
+1. Interest rates
+5
+In the years prior to 2015, banks would generally advertise only one standard variable reference
+rate for housing loans.  There was no distinction, at least in advertised rates, between investors
+and  owner-occupiers,  or  between  principal-and-interest  and  interest-only  loans.  That  changed
+when  the  banks  responded  to  requirements  by  the Australian  Prudential  Regulation Authority
+(APRA) to tighten lending standards, with a particular focus on investor loans. Then, earlier this
+year, APRA and the Australian Securities and Investments Commission (ASIC) further tightened
+lending standards: this time the focus was on interest-only lending. A key concern has been that
+interest-only loans are potentially more risky than principal-and-interest loans. This is because
+with a principal-and-interest loan the borrower is required to regularly pay down the loan and build
+up equity. Also, interest-only borrowers can face a marked step-up in their required repayments
+once they come off the interest-only period (after the first few years of the loan term).
+Among other things, the banks have responded to these regulatory actions by increasing interest
+rates on investor and interest-only loans. There are now four different advertised reference rates,
+one for each of the key types of loans (Graph 1). While the data in Graph 1 provide a useful guide
+to interest rate developments, they only cover advertised or reference rates for variable loans
+applicable to the major banks. Actual rates paid on outstanding loans differ from these for a few
+reasons. Borrowers are typically offered discounts on reference rates, which can vary according
+to  the  characteristics  of  the  borrower  and  the  loan.  Discounts  offered  may  vary  across
+institutions,  reflecting  factors  such  as  funding  costs  and  market  segmentation.  (For  example,
+non-bank lenders typically compete for different borrowers than the major banks.) The level of the
+discounts  has  also  varied  over  time.  Furthermore,  there  are  fixed-rate  loans,  for  which  rates
+depend on the vintage of the loan.
+ 2 / 13
+BIS central bankers' speeches
+The Securitisation Dataset provides us with a timely and detailed source of information on the
+actual interest rates paid by households on their outstanding loans. Graph 2 shows rates paid on
+specific types of loans and by different types of borrowers.6
+ 3 / 13
+BIS central bankers' speeches
+The first thing to note is that rates on owner-occupier loans and investor loans used to be similar,
+but  investor  loans  became  relatively  more  expensive  from  the  latter  part  of  2015. Again,  this
+followed regulatory measures to impose a ‘benchmark’ on the pace of growth of investor credit,
+which had picked up noticeably.
+The second development I’d draw your attention to is the variation in housing loan interest rates
+over time. There were declines in 2016 following the reduction in the cash rate when the Reserve
+Bank eased monetary policy in May and then August. More recently, rates have increased for
+investor  loans  and  interest-only  loans,  with  a  premium  built  into  the  latter  as  lenders  have
+responded  to  the  tightening  in  prudential  guidance  earlier  this  year. As  part  of  that  guidance,
+lenders will be required to limit the share of new mortgages that are interest-only to 30 per cent.
+Meanwhile,  interest  rates  on  principal-and-interest  loans  to  owner-occupiers  are  little  changed
+and  remain  at  very  low  levels.  Pulling  this  all  together,  the  average  interest  rate  paid  on  all
+outstanding loans has increased since late last year, but only by about 10 basis points.
+A third and subtle point relates to the differences in the level of interest rates actually paid on
+different loan products (Graph 2) when compared with reference rates (Graph 1). The reference
+rates suggest that any given borrower would expect to pay a higher rate on an interest-only loan
+than  on  a  principal-and-interest  loan.  That  makes  sense  for  two  reasons.  First,  because  the
+principal is paid down in the case of principal-and-interest loans, those loans are likely to be less
+risky for the banks; other things equal, you would expect them to attract a lower interest rate.
+Second, the banks have added a premium to interest-only loans of late to encourage customers
+to take on principal-and-interest loans and constrain the growth of interest-only lending.
+But Graph 2 (based on securitised loans) suggests that, up until most recently, actual rates paid
+on interest-only loans have been lower than those on principal-and-interest loans. This doesn’t
+necessarily imply a mispricing of risk. Rather, it appears to reflect differences in the nature of
+loans  and  borrowers  across  the  two  types  of  loan  products.  In  particular,  borrowers  with  an
+interest-only  loan  tend  to  have  larger  loan  balances  (of  around  $85  000–100  000)  and  higher
+incomes (of about $30 000–40 000 per annum).7
+ 4 / 13
+BIS central bankers' speeches
+We can control for some of these differences between loan characteristics (such as loan size,
+loan-to-valuation ratio (LVR) and documentation type). When we do that, we find that rates have
+been much more similar across the two loan types in the past; although, a wedge has opened up
+more recently as we’d expect (Graph 3).
+This highlights the value of examining loan-level data. We find that interest rates are lower for
+borrowers that are likely to pose less risk (as indicated, for example, by lower loan-to-value ratios
+and full documentation). Borrowers with larger loans – who typically have higher income levels –
+also tend to attract lower interest rates. In relation to loan size, this suggests that borrowers with
+larger loans may have somewhat greater bargaining power.
+2. Loan-to-valuation ratios and offset balances
+8
+The Securitisation Dataset provides us with a measure of the LVR, based on the current loan
+balance.  We refer to this here as the ‘current LVR’. This is one indicator of the riskiness of a
+loan. Other things equal, higher LVRs tend to be associated with a greater risk of default (and
+9
+greater loss for the lender in the case of default).
+Graph 4 shows current LVRs for owner-occupiers and investor loans, split into interest-only and
+principal-and-interest loans. I should emphasise again that the Securitisation Dataset may not be
+entirely representative of the set of all mortgages, particularly when it comes to LVRs. That is
+because high LVR loans may be less likely to be added to a pool of securitised assets in order to
+ensure that the securitisation achieves a sufficiently high credit rating.
+10
+With that caveat in mind, we see that there is a large share of both owner-occupier and investor
+loans with current LVRs between 75 and 80 per cent. That is consistent with banks limiting the
+share of loans with LVRs (at origination) above 80 per cent. Also, borrowers have an incentive to
+avoid  the  cost  of  mortgage  insurance,  which  is  typically  required  for  loans  with  LVRs  (at
+ 5 / 13
+BIS central bankers' speeches
+origination) above 80 per cent.
+ Comparing investor loans with owner-occupier loans, we can see that investors have a larger
+share of outstanding loans with current LVRs of 75 per cent or higher.
+ That’s most obvious in
+the case of interest-only loans, but is also true for principal-and-interest loans. This reflects the
+investor’s financial incentive to maximise the amount of funds borrowed (without breaching the
+banks’ threshold above which they require lenders mortgage insurance). That can be more easily
+achieved  with  an  interest-only  loan.  And,  even  in  the  case  of  principal-and-interest  loans,
+investors don’t have the same incentives as owner-occupiers to get ahead of their scheduled
+repayments.
+11
+But  what  I’ve  just  shown  doesn’t  account  for  offset  accounts.  These  have  grown  rapidly  over
+recent  years  and  are  now  an  important  feature  of  the Australian  mortgage  market  (Graph  5).
+Funds held in these accounts are ‘offset’ against the loan balance, reducing the interest payable
+on  the  loan.  In  that  way  they  are  similar  to  a  principal  repayment.  But,  unlike  the  scheduled
+principal  repayment,  offset  (and  redraw)  balances  can  be  moved  in  and  out  freely  by  the
+borrower.
+ 6 / 13
+BIS central bankers' speeches
+Part of the strong growth in offset balances up to 2015 appears to have been related to the rise in
+the share of interest-only loans, with the two being offered as a package. Interestingly, we saw a
+significant slowing in growth in offset balances around the same time as growth in interest-only
+housing loans started to decline.
+Graph 6 highlights how the distribution of current LVRs is altered if we deduct funds held in offset
+accounts  from  the  balance  owing.  This  suggests  that  for  owner-occupier  loans,  interest-only
+borrowers are behaving somewhat like those with principal-and-interest loans. That is, many of
+those  borrowers  have  built  up  significant  balances  in  offset  accounts.  If  needed  in  times  of
+financial stress – such as a period of unemployment – borrowers could use those balances to
+service their mortgages.
+ 7 / 13
+BIS central bankers' speeches
+However,  I  would  caution  against  any  suggestion  that  this  similarity  regarding  the  build-up  of
+financial buffers means that the tightening of lending standards for interest-only loans was not
+warranted – far from it. What matters when it comes to financial stability is not what the average
+borrowers are doing, but what the more marginal borrowers are doing. There are two important
+points to make on this issue.
+First, for investor loans, even after accounting for offset balances, there is still a noticeable share
+of loans with current LVRs of between 75 and 80 per cent. And for both investor and owner-
+occupier loans, adjusting for offset balances leads to only a small change in the share of loans
+with current LVRs greater than 80 per cent. This suggests that borrowers with high current LVRs
+have limited repayment buffers.
+The second point is that more marginal borrowers are now more likely to take on a principal-and-
+interest loan than in the past. One reason is that there is a premium on the interest rates charged
+on an interest-only loan (for any given borrower, compared with an owner-occupier loan). Another
+reason is that banks, at APRA’s direction, have also tightened their lending standards for interest-
+only  loans,  most  notably  by  reducing  the  share  of  new  interest-only  loans  with  high  LVRs  at
+origination.
+3. Arrears by region
+12
+Banks’  non-performing  housing  loans  have  increased  a  little  over  recent  years  (Graph  7).
+However, at around ¾ of one per cent as a share of all housing loans, non-performing loans
+remain low and below the levels reached following the global financial crisis.
+ 8 / 13
+BIS central bankers' speeches
+Using the Securitisation Dataset we can assess how loans are performing across different parts
+of  the  country  by  examining  arrears  rates.  Like  non-performing  loans,  the  arrears  rates  have
+increased  a  little  but  remain  low.
+  Arrears  have  risen  more  in  regions  experiencing  weak
+economic conditions over recent years. In particular, there has been a more noticeable pick-up in
+arrears rates in Western Australia, South Australia and Queensland since late 2015 (Graph 8).
+13
+ 9 / 13
+BIS central bankers' speeches
+The Securitisation Dataset allows us to drill down even further to examine some relationships
+between arears and other factors. A key factor contributing to a borrower entering into arrears is
+a  reduction  in  income,  most  obviously  via  a  period  of  unemployment.  We  find  that  there  is  a
+positive  relationship  between  arrears  rates  and  the  unemployment  rate  across  regions
+(Graph 9).
+ However, the relationship is not especially strong, which suggests that other factors
+are  at  play.  For  example,  arrears  rates  are  higher  in  mining-exposed  regions,  which  have
+generally experienced a sharp fall in demand following the end of the mining investment boom.
+One indicator of that has been the pronounced fall in the demand for housing in those parts of the
+country as indicated by a decline in housing prices (Graph 10).
+14
+ 10 / 13
+BIS central bankers' speeches
+ 11 / 13
+BIS central bankers' speeches
+Conclusion
+The Securitisation Dataset plays a crucial role in allowing the Reserve Bank to accept asset-
+backed  securities  as  collateral  in  our  domestic  market  operations.  The  development  of  this
+database  and  its  availability  to  investors  has  also  helped  to  enhance  the  transparency  of  the
+securitisation market.
+A useful additional benefit of this database is that it provides us with a range of timely insights into
+the  market  for  housing  loans.  I’ve  discussed  how  things  like  actual  interest  rates  paid,  loan
+balances and arrears vary  over  time  and  across  different  types  of  mortgages  and  borrowers.
+Although variable interest rates for investor loans and interest-only loans have risen noticeably
+over recent months, the average interest rate paid on all outstanding loans has increased by only
+about 10 basis points since late last year. Also, many borrowers on interest-only loans have built
+up sizeable offset balances. But even after taking those into account, it appears that current loan-
+to-valuation ratios still tend to be larger than in the case of principal-and-interest loans. Finally,
+while  mortgage  arrears  rates  have  increased  slightly  over  recent  years,  they  have  increased
+more noticeably in regions exposed to the downturn in commodity prices and mining investment.
+1
+2
+3
+4
+For  more  detail,  see  Aylmer  C  (2016),  ‘Towards  a  More  Transparent  Securitisation  Market’,  Address  to
+Australian Securitisation Conference, Sydney, 22 November.
+I use the term banks here to refer to all authorised deposit-taking institutions (ADIs), namely banks, building
+societies and credit unions.
+The RBA provides a Committed Liquidity Facility (CLF) to participating ADIs required by APRA to maintain a
+liquidity coverage ratio (LCR) at or above 100 per cent.
+ 12 / 13
+BIS central bankers' speeches
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+For  more  details,  see  reporting  templates  on  the Securitisations  Industry  Forum  website.  The  valuation  is
+typically from the time of origination.
+An exception was a period during the 1990s, when banks advertised distinct rates for owner-occupier and
+investor loans.
+Modernised reporting forms that are collected by APRA on behalf of the RBA and the Australian Bureau of
+Statistics will significantly improve the aggregate and institution-level data that are currently collected from ADIs
+and  registered  financial  corporations  (RFCs).  While  the  new  data  will  have  less  granularity  than  the
+Securitisation Dataset, they will have much greater coverage.
+The figure for income is the average of all borrowers for each loan. That is, a given loan may be in the name of
+more than one borrower; on average, there are 1.7 borrowers per loan.
+The balance of a loan is reduced via scheduled repayments of the principal and by any repayments ahead of
+schedule. The latter may be accessible through a redraw facility.
+Read, Stewart and La Cava (2014), ‘Mortgage-related Financial Difficulties: Evidence from Australian Micro-level
+Data’, RBA Research Discussion Paper No 2014–13.
+Some analysis we have conducted on the representativeness of the Securitisation Dataset suggests that it has
+fewer  high  LVR  loans  than  the  broader  population  of  loans.  There  is  also  a  tendency  to  include  loans  in
+securitisation pools only after they have aged somewhat (i.e. become more ‘seasoned’).
+The share of new investor loans with very high LVRs (above 90 per cent) at the time of origination has been
+declining for a few years and is below that for owner-occupier loans (Reserve Bank of Australia (2017), Financial
+Stability  Review,  April).  This  feature  is  not  apparent  in  the  data  I’ve  shown  here,  which  is  based  on
+the current LVR for the stock of outstanding securitised loans, including those that are well advanced in age.
+APRA have instructed lenders to implement stricter underwriting standards for interest-only loans with LVRs
+greater than 80 per cent (see: ).
+The 90+ days arrears rate refers to the share of loans that have been behind the required payment schedule or
+missed payments for 90 days or more but not yet foreclosed.
+These  regions  are  defined  in  terms  of  the ABS’s  Statistical Areas  Level  4  (SA4s),  which  are  geographic
+boundaries defined for the Labour Force Survey. The boundaries for most SA4s cover at least 100 000 persons.
+The Securitisation Dataset identifies loans according to the location of the mortgaged property.
+ 13 / 13
+BIS central bankers' speeches

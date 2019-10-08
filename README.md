@@ -25,9 +25,11 @@ Target webpage에 접속하여 스크랩핑하는 대상 파일은 `.pdf` 파일
 ## Folder structure
 The following shows basic folder structure.
 ```
-├── main.py
-├── config.py
-├── utils.py
+├── setup.py
+├── src
+│   ├── main.py
+│   ├── config.py
+│   ├── utils.py
 ├── output
 │   ├── pdf
 │        ├── r970326a.pdf

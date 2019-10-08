@@ -1,0 +1,353 @@
+  Carolyn Wilkins: Fintech and the financial ecosystem – evolution or 
+revolution? 
+Remarks  by  Ms  Carolyn  Wilkins,  Senior  Deputy  Governor  of  the  Bank  of  Canada,  at 
+Payments Canada, Calgary, Alberta, 17 June 2016. 
+ I  would  like  to  thank  Scott  Hendry,  Grahame  Johnson,  Ron  Morrow  and  Stephen  Murchison  for  their  help  in 
+preparing this speech. 
+institutions,  giving  businesses  and  households  access 
+Introduction 
+It is no exaggeration to say that we are in the midst of a defining moment for innovation in 
+financial  services.  Some  expect  that  new  technology  will  cause  a  complete  disruption  of 
+traditional  financial 
+to  more 
+convenient and customized services. Entrepreneurs are also finding applications well beyond 
+finance, and these new technologies could transform other fields, such as humanitarian aid.1  
+Fintech, which is the term people use to refer to innovation in financial services, has created 
+a  lot  of  excitement,  but  also  quite  a  lot  of  hype,  depending  on  your  perspective.  Google 
+searches for “fintech” have increased by more than 30 times in the past six years. Fintech 
+has also attracted real money: over the same period, around 100 fintech start-ups in Canada 
+have raised more than $1 billion in funding.2 At a global level, almost $20 billion was poured 
+into fintech last year alone.3  
+There is a vast array of services being deployed in Canada and elsewhere. Many of you may 
+be using Apple Pay or Google Wallet. You may also be getting investment advice from “robo 
+advisors.” There is peer-to-peer lending, such as the Lending Club, and even more services 
+are in the works. 
+I have had the opportunity to participate in a number of fascinating discussions about fintech 
+in recent months – with my colleagues at the Financial Stability Board and other international 
+organizations,  as  well  as  with  fintech  entrepreneurs  and  traditional  financial  institutions 
+around the world. I can tell you that, despite the hype, no one knows yet what the social and 
+economic payoff of these investments will be. And because it is early days, no one knows for 
+sure what fintech developments will ultimately mean for business models or for the financial 
+system more generally. But we are all trying to figure it out. 
+I know  this  interest  extends  to  all  of  us  in the  payments  business,  which  is  undergoing  its 
+own transformation. This conference is a great setting to offer a central banker’s perspective 
+on fintech. So I want to thank Payments Canada for the invitation to speak here today. 
+The Bank of Canada is doing a lot of work in this area. Today I will explore three points with 
+you that frame our thinking on the issues. 
+First,  fintech  has  the  potential  to  transform  the  financial  system  across  a  broad  range  of 
+services. And that is a good thing, because there is a lot of inefficiency that can be shed. 
+Second,  although  some  of  the  technology  may  be  revolutionary,  its  overall  effect  on  the 
+financial system is likely to be evolutionary. Financial institutions that adapt will survive, and 
+                                                
+1  See, for example, D. Tapscott and A. Tapscott, Blockchain Revolution: How the Technology Behind Bitcoin Is 
+Changing  Money,  Business,  and  the  World  (New  York:  Portfolio,  2016);  Mark  Walport,  Distributed  Ledger 
+Technology: Beyond Block Chain (London: Government Office for Science, 2016). 
+2  OMERS Ventures, “Canadian Next-Gen Financial Technologies & Services,” September 2015. 
+3  This  is  about  five  times  the  $4  billion  that  was  invested  two  years  earlier.  See  R.  Ghose  et  al.,  “Digital 
+Disruption – How FinTech Is Forcing Banking to a Tipping Point,” Citigroup Inc., March 2016. 
+BIS central bankers’ speeches 
+ 1 
+  new  service  providers  will  become  part  of  the  financial  ecosystem.  In  some  areas,  this 
+evolution is happening fast, while in others, the most transformative technologies still have 
+developmental hurdles to clear. 
+Finally,  now  is  the  time  for  financial  institutions,  new  entrants  and  policy-makers  to  work 
+together. That is the best way to create the right environment for modernizing the financial 
+sector and sensibly managing the risks that arise. This applies to many areas. For the Bank, 
+the focus is on preserving financial stability and maintaining the safe and sound operation of 
+core payment systems in Canada. 
+Change is in the air 
+My first point is that change is definitely in the air. In many cases, financial innovations are 
+simply  interesting  twists  on  existing  technologies  and  business  models.  They  promise  to 
+lower costs, improve services and broaden access. Peer-to-peer lending is one example. As 
+we  have  already  seen  with  the  taxi  and  hotel  industries,  peer-to-peer  services  challenge 
+traditional intermediaries. 
+This  new  competition  could  fundamentally  change  the  relationship  that  traditional  financial 
+institutions have with their customers. From a regulatory perspective, the main issues relate 
+to consumer protection, market integrity and rules that guard against money laundering and 
+terrorism financing. Authorities are working to close significant gaps in these areas and are 
+monitoring implications for financial stability. 
+Then we have financial services enabled by fundamentally new technology. A prime example 
+is  distributed  ledger  technology  (DLT).  This  technology  has  the  potential  to  replace  entire 
+transaction systems, including core payment systems, and offer new products, such as smart 
+contracts. Smart contracts are agreements written in computer code that do not need human 
+intervention to be executed. 
+This  strand  of  fintech  could  take  us  into  uncharted  territory.  As  I  will  explain  in  a  minute, 
+regulators could face issues related to governance, legal environments and financial stability. 
+One might  argue  that the financial  sector  is  always  changing  and  that fintech  is  a  case of 
+déjà vu. We have seen important innovations in the past – such as credit cards, automated 
+banking  machines  and  online  banking  –  that  did  not  revolutionize  the  financial  landscape, 
+even  if  they  provided  huge  advances  in  convenience  for  consumers.  That  is  because 
+financial institutions remained the dominant players and adapted to these changes, often by 
+buying  emerging  competitors,  adopting  the  technology  and  reducing  access  to  legacy 
+services to compel customers to adapt.4  
+I see a combination of factors that point to the potential for greater change this time. 
+First, customers are more demanding than in the past. They are looking for more convenient 
+and cheaper access to financial services that are well integrated with the rest of their online 
+activities. Customers expect these services to be personalized, and faster, in part because of 
+the widespread use of smartphones and the speed with which new apps can be pushed out.5 
+Given how accustomed people have become to instant access to goods and services, it is no 
+surprise  that  they  expect  instant  access  to  their  money.  That  is  why  we  see  a  push  to 
+                                                
+4  J. Allen, R. Clark and J.-F. Houde, “Market Structure and the Diffusion of E-Commerce: Evidence from the 
+Retail Banking Industry,” Staff Working Paper No. 2008–32, Bank of Canada, 2008. 
+5  According to the Millennial Disruption Index produced by Scratch, a third of Americans between the ages of 15 
+five  years.  Available  at 
+they  will  not  need  a  bank  at  all  within 
+the  next 
+and  34  believe 
+http://www.millennialdisruptionindex.com. 
+2 
+ BIS central bankers’ speeches 
+  implement real-time retail payment systems in nearly all major jurisdictions.6 This will be an 
+important point to consider for the modernization of the Canadian payments system. 
+Second,  we  are  seeing  large,  well-funded  companies  outside  the  financial  space,  such  as 
+Apple  and  Google,  starting  to  offer  financial  services.  One  of  the  main  advantages  of 
+traditional financial institutions is the trust they have built with their customers. Tech giants 
+also  have  wide  customer  bases  and  brand  loyalty  that  could  help  drive  adoption.  These 
+companies  are  using  their  customers’  information  and  their  existing  platforms  to  offer 
+attractive  and  cost-competitive  services  and  to  pick  away  at  the  most  profitable  business 
+lines of financial institutions. The range of services they offer could grow over time. 
+Finally,  some  existing  financial  institutions  and  infrastructures  have  become  relatively 
+inefficient,  while  new  technology  has  reduced  barriers  to  entry  in  this  space.  Supporting 
+systems  can  date  back  several  decades  and  are  often  not  interoperable,  even  within  an 
+institution. So the door for competition is open. 
+Talking about an evolution 
+This  brings  me  to  my  second  point,  which  is  about  the  kind  of  change  we  can  expect. 
+Traditional players will have to adapt to survive, and there will be new players. And the new 
+technologies that could be truly transformative have some way to go before they are ready 
+for prime time. So I expect we are in for more of an evolution than a revolution. 
+Since  we  are  all  talking  about  distributed  ledgers  –  or  blockchain  –  let  me  use  that 
+technology to illustrate my point. Ledgers may sound incredibly dull, but innovations in this 
+space  have  been  game  changers  in  the  past.  Indeed,  the  invention  of  double-entry 
+bookkeeping has been credited as one factor enabling capitalism.7  
+It makes me wonder what people will say about distributed ledgers 100 years from now. 
+Let us first remind ourselves what this technology brings to the table. The exact features of 
+DLT vary, depending on the needs it fulfills. At its core, it is a computer protocol that allows 
+many participants to record information on a single ledger that is shared among users, so 
+each one sees the same data. A consensus mechanism and modern cryptography ensure 
+that stakeholders agree that entries to the ledger are authentic. The ledger’s key benefit is 
+that  you  do  not  need  a  trusted  third  party  to  guard  against  double-spending  or  expensive 
+processes to reconcile information between ledgers. 
+The best-known application of DLT is Bitcoin, which is a decentralized digital currency. The 
+ledgers  used  for  these  currencies  are  “permissionless,”  which  means  that  anyone  with  a 
+computer can download the software, see the ledger and start authorizing transactions. 
+The decentralized aspect of the technology is why some predict that widespread application 
+of  DLT  could  revolutionize  entire  industries.  They  contemplate  alternative  futures,  such  as 
+one in which there is complete disintermediation of banks and even central banks, with state 
+currencies being replaced by decentralized digital currencies. 
+I see this as highly unlikely. People have not widely embraced digital currencies like Bitcoin 
+because  these  currencies  cannot  outshine  the  competition  when  it  comes  to  serving  as  a 
+store  of  value  and  a  medium  of  exchange.  National  authorities  will  want  to  run  their  own 
+monetary  policy,  and  so  the most  that  could  happen  is  that  national  currencies  and  digital 
+                                                
+6  M.  Tompkins  and  A.  Olivares,  “Clearing  and  Settlement  Systems  from  Around  the  World:  A  Qualitative 
+Analysis,” Staff Discussion Paper No. 2016–14, Bank of Canada, 2016. 
+7  Max Weber, one of the founders of modern sociology, described double-entry bookkeeping as an essential 
+element of a modern economy in his 1904 book, The Protestant Ethic and the Spirit of Capitalism (London: 
+Routledge,  2001).  The  economist  Joseph  Schumpeter makes  a  similar  claim  in  his  1942  book,  Capitalism, 
+Socialism and Democracy (New York: Harper Perennial, 1975). 
+BIS central bankers’ speeches 
+ 3 
+  currencies coexist. The Bank of Canada is studying digital currencies closely because of our 
+role  in  issuing  the  nation’s  currency  and  the  implications  these  currencies  could  have  for 
+monetary  policy  and  financial  stability.  Like  many  other  central  banks,  we  are  also 
+researching the conceptual merits of issuing electronic money ourselves.8  
+In fact, the potential for DLT is actually stronger for applications outside of digital currencies. 
+We  have  seen  test  cases  related  to  payments  and  post-trade  processes,  including  the 
+clearing  and  settlement  of  financial  instruments  such  as  repos,  bonds,  derivatives  and 
+equities.9  
+One  interesting  application  is  in  the  syndicated  loan  market,  where  loans  can  take  up  to 
+20 days to go through the clearing and settlement process. DLT could reduce this to about 
+seven days by providing a secure database that all participants share across a distributed 
+private  network.10  Looking  at  a  single  source  of 
+information  would  help  reduce 
+disagreements  and  make  it  easier  to  comply  with  legal  requirements,  speeding  up  the 
+process at every stage. 
+We  may  also  see  applications  in  areas  such  as  trade  finance  and  supply  chains,  where 
+information cuts across jurisdictions and is difficult to centralize. One estimate suggests DLT 
+could  enable  banks  to  save  as  much  as  $20  billion  a  year  in  global  back-office  costs  if 
+applied  to  cross-border  payments,  securities  trading  and  regulatory  compliance.11  So  it  is 
+easy to see why private enterprise is investing a lot of money in this type of technology. 
+If  these  ventures  deliver  on  their  promises,  improvements  could  extend  beyond  efficiency 
+and  cheaper  processing.  Transactions  could  be  settled  almost  immediately,  which  would 
+reduce  counterparty  risk  and  free  up  capital  for  other  uses.  Transparency  would  be 
+enhanced because a distributed ledger lets participants see the entire history of transactions. 
+That  said,  several  important  issues  with  DLT  must  be  resolved  before  its  benefits  can  be 
+realized.  First  on  the  list  are  technical  issues  related  to  scalability,  the  consensus 
+mechanism,  data  privacy  and  cyber  security.  Second,  proponents  will  have  to  agree  on 
+governance, which can be a challenge when stakeholders have divergent interests. Bitcoin’s 
+recent struggles are a clear illustration of this.12 Finally, standards and protocols, as well as a 
+solid legal foundation, must be established to allow for interoperability. 
+Protocols  may  be  an  area  where  governments  can  contribute.  In  the  early  days  of  the 
+Internet, governments helped develop the first networking protocols. Like the Internet, many 
+of the applications of DLT will require a global view. 
+Applications of DLT will also need to become widely adopted. This means getting users to 
+move away from the current networks and switch to DLT networks. Usually, the more people 
+who join a network, the better the network becomes, which in turn entices even more people 
+to adopt it. A social network like Facebook is a good example of this network effect – people 
+                                                
+8  Bank research and other useful information on e-money are featured on a dedicated webpage. 
+9  For  example,  Digital  Asset  Holdings  is  one  company  that  has  projects  under  way  to  explore  the  use  of 
+distributed ledgers with the Australian Securities Exchange (ASX) for the Australian equity market and with 
+Depository Trust & Clearing Corporation for the clearing of repo transactions in the United States. 
+10  See J. Schneider et al., “Blockchain: Putting Theory into Practice,” Goldman Sachs, 24 May 2016. 
+11  See  Santander  InnoVentures,  Oliver  Wyman  and  Anthemis  Group,  “The  Fintech  2.0  Paper:  Rebooting 
+Financial Services,” 2015. 
+12  As Bitcoin usage increased, developers proposed modifying the protocol that supports the technology to make 
+it easier to process larger volumes of transactions, but Bitcoin’s decentralized governance system has made it 
+difficult  to  agree  on  proposed  changes.  See  R. Waters,  “Bitcoin’s Future  Threatened  by  Software  Schism,” 
+Financial Times, 11 February 2016. 
+4 
+ BIS central bankers’ speeches 
+  flock  to  the  service  that  their friends  use  –  and  it  is  no  small  challenge  to  compete  with  a 
+system that is already established.13  
+The  final  hurdle  DLT  has  to  overcome  is  to  gain  regulatory  acceptance  and  comply  with 
+domestic and cross-border laws and regulations. Authorities should support innovation, but 
+the bar will be high, especially for core financial services, and appropriately so. 
+Financial  institutions,  including  Canadian  banks,  are  working  hard  to  test  and  adopt  new 
+technologies and adjust to new trends. So while banks may look different in the future, they 
+will still play a major role in the financial system. 
+It is true that some changes could seem revolutionary to some incumbents. To customers, 
+however, it will likely seem evolutionary, and some changes will not be visible to them at all. 
+In  some  dimensions,  DLT  is  reminiscent  of  Voice  over  IP:  here  was  a  revolutionary 
+advancement  in  technology  that  caused  an  evolutionary  change  in  how  we,  as  end-users, 
+use the phone system. 
+Now’s the time 
+This brings me to my final point. Now is the time for financial institutions, new entrants and 
+policy-makers to work together. The opportunity cost of sitting back and waiting for the dust 
+to settle is too great. 
+Financial  institutions  and  infrastructure  operators  are  making  important  strategic  decisions 
+about  which  parts  of their  businesses they  want  to  defend  and grow  and  which  ones  they 
+want to scale back. This urgency is not only coming from fintech contenders. Banks are also 
+dealing with a more demanding regulatory environment and exceptionally low interest rates 
+around  the  world  that  are  squeezing  profit  margins.  Banks  already  spend  close  to 
+$200 billion a year on IT globally, so replacing legacy systems will mean difficult and critical 
+investment decisions. 
+For the Bank of Canada, our priority is to see upgrades made to the core payment systems 
+that  the  financial  system  relies  on  and  that  the  Bank  oversees:  the  Large  Value  Transfer 
+System  (LVTS)  and  the  Automated  Clearing  Settlement  System  (ACSS).  These  systems 
+have served us well, but both require investments that are needed to fully meet our oversight 
+requirements.  Investment  will  also  help  the  systems  better  meet  the  modern  needs  of 
+participants and their customers. 
+Take  the  ACSS,  for  example,  which  still  handles  most  retail  transactions  today.  It  was 
+implemented over 30 years ago, when everyone wanted a Commodore 64. The ACSS may 
+have been at the forefront in 1984, but we are far from the efficient frontier now.14 Cheques 
+take up to four days to clear, and some information needs to be re-entered manually. 
+Now  is  the  time to make  our  core  systems  more  efficient  and  competitive.  For  consumers 
+and business users, we need to move closer to real-time access to funds. In both the ACSS 
+and  LVTS,  we  need  to  collect  richer  data  on  transactions  and,  ideally,  make  them 
+interoperable to avoid having to manually re-enter information. This effort is not change for 
+change’s sake. If we can leverage some of the existing infrastructure and still achieve our 
+goals, that is all the better. 
+For our part, policy-makers and regulators need to address innovation in financial services in 
+a few proactive ways. 
+                                                
+13  In a recent book, Hanna Halaburda and Miklos Sarvary illustrate network effects by showing how they come 
+into play in the competition between cryptocurrencies and state-issued fiat currencies. See H. Halaburda and 
+M. Sarvary, Beyond Bitcoin: The Economics of Digital Currencies (New York: Palgrave MacMillan, 2016). 
+14  J.  Chapman,  J.  Chiu,  S.  Jafri,  H.  Pérez  Saiz,  “Public  Policy  Objectives  and  the  Next  Generation  of  CPA 
+Systems: An Analytical Framework,” Staff Discussion Paper No. 2015–6, Bank of Canada, 2015. 
+BIS central bankers’ speeches 
+ 5 
+  The first is to develop a solid analytical framework to understand and assess the benefits and 
+challenges of something so new. This is something the Financial Stability Board is working 
+on.  Authorities  will  make  their  assessments  through  many  lenses,  including  consumer 
+protection, financial inclusion, market integrity, competition policy and financial stability. That 
+is  why  other  international  groups  such  as  the  Committee  on  Payments  and  Market 
+Infrastructures,  the  Basel  Committee  on  Banking  Supervision,  and  the  International 
+Organization  of  Securities  Commissions  are  also  involved.  The  Bank  of  Canada,  together 
+with our domestic colleagues, is actively contributing to these efforts. Since fintech is a global 
+phenomenon,  it  is  critical  that  this  regulatory  effort  be  global.  We  must  also  learn  from 
+emerging-market economies that are further along in some areas. 
+While  fintech  innovations  promise  to  solve  some  current  problems,  they  could  also  create 
+new  ones.  Let  me  give  you  an  example:  I  worry  that  network  effects,  which  underpin  the 
+success of many payment applications, could lead to an excessive concentration of payment 
+service  providers.  If  this  happens,  households  and  businesses  may  not  benefit  from  cost 
+savings. This is clearly an issue for competition authorities. 
+It also is an issue for financial stability because “too big to fail” could emerge in a new form 
+outside the current regulatory perimeter. Once again, payments are a great example. I worry 
+that players not covered currently by regulation could become important to the system even if 
+they never take on bank-like risks, such as maturity transformation or leverage, or become 
+big  enough  to  be  considered  systemically  important. The  move  to  increased  direct  access 
+means  that  even  smaller  players  could  very  well  create  critical  dependencies  within  the 
+financial  system,  particularly  if  they  connect  directly  to  core  payments  infrastructure.  This 
+could give rise to moral hazard. At a minimum, authorities need to put a large enough weight 
+on  operational  dependencies  when  looking  at  systemic  importance,  particularly  in  light  of 
+cyber  risk.  When  a  payment  system  grows  to  be  prominent  or  systemically  important,  the 
+Bank of Canada’s job is to oversee it. Even before we reach that point, regulatory measures 
+should  be  considered  to  address  specific  issues,  such  as  operational  resilience  and 
+consumer protection.15  
+I  also  wonder  how  DLT-based  infrastructures  could  affect  the  financial  ecosystem.  Ever-
+increasing automation through, say, smart contracts, could increase efficiency and certainty 
+but could also increase financial volatility. Would that volatility be short-term, such as flash 
+crashes? Or would it entail procyclical dynamics or new channels of contagion? 
+There  are  also  questions  about  whether  the  regulatory  perimeter  is  adequate,  given  new 
+entrants and risks of regulatory arbitrage. In my view, the field of inquiry should include the 
+inherent risk and systemic importance of an activity, regardless of what entity is performing it. 
+Even as  we strive to implement a regulatory response that is proportionate to the risk, we 
+need to keep in mind that maintaining a level playing field is important. Some of these issues 
+are not too different from those that authorities face in their work on shadow banking, another 
+area where new entrants are challenging traditional players.16 And, big or small, operational 
+risk deserves much greater attention. 
+The second way to address innovation in financial services is active engagement between 
+authorities  and  the  private  sector.  Some  countries,  such  as  the  United  Kingdom,  Australia 
+and Singapore, have created official regulatory “sandboxes.”17 These sandboxes allow start-
+ups to experiment with services without jumping through all the usual regulatory hoops. 
+                                                
+15  The  federal  government  conducted  a  consultation  on  these  issues  in  2015.  See  “Balancing  Oversight  and 
+Innovation in the Ways We Pay: A Consultation Paper,” Department of Finance Canada, 13 April 2015. 
+16  For  a  discussion  of  the  issues  in  the  shadow  banking  sector,  see  T.  Lane,  “Shedding  Light  on  Shadow 
+Banking” (speech to the CFA Society Toronto, Toronto, 26 June 2013). 
+17  See  “Consultation  Paper  on  FinTech  Regulatory  Sandbox  Guidelines,”  Monetary  Authority  of  Singapore, 
+6 June 2016. 
+6 
+ BIS central bankers’ speeches 
+  Here in Canada, we are consulting with fintech entrepreneurs. The Bank of Canada is also 
+partnering with Payments Canada, Canadian banks and R3 – which leads a consortium of 
+financial  institutions  –  to  test  drive  distributed  ledgers.  Our  only  goal  at  this  stage  is  to 
+understand the mechanics, limits and possibilities of this technology. The plan is to build a 
+rudimentary wholesale payment system to run experiments in a lab environment. 
+Our experiment includes a simulated settlement asset used as a medium of exchange within 
+the  system.  It  is  very  much  like  the  settlement  balances  in  LVTS,  except  it  is  using  DLT. 
+Because  it  cannot  be  used  anywhere  else,  it  is  a  different  animal  altogether from  a  digital 
+currency for widespread use. 
+This  is  an  experiment  in  the  true  sense  of  the  word.  I  cannot  think  of  a  better  way  to 
+understand this technology than to work with it. Other frameworks need to be investigated, 
+and  there  are many  hurdles  that  need  to  be  cleared  before  such  a  system  would  ever  be 
+ready for prime time. 
+The third way to address innovation proactively is to do fundamental research on the effects 
+of new technology.18 The Bank of Canada’s research over the past few years has focused on 
+new  payment  methods,  the  adoption  and  competitiveness  of  digital  currencies,  and  the 
+essential  benefits  of  private  e-money.19  We  are  continuing  this  work  and  broadening  it  to 
+include other developments, such as peer-to-peer lending and uses of DLT. 
+We  also  want  to  understand  how  new  financial  technologies  will  address  the  underlying 
+forces  that  created  the  need  for  financial  intermediation  in  the  first  place.  In  theory,  new 
+technology could enable a different framework for addressing the same frictions, potentially 
+one that does not require financial intermediaries at all. The names and faces may change, 
+but I do not see technology changing the need for maturity transformation, loan monitoring, 
+intermediation of borrowers and lenders, and trust. This is a good question for academics. 
+Conclusion 
+Let  me  wrap  up.  While  it  is  important  to  filter  out  the  hype  surrounding  fintech,  I  am 
+convinced that it could have a net positive impact on the financial system, provided the risks 
+are adequately managed. 
+Fintech will likely entail  more of an evolution than a revolution. This is because incumbent 
+financial institutions will adapt, new players will join the financial ecosystem and those with 
+strong business models will survive. And the most fundamentally transformative technology 
+so far – DLT – still has important hurdles to clear. 
+Innovations  may  solve  some  current  problems,  but  they  could  also  create  new  ones.  The 
+regulatory framework needs to adapt so that the door is not opened to unmanaged financial 
+and operational risks, unchecked critical dependencies within our financial system and moral 
+hazard. Promoting financial stability is a core function of the Bank of Canada, and we take a 
+system-wide perspective when we monitor risks. 
+There is a lot of hard work ahead, and we need to get on with it. By working together, we can 
+unlock the full promise of fintech to ensure a smooth evolution to tomorrow’s financial system 
+– safe, sound and serving the people who rely on it. 
+                                                
+18  For  a  discussion  of  some  possible  effects,  see  D.  Andolfatto,  “Monetary  Policy  Implications  of  Blockchain 
+Technology,” 1 May 2016. 
+19  See, for example, W.E. Weber, “A Bitcoin Standard: Lessons from the Gold Standard,” Staff Working Paper 
+No.  2016–14,  Bank  of  Canada,  2016;  N.  Gandal  and H.  Halaburda  “Competition  in  the  Cryptocurrency 
+Market,”  Staff  Working  Paper  No.  2014–33,  Bank  of  Canada,  2014;  J.  Chiu  and  T.-N.  Wong,  “On  the 
+Essentiality of E-Money,” Staff Working Paper No. 2015–43, Bank of Canada, 2015. 
+BIS central bankers’ speeches 
+ 7 

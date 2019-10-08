@@ -1,0 +1,209 @@
+Jon Nicolaisen: Challenges for the payment system
+Speech by Mr Jon Nicolaisen, Deputy Governor of Norges Bank (Central Bank of Norway), at
+Finance Norway's payments conference, Oslo, 1 November 2018.
+ Please note that the text below may differ slightly from the actual presentation.
+Changing payment landscape
+The way we make payments is changing. New services and operators are constantly appearing.
+The underlying infrastructure, our payment system, must be adapted to the changes. But where
+is this all heading? How will we make payments in the future? And what will the future form of
+money be?
+The  forces  driving  payment  market  developments  are  new  technology,  changes  in  consumer
+behaviour,  globalisation,  and  new  regulations,  such  as  the  new  Payment  Services  Directive
+(PSD2).
+PSD2 requires banks to grant third-party providers (TPPs) access to their systems to enable
+TPPs  to  offer  payment  and  account  information  services.  PSD2  is  both  a  response  to
+developments in the payments market and a catalyst for future developments.
+At  the  same  time,  a  number  of  large  international  technology  companies  are  moving  into  the
+payments market. Apple offers mobile payment services to Norwegian customers. Google has
+just launched its own mobile payment solution in Norway. Other operators will follow suit. The
+role companies such as Facebook, Amazon and Alibaba may take remains to be seen.
+Vipps  is  now  the  only  Norwegian  mobile  payment  solution.  A  planned  merger  of  the  Vipps,
+BankAxept  and  BankID  systems  was  announced  towards  the  end  of  2017.  The  merger  was
+approved  by  the  authorities  in  summer  2018.  One  of  the  aims  of  the  merger  is  to  be  better
+positioned to compete with global companies.
+New  market  entrants  and  lower  entry  barriers  promote  competition,  but  there  are  other
+mechanisms that could weaken competition in the longer term. One example is if one or a small
+number of multinationals become dominant payment service providers at the global level. The
+key words are digital platforms and network effects.
+Marketplaces such as stock exchanges and shopping centres have existed for a long time. But
+digital marketplaces, known as platforms, are far more scalable. Well-known examples of digital
+platforms are Google, Facebook and the classified ad portal Finn.no. These platforms achieve
+competitive  advantage  by  gathering  information  about  customers,  eliminating  time-consuming
+tasks and simplifying users’ everyday lives.
+Platforms have network effects. Competition can be impaired if platform companies exploit their
+market  power.  A  large  user  base  makes  it  profitable  for  other  service  providers  to  develop
+complementary services. Because of network effects, dominant platforms can achieve a near-
+monopoly position.
+Operators  that  control  parts  of  the  payment  infrastructure  can  shut  out  competitors.  For
+instance,  Apple  Pay  is  the  only  option  for  contactless  payments  based  on  near-field
+communication (NFC), using Apple’s iPhones. A number of countries are considering whether
+this constitutes abuse of a dominant market position. In Norway, this would be a matter for the
+competition authorities.
+ 1 / 5
+BIS central bankers' speeches
+Payment solutions should build on a common underlying infrastructure that enables payments to
+be  carried  out  swiftly,  safely  and  at  low  cost.  Providers  can  compete  freely  for  customers
+through various apps and interfaces.
+Future payment infrastructure
+Norway was one of the first countries to modernise its payment system and still ranks at the top
+of  international  comparisons  of  payment  system  efficiency.  However,  some  countries  have
+caught up with us and have taken the lead in some areas.
+With regard to providing real-time payments, we have lagged behind our neighbours. Real-time
+payments, or instant payments, provide immediate payment into the recipient’s account. Instant
+payment  is  now  available  through  the  Vipps  system  and  from  many  online  banks.  This  is  a
+positive step, but banks are still exposed to settlement risk, and the solution cannot be used for
+all types of payments. It is particularly problematic that the current instant payment solution is not
+very suitable for corporate transactions.
+Norges Bank has played a catalyst role in bringing about improvements. Just over two years ago,
+the Bank expressed the opinion that it was necessary to step up efforts to establish a real-time
+payments infrastructure without settlement risk. The financial industry and Norges Bank agreed
+on  a  joint  initiative  called  BRO, Betalinger  med  Raskere  Oppgjør  [payments  with  faster
+settlement]. BRO was scheduled to be in place by the end of 2019.
+In February 2018, seven large Nordic banks announced their intention to establish a pan-Nordic
+payment  infrastructure,  P27.  The  aim  is  to  replace  existing  domestic  clearing  and  instant
+payment infrastructures in the Nordic countries with one common system.
+When the P27 initiative was announced, the BRO project was put on hold in order to consider
+whether  a  future  common  Nordic  infrastructure  as  proposed  by  the  P27  banks  could  be  a
+satisfactory replacement.
+Norges Bank has engaged in joint discussions with the other Nordic central banks since P27
+was  launched.  The  central  banks  have  given  preliminary  feedback  on  the  P27  project  and
+appreciate the project’s ambition to improve payment system efficiency in the Nordic area. At the
+same time, there are issues that need to be addressed before the authorities can take a position
+on any transition from domestic infrastructures to a common Nordic solution. This process may
+take time and will also involve authorities other than the central banks.
+Security legislation is one of these issues. If P27 is realised, it will probably be viewed as an
+important  critical  infrastructure  for  the  countries  involved.  National  security  concerns  may
+influence  the  conditions  governing  whether  a  payment  system  infrastructure  can  be  operated
+across national borders. In the case of Norway, one likely condition could be that satisfactory
+contingency arrangements must be in place in Norway. Domestic control of the payment system
+must be possible in a crisis.
+The European Central Bank has launched a European solution for real-time payment settlement
+in  central  bank  money  called  Target  Instant  Payment  Settlement,  or  TIPS.  The  system  is
+scheduled to commence operations this month and may be expanded to include non-euro area
+countries. According to Sweden’s central bank, the Riksbank, settlement of instant payments in
+SEK may be made available on the TIPS platform. If so, this would mean that at least some
+Swedish real-time payments will not be cleared through P27, which could affect the profitability of
+the project.
+Norges Bank is aware that the industry is also assessing other possible Norwegian solutions for
+better real-time payments in Norway. In its letter sent in October to Finance Norway and the P27
+banks in Norway, Norges Bank called upon the banks to continue this work. The objective must
+ 2 / 5
+BIS central bankers' speeches
+be to make the necessary adjustments to the Norwegian infrastructure as quickly as possible to
+give both businesses and private individuals in Norway access to modern real-time payments on
+a 24/7/365 basis. The technological set-up should be adapted to customers’ needs, particularly
+businesses, while also eliminating interbank settlement risk. As far as possible, the set-up should
+also be suitable for use in future solutions, such as P27, including a system for control of reserve
+cover at Norges Bank. Reusing a technological set-up will keep total costs down.
+Establishing a satisfactory Norwegian solution for instant payments will also decouple P27 work
+from  any  deadlines  for  the  system  in  Norway,  which  in  time  may  increase  the  chances  of
+success for the P27 initiative.
+A common infrastructure for all payments has given Norway an important competitive advantage,
+provided economies of scale and facilitated interaction across the banking sector. It is important
+to avoid fragmentation of the infrastructure for clearing payment transactions in NOK, otherwise
+we will lose the advantages we have today. An efficient and secure common infrastructure must
+still  be  a  main  feature  of  the  Norwegian  payment  system,  whichever  solution  the  industry
+ultimately chooses.
+Looking further ahead, a number of broad issues need to be addressed. Norges Bank will initiate
+a project to assess the payment and settlement system of tomorrow as a whole. The aim is to
+make active and constructive contributions to an efficient and secure payment system, today and
+in  the  future.  We  will  seek  long-term  solutions  to  several  of  the  issues  mentioned  above,  in
+particular the following two key questions:
+Should  we  continue  to  have  a  completely  domestic  payment  infrastructure  in  Norway,  or
+could  it  become  more  international?  How  would  we  then  solve  issues  related  to  national
+security?
+How should the infrastructure be changed to facilitate the services needed by end-users in
+the future? Should payments still be cleared before they reach the central bank, or is gross
+settlement the best option?
+The first phase of the project is scheduled to be completed by the end of 2019.
+Cyber security
+As the payment system is centralised and ICT-dependent, it is vulnerable to cyber attacks. If an
+attack were to succeed, payments could come to a halt and financial losses could occur. An
+attack could also result in unauthorised access to or manipulation of sensitive information.
+The  system’s  vulnerability  can  be  reduced  in  a  number  of  ways,  for  example  through  well-
+established cooperation within the financial industry and between the industry and the authorities,
+sound  security  procedures  and  recovery  capabilities.  System  owners  are  responsible  for  the
+resilience  of  their  own  systems.  Norges  Bank  monitors  the  systems  under  its  supervision  to
+ensure that satisfactory defence mechanisms are in place.
+A number of payment system participants have outsourced the operation of their systems to a
+few  ICT  service  providers.  This  is  a  source  of  concentration  risk.  The  failure  of  key  service
+providers could bring important parts of the payment system to a halt. The problems at EVRY on
+6  October  2017  affected  approximately  40  banks  in  Norway,  as  well  as  Norway  Post  and
+Telenor.  This  incident  illustrates  the  potential  broad  repercussions  of  the  failure  of  a  key  ICT
+service provider.
+Such  concentration  risk  is  difficult  for  individual  system  owners  to  address  alone.  The  entire
+infrastructure served by the provider is exposed to risk, not merely the individual system. ICT
+service providers are not subject to the same regulation and supervision as licensed banking and
+payment system participants. It is Norges Bank’s view that the authorities should explore how
+ 3 / 5
+BIS central bankers' speeches
+key ICT service providers can best be supervised. Such an evaluation must be based on the
+work of the ICT Security Commission, which publishes its report in December 2018.
+Distributed ledger technology
+Distributed  ledger  technology  (DLT)  offers  interesting  opportunities.  A  shared  decentralised
+digital  asset  register  can  enhance  efficiency,  as  business  ledgers  no  longer  need  to  be
+reconciled, and can reduce counterparty risk. DLT solutions can also reduce operational risk as
+this technology does not rely on a central operator.
+DLT  has  many  potential  applications  in  the  financial  infrastructure,  such  as  in  the  securities
+settlement system. The Australian exchange ASX is replacing the existing system for clearing
+and settling trades with a new DLT-based system. Another example is cross-border payments;
+several  projects  have  been  launched  and  the  potential  for  improvement  is  considerable.  A
+number  of  Norwegian  operators  are  exploring  opportunities  for  using  DLT-based  solutions  in
+Norway’s infrastructure.
+Central banks have also explored the use of DLT. The European Central Bank and the Bank of
+Japan have considered how secure delivery versus payment systems could be organised where
+the assets are stored in a decentralised accounting system. Some central banks, such as the
+Bank of Canada, have evaluated and tested DLT for use in central bank settlement. At the same
+time, the use of DLT poses a number of challenges, including the immaturity of the technology
+and how to prevent unauthorised access to confidential information.
+New technology also makes new forms of money possible. The functions of money as a medium
+of exchange, a store of value and a unit of account are dependent on public confidence in the
+currency. Most of our money is in the form of bank deposits or cash. So-called cryptocurrencies
+have  attracted  considerable  attention  in  recent  years.  Owing  to  their  substantial  day-to-day
+volatility and the interfaces with money laundering and other criminal activity, cryptocurrencies
+are  unsuitable  as  a  universal  means  of  payment.  On  the  other  hand,  cryptocurrencies  are
+attractive as speculative assets. Crypto-assets is therefore a better term than cryptocurrencies.
+Central bank digital currencies
+Another possibility is central bank digital currencies (CBDC). A CBDC is a digital form of central
+bank money made available to the general public. A number of central banks, including Norges
+Bank, are assessing whether introducing a CBDC would be advisable and, if so, in what form.
+For the time being, banknotes and coins are the only form of central bank money, with a role to
+play  both  in  a  contingency  and  under  normal  circumstances.  Effective  electronic  contingency
+arrangements are crucial for ensuring that the payment system is resilient to disruption. Cash is
+part  of  the  overall  contingency  arrangements,  in  the  role  of  last  resort  should  the  electronic
+contingency arrangements fail.
+Banknotes and coins will continue to be in use into the foreseeable future. However, the use of
+cash  is  relatively  low  in  Norway  compared  with  other  countries  and  is  declining.  It  is  not
+impossible that cash usage, at some point in the future, will fall to such a low level that banknotes
+and coins can no longer be regarded as a generally accepted means of payment.
+We must therefore consider whether cash has any important characteristics that are not shared
+by bank deposits and whether there is a need for other forms of central bank money in addition to
+cash. Cash has a number of unique characteristics:
+It is a credit risk-free alternative to deposit money.
+It is an independent back-up solution if electronic systems fail.
+It is legal tender that can be used by all.
+ 4 / 5
+BIS central bankers' speeches
+For  Norges  Bank,  the  question  is  whether  a  CBDC  could  supplement  cash  to  maintain
+confidence in the monetary system and ensure that Norway’s future payment system is safe and
+efficient.
+A list of factors that should be given weight in an assessment of whether Norges Bank should
+issue  a  CBDC  was  presented  by  a  Norges  Bank  working  group  in  May.  Phase  2  of  the
+assessment is now in progress. The working group is focusing on the purposes of a CBDC, the
+solutions that best serve these purposes and their impact. The working group’s report will be
+published in spring 2019. This is a long-term process and it is too early to draw any conclusions.
+A premise underlying the work is that a CBDC must not impair the ability of banks and other
+financial institutions to provide credit.
+Conclusion
+The various developments reflect a payment system in change. It is important to look up and
+envision  the  situation  a  few  years  ahead.  Where  do  we  want  to  be  then?  How  will  we  make
+payments,  what  will  our  means  of  payment  be,  and  what  kind  of  payment  system  will  we  be
+using?
+Our common goal must be that Norway has an efficient and safe payment system, today and in
+the  future.  That  we  have  confidence  in  the  means  of  payment  we  use,  that  we  base  our
+infrastructure  on  cost-efficient  common  solutions,  and  that  we  together  can  safeguard  the
+interests related to efficient payments, personal privacy and security.
+There  are  numerous  challenges  to  be  faced.  The  best  course  of  action  is  for  businesses  to
+come together and agree on good common solutions.
+ 5 / 5
+BIS central bankers' speeches

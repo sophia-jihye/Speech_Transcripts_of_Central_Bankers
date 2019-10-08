@@ -1,0 +1,314 @@
+Beverly Hirtle: Structural and cyclical macroprudential objectives in
+supervisory stress testing
+Remarks by Ms Beverly Hirtle, Executive Vice President and Director of Research of the Federal
+Reserve Bank of New York, at the conference "The Effects of Post-Crisis Banking Reforms",
+Federal Reserve Bank of New York, New York City, 22 June 2018.
+ Good morning.  It is my pleasure to make the opening remarks at this conference on post-crisis
+regulatory  reform  in  the  banking  industry.    It’s  exciting  to  see  such  a  distinguished  group  of
+researchers and supervisors in the room, all focused on developing a deeper understanding of
+the effects of the many significant regulatory changes that were put in place in response to the
+global financial crisis.  I hope that the day is filled with productive discussion and debate.  And,
+before  I  continue,  I  want  to  note  that  my  comments  today  reflect  my  own  views  and  not
+necessarily the views of the Federal Reserve Bank of New York or the Federal Reserve System.
+We are approaching the ten-year anniversary of the worst financial crisis in generations. Many
+regulatory  and  supervisory  reforms  have  been  made  since,  including  changes  to  regulatory
+capital  requirements,  the  introduction  of  new  liquidity  requirements,  the  redesign  of  the
+supervisory program for systemically important banks by the Federal Reserve’s Large Institution
+Supervision  Coordinating  Committee  (LISCC),  the  introduction  of  the  Comprehensive  Capital
+Analysis and Review (or CCAR) program, requirements about recovery and resolution planning,
+and myriad other regulations under the Wall Street Reform and Consumer Protection Act (Dodd-
+Frank Act). 
+In my remarks today, I want to focus on one particular post-crisis change, the introduction of
+supervisory stress testing, as embodied in CCAR and the stress tests required by the Dodd-
+Frank Act (DFAST).  In my personal view, supervisory stress testing and the CCAR are the most
+significant and impactful of the many regulatory and supervisory changes implemented following
+the  global  financial  crisis.    The  CCAR  and  stress  testing  introduced  a  forward-looking
+perspective  to  capital  adequacy  and  capital  planning,  something  that  static  book-value-based
+regulatory capital measures lacked.  We felt this acutely during the financial crisis, when market
+values of bank equity plunged while book values evolved only very slowly, based on accounting
+measures of losses.  Aside from the stress-test-based quantitative requirements, the CCAR also
+requires large complex banks to do systematic capital planning, including developing criteria for
+when  dividends  and  share  repurchases  will  be  made,  increased  or  curtailed.    This  is  an
+important innovation, as banks were slow to reduce dividends during the financial crisis, even as
+1
+losses mounted and share prices fell.
+2
+I want to examine supervisory stress testing through the lens of a paper I wrote in 2009 with
+former colleague Til Schuermann and current colleague Kevin Stiroh, now head of the New York
+Fed’s Supervision Group.   That paper looked at the very first set of stress tests conducted by
+the  Federal  Reserve  and  other  federal  banking  supervisors.    The  Supervisory  Capital
+Assessment Program, or SCAP, was a watershed moment in the financial crisis.  The program
+covered the 19 largest domestic bank holding companies—firms with assets of at least $100
+billion—accounting  for  two-thirds  of  the  assets  and  one-half  of  the  loans  in  the  U.S.  banking
+system at that time.  Collectively, these firms spanned nearly every business area in the U.S.
+banking  industry—including  commercial  and  consumer  lending,  real  estate  lending,  trading,
+derivatives, custody services and investment banking.   
+The  key  point  in  our  paper  was  that  the  SCAP  was  a  program  that  used  microprudential
+supervisory tools to achieve macroprudential objectives.  I am sure that everyone here is familiar
+with these two terms, but let me provide a quick overview.  Microprudential objectives focus on
+the health, performance, safety and soundness of individual firms.  This was the perspective that
+ 1 / 6
+BIS central bankers' speeches
+dominated supervision prior to the financial crisis.  In contrast, macroprudential objectives focus
+on the stability and performance of the entire banking and financial system, emphasizing links
+among  firms,  how  their  activities  can  interact  and  the  impact  of  the  financial  sector  on  the
+broader  economy.    This  perspective  has  become  more  prominent  since  the  global  financial
+crisis.
+Macroprudential objectives can themselves be divided into two distinct groups. The first is what
+might  be  called structural objectives,  which  focus  on  the  impact  large,  systemically  important
+institutions  have  on  the  rest  of  the  system  when  they  fail  or  become  distressed.    Structural
+macroprudential objectives motivate regulatory tools such as additional capital requirements for
+systemically important banks (“SIFI surcharges”), which aim to reduce the probability that a large
+institution  fails,  and  resolution  and  recovery  planning,  which  seeks  to  limit  the  damage  in  the
+event of failure. 
+The second set of macroprudential objectives are cyclical objectives, focusing on the build-up of
+risks  during  credit  and  asset  price  booms  and  the  consequent  pull-back  in  financial
+intermediation during periods of stress.  Cyclical macroprudential goals motivate regulatory and
+supervisory tools that “lean against the wind” in good times and “lean into the wind” during stress,
+such as the countercyclical capital buffer, the design of stress test scenarios, and time-varying
+loan-to-value restrictions, which are imposed in some countries.    
+The macroprudential objectives of the SCAP reflected both structural and cyclical concerns.  The
+primary goal was to ensure that large banks had sufficient capital to withstand an even-worse-
+than-expected economic downturn and still be able to lend—a structural perspective.  Each of
+the  19  banks  was  required  to  raise  additional  capital  if  the  stress  tests  indicated  a  shortfall
+relative  to  the  supervisory  target.    However,  the  SCAP’s  objectives  also  embodied  cyclical
+concerns, namely, to provide confidence that banks could continue current lending (“leaning into
+the wind”) and thus reduce the likelihood of a worse-than-expected economic outcome.
+In  the  paper,  we  identified  six  elements  that  we  argued  made  the  SCAP  a  successful
+macroprudential exercise:  comprehensiveness; consistency; multiple, independent estimates;
+diverse perspectives; transparency of process and results; and clear and predictable goals and
+actions.    Today  I  will  use  these  elements  to  talk  about  the  current  supervisory  stress  testing
+regime and assess whether it continues to address macroprudential objectives.  I should note
+that  my  focus  today  is  on  the  broad  structure  of  supervisory  stress  testing  and  not  on  any
+specific  set  of  stress  test  results.    As  you  know,  the  2018  DFAST  results  were  released
+yesterday and the corresponding CCAR results will be released next week.  I am not going to
+discuss these results or draw any inferences from them.
+Comprehensiveness
+Let me start the discussion with the first of the elements:  comprehensiveness. As noted, the set
+of banks participating in the SCAP accounted for a large portion of the assets and loans in the
+U.S. banking industry and spanned nearly all significant banking industry activities.  In 2009, we
+argued  that  this  comprehensiveness  was  essential  in  achieving  the  SCAP’s  macroprudential
+goals as the collective stress test results provided a view into a large share of the industry.  More
+important,  through  the  subsequent  capital  raises,  the  SCAP  helped  ensure  that  this  large
+segment  was  sufficiently  well  capitalized  to  provide  a  buffer  to  the  broader  economy  against
+possible future bad outcomes. 
+After  the  SCAP,  the  Dodd-Frank  Act  expanded  the  set  of  banking  companies  subject  to
+supervisory  stress  testing  to  include  all  bank  holding  companies  with  assets  exceeding  $50
+billion—about another 15 to 20 firms, including the U.S. operations of many large, foreign-owned
+banks.  In 2018, a total of 35 firms participated in the CCAR and DFAST stress tests.  However,
+with the recent passage of the Economic Growth, Regulatory Relief and Consumer Protection
+Act,  many  of  these  will  no  longer  be  subject  to  DFAST  supervisory  stress  testing  or  could
+ 2 / 6
+BIS central bankers' speeches
+participate  only  on  a  periodic  basis.    The  very  largest  and  most  systemically  important  firms,
+including all domestic bank holding companies with assets exceeding $250 billion, will continue
+to be required to participate in DFAST supervisory stress testing on an annual basis.
+These recent changes are consistent with an emphasis on structural macroprudential concerns,
+in  that  they  focus  the  DFAST  stress  tests  on  the  set  of  firms  that  are  individually  the  most
+systemically  important.    The  intention  seems  to  be  to  balance  the  burden  of  the  supervisory
+stress testing regime against the negative impact that distress at one of these firms could cause
+to other banks and the rest of the financial system—part of the broader tailoring of the regulatory
+framework  to  the  size  and  risk  profile  of  different  types  of  institutions.     At  the  same  time,
+however, reducing the set of firms subject to annual DFAST supervisory stress testing seems
+less  consistent  with  cyclical  macroprudential  concerns,  as  it  could  narrow  the  window  that
+stress test results provide on the build-up of risks and the loss-absorbing capacity of the banking
+system.    Whether  the  set  of  banks  that  continue  to  be  subject  to  annual  DFAST  supervisory
+stress testing represents a large enough share of the overall banking industry and sufficiently
+spans the range of banking activities to provide a comprehensive perspective is something that
+merits monitoring and analysis.
+Consistency
+3
+The second element we identified as contributing to the SCAP’s macroprudential effectiveness
+was consistency.  In the SCAP, as in the current supervisory stress testing regime, all banks
+were subject to the same hypothetical stress scenario—that is, the same set of assumptions
+about  the  path  of  economic  activity,  interest  rates,  asset  prices  and  volatility  over  the  future
+stress test horizon.  In SCAP, the scenarios were defined in a very parsimonious way, using just
+three  variables  (GDP  growth,  unemployment  and  housing  prices).    In  contrast,  the  current
+supervisory  stress  test  scenarios  involve  more  than  two  dozen  variables  describing  U.S.  and
+foreign economic activity, interest rates and asset prices. 
+Then,  as  now,  the  common  scenario  provided  a  consistent  framework  for  assessing  the
+vulnerability not just of the individual banking companies, but of the banking system as a whole. 
+This  consistency  is  especially  important  to  address  cyclical  macroprudential  objectives,  as  it
+provides  a  unified  assessment  of  the  performance  of  the  overall  industry.   And  of  course  the
+stress  scenarios  are  themselves  an  important  cyclical  macroprudential  element,  as  they  are
+designed to impose more stress—in particular, a larger increase in the unemployment rate—
+during periods of strong expansion.
+But  a  single  scenario  will  not  be  equally  stressful  for  all  firms.    Depending  on  each  firm’s
+business focus, geographic reach and customer base, any single scenario will result in variable
+degrees of stress, potentially undercutting structural macroprudential objectives.  In the current
+stress testing regime, the bank-generated stress tests required as part of the CCAR go a long
+way to addressing concerns that stress tests based on a single supervisory scenario will not be
+tailored  enough  to  expose  capital  vulnerabilities  at  all  firms.    In  these  exercises,  banks  are
+supposed to identify scenarios that are uniquely stressful to them.  Evaluating these scenarios to
+ensure that they capture firm-specific risks is a key part of the CCAR qualitative review.  This
+seems a very constructive way to think about consistency across firms, with the emphasis on
+each  firm  having  robust  risk  identification  and  thorough  consideration  of  the  kinds  of  stress
+environments that would uniquely test its business model. 
+Multiple, Independent Estimates and Diverse Perspectives
+Our 2009 paper described the benefits of the SCAP’s use of multiple, independent estimates of
+losses, revenue and expenses, as well as bringing diverse perspectives to bear on the design
+and implementation of the exercise.  At that time, the technology of firm-wide stress testing was
+in its infancy, and the SCAP results were based on a combination of bank-generated estimates,
+ 3 / 6
+BIS central bankers' speeches
+(somewhat  primitive)  supervisory  models,  and  high-level  “top  down”  estimates  of  possible
+stressed  loan  losses.  Given  the  early  state  of  the  art,  the  SCAP  team  brought  together
+supervisors,  economists,  attorneys,  accountants,  financial  analysts,  regulatory  capital  experts
+and others from the Fed and the other supervisory agencies involved in the program.  This kind
+of multi-disciplinary approach is now embedded in many aspects of supervision, including the
+LISCC,  which  includes  economists,  attorneys  and  financial  market  experts,  as  well  as
+supervisors.
+The blending of bank-generated and supervisory estimates may be the aspect of the supervisory
+stress testing regime that has evolved most significantly since the SCAP.  Supervisory stress
+test results are now based on models developed by supervisors that rely on detailed firm-specific
+data filed through regulatory reports, so the results now represent a fully distinct and independent
+supervisory view.   And, as described above, banks are required to generate their own stress
+test  estimates.    Public  disclosure  of  both  sets  of  results  based  on  the  common  supervisory
+scenarios has provided diverse perspectives on banks’ capital vulnerabilities.
+4
+Diverse  perspectives,  especially  those  from  outside  the  banking  industry  and  supervisory
+community,  continue  to  be  critical  in  supporting  stress  testing’s  macroprudential  objectives. 
+Academic economists can play an especially important role in helping to foster innovation and
+creativity by advancing thinking on stress test scenario design and on modeling techniques that
+better capture the impact of the external environment on bank financial condition.  A particularly
+ripe area for fresh thought, in my view, concerns modeling revenues and non-credit expenses—
+so-called  pre-provision  net  revenue,  or  PPNR—an  area  that  is  notoriously  difficult  to  assess. 
+More broadly, developing practical ways to model realistic interactions among banks and other
+financial  institutions  and  between  the  financial  and  real  sectors  of  the  economy  would  be
+important advances.
+Transparency of Process and Results
+The  next  element  we  identified  as  contributing  to  the  SCAP’s  success  as  a  macroprudential
+exercise was transparency, both of the process and, especially, of the results.  The SCAP was
+groundbreaking because it disclosed firm-specific supervisory estimates in detail, including loss
+amounts and rates on different types of loans, projections of net revenues, and the amount of
+capital  each  firm  would  have  to  raise  to  meet  publicly  disclosed  supervisory  targets  ratios. 
+These disclosures formed the template for subsequent DFAST and CCAR stress test results. 
+Current stress test disclosures deliver not just insight into individual banks’ ability to withstand
+stressful  economic  outcomes,  but  also  provide  a  broader  perspective  about  the  exposure  of
+different  segments  of  bank  lending,  securities  and  other  activities  to  adverse  economic  and
+financial  market  developments.  These  segment-level  results,  aggregated  across  banks,  are
+important because they have the potential to serve as public warning signals about over-heating
+or a build-up of risk that can supplement other cyclical macroprudential analysis.
+While the transparency of the supervisory stress test results was a groundbreaking element of
+the  SCAP  in  2009,  subsequent  discussion  has  focused  largely  on  the  transparency  of  the
+process of generating the results, in particular, information about supervisory stress test models.
+The  Fed  discloses  descriptive  information  about  the  models,  including  the  general  statistical
+approach  and  key  variables,  but  does  not  release  the  code  or  detailed  equation  estimates. 
+Industry  groups  and  individual  banks  have  called  for  the  Fed  to  release  more  detail  about  its
+5
+models, including the specific formulas and equations.   
+On one level, full disclosure of the Fed’s supervisory stress test models might seem like good
+public policy.  Such disclosures would provide insight into how the stress test calculations are
+made, making the results predictable to the banks subject to the tests.  Greater predictability of
+the  stress  test  results  could  enhance  banks’  ability  to  do  capital  planning,  because  any
+constraints arising from the supervisory stress test results would be known ex ante.  Detailed
+ 4 / 6
+BIS central bankers' speeches
+disclosures  could  also  enhance  the  credibility  of  the  stress  test  regime  by  allowing  external
+parties to critique the Fed’s models, a form of “peer review” that could lead to improved modeling
+techniques or identify areas of emerging risk that the Fed’s models do not adequately capture.
+But these benefits could come at significant cost to the broader goals of the supervisory stress
+testing  regime.    My  co-author,  Til  Schuermann,  has  argued  that  increased  reliance  on
+supervisory models, especially in the context of the CCAR program, provides powerful incentives
+for  banks  to  abandon  innovation  in  stress  test  modeling  and  instead  devote  their  energy  to
+mimicking  the  Fed’s  models.  In  the  extreme,  these  incentives  could  result  in  “model
+monoculture,” in which all actors use very closely related models.  This risk becomes especially
+acute the more is known about the details of the supervisory models.
+6
+A lack of modeling diversity would be especially concerning from a macroprudential perspective,
+since it would mean that the entire industry would be capturing the same risks in the same way
+—a  form  of  collective  blindness  to  new  industry  practices  and  products  and  emerging  risk
+developments.  As important, banks have incentives to optimize around the stress test and other
+risk  models,  engaging  in  strategies  that  maximize  returns  while  minimizing  measured  risk
+exposures.    Widespread  use  of  very  similar  models  could  mean  widespread  loading  on  the
+same  kind  of  risks  and  adopting  the  same  hedging  or  mitigation  techniques—increasing
+systemic risk. 
+A final concern that I want to mention is based less in economic theory and more on the practical
+realities  of  implementing  and  updating  regulations.    The  more  stress  test  models  are  “hard
+coded” in regulation, the more difficult it is to change them as modeling practices improve or as
+new risks emerge.  The models and parameters can quickly become stale and inferences from
+the  models  inaccurate.    For  those  interested  in  a  real-life  case  study  of  such  an  outcome,  I
+recommend a paper by Scott Frame, Kristopher Gerardi and Paul Willen about the stress test
+models  used  by  OFHEO,  the  agency  that  oversaw  Fannie  Mae  and  Freddie  Mac  before  the
+financial crisis.     The  paper  documents  the  large  understatement  of  the  agencies’  credit  risk
+exposures  stemming  from  “hard  coded”  models  that  failed  to  capture  innovation  in  mortgage
+underwriting. 
+7
+In  fact,  the  Fed  has  proposed  additional  disclosures  about  its  stress  test  models,  including
+indicative loan loss rates and loss results based on standardized portfolios.  These enhanced
+disclosures  aim  to  provide  greater  insight  into  the  Fed’s  modeling  approaches  and  thus  to
+facilitate “peer review,” while maintaining the rigor of the stress testing regime.  This is another
+area where academic economists can help enrich the debate.  There is already a literature on
+the impact of the disclosure of supervisory stress test results;  that literature could usefully be
+extended  to  consider  the  impact  of  underlying  model  disclosure,  especially  in  the  context  of
+macroprudential goals.
+Clear and Predictable Goals and Actions
+8
+9
+The final element we identified supporting the macroprudential goals of the SCAP was that the
+exercise had clear and predictable objectives and actions.  Our paper argued that the financial
+crisis  environment  gave  the  SCAP  a  very  clear  goal  of  providing  confidence  that  the  banking
+system could continue to lend even under more dire economic conditions as a way of mitigating
+the chance that those dire economic conditions actually materialized.  In that sense, the SCAP
+was very much a “lean into the wind” macroprudential exercise.
+In the current environment, I’d argue that the goals of the supervisory stress testing regime are
+more  diffuse.  There  are  clearly  microprudential  “safety  and  soundness”  objectives  related  to
+sound capital planning, risk identification and capital adequacy at each of the firms participating in
+the  exercise.    These  are  critically  important  objectives.    The  focus  on  the  largest,  most
+systemically important banks also seems consistent with the structural macroprudential channel
+ 5 / 6
+BIS central bankers' speeches
+—by reducing the risk that these most systemic firms become distressed, we reduce the risk of
+the externalities that such distress places on other financial institutions and, most important, on
+consumers and businesses. 
+What  is  less  clear  to  me  is  what  role  cyclical  macroprudential  concerns  play  in  the  evolving
+stress testing regime.  Clearly, the design of the stress test scenarios, which embed a number
+of counter-cyclical features, is an important channel for “lean against the wind” or “lean into the
+wind” efforts.  However, narrowing the set of firms subject to DFAST supervisory stress testing
+potentially pushes away from the broader cyclical perspective. Less of the banking industry will
+be covered by the stress tests and assessments of the strength of the industry will be based on
+a smaller part of the whole. 
+In pointing out these implications, I am not making any judgments about whether the focus on
+microprudential and structural macroprudential goals is optimal from a public policy perspective. 
+In my view—and I really cannot say this strongly enough—ensuring that the largest and most
+systemically  important  banks  do  robust  capital  and  liquidity  planning,  have  strong  internal
+controls, do good risk identification and have very healthy amounts of capital (especially common
+equity)  and  liquidity  resources  is  fundamental  to  fostering  a  stable  banking  system  that  can
+perform  its  critical  financial  intermediation  role  in  both  calm  and  stressed  economic
+environments.  What I hoped to do today is simply to point out that one of the key objectives of
+the original SCAP stress program—leaning into the wind during a severe economic downturn—
+might  be  getting  less  emphasis  as  the  time  since  the  financial  crisis  grows,  the  economic
+expansion continues, and the supervisory stress testing regime evolves.
+Thanks for your attention this morning.  I hope that you enjoy the rest of the conference.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+ See, for example, Viral Acharya, Irvind Gujral, Nirupama Kulkarni and Hyun Song Shin. 2012. “Dividends and
+Bank Capital in the Financial Crisis of 2007 2009.” CEPR Discussion Paper No. 8801. February 2012; Beverly
+Hirtle. “Bank Holding Company Dividends and Repurchases during the Financial Crisis.” Federal Reserve Bank
+of New York Staff Report No. 666. March 2014; and David S. Scharfstein and Jeremy C. Stein. 2008. “This Bailout
+Doesn’t Pay Dividends.” New York Times. October 21, A29.
+Beverly Hirtle, Til Schuermann and Kevin Stiroh. Macroprudential Supervision of Financial Institutions: Lessons
+from the SCAP, Federal Reserve Bank of New York Staff Report no. 409. November 2009.
+Randal K. Quarles. Early Observations on Improving the Effectiveness of Post-crisis Regulation, Speech at the
+American Bar Association Banking Law Committee Annual Meeting. January 19, 2018.
+An important exception to this is that losses on trading book positions and counterparty exposures as a result of
+the global market shock continue to be based on sensitivities generated by bank models.
+The  ClearingHouse. The ClearingHouse Offers Recommendations to Improve Stress Testing Transparency,
+January 22, 2018.
+Til Schuermann. “The Fed’s Stress Tests Add Risk to the Financial System.” Wall Street Journal. March 19,
+2013.
+W. Scott Frame, Kristopher Gerardi and Paul S. Willen. The Failure of Supervisory Stress Testing: Fannie Mae,
+Freddie Mac and OFHEO, Federal Reserve Bank of Atlanta Working Paper 2015–3. March 2015.
+Board of Governors of the Federal Reserve System. Federal Reserve Board requests comment on package of
+proposals that would increase the transparency of its stress testing program, December 7, 2017.
+See, for instance, Itay Goldstein and Haresh Sapra. “Should Banks’ Stress Test Results be Disclosed? An
+Analysis of Costs and Benefits.” Foundations and Trends in Finance. Vol. 8. March 2014.
+ 6 / 6
+BIS central bankers' speeches

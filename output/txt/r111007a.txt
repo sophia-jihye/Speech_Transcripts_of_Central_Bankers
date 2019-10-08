@@ -1,0 +1,942 @@
+Svante Öberg: GDP growth and resource utilisation 
+Speech by Mr Svante Öberg, First Deputy Governor of the Sveriges Riksbank, at Statistics 
+Sweden’s annual conference, Saltsjöbaden, 6 October 2011. 
+ It’s a pleasure to be back here in Saltsjöbaden again. It has now been ten years since I was 
+involved  in  starting  these  annual  conferences  as  the  head  of  Statistics  Sweden.  In  those 
+days, this was a matter of improving economic statistics. What several of the proposals we 
+discussed  had  in  common  was  that  they  were  important  for  our  efforts  to  elucidate  and 
+understand productivity growth. These proposals included a better price index in the private 
+service  sector,  better  capital  stock  calculations,  better  input-output  statistics  and  better  IT 
+statistics. I also considered that Statistics Sweden should do more to describe and analyse 
+productivity growth. I am therefore very pleased to see that the conferences have come to 
+focus on the important area of productivity growth and its causes.  
+My speech today can be summed up in the following three points: 
+ 
+Resource  utilisation  can  be  measured  in  several  different  ways,  among  others  as 
+actual GDP in relation to potential GDP (the GDP gap). 
+The financial crisis has lowered the growth rate of potential GDP. 
+Resource utilisation is thus largely normal, even though GDP is only slightly higher 
+than before the crisis. 
+ I  will  start  by  describing  GDP  growth  over  the  longer  term.  Then,  I  will  address  resource 
+utilisation’s significance for monetary policy, give an account of the Riksbank’s calculations of 
+potential GDP, discuss the impact of the financial crisis on potential GDP, give an account of 
+different  measures  of  resource  utilisation  and  what  they  say  about  resource  utilisation  at 
+present, and conclude by addressing the need for continued analyses.  
+GDP grows over time, but the rate of growth varies 
+GDP growth since 1950 is illustrated in Figures 1 and 2. What is known as an HP trend is 
+also included in the figures. I will return to these HP trends later. Seen over the entire period 
+from 1950 to 2010, GDP has increased by an average of 2.7 per cent per year. Growth was 
+significantly  stronger  in  the  1950s  and  1960s  compared  with  the  1970s  and  1980s.  There 
+then  followed  a  ten-year  period  from  the  mid-1990s  with  relatively  rapid  GDP  growth  and 
+associated relatively rapid productivity growth.  
+In earlier seminars, we have discussed the reasons for the strong productivity growth during 
+this later period. I myself have pointed out a number of possible explanations.1 Globalisation 
+through the expansion of the EU, the opening up of the economies of eastern Europe and 
+China’s  rapidly-growing  international  trade  have  increased  competition,  which  has  been 
+particularly significant for Sweden, with our substantial foreign trade and high proportion of 
+international companies. Furthermore, a number of product markets were deregulated in the 
+1990s (taxis, domestic flights, postal services, telecommunications, electricity etc.). Sweden 
+also  has  high  proportions  of  IT  production  and  IT  use  in  production.  Last  year,  we  also 
+discussed the significance of education, work organisation and intangible investments. 
+                                                 
+1  Svante  Öberg,  “Productivity  and  monetary  policy”,  7  June  2007  and  Svante  Öberg,  “Monetary  policy  and 
+productivity”, 29 January 2008. 
+BIS central bankers’ speeches 
+ 1
+In conjunction with the financial crisis, GDP then fell by over five per cent in 2009, before 
+rising again by over five per cent in 2010. Productivity in the economy as a whole, measured 
+as GDP per hour worked, decreased for two consecutive years by a total of over four per 
+cent. I will later address the possible reasons for this and the possible consequences. But I 
+will start with the significance of resource utilisation for monetary policy. 
+Resource utilisation is of great significance to monetary policy 
+According to the Sveriges Riksbank Act, the objective for monetary policy is to maintain price 
+stability.  At  the  Riksbank,  we  have  interpreted  this  to  mean  that  we  should  strive  to  hold 
+inflation, measured in terms of the consumer price index, at two per cent per year. We have 
+been  clear  about  the  CPI  being  the  target  variable.  But  we  also  follow  a  number  of  other 
+inflation  measures  to  analyse  and  better  understand  the  development  of  inflation:  the  CPI 
+with a fixed interest rate (CPIF), CPIF excluding energy, the EU-harmonised measure HICP 
+and several measures of underlying inflation.2 
+There are two reasons for the Riksbank to care about resource utilisation, in addition to price 
+stability.  The  first  is  that  we  are  striving  to  attain  high  GDP,  high  employment  and  low 
+unemployment, and resource utilisation is related to these targets. But we should only do this 
+when  it  is  compatible  with  the  inflation  target.  The  inflation  target  takes  precedence.  This 
+differs  from  the  United  States,  where  the  central  bank  has  the  double  target  of  achieving 
+price stability and maximum employment. In addition, the preparatory works for the Sveriges 
+Riksbank  Act  only  refer  to  “high”  employment  (as  compared  with  the  United  States’ 
+”maximum” employment) and not to any particular level of unemployment.3 
+The other reason to care about resource utilisation is that it serves as an indicator of future 
+inflation.  The  positive  relationship between  resource  utilisation  and  inflation  is  illustrated  in 
+Figure  3,  which  shows  the  correlation  between  three  different  measures  of  resource 
+utilisation  and  CPIF  inflation  1–12  quarters  ahead.4  The  connection  is  fairly  strong  
+3–8  quarters  ahead.  The  connection  is  stronger  and  faster  for  the  hours  gap  than  for  the 
+GDP gap and the RU indicator. This may be because the development of the labour market 
+usually follows behind output and because it is very important for the development of prices 
+and  wages.  Of  course,  it  is  difficult  to  draw  any  conclusions  from  the  covariation  of  two 
+variables,  but  the  same  type  of  relationship  also  exists  in  more  developed  empirically-
+estimated models.  
+Considering this, we wrote, in Monetary Policy in Sweden, that the Riksbank, in addition to 
+achieving  low  and  stable  inflation,  should  also  strive  to  stabilise  output  and  employment 
+around  long-term  sustainable  paths.5  This  means  that  we  also  strive  to  hold  resource 
+utilisation at a normal level. We usually say that the Riksbank is thereby conducting a flexible 
+inflation-targeting policy. We have also chosen to take a broad approach when it comes to 
+interpreting  resource  utilisation,  instead  for  only  looking  at  a  single  measure  of  resource 
+utilisation. 
+                                                 
+2  Sveriges Riksbank, Monetary Policy in Sweden, June 2010. 
+3  My colleague Lars Svensson has a different interpretation of our task, namely that, during the forecast period, 
+we should strive to hold inflation measured in terms of the CPIF (the CPI with a fixed interest rate) as close to 
+two per cent as possible and resource utilisation measured in terms of unemployment as close to an estimate 
+of the long-term sustainable level of unemployment as possible. See, for example Lars E.O. Svensson, “For a 
+better monetary policy: Focus on inflation and unemployment”, 8 March 2011. 
+4  The figure is based on the ten-year period 1997–2006. This period is not extended further than 2006 so as not 
+to be affected too much by the period after the outbreak of the financial crisis in the autumn of 2008. However, 
+the differences do not become so great even if the years 2007 and 2008 are included.  
+5  Sveriges Riksbank, Monetary Policy in Sweden, June 2010. 
+2 
+ BIS central bankers’ speeches
+The Riksbank’s calculations of potential GDP 
+Resource utilisation can be measured in several different ways. Here, I will demonstrate how 
+we,  at  the  Riksbank,  calculate  measurements  of  resource  utilisation  based  on  GDP  and 
+potential GDP, as well as hours worked and potential hours worked. Potential GDP refers to 
+the level of GDP that is consistent with a use of the available resources that is sustainable in 
+the long term and that does not push up inflation. If GDP exceeds the potential level, then 
+resource  utilisation  is  high  –  and  vice  versa.  We  call  the  difference  between  actual  and 
+potential GDP the GDP gap.6 When resource utilisation is normal, GDP is equal to potential 
+BNP, and the GDP gap is equal to zero. Consequently, potential GDP does not refer to the 
+highest level GDP may reach over the short term. 
+In Figure 1, the trend development of GDP is represented by a Hodrick-Prescott trend (HP 
+trend). An HP trend is something between a linear trend and the actual development of GDP. 
+The  HP  trend  is  a  common  and  often  fairly  good  measure  of  the  underlying  long-term 
+development  in  GDP  during  normal  cyclical  fluctuations.  But  the  HP  trend  is  not  good  at 
+estimating the underlying development of GDP at the end of a time series and it gives no 
+guidance as to why output deviates from its trend level.  
+The production function approach 
+On the other hand, our ability to analyse why output deviates from its long-term level can be 
+improved if a production function (PF) approach is used. This is a common technique used by 
+international organisations such as the IMF and the OECD. The Riksbank has used such an 
+approach since 2010.7 A production function shows how output depends on production factors 
+and technological level. In the most common case, we may consider that output (Y) depends 
+on the number of hours worked (H), the capital stock (K) and total factor productivity (TFP). 
+The level of TFP determines how much output is derived from a given amount of hours and 
+capital.8 TFP can thus be seen as a measure of the level of technology. By specifying a form 
+for the production function, the following breakdown is obtained:9 
+ The  wage  share  in  the  economy  is  usually  about  two-thirds,  which  is  why  hours  are 
+considered  to  stand  for  two-thirds  of  the  production  factors  (
+)  and  capital  for  the 
+  ).  The  contribution  of  each  factor  to  output  can  then  be  calculated. 
+remaining  third  (
+Output increases through more capital weighted by a third, more hours worked weighted by 
+two thirds and improved TFP.  
+But,  in  practice,  it  is  difficult  to  measure  TFP. Instead,  it must  normally  be  estimated  as  a 
+residual,  often  called  a  Solow  residual  after  Nobel  Prize  winner  Robert  Solow.  The  output 
+that does not depend on the input factors of capital and labour is assigned to TFP. 
+                                                 
+6 
+In  the  original  Taylor  rule,  the  policy  rate  is  determined  by  inflation  and  the  GDP  gap.  See  Taylor,  J.B., 
+“Discretion  versus  policy  rules  in  practice”,  Carnegie-Rochester  Conference  Series  on  Public  Policy,  North-
+Holland, 1993. 
+7  See the article “The driving forces behind trends in the economy can be analysed using a production function” 
+in the Monetary Policy Report of October 2010. 
+It is important to make a distinction between labour productivity, which is defined as output per hour, and total 
+factor productivity. 
+8 
+9  This is the logarithm of what is known as a Cobb-Douglas function: 
+the relationship in the text applies to the logarithms of Y, K, H and TFP. 
+. Consequently, 
+BIS central bankers’ speeches 
+ 3
+In  accordance  with  the  production  function,  the  potential  level  of  production  can  also  be 
+divided up into potential total factor productivity, potential capital stock and potential hours. 
+Deviations from the potential level can be estimated for each of the three factors affecting 
+output – capital, hours worked and TFP. These deviations can then be weighted together to 
+give a total output gap.  
+Calculations of potential GDP 
+This  section  describes  the  calculations  forming  the  basis  for  the  GDP  and  hours  gap 
+published in the most recent Monetary Policy Update.10 
+Figure 4 shows an estimate of actual and potential TFP. Actual TFP is estimated with the 
+Solow  residual.  The  TFP  estimate  thus  captures  all  change  in  output  that  cannot  be 
+explained by the development of capital and hours. Potential TFP is estimated with an HP 
+trend based on the Solow residual. The idea is that the TFP estimate will describe technical 
+developments.  But,  among  other  factors,  it  is  also  affected  by  the  fact  that  the  production 
+factors’ degree of utilisation varies over time. Estimating TFP is thus the most uncertain part 
+of  applying  the  PF  approach.  The  assessment  made  was  that  actual  TFP  at  present  was 
+largely the same as potential TFP. 
+Figure 5 shows the development of the capital stock or, more precisely, the flow of services 
+from  the  capital  stock.  In  this  connection,  it  is  assumed  that  the  actual  capital  stock 
+corresponds  with  the  potential  capital  stock.  The  development  of  the  capital  stock  in  the 
+period ahead has been based on the Riksbank’s investment forecast.  
+Figure 6 shows the development of the number of hours worked and the potential level of 
+these.  The  development  of  potential  hours  in  the  future  is  determined  by  demographic 
+developments, the assumption that there will be a trend increase in labour force participation 
+among  older  people  and  an  assessment  of  the  effects  of  economic  policy.  These 
+assessments  have  led  to  the  potential  number  of  hours  worked  presently  exceeding  the 
+indications of the HP trend.  
+Figure  7  shows  GDP  and  two  measures  of  potential  GDP:  the  HP  trend  and  the  PF 
+approach. The difference between potential GDP calculated with the HP trend and with the 
+PF  approach  is  not  so  large.  The  most  important  difference  between  the  measures  is  the 
+potential development of hours. In the PF approach, the development of potential hours is 
+based on assessments with no HP trend element.  
+Figures 8 and 9 show the measures of resource utilisation based on GDP and potential GDP, 
+in  addition  to  hours  worked  and  potential  hours  worked,  that  were  the  result  of  these 
+calculations. They indicate that resource utilisation is largely normal this year. The GDP gap 
+based on the HP filter is slightly higher than normal, while the GDP gap based on the PF 
+approach is slightly lower than normal. The reason for the difference lies in the assessment 
+of  the  potential  number  of  hours  worked.  The  hours  gap  based  on  the  HP  filter  is  slightly 
+higher  than  normal,  while  the  hours  gap  used  in  the  PF  approach  is  slightly  lower  than 
+normal.  
+Difficulties in calculations, but reasonable view of present situation 
+There  are  several  problems  with  the  method  of  calculating  potential  GDP  I  have  just 
+described. Among others, these include the calculations of potential labour, capital stock and 
+TFP. The difficulty of assessing potential GDP is also illustrated by the way that assessments 
+of  the  GDP  gap  have  changed  over  time.  Attention  has  been  drawn  to  this,  not  least  by 
+                                                 
+10  Sveriges Riksbank, Monetary Policy Update, September 2011. 
+4 
+ BIS central bankers’ speeches
+Orphanides.11 Among other observations, he shows that the estimates of the GDP gap for the 
+United  States  for  a  certain  year,  made  by  the  International  Monetary  Fund  (IMF),  have 
+changed  radically  between  the  various  dates  of  calculation,  and  draws  the  conclusion  that 
+GDP growth should be focused on as the basis for monetary policy, rather than the GDP gap. 
+Figure 10 presents estimates of the GDP gap in real time and in accordance with the most 
+recent calculation from September 2011. The estimates in real time show what we believed 
+the current GDP gap to be at the various previous forecasting occasions. The figure indicates 
+that resource utilisation was higher in the years preceding the crisis than we believed at the 
+time.  However,  there  are  also  problems  with  estimating  resource  utilisation  in  retrospect, 
+which mean that such calculations may perhaps overestimate how high resource utilisation 
+was before the crisis. I will come back to this. 
+Despite these difficulties, my assessment is that the Riksbank’s calculations of the GDP gap 
+largely  give  a  reasonable  view  of  current  resource  utilisation.  The  decisive  factor  for  this 
+assessment  is  that  the  GDP  gap  currently  corresponds  with  other  ways  of  measuring 
+resource utilisation that are based on other economic statistics. These other measures also 
+show that resource utilisation is largely normal. I will review a number of such measures at a 
+later point.  
+In contrast, I do not think that the GDP gap provides a reasonable view of the development 
+of  resource  utilisation  over  the  course  of  recent  years.  I  shall  return  to  this  shortly.  First, 
+however, I would like to address the effects of the financial crisis on potential GDP, as this 
+plays an important role in the assessment of the GDP gap. 
+The financial crisis has had a negative effect on potential GDP 
+The financial crisis has probably lowered the potential growth rate.12 There may be several 
+reasons for this. The capital stock has been negatively affected by the financial crisis through 
+the decrease of the investment level. Growth in the capital stock has come to a halt. Even 
+though we expect investments to recover quite strongly in the period ahead, the capital stock 
+will not reach the pre-crisis trend level.  
+The labour force has probably also been affected negatively due to exclusion from the labour 
+market,  with  competence  among  the  labour  force  being  undermined  by  long  periods  of 
+unemployment. However, this reduction of the labour supply due to the crisis has been more 
+than  counteracted  by  an  economic  policy  focused  on  increasing  labour  force  participation. 
+The number of people in the labour force has increased in recent years due to this.  
+The  most  important  factor,  which  is  also  the  most  difficult  to  explain,  is  that  total  factor 
+productivity also fell during the most recent crisis. It is, of course, normal for productivity to 
+develop less strongly at the start of a recession. But the heavy fall of just over six per cent 
+that occurred between the third quarter of 2008 and the first quarter of 2009 was abnormally 
+large. This was probably partially due to a decrease of the degree of utilisation of capital and 
+labour.  
+According  to  Figure  8, actual  GDP  and  potential  GDP  were  largely  the  same  in  1995  and 
+2005. As the estimate of potential GDP was not seriously affected by terminal point problems 
+or deep recessions in these years, it probably provides a reasonable view of potential GDP. 
+This is also supported by data on economic activity that shows that resource utilisation was 
+largely normal in these years. The average rate of growth in GDP between 1995 and 2005 
+                                                 
+11  See, for example Orphanides, A. (2010), “Monetary Policy Lessons from the Crisis”, Central Bank of Cyprus. 
+12  Experiences of earlier financial crises are described in detail in Reinhart, C.M. and Rogoff, K.S., “This time is 
+different: eight centuries of financial folly”, Princeton University Press, 2009. 
+BIS central bankers’ speeches 
+ 5
+was 3.1 per cent per year. Consequently, this is also the average rate of growth of potential 
+GDP during this period.  
+According to Figure 8, actual GDP and potential GDP were also roughly the same in 2011. 
+Between 2005 and 2011, both GDP and potential GDP have thus increased by an average of 
+2.0  per  cent  per  year.  A  projection  of  GDP  from  2005  according  to  the  earlier  trend  of 
+three per cent per year would have given a GDP level about six per cent higher than actual 
+GDP in 2011. Even if this is only a mathematical example and the potential growth, if there 
+had been no financial crisis, is assumed to be significantly lower than three per cent per year, 
+it  still  shows  that  the  financial  crisis  put  a  dent  in  the  long-term  upwards  development  of 
+potential GDP.13 
+The  lowered  rate  of  growth  of  potential  GDP  after  the  financial  crisis  corresponds  with 
+international experiences. In conjunction with financial crises, it is normal for GDP growth to 
+be lower in the ten years following the crisis than in the ten years before the crisis.14 
+But  the  financial  crisis  primarily  affected  Sweden  through  reduced  exports,  not  through 
+problems in the banking sector. It is thus not self-evident that the rate of growth of potential 
+GDP should necessarily be lower in Sweden. One explanation may be that the rate of growth 
+of  potential  GDP  does  not  only  decrease  in  conjunction  with  financial  crises,  but  also  in 
+conjunction with deep recessions. We have seen in earlier crises, in the late 1970s and early 
+1980s, as well as in the early 1990s, that a deep recession can have this effect. On these 
+occasions,  GDP  did  not  reach  the  pre-crisis  trend  level  for  the  next  ten  years.15  Another 
+explanation may be that Sweden, with its high international dependence, cannot isolate itself 
+too much from developments abroad. There are also rigidities in the economy that mean that 
+it will take time before a sharp fall in exports can be replaced by an increase of exports or by 
+an increase of domestic demand that fully compensates for this decline.  
+I actually think it is more reasonable to concentrate the negative effect on potential GDP to 
+the period immediately after the start of the financial crisis, rather than to spread it out over a 
+larger number of years before and after the financial crisis in the way that both the HP trend 
+and the PF approach do. This would mean that the GDP gap would not appear so high in 
+2008 and perhaps not so low in 2009 either. But this is unimportant for the assessment of 
+resource utilisation this year.  
+Resource utilisation is largely normal 
+My assessment is thus that resource utilisation is largely normal. The measures of resource 
+utilisation that I showed earlier in Figures 8 and 9 indicated this. But it is also supported by 
+other measures of resource utilisation, based on questions to individuals and companies. An 
+additional  advantage  of  measures  of  this  type  is  that  they  can  be  seen  directly  in  the 
+statistics, thus avoiding the problems associated with HP trends and PF approaches.  
+Figure  11  shows  such  a  measure,  capacity  utilisation  in  the  manufacturing  sector  from 
+Statistics  Sweden  (SCB).  It  is  now  more  or  less  on  the  average  level  for  the  period  
+1996–2008.  Another  measure  of  this  type  is  the  employment  rate  from  the  labour  force 
+surveys  (AKU),  which  shows  the  proportion  of  the  population  of  working  age  that  is  in 
+employment. Figure 12 shows that the employment rate this year is close to the average for 
+the years 2000–2008. 
+                                                 
+13  The assumed long-term GDP growth in Figure 7 after the end of the forecast period in 2013 is 2.3 per cent per year. 
+14  Reinhart, C. M. and Reinhart, V. R. (2010), “After the Fall”, National Bureau of Economic Research Working 
+Paper 16334. 
+15  Svante Öberg, “Potential GDP, resource utilisation and monetary policy”, 7 October 2010. 
+6 
+ BIS central bankers’ speeches
+The  Riksbank’s  indicator  of  resource  utilisation  (the  RU  indicator)  summarises  about  thirty 
+such economic variables regarding levels.16 The RU indicator includes survey data from the 
+National Institute of Economic Research’s Economic Tendency Survey for private services, 
+the  retail  trade  and  the  construction  and  manufacturing  industries.  In  addition,  capacity 
+utilisation  in  the  manufacturing  sector  from  Statistics  Sweden,  the  employment  rate  and 
+unemployment  from  the  labour  market  surveys,  and  unfilled  vacancies  from  the  Swedish 
+Public  Employment  Service  are  also  included.  According  to  the  RU  indicator,  resource 
+utilisation is slightly higher than normal (see Figure 13).  
+Figure 14 shows unemployment together with an average for the period 2000–2008 and an 
+assessment  of  long-term  unemployment.17  Seasonally-adjusted  unemployment  is  presently 
+higher  than  this  long-term  level.  But  assessments  of  long-term  unemployment  are  fraught 
+with great difficulties. It is possible that the financial crisis will lead to an increase of long-term 
+unemployment. At the same time, it is possible that the measures adopted in recent years 
+will lead to a reduction of long-term unemployment. The net outcome of these two opposing 
+forces will eventually become clear. 18 
+At the same time as the unemployment gap is positive (see Figure 15), there is a shortage of 
+labour in many sectors and in the business sector as a whole (see Figure 16). This indicates 
+that matching on the labour market has deteriorated. This is also supported by the fact that 
+the  Beveridge  curve,  which  shows  the  connection  between  the  number  of  persons 
+unemployed and the number of unfilled vacancies, has shifted outwards (see Figure 17). The 
+composition of the category unemployed has also changed. For example, the proportion of 
+unemployed  people  with  brief  and  incomplete  educations  has  increased.  All  in  all,  for  my 
+part,  I  interpret  this  to  mean  that  resource  utilisation  with  regard  to  labour  is  also  largely 
+normal. 
+The most recent Monetary Policy Update included the assessment that resource utilisation 
+was somewhat lower than normal, but that it would be largely normal towards the end of the 
+forecast  period.  My  overall  assessment  at  the  monetary  policy  meeting  was  instead  that 
+resource  utilisation  was  already  normal,  and  I  have  taken  the  opportunity  to  explain  my 
+judgement in a little more depth in this speech. The different measures of resource utilisation 
+that I have addressed today are summarised in Table 1. 
+We need more knowledge of productivity growth 
+Today, I have given you an account of how the Riksbank tries, in various ways, to assess 
+how  large  resource  utilisation  is.  One  of  the  measures  of  resource  utilisation  that  we  use 
+compares actual GDP with an estimate of potential GDP. The financial crisis has probably 
+lowered the growth rate of potential GDP. Actual GDP is thus roughly equal to potential GDP 
+at  present,  even  though  GDP  is  only  slightly  higher  than  it  was  before  the  crisis.  My 
+assessment  is  also  that  resource  utilisation  is  largely  normal.  This  assessment  is  also 
+supported by other measures of resource utilisation that are not associated with such large 
+problems in calculation. 
+Resource  utilisation  has  a  positive  relationship  with  future  inflation.  Resource  utilisation  is 
+thus  also  an  indicator  of  future  inflation.  It  is  therefore  important  to  be  able  to  reliably 
+estimate  the  level  of  resource  utilisation.  But  the  financial  crisis  and  the  associated  deep 
+recession  have  greatly  increased  uncertainty  in  estimates  of  resource  utilisation.  Different 
+                                                 
+16  See “An indicator of resource utilisation”, Economic Commentary no. 4, 2010, Sveriges Riksbank.  
+17  See the article “The driving forces behind trends in the economy can be analysed using a production function” 
+in the Monetary Policy Report of October 2010. 
+18  See also the article “Low unemployment – a challenge” in the Monetary Policy Report of July 2011. 
+BIS central bankers’ speeches 
+ 7
+assessments of the level of resource utilisation can lead to different views of how monetary 
+policy ought to be conducted.  
+It is therefore essential that more analyses are conducted to better understand what it is that 
+determines the development of output and potential GDP in conjunction with financial crises 
+and deep recessions. One important factor behind the development of potential GDP seems 
+to  be  total  factor  productivity  (TFP).  This  is  particularly  troublesome  as  TFP  itself  is  often 
+counted  as  an  unexplained  residual.  One  possible  way  forward  could  be  to  combine  the 
+production  function  approach  with  economic  short-term  statistics  to  analyse  how  TFP 
+behaves  in  normal  cyclical  fluctuations  and  in  deep  recessions.  The  almost  unique 
+opportunities  for  Sweden  to  conduct  analyses  based  on  micro  data  for  individuals  and 
+companies should be a major asset in this regard.  
+8 
+ BIS central bankers’ speeches
+Figures and tables 
+1. Actual and trend GDP 
+Logarithmed levels 
+6.5
+6.0
+5.5
+5.0
+4.5
+GDP
+Trend
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+00
+05
+10
+Note. HP trend derived solely from annual data 1950–2010.  
+Sources: Statistics Sweden and the Riksbank 
+2. Actual and trend growth 
+Annual percentage change 
+GDP growth
+Trend Growth
+50
+55
+60
+65
+70
+75
+80
+85
+90
+95
+00
+05
+10
+8
+6
+4
+2
+0
+-2
+-4
+-6
+6.5
+6.0
+5.5
+5.0
+4.5
+ 8
+6
+4
+2
+0
+-2
+-4
+-6
+ Note. HP trend derived solely from annual data 1950–2010.  
+Sources: Statistics Sweden and the Riksbank 
+BIS central bankers’ speeches 
+ 9
+3. Resource utilisation and inflation 
+Correlation between different measures of resource utilisation  
+and CPIF inflation, 0–12 quarters ahead 
+GDP gap (PF)
+Hours gap (PF)
+RU indicator
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+-0.2
+-0.4
+-0.6
+Note. Estimation period is 1997–2006. 
+Sources: Statistics Sweden and the Riksbank 
+4. Total factor productivity 
+Logarithmed levels 
+-3.3
+-3.4
+-3.5
+-3.6
+-3.7
+-3.8
+-3.9
+80
+Actual TFP
+TFP, forecast
+Potential TFP
+85
+90
+95
+00
+05
+10
+15
+20
+1.0
+0.8
+0.6
+0.4
+0.2
+0.0
+-0.2
+-0.4
+-0.6
+ -3.3
+-3.4
+-3.5
+-3.6
+-3.7
+-3.8
+-3.9
+ Source: The Riksbank 
+10 
+ BIS central bankers’ speeches
+5. Capital stock 
+Logarithmed level 
+29.2
+29.0
+28.8
+28.6
+28.4
+28.2
+28.0
+27.8
+80
+85
+90
+95
+00
+05
+10
+15
+20
+Note. Capital services 
+Sources: The OECD and the Riksbank 
+6. Number of hours worked 
+Logarithmed levels 
+Hours
+Hours, forecast
+Hours, potential
+Hours, HP trend
+85
+90
+95
+00
+05
+10
+15
+20
+12.2
+12.2
+12.1
+12.1
+12.0
+12.0
+11.9
+80
+Sources: Statistics Sweden and the Riksbank 
+29.2
+29.0
+28.8
+28.6
+28.4
+28.2
+28.0
+27.8
+12.2
+12.2
+12.1
+12.1
+12.0
+12.0
+11.9
+  BIS central bankers’ speeches 
+ 11
+7. Actual and potential GDP 
+Logarithmed levels 
+GDP
+GDP, forecast
+GDP, potential (PF)
+GDP, HP-trend
+85
+90
+95
+00
+05
+10
+15
+20
+14.0
+13.8
+13.6
+13.4
+13.2
+13.0
+12.8
+80
+Sources: Statistics Sweden and the Riksbank 
+8. GDP gap 
+Per cent 
+GDP gap (HP)
+GDP gap (PF)
+80
+85
+90
+95
+00
+05
+10
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+14.0
+13.8
+13.6
+13.4
+13.2
+13.0
+12.8
+ 6
+4
+2
+0
+-2
+-4
+-6
+-8
+ Note. GDP gap (HP) refers to GDP’s deviation from trend calculated with a HP-
+filter.  GDP  gap  (PF)  refers  to  GDP’s  deviation  from  trend  calculated  with  a 
+production function.  
+Sources: Statistics Sweden and the Riksbank 
+12 
+ BIS central bankers’ speeches
+9. Hours gap 
+Per cent 
+Hours gap (HP)
+Hours gap
+80
+85
+90
+95
+00
+05
+10
+6
+4
+2
+0
+-2
+-4
+-6
+6
+4
+2
+0
+-2
+-4
+-6
+ Note.  Hours  gap  (HP)  refers  to  the  deviation  of  hours  worked  from  trend 
+calculated with a Hodrick Prescott filter. Hours gap refers to the deviation of hours 
+worked from the Riksbank’s assessed trend for hours worked. 
+Sources: Statistics Sweden and the Riksbank 
+10. GDP gap, September and in real time 
+Per cent 
+September 2011
+Real time
+05
+06
+07
+08
+09
+10
+11
+12
+13
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+ Note.  September  2011  refers  to  the  PF  gap.  Real  time  refers  to  the  HP  gap 
+except from October 2010 and onwards when the PF gap is used.  
+Sources: Statistics Sweden and the Riksbank 
+BIS central bankers’ speeches 
+ 13
+11. Capacity utilisation 
+Per cent, seasonally-adjusted data 
+Capacity utilisation in the manufacturing sector
+Mean, 1996-2008
+95
+97
+99
+01
+03
+05
+07
+09
+11
+100
+95
+90
+85
+80
+75
+70
+100
+95
+90
+85
+80
+75
+70
+ Source: Statistics Sweden 
+12. Employment rate 
+Percentage of population aged 16–64 
+85
+80
+75
+70
+65
+60
+Employment rate
+Mean, 2000-2008
+80
+82
+84
+86
+88
+90
+92
+94
+96
+98
+00
+02
+04
+06
+08
+10
+12
+85
+80
+75
+70
+65
+60
+ Source: Statistics Sweden 
+14 
+ BIS central bankers’ speeches
+13. RU indicator and GDP gap 
+Standard deviation and percentage 
+GDP gap (PF)
+RU indicator
+95 96 97 98 99 00 01 02 03 04 05 06 07 08 09 10 11 12 13 14
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+6
+4
+2
+0
+-2
+-4
+-6
+-8
+ Note. The RU indicator has been normalised so that the mean value is 0 and the 
+standard deviation is 1. The reference period is 1996–2008. GDP gap according 
+to production function (PF) approach.  
+Sources: Statistics Sweden and the Riksbank 
+14. Actual and long-term unemployment 
+Per cent of labour force aged 16–64 
+12
+10
+8
+6
+4
+2
+0
+Unemployment
+Unemployment, forecast
+Mean, 2000-2008
+Long-term unemployment
+80
+85
+90
+95
+00
+05
+10
+15
+20
+12
+10
+8
+6
+4
+2
+0
+ Note. Forecast refers to ages 15–74 
+Sources: Statistics Sweden and the Riksbank 
+BIS central bankers’ speeches 
+ 15
+15. Unemployment gap 
+Per cent 
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+80
+85
+90
+95
+00
+05
+10
+5
+4
+3
+2
+1
+0
+-1
+-2
+-3
+-4
+ Note.  Unemployment  gap  refers  to  the  deviation  between  actual  and  long-term 
+unemployment in Figure 14. 
+Sources: Statistics Sweden and the Riksbank 
+16. Labour shortages 
+Percentage of companies, seasonally-adjusted data 
+Labour shortages
+Mean, 1996-2008
+96
+98
+00
+02
+04
+06
+08
+10
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+Source: National Institute of Economic Research 
+50
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+ 16 
+ BIS central bankers’ speeches
+17. Beveridge curve 
+Per cent 
+2008
+2011
+2007
+2001
+2002
+2003
+2006
+2004
+2005
+2009
+2010
+e
+t
+a
+r
+ 
+y
+c
+n
+a
+c
+a
+V
+0.6
+0.5
+0.4
+0.3
+0.2
+0.1
+0.0
+5.0
+5.5
+6.0
+6.5
+7.0
+7.5
+Unemployment
+8.0
+8.5
+9.0
+9.5
+ Note. Years indicate the first quarter of each year. 
+Sources: Statistics Sweden and the Riksbank 
+Table 1.  
+Resource utilisation, second quarter 2011 
+Gap as percentage and RU indicator in standard deviation 
+GDP gap, HP
+GDP gap, PF
+Hours gap, HP
+Hours gap, PF
+Capacity utilisation¹
+Employment rate²
+RU indicator
+Unemployment gap³
+Labour shortage¹
+0.4
+-0.4
+0.3
+-0.8
+-0.3
+0.3
+0.2
+-1.0
+2.3
+ ¹  Deviation from mean value, percentage points, 1996–2008 
+²  Deviation from mean value, percentage points, 2000–2008 
+³  Percentage points, reverse sign 
+BIS central bankers’ speeches 
+ 17

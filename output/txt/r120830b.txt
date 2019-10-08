@@ -1,0 +1,463 @@
+Kiyohiko G. Nishimura: Market intelligence, market information and 
+statistics in central banking 
+Keynote Speech by Mr Kiyohiko G Nishimura, Deputy Governor of the Bank of Japan, to the 
+6th  Irving  Fisher  Committee  Conference,  Bank  for  International  Settlements,  Basel, 
+29 August 2012. 
+ Introduction: statistics, market information and Irving Fisher 
+1. 
+It is a privilege for me to address this keynote speech before the distinguished members  of 
+the  Irving  Fisher  Committee.  I  am  particularly  thrilled,  since  the  name  Irving  Fisher 
+strikes  a  chord  in  my  heart. Irving  Fisher  is  an  iconic  figure  at  Yale University, where I 
+earned my doctorate. In fact, he received the first Ph.D. in economics  ever  granted  by  Yale, 
+in  the  year  1891. I  vividly  remember  his  life-size portrait hung above the mantelpiece of the 
+19th century mansion house, gazing solemnly at faculty members and graduate students. 
+No  new  words  are  needed  to  attest  to  his  monumental  contributions  to  microeconomics, 
+macroeconomics  and  monetary  theory. He  was  also  influential  in laying the foundations of 
+economic statistics, as exemplified in his popular The Making of Index Numbers. In fact he 
+was not content with just theory: he went on to found by himself the Index Number Institute 
+that  engaged  in  computing  commodity  price  indices,  and  thus  became  one  of  the  most 
+popular providers of market information at the time. 
+Unfortunately,  however,  he  failed  to  recognize  the  significance  of  the  Stock Market  Crash 
+of  1929.  Just  three  days  before  the  crash,  he  wrote  that  stock  prices  were  at  a 
+permanently high plateau. And even after the crash, he continued to assure investors that a 
+recovery was just around the corner. This might testify to his failure in “market  intelligence”, 
+in  detecting  the  signs  of  a  fundamental  change  in  the  market place. 
+In  his  latter  days,  though  not  immediately  appreciated  by  the  public  and  the profession, 
+he  presented  a  remarkable  theory  of  debt  deflation  as  an  explanation  of  the  Great 
+Depression.  In  fact,  this  masterful  piece  of  work  is  the  precursor  of  the  vast  literature 
+concerning  financial  stability,  which  is  especially  relevant  in  economic  policy making in the 
+aftermath of the financial crisis of 2008. 
+What then can we central bank statisticians learn from these dramatic ups and downs  in  the 
+life  of  Irving  Fisher? In  fact,  this  is  the  subject  of  this  speech. In particular, I argue that, 
+although reliable macroeconomic statistics are of course necessary for  policy  making,  even 
+good statistics are sometimes grossly insufficient to guide economic policy, especially when 
+a seismic change occurs in the market and the economy. The  recent  financial  crisis  is  an 
+example  of  such  change.  Thus,  central  bankers  should  incorporate  “market  intelligence”, 
+which  I  will  explain  later,  and  non-statistical  market  information,  into  their  arsenal  of 
+statistics.  So  a  central  bank  statistician  should  be  more  than  simply  a  compiler  of 
+well-defined statistics: they should become  a  sort  of  sleuth  or  intelligence  agent,  detecting 
+signs of future developments that may change the world. 
+I  proceed  as  follows.  Section  2  outlines  the  value  of  economic  information  from  the 
+perspective of policy decision making. A key theme here is “market intelligence”, which is the 
+active  gathering  and  analysis  of  market  information  through  central  banking  activities.  To 
+understand  the  importance of market intelligence,  I present three examples, with respect to 
+the past, the present, and the future. Section 3 presents  a  lesson from  the  past. I  examine 
+the  so-called  Paribas  Shock  of  2007,  and  argue  for  the  absolute  necessity  of  “proactive” 
+market  intelligence  to  avoid  this  type  of  financial  crisis.  Section  4  describes  the  current 
+achievements  of  market  intelligence  in  an  area  of  pressing  importance:  property  price 
+statistics.  I  show  that  it  is  possible  to  get  reliable,  unbiased  information  by  combining 
+various  existing  market  information sources, even though individually they may have their 
+BIS central bankers’ speeches 
+ 1 
+own biases. Section 5 concerns the future: detecting problems in shadow banking. Shadow 
+banking involves a complicated structure, so it is necessary to grasp its “interconnectedness” 
+to  gauge  the  magnitude  of  potential  problems.  As  an  example,  I  explain  the  Bank  of 
+Japan’s attempt  to  reveal  the  interconnectedness  of  the  Tokyo  money  markets. Section 
+6 contains some concluding remarks on market intelligence and central bank statistics. 
+faces 
+related 
+two  major  challenges;  one 
+Economic information and policy making 
+2. 
+Contemporary  central  banking 
+accountability, and the other to effective communication. 
+First,  central  banks  should  be  accountable  for  their  policies. This  is  all  the more  important 
+for  those  central  banks  that  have  independence  in  determining  their  monetary  policy. 
+Accountability  means  policy  should  be  evidence-based,  that  is,  based  on  clear  reasoning 
+relying on substantiated data. 
+Second,  central  banks  should  be  effective  communicators.  Markets  and  economies  have 
+become 
+in  economic  agents’  expectations.  To 
+ensure  that  policy  is  effective,  central  banks  must  communicate  with  the  public 
+in  a 
+persuasive  manner. Here  again, data  supporting policy  decisions become important. Thus, 
+for accountability and effective communication, “numbers” or statistics become increasingly 
+important. Moreover, data here means not only quantitative data; qualitative data are equally 
+as important. 
+increasingly  susceptible 
+to  changes 
+to 
+Knowns and unknowns in Central Bank policy 
+To  understand  the  nature  of  the  economic  information  central  banks  want  to  know,  the 
+following three-way classification may be helpful. 
+The  first  type  of  information  concerns  “known  knowns”.  Here  “knowns”  are  whatever 
+happened  in  the  past. Thus,  known  knowns  are  information  about  what happened,  and 
+typical  known  knowns  are  contained  in  statistics. The  second  type  is “known  unknowns”. 
+Here  unknowns  are  those  things  that  are  happening  at  present  or  that  will  emerge  in  the 
+future. They  are known  unknowns,  since  we  already  know that they  are  happening  or  will 
+happen. You may have  come  across  the word  “now-cast”, which is an “estimate” of what is 
+happening now, used in contrast with a “forecast” which predicts  future  events. A  “now-cast” 
+is  a  typical  example  of  a  “known  unknown”.  Finally,  there  is  the  third  type,  called 
+“unknown  unknowns”,  things  previously  unknown  but  potentially  having  a  significant  effect 
+on the economy. Here I quote Donald Rumsfeld,  the  former  U.S.  Secretary  of  Defense, 
+whose  enigmatic  statement  gives perhaps some indication of their nature: 
+“But there are also unknown unknowns – the ones we don’t know we don’t know. 
+And if one looks throughout the history of our country and other free countries, it 
+is the latter category that tend to be the difficult ones.” 
+Keeping in mind this three-way categorization, let me ask the following question: What kind of 
+information  does  a  central  bank  policy  maker  want  to  know  when  he  or  she  decides  on 
+policy? And, in what way is it related to the three-way categorization? 
+First of all, in contemplating appropriate aggregate demand management policy, the  central 
+bank  policy  maker  wants  to  know  the  momentum  of  activity  in  the  economy and  financial 
+markets. However, this is not in itself sufficient. The experience of the recent  financial  crisis 
+has  shown  that  the  central  bank  policy  maker  should  also  be  aware  of  the  signs  of 
+previously  unknown  factors,  unknown  but  potentially  significant  changes  in  the  economy 
+and financial markets. 
+In  fact,  with  respect  to  the  former,  i.e.  macroeconomic  momentum,  we  have  made 
+significant  progress.  There  have  been  improvements  in  the  comprehensiveness,  accuracy 
+and  timeliness  of  macroeconomic  statistics  related  to  aggregate  demand management. 
+2 
+ BIS central bankers’ speeches 
+We  now  have  a  rich  array  of  data,  both  quantitative  as  in  GDP  and  CPI  figures,  and 
+qualitative as in business surveys. Not only public but also private institutions  produce  and 
+disseminate  their  own  data. These  are  either  known  knowns (type 1), or known unknowns 
+(type 2). 
+Statistics  provide  valuable  information  about  known  knowns,  and  they  become  the 
+foundation for estimating known unknowns. However, statistics are grossly insufficient  when 
+it  comes  to  detecting  unknown  unknowns  (type  3).  Central-bank  policy  makers  are 
+frequently frustrated by deficiencies in the statistics available,  which they find inadequate in 
+helping them detect potential problems in the economy. 
+Perceived  deficiency  is  especially  keen  in  financial  information.  It  should  be  noted  that 
+financial  stability  is  now  seen  as  a  prerequisite  for  economic  stability.  Moreover,  policy 
+makers  are  alarmed  by  the  increasingly  strong  negative  feedback  seen  in  recent  years 
+between  financial  malaise  and  economic  stagnation.  The  rapid  development  of  financial 
+factors  confounds  the  problem  of  detecting  malign  symptoms.  Thus,  guarding  against 
+previously  unknown  but  potentially  devastating 
+factors  has  become  one  of  the  most 
+important issues for policy makers. 
+Thus, in November 2009, the G20 Finance Ministers and Central Bank Governors requested 
+statisticians to fill the so-called data gaps. Twenty recommendations  were  submitted  in  the 
+G20  Data  Gaps  Initiative  (DGI)  in  order  to  establish  timely  reporting  schemes  for 
+detecting  both known  unknowns  (type  2),  and unknown unknowns (type 3) . 
+The key to guarding against unknown unknowns 
+A central bank’s  intelligence  activities  are the key to guarding  against unknown unknowns. 
+These consist of two parts. The first is so-called “market intelligence”: the central bank’s daily 
+transactions  with  financial  institutions,  which  provide  various  kinds  of  information  about 
+market  participants,  developments  in  financial  products,  as  well  as  other  “news”.  These 
+pieces of market information are valuable in creating a timely and accurate view of particular 
+institutions and the market as a whole. The gathering and analyzing of this information is the 
+core of “market intelligence”. 
+The  second  part  of  the  central  bank’s  intelligence  activities  is  monitoring  and  feedback. 
+Qualitative or supervisory information can be obtained from regular supervisory dialogue with 
+regulated  entities. They  have  valuable  information,  and  by analyzing it thoroughly we get a 
+grasp  of  the  details  of  market  information,  which  is  then  fed  back  to  these  institutions  if 
+necessary. 
+It  should  be  noted  here  that  information  coming  from  individual  financial  institutions  may 
+include  subjective  or  in  some  cases  biased  content,  regardless  of whether  it  is  market 
+information  or  information  acquired  through  regulatory  monitoring. We should  be  aware  of 
+these biases, and good market intelligence is needed to gauge the extent of such bias and 
+to compensate for it. 
+Lessons from the past: necessity of proactive market intelligence 
+3. 
+Let  me  now  turn  to  three  examples  of  central  bank  intelligence. The  first example is its 
+failure in the past. This is the so-called Paribas Shock of August 9, 2007, the precursor of the 
+global financial crisis of 2008. 
+On July 10, 2007, S&P and Moody’s announced that they would be reviewing the ratings of 
+several  residential  mortgage-backed  securities  (RMBS)  backed  by  subprime  housing  loan 
+assets.  As  a  consequence,  the  AAA  ratings  of  asset-backed  commercial  paper  (ABCP) 
+backed  by  these  RMBS  would  also  be  downgraded  accordingly.  This  looked  like  a  minor 
+change in a marginal market of the US financial system. Unfortunately  however,  within  just 
+one  year,  it  became  the  epicenter  of  a global financial crisis. 
+BIS central bankers’ speeches 
+ 3 
+in  fund-raising  difficulties:  funds  under 
+To understand the problem, we should be aware of the special role of money market funds 
+(MMFs)  in  the  United  States.  US  MMFs  were  considered  to  be  extremely  safe  financial 
+assets. One  of  the  primary  reasons  for  this  was  that  MMFs  were  only allowed to invest in 
+AAA-rated  assets.  Therefore,  when  ratings  were  downgraded  for  ABCP,  MMFs  did  not 
+reinvest  in  ABCP.  Then,  funds  that  originated  ABCP  and  used  it  to  raise  money  found 
+themselves 
+the  Bear  Stearns  umbrella  went 
+bankrupt;  BNP  Paribas  moved  to  freeze  its  affiliated  funds’  new  applications  and 
+redemptions. These  funds  were  the  structured  investment  vehicles (SIV) created by banks 
+to  issue  ABCP. When  these  SIVs  were  unable  to  find funding sources,  their  parent  banks 
+were forced to provide liquidity enhancement instead. At that time, nobody knew for certain 
+which  banks’  SIVs  were  on  the  brink  of  extinction, and  which  banks  had  serious  liquidity 
+problems.  Banks,  which  frequently  lend  each  other  money,  suddenly  became  aware  of 
+counterparty risk, the risk that the other party in  a  transaction  might  suddenly  go  belly  up. 
+They  began  to  worry  that  some  bank  somewhere  might  suddenly  be  unable  to  secure 
+liquidity and fail. 
+Indeed,  on  August  9,  a  liquidity  crisis  actually  occurred,  with  liquidity  drying  up quickly  in 
+the 
+facing  liquidity 
+difficulties.  Chart  1  shows  an  unprecedented  spike  in  the  three  month  LIBOR-OIS 
+spread,  showing  the  heightened  risk  premium  in 
+the  European  interbank  market.  A 
+liquidity crunch in interbank markets started, and it spread immediately to the United States 
+(Chart  2).  Confronted  with  this  situation,  the  European  Central  Bank  (ECB)  promptly 
+announced that it was prepared to supply massive  amounts  of  liquidity  into  the  short-term 
+money  market. This  was  the  event that came to be known as the Paribas Shock. 
+interbank  market.  Many  European  banks  were  among 
+those 
+Lesson: necessity of proactive market intelligence 
+The  circumstances  surrounding  the  Paribas  Shock  naturally  beg  the  question:  Was  this 
+event avoidable? Or at least, was there any telling sign that this type of event was just around 
+the corner? 
+As  the  description  of  the  event  shows,  there  are  four  important  pieces  of information 
+that  the  policy  makers  should  have  known  and  which  would  have  helped  prevent  this 
+event. The first is the asset position of the MMFs: their composition and quality. MMFs held 
+a large amount of  AAA-rated ABCPs of  SIVs whose parents were European as well as US 
+banks. These ABCPs were backed by US subprime loans, so that if the subprime loans were 
+downgraded then these ABCPs would also be downgraded. The second vital information is 
+possible side effects of the legal constraints  upon  the  MMFs. MMFs  could  hold  only  AAA-
+rated  assets  so  that,  if  US subprime  loans  were  downgraded,  MMFs  could  not  reinvest 
+in  ABCPs  of  the  SIVs. The  third  and  most  crucial  information  policy  makers  should  have 
+had  is  knowledge  of  banks’  involvement  in  their  SIVs.  To  what  extent  were  those  banks 
+obliged to support their  SIVs  with  liquidity  injections? Here  it  was  not  only  a  question  of 
+contractual  arrangements,  but  reputations  were  also  at  stake.  The  fourth  piece  of  vital 
+information  is  knowledge  about  the  inter-connectedness  among  banks  in  the  interbank 
+market. 
+It  is  clear  that  existing  statistics  and  routine  market  intelligence  were  grossly insufficient to 
+gather  the  above  four  pieces  of  vital  information.  To  my  knowledge,  few,  if  any,  market 
+participants  flagged  the  alarms  that  should  have  been  raised  by  any  of these four points. 
+No statistics ever pointed out the danger. 
+However, there were several, though obscure, signs flagging a possible problem, so  that a 
+market intelligence unit alarmed by these signs might have detected the  problem  and  could 
+have  helped  policy  makers  avoid  the  disaster. In  particular, there was a telling sign in the 
+statistics  about  US  MMFs.  Chart  3  shows  an  upward  trend  in  the  total  assets  of  the  US 
+MMFs  in  the  first  half  of  2007.  The  growth  rate  of  MMFs  was  fast,  though  it  did  not  look 
+extraordinary. However, if you look at the share  of  “safe  assets”,  it  actually  declined  from 
+the  start  of  the  year.  So,  this  chart  shows  that  by  looking  into  these  figures,  one  might 
+4 
+ BIS central bankers’ speeches 
+have found some sign of abnormal risk taking in non-safe assets, including ABCP. Thus, if in 
+addition,  the  market  intelligence  unit  had  detected  the  heavy  involvement  of  banks  in 
+their  SIVs  issuing these  ABCP,  the  unit  might  have  sensed  a  possible  danger  of  liquidity 
+crisis  in  the interbank  market,  and  might  have  been  able  to  help  the  authorities  prevent 
+the crisis. In fact, after the Paribas Shock, the safe asset share jumped considerably and the 
+total assets also skyrocketed, showing the strong flight to safety that devastated the ABCP 
+market, and the ABS market in general. 
+To  sum  up,  it  is  not  clear  whether  the  liquidity  crisis  in  the  summer  of  2007 could have 
+been avoided. However, proactive market intelligence, that is, detection of possible problems 
+in  the  market  based  on  careful  monitoring  of  market  developments and  thorough  analysis 
+of  market  statistics,  might  have  helped  contain  if  not  avoid  the  turmoil  in  the  interbank 
+market, and thus might have ultimately lessened if  not negated the severity of the financial 
+crisis of the following year. 
+Bearing  this  in  mind,  the  Fed  and  other  central  banks,  as  well  as  private institutions, 
+have  begun  to  collect  and  compile  a  wide  range  of  statistics  that  capture securitization. In 
+particular, Chart 4 shows details of the asset composition of US MMFs. The chart indicates 
+that MMFs may have already increased investment in commercial papers in 2006, the year 
+before the Paribas Shock. 
+Present achievement: best use of existing market information 
+4. 
+Let  me  now  turn  to  the  second  example,  which  is  the  present  achievement  of  market 
+intelligence. This  is  about  property  prices,  and  the  issue  is  the  timing  of  the availability of 
+market information. 
+The financial crisis of 2008 was triggered by the bubble and subsequent bust in US house 
+prices. There is a wealth of evidence detailing the close relationship between property price 
+bubbles  and  financial  crises.  International  panel  studies  show  more  than  two-thirds  of 
+46 systemic banking crises were preceded by house price boom-bust patterns, while 35 out 
+of  51  house  price-bust  episodes  were  followed  by  a  crisis.1  However,  we  have  not  had 
+access  to  good  property  price  indexes,  based  on  sound  economic  foundations  and 
+comparable between countries and jurisdictions. Frustrated by this deficiency, in November 
+2009, the G20 Ministers and Central Governors designated property price indexes as one of 
+the most important data gaps to be filled. 
+To  rectify  the  problem,  several  conferences  were  held  under  the  leadership  of  Eurostat, 
+which gathered a wide range of experts on property prices from theory to data compilation. 
+Based  on 
+the  Handbook  on  Residential 
+Property  Price  Indices  has  been  drafted,  and  the  finalized  version  of  the Handbook will be 
+published very soon. Moreover, many countries and jurisdictions are now preparing their own 
+property price indexes in accordance with the recommendations  of  the  Handbook. In  fact,  I 
+have  learned  that  Japan’s  Ministry  of  Land,  Infrastructure,  Transport  and  Tourism  has 
+almost  completed  the  development  of  a  new  series  of  residential  property  price  indexes 
+using  the  procedure  recommended  in the  Handbook,  and  the  Ministry  is  about  to  start 
+publishing  new  statistics  just  this morning. 
+these  conferences  and  public  comments, 
+                                                
+1  Claessens,  Stijn,  M.  Ayhan  Kose,  and  Marco  E.  Terrones,  (2008),  “What  Happens  During  Recessions, 
+Crunches and Busts?” IMF Working Paper 08/274 (Washington: International Monetary Fund) and Claessens, 
+Stijn,  Giovanni  Dell’Ariccia,  Deniz  Igan,  and  Luc  Laeven,  (2010),  “Cross-Country  Experiences  and  Policy 
+Implications from the Global Financial Crisis”, Economic Policy, Volume 25, pp. 267–293. 
+BIS central bankers’ speeches 
+ 5 
+Issue of timeliness 
+This  is  a  great  leap  forward  indeed  towards  having  reliable  and  accurate property price 
+information.  However,  from  the  policy  maker’s  viewpoint,  the  situation  is  still  far  from 
+satisfactory. It  should  be  emphasized  that,  for  a  policy  maker,  timely information  is  as 
+important  as,  or  in  some  cases  more  important  than,  reliable  and accurate  information. 
+According  to this  criterion,  many  property  price  indexes  are  not helpful in immediate policy 
+making, since they inevitably lag behind market movements. 
+To  see  why,  let  me  give  you  the  example  of  a  typical  Japanese  property transaction. 
+Property  transactions  follow  a  series  of  stages  several  weeks  apart  from each  other,  and 
+each  stage  usually  entails  different  prices,  namely:  the  initial  asking price, P1; the offered 
+price, P2; the contract price, P3; and the price that is filed with the land registry office, P4. My 
+collaborators and I have been able to get a unique data set of  a  large  number  of  property 
+transactions  in  Greater  Tokyo  which  illustrates  these  four  stages.  Here  I  will  present  the 
+results based on this data set.2 
+Chart  5  depicts  the  timeline  graphically. From  P1  to  P2  takes  on average ten weeks, form 
+P2 to P3 five and a half weeks, and finally from P3 to P4 fifteen and a half weeks. Thus, from 
+P1 to P4 takes almost thirty one weeks, more than a half year. We  should  also  take  into 
+account  the  time  taken  to  collect  and  compile  the information, which is itself  likely to be 
+substantial,  as  in  the  case  of  GDP  and  CPI  data.  Thus,  if  the  authorities  use  the  most 
+reliable  transaction  price  data  of  P4,  it  will  probably  take  almost  a  year.  From  the  policy 
+maker’s viewpoint, this is often too late. 
+To get the timeliest information about property market conditions, earlier reporting of P1, the 
+initial asking price, is preferable. However, this is the asking price, not  the  transaction  price. 
+There might  be a substantial bias in this asking price data because a seller wants to sell at 
+a higher price, even though it may take much longer to strike  a  deal  or  he  is  never  able  to 
+sell. In  fact,  Chart  6  shows  the  price distribution of P1, P2, P3 and P4. As expected, the 
+initial asking price P1 has a higher average  than  the  price  P4  at  the  registry  office  (though 
+there  is  the  caveat  that  the sample  population  of  P1  is  not  exactly  the  same  as  that  of 
+P4). Thus,  we  face  an apparent trade-off: if you want timely information then you use P1, but 
+it has non-negligible  bias. If  you  want  accurate  information,  then  you  use  P4,  but  it  has 
+already become somewhat stale information by the time it is available. 
+Best use of market information 
+There  is,  however,  an  important  way  around  this  dilemma.  It  should  be  noted  that  the 
+Handbook  recommends  hedonic  quality  adjustment  in  property  price  indexes  based  on 
+detailed  micro  and  macro  market  information. There  are  various  ways  to conduct hedonic 
+quality adjustment, among which a hedonic quantile regression approach is one of the most 
+sophisticated and robust. Remarkably, after applying this quality adjustment to both P1 and 
+P4 of our data set, we find the quality-adjusted price distribution based on P1 is very close 
+to, and almost indistinguishable from, the quality-adjusted price distribution based on P4. 
+Let us look at Chart 7, the quantile-quantile plots of two distributions. In the quantile-quantile 
+graph,  if  two  distributions  are  identical  then  the  plotted  line  is  on  the  45  degree  line.  The 
+upper chart illustrates the result of raw or unadjusted data of P1 (initial asking price) and P4 
+(registered transaction price). This chart clearly shows the  upward  bias  in  the  initial  asking 
+price  relative  to  the  registered  transaction  price. However, when quality is adjusted using a 
+hedonic quantile regression method, the bias seems almost to have vanished, as shown in 
+the lower chart. 
+                                                
+2  Shimizu, C., K. G. Nishimura, and T. Watanabe (2011) “House Prices at Different Stages of the Buying/Selling 
+Process”,  Working  Paper  no.  69,  Research  Center  for  Price  Dynamics,  Institute  of  Economic  Research, 
+Hitotsubashi University. 
+6 
+ BIS central bankers’ speeches 
+In a nut-shell, the result of this study shows that the initial asking price data, the timeliest  of 
+all  price  information,  can  be  used  as  reliable  information  about  property prices,  so  long 
+as quality is appropriately adjusted using a hedonic quantile regression method. So  we  can 
+benefit  from  the  best  use  of  market  information,  with  respect  to  both  reliability  and 
+timeliness. 
+5. 
+Guarding  against  future  problems:  shadow  banking  and  basic  information 
+Gathering 
+So  far,  we  have  examined  the  importance  of  market  intelligence  and  the  best  use  of 
+market  information  in  the  past  and  the  present. I  am  now  looking  towards  the future, and 
+considering  what  is  needed  to  guard  against  future  problems.  The  pressing  problem  that 
+comes  first  to  mind  is  that  of  shadow  banking,  a  problem  in  the  past,  but still  a  potential 
+problem  in  the future. Since  regulations  on  banks  are  to  be  tightened further, new types of 
+shadow banking may appear,  little known  at present but  potentially threatening  to financial 
+stability in the future. 
+Modern  shadow  banking  activities  are  largely  based  on  financial  markets,  and  hence  are 
+likely to create innovation there. They change themselves rapidly in response to changes in 
+market  conditions  and  regulations.  Moreover,  they  have  broad  interconnectedness  with 
+banks and other financial institutions. Given this situation, in what  way should central banks 
+gather  valid  and  vital  information  about  them? Here again, I believe that the key is to utilize 
+various sources of market intelligence alongside other sources of information. Furthermore, I 
+would  like  to  stress  that  the  intelligence  work  should  be  properly  followed  by  the 
+establishment of new statistics about shadow banking. 
+Various approaches of market intelligence 
+Let  me  explain  the  efforts  of  the  Bank  of  Japan  in  this  respect.  The  Bank  monitors 
+shadow  banking  entities  and  activities  through  various  channels. The  nature and  scope of 
+the Bank’s monitoring are depicted in Chart 8. Amongst these channels,  direct  monitoring  of 
+major  shadow  banking  entities  is  of  course  the  most  significant.  Thus,  the  bank  has 
+increased the number of staff directly monitoring major securities  companies. However,  it  is 
+practically  impossible  to  conduct  dialogues  with  all  financial  institutions  of  a  shadow 
+banking  nature,  and  moreover,  shadow  banking  activities  tend  to  change  rapidly  with 
+developments  in  financial  markets.  It  should  be  noted  that  shadow  banking  entities  are 
+deeply  involved  in  funding  and  investment  with  various  financial  institutions.  So  indirect 
+monitoring  through  banks,  monitoring  through  the  payments  and  settlements  system,  and 
+market  intelligence  through  market  participants  all  become  important.  The  Bank  also 
+closely  watches  shadow  banking activities in securitization, securities lending and repos. 
+For instance, we have started direct monitoring of hedge funds and investment trusts  as  well 
+using  market 
+than  before. 
+Furthermore,  although  we  do  not  directly  monitor  finance  companies,  since large  finance 
+companies  are  owned  by  banks,  we  monitor  them  by  monitoring  the banks. 
+It is then crucial to cross-check the information gathered. Chart 9 illustrates the point. In this 
+regard, it is important to monitor banks as counterparties of shadow  banking entities. This  is 
+because  bank  activities  are 
+interconnected  with  shadow  banking  activities.  Market 
+information in the financial markets is also particularly valuable. Central banks  are especially 
+well-positioned  to  collect  valuable information  on  the  activities  of  participants  in  financial 
+markets,  since  they  not  only  gather  information  relevant  to  monetary  policy,  but  they 
+also  operate  payment  and  settlement  systems.  Information  on  market  practices  and 
+financial  innovations  can often  provide  early  warning  of  risks,  and  hence  are  especially 
+important  among  the various kinds of market intelligence. 
+through  market  participants  much  more 
+intelligence 
+BIS central bankers’ speeches 
+ 7 
+The case in point is found in the subprime mortgage crisis in the United States. Securitized 
+products  were  originated  with  financial  engineering  and  distributed  without appropriate  risk 
+assessment. This  was  partly  due  to  an  overly  optimistic  assessment of  risk  diversification. 
+However,  this  risk  became  increasingly  visible  in  the  market  as the market evolved into a 
+new phase. 
+Feedback of market intelligence 
+Another important role of market intelligence is to feed information back to the market, and 
+thus to find potential information gaps to be filled. For example, based on market intelligence, 
+the Bank of Japan designs and compiles the “Tokyo Money Market Survey”, which provides 
+an overall quantitative assessment of the money markets.3 
+The  survey  depicts,  among  other  things,  the  current  interconnectedness  among  financial 
+institutions  through  repo  transactions,  as  is  shown  in  Chart  10.  This  chart  shows  that 
+securities  companies  borrow  specific  JGBs  through  SC repos  mainly  to  cover  their  short 
+position  in  bond  trading.  Most  of  their  short-term  money  is  funded  through  GC  repos 
+from  trust  banks,  while  some  funds  come  from banks and money market dealers. 
+This  kind  of  quantitative  understanding  provides  both  new  perspectives  for central  bank 
+business  and  wider  grounds 
+institutions  and  market 
+participants.  In  fact,  the  result  of  these  dialogues  will  be  examined  and  used  by  financial 
+institutions  to  develop  more  sound  business  practices.  Also,  the  feedback  of any  relevant 
+information  will  be  reflected  in  the  next  survey  data.  Starting  this  year,  we  will  begin  to 
+conduct this survey regularly. 
+Overall, market intelligence is absolutely crucial for central banks in maintaining the  stability 
+of  the  financial  system. I  believe  that  this  flexible  system  of  monitoring shadow  banking 
+entities  and  activities,  based  on  market  intelligence,  can  provide  a  good  pilot  study for 
+other central banks to consider when they want to identify emerging risks and vulnerabilities 
+in their own countries and jurisdictions. 
+for  dialogue  with 
+financial 
+Concluding remarks 
+6. 
+Let  me  now  come  to  my  conclusion. As  we  all  know  and  feel,  central  banks around  the 
+world have faced serious challenges, especially since the financial crisis of 2008. Financial 
+stability is now clearly marked as an essential prerequisite for economic  stability,  and  it  is 
+thus  the  responsibility  of  central  banks  to  maintain  this stability.  Moreover,  the financial 
+turmoil following the collapse of Lehman Brothers, and still  lingering  somewhat  in  the global 
+market,  has  clearly  proved  that  existing  statistics  are  not  sufficient  for  policy  making,  in 
+particular policy making involving financial markets. Financial  markets  are  fast  moving  and 
+“mutate”  in  many  ways  in  a  relatively short  period  of  time. Therefore,  I  have  argued  in 
+this  speech  that  gathering  and  thoroughly  analyzing  market  information,  which  is  often 
+described  as  market  intelligence,  is  of  the  utmost  importance  and  should  be  utilized 
+proactively alongside conventional economic statistics. 
+The  reason  I  have  stressed  market  intelligence,  or  more  specifically,  central  bank 
+intelligence, is that central banks have a clear comparative advantage in extracting valuable 
+and  vital  information,  especially  from  financial  markets.  Central  banks  are  the  unique 
+organization that transacts with the widest range of financial market participants. 
+I  have  explained  how  this  market  intelligence  works  in  the  case  of  shadow  banking  in 
+Japan.  The  most  important  point  is  to  extend  these  intelligence  activities  to  new 
+financial institutions and products to detect possible problems. The existing framework at  the 
+                                                
+3  Bank  of  Japan,  Financial  Markets  Department  (2009, 2010),  “The  Development and  Challenges  of Japan’s 
+Money Markets: Tokyo Money Market Survey” (available only in Japanese). 
+8 
+ BIS central bankers’ speeches 
+Bank  of  Japan  is  versatile  and  can  incorporate  new  elements  relatively  easily. However, 
+problems  remain  about  the  depth  or  intensity  of  these  intelligence  activities:  that  is,  the 
+quantity  and  quality  of  information  currently  available  may  not  be  sufficient  for  detecting 
+possible risks. Thus, we are only at the starting line, and there is still a long way to go. 
+Finally,  I  should  emphasize  that  market  intelligence  has  significantly  improved  central 
+banks’ economic  statistics,  and  will  continue  to  do  so  in  the  future. We  have learned from 
+the  failures  in  the  summer  of  2007,  that  we  must  extend  the  coverage  and  improve  the 
+quality  of  statistics  concerning  non-depository  financial  institutions.  We  can  also  take 
+advantage  of  new  methods  and  new  information  sources  to  get  the  best  use  of  market 
+information  in  constructing  timely  statistics,  as  shown  in  the  case  of property prices. 
+In closing, I would like to emphasize again the point I stated in the Introduction, the point that 
+I  would  most  like  to  convey  to  you.  Central  bank  statisticians  should  be  more  than  good 
+statisticians,  simply  maintaining  the  quality  of  existing  statistics. They should also be good 
+sleuths or intelligence agents, detecting signs of future developments that may change those 
+statistics, and thus may change our world. 
+Thank you for your kind attention.  
+ 
+ BIS central bankers’ speeches 
+ 9 
+    10 
+ BIS central bankers’ speeches 
+   BIS central bankers’ speeches 
+ 11 
+   12 
+ BIS central bankers’ speeches 
+   BIS central bankers’ speeches 
+ 13 
+    14 
+ BIS central bankers’ speeches 

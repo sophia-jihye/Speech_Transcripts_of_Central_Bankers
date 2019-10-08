@@ -1,0 +1,301 @@
+Shyamala Gopinath: Technology in banks – responding to the emerging 
+challenges 
+Inaugural  address  by  Ms  Shyamala  Gopinath,  Deputy  Governor  of  the  Reserve  Bank  of 
+India, at the CII’s BANKing TECH Summit 2009, Mumbai, 23 March 2009.  
+Assistance  provided  by  Mr  Ganesh  Kumar  and  Mr  Sujit  K.  Arvind  in  preparation  of  the  address  is  gratefully 
+acknowledged.  
+ Ladies  and  gentlemen,  a  very  good  morning.  A  central  banker  addressing  an  impressive 
+gathering of technology experts on a topic which is their very own – to say the least, is a 
+formidable task. In the current global financial context, though, I may not be surprised if many 
+central banks, as regulators of banking and other financial institutions get more engaged with 
+the technology aspects of the regulated institutions’ operations. 
+It is not hard to miss the role played by greater technological integration in transforming the 
+image of banking as model centric blackboxes, unrecognizable from the traditional brick-and 
+mortar systems. Not surprisingly, the internal audit and financial reporting systems within the 
+banks  were  not  given  similar  focus  probably  because  effective,  real  time  data  analytics 
+requires huge data crunching that involves cost. It may be something to ponder that while a 
+lot of focus is given to using technology to manage client and customer accounts at banks 
+and the trading systems, the same level of sophistication does not extend to internal auditing, 
+accounting and financial reports.  
+In India, the situation of the banks is quite different from the banks overseas particularly in 
+developed markets. Indian banks are not facing huge write downs or losses and are still quite 
+well  capitalized.  There  may  be  a  slowdown  in  credit  but  that  is  more  a  reflection  of  the 
+broader  economic  slowdown-the  impact  of  the  real  sector  on  the  financial  sector.  In  this 
+context,  for  India  the  theme  of  the  seminar,  which  refers  to  ‘sustaining  the  growth 
+momentum’ is quite apt.  
+Globally,  the  IT  spends  of  financial  institutions  are  expected  to  go  down  drastically  in 
+2009-10. In India, however, this could be an opportune moment for banks to focus on the 
+internal processes and consolidate their IT platforms across functionalities to use technology 
+as an effective strategic tool. It is also an opportunity for the technology companies to gear 
+up to meet the demands of the domestic market for new technology as well as expanding 
+existing technologies. 
+The  use  of technology  in  India  has undergone  rapid  transformation.  The  last  two  decades 
+have witnessed a sea change in the nature of services offered by not only banks but also the 
+financial sector and even the Government - all of which have had a positive impact on the 
+customers of these organizations and the general public at large.  
+Technology and payment systems initiatives 
+Let me dwell briefly now on the various technological and payment systems developmental 
+initiatives undertaken in the Indian banking and financial sector. Though, we are moving from 
+‘brick  and  mortar’  banking  concepts  to  ‘virtual’  banking  concepts  gradually  in  view  of  IT 
+penetration in every sphere of banking, banking with physical presence is going to stay in 
+India  due  to  the  unique  nature  of  the  Indian  banking  and  varied  Indian  demographic 
+structure.  
+BIS Review 43/2009 
+ 1
+Starting from the Rangarajan Committee report in early 1990s which started the process of 
+branch automation in banks, banks have witnessed a lot of changes on the technology front 
+during  the  last  18  years.  The  banks  in  India  started  from  a  disparate  IT  infrastructure  in 
+general  and  moved  over  to  consolidation  and  virtualization  of  databases  and  servers 
+gradually  over  the  years  in  order  to  achieve  efficiency,  cost  reduction,  improvement  in 
+customer services and to address the issues arising from competition from the other market 
+players. Use of technology in a large but judicious way provides relief in the form of more 
+effective work processes, reduced costs of processing and the capability to handle relatively 
+large transaction volumes with remarkable ease. The Core Banking concept to a great extent 
+emerged  from  this  centralisation  process  and  has  since  received  a  complete  and  focused 
+attention from all the banks for its rapid implementation. The banks have also undergone a 
+massive change in terms of improvement in the IT Communication network which has greatly 
+facilitated  not  only  the  networking  of  the  internal  communication  processes  but  the 
+integration with the external payment systems gateways as well.  
+In regard to the implementation of ‘Core Banking’ and ‘Electronic Banking’ banks have made 
+considerable progress in recent years as far as the centralization of customers’ accounts are 
+concerned; however, we can also think of making it more useful by expanding the coverage 
+of  Core  Banking  Systems  (CBS)  and  all  the  essential  services  /  banking  products  like 
+treasury,  Customer  Relationship  Management  (CRM),  Corporate  Banking,  Management 
+Information  Systems  (MIS),  etc.  getting  seamlessly  integrated  into  the  present  CBS.  The 
+offering  of  electronic  banking  service  channels  like  Internet  Banking,  Mobile  Banking,  real 
+time  fund  transfer,  ATM  Applications  and  other  forms  of  upcoming  electronic  banking 
+channels  have  become  important  vehicles  of  offering  banking  services  in  a  cost-efficient 
+manner with wide geographical spread; enhancing the banks’ reputation and brand building 
+addressing the competitive forces as well.  
+We have also seen the developments in the communication network and messaging system 
+in India as a whole in the form of Indian Financial Network (INFINET), Structured Financial 
+Messaging  System  (SFMS),  VSAT  connectivity,  cable  and  leased  line  connection,  fiber 
+optics  channels,  etc.  There  have  been  marked  improvements  in  the  Indian  payment  and 
+settlement  systems  in  the  form  of  popularizing  and  strengthening  of  Real  Time  Gross 
+Settlement  (RTGS),  Centralised  Fund  Management  System  (CFMS),  Electronic  Clearing 
+System  (ECS),  National  Electronic  Fund  Transfer  (NEFT),  Cheque  Truncation,  National 
+Financial  Switch  (NFS),  developments  and  initiatives  at  Clearing  Corporation  of  India  Ltd. 
+(CCIL) platform, ATMs, electronic banking channels etc. to name a few.  
+The  facility  for  inter-bank  funds  settlement  through  RTGS  is  available  today  across  more 
+than 53,000 branches of banks spread across the length and breadth of the country. Today 
+while  we  have  settled  close  to  100,000  transactions  in  the  RTGS,  the  average  is  around 
+60,000 per day. Therefore the volume of transactions per branch is still in single digits. At the 
+same time the country is clearing paper cheques close to 50 lakhs per day, with the so called 
+High Value Clearing clocking large volumes. The high value clearing which settles on T+0 
+basis was introduced in this country when we did not have any electronic products. Today 
+this clearing entails high levels of operational risk. It is time that we migrate this to electronic 
+mode. RBI would soon be coming out with an approach document in this regard.  
+However,  despite  the  use  of  electronic  methods  of  payments,  the  use  of  cheques  will 
+continue. In order to improve efficiency, reduce operational risk and time taken for cheque 
+processing, the Reserve Bank has initiated steps to introduce a Cheque Truncation System 
+(CTS).  A  pilot  project  has commenced  in  the  National  Capital  Region  in  Delhi  where 
+processing volumes have picked up substantially and about 70% of the cheques are being 
+routed  through  the  CTS.  We  are  now  expanding  the  CTS  to  other  centres.  Ultimately  the 
+whole country would be connected through 6 or 7 Grids. The next grid is planned for Chennai 
+covering the southern centres. 
+2 
+ BIS Review 43/2009
+RBI set up an exclusive institution called the Institute for Development Research in Banking 
+Technology more popularly known as IDRBT at Hyderabad in 1997, which implemented, in 
+1999, the Closed User Group network – the INFINET – as mentioned by me earlier. This was 
+aimed at sharing expensive IT resources so as to achieve the economies of scale. One of 
+the  notable  achievements  of  the  IDRBT  has  been  the  implementation  of  Public  Key 
+Infrastructure  (PKI)-based  electronic  data  transfer  with  very  high  security  levels.  It  also 
+developed  a  messaging  standard  called  SFMS  with  security  features  far  superior  to  even 
+SWIFT  which  hastened  the  computerization  efforts  in  the  financial  sector.  Today  INFINET 
+has migrated to the latest MPLS technology in an effort to offer state of the art network. 
+Technological risk factors 
+All these technological developments as mentioned earlier have undoubtedly led to greater 
+efficiency and speed which has resulted in enhanced customer satisfaction. At the same it 
+has opened a floodgate of concerns due to the risk factors involved in the implementation. 
+Let me now discuss some of these important risk factors involved in this regard. If we glance 
+across  some  of  the  major  frauds  across  countries,  it  is  evident  that  many  institutions  and 
+banks have suffered a great deal of loss either due to the deficiencies in the internal control 
+processes of the IT implementation or due to the deficiencies in the software and hardware 
+itself. These frauds were perpetrated usually by a single person by taking advantage of the 
+lax  internal  control  processes,  in  spite  of  the  technology  safeguards  put  in  place  to  check 
+such deficiencies. It reminds and cautions us of the fact that technology is not an end in itself 
+and at most is a facilitator, to be used optimally and judiciously.  
+Another set of IT risks which are gaining importance these days are related to software and 
+hardware  glitches  in  the  technology  implementation.  To  name  a  few  such  risks  like, 
+‘Phishing’,  ‘SQL  Injection’,  ‘Advance  Fee  frauds’,  Database  and  Server  Hacking,  Network 
+attacks, ‘Denial of Service’ attack, Web Defacing, Cross Site scripting, IP Spoofing, Man-in-
+the Middle Attacks etc. have resulted in huge losses for the banks and customers across the 
+globe. Particularly in recent times, security experts and the federal government in the US are 
+warning  that  scam  artists  are  leveraging  public  concern  over  the  global  financial  crisis  to 
+steal sensitive financial data and spread malicious software. 
+Credit card frauds are also on the rise. Large numbers of   customers’ accounts and credit 
+card  holders’  accounts  have  been  compromised  in  the  past  resulting  in  not  only  financial 
+loss,  but  also  legal  risk  and  reputational  loss  in  the  market.  These  electronic  windows 
+irrespective of the usage percentage and pattern have opened a new gate into the banks’ 
+Information Systems’ components which can be exploited by hackers, inside employees or 
+even ex-employees to name a few. Money Laundering risk through electronic channel and its 
+countering  is  also  a  challenging  task  for  the  banking  and  financial  system.  Though  Indian 
+financial system has not been affected to that extent from these risk factors as compared to 
+its counterpart abroad, the strengthening of the electronic banking channel by the banks and 
+systems’  participants  will  greatly  assist  in  banks’  and  financial  institutions’  efforts  for 
+sustaining and consolidating the business growth and above all maintaining confidence.   
+A few organisational issues 
+IS Security, IS Audit and adoption of international standards 
+The  Information  System  (IS)  Security  issues,  Information  System  Audit  and  adoption  of 
+international  standards  in  the  technology  domain  are  the  other  challenges  for  the  Indian 
+banks today. These have become more pertinent in view of data breach cases in India as 
+well as abroad in recent times. The financial institutions should conduct IS Auditing in such a 
+manner to ensure that Information Systems security policies and standards are enforced in 
+the bank on a ‘continuous’ basis rather than at the end of the specified cycle or on a spot 
+BIS Review 43/2009 
+ 3
+basis. The failure to do so may result in serious internal control lapses resulting in loss as I 
+had mentioned earlier.    
+The adoption of international standards and industry’s best practices in the IT sphere by the 
+financial institutions would certainly result in benefits for them and supplement their efforts for 
+sustaining  growth.  In  this  regard,  adoption  of  ISO/IEC  38500  Standard,  which  is  the  first 
+international standard for IT governance may help organisations for establishing an efficient 
+and effective framework for IT governance for a better alignment of IT and business goals. 
+The standard provides a single integrated framework that enables the financial institutions to 
+take the full advantages of other standards / frameworks. 
+Change Management 
+Another  major  challenge  which  Indian  banks  /  financial  institutions  would  encounter  apart 
+from the emerging IT Threats is the ‘Change Management’ issue and the shortage of skilled 
+IT  personnel  in  technology  development  and  the  Information  Systems  security  and  audit 
+area. It is imperative, therefore, that banks adopt standardised methods and procedures for 
+all technological changes in the organisation to bring efficiency and to save the consequent 
+problems 
+‘Change 
+Management’ principles. In this background and especially in the light of shortage of skilled 
+qualified  IS  Security  and  Audit  personnel  at  present,  the  issues  like  staff  selection,  staff 
+retention, staff posting, staff rotation, staff screening, etc. have become more relevant today. 
+I would further like to emphasize the fact that the success of any technological initiative is 
+dependent on  ‘technology’  factors only  to  the  extent  of  50%  and  the  rest  is  dependent  on 
+how the organisation manages the ‘human’ element in it. 
+that  any  organisation  usually 
+to  non-adherence 
+faces  due 
+to 
+IT outsourcing 
+The  ‘outsourcing’  of  IT  activities  in  banks  is  also  an  area  to  be  looked  into  closely  by  the 
+banks.  In  many  countries,  frauds  or  data  breach  cases  leading  to  legal  tangles  and 
+reputational loss have been witnessed either due to the ‘loose’ outsourcing contract, deficient 
+internal  controls  in  managing  the  vendors  or  complete  reliance  on  the  vendors  even  for 
+critical  banking  activities  support  from  technical  perspective.  More  prudence  and  timely 
+corrective actions would benefit the financial institutions in this regard to avoid any functional, 
+financial or reputational repercussions.  
+Business Continuity and Disaster Recovery Management  
+A robust and time-tested Business Continuity’ and ‘Disaster Recovery’ Management plan has 
+also become a necessity and need of the hour due to work-processes’ dependency on IT. 
+The plan should not only be a ‘good plan’ on paper, but one that can be implemented in real 
+life scenario as well with practical ease. To achieve this, the banks must conduct mock test 
+of their BCP and DRP of their IT logistics, Data Centres, Communication channels at regular 
+intervals  in  real  life  scenario  and  compare  the  ‘Recovery  Time  Objective  (RTO)’  and 
+‘Recovery Point Objective (RPO)’ outputs of the mock runs with the expected planned RTO 
+and RPO and self-judge the efficacy of the plan.  
+Technology and Basel II implementation 
+The implementation of Basel II with regard to Operational Risk is also an area where banks 
+would like to focus more from the technology point of view. The capturing of the operational 
+loss data and to correctly assess the capital charge on this account would be a challenging 
+task as the same is very much a data and technology intensive endeavour. The banks may 
+like to put in place an efficient operational risk management system for this purpose from not 
+only the compliance perspective but from the perspective of the benefits that would accrue to 
+the banks in the long run.  
+4 
+ BIS Review 43/2009
+Governance and regulatory compliance 
+To sustain growth and enhance efficiency, Governance and Regulatory Compliance are two 
+issues which appear very critical as the rest of the business and IT activities of the institution 
+emanate  from  them.  A  proper  handling  of  the  IT  Governance  issues  by  synergizing  the 
+disparate ‘silos’ within the organisation would help in creating a robust system internally and 
+provide a solid platform to prosper in the long run.  
+Another  important  aspect  of  regulatory  compliance  is  the  reporting  returns  to  the  various 
+wings of the regulator. In this regard implementation of XBRL (Extensible Business Reporting 
+Language) in the banking and financial system is a welcome sign as it will not only help in 
+regulatory compliance but also act as an effective tool for Management Information System 
+(MIS) within the organisation. In general, XBRL reduces the cost of analyzing and reporting 
+business  information,  helps  in  effective  MIS  and  increases  the  speed  and  efficiency  of 
+business decisions.  
+XBRL as we all know is a standard based electronic format for communication of business 
+and  financial  data  which  provides  a  lot  of  benefits  in  the  preparation,  analysis  and 
+communication  of  business  information  in  different  formats;  extraction  and  automatic 
+exchange  of  the  financial  data;  and  enhancing  the  usability  and  transparency  of  financial 
+information reported under existing accounting standards. This is helpful in preparation of not 
+only  financial  statements  like  balance  sheet,  profit  and  loss  accounts,  flow  of  funds  or 
+financial  disclosures, etc.  but  includes  any  type  of  financial  reporting,  like  Basel  II  system, 
+statutory reporting, regulatory or supervisory reporting systems. 
+Future prospects and way forward 
+The  downturn  in  the  BFSI  sector  overseas  may  prove  to  be  an  advantage  for  the  Indian 
+financial  system  as  availability  of  highly  skilled  people  at  a  reasonable  cost  in  view  of 
+employment cuts abroad may propel India for high speed growth in all the sectors. The IT-
+BPO industry is expected to grow at a reasonable rate of around 16 per cent in India. This 
+opportunity  may  churn  out  another  set  of  dynamic  entrepreneurs  and  intrapreneurs  (term 
+coined  by  Gifford  Pinchot)  who  would  lead  the  march  for  business  transformation  and 
+provide opportunities for sustained growth of the financial system.  
+For Indian banks and financial institutions in India the issue is not of pruning IT programs but 
+making  these  more  cost  effective  and  revenue  generating.  India’s  value  proposition  in  the 
+financial sector I believe will continue to be strong and even in the current context IT may 
+provide  support  in  the  re-structuring  of  the  work-processes,  products  and  may  be  the 
+institution itself, thereby fulfilling the growth sustenance objectives of the institutions. 
+This period also provide excellent opportunities and avenues for the banks and the financial 
+institutions to reach out to the people in the rural and semi-urban areas and bring them under 
+the fold of our banking and financial system. The percentage of no-frills account holders and 
+coverage of people under the banking umbrella is still miniscule. This prospect in fact throws 
+a lot of opportunities for the technology driven initiatives to expand the coverage of the Indian 
+banking  and  financial  system.  The  use  of  technology  like  Smart  card,  mobile  ATMs,  e-
+Chowpals,  coverage  of  post-offices  under  electronic  payments  network  in  far  flung  areas, 
+etc.  in  providing  financial  services  to  the  people  holds  a  tremendous  potential  for  the 
+business growth of the financial institutions on one hand and the inclusive growth of India on 
+the other.  
+Another opportunity lies in the form of integration of the Indian banking and financial system 
+with the Government’s e-Governance initiatives. The electronic benefits in this regard would 
+be  passed  on  to  the  beneficiaries  directly  thereby  preventing  the  leakage  of  the  funds 
+provided under various Government’s schemes like NREGA payments, etc. for the upliftment 
+of the people. The collective efforts of the Government, banks, financial institutions and the 
+IT  firms  to  provide  innovative  solutions  for  an  inclusive  growth  of  the  Indian  economy  will 
+BIS Review 43/2009 
+ 5
+certainly  go  a  long  way  not  only  for  the  sustained  growth  of  the  financial  system  but  the 
+Indian economy as a whole.   
+The role of technology providers becomes critical in enabling the users to use technology as 
+a strategic tool in their business pursuits. I would like to mention a few fundamental tenets in 
+regard to expectations from the technology providers.  
+• 
+The first relates to affordability. In times where margins of the user organizations are 
+under pressure, affordability assumes significance. We have to recognize that unless 
+there is a perceptible value addition to the user organization, investment in any area, 
+including technology, will be looked at with a skeptical mind set.  
+The second relates to availability. IT based operations have jerked the world out of a 
+slumber  to  a  24  by  7  operational  cycle  for  most  businesses,  If  this  has  to  be 
+sustained,  then  technology  providers  will  also  have  to  ensure  uninterrupted 
+availability.  While  I  am  aware  that  this  is  something  that  is  currently  also  being 
+provided for by most technology service providers, the need for this to become a way 
+of  operations  of  these  entities  –  at  affordable  costs  for  customers  –  gains 
+significance. With the death of geographical distances and the existence of safe and 
+effective  network  based  communication,  juxtaposed  with  the  trend  of  most  user 
+organizations migrating to off-site support, this aspect assumes criticality.  
+Closely related to the first two is reliability. With the margins of IT companies coming 
+under pressure, it is essential that Reliability of support provisions to customers does 
+not  get  impacted  in  any  way.  I  am  fully  aware  that  Indian  Technology  Service 
+providers  have  always  been  providing  services  with  a  high  level  of  operational 
+reliability, but now is the time to redeem our efforts in this direction if sustenance with 
+high growth has to continue for the technology services sector of the economy.  
+The fourth pertains to adaptability which is something Indian companies have always 
+excelled  in.  If  this  is  translated  as  the  business  objectives  of  technology  service 
+providers as well, then it would be easy for businesses to realign to changing global 
+scenarios  and  tailor  make  their  offerings  to  suit  the  changing  requirements  of  the 
+target sections which they service.  
+Finally,  convenience.  Today,  most  users 
+for  operational  comfort  and 
+convenience of operations in a highly challenging environment. The most important 
+requirement relates to looking at the convenience of customers as the most important 
+gospel for survival of the organization and has to be a mantra which has to percolate 
+to all the employees in the organisation.  
+look 
+    To conclude, RBI’s stance has always been to progressively develop the Indian banking and 
+financial system through various measures and focus on technology driven initiatives for an 
+inclusive  growth.  I  would  like  to  take  this  opportunity  to  urge  upon  all  the  banks,  financial 
+institutions  and  the  technology  solution  providers  to  gear  up  to  face  the  new  challenges 
+facing the financial system, some of which I shared with you today. I fully understand that this 
+is an on-going process and the banks and financial institutions will continue to address these 
+challenges in right earnest for the sustained growth of the financial system as a whole.   
+I would like to thank the organizers once again for inviting me here to BANKing summit 2009 
+to share some of my views on the theme. I wish the Summit great success. 
+6 
+ BIS Review 43/2009

@@ -1,0 +1,801 @@
+Some Thoughts on Credit Risk and Bank Capital Regulation1 
+ It  is  a  privilege  to  be  welcomed  within  the  precincts  of  one  of  the  premier 
+management institutes of the country and, more importantly, to get an opportunity to 
+engage with some of the promising young minds and aspiring future leaders. All of 
+you  are  going  to  enter  the  job  stream  at  a  very  interesting  point  in  our  country’s 
+economic history.  We are all meeting today in the wake of a number of landmark 
+economic  reforms,  of  which  I  would  like  to  touch  upon  two  in  particular–  the 
+Insolvency and Bankruptcy Code (IBC), 2016 and the RBI circular dated February 
+12, 2018 on the Revised Framework for Resolution of Stressed Assets.  I will attempt 
+to  give  you  a  regulator’s  perspective  on  the  above  reforms,  and  about  banking 
+industry in general while debunking a few fallacies. Using this background, I will also 
+segue into another contentious issue of adequacy or otherwise of prudential capital 
+for banks, particularly for credit risk. 
+ 
+Let us start with the fundamentals.  Banks bring together the liquidity surplus agents 
+in  an  economy  with  the  liquidity  deficit  agents  by  establishing  an  intermediation 
+channel, thus aiding the flow of savings in an economy towards investments.  The 
+banking 
+to  raise 
+uncollateralised funds from the public in the form of demand deposits.  It is primarily 
+from these deposits that banks give out loans to the borrowers.  Thus, it is not that 
+banks have a huge coffer like that of Uncle Scrooge, holding their own money, from 
+which they make loans, but it is the funds that they raise through deposits that are 
+used for making loans.   
+ 
+Do we need banks? 
+The  above  description,  though,  does  not  immediately  make  it  clear  why  we  need 
+banks to do this intermediation function – why the savers cannot directly lend to the 
+borrowers, and why we need an intermediation infrastructure.  The answer is that the 
+information  asymmetry  inherent  in  such  relationships  makes  direct  monitoring  by 
+individual  savers  of  borrowers  both  costly  and  inefficient.  In  most  cases,  the 
+borrowers  have  more  knowledge  of  their  ability  to  pay  than  the  lender.  Through 
+specialised  skills  in  project  appraisals  and  risk  monitoring,  banks  are  expected  to 
+                                                            
+1 Address by Shri N.S. Vishwanathan, Deputy Governor of the Reserve Bank of India (RBI) at XLRI, Jamshedpur, 
+October 29, 2018. 
+the  regulator  allows 
+issued  by 
+institutions 
+licence 
+these 
+Page 1 of 19 
+ contain  default  by  a  borrower  and  thus  play  the  useful  role  of  delegated  monitors 
+(Diamond, 1984) in an economy, at substantially lower cost than direct monitoring by 
+agents.  
+ 
+This  role  of  delegated  monitors  is  codified  by  banks  through  inclusion  of  suitable 
+covenants in a loan contract.  This formalisation has two dimensions – well drafted 
+covenants  that  protect  the  rights  of  banks  if  the  borrower  fails  to  perform  as 
+expected,  and  proper  enforcement  of  covenants  in  the  event  of  a  deviation  in  the 
+performance of the borrower from the expectations. A well-drafted covenant is to be 
+more of a deterrent in normal times, as it serves to remind the borrower about the 
+consequences  of  not  honouring  the  loan  contract.    Such  a  contract  would  be  the 
+result of strong appraisal and monitoring systems that are put in place by a lender.  
+The appraisal would properly price the risk the lender is taking upon by extending a 
+loan to a borrower.  It would also involve proper understanding of the sector to which 
+the loan is extended, including the vagaries and various risks that could potentially 
+affect the projected cash flows of the venture that is being financed.  A good loan 
+contract would account for all this and more, so that it serves as a blueprint for the 
+bank as to how to react in a given scenario during the lifetime of the loan. 
+ 
+However,  when  the  monitoring  by  banks  or  action  taken  by  them  on  covenant 
+breaches  are  inadequate,  the  deterrence  effect  is  weakened  leading  to  further 
+covenant breaks. Banks need to be exacting in their role as monitors of loans. This 
+in turn would force the other actors to perform their roles diligently. Say, for example, 
+if banks go easy on a particular borrower because the borrower has been affected by 
+delays  in  receipt  of  his  claims  from  his  client,  the  delays  at  the  level  of  the  client 
+would never get addressed, and in fact, may get accepted as the norm. When banks 
+perform their monitoring roles properly, the borrower would be forced to take up his 
+case with his client for timely realisation of his claims. Banks are not supposed to be 
+shock-absorbers of first resort of the difficulties faced by their borrowers as banks do 
+not have the luxury of delaying payments to their depositors. Of course, a bank can 
+renegotiate  terms  of  a  loan  if  circumstances  warrant,  but  this  must  be  for  a  good 
+reason  and  the  bank  should  recognise  the  consequent  risks.  This  renegotiation  of 
+terms  should  be  an  exception  rather  than  the  rule,  as  resorting  to  it  often  would 
+endanger the safety of deposits, dent a bank’s ability to lend further and imperil its 
+existence as an intermediating entity.   
+ Page 2 of 19 
+ 
+Thus,  the  next  time  we  hear  about  a  bank  making  efforts  to  recover  loans  from 
+borrowers, we should all note to remember that it is essentially trying to get back the 
+depositors’  money.  In  this  context,  the  most  important  objective  of  the  Revised 
+Framework  for  Resolution  of  Stressed  Assets  is  to  alter  the  balance  of  power  in 
+favour of creditors. For long, the balance of power in our country was in favour of 
+debtors, especially for debtors. 
+ 
+Debtor vs Creditor: The Change in Roles  
+This changing debtor-creditor equation disturbs the status quo and it is only natural 
+that it is facing resistance. The earlier debtor-friendly environment made it possible 
+for  the  defaulting  debtors  to  secure  moratoriums  and  force  write-downs  on  debt 
+repayment,  while  retaining  management  control  over  the  borrowing  units  or  thwart 
+banks efforts to realise their dues by indulging in serial litigations. The out-of-court 
+restructuring  mechanisms  too  suffered  high  failure  rates  resulting  in  the  borrowing 
+entities continuing to indulge in repeated defaults, being confident that the balance of 
+power remained with them and the ability of banks to discipline errant borrowers was 
+weak2.  
+ 
+The debtor friendly environment had its effect on banks’ business preference, while 
+also partly contributing to the ever-increasing stressed assets in the banking system. 
+Banks’  ability  and/or  willingness  to  lend  to  persons  or  entities  that  needed  credit 
+were hampered. The Bankruptcy Law Reforms Committee (2015) has observed and 
+I quote:  
+“When creditors know that they have weak rights resulting in a low recovery 
+rate, they are averse to lend. Hence, lending in India is concentrated in a few 
+large companies that have a low probability of failure. Further, secured credit 
+dominates, as creditors rights are partially present only in this case. Lenders 
+have an emphasis on secured credit. In this case, credit analysis is relatively 
+easy: It only requires taking a view on the market value of the collateral. As a 
+consequence,  credit  analysis  as  a  sophisticated  analysis  of  the  business 
+prospects of a firm has shrivelled.” 
+ 
+                                                            
+2 Academic studies (Chang, Tom, and Antoinette Schoar, 2016) show that pro-debtor bias in the bankruptcy 
+process results in lower success rates in sustainable revival of distressed firms than pro-creditor bias. 
+Page 3 of 19 
+ In India, before the enactment of IBC, the Reserve Bank as banking regulator had to 
+design  resolution  mechanisms  that  tried  to  emulate  the  desirable  features  of  a 
+bankruptcy  law  as  identified  in  the  literature.    However,  in  the  absence  of  a 
+bankruptcy  law  in  the  country,  those  schemes  could  not  result  in  meaningful 
+resolution of the stressed loans.  This resulted in significant mismatches between the 
+book  values  of  loans  carried  by  banks  and  the  inherent  economic  value  of  those 
+loans.    In  this  context,  the  enactment  of  the  IBC  is  a  watershed  event,  which  has 
+completely  changed  the  legal  framework  governing  the  insolvency  regime  in  the 
+country. The enactment of IBC also enabled the Reserve Bank to come out with a 
+revised  framework  for  resolution  of  stressed  assets.  These  initiatives  by  the 
+Government of India and the Reserve Bank are being challenged by the defaulting 
+borrowers in various judicial fora. The Hon’ble Supreme Court of India in the matter 
+of Innoventive Industries Ltd. vs ICICI Bank Ltd. (2017), observed that: 
+“…….we thought it necessary to deliver a detailed judgment so that all Courts 
+and  Tribunals  may  take  notice  of  a  paradigm  shift  in  the  law.  Entrenched 
+managements  are  no  longer  allowed  to  continue  in  management  if  they 
+cannot pay their debts.”  
+ 
+As  observed  by  the  Hon’ble  Supreme  Court  of  India,  the  judicial  system  of  the 
+country has internalized the paradigm shift in the law and defaulting debtors’ efforts 
+to stymie the insolvency regime with frivolous litigation have not met with success so 
+far.  
+ 
+In  this  context,  it  needs  to  be  recognised  that  when  banks  take  recourse  to  legal 
+remedies available to them when a borrower defaults on his debt servicing, including 
+that  of  security  enforcement,  they  are  essentially  trying  to  recover  the  depositors’ 
+money  from  a  defaulting  borrower,  whatever  be  the  reasons  for  default.  However, 
+the defaulting borrowers portray such an action by banks as a case of a ‘ruthless big 
+bank’  taking  over  the  assets  of  a  ‘hapless  borrower’.  This  is  the  kind  of  portrayal 
+used even by the large corporates. Here, one needs to distinguish between a private 
+moneylender lending his own money for making a profit and a bank, which to a large 
+extent  uses  depositors’  money  (and  tax  payers’  money,  in  case  of  public  sector 
+banks).  A correct portrayal of the situation would be: public interest (i.e., depositors 
++ taxpayers) vs borrowers’ interest.  
+ Page 4 of 19 
+ 
+Fallacy of ‘Genuine’ Defaulters  
+ One argument that we hear quite often is that there are different reasons for default, 
+and the regulations should treat them differently based on the reasons which lead to 
+the default. The proponents of this line of thought argue that where the borrowers 
+are  affected  by  external  factors  beyond  their  control,  they  should  be  treated  as 
+‘genuine’ defaulters and some leniency in prudential norms is warranted. This is a 
+fallacy,  even  though  it  is  important  to  appreciate  that  some  defaults  are  inevitable 
+part of lending business. There are two issues here: recognition and resolution. The 
+recognition of default or accounting for deterioration in the quality of asset should be 
+independent  of  the  reasons  for  such  default  or  deterioration.  Whereas,  it  is    the 
+resolution plan which should be a function of ability and willingness of the borrower 
+to  honour  his  obligations.  Where  a  borrower  has  temporarily  lost  his  ability  to  pay 
+due  to  circumstances  beyond  his  control,  a  quick  and  efficient  restructuring  of  the 
+debt either outside the courts or within the insolvency framework would be in order. 
+In  case  of  wilful  or  strategic  defaulters,  i.e.,  borrowers  with  the  ability  but  no 
+willingness  to  pay  up  their  debt,  change  in  ownership  accompanied  by  punitive 
+action against the defaulting management is the way to go. Finally, if the business is 
+beyond revival, faster liquidation would help in reallocation of resources to productive 
+use. This is what the Revised Framework for Resolution of Stressed Assets seeks to 
+achieve. The following matrix illustrates this approach:  
+ 
+Type of borrower 
+Has ability to pay 
+Unable to pay 
+Willing to pay 
+No action 
+Unwilling to pay 
+Change  in  ownership  and 
+punitive  action  against  the 
+defaulting management 
+failing 
+Restructuring  or  Ad-hoc 
+funding, 
+which, 
+in  ownership  or  
+Change 
+Liquidation 
+Restructuring with change in 
+ownership or 
+Liquidation 
+ 
+Another  fallacy  is  the  claim  by  the  managements  of  defaulting  borrowers  that  the 
+restructuring plan proposed by them will result in ‘zero haircut’ for banks; whereas, if 
+banks  file  insolvency  application,  new  investor  would  be  willing  to  take  over  the 
+defaulting entities only with ‘huge haircuts’ on debt.  What one needs to understand 
+Page 5 of 19 
+ is that while the payments offered by the existing management are usually spread 
+over a long period, the new investors mostly come up with upfront cash payments. 
+The choice before banks is: ‘illusory future payments’ vs ‘upfront real cash’. Banks 
+need to arrive at the present value of ‘illusory future payments’ by discounting it for 
+time  value  of  money  and  more  importantly  for  the  uncertainty  in  receiving  the 
+payments taking into account the existing management’s past records.  
+ 
+A  related  issue  is  the  liability  of  existing  promoters.  The  share  of  creditors  in  a 
+successful project is limited to the agreed upon cash flows as per the loan contract, 
+as  against  the  equity  holders  who  enjoy  unlimited  upside  in  a  successful  project.  
+Further, if a project fails, the equity holders are protected by their limited liability even 
+if the creditors are set to lose the entire amount lent to the borrower in the absence 
+of  strong  creditor  rights,  given  the  capital  structure  of  most  of  the  projects.  At  this 
+juncture, it would be useful to clarify that limited liability, even though is enshrined in 
+modern  corporate  law  as  a  right,  should  rather  be  viewed  as  a  privilege  of  the 
+shareholders.    While  the  argument  for  limited  liability  structure  is  that  it  promotes 
+entrepreneurship  and  innovation,  an  investment  in  a  project  is  always  a  case  of  a 
+risky bet that is calculated. For the shareholders to enjoy limited liability in a venture 
+that has potential negative externalities to the society in the form of defaults and its 
+further  ramifications,  someone  has  to  bear  the  costs  when  such  externalities  do 
+materialise.   
+In almost all such cases, the society ends up underwriting the limited liability enjoyed 
+by  the  shareholders  through  bearing  the  cost  of  default  through  lost  jobs, 
+concessions granted by the state, and above all, the haircuts taken by banks, which 
+are  in  fact  potential  losses  of  depositors’/taxpayers’  money.    Societies  allow 
+companies in default to reorganise themselves and attempt a resolution by allowing 
+to renegotiate and rewrite private contracts under a formal bankruptcy mechanism.  
+This is another reason why the equity holders are mostly wiped out in the bankruptcy 
+of a corporate borrower since they already enjoyed the benefits of limited liability.   
+ 
+While limited liability concept is fundamental for encouraging entrepreneurship and 
+innovation, piercing of corporate veil i.e., disregarding the limited liability and making 
+shareholders  personally  liable,  is  not  uncommon  now-a-days  considering  the 
+negative  externalities  created  by  defaulting  firms.  Macey  and  Mitts  (2014)  have 
+constructed a rational framework for conceptualizing the circumstances in which it is 
+Page 6 of 19 
+ appropriate and consistent with sound public policy to pierce the corporate veil. Their 
+hypothesis is that the corporate veil will be pierced if, and only if, doing so is required 
+for  any  one  of  the  following  three  reasons:  (1)    to  achieve  consistency  and 
+compliance  with  the  goals  of  a  clear  and  specific  extant  regulatory  or  statutory 
+scheme  such  as  environmental  law  or  unemployment  law;  (2)  when  there  is 
+evidence of fraud or misrepresentation by companies or individuals trying to obtain 
+credit (and particularly where such misrepresentations lead a creditor erroneously to 
+think that an individual shareholder of a company is guaranteeing what ostensibly is 
+corporate  indebtedness);  (3)  when  respecting  the  corporate  form  facilitates  or 
+enables  favouritism  among  claimants  to  the  cash  flows  of  a  firm  and  thus  is 
+inconsistent  with  the  well-established  bankruptcy  law  value  of  achieving  the 
+resolution of a bankrupt’s estate that conforms both to contract law principles and to 
+the priorities among claimants established by state law.  The Hon’ble Supreme Court 
+of  India  has  also  observed  in  its  recent  judgement  in  ArcelorMittal  India  Private 
+Limited versus Satish Kumar Gupta & Others (2018), as under:  
+“…….where  a  statute  itself  lifts  the  corporate  veil,  or  where  protection  of 
+public  interest  is  of  paramount  importance,  or  where  a  company  has  been 
+formed to evade obligations imposed by the law, the court will disregard the 
+corporate veil. Further, this principle is applied even to group companies, so 
+that one is able to look at the economic entity of the group as a whole.” 
+ 
+With this background I would like to move to the second but related subject of my 
+talk,  prudential  bank  capital  regulations.  As  I  will  explain  later,  the  credit  recovery 
+ecosystem has a bearing on prudential capital requirements, given that credit risk, in 
+the Indian context, like in many other jurisdictions, is the major risk on the balance 
+sheet of banks.  
+ 
+Basel Capital Norms – The Prudential Imperative  
+By nature, banks are susceptible to risks, viz., credit risk, market risk, liquidity risk 
+etc.  A “run” on the bank is an extreme case of liquidity risk.  Banks try to mitigate the 
+liquidity risk by holding liquid assets, which can easily be liquidated in times of need 
+to  honour  the  payment  commitments  to  its  creditors,  majority  of  whom  are 
+depositors.  Thus, the mitigants for liquidity risk are stable funding and holding liquid 
+assets. While banks need liquid assets to mitigate liquidity risk, they need capital to 
+ Page 7 of 19 
+avert  solvency  risk  that  the  economic  value  of  assets  becomes  lower  than  the 
+promised  debt  obligations.  If  banks  don’t  have  adequate  capital,  losses  erode  into 
+deposits. Banks have to maintain adequate capital to ensure that the probability of 
+deposits being eroded is close to zero. 
+ 
+Banks are likely to face losses on their assets as it cannot be expected that all the 
+loans will be repaid in full. There could be losses from other parts of the operations 
+as  well.  The  losses  can  be  either  expected  or  unexpected.    Expected  losses  on 
+account of credit risk can be reasonably estimated from historical data regarding a 
+particular  class  of  borrowers  (e.g.,  rating  category)  or  sector  to  which  loans  are 
+made.    However,  the  future  can  never  be  predicted  perfectly  –  the  actual  losses 
+incurred may be higher than the expected losses.  This may be because of various 
+reasons  –  for  example,  a  systemic  event  where  there  are  correlated  defaults  in  a 
+particular  sector.    This  leads  to  unexpected  losses.  The  following  figure  (Chart  1) 
+explains the loss curve of a bank:  
+ Chart 1: Loss curve for banks 
+ 
+The mitigants for expected losses are the provisions that are to be made from the 
+current earnings, and for the unexpected losses (i.e., difference between peak loss 
+for a given confidence level and average loss), it is the level of capital maintained by 
+the bank (Chart 2). There are potential losses beyond unexpected loss, which are 
+not covered by any buffer as it would be too costly to hold buffers to protect from 
+such losses. 
+ 
+ Page 8 of 19 
+ Chart 2: Potential losses and mitigants 
+To be met by 
+provisions 
+To be met by 
+capital 
+Partly covered by 
+deposit insurance 
+  
+While  it  can  be  argued  that  the  quantum  of  capital  to  be  held  by  banks  for 
+unexpected loss should be left to the market forces, any failure of the market forces 
+has  significant  negative  externalities,  more  particularly  in  the  form  of  cost  incurred 
+through loss of deposits or by taxpayers for recapitalising, say a government owned 
+bank.  This  calls  for  entry  barriers  as  well  as  prudential  regulation  of  activities  of  a 
+bank.   
+One of the important and widely adopted prudential regulations is capital adequacy 
+norms.  Internationally,  prior  to  the  introduction  of  Basel  I  norms  in  1988,  the  most 
+common approach was to lay down minimum capital requirements for banks in the 
+respective banking legislations and determine the relative strength of capital position 
+of  a  bank  by  ratios  such  as  capital  to  deposit    ratio,  or  its  other  variants  for 
+measuring the level of leverage. However, there were vast variations in the method 
+and more importantly the risk sensitiveness of capital regulations across countries, 
+rendering comparability difficult. 
+Basel rules are an internationally accepted regulatory framework providing minimum 
+standards  to  be  met  by  banks.  Since  1988,  the  Basel  framework  has  evolved 
+responding to various developments. While the concept of regulatory capital that is 
+aligned to risks in the balance sheet of a bank was enunciated through the capital to 
+risk weighted assets ratio (CRAR) under Basel I, the Basel II framework, introduced 
+ Page 9 of 19 
+in  2004,  brought  about  better  determination  of  risks  by  introducing  greater 
+granulation of risks of various categories of assets of a bank.  
+Basel II norms hinged on three pillars – capital adequacy, supervisory review, and 
+market  discipline.    In  particular,  capital  charges  were  to  be  made  for  credit  risk, 
+market risk and operational risk that banks faced.  The main incentives for adoption 
+of Basel II were (a) it was more risk sensitive; (b) it recognised developments in risk 
+measurement and risk management techniques employed in the banking sector and 
+accommodates them within the framework; and (c) it aligned regulatory capital closer 
+to economic capital. These elements of Basel II took the regulatory framework closer 
+to  the  business  models  employed  in  several  large  banks.  In  Basel  II  framework, 
+banks’  capital  requirements  were  more  closely  aligned  with  the  underlying  risks  in 
+the balance sheet. 
+However,  the  weaknesses  of  Basel  II  standards  were  exposed  during  the  Global 
+Financial Crisis of 2007-09 which forced a rethink of the regulatory approach towards 
+capital  adequacy  requirements.    In  September  2010,  the  Group  of  Governors  and 
+Heads of Supervision (GHOS) announced higher global minimum capital standards 
+for commercial banks. This followed an agreement reached in July 2010 regarding 
+the  overall  design  of  the  capital  and  liquidity  reform  package,  now  referred  to  as 
+"Basel III". The enhanced Basel framework revises and strengthens the three pillars 
+established by Basel II and extends it in several areas. Most of the reforms are being 
+phased in between 2013 and 2019. The important elements of the framework are the 
+following: 
+(i) 
+(ii) 
+(iii) 
+(iv) 
+stricter  requirements  for  the  quality  and  quantity  of  regulatory  capital,  in 
+particular reinforcing the central role of common equity; 
+an  additional  layer  of  common  equity  -  the  capital  conservation  buffer  - 
+that,  when  breached,  restricts  discretionary  pay-outs  to  help  meet  the 
+minimum common equity requirement; 
+a  countercyclical  capital  buffer,  which  places  restrictions  on  participation 
+by banks in system-wide credit booms with the aim of reducing their losses 
+in credit busts; 
+a leverage ratio - a minimum amount of loss-absorbing capital relative to 
+all of a bank's assets and off-balance sheet exposures regardless of risk 
+weighting; 
+Page 10 of 19 
+ (v) 
+(vi) 
+liquidity  requirements  -  a  minimum  liquidity  ratio,  the  Liquidity  Coverage 
+Ratio (LCR), intended to provide enough cash to cover funding needs over 
+a 30-day period of stress; and a longer-term ratio, the Net Stable Funding 
+Ratio  (NSFR),  intended  to  address  maturity  mismatches  over  the  entire 
+balance sheet; and 
+additional  requirements 
+including 
+additional  loss  absorbency  and  strengthened  arrangements  for  cross-
+border supervision and resolution. 
+important  banks, 
+for  systemically 
+In  India,  Basel  III  capital  regulation  has  been  implemented  from  April  1,  2013 
+onwards in phases and it will be fully implemented by March 31, 2019.  The latest 
+round  of  reforms  published  by  the  Basel  Committee  in  December  2017  have 
+implementation timelines stretching up to 2022.  
+ 
+Having understood the background for Basel regulations, let us go back to the issue 
+of mitigating expected and unexpected losses in the credit portfolio, which, among 
+other  reasons,  arise  due  to  loans  turning  bad,  leading  to  non-recovery  or  under-
+recovery of the loan. Once a loan is recognised as a non performing asset (NPA), 
+the prudent action is to start recognising the expected losses from that loan upfront 
+so  that  when  the  actual  losses  do  materialise,  the  impact  on  the  profit  and  loss 
+statement of the bank is spread over a period of time. Since expected losses can be 
+reasonably estimated based on past experience, the provisions to cover the losses 
+are made from the current earnings of the bank.  Provisions can be thought of as an 
+expense from the income of a bank to mark a non-performing loan to its economic 
+value in the books of banks. Sometimes, the actual realisation from a NPA could be 
+higher  than  its  marked  down  value,  in  which  case  banks  write  back  the  excess 
+provision  as  profits  in  the  accounting  year  in  which  the  recovery  takes  place. 
+Provisions can, as such, be also thought of as prudential devices that smoothen the 
+impact  of  bad  loans  on  profit  and  loss  of  banks,  and  not  as  a  forced  expense 
+mandated by the regulator. The basic prudent behaviour always demands that banks 
+should never be under provided. 
+ 
+Ideally, banks should be able to test the loans in their books for expected losses and 
+make provisions for such losses without any regulatory intervention.  However, in the 
+absence  of  robust  models  built  by  our  banks  that  would  serve  this  purpose,  the 
+ Page 11 of 19 
+Reserve Bank has prescribed minimum mandated levels of provisions that are linked 
+to  the  age  of  a  NPA.    Since  the  provision  methodology  should  be  tailored  to 
+individual banks, and general regulations cannot do that, the regulatory expectation 
+is  that  the  minimum  provisions  mandated  would  serve  as  a  guiding  floor  and  the 
+bank managements, using their insider knowledge about their assets, would make 
+adequate provisions.  However, unfortunately, banks in India remain one of the most 
+under-provisioned ones, though there has been an improvement in this regard in the 
+last few quarters. 
+ 
+If  the  provisions  required  to  be  maintained  by  a  bank  exceed  its  earnings  before 
+provision, it is bound to affect the equity of the bank. This leads to one of the poorly 
+understood aspects of banking regulation – capital norms for banks in general, and 
+Basel norms in particular.  One of the widely heard complaints in this regard is that 
+the capital requirements for banks are unnecessarily high. In India, this relates to the 
+CRAR  prescribed  by  Reserve  Bank  being  9  percent  as  opposed  to  8  percent 
+required by Basel norms. To understand the response to this question, let us try to 
+understand why capital is needed in the first place. 
+ 
+Conceptually,  the  inherent  unpredictable  nature  of  unexpected  losses  calls  for  a 
+buffer, and that is the function served by the capital maintained by the bank.  Before 
+we go any further, capital should be understood as the “own funds” used to create 
+assets by banks, as against borrowed funds like deposits.  The capital maintained by 
+the  bank  merely  shows  the  proportion  of  own  funds  brought  in  by  the  bank  in  the 
+total funds deployed towards creating assets.  There is a misconception that capital 
+is  a  pile  of  money  stacked  away  as  some  sort  of  “rainy-day  fund”,  and  that  the 
+economy is deprived of that pile of money. The reality couldn’t be farther from the 
+truth  –  the  capital  maintained  by  banks  would  have  already  been  deployed  on  its 
+balance sheet towards creating assets, including loans. 
+ 
+Prudential  capital  regulations  aim  to  enable  banks  to  sustain  unexpected  losses 
+without  defaulting  on  its  obligations,  especially  deposits,  by  maintaining  adequate 
+levels of bank capital.  Higher capital levels in banks also have a stabilising effect on 
+a country’s macro economy.  Further, higher levels of capital increases the skin in 
+the  game  for  shareholders,  thus  potentially  leading  to  better  credit  appraisal  and 
+screening.  Raising capital does involve costs – there is no free lunch – but the costs 
+Page 12 of 19 
+ to  the  economy  are  offset  by  the  savings  made  in  the  form  of  potential  losses 
+avoided in averted banking crises.  As the equity component in a bank goes up, the 
+leverage goes down, potentially making the bank safer, thus leading the investors in 
+the bank equity to demand lower returns on equity, and the depositors too may be 
+willing to accept a lower return in view of greater safety of their funds.  The holy-grail 
+for  banking  regulators  is  to  find  the  sweet  spot  for  capital  prescriptions  for  banks 
+where the benefits are equal to or slightly outweigh the costs involved. 
+ 
+Multiple recent studies (Cline, 2017) trying to derive the optimal Common Equity Tier 
+1  capital  (CET  1)  ratio  for  banks  have  arrived  at  figures  on  opposite  ends  of  the 
+spectrum – Dagher, Dell'Ariccia, Laeven, Ratnovski, and Tong (2016) estimate the 
+optimal CET 1 ratio of 9-17% of the risk weighted assets, Admati and Hellwig (2013) 
+estimates  optimal  CET1  ratio  to  be  36-53%  of  risk  weighted  assets.    The  median 
+estimate  arrived  from  these  and  other  similar  studies  is  about  13-14%  of  risk 
+weighted  assets  of  banks.    In  contrast  to  the  above  estimates,  Basel  III  norms 
+specify minimum CET 1 requirements of 4.5% of risk weighted assets.  Thus, it can 
+be  seen  that  Basel  III  prescription  is  much  lower  than  the  median  estimates  by 
+various researchers and should only be considered as a floor. 
+ 
+In  India,  we  have  prescribed  overall  capital  requirements  of  9%  of  risk  weighted 
+assets, with the common equity tier 1 capital of 5.5 percent as against 8 percent and 
+4.5  percent,  respectively,  required  under  the  Basel  norms.  As  I  said  earlier,  the 
+regulatory  capital  is  meant  to  serve  as  a  buffer  against  unexpected  loss.  The 
+cumulative unexpected loss in the assets of a bank will be an aggregation of the past 
+loss behaviour of various sub-portfolios of the asset portfolio. The sub-portfolios can 
+be  built  on  the  basis  of  riskiness  of  the  assets.  So,  one  can  say  government 
+securities can form one sub-portfolio with a zero loss probability and build other sub-
+portfolios of different riskiness. The latter is normally classified on the basis of credit 
+rating because an unexpected loss behaviour can be assigned to portfolios of similar 
+rating. The risk-weights for each sub-portfolio are assigned based on the unexpected 
+loss behaviour, normally based on their cumulative default rates. It thus goes without 
+saying that the risk-weight assigned to a portfolio carrying a particular rating should 
+be a function of the observed default behaviour of that portfolio in a jurisdiction. The 
+higher CRAR of 9 percent prescribed by RBI basically reflects this difference.  Under 
+Basel  III  norms,  unexpected  losses  are  a  function  of  the  cumulative  default  rates 
+Page 13 of 19 
+ (CDR) observed in the credit ratings provided by the credit rating agencies (CRAs). 
+The CDR  is nothing  but the probability of  a non-default rating assigned by a CRA 
+turning into a default rating within a certain period of time.   
+ 
+Based  on  internationally  observed  CDRs  and  recovery  rates,  Basel  norms  have 
+prescribed  risk weights for various credit exposures.  However, the CDRs  and the 
+loss  given  default  observed  in  India  are  much  higher  than  that  observed 
+internationally, though there are signs of improvement in these parameters after the 
+enactment of the IBC and RBI’s Revised Framework. The following graph (Chart 3) 
+shows  the  Basel  capital  requirement  for  various  rating  categories  vis-à-vis  the 
+unexpected loss computed using the observed CDRs of a portfolio of loans rated by 
+Indian CRAs3.  
+ 
+Chart 3: Actual capital requirements based on observed CDRs 
+ 
+It  would  be  evident  that  with  this  kind  of  default  behaviour,  applying  the  Basel 
+specified risk weights would understate the true riskiness in the loan assets carried 
+on the books of Indian banks.  This could be overcome by two ways: (i) by keeping 
+the  minimum  capital  requirement  at  8%,  but  recalibrating  the  Basel  specified  risk 
+weights for each type of credit exposure in accordance with the observed CDRs in 
+India; (ii) by using the Basel specified risk weights, but prescribing a higher minimum 
+                                                            
+3 Based on the CDRs published by the credit rating agencies and methodology adopted from the BCBS Discussion paper on 
+‘Regulatory treatment of accounting provisions’ (October 2016) 
+Page 14 of 19 
+ capital  requirement.  We  adopted  the  second  approach  and  prescribed  minimum 
+capital requirement of 9% while largely retaining the Basel specified risk weights. In 
+view of the above explanation it is clear that the suggestion by some that our capital 
+requirements are more onerous than international standards is not correct at all. As 
+the need for repeated recapitalisation has proved, banks in India need to aspire to 
+have higher capital levels.  
+ 
+Moreover, the current levels of provisions maintained by banks may not be enough 
+to cover the expected losses, and hence adequate buffers have to be built into the 
+capital maintained to absorb the expected losses which have not been provided for, 
+if and when they materialise. Chart 4 below demonstrates that the Indian banking 
+system has a high proportion of un-provided NPAs vis-à-vis the capital levels. As I 
+said, there are signs of improvement in the default rates and recovery rates after the 
+IBC and RBI’s Revised Framework, which may result in lower unexpected losses for 
+banks  in  the  future.  However,  a  recalibration  of  risk-weights  or  minimum  capital 
+requirements  would  need  to  wait  till  these  trends  are  firmly  entrenched  in  the 
+economy.  Frontloading  of  regulatory  relaxations  before  the  structural  reforms  fully 
+set-in could be detrimental to the interests of the economy. 
+Chart 4: Net NPAs as a percentage of capital 
+100.00
+80.00
+60.00
+40.00
+20.00
+0.00
+-20.00
+  NPAs Net of Provisions to Capital 
+(Source: IMF Financial Stability Indicators) 
+58.00 
+41.62 
+2010
+2014
+2011
+2015
+2012
+2016
+2013
+2017
+13.61 
+5.67 
+2.94 
+2.13 
+-8.25 
+-12.99 
+Italy
+India
+South Africa United States
+United
+Kingdom
+Korea,
+Republic of
+China, P.R.:
+Mainland
+Brazil
+ Page 15 of 19 
+ 
+One of the arguments for seeking a lower CRAR is that higher capital requirement 
+leads to lower credit growth. While mathematically this may be correct, there are two 
+important facts to underscore here. Firstly, such suggestions are being made when 
+the credit growth in the economy is in line with the nominal GDP growth (see Chart 5 
+below). Bank credit has grown 14.4 percent YoY as at fortnight ended October 12, 
+2018. It may be mentioned as an aside that bank credit to NBFC sector, where there 
+is perception of inadequate bank credit flow, recorded  a growth of 17.1 percent from 
+March 31, 2018 to September 30, 2018  and a YOY growth of 48.30 percent as on 
+September 30, 2018 on the back of a strong base. Getting back to Chart, it may be 
+noticed  that  in  the  past,  high  levels  of  credit  growth  due  to  ‘supply  push’  have 
+resulted in high corporate leverage and consequent NPAs in the banking system.  
+ 
+Chart 5: Y-o-Y Growth in Nominal GDP, Bank Credit and NPAs 
+100
+80
+60
+ 40
+%
+20
+0
+-20
+-40
+GDP-Credit-NPAs 
+8
+9
+-
+n
+u
+J
+9
+9
+-
+n
+u
+J
+0
+0
+-
+n
+u
+J
+1
+0
+-
+n
+u
+J
+2
+0
+-
+n
+u
+J
+3
+0
+-
+n
+u
+J
+4
+0
+-
+n
+u
+J
+5
+0
+-
+n
+u
+J
+6
+0
+-
+n
+u
+J
+7
+0
+-
+n
+u
+J
+8
+0
+-
+n
+u
+J
+9
+0
+-
+n
+u
+J
+0
+1
+-
+n
+u
+J
+1
+1
+-
+n
+u
+J
+2
+1
+-
+n
+u
+J
+3
+1
+-
+n
+u
+J
+4
+1
+-
+n
+u
+J
+5
+1
+-
+n
+u
+J
+6
+1
+-
+n
+u
+J
+7
+1
+-
+n
+u
+J
+8
+1
+-
+n
+u
+J
+YoY Growth in GDP at Current Market Prices
+YoY Growth in Bank Credit
+YoY Growth in NPAs
+  
+Secondly, to make sure that the banking system is resilient enough to support higher 
+credit  growth  going  forward,  it  should  have  higher  capital  levels.  Chart  6  below 
+shows  that  countries  which  have  high  bank  credit  to  GDP  ratio  also  have  higher 
+levels of bank capital.  
+ 
+ Page 16 of 19 
+ Chart 6: Domestic Credit to Private Sector by Banks vs Capital to Risk 
+Weighted Assets Ratio 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+(Source: IMF and World Bank) 
+ 
+Let me also clarify another oft repeated view that Public Sector Banks need not be 
+subject  to  prudential  capital  regulations.  The  argument  is  that  the  sovereign 
+ownership  of  these  banks  makes  them  de  facto  risk  free  and  impervious  to  bank 
+runs.  In India, almost all commercial banks, except for the payment banks and small 
+finance  banks,  are  actively 
+involved  in  providing  credit  facilities  to  enable 
+international trade/investment of Indian corporates in the form of documentary credit, 
+stand-by letters of credit, etc. Acceptance and confirmation by the foreign banks of 
+such  guarantees  issued  by  the  Indian  banks  is  based  on  the  soundness  of  Indian 
+banks as perceived by the foreign banks. Conformity to an internationally accepted 
+regulatory regime provides required credibility to the Indian banking system, which 
+helps the Indian corporates to access international markets (both financial and real) 
+on  the  strength  of  the  support  provided  by  Indian  banks.  Many  Indian  banks  also 
+access  international  markets  for  their  own  capital  and  funding  requirements.  The 
+correspondent  banking  relationships  of  the  Indian  banks  also  depends  upon  their 
+financial soundness. Any slackening of the prudential norms may result in a reset of 
+Page 17 of 19 
+ their credibility/standing in the international markets. Such a reset could increase the 
+cost and ease of doing business for their clientele and their clientele may need to 
+migrate  to  other  banks  which  are  compliant  with  Basel  standards.  Moreover, 
+differential prudential regulation for banks based on ownership structure, when they 
+operate  in  the  same  market,  would  be  anti-competitive  and  could  create  systemic 
+imbalances, which obviously are not  desirable outcomes.  
+ 
+Let  me  conclude.  A  strong  and  stable  banking  system  is  essential  for  the 
+development  of  the  economy.  This  strength  should  be  real  and  inherent.  The  real 
+strength will come from recognising  weaknesses in the balance  sheet and  making 
+provisions for them rather than pretending to believe that the balance sheet is strong. 
+Everything that the Government of India and the Reserve Bank of India have been 
+doing in the recent past is to provide India with a clean banking system. This is a 
+work  in  progress,  which  has  started  yielding  results.  As  our  insolvency  and 
+bankruptcy regime matures, many aspects of debt recovery and asset quality in the 
+Indian  financial  system  will  match  the  global  standards.  Then  our  probability  of 
+default and loss given default will also come down to global levels. Hopefully, those 
+days are nearer than we think. Till then, we must guard against any push for dilution 
+of  standards  in  the  name  of  aligning  them  with  international  benchmarks  because 
+that will be cherry-picking and will result in our banks being strong in a make-believe 
+sense and not in reality. It is by resisting such temptations, I believe, we will build a 
+financial system that is lot stronger than today, with which you will be proud to be 
+associated as future entrepreneurs, depositors, investors, managers and any other 
+capacity that you would have an occasion to interact. 
+ 
+With best wishes and Diwali Greetings. 
+ 
+References: 
+1.  Admati, Anat, and Martin Hellwig, The Bankers' New Clothes: What's Wrong 
+with Banking and What to Do About It, Princeton University Press (2013) 
+2.  Bankruptcy  Law  Reforms  Committee,  The  Report  of  the  Bankruptcy  Law 
+Reforms Committee, Volume I: Rationale and Design, (November 2015) 
+3.  Basel  Committee  on  Banking  Supervision, 
+“Regulatory 
+treatment  of 
+accounting provisions”, BCBS Discussion Paper (October 2016) 
+ Page 18 of 19 
+4.  Chang, Tom, and Antoinette Schoar, “The Effect of Judicial Bias in Chapter 
+11 Reorganisation”, mimeo (October 2016) 
+5.  Cline,  William  R.,  The  Right  Balance  for  Banks:  Theory  and  Evidence  on 
+Optimal Capital Requirement, Policy Analyses in International Economics 107 
+(June 2017), Peterson Institute for International Economics 
+6.  Dagher,  Jihad,  Giovanni  Dell'Ariccia,  Luc  Laeven,  Lev  Ratnovski,  and  Hui 
+Tong,  “Benefits  and  Costs  of  Bank  Capital”,  IMF  Staff  Discussion  Note  16 
+(February 2016). 
+7.  Diamond,  Douglas  W.,  “Financial  Intermediation  and  Delegated  Monitoring”, 
+The Review of Economic Studies, Vol. 51, No. 3 (July 1984) 
+8.  Farag,  Marc,  Damian  Harland,  and  Dan  Nixon,  “Bank  capital  and  liquidity, 
+Bank of England Quarterly Bulletin, 2013 Q3 
+9.  Macey, Jonathan, and Joshua Mitts, “Finding Order in the Morass: The Three 
+Real  Justifications  for  Piercing  the  Corporate  Veil”,  100  Cornell  L.  Rev.  99 
+(2014) 
+10. McLeay, Michael, Amar Radia,  and Ryland Thomas, “Money creation in the 
+modern economy”, Bank of England Quarterly Bulletin, 2014 Q1 
+ Page 19 of 19 

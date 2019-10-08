@@ -1,0 +1,615 @@
+Glenn Stevens: Risk and the macroeconomy 
+Address  by  Mr  Glenn  Stevens,  Deputy  Governor  of  the  Reserve  Bank  of  Australia,  to  the  2006 
+Securities & Derivatives Industry Association conference, Melbourne, 27 May 2006. 
+ I am pleased to be here in Melbourne to take part in your conference.  
+There seems no better issue to discuss with a group of securities and derivatives professionals than 
+risk and its pricing. This is quite topical since, as you would be well aware, the extent of additional 
+return paid to investors to take on risk seems to have been unusually low in recent years.  
+There are several questions that naturally arise, and which I would like to address. 
+First, how does the recent period compare historically? Compensation for risk is low compared with 
+the 1980s and 1990s, but what can we learn from a longer-run comparison? 
+Second, to what extent can it be claimed that the underlying economic outcomes, which presumably 
+have a major bearing on investors’ perceptions of risk, are less “risky” or volatile than they used to be?  
+Third,  what  are  the  odds  that  this  apparently  benign  environment  will  persist?  What  factors  might 
+prompt a change?  
+What is risk? 
+To  begin,  it  is  perhaps  important  to  be  clear  what  we  mean  by  “risk”,  and  how  it  differs  from 
+“uncertainty”, a distinction first made by Frank Knight1 in 1921.  
+He wrote:  
+“The  practical  difference  between  the  two  categories,  risk  and  uncertainty,  is  that  in  the 
+former  the  distribution  of  the  outcome  in  a  group  of  instances  is  known  (either  through 
+calculation a priori or from statistics of past experience), while in the case of uncertainty this 
+is  not  true,  the  reason  being  in  general  that  it  is  impossible  to  form  a  group of  instances, 
+because the situation dealt with is in a high degree unique.” 
+Risk can be priced, on the assumption that the probabilities in the future will be those inferred from the 
+past. In Peter Bernstein’s2 excellent book Against the Gods, the early development of thinking about 
+risk is presented as arising from the study of games of pure chance – where the odds are precisely 
+calculable. The classic response to the chance-like characteristics of life is insurance. Actuaries draw 
+up tables of life expectancy for a population based on historical experience, and insurance companies, 
+with  reasonable  confidence,  price  policies.  The  probability  and  likely  cost  of  certain  other  events – 
+fires, car accidents, etc. – is sufficiently calculable that, over time, risk can be priced.  
+In the case of uncertainty, we don’t or can’t know the parameters of the distribution. Events that have 
+no  known  parallel  in  recent  history,  where  there  is  no  basis  for  determining  expected  frequency  or 
+impact, will not easily be amenable to pricing. An avian flu pandemic, for example, could result in a 
+frequency  and  severity  of  illnesses  and  a  number  of  deaths  that  is  outside  any  recent  historical 
+experience, with important implications for life and health insurance providers.  
+In fact, many economic and financial processes produce outcomes that do not come from any known 
+statistical  distribution,  because  the  human  interactions  which  drive  them  are  not  like  the  turn  of  a 
+roulette wheel or throw of a dice. In such a world, quantification and formal management of risk can go 
+only so far; there will always be some possibilities that simply can’t be priced.  
+These issues are quite important, and will intrude into our discussion later on. But for now, let me turn 
+to what the quantitative evidence can offer us.  
+                                                      
+1  Frank H. Knight (1921), Risk, Uncertainty and Profit, Houghton Mifflin Company, Boston. 
+2  Peter L. Bernstein (1996), Against the Gods, John Wiley & Sons Inc., New York. 
+BIS Review 49/2006 
+ 1
+Risk Pricing 
+The place to start is with the level of long-term rates on highly rated sovereign debt. Given that the 
+likelihood of default by such countries is remote, what is being priced here, essentially, is the rate and 
+variability of future inflation. For those of us whose economics awareness dates from some time in the 
+1970s  or  later,  it  certainly  seems  that  long-term  interest  rates  globally  have  in  recent  years  been 
+unusually low. In the United States, 10-year Treasury note yields were below 5 per cent over several 
+years, which stands out compared with the history of the preceding few decades. Furthermore, it is 
+historically  unusual  for  these  rates  to  have  been  low  and  pretty  steady  at  a  time  when  the  Fed  is 
+raising short-term rates. That this would coincide with a sizeable US budget deficit, and a US current 
+account deficit of unprecedented magnitude, was certainly not anticipated by any observer I can recall. 
+It  was  labelled  a  “conundrum”3,  and  “an  intriguing  financial  phenomenon”4  by  successive  Fed 
+chairmen. 
+Long-term interest rates in other major centres – Japan and Europe – have been even lower than US 
+rates. As recently as 2003, Japan’s rates were the lowest on record anywhere that we could find over 
+several centuries. These yields too have risen somewhat from those levels, but remain very low by 
+standards of the past couple of decades.  
+Because sovereign yields in major countries have been low, so have those for most private borrowers 
+and  many  emerging-market  sovereign  borrowers  in  capital  markets.  But  there  has  also  been 
+considerable  compression  in  risk  spreads  for  both  corporate  and  emerging-market  sovereign  debt, 
+which takes them back to levels that were observed in the mid 1990s. Many observers have a feeling 
+of discomfort about all this – since, on some previous occasions, spreads this low quickly gave way to 
+much higher pricing for risk in the face of some event, like the Asian crisis, the LTCM episode or the 
+global downturn of 2000-01. All too often, risk has – in hindsight – been underestimated in good times 
+and overestimated in bad times. 
+Bps
+1200
+900
+600
+300
+0
+Bond Spreads
+To US government bonds, duration matched
+Emerging markets
+sovereign
+US corporate ‘junk’
+(B-rated)
+Bps
+1200
+900
+600
+300
+1996
+1998
+US corporate
+BBB-rated
+2002
+2000
+Sources: Bloomberg; RBA; Thomson Financial
+2004
+0
+2006
+ Against the backdrop of the past century, on the other hand, recent levels of long-term US interest 
+rates do not look especially low; they look quite within the range of historical experience, especially 
+experience when inflation was low. The 1970s and 1980s look more like the outlying period. Nor have 
+spreads, for US corporate debt at least, been all that low when viewed from this longer perspective. 
+There were lengthy periods in the mid part of the 20th century when spreads were as low as or lower 
+than they are today.  
+                                                      
+3  Greenspan, at http://www.federalreserve.gov/boarddocs/hh/2005/february/testimony.htm.   
+4  Bernanke, at http://www.federalreserve.gov/boarddocs/Speeches/2006/20060320/default.htm.   
+2 
+ BIS Review 49/2006
+US Corporate and Government Bond Yields
+Monthly
+ 15
+12
+9
+6
+3
+BAA
+AAA
+A
+AA
+Treasuries
+ 15
+12
+9
+6
+3
+ 0
+0
+1920 1930 1940 1950 1960 1970 1980 1990 2000 2010
+Sources: Global Financial Data; Moody’s
+US Corporate Bond Spreads
+Rolling 3-month average
+Bps
+750
+600
+450
+300
+150
+BAA
+A
+AA
+Bps
+750
+600
+450
+300
+150
+AAA
+0
+0
+1920 1930 1940 1950 1960 1970 1980 1990 2000 2010
+Sources: Global Financial Data; Moody’s
+  It is more difficult to get consistent data for emerging market yields and spreads over history. But a 
+study released a few years ago by the IMF suggested that, on average, emerging market spreads in 
+the 1990s were much higher – twice as high or more – as in the period of globalisation and free capital 
+flows leading up to World War I.5  
+Now it could immediately be objected that the world of today is a vastly different place from that of 
+these historical episodes, so that any comparison is not valid. During World War II and up to 1951, US 
+bond rates were effectively pegged by the Fed under the monetary procedures then in place. Hence, 
+the bond market was not really a market.6 The US corporate debt market was not so regulated but it 
+was  a  vastly  reduced  market  in  size  in  this  period,  after  the  extremely  high  rates  of  default  in  the 
+                                                      
+5  Paolo  Mauro,  Nathan  Sussman  and  Yishay  Yafeh  (2000),  ‘Emerging  Market  Spreads:    Then  Versus  Now’,  IMF  Working 
+Paper, WP00/190, November  (available at http://www.imf.org/external/pubs/ft/wp/2000/wp00190.pdf).   
+6  This  ended  with 
+the  1951 
+“Accord”  between 
+the  Federal  Reserve  System  and 
+the  US  Treasury.  See 
+http://www.richmondfed.org/publications/economic_research/the_fiftieth_anniversary_of_the_treasury-
+federal_reserve_accord/ for details. 
+BIS Review 49/2006 
+ 3
+period of the Great Depression.7 The peak number of US corporate borrowers rated by Moody’s in the 
+mid 1920s was not surpassed until 1997.8 So while those bonds that were in the market from the end 
+of World War II until the early 1970s paid quite low spreads, it is not clear to what extent this provides 
+a reasonable basis for comparison with the larger and more active market of today.  
+On the other hand, it is a natural human tendency to think that the world we face is unprecedented in 
+its risk and complexity compared with the past, when it probably is not.9 It has to be said as well that 
+the 1970s and 1980s were also, historically, rather an unusual period. This era saw a major outbreak 
+of price inflation, which had hitherto been seen only during wars. Inflation was not only high, but highly 
+variable,  and  policy-makers  struggled  to  formulate  an  effective  response.  This  was  extremely 
+disruptive for fixed-income markets, and for financial asset pricing generally. Nominal yields rose to 
+unheard of levels.10 The business cycle downturns of this period seemed to be much more damaging 
+than earlier post-World War II recessions. In general, it was a period of considerable macroeconomic 
+instability.  
+That instability has subsided considerably since then, as I shall show in a moment. But the echoes of 
+the 1970s and 1980s – an intellectually formative period for most of us here – took a long time to fade; 
+just as nominal interest rates took time to recognise rising inflation, they took time to recognise what 
+was clearly, in hindsight, a fundamental regime shift in inflation which occurred in most countries in the 
+mid 1980s.  
+So in assessing the level of interest rates or spreads for reasonableness, it can be difficult to find a 
+period of history that can serve as a neutral basis for comparison. While the mid 20th century might not 
+be  ideal  as  a  benchmark,  the  1970s  and  1980s  are  surely  quite  unsatisfactory.  Perhaps  the  safest 
+conclusion is that no historical period can be assumed unambiguously to be a good benchmark for 
+pricing.  Each  period  is  different  and  we  need  to  make  efforts  to  understand  the  forces  at  work  in 
+economies and financial markets at the time.  
+Economic variability 
+That brings me to the second set of questions: is there any evidence, at a macroeconomic level, that 
+economies are less volatile than they were in the past?  
+The  answer  is  clearly  yes.  A  host  of  studies  have  documented  a  decline  in  the  variability  of  GDP 
+growth not only in the United States but also in a number of developed economies, even though there 
+are still periodic recessions.11  
+                                                      
+7   One  authoritative  study  found  that  one-tenth  of  investment  grade  and  over  one-third  of  speculative  grade  corporate 
+borrowers defaulted between the end of 1931 and the end of 1935.   See W. Braddock Hickman (1958), Corporate Bond 
+Quality and Investor Experience, Princeton University Press for National Bureau of Economic Research. 
+9 
+8  David T. Hamilton, Praveen Varma, Sharon Ou and Richard Cantor (2006), ‘Default and Recovery Rates of Corporate Bond 
+Issuers, 1920-2005’, Moody’s Investors Service. 
+Is the world a more risky place today than it was 50 or 60 years ago?   I am not sure that it is.   We can point to the threat of 
+terrorism, the impact of globalisation on various business models, avian flu and so on.   But without wishing to downplay the 
+importance of those factors, the earlier era included World War II, the Korean and Vietnam wars, the broader cold war with 
+its  threat  of  nuclear  conflict,  and  intense  political  uncertainty  and  risk  in  various  countries.      In  late-1940s  Australia,  for 
+example, the Federal Government sought to nationalise the banking system – presumably a source of considerable risk for 
+the  owners  of  the  time.      There  were  also  major  technology  changes  in  that  era,  which  would  have  destabilised  some 
+important existing business models.   For example, the development of air transport, and its acceleration (literally) with the 
+development of the jet aircraft in the 1950s, would have changed the outlook for railroads and ocean travel dramatically.   
+The advent of transistors was, by the 1960s, transforming the electronics sector long before the PC or the flat-panel screen 
+arrived.   Arguably the world was no less “risky”, or more precisely, a no less uncertain place in those days.    
+10  Bernstein writes (op cit, pp. 334-335):  “In the early 1970s, long-term interest rates rose above 5 per cent for the first time 
+since the Civil War and have dared to remain above 5 per cent ever since”.  This was written in 1996.  Long-term US rates 
+have,  of  course,  subsequently  traded  as  “low”  as  below  4 per  cent  and  are  currently  about  5 per  cent.      This  territory 
+presumably looks much more familiar to people who remember the 1950s and 1960s.   
+11  See http://www.kc.frb.org/publicat/econrev/PDF/3q05summ.pdf
+ 
+ 
+ 
+ 
+http://www.federalreserve.gov/pubs/feds/2005/200554/200554pap.pdf
+http://www.cepr.org/pubs/new-dps/dplist.asp?dpno=5413
+http://www.phil.frb.org/files/wps/2003/wp03-22.pdf
+http://www.nber.org/papers/w12079.pdf   
+4 
+ BIS Review 49/2006
+   Much  of  this  literature  has  tended  to  compare  the  period  since  the  mid  1980s  with  the  preceding 
+couple of decades. But in fact, for the US at least, a decline had been under way long before then. 
+Work conducted by one of my RBA colleagues, John Simon,12 documents a long-term trend decline in 
+US output volatility dating from the early 1950s, which was interrupted by the 1970s’ and early 1980s’ 
+instability.  
+Variability of Real GDP* 
+United States 
+Average 
+growth 
+% 
+4.0 
+3.0 
+3.1 
+3.3 
+Standard 
+deviation
+% pts 
+2.55 
+2.76 
+1.26 
+1.27 
+  OECD 
+Average 
+growth 
+% 
+n.a. 
+3.2# 
+2.8 
+2.7 
+Standard 
+deviation
+% pts 
+n.a. 
+1.91# 
+0.90 
+0.78 
+Australia 
+Average 
+growth 
+% 
+4.5 
+3.1 
+3.4 
+3.7 
+Standard 
+deviation
+% pts 
+2.37 
+2.01 
+1.53 
+0.94 
+  1951-69 
+1970-85 
+1986-2005 
+1996-2005 
+* Based on annual data 
+# Data are for 1971-85 
+ 
+Variability of Core CPI Inflation* 
+Standard 
+deviation 
+n.a. 
+1.92# 
+2.18 
+1.10 
+Australia 
+Average 
+rate 
+n.a. 
+8.7 
+3.6 
+2.4 
+Standard 
+deviation 
+n.a. 
+3.16 
+2.25 
+0.46 
+ United States 
+Average 
+rate 
+2.5 
+6.7 
+3.0 
+2.2 
+Standard 
+deviation 
+1.67 
+2.91 
+1.08 
+0.43 
+OECD 
+Average 
+rate 
+n.a. 
+10.1# 
+4.9 
+3.2 
+  1958-69 
+1970-85 
+1986-2005 
+1996-2005 
+* Based on December quarter on December quarter data 
+# Data is 1978-85 
+ 
+An even more remarkable feature of the past 15 years is the trend decline in both the rate of inflation 
+and the variability of inflation. The average rate of inflation since the mid 1990s in the US has been 
+about one-third of what it was in the period 1970-85, while the volatility of inflation has fallen to about 
+one-seventh  of  its  previous  value.  Quite  similar  results  have  been  observed  in  Australia.  For  the 
+OECD group, the trend is similar though less pronounced.  
+These  trends  are  surely  of  great  importance  for  financial  pricing.  There  will  always  be  individual 
+businesses  that  fail  because  of  technological  obsolescence,  flawed  strategies  and  so  on – 
+idiosyncratic risk remains. That is why the list of firms in the Dow Jones 30 or the ASX top 50 is rather 
+different  today  from  a  decade  or  two  ago.13  But  insofar  as  the  probability  of  default  usually  rises 
+sharply  in  a  business  cycle  downturn,  it  must  matter  that  the  size  of  year-to-year  fluctuations  in 
+economic activity is half what it once was. And the value of re-attaining virtual price stability around the 
+world, dramatically reducing one source of uncertainty over the future value of nominal claims, should 
+not be underestimated. High and variable inflation is a powerful deterrent to people parting with their 
+money  for  long  periods.  To  the  extent  that  the  term  premium  in  long-term  interest  rates  reflects 
+compensation for both the level and the volatility of expected future inflation, one could expect those 
+premia to be reduced if we have returned to a world of near price stability. An alternative way to make 
+                                                      
+12  Olivier J. Blanchard and John A. Simon (2001), ‘The Long and Large Decline in US Output Volatility’, MIT Department of 
+13  For the Dow Jones 30, 15 of the current companies were present in May 1986.  For the ASX 50, 18 were there in 1988. 
+Economics Working Paper 01-29, April (available at http://papers.ssrn.com/sol3/papers.cfm?abstract_id=277356)   
+BIS Review 49/2006 
+ 5
+the same point is to note that a more stable world means less variation in policy interest rates, which 
+presumably reduces premia built into longer-term rates to compensate for expected future variability in 
+short rates.  
+That having been said, the evidence for this greater macroeconomic stability producing less volatile 
+returns to equity or bond investors to date is mixed. Volatility in returns to equity holders, measured by 
+rolling standard deviations of quarterly accumulation index returns, displays pronounced cycles. But 
+there is little obvious tendency for equity returns volatility in the US or Australia to be systematically 
+lower since the early 1990s (though for Australia it was lower than the peak levels of the mid 1970s). 
+Volatility in bond returns tended to remain reasonably high in the US in this period, notwithstanding the 
+improvement in inflation stability.14 If this indicates continuing volatility in subjective discount rates, it 
+may  have  limited  the  extent  to  which  volatility  of  equity  returns  could  fall.15  Were  macroeconomic 
+stability to continue, it is conceivable that long-term interest rates might also become more stable; that 
+would presumably carry some implications for equity (and other asset) valuations. But whether that 
+occurs or not remains to be seen. Indeed at present we seem, if anything, to be seeing something of a 
+pick-up in short-term volatility in many asset classes.  
+ 
+Volatility of Stock Market Returns
+Rolling 3-year standard deviation of monthly returns
+United States
+Australia
+ 15
+12
+9
+6
+3
+1910
+1950
+Sources: Global Financial Data; RBA
+1930
+1970
+1990
+0
+2010
+  15
+12
+9
+6
+3
+0
+                                                      
+ 
+14  The  data  suggest  that  volatility  of  returns  to  holders  of  US Treasuries  soared  during  the  economic  instability  of  the  late 
+1970s and early 1980s, as the US fought and ultimately broke a serious inflation.   In Australia’s case, an apparent rise in 
+volatility in the 1980s mainly reflected the bond market becoming a real market again, rather than a captive arrangement for 
+investors.   Volatility of returns these days is comparable to the US results.    
+15  On 
+this 
+point, 
+at 
+http://www.federalreserve.gov/boarddocs/speeches/2005/200511152/default.htm.    Strictly  speaking,  the  volatility  of  equity 
+returns  is  related  not  just  to  the  volatilities  of  the  flow  of  earnings  and  discount  rates,  but  also  the  co-variance  between 
+earnings and discount rates.    
+November 
+Ferguson, 
+remarks 
+Roger 
+2005, 
+see 
+by 
+6 
+ BIS Review 49/2006
+Volatility of 10-year Government Bond Returns
+Rolling 3-year standard deviation of monthly returns
+ 10
+8
+6
+4
+2
+0
+Australia
+United States
+ 10
+8
+6
+4
+2
+1910
+1950
+Sources: Global Financial Data; RBA
+1930
+1970
+1990
+0
+2010
+ The evidence for enhanced stability for emerging markets is not so easy to come by. But it could be 
+said, I think, that the fundamental position of a number of emerging-market countries has improved 
+since  the  late  1990s.  They  have  increased  growth  and  greatly  reduced  inflation.  The  median  credit 
+rating  of  the  countries  in  the  JPMorgan  EMBI  has  risen  by  two  notches.  Recent  work  by  the  IMF 
+suggests  that  such  factors  can  account  for  part,  though  not  all,  of  the  decline  in  spreads  in  recent 
+years.16 Of course, the fact that this has been a period of quite stable economic outcomes and low 
+yields  in  developed  countries,  hence  prompting  a  search  for  yield  elsewhere,  has  been  a  big 
+advantage  to  emerging-market  borrowers.  But  a  number  of  these  countries  do  seem  to  have  been 
+using  the  benign conditions  to strengthen  their  financial  resilience.  One  of  the  periodic  tests  of  that 
+resilience appears to be under way at present.  
+2005 
+4.1 
+4.1 
+BBB 
+2000 
+3.8 
+7.0 
+BB+ 
+Key Indicators for Emerging Markets* 
+1995 
+2.7 
+21.4 
+BB+ 
+ 
+GDP Growth (%) 
+Inflation (%) 
+S&P Credit Rating 
+* Median values for group of countries in JPMorgan EMBI Global 
+Sources: Bloomberg, IMF World Economic Outlook 
+ 
+This  very  brief  look  at  some  of  the  key  facts  cannot  claim  to  be  a  comprehensive  analysis. 
+Nonetheless, a marked improvement in macroeconomic conditions in many countries – not just lower 
+volatility of growth, but also a vast reduction in inflation and inflation variability – after the upheavals of 
+the 1970s and early 1980s would seem to have been an important factor conditioning financial pricing 
+for “risk” over recent years. That this might show up in yields and spreads, which look a bit more like 
+they  were  in  the  1950s  and  1960s,  and  less  like  they  were  in  the  1970s  and  1980s,  is  not  that 
+surprising. We cannot be sure, of course, whether the extent of the change has been appropriate, but 
+we can at least see some logic for its direction. 
+Can it last? 
+The final question, then, is whether this apparently benign state of affairs can persist.  
+                                                      
+16   See  ‘Main  Drivers  of  Emerging  Market  Bond  Spreads:    Fundamentals  or  External  Factors?’,  (Box  1.5),  Global  Financial 
+28-31 
+Stability 
+(available at http://www.imf.org/External/Pubs/FT/GFSR/2006/01/index.htm).  
+International 
+Monetary 
+Report, 
+Fund, 
+2006, 
+April 
+pp. 
+BIS Review 49/2006 
+ 7
+In  particular, given  that  long-term  yields  and spreads  have  recently  been  at  levels  seen  for  lengthy 
+periods after World War II through until the 1960s, is it possible that the prospective environment for 
+capitalist economies is actually like it was during that period? The post-war era was a period when 
+there were still business cycles, but there was a long-asting and pretty robust secular expansion in 
+economic activity and global trade, with relatively little instability. Granted, in Europe and Japan there 
+was the rebuilding and “catch-up” after wartime devastation, which no longer needs to occur. But in its 
+place  is  catch-up  by  China,  India  and  a  range  of  smaller  economies  which  are  engaging  in  the 
+international economic and financial system. The openness of that system, if we are able to maintain 
+it, arguably offers as much scope for strong growth accompanied by price stability as did the post-war 
+world.  
+Or is it the case that people are underestimating the likelihood of less stable times in the future? Is 
+there,  just  around  the  corner,  some  event  that  will  usher  in  a  period  of  instability,  triggering  a 
+wholesale  reappraisal  of  economic  and  financial  prospects,  and  hence  appetite  for  risk?  In  that 
+scenario,  some  of  the  financial  exposures  that  were  taken  on  in  a  mood  of  optimism  over  the  past 
+several years could be unwound, possibly quite disruptively.  
+One’s answer to such questions hinges to a considerable extent on what one thinks was behind the 
+enhanced  stability  of 
+the  past  decade  and  a  half.  Better  macroeconomic  policies,  better 
+microeconomic policies, globalisation, technological advance, good luck – all of these can plausibly be 
+argued to have played a role. People can make their own assessments of the likelihood of a continued 
+role for such factors (presumably one should not rely much on luck!).17  
+The truth, however, is that our capacity to predict even the near-term future is limited. Grappling with 
+the  question  of  whether  we  are  in  a  new  epoch –  and  pricing  accordingly –  is  an  even  bigger  ask. 
+Following  World  War II,  the  main  fear  among  the  economics  fraternity  in  many  countries  was  of 
+another depression and deflation akin to the 1930s, as the demand provided by defence expenditures 
+tailed off and military personnel re-entered the civilian labour force.18 In fact, partly as a result of that 
+policy  preoccupation,  the  economy  expanded  strongly  through  the  1950s  and  1960s,  and  it  was 
+inflation, not deflation, that ultimately turned out to be the problem – a problem which then took quite 
+some time (in Australia’s case, two decades) to sort out.  
+That  should,  if  nothing  else,  make  us  cautious  about  long-term  prediction.  But  the  end  of  the  long 
+post-war boom also highlights something else. We can see now that during that period, businesses, 
+wage earners, industrial tribunals and policy-makers gradually adapted their behaviour as they came 
+to assume that the long expansion could continue indefinitely. As they did, they sowed the very seeds 
+of the expansion’s demise. The oil price rises of the mid 1970s were a shock, but the other problems 
+on the supply side of market economies had been developing for some time.  
+And that, perhaps, points to the relevant question to pose at present. It is possible that the world is in 
+for another period of stability like the 1950s and 1960s. But even if it is, even if some of the “risks” of 
+economic life, insofar as we can quantify them, are actually lower, or can be better managed, people 
+will  adjust  to  that.  So  the  question  is:  might  not  the  behaviour  of  borrowers,  lenders,  investors  and 
+price setters, in response to perceived lower risk, itself work to increase the probability of instability in 
+future?  
+This, of course, is the question posed about the tendency of households in some countries (including 
+Australia) to take on much more debt. In enjoying – rationally, based on lengthening experience – the 
+opportunities afforded by a more stable macroeconomic environment and a more complete and liquid 
+set  of  capital  markets,  are  they  in  the  process  gradually  impairing  the  very  resilience  to  economic 
+shocks which helped to produce the stability in the first place? It is not saying anything new to note 
+that this is a significant source of uncertainty for policy-makers: there is no historical dataset to draw 
+on  in  estimating  how  households  might  respond  to  a  macroeconomic  downturn  under  conditions  of 
+                                                      
+17   As  others  have  pointed  out,  though,  improvements  in  these  various  areas  do  not  make  for  continuing  reductions  in  risk 
+premia and rises in asset valuations – only a one-time adjustment.   It is important that people understand that point, rather 
+than  just  extrapolating  trends.      See  Paul  Tucker  (2006),  ‘Uncertainty,  the  Implementation  of  Monetary  Policy  and  the 
+Management 
+Risk’ 
+(available at http://www.bankofengland.co.uk/publications/news/2006/056.htm). 
+of 
+18  See,  for  example,  Joseph  D.  Coppock  (1962),  International  Economic  Instability –  The  Experience  After  World  War  II, 
+McGraw  Hill,  pp 1-2;    Richard  N.  Cooper  (1993),  in  Michael Bordo  and  Barry Eichengreen  (eds),  A  Retrospective  on  the 
+Bretton Woods System, University of Chicago Press, p 105. 
+8 
+ BIS Review 49/2006
+much higher leverage. Nor, for lenders, could historical rates of default on mortgages be assumed to 
+be a good guide to the future, since that dataset is derived from an era of different behaviour. It cannot 
+be assumed that future outcomes will be drawn from the same distribution.  
+Questions could well extend – once again – to some corporate entities before much longer, given the 
+re-emergence  of  leveraged  buy-outs,  which  leave  the  cash-flow  positions  of  the  corporations  more 
+precariously balanced. At least here there is, admittedly, more historical experience as a guide to likely 
+subsequent behaviour.  
+Of  perhaps  more  immediate  relevance,  considerable  sums  of  money  have  been  risked  over  recent 
+years in various manifestations of the search for yield, which depended on a degree of stability and 
+predictability  in  global  short-term  interest  rates  that  was  unlikely –  even  with  a  more  stable 
+macroeconomy – to last for a long time. While I believe central banks will continue to control inflation 
+over the years ahead, this does require short-term rates to move: they cannot stay low and steady 
+permanently. Market action around the world over recent weeks reflects, in part, some adjustment to 
+previous  assumptions  about  the  likely  degree  of  short-term  rate  variation  in  major  countries  which 
+were overly sanguine.  
+There  are  also  some  challenging  questions  associated  with  the  very  rapid  growth  seen  in  credit 
+derivative  markets  in  recent  years.  Generally  speaking,  this  should  be  promoting  the  more  efficient 
+pricing of credit risk and helping to shift it away from its intrinsic origin in businesses and their bankers 
+to a broader set of holders who really want it. From the perspective of economic and financial stability, 
+such a trend is to be welcomed. But even leaving aside the question of whether some investors know 
+what they are actually getting into, the amount of leverage that can be embedded in such products is a 
+potential source of trouble. There is also considerable uncertainty about whether, under conditions of 
+stress, liquidity in these markets will be such as to allow risk-holders to manage their positions.  
+I have made it almost to the end of my presentation without mentioning “global imbalances”. It is time 
+they received a mention, though not in the way you probably would expect. While there are some risks 
+posed  by  the  possibility  of  disorderly  changes  to  interest  rates,  exchange  rates,  American 
+consumption patterns and so on, I think the biggest risk stemming from the imbalances is of another 
+kind. It is that the wrong conclusions will be drawn, based on partial or simply wrong analysis, with the 
+result that structural problems in various countries will not be addressed, and/or that protectionism will 
+flourish, under the guise of attempts to affect bilateral “imbalances”. That would undermine the global 
+openness that has helped to produce the enhanced stability we have been enjoying.  
+Conclusion 
+It is frustrating that we cannot offer a definitive assessment of the adequacy or otherwise of pricing for 
+risk. Taking a long historical perspective, it is not unreasonable to claim that risk – at least aggregate 
+economic variability – really is lower, in some important dimensions, than it was 10 or 20 years ago. 
+Certainly the 1970s and early 1980s – a period which deeply affected financial markets for a very long 
+time – were themselves unusual and not a good benchmark for judging pricing. Yet notwithstanding 
+this evidence, experienced hands almost invariably have an uneasy feeling about developments. In 
+part,  that  unease  reflects  a  conviction  that  the  business  cycle  (and  the  cycle  of  greed  and  fear  in 
+markets) has not gone away. But it also reflects a recognition that behavioural changes are occurring, 
+in response to the environment we face, which could elevate risks or create new ones. At some point, 
+the financial structure emerging as a result of this behaviour will be tested. But exactly when the bell 
+might ring to signify a new phase of the game, and what event might be the catalyst, we cannot say. In 
+other words, life remains uncertain.  
+That  is  a  good  reason  why,  as  my  US colleague,  Tim Geithner,19  suggested  recently,  thoughtful 
+managers will surely be using the good times to strengthen resilience, and will be wary of the “late 
+cycle” tendency for risk management and credit standards to become lax. Even if the future is pretty 
+stable, there will still be a business cycle. Some occasional counter-cyclical behaviour gives us the 
+best chance of continuing the stable, steady conditions – and good returns for investors – that markets 
+seem so confidently to expect. 
+                                                      
+19  Timothy  F.  Geithner  (2006),  “Risk  Management  Challenges  in  a  Changing  Financial  Environment”    (available  at 
+http://www.bis.org/review/r060407a.pdf).   
+BIS Review 49/2006 
+ 9

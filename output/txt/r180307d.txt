@@ -1,0 +1,155 @@
+Joachim  Wuermeling:  Artificial  intelligence  (AI)  in  finance  -  six
+warnings from a central banker
+Intervention  by  Prof  Joachim  Wuermeling,  Member  of  the  Executive  Board  of  the  Deutsche
+Bundesbank, at the 2nd Annual FinTech Conference, Brussels, 27 February 2018.
+1 Don’t miss out on the opportunities of AI in finance …
+ AI in finance could impact on the functioning of our financial system in a profound way. Some
+suggest  that AI  is  enhancing  the  power  of  the  human  brain  in  the  same  way  that  electricity
+enhanced the power of the body 150 years ago. Hence, it could become a big thing in finance.
+Artificial intelligence and big data are currently the strongest and most vivid innovation factors in
+the financial sector. Using AI in finance may trigger dramatic improvements in many businesses.
+AI elevates the role of data as a key commodity. Used wisely, big data make outcomes more
+reliable and may improve financial mediation. Process chains can be organised in new ways.
+“The scope and nature of banks’ risks and activities are rapidly changing,”  as  a  recent  Basel
+Committee analysis puts it.
+This evolution towards increased use of non-human intelligence is not something that has just
+occurred in the last few years. The first invention of neural networks, a central pillar of most AI
+systems, dates back to the year 1943.
+Until a few years ago, the main users of big data and AI in the area of finance were certain hedge
+funds and high-frequency trading firms. In recent times, the application of AI in finance has begun
+to  spread  widely,  via  “normal”  banks,  FinTechs  and  other  financial  service  providers,  to  the
+general public.
+Since 2011, HFT has accounted for about 45–50 % of all trading in US equities. The figures for
+the main European indices are in the same region (with about 40 % for German DAX futures).
+Taken  together  with  all  other  “normal”  algorithmic  trading  activities,  we  currently  estimate  the
+amount  of  algorithmic  trading  to  be  in  the  realm  of  80–90  %  of  the  entire  trading  volume  for
+equities (and somewhat less but still very high in other market segments).
+A single normal trading day generates about 3–6 million data points about prices, order deletions
+and modifications in DAX futures alone. No human can analyse these amounts of data simply by
+looking  at  them  in  an  Excel  spreadsheet.  More  sophisticated  and  sometimes  also  AI-driven
+techniques are necessary to do the job.
+AI profoundly changes the functioning of our financial system in at least three areas: products,
+processes  and  analysis.  This  is  true  for  both  front  office  functions  (eg  customer  business,
+trading)  and  back  office  functions  (eg  executing  trades,  risk  management,  market  research).
+Special-purpose  AI  can  solve  specific  problems,  eg  in  customer  engagement,  financial
+management or cybersecurity.
+Applications  focused  on  market  operations  cover  various  core  areas  eg  trading,  portfolio
+composition, backtesting and validation of models, market impact analysis, modelling trading of
+large  positions  and  stress  testing.  Dynamic  portfolio  adjustment,  depending  on  the  macro
+environment, may be strengthened by AI.
+With the help of AI, various human shortcomings in dealing with finance can be mitigated. As
+behavioural  finance  has  taught  us,  biases,  inertia  and  ignorance  lead  to  the  malfunctioning  of
+markets. AI allows humans to reach out beyond their intellectual limits or simply avoid mistakes.
+ 1 / 4
+BIS central bankers' speeches
+2 … but beware of the risks
+But opportunities are always accompanied by risks. As regards the financial system, if too much
+trust  is  put  in  “intelligent”  systems,  the  stability  of  financial  markets  may  be  at  stake.  The
+workings of AI can be a mystery; it can trigger loss of control, make fatal  errors,  and  have  a
+procyclical effect due to its mechanistic functions. Pattern recognition has its limits. This can be
+dangerous particularly in crisis scenarios. An autopilot would never have been able to land a jet
+on the Hudson River. Nor can algorithms stabilise in periods of financial stress.
+Looking at the recent turbulence in equities and the market for VIX-related financial products, it
+can  be  concluded  that  the  events  of  5  February  share  many  similarities  with  a  “flash  crash”.
+Unfortunately, as with the original flash crash of May 2010, we have only limited knowledge about
+the direct drivers that triggered the event. It can be assumed that algorithmic market participants
+were quite active during the relevant period. But as to which strategies were applied and to what
+effect, we have no knowledge so far. The rise in volatility in the S&P 500 then nearly instantly
+affected the VIX industry, making it not the cause but more the first victim of this market event,
+with losses up to 95 % on assets. We do not expect this phenomenon to disappear in the future.
+On the contrary, more of these flash events are to come.
+AI is still in its infancy. Continuous processes for the entire AI lifecycle still have to be defined and
+scaled for business needs. That means that AI must be embedded in the process of acquiring
+and organising data, modelling, analysis and delivering analytics. The skills gap, particularly with
+regard to data science and machine learning expertise, is the foremost challenge. At this stage,
+non-human intelligence is far from replacing the human brain in any respect. Computers are like
+school pupils dividing numbers mechanically without having understood what they were doing.
+3 Consumers should take care: they remain the risk-takers
+What makes this development so significant is the fact that it is not just occurring at the level of
+systemic  institutions,  markets  and  stock  exchanges.  With  robo  advisers,  for  example, AI  can
+directly  influence  and  control  the  daily  financial  decisions  of  customers  and  ultimately  their
+personal  wellbeing.  Society  has  barely  begun  to  understand  the  economic,  ethical  and  social
+implications of AI.
+While client interaction is made more convenient by mobile banking, chatbots or virtual customer
+assistants, banks can find out more about customer habits and provide them with tailor-made
+financing.
+Consumers may be rated by AI when applying for a mortgage. Pooling data points from internal
+transactions, social networks and other sources provides a more meaningful picture of banks’
+borrowers. But denials may be hard to understand. It may become even harder to challenge a
+decision made by algorithms.
+The proper functioning of the applications is not a given. Simple flaws, cyberattacks and criminal
+behaviour render the systems extremely vulnerable. Consumers should be cautious. They need
+to be protected. Laws may have to be modified to cover new threats. Responsibility and liability in
+the case of malfunctioning machines have to be clarified.
+4 FinTechs should not ignore the legitimate concerns of society and supervisors
+Agile tech companies are driven by an admirable energy and inspiration. By nature, they take
+risks.  They  create  an  idea,  build  a  prototype  and  try  it  out  immediately  in  the  real  world.
+Regulation, supervision, obligations and requirements must make them extremely nervous.
+But the wellbeing of society depends on rules. The public demands cybersecurity, data privacy,
+consumer  protection  and  financial  stability.  FinTechs  should  not  brush  aside  the  concerns  of
+ 2 / 4
+BIS central bankers' speeches
+their stakeholders. Business can only flourish if it is broadly accepted by citizens.
+FinTechs usually pick up specific elements of the work chain of finance or create new features.
+Using  technology,  they  modularise  and  customise  products  as  a  third  party  or  standalone
+provider.
+FinTechs are part of the finance sector but are not necessarily supervised. As long as they carry
+out  tasks  for  supervised  entities,  these  institutions  are  responsible  for  the  behaviour  of  the
+FinTech.
+5 AI needs new forms of supervision
+“Artificial  intelligence”  may  sound  glamorous  from  a  technological  perspective,  but  in  banking
+supervision, the well-established principle of "same business, same risk, same rules" has so far
+proved to be a sound standard for innovations. Whether they employ AI themselves or outsource
+it to FinTechs, from the supervisors’ point of view responsibility remains entirely with the bank.
+For  German  supervisors,  IT  governance  and  information  security  nowadays  are  equally  as
+important as capital and liquidity requirements.
+All  financial  institutions  should  address  the  risks  posed  by  new  technologies.  Banks  have  to
+implement  effective  control  environments  needed  to  properly  support  key  innovations.  This
+includes the requirement to have appropriate processes for due diligence, risk assessment and
+ongoing monitoring of any operations outsourced to a third party.
+The European MiFID II includes the requirement that firms applying algorithmic models based on
+AI  and  machine  learning  should  have  a  robust  development  process  in  place.  Firms  need  to
+ensure that potential risks are considered at every stage of the process.
+Regulators increasingly have to apply AI-supported analytical methods themselves to recognise
+vulnerability patterns, scan lengthy reports or analyse incoming data.
+In  any  case,  we  must  strike  a  balance  between  financial  stability  and  avoiding  barriers  for
+potential  new  entrants,  products  and  business  models.  Alongside  technological  progress,
+regulators  have  to  constantly  reassess  the  current  legal  framework,  supervisory  models  and
+resources.
+6 Central banks should embrace AI
+Central  banks  have  access  to  huge  amounts  of  very  valuable  data  stemming  from  market
+operations, supervision, payments and statistics. They are well positioned to tap the benefits of
+AI so they can enhance their ability to fulfil their mandate for price stability and the stability of the
+financial system.
+Machine learning is already  being  used  at  the  Bundesbank  in  different  narrow  segments.  The
+experiences  of  all  users  have  been  good  without  exception.  While  monitoring  the  technical
+progress, we are currently discovering further use cases and defining our AI foundation, strategy,
+organisation and processes.
+Here is a list of examples, which is by no means exhaustive:
+In  risk  management,  neural  networks  assess  and  evaluate  the  financial  soundness  of  the
+markets. Market research is supported by adopting web mining techniques and machine learning
+in  content  analysis,  topic  modelling  and  clustering  of  relevant  articles.  In  statistics,  machine
+learning  enables  new  methods  for  data  quality  management,  eg  in  the  context  of  securities
+holdings  or  the  classification  of  company  data.  Furthermore,  the  informational  content  of
+seasonality tests is assessed by a random forest machine learning technique. For our IT user
+ 3 / 4
+BIS central bankers' speeches
+help desk, the handling of routine requests via automated chatbot responses could be a useful
+support  measure.  We  use  social  media  data  to  detect  trends,  turning  points  or  sentiments.
+Machine learning methods can be applied for variable selection purposes in econometric models.
+ANNEX: Use case – monitoring of real estate markets
+An interesting data source is internet platforms. For example, some rental and housing platforms
+have the potential to improve the analysis and monitoring of real estate markets via the provision
+of  information  such  as  list  prices  and  structural  and  locational  characteristics  of  the  property
+market at a disaggregated level.
+This is mainly based on the assumption that these data contain information on the expectations
+and  interests  of  economic  agents  with  respect  to  future  decisions.  In  such  contexts,  a  wide
+range of topics or "search strings" are often potentially relevant. This can result in many different,
+highly correlated time series.
+Furthermore, the "textual analysis" method is increasingly applied in research, as large amounts
+of "unstructured" information on businesses and the economy are available electronically on the
+internet.  In  order  to  operationalise  textual  data  for  econometric  analysis,  machine  learning
+algorithms can be helpful. Learning methods can be applied to classify textual documents into
+different categories which can then be used to draw statistical inferences.
+ 4 / 4
+BIS central bankers' speeches

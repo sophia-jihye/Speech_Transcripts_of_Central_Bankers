@@ -1,0 +1,886 @@
+José Manuel González-Páramo: “Whither liquidity? Developments, 
+policies and challenges” 
+Speech  by  Mr  José  Manuel  González-Páramo,  Member  of  the  Executive  Board  of  the 
+European Central Bank, at the 28th Nomura Central Bankers Seminar, Tokyo, 14 April 2008. 
+ Introduction1  
+1.  
+Ladies and Gentlemen, 
+It is a great pleasure for me to be here in Tokyo. I would like to thank the organisers of this 
+important event, the 28th Nomura Central Bankers Seminar, for giving me the opportunity to 
+share with such a distinguished audience some considerations about the role of liquidity in 
+the recent market turmoil.  
+The  current  turmoil  in  financial  markets  has  been  to  a  very  large  extent  about  “liquidity”. 
+Since  august  2007  the  different  phases  of  the  turmoil  have  been  marked  by  repeated 
+disruptions to the traditional mechanisms of liquidity creation and transmission, both at the 
+aggregate and at the individual level.  
+Indeed, from the start of the turmoil we have experienced several episodes of contraction in 
+the  degree  of  liquidity  of  a  variety  of  money  and  credit  markets.  Some  of  these  episodes 
+have been experienced in the market for inter-bank unsecured loans, a key component of the 
+money  market  and  the  starting  point  of  the  monetary  transmission  mechanism.  Moreover, 
+liquidity  has  also  dried  up  in  the  market  for  mortgage-backed  securities  and  commercial 
+paper  as  well  as  for  structured  credit  products.  And,  occasionally,  poor  liquidity  conditions 
+have  been  reported  in  markets  for  securities  historically  regarded  as  very  liquid  and  safe, 
+such  as  the  market  for  banks’  secured  covered  bonds  or,  even,  the  government  bonds  of 
+some developed economies.  
+Indeed, at some points in time over the last few months we have observed rises in order-
+based measures of liquidity risk for a variety of money and credit markets and declines in 
+traded volumes that could be explained only by the existence of severe stress. 
+At the individual level, liquidity shortages have taken a toll on a limited number of financial 
+institutions. 
+In my intervention, I would like to first recall some of the main issues related to liquidity and 
+banks’ liquidity management that have played a central role during the recent market turmoil. 
+Second, I will briefly review developments in liquidity in credit and money markets from the 
+start  of  the  turmoil.  Third,  I  will  describe  some  of  the  actions  that  central  banks  (and, 
+particularly, the ECB) have undertaken to mitigate disruptions to the traditional channels of 
+liquidity provision from the start of the turmoil. Finally, I will attempt to draw some preliminary 
+lessons on liquidity management and present some of the public and private initiatives that 
+are currently under discussion in order to reinforce the industry and regulatory framework for 
+liquidity risk management.  
+                                                 
+1  
+I am very grateful to Samuel López, Philippe Molitor, Romana Peronaci, Valia Rentzou, Ralph Weidenfeller 
+and Alessandro Calza for their valuable inputs and contributions, and to Ulrich Bindseil and Fatima Pires for 
+their useful comments. 
+BIS Review 43/2008 
+ 1
+2.  
+Liquidity issues 
+The multi-faceted nature of liquidity 
+Before  moving  on,  it  may  be  worth  agreeing  on  a  working  definition  of  the  term  “liquidity”. 
+Indeed, this term is often used to indicate many different things. This is a problem that has 
+been pointed out by several contributors to a recent volume of Banque de France’s Financial 
+Stability Review on liquidity issues.2 For instance, Charles Goodhart notes in his contribution 
+that the difficulty to define liquidity clearly is due to the multi-faceted nature of liquidity itself. 
+Less charitably, Jean Tirole blames the problem on the “unfortunate habit of economists” to 
+use this term to cover different concepts.  
+While some economists may argue that the specific meaning of the term becomes clear once 
+it  is  put  into  context  (particularly  whether  it  is  used  in  relation  to  macroeconomic 
+developments, financial markets or single agents), it is worth striving for more clarity in the 
+use  of  the  notion  of  liquidity.  Since  I  realise  that  this  may  sound  like  a  criticism  to  the 
+profession’s practice, let me come clean by admitting to the same unfortunate habit of using 
+the same term for different purposes. Indeed, I have to acknowledge that at the ECB we refer 
+to  liquidity  to  describe  conditions  and  notions  at  different  levels  (individual,  market  and 
+economy-wide)  that  are  distinct  from  each  other.  So,  as  a  sign  of  repentance,  let  me  try 
+attempt to clarify these different notions and to make the firm resolution to stick to them, at 
+least until the end of this speech.  
+In  the  context  of  the  properties  of  an  individual  financial  instrument,  the  notion  of  liquidity 
+typically refers to the ability of trading such instrument (i.e. purchasing or selling it) without 
+unduly  affecting  its  price.  In  particular,  an  asset  is  described  as  liquid,  thereby  entailing 
+limited liquidity risk, if it is reasonable to assume that it can be easily sold without incurring a 
+loss of value. 
+The notion can also be used to characterise an entire market, also to reflect co-movement in 
+liquidity across assets. In this case, we refer to the ability to trade or liquidate positions in a 
+market without significantly affecting the prevailing market prices. The degree of liquidity of 
+the market for a financial asset is a function of a variety of factors, including: its outstanding 
+size; the relative size, frequency and modalities of transactions; the number and quality of 
+market participants; the relevance of transaction costs; the amount and quality of information 
+on  prices,  traded  volumes  and,  more  fundamentally,  on  the  security  of  the  asset  and  the 
+credit-worthiness  of  counterparties.  Thus,  a  market  in  which  trades  can  be  smoothly 
+executed thanks to the stable presence of numerous buyers and sellers willing to undertake 
+large transactions at narrow bid-offer spreads is generally regarded as highly liquid.  
+When  talking  about  the  market  liquidity,  it  is  also  customary  to  distinguish  between 
+exogenous and endogenous market liquidity.3 Exogenous liquidity is related to the ability of a 
+market  participant  to  execute  a  trade  at  little  or  no  cost.  By  contrast,  endogenous  liquidity 
+refers to the fact that large sales over a given time period may affect market prices, thereby 
+giving  rise  to  valuation  losses.  The  degree  of  exogenous  liquidity  of  a  market  very  much 
+depends on many of the factors that I have just mentioned, notably its size and degree of 
+completeness. However, whether or not a market is exogenously liquid may vary over time 
+and  some  times  dramatically.  Indeed,  markets  that  normally  present  some  desirable 
+properties  ensuring  a  high  degree  of  liquidity  may  become  highly  illiquid  under  stress,  as 
+illustrated by the experience of the very short-term money market in recent months. 
+Going back to the issue of the different notions of liquidity, from the start of the turmoil we 
+have also heard reports about liquidity (or, to be more precise, lack of liquidity) of specific 
+                                                 
+2   Banque de France, Special Issue Liquidity, Financial Stability Review, February 2008. 
+3   See for instance Box 15 in the ECB Financial Stability Review, December 2007. 
+2 
+ BIS Review 43/2008
+individual financial institutions. In these reports, liquidity problems at specific individual banks 
+are usually referred to as equivalent to difficulties in funding their business activities. Indeed, 
+an additional notion of liquidity refers to the ability of a firm (not necessarily from the financial 
+sector):  
+• 
+to convert its assets into cash by disposing of them or borrowing against their value 
+in order to meet expected and unexpected obligations, or 
+to issue liabilities in order to raise funds.  
+• 
+The  degree  of  funding  liquidity  of  a  firm  may  depend  on  a  number  of  factors,  notably  the 
+amounts of liquid assets it holds and the liquidity of the credit and securities markets it relies 
+on for its external financing.  
+The  last  observation  points  to  the  fact  that,  while  the  different  notions  of  liquidity  (notably, 
+market  versus  liquidity  funding)  are  conceptually  distinct,  they  are  in  practice  interrelated. 
+Indeed, some authors have developed models in which market and funding liquidity reinforce 
+each  other,  leading  to  the  emergence  of  positive  or  negative  “liquidity  spirals”  that  may 
+account  for  some  of  the  declines  in  the  liquidity  of  markets  and  individual  institutions 
+observed in recent months.4  
+Aggregate liquidity  
+Before  closing  the  subject  of  defining  liquidity,  let  me  briefly  recall  that  there  is  a  more 
+aggregate notion – that should be fairly familiar to this audience of experts on the Japanese 
+economy  and  Bank  of  Japan’s  Quantitative  Easing  Policy  –  that  is  often  used  to  describe 
+monetary  developments  at  the  macroeconomic  level.  Indeed,  liquidity  is  often  used  as  a 
+synonymous for money supply. In particular, at the ECB we use the term “excess liquidity” to 
+indicate the existence of a stock of money relative to income in excess of the level needed to 
+finance non-inflationary growth in the medium term (as in the quantity theory of money).  
+Of  course,  even  this  notion  of  liquidity  is  not  entirely  unrelated  to  those  mentioned  above, 
+since  money  supply  measures  are  derived  from  the  consolidated  balance  sheet  of  the 
+banking sector. However, it is important not to confuse references to liquidity in the context of 
+liquidity management (that refer to the overall liquidity needs of the banking sector) with the 
+aggregate money holding behaviour of agents other than banks.  
+Market and funding liquidity risks 
+As  I  mentioned  above,  the  liquidity of  a  financial  instrument  may  vary  over  time,  and  may 
+become severely impaired under conditions of stress. Uncertainty about liquidity implies that 
+market participants face the risk that it may not be possible to execute a transaction when 
+they wish to do so due to the lack of counterparties. For instance, a market participant may 
+not be able to sell a security or liquidate a position due to lack of buyers.  
+Similarly, firms (but also households) face the risk of being unable to obtain enough cash to 
+meet their obligations. This funding liquidity risk is particularly relevant for banks since their 
+core business involves the maturity transformation of funds. Indeed, the traditional activity of 
+banks consists of providing liquidity transformation services, by collecting short-term deposits 
+in order to finance the provision of loans with longer maturities. As a result, banks intrinsically 
+face a maturity mismatch in their balance sheets that exposes them to funding liquidity risks.  
+Under  supposedly  extreme  circumstances  (that  the  experience  of  Northern  Rock  suggests 
+may not be that extreme), the maturity mismatch may even imply the risk of a bank run. This 
+                                                 
+4   Brunnermeier,  M.K.  and  L.H.  Pedersen,  “Market  liquidity  and  funding  liquidity”,  forthcoming  in  Review  of 
+Financial Studies. 
+BIS Review 43/2008 
+ 3
+may happen if large numbers of depositors perceive liquidity conditions (or solvency, for that 
+matter) at a specific institution as untenable and rush to withdraw their deposits in waves. 
+Several  mechanisms  and  policies  have  been  developed  over  time  for  prevention  and 
+resolution  of  bank  runs.  These  include  deposit  insurance  schemes  (whether  privately  or 
+publicly 
+funded),  regulatory  and  supervisory  policies  (e.g.  on  reserve  and  capital 
+requirements) and the possible recourse to emergency liquidity assistance from the central 
+bank (the “Lender of Last Resort” classic policy prescription).  
+The “originate and hold” vs. “originate and distribute” models 
+The characterisation of the liquidity risks faced by banks I have made so far conforms to that 
+of the so-called “originate and hold” business model, according to which banks create loans 
+to  firms  and  households  and  hold  them  to  maturity  in  their  balance  sheets.  However,  in 
+recent  decades,  many  banks  have  taken  advantage  of  financial  innovation  and  of 
+developments  in  securitisation  to  progressively  shift  towards  the  so-called  “originate  and 
+distribute”  model.  Under  this  new  model,  banks  originate  loans  but  sell  them  to  structured 
+investment vehicles (often set up by themselves) to be repackaged and subsequently sold as 
+asset-backed securities.  
+In  principle,  this  business  model  is  attractive  for  banks  since  it  provides  them  with  a  new 
+source  of  financing  to  expand  lending,  thereby  mitigating  their  funding  liquidity  risks,  while 
+also allowing them to economise on costly capital requirements. Indeed, it has been argued 
+that regulatory capital arbitrage has been one of the main reasons why banks have adopted 
+the “originate and distribute” model. 
+Also from the point of view of the economy as a whole, the “originate and distribute” model 
+could be viewed as having many advantages. First, being capital costly, the ability to sustain 
+a given level of credit with a lower volume of capital enables the banking sector to reduce the 
+costs of credit for borrowers and favours financial development. Moreover, it may be seen as 
+representing a step towards more complete credit markets, thereby contributing to enhancing 
+the  efficiency  of  the  economic  system.  In  addition,  the  securitisation  of  loans  in  principle 
+could reduce a secular source of vulnerability of the economies, by taking risk concentrations 
+associated  with  loan  portfolios  away  from  the  banking  sector  and  spreading  them  more 
+broadly across other sectors. As a result, the “originate and distribute” model may potentially 
+diminish  the  likelihood  of  the  credit  busts  and  banking  crises  that  have  historically  been  a 
+major source of macroeconomic and financial instability in many economies.  
+It should be noted though that, even before the outbreak of financial market turmoil, some 
+commentators  have  voiced  doubts  about  some  of  the  welfare-enhancing  effects  of  the 
+“originate  and  distribute”  model.  For  instance  it  has  been  argued  that,  while  securitisation 
+certainly  spreads  existing  risks,  it  may  in  fact  encourage  the  creation  of  further  risks, 
+particularly by relaxing the incentives for banks to screen and monitor borrowers in order to 
+alleviate  the  informational  asymmetries  associated  with  credit  contracts.  More  generally,  it 
+has  been  questioned  whether  the  securitisation  of  loans  may  not  perversely  shift  risk 
+concentrations to sectors potentially more vulnerable than those that originated them.  
+In this regard, I remember reading a few years ago in the Bank of Japan’s Financial Stability 
+Review that in Japan credit derivatives based on loans originated by large and relatively well-
+capitalised commercial banks had been acquired by small regional financial institutions with 
+significantly weaker balance sheets. Also in the course of the current turmoil, we noticed that 
+some  of  the  individual  European  banks  affected  by  exposures  to  the  sub-prime  mortgage 
+market were relatively small institutions without the necessary technical expertise or balance 
+sheet strength to withstand them. In addition, for many banks all over the world, risks do not 
+seem to have travelled farther away than the balance sheets of their own conduits, and have 
+been re-internalised once the market turmoil has erupted. 
+While this certainly does not mean that securitisation is not welfare-enhancing, it suggests 
+that – in the environment of historically low returns on traditional securities and an implied 
+4 
+ BIS Review 43/2008
+imprudent hunt for yield that preceded the turmoil – the markets for asset-backed securities 
+and  credit  derivatives  may  have  failed  to  spread  risks  as  effectively  as  expected  and 
+exacerbated  information  asymmetries,  probably  as  a  result  of  their  opacity  and  the 
+complexity of contracts. 
+More generally, the events of the last few months have revealed that, while the adoption of 
+the “originate and distribute” model relieves banks from traditional funding liquidity risks and 
+“liquefies” the underlying assets, it increases their exposure to the risk of market illiquidity. 
+Indeed, this model relies on the assumption that banks are able to dispose of mortgage loans 
+in  the  form  of  repackaged  asset-backed  securities,  which  requires  the  existence  of  highly 
+liquid  wholesale  markets.  As  I  will  explain  in  the  next  section,  over  the  last  few  months 
+liquidity  has  become  severely  limited  in  a  number  of  markets  playing  a  key  role  for  the 
+execution  of  the  liquidity  risk  management  strategies  of  the  banking  sector.  This  has 
+particularly  affected  banks  pursuing  very  aggressive  strategies  of  maturity  transformation, 
+relying on the continuing issuance of asset-backed commercial paper at short maturities. 
+To  illustrate  this  point,  we  only  need  to  recall  the  start  of  the  current  market  turmoil.  The 
+deterioration  of  the  US  sub-prime  mortgage  market  led  to  the  drying  up  of  liquidity  in  the 
+markets  for  mortgage-backed  securities.  These  developments  led  to  liquidity  funding 
+difficulties at the structured investment vehicles (SIVs) specialised in purchasing mortgage 
+loans  from  banks  and  transforming  them  into  mortgage-backed  securities  for  their 
+subsequent sale to investors. Liquidity funding problems at SIVs translated into analogous 
+problems at banks as they were no longer able to dispose of their stocks of mortgage loans, 
+while facing unexpected obligations arising from contingent credit lines and, in some cases, 
+also from the prospects of being forced to incorporate struggling in-house SIVs into their own 
+balance  sheets.  Uncertainty  about  future  obligations  among  individual  banks  led  to 
+significantly increased precautionary demand for liquidity, which – together with asymmetric 
+information – resulted in severely diminished liquidity in the money market. 
+How has liquidity been affected by the turmoil 
+3.  
+I have anticipated already some of the developments in liquidity from the start of the current 
+market turmoil. Let me now review them more in detail in the remainder of this section. 
+As you are well aware, in July and early August a series of events led to an intensification of 
+the tensions in the US sub-prime mortgage market and a sharp decline in the degree of risk 
+appetite  of  global  investors.  Market  volatility  increased  across  almost  all  financial  asset 
+classes. Stock prices declined as investors sold equities and moved funds into safe-haven 
+investment  assets,  such  as  government  bonds.  In  this  context,  several  investment  funds 
+holding asset-backed securities suspended withdrawals from their clients. At the same time, 
+a  number  of  European  banks  made  public  their  direct  or  indirect  exposures  to  the  US 
+mortgage market, particularly to its sub-prime component. 
+In this environment, market liquidity declined for a number of assets. This was most obvious 
+for the markets directly related to the core of the current turmoil, namely the market for sub-
+prime  asset-backed  securities  (ABS).  During  the  turmoil,  the  problem  of  illiquidity  however 
+spread much further, first affecting other ABS and asset-backed commercial paper (ABCP), 
+then mortgage-backed securities (MBS) and basically all structured credit instruments, such 
+as collateralised debt obligations (CDO). 
+The  market  for  government  bonds  is  the  only  fixed  income  market  in  which  liquidity  has 
+remained  fairly  good.  It  should,  however,  be  noted  that  within  the  euro  area  there  has 
+certainly  been  a  differentiation  among  different  government  bonds:  while  German  Bunds 
+have generally remained quite liquid, the liquidity of bonds issued by countries with weaker 
+public finances, such as Italy and Greece, has at certain point in time been heavily impaired. 
+This has also had an impact on the yield spreads between these government bonds and the 
+BIS Review 43/2008 
+ 5
+benchmark  Bunds,  which  in  some  cases  have  widened  to  their  highest  levels  since  the 
+introduction of the euro. 
+In  money  markets  the  impact  of  the  turmoil  was  initially  felt  mainly  in  the  longer-dated 
+unsecured inter-bank market. It can be said that liquidity in the unsecured deposit markets 
+almost completely dried-up in maturities beyond 1-month (although it should be noted that 
+these were not the most liquid ones even in “normal” times). These frictions eventually spilled 
+over  to  the  very  short-term  money  markets  (i.e.  below  one-week),  at  first  in  the  US  dollar 
+market  where  banks  –  particularly,  from  Europe  –  encountered  difficulties  in  raising  short-
+term liquidity.  
+Early in the morning of Thursday 9 August, the tensions spread to the short-term euro money 
+market  (and  also  to  other  money  markets  such  as  the  British  pound  and  the  Swiss  franc 
+markets) triggering an exceptional fine-tuning operation of the ECB. Important factors driving 
+these  adverse  liquidity  developments  in  the  unsecured  market  were  general  uncertainty 
+about  banks’  sub-prime  exposures  and  the  scope  for  related  write-downs  resulting  in  ever 
+increasing lack of mutual confidence within the banking community. Indeed, rising adverse 
+selection  together  with  increased  precautionary  demand  for  liquidity,  nearly  led  in  august 
+2007  to  the  euro  money  market  providing  a  real-life  illustration  of  Akerlof’s  “market  for 
+lemons”  prediction  of  how  information  asymmetries  in  a  market  with  uncertainty  about  the 
+quality  of  goods  (in  this  case  of  credit  claims)  may  lead  to  a  decline  in  trading  and, 
+potentially, to the collapse of the market.  
+Interestingly, also the liquidity in the secured non-government repurchase agreement (repo) 
+markets  was  heavily  impacted,  as  many  banks  no  longer  wanted  to  accept  the  types  of 
+securities  mentioned  above  (ABS/MBS/CDO)  as  underlying  collateral  in  repo  transactions. 
+As  a  result,  only  the  repo  markets  based  on  government  bonds  remained  fairly  liquid,  but 
+even in these markets the degree of price differentiation across repos secured with different 
+types of government bonds was larger than normal. 
+Another market segment that saw a partial (temporarily even severe) deterioration of liquidity 
+conditions is the foreign exchange swap market, which is very important for banks managing 
+liquidity  in  different  currencies.  In  particular  at  times  when  many  banks  were  keen  on 
+obtaining USD liquidity, most market participants tried to swap other currencies into dollars, 
+while  hardly  any  bank  was  willing  to  provide  the  USD  funds  to  the  extent  that  the  market 
+became dysfunctional for maturities beyond 1 week.  
+4.  
+Actions of central banks: What has the ECB done? What have other central 
+banks done? 
+From  the  start  of  the  market  turmoil,  the  ECB  has  undertaken  a  variety  of  liquidity 
+management operations – in some cases in coordination with other major central banks – in 
+order to mitigate the disruptions to those segments of the money market that are under its 
+direct influence.  
+The  ECB’s  liquidity  interventions  have  been  accompanied  by  an  intensification  of  its 
+communication policy in order to stress the separation between monetary policy and liquidity 
+management policy.  
+In addition, given the rather technical nature of issues related to liquidity management and 
+the relative lack of familiarity of the general public with them, more intense communication 
+has been needed to prevent and correct occasional misunderstandings in the financial press 
+about the scale, modalities and objectives of our liquidity operations. In fact, observers often 
+fail  to  notice  that  the  magnitude  and  nature  of  a  central  bank’s  liquidity  management 
+interventions is very much conditional on the structural features of its operational framework. 
+Therefore,  impressionistic  comparisons  among  interventions  from  different  central  banks, 
+abstracting from the structural differences in their frameworks, do not necessarily serve well 
+the public’s interest in assessing policy responses to the market turmoil. 
+6 
+ BIS Review 43/2008
+The Eurosystem’s operational framework  
+Thus, before explaining what the ECB has done, let me briefly outline some elements of the 
+Eurosystem’s  operational  framework  that  have  proved  crucial  to  enable  it  to  continue 
+influencing  short-term  money  market  rates  in  spite  of  the  difficult  situation  in  financial 
+markets.  
+The operational framework of the Eurosystem has been chosen with great care to function 
+both in normal and stressful times.5 It aims at steering short-term money market rates close 
+to  the  main  policy  rate  in  a  smooth  and  efficient  manner,  with  the  primary  aim  of 
+implementing the monetary policy decisions of the Governing Council of the ECB.6 It consists 
+of  elements  that  are  regularly  employed  and  those  that  can  be  activated  should  the  need 
+arise. In particular, this framework comprises three categories of instruments: 1) open market 
+operations, 2) minimum reserve requirements and 3) standing facilities.7  
+Even  though  open  market  operations  include  several  different  operations,  the  Eurosystem 
+has  so  far  almost  exclusively  conducted  two  types:  refinancing  operations,  through  which 
+liquidity is temporarily lent to counterparties against eligible collateral and at a minimum bid 
+rate  which  signals  the  monetary  policy,  and  the  collection  of  fixed-term  deposits  (  use  of 
+reverse  transactions)  for  fine-tuning  purposes,  which  are  used  to  temporarily  absorb 
+(provide) liquidity from (to) counterparties.  
+Moreover, banks must hold a certain amount of liquidity to fulfil their reserve requirements 
+(calculated as a ratio of their short-term liabilities). This requirement needs to be fulfilled on 
+average over each reserve maintenance period, which is approximately one month long.  
+The Eurosystem offers on each operating day two standing facilities which can be accessed 
+at the discretion of individual banks, namely a deposit facility and a marginal lending facility. 
+At their own initiative, banks can place liquidity in the deposit facility on an overnight basis, at 
+a  rate  which  is  decided  by  the  Governing  Council  and  is  normally  one  percentage  point 
+below the policy rate (the minimum bid rate in main refinancing operations), while they can 
+borrow overnight liquidity against eligible collateral via the marginal lending facility at a rate 
+which is normally one percentage point above the policy rate.  
+With  these  instruments,  the  Eurosystem  implements  the  monetary  policy  decisions  of  the 
+Governing Council of the ECB. More precisely, by using these instruments the Eurosystem 
+manages liquidity conditions in the euro area money market so as to steer very short-term 
+interbank money market rates as close as possible to the policy rate – the minimum bid rate 
+– decided by the Governing Council.  
+Eurosystem’s open market operations during the financial market turmoil  
+At times of increased liquidity risk at longer maturities, a key concern of central banks is to 
+support the re-establishment of the smooth functioning of the very short-term money market. 
+This is a precondition for ensuring the transmission of the monetary policy impulses to the 
+economy.  
+In  the  context  of  the  current  market  turmoil,  the  primary  aims  of  the  ECB’s  liquidity 
+management policy have been: (1) as in normal times, to keep the overnight rate as close as 
+                                                 
+5   For  a  more  detailed  description,  see  the  following  articles  in  the  ECB  Monthly  Bulletin:  The  role  of  the 
+operational framework of the Eurosystem: description and first assessment, May 1999; and Changes to the 
+Eurosystem’s operational framework for monetary policy, August 2003. 
+6   See Manna, M., H, Pill and G. Quirós (2001), The Eurosystem’s operational framework in the context of its 
+monetary policy strategy, International Finance 4(1). 
+7   For an analysis of the role and properties of the different categories of instruments see Bindseil, U. (2004). 
+Monetary Policy Implementation: Theory, Past and Present, Oxford University Press. 
+BIS Review 43/2008 
+ 7
+possible  to  the  minimum  bid  rate;  (2)  the  ECB  has  endeavoured  to  ensure  the  smooth 
+functioning of the money market, also at term maturities, by facilitating access to liquidity to 
+solvent  credit  institutions,  thereby  helping  them  to  meet  their  liquidity  needs  in  a  smooth 
+manner.  By  doing  so,  the  ECB  has  intended  to  contribute  to  re-establishing  confidence 
+among market participants and to safeguard financial stability and the appropriate functioning 
+of the monetary policy transmission mechanism.  
+In line with these aims, during the recent period of financial market volatility, the Eurosystem 
+has supported banks’ access to liquidity and the general functioning of the money market by 
+implementing various measures, which can be summarized as follows.  
+First  it  has  made  some  relatively  small  adjustments  to  the  modalities  of  its  supply  of  euro 
+liquidity by adjusting 
+• 
+the  distribution  of  liquidity  supplied  to  the  market  within  the  reserve  maintenance 
+period  without,  however,  increasing  the  average  quantity  of  the  liquidity  supply 
+(front-loading policy), and  
+the way in which the liquidity is allotted to the banking system, i.e. it has increased 
+the maturity of its refinancing operations, it has augmented the frequency of its fine-
+tuning operations, and it has occasionally applied different tender specifications.  
+ 8 
+ BIS Review 43/2008
+Box 1  
+Adjustments to open market operations during the recent turmoil  
+Distribution of liquidity supply 
+The main reason for adjusting the distribution of liquidity supply during the turmoil was the 
+perceived change in the pattern of the demand for liquidity within the maintenance periods. 
+The financial turmoil showed that interest rates were no longer necessarily linked to liquidity 
+conditions on the last day of the maintenance period, as banks did no longer regard reserve 
+holdings  on  different  days  of  the  maintenance  period  to  be  substitutes  (contrary  to  the 
+martingale  hypothesis).[a]  Indeed,  in  the  first  days  of  the  turmoil,  interest  rates  rose 
+significantly because they were driven mainly by precautionary motives. Counterparties were 
+not  only  reluctant  to  lend  on  unsecured  terms,  but  they  also  feared  being  confronted  with 
+unexpected  liquidity  needs  and,  as  a  consequence,  preferred  having  liquidity  buffers. 
+Therefore,  to  avoid  upward  pressure  to  overnight  rates,  the  supply  of  liquidity  had  to  be 
+brought forward within the maintenance period. 
+As a result, the ECB accommodated banks’ preference for front-loading their reserves during 
+the  reserve  maintenance  period,  by  increasing  the  liquidity  supply  at  the  beginning  of  the 
+period and reducing it later in the period.  
+More  specifically,  since  the  start  of  the  turmoil  and  after  the  first  “fire-fighting”  fine-tuning 
+operations  conducted  in  August,  the  ECB  has  achieved  this  frontloading  by  adjusting  its 
+regular provision of liquidity in the regular main refinancing operations so as to provide larger 
+amounts at the beginning of the maintenance periods, while it has provided correspondingly 
+less towards the end of the maintenance period, so that in total, over an entire maintenance 
+period,  the  supply  of  liquidity  has  remained  unchanged.  In  addition,  since  November, 
+whenever  notable  downward  pressure  on  the  overnight  rate  started  to  appear,  it  has  also 
+conducted liquidity-absorbing fine-tuning operations with maturities of between two and five 
+days.  
+Through  this  policy  of  front-loading,  the  ECB  has  allowed  credit  institutions  to  fulfil  their 
+reserve requirements relatively early in the maintenance period, but, at the same time, it has 
+kept  unchanged  its  average  supply  of  liquidity over  the  maintenance  period.  Such  an 
+approach is in line with the Eurosystem’s aim to provide to the banking system, over each 
+maintenance period, the exact amount of liquidity needed to fulfil their liquidity deficit, which 
+is given by the reserves requirements and the net liquidity-absorbing autonomous factors.  
+Adjustment in the allotment of liquidity over the reserve maintenance period 
+In  order  to  support  a  normalisation  of  the  conditions  of  the  money  market,  the  ECB  has 
+adjusted  the  way  in  which  the  liquidity  is  allotted  to  the  banking  system.  This  has  been 
+achieved though several actions.  
+First, as just mentioned, the ECB has made more frequent use of fine-tuning operations than 
+in  “normal”  times  (both  in  order  to  inject  liquidity  in  addition  to  that  provided  in  the  main 
+refinancing operations (MROs) and to absorb excess liquidity), as needed in order to keep 
+the  very  short  term  interest  rates  close  to  the  minimum  bid  rate  in  the  light  of  the  highly 
+unstable and unpredictable liquidity demand.  
+Second,  the  Eurosystem  has  increased  the  share  of  refinancing  provided  via  three-month 
+longer-term  refinancing  operations  (LTROs),  and  reduced  the  share  provided  via  the  one-
+week  MROs.  Accordingly,  the  total  amount  of  outstanding  refinancing  has  remained 
+unchanged,  while  the  average  maturity  has  been  extended,  thereby  contributing  to  reduce 
+BIS Review 43/2008 
+ 9
+the future liquidity needs of the banking system.  
+- 
+More  specifically,  in  addition  to  the  regular  monthly  LTROs,  two  supplementary 
+LTROs with a maturity of three months were carried out in August and September 
+2007.  The  Governing  Council  decided  to  renew  these  operations,  with  slightly 
+amended sizes, when they matured in late 2007 and in early 2008, and has since 
+announced the renewal of the upcoming maturities in May and June 2008.  
+Besides,  on  28  March  2008  the  Eurosystem  decided  to  further  enhance  the 
+provision  of  supplementary 
+two 
+supplementary six-month LTRO of a pre-set amount of EUR 25 billion, to be settled 
+in April and July 2008.  
+refinancing,  and  announced 
+longer 
+term 
+  As a result, the share of the total refinancing provided through LTROs is currently 66%, more 
+than double the share (30%) prior to the financial turmoil. 
+Third, a special tender procedure with full allotment has been applied on two occasions.  
+- 
+Such procedure was first applied for the fine-tuning operation on 9 August, when it 
+was deemed more efficient to leave it to the market to determine the exact allotment 
+amount, given the large degree of uncertainty.  
+A  more  muted  variant  of  a  fixed  rate  tender  with  full  allotment  was  applied  in  the 
+MRO on 18 December. This operation had an exceptionally prolonged maturity of 
+two weeks so that banks could cover their liquidity needs over Christmas and the 
+days  around  the  year-end  in  advance  of  this  difficult  period.  This  muted  variant 
+consisted of pre-announcing a commitment on the ECB’s side to satisfy all bids at or 
+above the weighted average rate of the previous MRO (4.21%). As a result, the ECB 
+allotted  €348.6  billion.  Large  amounts  of  this  significant  additional  liquidity  were 
+subsequently absorbed via several fine-tuning operations, mostly with an overnight 
+maturity,  to  avoid  an  excessive  downward  pressure  on  the  overnight  rate.  This 
+measure significantly reversed the increasing trend in the Euribor/OIS spread and 
+the  EONIA  remained  somewhat  below  the  minimum  bid  rate,  reflecting  banks’ 
+comfortable liquidity positions.  
+[a]  Evidence  in  support  of  the  martingale  hypothesis  in  normal  times  is  presented  in  Cassola,  N.  (2008),  The 
+reserve fulfilment path of euro area commercial banks: Empirical testing using panel data, ECB Working Paper
+869. 
+ 
+Second, the ECB has agreed with the Federal Reserve System to grant loans in dollars to 
+euro area banks in connection with the FED US dollar Term Auction Facility, in the context of 
+coordinated central banks’ actions. The Eurosystem’s loans have been financed through a 
+currency arrangement (swap line) between the FED and the ECB.  
+Box 2  
+Operations in connection with the US dollar Term Auction Facility  
+In  order  to  address  the  concerns  of  euro  area  banks  on  the  availability  of  their  funding 
+denominated  in  US  dollars,  the  ECB  agreed  with  the  Federal  Reserve  System  a  currency 
+arrangement  (swap  line)  in  connection  with  their  US  dollar  Term  Auction  Facility.  The 
+Eurosystem provided the US dollar funding received via this swap line to its counterparties 
+with access to the marginal lending facility, against collateral eligible for Eurosystem credit 
+operations  (i.e.  euro  denominated  collateral),  in  two  operations  settling  on  20  and  27 
+December 2007. These operations were renewed on 17 and 31 January 2008 and again on 
+10 
+ BIS Review 43/2008
+25 March and 7 April 2008. The USD liquidity-providing operations did not have an effect on 
+the supply of euro liquidity. Similar operations were also carried out by the Swiss National 
+Bank. 
+At each of the first four operations, the volumes of US dollar loans provided with a maturity of 
+one month totalled USD 10 billion, while at the last two operations, US dollar loans for a total 
+of USD 15 billion were offered. The operations were conducted at a fixed rate equal to the 
+marginal rate of the simultaneous Federal Reserve tenders.  
+ 
+Boxes 1 and 2 explain in greater detail these measures, let me point out that, in fact, they are 
+all only rather minor adjustments to the existing operational framework for monetary policy 
+implementation, which, has so far, proved to be sufficiently flexible to cope with the recent 
+tensions in the market.  
+Third, throughout the period of financial market turmoil, the ECB has promptly communicated 
+to  the  market  its  liquidity  policy  intentions  and  explained  its  actions  via  press  releases, 
+statements  on  newswire  services  and  other  communications  channels  (e.g.  speeches, 
+articles  in  the  Monthly  Bulletin,  etc.).  These  communication  efforts  have  supported  the 
+monetary policy implementation operations by reassuring the market on the readiness of the 
+ECB to take adequate measures when necessary.  
+to 
+to  respond 
+the  challenges 
+the  Eurosystem 
+Eurosystem’s collateral framework 
+The  ability  of 
+for  monetary  policy 
+implementation posed by the recent period of financial market volatility, that in many senses 
+represents  its  most  difficult  test  from  the  start  of  Monetary  Union  in  1999,  has  to  a  large 
+extent depended on its collateral framework. 
+Indeed, the collateral framework is considered to have played an important role in supporting 
+the functioning of the money market and effectively addressing the asset refinancing needs 
+of counterparties, without requiring ad-hoc changes.  
+In order to understand the role of the collateral framework in the current turmoil, let me recall 
+a key principle of the Eurosystem’s operational framework stating that all credit operations 
+need to be based on adequate collateral.8 The concept of adequacy implies, first, by statute 
+that the Eurosystem should be protected from incurring losses in its credit operations and, 
+second, as a policy consideration that sufficient collateral should be available to a wide set of 
+counterparties,  so  that  the  ability  of  the  Eurosystem  to  provide  the  amount  of  liquidity  it 
+deems necessary for both its monetary policy and payment systems operations should not 
+be  impeded  by  a  shortage  of  collateral  in  the  banking  sector  as  a  whole,  or  even  in  a 
+significant  part  of  the  banking  sector.  To  ensure  that  this  is  not  the  case,  the  Eurosystem 
+accepts  a  broad  range  of  debt  instruments  as  collateral,  ranging  from  government  bonds, 
+bonds  issued  by  supranational  institutions,  covered  and  uncovered  bank  bonds,  corporate 
+bonds  and  asset  backed  securities  (ABS)  to  non-marketable  instruments,  such  as  credit 
+claims.  
+This wide list of eligible assets – together with the sizeable number of counterparties and the 
+large size of its refinancing operations – has helped the Eurosystem to implement its liquidity 
+management policies during the recent period of decline in market and banking liquidity. 
+                                                 
+8   For an analysis of the role of the collateral frameworks in the Eurosystem’s monetary policy operations see 
+Bindseil, U. and F. Papadia (2006), Credit risk mitigation in central bank operations and its effects on financial 
+markets: The case of the Eurosystem, ECB Occasional Paper 49. 
+BIS Review 43/2008 
+ 11
+More specifically, by allowing the refinancing of ABS at a large scale at rates close to ECB 
+policy rates, the collateral framework may have also contributed to financial stability, at least 
+in the short term, by avoiding forced sales of ABS, which would have intensified the liquidity 
+crisis in the ABS market.  
+Two  significant  developments  have  been  observed  during  the  turmoil  with  respect  to  the 
+Eurosystem collateral framework. 
+The  total  amount  of  collateral  held  with  the  Eurosystem  by  counterparties  has  increased 
+significantly, the main reason being that banks have increased their collateral buffer, i.e. the 
+amount of collateral held with the Eurosystem in excess of the amount of collateral needed 
+for  monetary  policy  operations  (over-collateralization).  This  amount  has  increased  from 
+around EUR 600 billions in the first half of 2007 to around EUR 800 billions. The increase in 
+over-collateralization during the turmoil might reflect a natural preference of banks to expand 
+their  liquidity  buffers  –  in  order  to  get  maximum  access  to  intraday  liquidity  and  to  the 
+marginal lending facility in case of need. In addition to this, banks have had to collateralise 
+temporarily  higher  amounts  of  outstanding  Eurosystem  credit  because  of  the  frontloading 
+policy.  Finally,  regulatory  incentives  might  have  played  a  role,  as  regulators  may  have 
+allowed banks to apply better liquidity ratios to assets held with the Eurosystem. Despite the 
+significant rise in collateral held with the Eurosystem, there are no developments indicating a 
+shortage of eligible collateral. 
+The share of asset-backed securities (ABS) in the total collateral held with the Eurosystem 
+has  risen  to  more  than  one-fifth  in  December  2007.  As  liquidity  in  ABS  primary  and 
+secondary  markets  (including  ABS-based  repo  markets)  has  dried  out  almost  completely 
+during the turmoil, counterparties have intensified the use of ABS as Eurosystem collateral. It 
+should  however  be  noted  that  assets  held  as  collateral  with  the  Eurosystem  are  not 
+refinanced  by  the  Eurosystem  on  a  one-to-one  basis,  given  the  high  degree  of  over-
+collateralization of Eurosystem credit that I have mentioned above.  
+Actions of other central banks 
+As regards other central banks, in general their primary response to the market turmoil has 
+been  to  intervene  to  keep  short-term  money  market  rates  near  target  rates,  through  more 
+active  liquidity  management.  Moreover,  central  banks  have  aimed  to  ease  the  increasing 
+pressure in term money markets by: (1) increasing the viability of standing loan facilities as 
+backstop funding options; (2) boosting the share of longer-term operations in total refinancing 
+provided  to  banks;  and  (3)  expanding  the  range  of  acceptable  collateral  and  eligible 
+counterparties, in those countries where it was needed. 
+Central  banks  have  also  gradually  increased  their  mutual  cooperation,  initially  through 
+enhanced communication and collective monitoring of market developments, and later on by 
+undertaking  coordinated  actions  to  provide  funds  over  the  year-end.  These  actions  have 
+included the establishment of the earlier-mentioned foreign exchange swaps.  
+Box 3  
+Operations by other central banks  
+More  in  detail,  the  actions  undertaken  by  other  central  banks  in  response  to  the  market 
+turmoil have included the following: 
+In  order  to  steer  short-term  market  rates,  central  banks  have  conducted  operations  that 
+were either outside their regular schedule or provided amounts larger than usual, and have 
+taken further steps to equilibrate demand and supply for central bank reserves at the policy 
+12 
+ BIS Review 43/2008
+rate.  
+- 
+      The Federal Reserve on 17 August 2007 enhanced the attractiveness of the central 
+bank’s standing loan facility by cutting the spread between the interest rate on its 
+lending facility (the discount rate) and the federal funds rate target to 50 basis points 
+(from  100  basis  points),  and  by  increasing  the  allowable  term  on  loans  from 
+overnight to 30 days. On 16 March 2008, the spread between the discount rate and 
+the Fed funds target rate was further reduced to 25 basis points and a new facility 
+for  primary  dealers  was  introduced  (Primary  Dealer  Credit  Facility  –  PDCF).  This 
+facility, which is very similar to the discount window for depository institutions, has 
+been heavily used from the beginning. 
+The Bank of England increased target ranges for the maintenance period from the 
+normal ± 1% up to ± 60%, thereby greatly increasing flexibility of banks. 
+Central banks have also sought to address continued pressures in term markets.  
+The  Federal  Reserve  has  provided  longer-term  financing  (28  days)  to  primary 
+dealers  and  introduced  a  Term  Auction  Facility  (also  28  days)  for  depository 
+institutions.  The  Swiss  National  Bank  carried  out  its  first  ever  three-month 
+repurchase  transaction  on  13  September.  The  Bank  of  England,  offered  in 
+September  and  October  2007  a  sequence  of  additional  longer-term  refinancing 
+auctions, which, in March 2008, were rolled over, with their size further increased. 
+Moreover,  at  the  end  of  2007  many  central  banks  anticipated  or  expanded  the 
+provision of term funds that spanned into 2008 in order to ease year-end pressures. 
+Another  important  development  has  the  enlargement  of  the  range  of  eligible 
+collateral  by  several  central  banks,  temporarily  or  permanently,  and  of  the  list  of 
+eligible counterparties.  
+The  new  Term  Auction  Facility  (TAF)  introduced  by  the  Fed  extended  the  broad 
+range of discount window collateral to a series of substantial longer-term refinancing 
+operations structured as loans against pools of collateral.  
+The  Bank  of  England  broadened  its  relatively  narrow  range  of  collateral  for  its 
+additional longer term operations.  
+The  Bank  of  Canada  and  the  Reserve  Bank  of  Australia  also  widened  the  list  of 
+collateral eligible for (some of) their operations.  
+On 11 March 2008, the Fed introduced a new Term Securities Lending Facility under which 
+market participants can swap, for periods of 28 days, certain securities with currently limited 
+market liquidity (but very high credit rating) into highly liquid Treasury securities. This facility 
+allows counterparties to mobilise certain types of collateral, without however having a direct 
+impact  on  the  Fed’s  liquidity  management,  as  the  Fed  provides  Treasury  securities  rather 
+than cash in return. 
+5.  
+Preliminary lessons of the turmoil and ongoing initiatives 
+Lessons from an operational framework point of view 
+5.1. 
+Since  its  inception  the  operational  framework  of  the  Eurosystem,  which  I  have  described 
+earlier on, has been tested on several occasions. One such occasion was the management 
+of the cash changeover in early 2002; another test of the resilience of the framework came 
+after the terrorist attacks in September 2001. The present market turmoil however has posed 
+new  challenges  to  the  framework,  and  in  many  aspects  even  more  significant  than  those 
+faced in the past.  
+BIS Review 43/2008 
+ 13
+I would like to stress that the ECB, with its regular set of tools, has been able to stabilise 
+short-term money market rates reasonably well during the ongoing turmoil. Several features 
+of the framework have been – and continue to be – important in this regard. In normal times, 
+the regularity and predictability of operations (such as the conduct of weekly main refinancing 
+operations with predictable allotment amounts) is useful in order to stabilise money market 
+rates.  Indeed,  with  the  benefit  of  several  years  of  experience,  the  Eurosystem  and  its 
+counterparties  have  learned  to  interpret  and  predict  each  other’s  actions.  This  has  led  to 
+stable behaviour in banks’ participation in the ECB’s operations.  
+In stressful times, some other features have proved to be very useful, including in particular 
+the wide range of eligible collateral, the large number of counterparties and probably also the 
+relatively  large  size  of  refinancing  operations.  The  flexibility  of  the  framework  is  another 
+feature which is very valuable during turmoil. A good illustration is, for instance, the ability to 
+conduct fine-tuning operations. Other examples are the introduction of supplementary long-
+term  refinancing  operations  –  not  only  in  the  regular  3-month  tenor,  but  also  for  6-month 
+maturities.  
+Let me briefly recall the specific way in which the different features of the framework have 
+proved to be important in the recent turmoil period: 
+First of all, the flexibility of the operational framework has proven to be extremely valuable, 
+because  it  has  allowed  the  ECB  to  adjust  its  liquidity  supply  at  any  time  in  line  with  the 
+changing demand for central bank balances. 
+In this regard, let me stress one particularly important feature of the framework, namely the 
+strict  separation  of  actions  related  to  liquidity  policy  from  the  monetary  policy  stance.  The 
+technical  measures  that  have  been  employed  over  recent  months  have  –  contrary  to 
+widespread  belief  –  not  had  an  impact  on  the  overall  liquidity  provision,  defined  as  the 
+banking sector’s current account holdings with us. This is because all the additional liquidity 
+provided has subsequently been compensated for by means of the provision of less liquidity 
+later on. What has changed has simply been the timing of the provision of liquidity to banks. 
+It is important to stress this – particularly at the moment, with risks to price stability clearly on 
+the upside – in order to avoid a misunderstanding regarding links between liquidity policy and 
+inflation. 
+The second feature of the framework that has proved to be very useful has been the large 
+number of counterparties in the ECB’s operations. The ECB has been able to reach a large 
+number of banks in its open market operations at a time when the money market has been 
+working imperfectly. As a result, the Eurosystem has continued to be able to influence short-
+term money market rates. 
+Third,  several  features  of  the  collateral  framework  have  been  important,  notably  the  wide 
+range of eligible collateral. First of all, this has, together with the relatively large size of the 
+Eurosystem’s  refinancing  operations,  allowed  those  banks  which  faced  reduced  access  to 
+the  interbank  market,  to  raise  liquidity  via  the  Eurosystem.  Moreover,  the  wide  range  of 
+eligible collateral has made it possible for banks (in their operations with the central bank) to 
+economise  on  those  few  assets,  such  as  government  bonds,  that  have  continued  to  be 
+tradable throughout the turmoil. In this respect, the framework has supported the continued 
+functioning of capital markets in general. At the same time, the single list of collateral, which 
+specifies  unambiguously  the  eligible  assets,  has  facilitated  banks’  liquidity  management 
+under  stress.  This  has  contributed  to  the  continued  smooth  conduct  of  open  market 
+operations. 
+However,  the  continued  low  marketability  of  many  assets  limits  their  use  as  collateral  in 
+market transactions, and this has had implications for the markets’ willingness to lend and 
+borrow on the money markets. In this regard, I would hope that capital markets will continue 
+to develop further so that markets are, in the future, better equipped to cope with periods of 
+stress.  
+14 
+ BIS Review 43/2008
+In addition, we continue to observe certain reluctance by banks to use the marginal lending 
+facility  for  reputational  reasons,  as  if  recourse  to  it  signalled  the  need  for  emergency 
+assistance from the central bank. We need to continue thinking about how to make sure that 
+the recourse to this type of facilities is unimpeded so that they can be more effectively used 
+for regular liquidity management purposes by banks.  
+Lessons for liquidity risk management  
+5.2.  
+Some observers have argued that liquidity shortages are the symptoms of major failures in 
+liquidity risk management by the financial institutions involved. Indeed, there is no doubt that, 
+once the turmoil subsides, important lessons will need to be drawn as regards liquidity risk 
+management. 
+In  response  to  the  turmoil,  there  have  been  concerted  policy  deliberations  both  at  the 
+international and EU levels, by the FSF and ECOFIN respectively, with the aim of addressing 
+the  weaknesses  brought  to  the  fore.  Among  the  main  areas  of  this  work,  one  of  the  most 
+important  is  aimed  at  enhancing  bank’s  risk  management  practices  and  especially  those 
+related to liquidity risk. 
+risk  management  practices,  and 
+Developments at the international level 
+At the international level, the Financial Stability Forum (FSF) has put forward a number of 
+short-term actions to rebuild confidence in the creditworthiness and robustness of financial 
+institutions, in order to facilitate the smooth operation of the market in terms of liquidity flow 
+and provision of credit. In this context, supervisors and central banks are viewed as having a 
+role  in  ensuring  the  existence  of  adequate  capital  and  liquidity  buffers  of  supervised 
+institutions. However, there is a clear consensus that competent authorities cannot substitute 
+the private sector for the more fundamental need of the market to recover confidence in the 
+ability of the financial system to manage current risks. 
+In the medium term, considerations for expected policy actions concern topics pertaining to 
+the current regulatory framework and practices as well as market functioning. The former aim 
+to  introduce  a  number  of  measures  that  will  reinforce  the  capital  and  liquidity  buffers  of 
+banks,  enhance 
+improve  competent  authorities’ 
+assessments,  responsiveness  and  exchange  of  information.  The  latter  will  address  issues 
+relating  to  the  attributes  of  the  “originate  and  distribute”  model,  the  role  of  credit  rating 
+agencies and market transparency. 
+The international committee addressing liquidity risk (and one of the authorities represented 
+in the FSF) is the Basel Committee on Banking Supervision (BCBS). The main current focus 
+of a specific substructure of the BCBS ( the Working Group on Liquidity) is the update of the 
+2000 guidance on “Sound Practices for Managing Liquidity in Banking Organisations”. This 
+update  will  review  the  current  practices  and  strengthen  areas  identified  as  warranting 
+additional attention due to the financial market developments. The update will include further 
+guidance  for  the  supervision  of  liquidity  risk  management  and  will  address  issues  that  are 
+pertinent for cross-border banking groups. This updated supervisory guidance is expected to 
+be issued by July 2008. 
+It is also worth to note that in February 2008, the Basel Committee released a report on the 
+management and supervisory challenges related to liquidity risk resulting from the structural 
+changes  in  financial  markets.  The  report  reviews  different  jurisdictions’  approaches  to 
+supervising  and  regulating  funding  liquidity  risk  and  assesses  preliminary  lessons  and 
+implications arising from the market turmoil. 
+Its main findings can be summarised in the following three points: 
+First, the structural changes in the financial markets have given rise to  a significant set of 
+challenges in assessing liquidity risk. In this respect, the establishment of the “originate and 
+distribute”  model  as  well  as  the  growing  use  of  securitisation  and  market  –based  funding 
+BIS Review 43/2008 
+ 15
+the 
+have increased the funding capacity of institutions at the price of increasing their vulnerability 
+to  adverse  market  conditions.  The  increased  use  of  securitisation  has  also  engendered 
+contingent  liquidity  risk,  for  instance,  through  liquidity  backstop  arrangements,  early 
+amortisation  provisions,  or  through  support  of  sponsored  conduits  and  off-balance  sheet 
+vehicles. Money market instruments, being much more volatile than retail deposits, require a 
+prompt replacement of any loss of funding. Moreover, these instruments are difficult to price, 
+as they are normally not actively traded and their short track period impinges on the reliability 
+of cash-flow predictions and correlations with other financial assets.  
+Second, the real-time nature of an  increasing number of payment and settlement  systems 
+has  heightened 
+liquidity  risk  management.  The  recent 
+improvements to the design of payment and settlement systems pose increasing challenges. 
+For  instance,  eventual  failures  in  time-critical  payments  and  major  liquidity  shocks  can  be 
+transmitted  from  one  institution  to  another,  both  domestically  or  internationally.  Moreover, 
+institutions must  ensure  liquidity  to  meet  their  obligations on  a  timely  basis  throughout  the 
+business day. 
+Finally,  financial  markets  are  increasingly  integrated,  which  in  combination  with  the 
+aforementioned  structural  changes,  imply  that  any  event  in  one  market  can  spread  and 
+reverberate more quickly than ever. On the one hand, liquidity disruptions can move faster 
+across international markets. On the other hand, liquidity may not be fully transferable across 
+borders due to rules from national regulators for local operations. Thus, institutions need to 
+consider  the  conditions  of  overseas  markets,  as  well  as  the  time  and  restrictions  taken  to 
+complete the transfer of funds or collateral across jurisdictions. 
+importance  of 
+intraday 
+Developments at EU level 
+At the same time, work has been progressing at the EU level in accordance with the ECOFIN 
+mandate.  The  two  main  fora  conducting  work  in  this  area  are  the  Committee  of  European 
+Banking Supervisors (CEBS) and the European Central Bank (ECB) in cooperation with the 
+Banking Supervision Committee (BSC). 
+The work of CEBS on liquidity risk management is covering the three following areas: 
+First,  reviewing  technical  issues  such  as  collateral  management;  concentration  of  liquidity 
+sources;  the  distinction  between  banking  and  trading  book;  the  relation  between  liquidity 
+funding  risk  and  liquidity  market  risk;  the  use  of  internal  methodologies;  and  the  impact  of 
+payment and settlement systems design.  
+Second, investigating the possible differences in the regulatory and supervisory treatment of 
+branches and subsidiaries and clarifying the underlying reasons and objectives that drive the 
+different approaches in relation to the allocation of tasks and responsibilities for these two 
+types of entities. 
+Third,  assessing  the  possibility  of  achieving  further  convergence  by  developing  high  level 
+principles for the use of internal methodologies in the supervision of liquidity risk. 
+In  parallel  to  the  work  of  the  CEBS,  the  ECB,  in  cooperation  with  the  BSC,  is  conducting 
+work aimed to investigate (i) the typology of EU banks’ liquidity stress-testing techniques and 
+contingency funding plans, (ii) the performance of stress-tests during the turmoil and (iii) the 
+implications of identified shortcomings for counterparties and money markets. This strand of 
+work is currently progressing and is expected to be finalised before the end of 2008.  
+Work in the field of liquidity risk already underway before the turmoil 
+Although recently work on liquidity risk management has attracted increased attention, this 
+does  not  mean  that  it  is  a  new  issue  in  the  supervisory  agenda.  Over  the  past  years 
+concerns  were  voiced  over  the  divergence  of  prudential  requirements  for  liquidity  risk  and 
+over  structural  changes  in  the  banking  sector,  such  as  the  increasing  reliance  of  more 
+market-based and volatile sources of funding that could constitute contagion channels in the 
+16 
+ BIS Review 43/2008
+event  of  a  stress.  As  a  result,  deliberations  and  further  work  in  the  area  of  liquidity  risk 
+management were underway even before the turmoil, with the aim of ensuring that practices 
+by  both  the  industry  and  the  competent  authorities  were  keeping  pace  with  the  rapid 
+developments in the market. 
+In this context, CEBS published in August an updated survey of the regulatory frameworks 
+adopted by the Member States and the three EEA countries. The survey was conducted in 
+light  of  market  developments  and  included  specific  information  regarding  any  different 
+treatments provided for specific types of credit institutions and/or investment firms 
+The ECB has also been performing extensive work in the field of liquidity risk management, 
+focusing on three main areas, namely: 1) assessing the impact of structural changes in the 
+banking landscape; 2) gauging the extent to which liquidity risk management practices have 
+progressed; and 3) ascertaining the industry’s views about eventual barriers to the efficient 
+management  of  liquidity  risk  across  borders.  In  October,  the  ECB,  in  cooperation  with  the 
+BSC, published a comprehensive report on the organisation of liquidity risk management for 
+cross-border banking groups in the EU, covering various pertinent issues, namely regulation, 
+obstacles  to  the  pooling  of  liquidity  and  cross-border  use  of  collateral  and  recent  market 
+developments.  
+In  particular,  the  report  confirmed  the  trend  towards  the  centralisation  of  liquidity  risk 
+management  policies  and  procedures  and  de-centralisation  of  day-to-day  liquidity  risk 
+management. Against this background, the internal corporate governance and organisation 
+of liquidity risk management varied according to the individual bank’s structure and business 
+model. The use of more sophisticated internal liquidity risk approaches such as Liquidity-at-
+Risk  was  not  common;  however,  cross-border  banks  were  increasingly  developing  such 
+approaches for internal risk management.  
+Coming to the factors affecting the liquidity risk management of cross-border banks, liquidity 
+risk  regulation  was  not  considered  by  the  market  as  imposing  undue  restrictions.  Cross-
+border  banks  requested  a  more  concerted  approach  by  their  supervisors  and  cited  the 
+home/host arrangements and the large exposures limits as posing possible obstacles to the 
+cross-border management of intra-group liquidity. 
+Certain  obstacles  regarding  the  pooling  of  liquidity  and  the  cross-border  use  of  collateral 
+were also identified, including the divergence in standards of access to central bank money 
+outside the euro area, the non-connectivity of payment and security settlement systems and 
+legal issues. In this context, the industry acknowledged the importance of the initiatives taken 
+by central banks to address problems in international flows of liquidity and the cross-border 
+use of collateral.  
+In addition to the aforementioned issues, market developments that also affected liquidity risk 
+management  of  cross-border  banks  consisted  of  the  shortening  time-horizon  for  payment 
+obligations,  the  increased  reliance  on  wholesale  and  potentially  more  volatile  funding 
+sources as well as the growing need for high-quality collateral.  
+Let me also mention initiatives by the industry in the field of liquidity risk. For instance, the 
+Institute  of  International  Finance  (IIF)  published  in  March  2007  the  “Principles  of  Liquidity 
+Risk  Management”  consisting  of  a  number  of  key  recommendations  and  appropriate 
+practices.  The  IIF  paper  establishes  that  the  needs  and  strategies  of  individual  institutions 
+can  vary  for  a  variety  of  reasons,  suggesting  that  any  liquidity  recommendations  or 
+guidelines  must  be  seen  as  describing  a  “range  of  good  practices”  and  not  necessarily 
+prescribing  one  “best”  practice.  Governance  and  organisational  structure  are  identified  as 
+critical  in  managing  liquidity  risk,  given  that  no  narrowly  prescribed  approaches  can  be 
+followed, as liquidity issues arise in different ways for institutions with different structures and 
+businesses.  Another  area  of  recommendations  from  the  IIF  concerns  the  coordination  of 
+supervisor’s efforts, suggesting the harmonisation of regulations where possible in order to 
+foster sound internal risk management systems. This would also include – in the view of the 
+IIF  –  harmonisation  of  the  range  of  collateral  that  central  banks  and  settlement  systems 
+BIS Review 43/2008 
+ 17
+accept  and  increased  convergence  and  transparency  from  central  banks  in  their  role  as 
+lender of last resort.  
+Conclusions 
+6.  
+While the current turmoil’s ultimate cause are the substantial losses of financial assets linked 
+to  the  US  housing  market,  liquidity  problems  have  driven  its  fever  curve  ever  since  its 
+outbreak in the summer of 2007. Diminished liquidity in the markets that play a key role in 
+enabling  banks  to  implement  their  risk  management  strategies  have  led  to  a  decline  in 
+funding liquidity at individual banks and given rise to adverse liquidity spirals.  
+In response to these tensions, the ECB and other central banks have undertaken a variety of 
+liquidity management operations in order to support the interbank money market. However, 
+some observers have argued that market tensions are partly the symptoms of major failures 
+in  liquidity  risk  management  by  private  financial  institutions  in  the  past  and  that,  by 
+supporting  banks  when  they  get  into  trouble,  central  banks  may  be  encouraging  moral 
+hazard.  For  instance,  Goodhart  (2007)  has  warned  that  “liquidity  management  has  been 
+passed from the commercial banks to the central bank”.9
+There is no question that moral hazard issues need to be taken very seriously into account 
+when  central  banks  decide  on  measures  to  support  the  banking  system  in  a  situation  of 
+financial turmoil. Of course, any such support policy, if anticipated, will be taken into account 
+when banks establish their risk management frameworks for “tail” events. Still, one should 
+refrain from generalising and concluding from this observation that central banks should not 
+re-act and support the financial system in the case of severe liquidity disruptions to money 
+and credit markets. In fact, nobody would dispute that the entire economy can be seriously 
+affected  if  we  allow  financial  market  turmoil  to  develop  into  a  credit  crunch  or  a  banking 
+crisis.  
+In  the  context  of  the  current  turmoil,  the  primary  objectives  of  the  ECB’s  liquidity 
+management policy have been from the beginning clearly identified: (1) to steer the overnight 
+rate close to its key policy rate so as implement the monetary policy stance determined by 
+the Governing Council; and (2) to support the proper functioning of the money market as a 
+whole by helping credit institutions to meet their liquidity needs in a smooth manner. By doing 
+so,  the  ECB  has  contributed  to  safeguarding  financial  stability  and  supported  the  effective 
+functioning of the mechanisms through which monetary policy is transmitted in the euro area. 
+I am fully confident that, once the current turmoil subsides, we will have learned much about 
+how to render the operational frameworks of central banks even more effective in providing 
+access  to  liquidity  in  both  normal  times  and  under  stress.  At  the  same  time,  I  think  it  is 
+legitimate to expect that banks will make substantial progress in addressing the weaknesses 
+in their liquidity risk management practices that the current turmoil has revealed and that, by 
+doing so, they should make it less likely that history will repeat itself. 
+                                                 
+9   Goodhart, C. (2007), Discussion of “Success and failure of monetary policy since the 1950s” by D. Laidler, 
+Conference  on  Monetary  Policy  over  Fifty  Years  on  occasion  of  the  50th  anniversary  of  the  Deutsche 
+Bundesbank, Frankfurt, 21 September. 
+18 
+ BIS Review 43/2008

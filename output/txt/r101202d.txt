@@ -1,0 +1,225 @@
+Kiyohiko G Nishimura: Electronic trading and financial markets 
+Speech  by  Mr  Kiyohiko  G  Nishimura,  Deputy  Governor  of  the  Bank  of  Japan,  at  the 
+International Paris-Europlace Financial Forum, Tokyo, 29 November 2010. 
+ Introduction 
+1.  
+I am honored and delighted to have been given the opportunity to speak at this International 
+Financial Forum, organized by Paris EUROPLACE. Further, it gives me great pleasure to be 
+alongside  our  long-time  friend  Christian  Noyer,  Governor  of  the  Banque  de  France.  Paris 
+EUROPLACE has played an important role both in the growth of the financial industry and in 
+the  evolution  of  financial  markets.  In  particular,  it  has  provided  various  opportunities  for 
+discussion among its members, who represent a broad spectrum of the financial industry. I 
+salute  the  members  for  their  contributions.  Growth  in  major  economies  has  slowed 
+substantially  since  the  financial  crisis  of  2008,  and  it  is  now  more  than  ever  important  to 
+examine  the  ways  in  which  the  financial  industry  can  regain  credibility  and  strengthen 
+macroeconomic fundamentals. This forum provides a timely opportunity to exchange views 
+on the positioning of the financial industry for new growth opportunities. The key to growth in 
+the financial industry is to find businesses which are in a position to grow domestically and 
+internationally, and then to assist these businesses further by providing ready access to risk 
+money. At the same time, we should improve the infrastructure of financial markets, through 
+which money is funneled.  
+In this respect, advances in information and communication technology (ICT) have already 
+changed  the  landscape  of  financial  markets,  providing  a  set  of  powerful  tools  for  financial 
+institutions:  These  advances  have  increased  the  efficiency  of  trading  and  settlement,  and 
+proved useful in evaluating the price and risk of financial products.  
+Today,  I  will  focus  on  one  of  the  most  conspicuous  ICT-induced  changes,  that  is,  the 
+impressive  developments  made  in  recent  years  in  the  electronic  trading  of  financial 
+products.1  
+Global expansion of electronic trading and the Japanese market  
+2.  
+I will start with an overview of the global expansion of electronic trading, which involves two 
+elements. The first is automated order placement and trade execution, so-called algorithmic 
+trading. The second is the substantial speed-up and improved efficiency in matching orders 
+in  the  market,  that  is,  the  new  generation  of  order-matching  engines.  Although  these  two 
+elements  have  been  present  since  the  1980s  and  90s,  their  global  application  has  been 
+expanding  and  accelerating  particularly  rapidly  in  recent  years,  thanks  to  advances  in 
+Information and Communication Technology.  
+Electronic  trading  has  made  especially  dramatic  developments  in  the  equity  and  currency 
+markets of major industrialized countries. As much as 60 to 70 percent of the amount traded 
+in  the  United  States,2  and  some  50  percent  of  that  traded  in  Europe,3  is  executed 
+                                                 
+1   The following is partly based on Sugihara, Y., 2010, “Approaches of Market Participants for the Reduction of 
+Transaction Costs: Application of Algorithmic Trading and Trading Venues,” IMES Discussion Paper Series 
+No. 2010-J-26, Institute for Monetary and Economic Studies, Bank of Japan (in Japanese). 
+2   See Hendershott, T., C. M. Jones, and A. J. Menkveld, 2011, “Does Algorithmic Trading Improve Liquidity?” 
+The Journal of Finance, forthcoming (February 2011). 
+3   See Hendershott, T. and R. Riordan, 2009, “Algorithmic Trading and Information,” NET Institute working paper 
+No. 09–08. 
+BIS Review 160/2010 
+ 1
+electronically and automatically, according to surveys and recent studies of equity markets. 
+In  currency  markets,  about  half  of  the  amount  traded  is  estimated  to  3  involve  algorithmic 
+trading.4 
+Although  there  is  less  electronic  trading  in  the  Japanese  equity  market  than  in  the  United 
+States  and Europe,  it  is  currently  a  growing  focus  of  attention.  Arrowhead,  the  new  order-
+matching  engine  for  cash  products  on  the  Tokyo  Stock  Exchange,  has  been  operating 
+smoothly and steadily since its launch at the beginning of this year. The results have been 
+impressive. The order-response time of cash equity trades has been reduced to only a few 
+milliseconds. Also, in February 2011, the Osaka Stock Exchange plans to launch J-GATE, a 
+new  high-speed  order-matching  engine  for  equity  derivative  trading.  Proprietary  trading 
+systems (PTSs), which correspond to the multilateral trading facilities (MTFs) in Europe, still 
+have only a small market share in Japan, but their trading volume is gradually increasing.  
+In tandem with these infrastructural developments, algorithmic trading volumes seem to be 
+increasing steadily in Japanese equity markets. Although no official statistics are available, 
+20  to  30  percent  of  all  orders  received  by  the  Tokyo  Stock  Exchange  are  placed  at  co-
+location sites,5 which are specially designed for automatic, high-speed trading.6 This gives 
+an indirect but clear indication of the growing importance of electronic and automated trades 
+in Japan.  
+Positive effects of expanding electronic trading  
+3.  
+With  its  greater  speed  and  diversified  trading  venues,  electronic  trading  has  changed  the 
+market microstructure of the financial world. Market participants’ trade execution strategies 
+have  changed  dramatically.  High-frequency  trading  has  come  to  have  a  greater  presence. 
+High-frequency  trading  can  be  considered  as  a  type  of  trading  strategy  similar  to  market 
+making and short-term liquidity provision. Various execution strategies, derived and devised 
+from the experience of traders and the results of computationally intensive research, have 
+been transformed into computer algorithms and offered to various investors in the financial 
+market.  
+These changes have enabled institutional investors to take advantage of cutting-edge tactical 
+executions. Depending on market conditions, many of the algorithmic trading strategies slice 
+block  orders  into  smaller  child  orders,  to  avoid  the  price  changes  caused  by  block-order 
+executions, that is, so-called market impact. The expansion of algorithmic trading is leading 
+to fundamental changes in the market: for example, orders are smaller but more numerous 
+than before.  
+This development in market microstructure has had a positive impact on market functioning, 
+improving investment performance per risk capital through the reduction of transaction costs. 
+In fact in the U.S. market, where algorithmic trading started earlier than other places, it has 
+reduced  market-making  costs  and  narrowed  bid-offer  spreads  significantly.7  Moreover, 
+recalling  that  algorithmic  trading  strategies  for  block  trades  are  designed  to  reduce  their 
+                                                
+ 
+4   See  Table  2  in  Chaboud,  A.,  B.  Chiquoine,  E.  Hjalmarsson,  and  C.  Vega,  2009,  “Rise  of  the  Machines: 
+Algorithmic Trading in the Foreign Exchange Market,”  Board of Governors of the Federal Reserve  System, 
+International Finance Discussion Papers, No. 980. 
+5   Co-location is a service that allows market participants to install their devices at data centers of trading venues 
+to minimize the physical distance between data centers and market participants’ devices. 
+6   According to the Tokyo Stock Exchange. 
+7   See  Figure  1–3  in  Hendershott  et  al.,  2009,  in  footnote  2.  There  is  an  empirical  study  on  the  reduction  of 
+transaction costs as a result of MTF expansion in the recent European markets. For details, see Brandes, Y. 
+and I. Domowitz, 2010, “Alternative Trading Systems in Europe: Trading Performance by European Venues 
+Post-MiFID,” Journal of Trading, 5(3), pp.17–30. 
+2 
+ BIS Review 160/2010
+market impact, an empirical study has shown that this type of algorithmic trading contributes 
+to stabilizing intra-day realized volatility. Thus, algorithmic trading may help stabilize market 
+prices, under normal circumstances and most of the time.8 
+There  is  an  additional  positive  point.  Electronic  trading  enables  faster  information 
+propagation.  Arbitrage  trades  between  individual  equities  and  between  markets  have 
+increasingly been conducted automatically and at lightning speeds using algorithms. This is 
+likely to boost the efficiency of the financial market and the allocation of scarce resources.  
+Three challenges posed by electronic trading  
+4.  
+Although the expansion of electronic trading has brought many positive effects, as noted, it 
+also  has  its  own  negative  side  with  respect  to  the  proper  functioning  of  financial  markets. 
+There are three crucial issues.  
+The  first  issue  is  market  vulnerability  induced  by  the  presence  of  electronic  trading.  In 
+particular, algorithmic trading is vulnerable to unpredictable events. On May 6 of this year, 
+the so-called Flash Crash caused a violent fluctuation in prices over some ten minutes in the 
+U.S.  equity  market.  The  U.S.  Commodity  Futures  Trading  Commission  and  the  Securities 
+and  Exchange  Commission  carried  out  a  joint  investigation  into  the  incident.9  Their  Joint 
+Report pointed out that, at the start of the Flash Crash episode, one algorithm’s automated 
+execution  of  a  very  large  sell  order  confused  and  dislocated  other  algorithms.  As  a  result, 
+many  market  participants,  whether  algorithmic  or  human,  refrained  from  buying,  and  thus 
+market  liquidity  decreased  sharply,  leading  to  unusual  turbulence  in  several  stocks.  Some 
+algorithm-based  arbitrage  trades  contributed  to  spreading  this  market  seizure  to  a  wide 
+range of individual stock prices, leading to the full-blown Flash Crash.  
+Although algorithmic trading may contribute to market stabilization in normal times, this may 
+not  be  the  case  when  unexpected  events  or  unknown  unknowns  occur.  Mechanistic 
+algorithms may not be able to respond properly to unexpected and unprecedented events in 
+the  same  way  as  humans,  who  have  common  sense.  In  such  circumstances,  the  human 
+brain performs better than the digital computer. Thus, a mutually complementary relationship 
+between  algorithms  and  humans  is  absolutely  crucial.  In  particular,  safeguard  should  be 
+considered, such as circuit breakers compatible with high-speed algorithmic trading.  
+The Japanese equity market has not been immune from this type of market disruption. There 
+have been several instances caused by large but erroneous orders that were filled instantly. 
+Learning from these incidents, Japanese brokerage houses are now required to refrain from 
+placing  orders  that  exceed  a  threshold  amount,  to  prevent  the  execution  of  mistaken 
+orders.10 Moreover, a new market safeguard has been introduced which is compatible with 
+high-speed  trading.  Just  in  time  for  Arrowhead’s  launch,  the  Tokyo  7  Stock  Exchange 
+instituted  a  new  trading  rule,  requiring  a  one-minute  pause  at  order-matching  when 
+sequential execution of a single order causes a large price impact which exceeds a certain 
+price-change limit. 
+The second question that electronic trading, or high-frequency trading in particular, poses to 
+the market, is the issue of possible new ways of manipulating the market, and how to detect 
+and  prevent  such  illegal  activities  in  the  age  of  lightning-speed  order  execution.  Some 
+                                                 
+8   See Chaboud et al., 2009, in footnote 4. 
+9   See 
+Futures 
+Commodity 
+U.S. 
+Commission,  2010, 
+http://www.sec.gov/news/studies/2010/marketevents-report.pdf. 
+“Findings  Regarding 
+Trading 
+Commission 
+Exchange  
+the  Market  Events  of  May  6,  2010,”  available  at 
+Securities 
+and 
+and 
+10   See Article 5 in “Regulations Concerning the Establishment of an Order Management System by Association 
+Members,” by the Japan Securities Dealers Association. 
+BIS Review 160/2010 
+ 3
+algorithms incorporate information available on limit-order books to estimate current supply-
+demand imbalances that might be open to exploitation. Note that such information gathering 
+activities  are  necessary  for  properly  functioning  markets,  and  that  human  dealers  are  also 
+engaged in similar activities. At the same time, it is true that illegal attempts to manipulate the 
+market  may  be  hidden  behind  such  information  gathering  activities.  We  all  remember  the 
+many lengthy and complicated probes of illegal market manipulation in the past. The point is 
+that  high-speed  algorithmic  trading  makes  such  illegal  market  manipulation  ever  more 
+sophisticated and harder to detect.  
+There is particular concern about plots involving algorithm traders alone. For example, one 
+algorithm  trader  may  try  to  drive  the  price  in  its  favor  by  intentionally  manipulating  other 
+algorithm traders by instant quote stuffing, which human traders could not recognize visually, 
+being  carried  out  at  lightning  speed.  Since  only  algorithmic  traders  are  involved,  an 
+investigation  of  this  type  of  plot  would  entail  scrutinizing  a  tremendous  number  of  order 
+records,  making  it  difficult  to  detect  illegal  manipulations  in  a  traditional  way.  Here,  the 
+appropriate application of information 8 technology can be most effective. To put it differently, 
+regulators and overseers should arm themselves with technology comparable to that used by 
+high-speed villains themselves, though there is still a long way to go in this area. 
+The third issue, which is more technical but more profound in nature than the previous two 
+issues, is the question of how to avoid over-reliance on high-frequency traders as liquidity 
+providers.  A  research  paper  on  the  background  to  the  Joint  Report  on  the  Flash  Crash 
+reveals  an  interesting  fact.11  Toward  the  end  of  the  Flash  Crash,  some  high-frequency 
+traders intensified their activities as market liquidity declined dramatically. Declining market 
+liquidity  meant  the  absence  of  their  usual  trading  counterparties,  and  thus  these  high-
+frequency  traders  repeated  and  intensified  their  automatic  high-speed  trading  among 
+themselves. Their activities led to sizable price volatility in a very short period of time.  
+It  should  be  noted  here  that,  even  though  high-frequency  traders  supply  liquidity  to  the 
+market by offering a limit order and thus make a position when it is hit, these high-frequency 
+traders try to close the position immediately after the original transaction. This is indeed why 
+such  traders  are  called  “high  frequency”  traders.  Consequently,  when  there  are  large 
+demand-supply gaps among non-high-frequency traders in the beginning, it is not at all likely 
+in the end that the liquidity provided by high-frequency traders is sufficient to fill these gaps. 
+Moreover,  if  the  market  is  dominated  by  mechanistic  traders,  who  react  to  microscopic 
+directional  changes  in  9  prices  rather  than  to  market  fundamentals,  market  prices  may 
+deviate further and further from the fundamentals once a demand-supply gap emerges. The 
+Flash Crash is a perfect example of this, where the end result was just the contrary to the 
+supposed stabilization. 
+This serves to remind us of the utmost importance of market diversity, with respect to sellers 
+and buyers, their strategies, and their referenced information. I would like to insist again that, 
+in  order  to  make  markets  function  well,  it  is  essential  to  have  both  non-high-frequency 
+investors  and  high-frequency  traders,  of  various  kinds.  Just  focusing  on  high-frequency 
+traders  is  rather  misleading  in  understanding  the  impact  of  electronic  trading  in  financial 
+markets.  
+Closing remarks 
+5.  
+As I have documented so far, advances in information and communication technology have 
+sent  ripples  and  waves  over  the  entire  financial  industry,  providing  new  opportunities  for 
+growth  and  efficiency.  At  the  same  time,  these  advances  pose  serious  challenges  to 
+                                                 
+11   See  Kirilenko,  A.,  A.  S.  Kyle,  M.  Samadi,  and  T.  Tuzun,  2010,  “The  Flash  Crash:  The  Impact  of  High 
+Frequency Trading on an Electronic Market,” preprint, available at http://ssrn.com/abstract=1686004. 
+4 
+ BIS Review 160/2010
+maintaining market stability and integrity. Thus, to take full advantage of these opportunities, 
+we  should  work  together  to  maintain  the  stability  and  integrity  of  the  financial  market  and, 
+thereby, the financial system itself. This should be done in a timely manner, so as to cope 
+with the rapid developments in technology.  
+As a market participant, the Bank of Japan will continue to promote the stability, efficiency, 
+and integrity of the financial system. 
+Thank you for your attention. 
+BIS Review 160/2010 
+ 5

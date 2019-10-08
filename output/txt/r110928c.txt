@@ -1,0 +1,144 @@
+Narayana Kocherlakota: Central bank independence and sovereign 
+default 
+Speech  by  Mr  Narayana  Kocherlakota,  President  of  the  Federal  Reserve  Bank  of 
+Minneapolis,  at  the  Sovereign  Debt  Seminar,  CME  Group-MSRI  Prize  in  Innovative 
+Quantitative Applications, Chicago, Illinois, 26 September 2011. 
+ These  remarks  are  highly  similar  to  those  I  gave  on  April  1,  2011,  in  Philadelphia.  I  thank  Marco  Bassetto, 
+V. V. Chari, Ron Feldman, Futoshi Narita and Juan-Pablo Nicolini for their comments. The views I express here 
+today are my own, and not necessarily those of others in the Federal Reserve System or my colleagues on the 
+Federal Open Market Committee. 
+Sargent and Wallace published their classic “Some Unpleasant Monetarist Arithmetic” in the 
+Minneapolis  Fed’s  Quarterly  Review  in  1981.  Since  that  date,  there  has  been  a  growing 
+appreciation of the role of fiscal policy in the determination of the price level. The idea is a 
+simple one. Consider a government that borrows only using non-indexed debt denominated 
+in its own currency. There is an intertemporal government budget constraint that implies that 
+the current real value of government liabilities – including the monetary base – must equal 
+the  present  value  of  future  real  surpluses.  Because  the  liabilities  are  nominal  and  non-
+indexed,  the  government  budget  constraint  provides  a  linkage  between  the  public’s 
+assessment  of  future  real  tax  collections  and  government  spending  and  the  current  price 
+level.  
+I like John Cochrane’s analogy here.1 He thinks of money and government bonds as being 
+like stock in a company. Just like a firm’s stock, money and bonds implicitly represent claims 
+to the ownership of the government’s stream of surpluses. And just like with financial assets, 
+the variations in their prices are fundamentally linked to variations in the present discounted 
+value of government profits – that is, surpluses.2 
+This  simple  insight  has  rather  profound  consequences  for  how  we  think  about  inflation. 
+Inflation  is  no  longer  “always  and  everywhere  a  monetary  phenomenon.”  Instead,  even 
+apparently  independent  central  banks  may  not  have  control  of  the  price  level.  Thus,  if  the 
+public begins to think that the fiscal authority is behaving irresponsibly, that belief will push 
+upward on the price level.  
+However, in the existing literature, the analysis of fiscal effects on the price level is typically 
+based on the presumption that a fiscal authority will never default on liabilities denominated 
+in its own currency. In my remarks today, I will relax this assumption. Once I do so, it will 
+become clear that a sufficiently tough central bank does have the ability to control the price 
+level, regardless of the behavior of the fiscal authority.3 I will argue that its ability to do so 
+hinges  on  the  nature  of  its  response  to  the  possibility  of  default  on  the  part  of  the  fiscal 
+authority.  I  will  talk  about  some  of  the  short-run  versus  long-run  tensions  involved  in  that 
+response. Throughout, I will refer to the central bank as CB and the fiscal authority as FA. I 
+will refer to the currency as being dollars, but that should not be viewed as suggesting that I 
+am talking about the United States – or Australia.  
+                                                 
+1  See Cochrane (2005). 
+2  The  present-discounted-value  formula  for  stock  price  evaluation  is  based  on  the  assumption  that  the  stock 
+price does not have a bubble component. In the same way, the intertemporal government budget constraint 
+relies on the assumption that the price of neither money nor bonds has a bubble component. This assumption 
+is violated in a wide class of models of money. 
+3  See Bassetto (2008) for a related analysis. 
+BIS central bankers’ speeches 
+ 1
+Let me start by describing a simple CB policy: a commodity price peg. Suppose the central 
+bank holds X ounces of gold. It commits to being willing to buy and sell p dollars for each 
+ounce of gold and has a monetary base of $pX. This policy successfully ties the price level to 
+variations in the price of gold, regardless of the behavior of the FA.  
+What  impact  does  this policy  have  on  the  FA?  Now,  when  the  FA  borrows  in  dollars,  it  is 
+essentially borrowing in a real commodity: gold. All of the FA’s debt is essentially indexed to 
+the  price  of  gold,  and  it  is  certainly  conceivable  that  various  shocks  could  lead  the  FA  to 
+default on those obligations.4 
+Of course, as I have argued elsewhere, this simple policy is generally viewed as suboptimal 
+by  macroeconomists.5  In  contrast,  suppose  that  the  CB  follows  an  aggressive  Taylor  rule 
+when determining the path of the short-term interest rate.6 That policy pins down an inflation 
+path in the usual way, regardless of the FA’s fiscal plans.7 However, given that inflation path, 
+the  FA’s  nominal  debt  is  now  actually  real.  This  means  that  if  the  FA  is  faced  with  an 
+unexpected  decline  in  its  current  and  expected  future  real  surpluses,  it  will  be  forced  to 
+default. 
+Thus, once we allow for the possibility of default by the FA, a sufficiently tough CB can have 
+considerable control over the price level. Of course, I’ve been arguing through examples. It 
+would be more interesting to deliver a fuller characterization of the term “sufficiently tough”  
+– but I’m not going to attempt to do so. Instead, in what follows, I’ll discuss some aspects of 
+the CB’s response to a particularly critical situation. 
+Suppose the FA owes $10 billion on a given Friday. It plans to repay that loan by auctioning 
+new debt on the preceding Monday. However, when it auctions off the new debt, it finds that 
+it can only raise $5 billion. The FA is now in danger of defaulting on its Friday obligation of 
+$10 billion. 
+It is at this stage that the level of commitment of the CB to its chosen inflation path will be 
+severely tested. The FA will ask the CB to take some action that will allow the FA to raise an 
+additional $5 billion on Wednesday. There are many possible actions. The FA might ask the 
+CB to intervene by setting a floor on the price of debt in the Wednesday auction. But there 
+are less overt approaches. For example, the CB can commit to a price peg for the FA’s debt 
+in the secondary market for that debt.  
+In any event, if the CB does intervene in some way to ensure the FA’s solvency, the CB no 
+longer can be said to have independent control over the price level. If the CB’s intervention 
+was largely unanticipated by markets, expected inflation will rise after the CB’s intervention. 
+Then, incipient fiscal insolvency has triggered inflationary pressures. Of course, markets may 
+well have already assigned a positive probability to the possibility that the CB might intervene 
+in  this  kind  of  scenario.  If  so,  then  past  inflation  was  already  influenced  by  the  markets’ 
+expectations of this fiscal policy scenario. 
+                                                 
+4  As modeled, for example, by Eaton and Gersovitz (1987). 
+5  See Kocherlakota (2011). 
+6  Here, I’m assuming that the CB is exchanging reserves and FA securities so as to control the path of a short-
+term nominally risk-free interest rate. This nominally risk-free interest rate may not be the same as the interest 
+rate on FA debt. 
+7  Atkeson, Chari and Kehoe (2010) and Cochrane (2011) argue (convincingly to my mind) that an aggressive 
+Taylor rule is not sufficient to determine inflation. The former authors suggest how price level determination 
+can be achieved using a hybrid rule that augments an activist Taylor rule with a commodity price peg. Note 
+though  that  their  implementations  implicitly  require  the  CB  to  have  the  ability  to  buy  back  money  from  the 
+public. If the CB can only hold assets issued by the FA, then the FA’s actions will influence the value of the 
+CB’s portfolio and thereby influence the CB’s ability to implement a given price level path. In this sense, the 
+CB does not have independent control of the price level. 
+2 
+ BIS central bankers’ speeches
+Should the CB be required to never intervene in this sort of insolvency scenario? I’ve argued 
+that a ban on these interventions will give the CB more independence in its control over the 
+price level. For those who think of CB independence as being the foundational element of 
+macroeconomic policy, that pretty much settles the question.  
+But I see a couple of reasons for caution here. It is certainly conceivable that FA insolvency 
+can be triggered by shocks that are well outside the control of the FA itself. And, empirically, 
+FA insolvency is associated with large short-term and even medium-term declines in output. 
+Should  the  CB  be  prepared  to  drive  the  FA  into  insolvency  given  the  possible  adverse 
+economic impact on the country? 
+More subtly, regardless of the FA’s solvency, sovereign debt issues can fail simply through a 
+coordination failure among investors. If I, as an investor, don’t anticipate that others will buy 
+into the debt issue, I won’t either. In this sense, sovereign debt issues may be susceptible to 
+suboptimal “runs.” The CB can eliminate this possibility by ensuring the nominal promises of 
+the FA whenever the FA is threatened with default. 
+Thus, I see trade-offs. On the one hand, if the CB is known to be willing to intervene to keep 
+the FA solvent, then inflation is necessarily shaped by fiscal considerations and by the short-
+run  incentives  of  elected  officials.  We  know  from  many  years  of  theoretical  and  empirical 
+research that this effect is not a desirable one. On the other hand, if the CB is fully committed 
+to allow the FA to default if necessary, then even optimal debt management by the FA may 
+end up exposing the country to troubling risks, like sovereign debt runs.  
+Let  me  wrap  up.  I’ve  argued  that  even  if  the  fiscal  authority  borrows  exclusively  in  its 
+country’s own currency, the central bank can have a large amount of control over the price 
+level. But the central bank can only achieve that control if it is willing to commit to letting the 
+fiscal  authority  default.  Such  a  commitment  may  expose  the  country  to  risks  of  short-term 
+and  medium-term  output  losses.  How  this  trade-off  should  best  be  resolved  awaits  future 
+research.  But  it  may  turn  out  to  be  optimal  for  central  banks  to  guarantee  fiscal  authority 
+debts  in  some  situations.  If  so,  we  again  have  to  think  of  price  level  determination  as 
+something that is done jointly by the fiscal authority and the central bank – just as Sargent 
+and Wallace taught us 30 years ago. 
+References 
+Atkeson, Andrew, V. V. Chari and Patrick J. Kehoe. 2010. “Sophisticated Monetary Policies.” 
+Quarterly Journal of Economics 125, 47–89.  
+Bassetto, Marco. 2008. “Fiscal Theory of the Price Level,” in Lawrence Blume and Steven 
+Durlauf (eds.), New Palgrave: A Dictionary of Economics, 2nd edition. MacMillan: London.  
+Cochrane, John H. 2005. “Money as Stock.” Journal of Monetary Economics 52, 501–28.  
+Cochrane, John H. 2011. “Determinacy and Identification with Taylor Rules.” Working paper. 
+University of Chicago, Booth School of Business. 
+Eaton,  Jonathan,  and  Mark  Gersovitz.  1987.  “Country  Risk  and  the  Organization  of 
+International Capital Transfer.” NBER Working Paper 2204, April. 
+Kocherlakota, Narayana. 2011. “It’s a Wonderful Fed.” Speech, St. Paul, Minn. 
+Sargent,  Thomas,  and  Neil  Wallace.  1981.  “Some  Unpleasant  Monetarist  Arithmetic.” 
+Federal Reserve Bank of Minneapolis Quarterly Review, Fall, 1–17. 
+BIS central bankers’ speeches 
+ 3

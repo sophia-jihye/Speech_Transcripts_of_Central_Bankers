@@ -1,0 +1,360 @@
+  Joachim Nagel: How the Banking Union has transformed banks’ IT 
+requirements 
+Keynote  speech  by  Dr  Joachim  Nagel,  Member  of  the  Executive  Board  of  the  Deutsche 
+Bundesbank, at the 20th Handelsblatt Annual Conference on Banking Technology, Frankfurt 
+am Main, 3 December 2014. 
+ Opening remarks 
+1. 
+Professor Bott 
+Ladies and gentlemen 
+It gives me great pleasure to address this Handelsblatt Annual Conference today. 
+“All  Digital  –  All  Mobile  –  All  Compliant”,  the  motto  of  this  year’s  annual  conference  on 
+banking technology, points to the major challenges faced by the IT departments of financial 
+institutions. 
+In my capacity as a member of the Bundesbank’s Executive Board, I am responsible for the 
+Markets  and  Information  Technology  Departments.  So  I  am  familiar  with  some  of  the 
+problems  and  difficulties  associated  with  a  bank’s  IT  infrastructure.  On  the  one  hand,  the 
+yardstick by which a bank’s chief information officer (CIO) is measured is the way in which he 
+or  she  supports  the  institution’s  core  business  areas  by  delivering  high-quality  IT  services 
+and products, which should ideally be standardised and streamlined. IT security is coming 
+increasingly into play here. On the other hand, he or she is also expected to demonstrate a 
+high  level  of  agility  and  innovative  ability  in  the  face  of  stiffer  competition,  including  from 
+enterprises  outside  the  traditional  banking  sector.  Together  with  all  other  business  units, 
+then,  it  is  important  for  banks’  IT  to  reap  greater  business  benefits  by  implementing  joint 
+projects and employing innovative information technology. 
+It is crucial that we recognise and harness the business relevance of trends in the field of 
+information technology – trends such as mobility, as referred to in the conference’s motto. 
+Big data, “datability”, social media and cloud computing undoubtedly all open up additional 
+major  opportunities  for  banks.  Yet  at  the  same  time  they  pose  new  challenges,  especially 
+with respect to IT security. 
+Today,  I  would  like  to  shed  some  light  on  the  third  facet  of  this  event’s  motto  –  “All 
+Compliant” – with regard to the European banking union. 
+The  German  Corporate  Governance  Code  defines  “compliance”  as  adherence  to  legal 
+provisions  and  corporate  guidelines,  which 
+the  responsibility  of  senior 
+management.1 Compliance therefore means adhering to and satisfying legal and regulatory 
+requirements.  The  financial  community  is  now  confronted  with  many  new  and  revised 
+requirements and conditions, particularly as a result of regulation adopted in the course of 
+the  financial  and  sovereign  debt  crisis.  Banks  need  to  demonstrate  their  “regulatory 
+compliance” with these, which also has a direct impact on their IT. 
+falls  within 
+The Banking Union – a response to the financial market crisis 
+2. 
+The current financial and sovereign debt crisis has also exposed flaws in the architecture of 
+banking supervision. I would therefore like to highlight four weak points that we have either 
+eliminated or are working towards eliminating on the road to a European banking union. 
+                                                 
+1   German Corporate Governance Code as approved by the Code’s Government Commission on 24 June 2014. 
+BIS central bankers’ speeches 
+ 1
+ 1. 
+ 
+ 2. 
+ 
+3. 
+ 
+4. 
+ 
+ Consistent European banking supervision 
+Banking  supervision  at  the  national  level  was  replaced  on  4  November  2014  by 
+direct, ECB-led supervision of the largest European banks. 
+Under the Single Supervisory Mechanism (SSM), all prudential reporting data from 
+significant banks are now collected by a central authority, with information assessed 
+in a manner that allows cross-border comparisons to be drawn. 
+Harmonisation of banking supervision 
+The  establishment  of  a  uniform  prudential  framework  has  brought  about  greater 
+harmonisation  of  banking  oversight  in  member  states,  with  regulatory  arbitrage 
+being prevented by shifting responsibility for banking supervision and resolution to 
+the European level. 
+Liability cascade in the event of resolution 
+One lesson the crisis has taught us is that no bank should be “too big to fail”: if the 
+worst  comes  to  the  worst,  they  must  be  able  to  fail.  The  Single  Resolution 
+Mechanism  (SRM)  defines  this  usually  self-evident  liability  cascade,  according  to 
+which shareholders and creditors are first and second in line to absorb any losses. 
+Taxpayers are the last link in this chain of liability. 
+Capital backing for government bonds 
+On the other hand, high levels of sovereign debt can also destabilise the domestic 
+banking sector – I am referring specifically to the zero risk weighting of government 
+bonds. In future, this vicious circle between sovereign and banking risks could be 
+broken  by  implementing  appropriate  measures.  After  all,  we  have  seen  that 
+government bonds are not risk-free. That is why the preferential regulatory treatment 
+afforded  to  government  bonds  and  other  exposures  to  the  public  sector,  in 
+particular, needs to be brought to an end. 
+The idea behind the banking union is a common financial regulatory framework, known as 
+the Single Rulebook, and rests on two main pillars. 
+The  first  pillar  is  central,  joint  responsibility  for  banking  supervision  under  the  aegis  of  the 
+ECB. This has already been put in place in the shape of the SSM. 
+The  second  pillar  is  the  SRM,  which  is  responsible  for  the  recovery  and  resolution  of 
+insolvent  banks  in  times  of  crisis.  The  SRM  is  a  necessary  complement  to  the  SSM  and, 
+together, they represent two sides of the same coin: they aim to facilitate the orderly recovery 
+or resolution of institutions in the event of insolvency. 
+There was also talk of a third pillar in the form of a single deposit guarantee scheme. But this 
+would entail joint, cross-border fiscal responsibility, which is a step that policymakers are not 
+yet prepared to take. The recently revised EU Directive on deposit guarantee schemes did, 
+however, bring about greater harmonisation in European deposit guarantee schemes. 
+It is now more or less exactly one month since the SSM came into force. On 4 November, 
+the  ECB  took  on  the  far-reaching  supervisory  responsibilities  assigned  to  it  for  credit 
+institutions  in  the  euro  area.  In  the  SSM,  the  ECB  and  the  euro-area  national  competent 
+authorities  work  together.  The  division  of  tasks  between  the  European  and  national 
+institutions  is  based  on  the  distinction  between  significant  and  less  significant  institutions. 
+Specifically, the following institutions are defined as significant: 
+ 
+banks with total assets of more than €30 billion or more than 20% of national GDP 
+with total assets also in the latter case having to amounting to at least €5 billion; 
+banks receiving direct or indirect assistance from the EFSF or the ESM; 
+BIS central bankers’ speeches
+ 2 
+   the three most significant credit institutions in an SSM member state. 
+the integration of the financial markets by means of uniform standards 
+the separation of bank and sovereign risks and 
+the stability of the financial market. 
+ 
+These are “either/or” criteria. This means that one criterion alone is sufficient to classify the 
+institution as “significant”. For such significant institutions – at present, there are 120 of them 
+with roughly 85% of aggregate total assets across all banks – the ECB is taking on complete 
+supervision. 
+For the 3,600 “less significant” institutions across Europe these tasks will be performed by 
+the national supervisory authorities. So, about 1,700 German institutions will still be subject 
+to ongoing supervision by the Bundesbank and potential measures by BaFin. Nevertheless, 
+the ECB exercises oversight over the system as a whole. The ECB is to ensure consistent 
+and  high-quality  supervisory  practice  in  the  SSM  by  setting  standards  and  issuing 
+instructions.  The  European  Banking  Authority  (EBA)  is  responsible  for  the  development  of 
+regulatory  standards  for  European  banks;  compliance  is  a  matter  for  the  ECB  and  the 
+national competent authorities. 
+European supervision will make a major contribution to 
+ 
+ 
+ 
+From an IT perspective, the SSM will introduce new work processes as well as changes in 
+the exchange of information and reporting channels. Via the national competent authorities 
+(NCAs)  –  in  Germany,  through  the  Bundesbank  –  the  ECB  will  be  receiving  the  reporting 
+data of all banks in the SSM area, irrespective of the significance of the given institution. For 
+significant  banks,  the  Bundesbank  will  become  a  supplier  of  data  to  the  ECB.  The  data 
+reported by the NCAs are analysed by the ECB and serve as a basis for regulatory decisions 
+about significant institutions. 
+For  non-significant  institutions,  the  national  applications  will  continue  to  exist,  but  will  be 
+adapted in future to harmonised European specifications. 
+Supervision of the significant banks will be undertaken by joint supervisory teams (JSTs). A 
+JST  is  being  established  for  each  of  these  institutions.  These  teams  will  be  headed  by  a 
+coordinator who is a member of staff of the ECB. The teams themselves are largely made up 
+of staff from the national competent authorities. In future, the supervisors will have access to 
+the  ECB  banking  supervisory  applications  via  the  SSM  Information  Management  System 
+(IMAS). 
+IMAS will provide the infrastructure to ensure harmonised processes and consistency in the 
+supervision of banking institutions. It is a key element for safeguarding the application of the 
+common methodology and standards by all the JSTs. 
+The  system  offers  ECB  decision-makers  and  banking  supervisors  efficient  access  to 
+operational and analytical data via a stable and user-friendly interface. The first harmonised 
+application  in  the  European  regulatory  framework  is  designed  for  receiving  and  analysing 
+institutions’  solvency  and  financial  data  from  all  the  SSM  countries  based  on  the  XBRL 
+format2 in conformity with the EBA’s technical implementing standards. 
+New requirements for banking infrastructure 
+3. 
+The implementation of the new supervisory standards has become the greatest challenge for 
+the financial industry since the Lehman insolvency according to a recent Forrester study. It 
+                                                 
+2   XBRL (eXtensible Business  Reporting Language)  is a language based on  XML used for the  preparation of 
+electronic documentation in the field of financial reporting. 
+BIS central bankers’ speeches 
+ 3
+  finds  that,  from  a  corporate  viewpoint,  compliance  with  regulatory  requirements  has  the 
+highest priority, with 60% in agreement. This is followed by improved customer services and 
+operational efficiency, which have a lower ranking.3 The direct costs associated with this for 
+the banking industry in Germany as a result of regulation in the period from 2010 to 2015 
+also represent a challenge, however. According to a study by KPMG, these are projected to 
+total around €9 billion.4 
+Reports in the press recently made frequent mention of a “wave of regulation” inundating the 
+banks’ IT. There was even talk of “excessive regulation” or a “regulatory tsunami”. With all 
+sympathy for the great challenges that the banks are facing, we should not forget why these 
+demands arose. They were due to sometimes glaring errors in developments and to a lack of 
+meaningful  possibilities  of  analysing  the  data  that  existed  at  the  banks  –  both  before  the 
+crisis and to this very day. 
+What we have observed from inspections at the banks is that IT at most banks is suffering 
+from data not being collected and maintained in accordance with uniform standards and that 
+there are only limited automated facilities for analysing these data and thus utilising them for 
+a forward-looking risk management. Risk silos exist. 
+The outcome of this is that the management often finds itself in a situation where decisions 
+have to be made with insufficient knowledge of the facts. This chiefly concerns banks with an 
+international  focus,  which  admittedly  find  it  difficult  to  coordinate  IT  spread  over  a  large 
+number of locations. More than for others, however, it is absolutely essential for them to do 
+so in order to hold their own in a volatile economic environment. The whole thing is not just a 
+problem for German banks; according to a study by the Basel Committee, it concerns more 
+or  less  all  international  banks.  It  goes  without  saying  that  no  “data  graveyards”  should  be 
+created. I think that, together with the financial institutions, we will strike a healthy and, above 
+all, viable balance in the future as well. Furthermore, many of the regulations have not been 
+newly invented; they are already national banking supervision reality. 
+the  Banking  Act 
+In  Germany, 
+the 
+(Kreditwesengesetz,  KWG)  and 
+for  Risk  Management 
+(Mindestanforderungen  an  das  Risikomanagement,  MaRisk)  means  that  many  of  the 
+mentioned requirements are already common practice among supervisors. 
+Warren Buffett is quoted as saying “Someone is sitting in the shade today because someone 
+planted a tree a long time ago.” As I see it, the IT departments that have consistently and 
+promptly implemented the requirements of earlier inspection practice are well equipped for 
+the future demands of IT. 
+The  new  “Principles  for  effective  risk  data  aggregation  and  risk  reporting”  (BCBS  239) 
+adopted  by  the  Basel  Committee  at  the  beginning  of  2013  will  apply  initially  from  2016  to 
+global systemically important banks (G-SIBs). A bank is deemed to be systemically important 
+in global terms if its insolvency would severely impede the functioning of the global financial 
+system  or  significant  parts  thereof,  and  would  also  have  negative  effects  on  the  real 
+economy.  The  Financial  Stability  Board  (FSB)  has  classified  30  institutions  worldwide  as 
+systemically important, including Deutsche Bank as the sole German institution. It is already 
+envisaged that this will be extended to domestic systemically important banks. 
+Risk information should be complete, correct, consistent and current and made available in a 
+form  appropriate  to  the  addressees.  This  has  always  been  a  demand  of  the  supervisory 
+authorities. However, the Basel standards now set out, for the first time, globally coordinated, 
+specific regulatory requirements for the architecture of risk and data management. 
+implementation  of  section  25  of 
+the  Minimum  Requirements 
+for  example, 
+                                                 
+3   Forrester: Preliminary Results of 2014 Global Financial Services Architecture Online Survey, August 2014. 
+4   KPMG: Impact of regulatory requirements, December 2013. 
+4 
+ BIS central bankers’ speeches
+  The  implementation  of  these  provisions  should  make  possible  improved  management 
+information across all legal entities, an improved quality of strategic planning options and a 
+complete assessment of the risk exposure at the highest consolidated level. Responsibility 
+for this lies with senior management. 
+The  regulatory  provisions  will  lead  to  a  harmonisation  of  IT  infrastructures,  flexible  and 
+consistent processes in risk management and to enhanced analytical capabilities. 
+The  challenges  in  implementing  these  principles  are  highly  ambitious  and  will  require 
+considerable input in terms of human resources and technology. This applies in particular to 
+risk  management,  finance  and  information  technology.  In  the  medium  and  long  term, 
+however, this will also bring many opportunities. Even at an early stage, it should be possible 
+to assess risks more quickly and more reliably; there will also be a crucial improvement in the 
+quality  of  the  basic  elements  of  management.  These  changes  are  therefore  also  in  the 
+interests of the enterprises themselves. 
+Resulting challenges for institutions 
+4. 
+The requirements placed on institutions by the SSM have been a catalyst for major changes 
+in the relevant business areas and IT departments, particularly with regard to reporting data. 
+The expansion of the report contents has led to a marked increase in the volume of data to 
+be submitted. For example, a tenfold rise in volume is expected for harmonised solvency and 
+financial  data.  Another  new  aspect  is  that  large  institutions’  reports  of  large  exposures 
+exceeding  €300  million  could  contain  up  to  200  MB  of  data  per  submission.  And  I  must 
+confess that the European harmonisation of credit reporting is still in its infancy and further 
+requirements  are  on  the  cards.  Given  the  sheer  scale  of  affected  data,  “Big  Data”  with 
+innovative analytical, visualisation and reporting tools as well as in-memory technology5 will 
+gain greater importance in banks’ IT, if they haven’t done so already. 
+Up  until  now,  many  data  were  already  aggregated  by  institutions  as  part  of  the  reporting 
+process  and  the  total  figures  were  submitted  to  the  supervisory  authority.  It  is  now 
+increasingly the case that individual data are required, which are then aggregated by banking 
+supervisors. The information and data to be reported by banks are now considerably more 
+granular and serve as a basis for extended analyses in the field of banking supervision. 
+Institutions  need  to  get  used  to  the  idea  that  regulatory  requirements  will  have  to  be 
+implemented in a much shorter space of time. Time pressure and the associated planning 
+uncertainty are likely to pose the main problems in this respect. Up until now, there has been 
+a  time  lag  of  about  one  year  between  the  publication  of  new  requirements  by  the 
+Bundesbank and the first-time submission of data in line with these new requirements. In the 
+wake of the launch of the SSM, the EBA has now reduced this timeframe to 2–3 months. The 
+same  applies  to  completely  new  areas  for  which  there  was  previously  no  systematic 
+collection of data. 
+The advantages of XBRL as the lingua franca for exchanging financial information is obvious. 
+Data structures based on defined, uniform procedures allow information to be transmitted in 
+a  more  efficient  manner  that  is  less  prone  to  errors,  and  subsequently  processed  and 
+evaluated. The complexity of taxonomies and reporting formats and the resulting increased 
+volume of data are just some of the disadvantages compared with the previous, more simple 
+formats. These directly impact on IT, placing greater demands on IT infrastructures, such as 
+processor  performance  and  storage  requirements.  Banks  therefore  need  to  upgrade  their 
+capabilities. 
+                                                 
+5  
+In-memory  databases  permanently  store  the  entire  data  pool  in  the  main  memory,  thereby  enabling  much 
+faster read-only access than traditional database systems. 
+BIS central bankers’ speeches 
+ 5
+  The  previous  interfaces  between  commercial  banks  and  supervisory  authorities  have 
+changed. Up to now, incoming reports were only subjected to syntactic checks, with technical 
+verification  taking  place  as  a  downstream  process.  At  the  Bundesbank,  for  example, 
+Bundesbank staff reported any inconsistencies to the respective institutions. The correction 
+could then be made by the institution in consultation with this member of staff. 
+Gradually – the process started back on 1 April 2014 with COREP (common solvency ratio 
+reporting) – the submission and correction process will be automated as far as possible, as 
+the SSM continues to takes shape.6 The reported data will be machine-checked for technical 
+correctness as well as subjected to initial specialist entry checks. At the end of the process, 
+erroneous reports will be automatically rejected. Each individual submission will be subjected 
+to several thousand automated checks. Institutions must expect error messages and be able 
+to  deal  with  not  yet  standardised  contents  and  formats.  Overarching  examinations  of 
+economic, financial and large exposure data mean that institutions will need to cross-check 
+figures down to the very last detail, even if they stem from different systems. 
+The  timeframe  for  corrections  by  institutions  is  being  reduced.  This  means,  inter  alia,  that 
+banks’ internal correction processes need to be made more efficient and consistent, which 
+might require more resources. 
+I  think  that  the  challenges  I  have  presented  can  be  summarised  in  the  following  areas  of 
+action for banks’ IT financial architecture: 
+ 
+Data  governance  and  data  architecture  need  to  be  optimised  in  order to  enhance 
+the quality, accuracy and integrity of data. 
+Analytical  and  reporting  processes  need  to  facilitate  faster  decision-making  and 
+direct availability of the relevant information. 
+Processes  and  databases  for  the  areas  of  finance,  control  and  risk  need  to  be 
+harmonised. 
+Increased  automation  of  the  data  exchange  processes  with  the  supervisory 
+authorities is required. 
+Fast and flexible implementation of supervisory requirements by business units and 
+IT  necessitates  a  modular  and  flexible  architecture  and  appropriate  project 
+management methods. 
+    Banks must ensure that their IT is equipped for this. 
+Further developments and framework conditions are in the pipeline: 
+ 
+The SSM is gradually harmonising the banking supervision reporting system at the 
+European  level.  Thus,  new  frameworks  are  continually  being  developed  in  a 
+European context. 
+The  ECB  and  EBA  are  setting  out  requirements  in  liaison  with  the  national 
+competent  authorities.  COREP  and  large  exposure  reporting  have  already  had  to 
+report for the first time in line with European requirements. 
+The  requirements  concerning  the scope  and contents  of  reporting  have  increased 
+significantly,  while  the  response  times  for  new  requirements  have  been  slashed. 
+This trend looks set to continue in the future. 
+New  standards  such  as  BCBS  239  require  the  relevant  institutions  to  have 
+integrated and automated data processing in place. 
+                                                    
+6   The Europe-wide standardised COREP provides a binding solvency reporting system. 
+6 
+ BIS central bankers’ speeches
+  European harmonisation of credit reporting is presently being discussed (Analytical 
+Credit  Dataset  –  AnaCredit).  It  will  be  fundamentally  different  from  the  current 
+reporting system. We are expecting regulations which lead to an increased number 
+of  metrics,  and  which  additionally  have  a  finer  granularity.  Furthermore,  lower 
+reporting thresholds and increased reporting frequencies are on the cards. 
+ In my opinion, there are two key messages: 
+1. 
+2. 
+Banks  need  to  invest  in  their  information  technology.  The  implementation  of 
+supervisory requirements will tie up considerable resources and entail costs. 
+Regulatory projects reduce operational risk, permit a better and faster assessment 
+of risks and possible courses of action. This can, in turn, diminish operating costs 
+and offer a crucial competitive edge. 
+5. 
+Conclusion 
+Ladies and gentleman 
+To  achieve  our  common  goal  of  making  financial  markets  more  stable,  the  various  bank 
+governance functions – in particular, risk management, reporting and finance – need to be 
+much better integrated than they have been up to now. Overarching data and methodological 
+governance, and the integration of processes and IT systems need to oust the existing silos 
+and monolithic systems. Furthermore, institutions need to be capable of safeguarding flexible 
+and timely reporting for different target groups. 
+Thus  the  modernisation  of  IT  systems  is  one  of  the  big  challenges  faced  by  banks. 
+Institutions want to keep their costs for fulfilling new – above all regulatory – requirements to 
+a  minimum.  To  do  this,  they  will  have  to  modernise  their  IT  architecture.  The  Senior 
+Supervisors Group7 emphasised the importance of strong IT governance, bringing together 
+business units and IT, in its 2010 report8 This is also a key point for me: IT strategy needs to 
+be embedded in the business strategy. The necessary transformations must not be an end in 
+themselves  from  an  IT  perspective,  but  need  to  be  strategically  anchored  and  founded  on 
+business  policy.  Many  regulatory  requirements  have  been  necessary  precisely  because 
+banks’  systems  are  not  integrated.  Only  a  holistic  cross-business  approach  can  take  IT 
+financial architecture to the next strategic level. 
+Ladies and gentleman 
+Thank you very much for your attention. 
+                                                 
+7   This body comprises representatives from the supervisory authorities of 10 countries, which are responsible 
+for the world’s largest banks. 
+8   “Observations on Developments in Risk Appetite Frameworks and IT Infrastructure”, 23 December 2010. 
+ 
+The  SSG’s  analyses  were  carried  out  to  support  the  Financial  Stability  Board  in  its  task  of  addressing 
+weaknesses in the financial system and promoting the stability of the international financial system. 
+BIS central bankers’ speeches 
+ 7

@@ -1,0 +1,771 @@
+Andrew G Haldane: The short long 
+Speech  by  Mr  Andrew  Haldane,  Executive  Director,  Financial  Stability,  and  Mr  Richard 
+Davies,  Economist,  Financial  Institutions  Division,  Bank  of  England,  at  the  29th  Société 
+Universitaire Européene de Recherches Financières Colloquium, Brussels, 11 May 2011. 
+ The views are not necessarily those of the Bank of England or the interim Financial Policy Committee. We are 
+grateful to Nicola Anderson, Sarah Allen, Kath Begley, Antony Ford, Priya Kothari, David Miles, Mette Nielsen, 
+Peter Richardson, Iain de Weymarn and Laura Wightman for comments and contributions. 
+Introduction 
+1. 
+Is the world becoming short-sighted? As individuals, it sometimes feels that way. Information 
+is  streamed  in  ever  greater  volumes  and  at  ever  rising  velocities.  Timelines  for  decision-
+making appear to have been compressed. Pressures to deliver immediate results seem to 
+have intensified. Tenure patterns for some of our most important life choices (marriage, jobs, 
+money) are in secular decline.1 Some have called this the era of “quarterly capitalism”.2  
+These  forces  may  be  altering  not  just  the  way  we  act,  but  also  the  way  we  think. 
+Neurologically, our brains are adapting to increasing volumes and velocities of information by 
+shortening attention spans. Technological innovation, such as the world wide web, may have 
+caused a permanent neurological rewiring, as did previous technological revolutions such as 
+the  printing  press  and  typewriter.3  Like  a  transistor  radio,  our  brains  may  be  permanently 
+retuning to a shorter wave-length.  
+If  these  forces  are  real,  they  might  be  expected  to  be  particularly  important  in  capital 
+markets. These are a key conduit for choice over time. An efficient capital market transfers 
+savings  today  into  investment  tomorrow  and  growth  the  day  after.  In  that  way,  it  boosts 
+welfare. Short-termism in capital markets could interrupt this transfer. If promised returns the 
+day after tomorrow fail to induce saving today, there will be no investment tomorrow. If so, 
+long-term growth and welfare would be the casualty. 
+Yet, despite its potential importance for long-term growth, studies of short-termism in capital 
+markets  are  relatively  thin  on  the  ground.  There  is  a  sharp  disconnect  between  popular 
+perception of  rising  myopia,  driven  by  technology  and  neurology,  and  empirical  evidence.4 
+This  paper  aims  to  provide  some  evidence  on  short-termism  drawing  on  equity  market 
+experience. It is planned as follows. 
+Section  2  reviews  existing  evidence  on  short-termism.  Section  3  describes  the  theory 
+underlying  our  test  of  short-termism  and  its  adverse  implications  for  investment  choice. 
+Section  4  presents  the  empirical  results,  drawing  on  cross-sectional  and  time-series  data. 
+Section 5 draws out the investment implications of the results and sets out a potential menu 
+of policy options. 
+                                                 
+1  Haldane (2010). 
+2  Barton (2011). 
+3  Carr (2008). 
+4   A  recent  interim  report  on  short-termism  by  a  UK  government  department  concludes  thus:  “Overall, 
+respondents believe that short-termism exists in equity markets, but provided little evidence to demonstrate 
+the scale of the consequences for companies and investors” (Department for Business, Innovation and Skills 
+(2011)). 
+BIS central bankers’ speeches 
+ 1
+Our  evidence  suggests  short-termism  is  both  statistically  and  economically  significant  in 
+capital markets. It appears also to be rising. In the UK and US, cash-flows 5 years ahead are 
+discounted at rates more appropriate 8 or more years hence; 10 year ahead cash-flows are 
+valued as if 16 or more years ahead; and cash-flows more than 30 years ahead are scarcely 
+valued at all. The long is short. Investment choice, like other life choices, is being re-tuned to 
+a  shorter  wave-length.  Public  policy  intervention  might  be  needed  to  correct  this  capital 
+market myopia. 
+The short-termism debate 
+2. 
+The short-termism debate is not new. Excess discounting of future outcomes was a familiar 
+theme  among  Classical  economists.  For  Jevons,  “the  untutored  savage,  like  the  child,  is 
+wholly occupied with the pleasures and troubles of the moment; the morrow is dimly felt; the 
+limit of his horizon is but a few days off”.5 For Marshall, people acted like “children who pick 
+the plums out of their pudding to eat them at once”.6 For Pigou, it demonstrated a “defective 
+telescopic faculty” such that “we see future pleasures on a diminished scale”.7  
+And  nowhere  were  these  problems  more  acute  than  in  financial  markets.  Keynes,  himself 
+part-time speculator, was well-aware of the perils of short-termism in investment choice, both 
+moral  and  financial:  “It  is  from  time  to  time  the  duty  of  a  serious  investor  to  accept  the 
+depreciation of his holdings with equanimity without reproaching himself. Any other policy is 
+anti-social,  destructive  of  confidence  and  incompatible  with  the  working  of  the  economic 
+system”. 8 
+In  the  US,  these  sentiments  were  echoed  in  the  immediate  post-war  era  by  Benjamin 
+Graham, the original “value investor” and yesteryear investment guru to today’s investment 
+guru, Warren Buffett: “A serious investor is not likely to believe that the day-to-day or even 
+month-to-month fluctuations of the stock market make him richer or poorer”.9 And, famously, 
+“in the short run, the market is a voting machine but in the long run, it is a weighing machine”. 
+Whether an untutored savage, defective telescope or anti-social voting machine, something 
+sounded amiss. 
+Thus far, however, this evidence was largely anecdotal. It was not until the 1960s that the 
+short-termism  hypothesis  was  first  tested  empirically.  This  drew  on  survey  evidence  from 
+investing  firms.  It  found  that  investors  typically  expected  full  pay-back  on  an  investment 
+within 3 to 5 years. At the time, the average life of plant and equipment was often 10 times 
+that.10 Firms played short even when they desired long.  
+The first quantitative evidence that discount rates might be high began to appear in the early 
+1970s.  For  example,  King  (1972)  examined  investment  in  plant  and  machinery  in  the  UK. 
+Empirical  estimates  suggested  the  internal  discount  rate  implied  by  firms’  corporate 
+investment decisions may be up to 25%.11 This literature failed to catch fire. Starting in the 
+                                                 
+5   Jevons (1871). 
+6   Marshall (1890). 
+7   Pigou (1920). 
+8   Keynes (1938). 
+9   Graham (1949). 
+10  Neild (1964) and the National Economic Development Office (1965) used questionnaire-based evidence.  A 
+large proportion of firms in the sample claimed to use a pay-back criterion and of these the modal pay-back 
+period  was  3–5  years.  Census  evidence  from  this  period  indicated  that  the  average  useful  lifespan  of 
+machines was over 15 years. The distribution of plant and equipment lives in Dean and Irwin (1964) implied a 
+mean economic life of 34 years. 
+11  Sumner (1974) reaches similar conclusions. 
+2 
+ BIS central bankers’ speeches
+mid-1970s, it was doused by a torrent of papers testing – and typically failing to reject – the 
+efficient markets hypothesis.  
+This new wave swamped empirical finance for the better part of a decade. In the late 1970s 
+and early 1980s, the efficient markets paradigm appeared all-conquering as a description of 
+asset  price  movements  in  practice.12  Research  on  the  inefficiencies  of  capital  markets 
+became something of a backwater. The voting machine appeared to be delivering outcomes 
+both democratic and socially beneficial. 
+But  beginning  in  the  1980s,  a  whole  sequence  of  “puzzles”  in  empirical  finance  began  to 
+emerge. These were puzzles only in the sense of being deviations from efficient markets. For 
+Mr Keynes and the Classicists, they would have been anything but.13 For example, an early 
+set  of  papers  found  “excess  volatility”  in  asset  prices  relative  to  future  dividends  and 
+earnings.14  Investor  myopia  was  one  interpretation,  with  too  great  a  weight  on  near-term 
+dividends causing even transitory changes to affect valuation.15 
+Using  an  augmented  version  of  this  basic  asset  pricing  framework,  Miles  (1993)  tested 
+formally for excessive discounting of future cash-flows using company-level equity price data 
+from  the  UK  between  1980  and  1988,  finding  evidence  of  short-termism  over  this  period. 
+Similar approaches applied to longer time-series across a range of countries reached broadly 
+similar conclusions.16  
+Yet, latterly, the quantitative evidence appears, as in the mid-1970s, to have dried up. This 
+time  the  efficient  markets  hypothesis  cannot  be  held  responsible,  for  it  has  come  under 
+increasingly critical scrutiny. Instead we have seen scraps of evidence drawn from the types 
+of  surveys  familiar  from  the  1960s.  For  example,  among  asset  managers,  a  2004  MORI 
+survey  of  members  of  the  Investment  Managers  Association  (IMA)  and  the  National 
+Association of Pension Funds (NAPF) asked if investment mandates created short-termism. 
+A third of NAPF members and two-thirds of IMA members agreed.  
+In 2006, a CFA (Chartered Financial Analyst) symposium of financial institutions concluded 
+“the obsession with short-term results by investors, asset management firms, and corporate 
+managers collectively leads to the unintended consequences of destroying long-term value, 
+decreasing  market  efficiency,  reducing  investment  returns,  and  impeding  efforts  to 
+strengthen corporate governance”. Echoes, here, of Graham’s anti-social voting machine.  
+Short-termist behaviour among investors appears to have rubbed-off on companies. Poterba 
+and Summers (1995) surveyed Chief Executive Officers (CEOs) at Fortune-1000 firms. They 
+found  that  the  discount  rates  applied  to  future  cash-flows  were  around  12%,  much  higher 
+than  either  equity  holders’  average  rate  of  return  or  the  return  on  debt.  This  excessive 
+discounting implied that some firms were rejecting positive net present value (NPV) projects. 
+Echoes, here, of Pigou’s defective telescope. 
+Graham,  Harvey  and  Rajgopal  (2005)  surveyed  401  executives.  They  found  three  striking 
+results. First, managers would reject a positive-NPV project if that lowered earnings below 
+quarterly consensus expectations. Second, over 75% of the sample would give up economic 
+value in order to smooth earnings. Third, managers said that this was driven by the desire to 
+satisfy investors. Echoes, here, of Marshall’s plum pudding problem.  
+                                                 
+12  Fama (1970) provides a survey of the early papers.     
+13  Hicks (1937). 
+14  The important papers are LeRoy and Porter (1981), Shiller (1981) and Campbell and Shiller (1988).  
+15  Several  other  of  the  empirical  finance  “puzzles”,  including  the  dividend  smoothing  and  serial  correlation 
+puzzles, can also potentially be attributed to myopia (Haldane (2010)). 
+16  Cuthbertson, Hayes and Nitzsche (1997), Black and Fraser (2002).  
+BIS central bankers’ speeches 
+ 3
+Most  recently,  in  2011  PriceWaterhouseCoopers  conducted  a  survey  of  FTSE-100  and 
+250 executives, the majority of which chose a low return option sooner (£250,000 tomorrow) 
+rather than a high return later (£450,000 in 3 years). This suggested annual discount rates of 
+over  20%.  Recently,  Matthew  Rose,  CEO  of  Burlington  Northern  Santa  Fe  (America’s 
+second biggest rail company), expressed frustration at the focus on quarterly earnings when 
+locomotives  lasted  for  20  years  and  tracks  for  30  to  40  years.  Echoes,  here,  of  “quarterly 
+capitalism”.  
+This  evidence  –  anecdotal,  survey,  quantitative  –  is  broadly  consistent  with  popular 
+perceptions. Capital market myopia is real. It may be rising. For at least some of the jury, 
+however,  it  remains  inconclusive.  In  2010,  Richard  Saunders  (Chief  Executive  of  the  IMA) 
+summed  it  up  thus:  “Now  red  lights  start  flashing  for  me  when  people  talk  about  short-
+termism, particularly when shareholders feature in the same sentence. What do people mean 
+when they claim that shareholders behave in a short-term fashion? And what evidence do 
+they have for it? I have yet to hear a convincing answer to either question”. 
+Testing for short-termism 
+3. 
+In  the  quest  for  some  concrete,  quantitative  evidence,  our  test  of  short-termism  uses  the 
+forward-looking asset price framework of Miles (1993). A simple example illustrates the basic 
+approach to testing myopia and its implications for project choice. 
+A simple example 
+(a) 
+Consider an investment project costing $60. This investment is riskless and pays $10 at the 
+end of each of 10 years. The present value of the project is simply the sum of the cash-flows 
+discounted by the risk-free rate, r:  
+(1) 
+ With a discount rate of 9%, the project’s cash-flows are worth $65 today and its NPV is $5. A 
+firm or investor offered this project should rationally undertake the investment. 
+Short-termism  implies  that  agents  may  discount  “excessively”  future  cash-flows,  over  and 
+above the risk-free rate. Denote that short-termism parameter, x. The present value under 
+myopic discounting then becomes: 
+(2) 
+ If x is less that unity, then the project’s cash-flows are discounted too heavily. For example, 
+assume x = 0.95 so that one period ahead cash-flows are underestimated by 5%. Even with 
+this  modest  degree  of  myopia,  NPV  calculations  are  affected  significantly.  A  $10  return 
+received at the end of year 5 should be worth $6.65 today. With myopia, it is worth $5.14. 
+Discounted  cash-flows  on  the  project  are  now  worth  $52,  meaning  that  the  NPV  of  the 
+project is negative. A myopic investor would walk away from this NPV-worthy project.  
+Imagine instead that an investor were making choices based on average payback periods, 
+rather  than  NPV.  Under  rational  discounting,  the  project  has  a  payback  period  of  9  years. 
+Under myopic discounting, the payback period rises to 15 years. An investor might now think 
+twice before investing their money, for their money is committed for almost twice as long. 
+So  short-termism  implies  that  projects  with  positive  returns,  or  a  relatively  short  payback, 
+may be misperceived as being negative return or having a relatively lengthy payback. These 
+projects  would  fail  to  receive  financing.  Investment  and,  ultimately,  growth  would  be  lower 
+4 
+ BIS central bankers’ speeches
+than optimal. In fact, the potential capital misallocation problem is greater still. To see that, 
+consider the three projects summarised in Table 1. 
+Table 1 
+Short-termism and capital planning 
+Project  
+A 
+B 
+C 
+$10 pa every year 
+$16 pa in years 1–5 
+$28 pa in years 6–10 
+$140 
+$73 
+1 
+$49 
+3 
+Cash-flows (CF) 
+Cumulative CF 
+NPV (rational) 
+Ranking (rational) 
+NPV (myopia) 
+Ranking (myopia) 
+ 
+In  the  absence  of  short-termism,  project  A  is  selected.  Its  payouts  are  back-loaded  but 
+significant; it generates a net excess return of 22%.17 Short-termism hits such long duration 
+projects hardest. The impatient investor chooses project C. This project delivers lower cash-
+flows  but  these  are  front-loaded.  In  NPV  terms,  the  project  selected  is  the  worst  on  offer, 
+whereas the rationally optimal project ranks last. Capital allocation is not just sub-optimally 
+low; it is also skewed towards sub-optimally short-duration projects. 
+$100 
+$66 
+2 
+$52 
+2 
+$80 
+$63 
+3 
+$55 
+1 
+Asset pricing 
+(b) 
+Consider  now  a  formal  model  of  multi-period  equity  price  determination.  Finance  theory 
+typically assumes that investors care about both the level and uncertainty of their wealth and 
+are  risk  averse.  In  this  world,  agents  require  a  premium  to  invest  in  a  company.  More 
+formally, the expected return can be written as the sum of the risk free rate and a company-
+specific risk premium for company j:18  
+(3) 
+ The actual return on an investment is the sum of the capital gain and the dividend yield: 
+(4) 
+ Assuming  an  efficient  market,  actual  returns  differ  only  from  expected  returns  due  to  a 
+forecast error which is uncorrelated with expected returns.19 Using this assumption, we can 
+substitute (4) into (3) to give an equation for the equity price.  
+                                                 
+17  The return is $73 – $60 = $13, divided by the cost of investment. 
+18  This is the case  with the capital asset pricing model (CAPM) (Lintner (1965), Sharpe (1964)) and arbitrage 
+pricing theory (Ross (1976)). Under the CAPM, for example, the company specific risk premium is equal to the 
+company  specific  beta  multiplied  by  the  market  risk  premium 
+.  This  means 
+19  That is, we assume that 
+  BIS central bankers’ speeches 
+ 5
+(5) 
+ So  the  price  of  the  security  is  simply  the  expected  price  and  dividend  in  the  next  period, 
+discounted by the sum of the risk-free rate and the company-specific risk premium. 
+By  repeated  substitution,  this  asset  pricing  equation  can  be  written  as  a  generalised  form 
+of (1): 
+(6) 
+ The current share price is a function of future discounted dividend streams and a discounted 
+terminal share price, where we have used: 
+(7) 
+(8) 
+  Equation  (7)  says  that  the  expected  company-specific  risk  premium  is  constant  and 
+pre-determined based on period t information. Equation (8) says that expectations of future 
+risk-free rates are defined by the path of the risk-free forward rate curve observed at time t.  
+Equation (6) can be modified with a myopia coefficient to give a generalised version of (2): 
+(9) 
+ The null hypothesis – no short-termism – implies x = 1. Drawing on evidence across time and 
+industrial sectors, it is this restriction we now test. 
+Testing for short-termism 
+4. 
+The data comprises a panel of 624 firms listed on the UK FTSE and US S&P indices over the 
+period 1980–2009.20 These span a broad range of industrial sectors, as shown in Table 2.  
+Number of firm level observations in each industry segment 
+Table 2  
+ Index  Consumer 
+ Financials  Health 
+IT 
+Industrials Materials 
+Total 
+Energy 
+Utilities 
+S&P 
+FTSE 
+ 
+117 
+52 
+65 
+14 
+78 
+42 
+47 
+5 
+73 
+34 
+47 
+18 
+23 
+9 
+450 
+174 
+                                                 
+20  Data are from Thomson Reuters Datastream.  
+6 
+ BIS central bankers’ speeches
+The core inputs to the analysis are firm-level measures of dividends and equity prices. The 
+average  dividend-price  ratio  in  each  industry  segment  is  shown  in  Table  3.  The  mean 
+dividend-price ratio across the panel is 2.6%. But there is a fairly significant degree of cross-
+sectoral and time-series dispersion. For example, dividend-price ratios are almost twice as 
+high in the energy and utilities sector as the health and pharmaceuticals sector. And mean 
+dividend-price ratios were two thirds third higher in the 1990s compared to the 1980s. 
+ Table 3 
+Mean dividend-price ratio for firms in each industry segment 
+ Consumer  Energy & 
+Utilities 
+Financials
+Health 
+IT 
+Industrials  Materials 
+S&P 
+FTSE 
+1.94 
+4.12 
+2.82 
+3.96 
+3.19 
+2.63 
+1.87 
+1.38 
+ 1.69 
+2.92 
+2.55 
+3.81 
+2.22 
+3.16 
+To estimate (9), we require a selection of quantitative inputs. Taking these in turn: 
+Company-specific risk premium 
+(a) 
+Following  Miles  (1993),  the  company  risk  premium  is  modelled  based  on  firm-specific 
+characteristics, in particular the company beta and the level of gearing: 
+(10) 
+ .21 Betas are estimated using daily return data for firms listed on the S&P 500 
+where 
+and FTSE, together with daily data for the indices themselves.22 Mean estimated betas are 
+shown in Table 4. These average below one for both UK and US firms. As Charts 1 and 2 
+illustrate, however, the distribution of betas is fairly wide, with over a third of US firms and 
+almost a fifth of UK firms having a beta in excess of unity. 
+Table 4 
+Estimated betas 
+Index 
+Number of 
+firms 
+Number of 
+observations 
+401 
+168 
+10,140 
+3,765 
+S&P 
+FTSE 
+ Mean 
+0.91 
+0.63 
+ Median 
+0.86 
+0.62 
+S.D 
+0.49 
+0.45 
+                                                 
+21  Because a firm’s beta ought also to be a function of its business and financing decisions, we also estimate a 
+restricted version of (10):  
+ 22  We exclude observations where the estimated beta is greater than 5 in absolute value, which in practice is 
+only 7 firms.  
+BIS central bankers’ speeches 
+ 7
+Chart 1 
+Chart 2 
+Distribution of betas – US 
+Distribution of betas – UK 
+Sources:  Thomson  Reuters  Datastream  and  Bank 
+calculations. 
+Notes: Shows estimated betas for the US firms. The chart 
+is drawn for betas lying between –1 and 3 with 400 bins.  
+Sources:  Thomson  Reuters  Datastream  and  Bank 
+calculations. 
+Notes: As for Chart 1 but for UK firms.  
+  The  second  component  of  the  firm-specific  discount  factor  is  company  gearing.  This  was 
+constructed using annual Thomson Reuters Datastream data for book value per share, the 
+number  of  shares  outstanding  and  debt  outstanding.  Other  things  equal,  higher  gearing 
+would suggest a higher company-specific discount factor.23 The final element in the firm-level 
+discount factor calculation is the risk-free rate. The yield on government securities was used, 
+based on data from the Federal Reserve and Bank of England. 
+Having estimated (10)  using pooled US and UK regressions over 20  years, a firm-specific 
+risk  premium  can  be  calculated.  The  average  premium  across  the  sample  is  5.9%.  As 
+Chart 3 shows, both gearing and beta contribute to the company risk premium estimates.  
+                                                 
+23  The gearing variable is of poorer quality than others in the data, leading to negative gearing observations for 
+some  firms.  Any  firm-year  observations  with  negative  gearing  are  excluded  from  the  analysis  (a  total  of 
+37 observations). 
+8 
+ BIS central bankers’ speeches
+Chart 3 
+Estimates of company risk premium  
+ Sources:  Thomson  Reuters  Datastream  and  Bank 
+calculations.  
+Notes: Uses the estimated coefficients from the pooled UK 
+and US regression together with the mean annual values of 
+beta and gearing for firms in the US and UK.   
+Expected dividends and prices 
+(b) 
+The  right-hand-side  of  equation  (9)  defines  the  stream  of  future  dividends  and  terminal 
+prices. To generate these, consider a simplified version of (9) which abstracts from discount 
+rates, company-specific risk premia and dividends: 
+ 
+(11) 
+  
+Following  Wickens  (1982),  the  rational  expectation  t+N  periods  ahead  are  formed  on  the 
+basis of information available at time t. For each company j, these expectations differ from 
+the realised values by a forecast error (
+ 
+(12) 
+) unpredictable at time t:  
+  Adding and subtracting the average forecast error across all companies (
+ 
+(13) 
+) gives:  
+  
+Actual prices cannot be used in the estimation of (13) as these are not known at time t and 
+.  But  consistent  estimation  of 
+are  correlated  with  the  error  term  (
+ but which are independent of 
+(13) is possible using a set of instruments correlated with 
+the  company-specific  excess  forecasting  errors.  In  the  estimation,  lagged  share  prices, 
+lagged dividends per share and lagged earnings per share are used as instruments for future 
+dividends and equity prices. These are known at time t but are uncorrelated with the error 
+term. Five lags of each variable (price, dividends, earnings) are used as instruments.  
+BIS central bankers’ speeches 
+ 9
+Generating estimates of short-termism 
+(c) 
+Given  estimates  of  company  beta  and  gearing,  risk-free  rates  and  the  instrumented 
+variables,  equation  (9)  can  be  estimated  to  generate  estimates  of  the  short-termism 
+parameter, x. This was achieved using non-linear least squares on a set of cross-sectional 
+regressions for each of the years 1985 to 2004.24 
+Chart 4 shows point estimates of x for each of these years. Short-termism estimates which 
+are statistically significantly below unity (at the 5% confidence level) are shown in red. The 
+simple average of x across the 20-year period is very close to one (0.9935). On the face of it, 
+this  does  not  suggest  that  short-termism  has  been  a  particular  problem  among  this  cross-
+section of firms.  
+ 
+Chart 4 
+Short termism estimates over time 
+Chart 5 
+Industry estimates 
+  Source: Bank of England.  
+Notes:  Bars  show  the  estimated  x  parameter  for 
+regressions 
+the  UK  and  US  pooled  data. 
+Estimates where the 95% confidence interval spans 1 
+are coloured grey. 
+for 
+Source: Bank of England.  
+Notes:  Bars  show  the  industry  estimates  for  the 
+sample  split  into  (1)  1985–1994,  and  (2)  1995–2004 
+for  each 
+industry 
+classifications were used. Bars are coloured based on 
+the significance of the estimates at the 5% level. 
+industry.  S&P  and  FTSE 
+ 
+But this masks some important within-period variation. In 13 of the 20 years, x is lower than 1. 
+And in 9 of these years, x is statistically significantly below unity. Moreover, there is evidence of 
+a rising tide of myopia: 8 of these 9 years occur in the final decade of the sample. 
+To illustrate, Table 5 shows point estimates of x over two decadal sub-samples (1985–1994 and 
+1995–2004)  and  over  the  full  sample.  Estimates  are  significantly  below  unity  in  the  second 
+sub-sample, but not the first. The point estimate of x over the second sub-sample is 0.94.25 
+                                                 
+24  Because the estimation expected values up to five periods ahead, the estimates only run to 2004.   
+25  Various robustness checks were conducted. These included dropping gearing from the estimation of the risk 
+premium and varying the effects of taxes. These did not alter significantly the empirical estimates. 
+10 
+ BIS central bankers’ speeches
+Short-termism estimates for the US and UK 
+Table 5 
+Year 
+Full sample (1985–2004) 
+1985–1994 
+1995–2004 
+x 
+0.937 
+1.001 
+0.938 
+Standard error 
+Evidence of short-termism?
+(0.004) 
+(0.008) 
+(0.005) 
+Yes 
+No 
+Yes 
+Notes: The significance column refers to a test of x<1 at the 5% confidence level. 
+Table 6 shows estimates of x over the same three samples on a sectoral basis. It echoes the 
+message  from  Table  5.  There  is  statistically  significant  evidence  of  short-termism  in  the 
+second half of the sample for all seven industrial sectors. And in all of these sectors except 
+health and materials, x is lower in the second half of the sample than the first – in those two 
+sectors x is below unity throughout the sample.  
+Although short-termism appears to be a consistent theme across industrial sectors, there are 
+nonetheless  some  interesting  patterns  in  the  degree  of  short-termism  across  sectors.  For 
+example, the financial sector does not appear especially short-termist over the full sample. 
+By contrast, the health and materials sectors exhibit short-termism throughout.  
+Sectoral short-termism estimates for the US and UK  
+Table 6  
+ Full Sample 
+1985–2004 
+1985–1994 
+1995–2004 
+Industry 
+x 
+Significant?
+x 
+Significant?
+x 
+Significant?
+Consumer 
+Energy and Utilities 
+Financials 
+Health 
+IT 
+Industrials 
+Materials 
+0.939 
+0.939 
+0.965 
+0.940 
+0.902 
+0.926 
+0.875 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+1.007 
+1.05 
+1.087 
+0.857 
+0.957 
+1.018 
+0.871 
+No 
+No 
+No 
+No 
+No 
+No 
+Yes 
+0.94 
+0.934 
+0.963 
+0.940 
+0.892 
+0.925 
+0.874 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Yes 
+Notes: The significance columns refer to a test of x<1 at the 5% confidence level. 
+ Short-termism and public policy  
+5. 
+These  tests  of  short-termism  point  to  two  key  conclusions.  First,  there  is  statistically 
+significant evidence of short-termism in the pricing of companies’ equities. This is true across 
+all industrial sectors. Moreover, there is evidence of short-termism having increased over the 
+recent past. Myopia is mounting. 
+Second,  estimates  of  short-termism  are  economically  as  well  as  statistically  significant. 
+Empirical  evidence  points  to  excess  discounting  of  between  5%  and  10%  per  year.  To 
+illustrate the impact of this on investment choice, consider the earlier project with an annual 
+income stream of $10.  
+BIS central bankers’ speeches 
+ 11
+Chart  6  shows  the  present  value  of  those  income  streams  under  three  counter-factual 
+assumptions:  rational  discounting;  myopic  discounting  –  lower  bound  (5%);  and  myopic 
+discounting – upper bound (10%). The cumulative impact is fairly dramatic. Ten-year ahead 
+cash-flows under rational discounting are valued similarly to between six-year (lower bound) 
+and  four-year  (upper  bound)  ahead  cash-flows  under  myopic  discounting.  The  long  is 
+shortened. 
+ 
+Chart 6 
+Present value of future cash-flows 
+Chart 7 
+Cumulative present value of future  
+cash-flows 
+  Notes: The chart assumes $10 is paid at the end of 
+each  year.  The  rational  discount  rate  used  is 
+1.085.  
+ 
+Notes: The cumulative NPV of $10 cash-flows rises to 
+$61  in  year  9  under  rational  discounting.  With  mild 
+myopia  (x=0.95)  it  only  passes  $60  at  year  15.  With 
+severe  myopia  (x=0.90)  the  investor  calculates  that 
+payback is not achieved.  
+  Point in future at which residual discounted cash-flow falls below (years) 
+Table 7 
+Rational (x =1) 
+Mild myopia (x = 0.95) 
+Strong myopia (x = 0.90) 
+10% 
+29 
+18 
+13 
+1% 
+57 
+35 
+25 
+0.1 
+85 
+52 
+37 
+Notes: The number in the table refers to the first year that a $10 cash-flow falls below 10%, 1% and 0.1% of its 
+actual value in present value terms. The rational discount uses an average risk free rate from our cross sectional 
+data sample (1.085).  
+ 
+This  is  illustrated  even  more  clearly  if  we  consider  payback  periods.  Under  rational 
+discounting, payback occurs in 9 years (Chart  7). Under upper bound myopic discounting, 
+the  investor  today  would  erroneously  assume  that  payback  would  never  be  made.  These 
+differences have the potential to alter radically project choice. The net present value of this 
+12 
+ BIS central bankers’ speeches
+project  evaluated  over  50  years  falls  from  $56  under  rational  discounting  to  a  loss  of 
+$11 under  extreme  myopia.  In  other  words,  a  NPV-positive  project  would  be  resoundingly 
+rejected. 
+To put the point more starkly, Table 7 asks at what point in the future the residual value of a 
+future  cash-flow  hits  a  level  of  10%,  1%  and  0.1%  of  its  face  value,  under  rational  and 
+myopic discounting. Under rational discounting, cash-flows even 50 years ahead retain more 
+than  1%  of  their  face  value.  Under  strong  myopic  discounting,  this  residual  threshold  is 
+reached after 25 years. Virtually zero weight – less than 1000th of the face value of the cash-
+flow  –  is  placed  on  projects  with  income  streams  much  beyond  35  years.  The  long  is 
+dramatically shortened. 
+This  is  a  market  failure.  It  would  tend  to  result  in  investment  being  too  low  and  in  long-
+duration projects suffering disproportionately. This might include projects with high build or 
+sunk costs, including infrastructure and high-tech investments. These projects are often felt 
+to yield the highest long-term (private and social) returns and hence offer the biggest boost to 
+future growth. That makes short-termism a public policy issue. 
+But  what  would  be  an  appropriate  public  policy  response  to  this  capital  market  failure?  A 
+number of proposals have been suggested by various authors. These include: 
+(a) 
+intensive  approach  would 
+Transparency: The lightest touch approach would be to require greater disclosures 
+by financial and non-financial firms of their long-term intentions – for example, their 
+long-term performance, strategy and compensation practices.26 For financial firms, 
+this  might  include  metrics  of  portfolio  churn.  This  could  be  accompanied  by  a 
+programme  of  educating  managers,  investors  and  advisors  of  their  fiduciary 
+responsibilities. 
+Governance:  A  more 
+involve  acting  directly  on 
+shareholder  incentives  through  their  voting  rights.  For  example,  fiduciary  duties 
+could  be  expanded  to  recognise  explicitly  long-term  objectives.27  More  concretely, 
+shareholder  rights  could  be  enhanced  for  long-term  investors,  perhaps  with  a 
+duration-dependent sliding scale of voting rights.28 
+Contract  Design:  There  have  been  various  attempts  over  the  past  few  years  to 
+make  compensation  contracts  more  sensitive  to  long-term  performance  and  risk. 
+This includes employment contracts conditioned on long-term performance, or with 
+deferral or clawback. Changes in the compensation instrument can also help – for 
+example, remunerating in equity is better than in cash and remunerating in junior or 
+convertible debt might be better than either.29 
+Taxation/Subsidies:  Authors  have  suggested  a  variety  of  ways 
+in  which 
+government could penalise short-duration holdings of securities, or incentivise long-
+duration  holdings,  using  tax  and  /  or  subsidy  measures.  These  measures  differ in 
+detail,  but  the  underlying  principle  is  to  link  them  to  the  duration  of  an  investor’s 
+holdings or the length or nature of a company’s investment.30  
+(b) 
+(c) 
+(d) 
+Some of these initiatives have been tried and tested in differing degrees, at different times 
+and in different countries. They have not obviously arrested the short-termism trend. It might 
+be time to increase the level of policy ambition if the telescope is to be corrected, the voting 
+                                                 
+26  Aspen Institute (2009), CFA (2006). 
+27  Duruigbo (2011). 
+28  Securities and Exchange Commission (2010), Aspen Institute (2009). 
+29  Haldane (2011). 
+30  Aspen Institute (op.cit.), Poterba and Summers (1995). 
+BIS central bankers’ speeches 
+ 13
+machine  socialised,  the  savage  civilised.  Public  policy  could  help  keep  the  plums  in  the 
+pudding. Without intervention, the long could become shorter still. 
+International 
+References 
+Aspen  Institute  (2009),  “Overcoming  Short-termism:  A  Call  for  a  More  Responsible 
+Approach  to  Investment  and  Business  Management”,  The  Aspen  Institute  Business  and 
+Society Program, September 9.  
+Barton, D (2011), “Capitalism for the Long Term”, Harvard Business Review, March.  
+Black,  A  and  Fraser,  P  (2002),  “Stock  Market  Short-termism  –  An 
+Perspective”, Journal of Multinational Financial Management, Vol. 12, pp. 135–158. 
+Campbell, J and Shiller, R (1988), “Stock Prices, Earnings, and Expected Dividends”, The 
+Journal of Finance, Vol. 43 (3) pp. 661–676. 
+Carr,  N  (2008),  “Is  Google  Making  Us  Stupid?  What  the  Internet  is  doing  to  our  brains”, 
+Atlantic Magazine, July-August 2008. 
+Chartered Financial Analyst Institute (2006), “Breaking the Short Term Cycle. Discussion 
+and  Recommendations  on  How  Corporate  Leaders,  Asset  Managers,  Investors,  and 
+Analysts  Can  Refocus  on  Long-term  Value”,  CFA  Centre 
+for  Financial  Market 
+Integrity/Business Roundtable Institute for Corporate Ethics.  
+Cuthbertson, K, Hayes, S and Nitzsche, D (1997), “The Behaviour of UK Stock Prices and 
+Returns: Is the Market Efficient?”, The Economic Journal, Vol. 107 (443), pp. 986–1008.  
+Dean, G, and Irwin, J O (1964), “The stock of fixed capital in the UK in 1961”, Journal of the 
+Royal Statistical Society, Vol. 3, pp. 327–358. 
+Department for Business Innovation and Skills (2011), “A Long-term Focus for Corporate 
+Britain, Summary of Responses”, March. 
+Duruigbo, E (2011), “Tackling Shareholder Short-termism and Managerial Myopia”.  
+Fama, E F (1970), “Efficient Capital Markets: A Review of Theory and Empirical Work”, The 
+Journal of Finance, Vol. 25 (2), pp. 383–417.  
+Financial Times (2011), “BNSF chief hits at short-termism”, 12th Feb.  
+Graham, B (1949), “The Intelligent Investor”, HarperCollins.  
+Graham,  J  R,  Harvey,  C  R  and  Rajgopal,  S  (2005),  “The  Economic  Implications  of 
+Corporate Financial Reporting”, Journal of Accounting and Economics, 2005.  
+Haldane, A G (2011), “Capital Discipline”, remarks based on a speech given at the American 
+Economic Association, Denver, available at 
+http://www.bankofengland.co.uk/publications/speeches/2011/speech484.pdf.  
+Haldane, A G (2010), “Patience and Finance”, speech given at the Oxford China Business 
+Forum, Beijing, available at 
+http://www.bankofengland.co.uk/publications/speeches/2010/speech445.pdf.  
+Hicks,  J  R  (1937),  “Mr.  Keynes  and  the  “Classics”;  A  Suggested  Interpretation”, 
+Econometrica, Vol. 5 (2), pp. 147–159. 
+Jevons, W S (1871), “The Theory of Political Economy”, Macmillan and Company. 
+Keynes, J M (1938), JMK letter to Francis Curzon, 18th March 1938. In Skidelsky, R (2000), 
+“John Maynard Keynes: Vol 3 Fighting for Britain 1937–1946”, Macmillan. 
+King,  M  A  (1972),  “Taxation  and  Investment  Incentives  in  a  Vintage  Investment  Model”, 
+Journal of Public Economics, Vol. 1 (1), pp. 121–148.  
+14 
+ BIS central bankers’ speeches
+LeRoy, S F and Porter, R D (1981), “The Present Value Relation: Tests Based on Variance 
+Bounds”, Econometrica, Vol. 49, pp. 555–574. 
+Lintner, J (1965), “The Valuation of Risk Assets and the Selection of Risky Investments in 
+Stock  Portfolios  and  Capital  Budgets”,  Review  of  Economics  and  Statistics,  Vol.  47  (1), 
+pp. 13–37. 
+Marshall, A (1890), “Principles of Economics”, Macmillan and Company Ltd. 
+Miles,  D  (1993),  “Testing  for  Short  Termism  in  the  UK  Stock  Market”,  Economic  Journal, 
+Vol. 103 (421), pp. 1379–1396.  
+MORI (2004), “NAPF/IMA Short-termism Study Report”.  
+National Economic Development Office (1965), “Investment in Machines Tools”, HMSO.  
+Neild, P R (1964), “Replacement Policy”, National Institute Economic Review.  
+Pigou, A C (1920), “The Economics of Welfare”, Macmillan and Company Ltd. 
+Poterba, J and Summers, L H (1995), “A CEO Survey of U.S. Companies’ Time Horizons 
+and Hurdle Rates”, Sloan Management Review, Fall.  
+PwC (2011), “PwC Valuation Index, Tracking the Market to Understand Value”, PWC.  
+Ross,  S  A  (1976),  “The  Arbitrage  Theory  of  Capital  Asset  Pricing”,  Journal  of  Economic 
+Theory, Vol. 13, pp. 341–60. 
+Securities  and  Exchange  Commission 
+Nominations”. 
+Sharpe, W F (1964), “Capital Asset Prices: A Theory of Market Equilibrium under Conditions 
+of Risk”, Journal of Finance, Vol. 19 (3), pp. 425–442. 
+Shiller  ,  R  J  (1981),  “Do  Stock  Prices  Move  Too  Much  to  be  Justified  by  Subsequent 
+Changes in Dividends?”, The American Economic Review, Vol. 71 (3), pp. 421–436. 
+Sumner, M T (1974), “Taxation and Investment Incentives in a Vintage Investment Model: 
+Comment”, Journal of Public Economics, Vol. 3 (2), pp. 185–194.  
+Wickens,  R  M  (1982),  “The  Efficient  Estimation  of  Econometric  Models  with  Rational 
+Expectations”, The Review of Economic Studies, Vol. 49 (1) pp. 55–67. 
+“Facilitating  Shareholder  Director 
+(2010), 
+BIS central bankers’ speeches 
+ 15

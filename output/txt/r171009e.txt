@@ -1,0 +1,354 @@
+Yves Mersch: Economic policy and the need for humility
+Speech by Mr Yves Mersch, Member of the Executive Board of the European Central Bank, at
+the Conference "Banking and Financial Regulation", Bocconi University, Milan, 9 October 2017.
+ “[…] five years from now the dynamic stochastic general equilibrium model that central bankers
+worship like Baal will still be there. There will be a few changes to the parameters, and maybe a
+1
+constraint or two added like temple lamps, but apparently they never learn.” 
+John Dizard
+The policy maker’s environment is a multi-faceted one. She or he faces a continually changing
+economic landscape. Let me give you some specific examples. Economic data — upon which
+we base our policy decisions — appear at different times and with different qualities: for instance,
+some economic series (such as trade and investment data) are subject to considerable revision
+over time. Moreover, the transmission lags of monetary policy changes are often long, uncertain,
+and perhaps even contingent on the state of economy (for example whether it is an expansionary
+or contractionary phase). Last, but certainly not least, policy making itself does not operate in a
+vacuum or in a laboratory. There is the practical backdrop of legal, constitutional, cultural, and
+political economy constraints etc.
+Experience,  judgement  and  the  acknowledgement  of  uncertainty  are  key  parts  of  that
+environment,  and  key  parts  of  the  policy  maker’s  outlook.  To  help  assess  economic
+developments  and  to  facilitate  policy  discussion,  though,  central  banks  use  a  variety  of
+macroeconomic models and econometric tools.
+Despite the sophisticated tools and analysis at our disposal, the uncertainty underlining the policy
+environment  is  pervasive.  Accordingly,  I  believe  policy  makers  must  show  humility  in  their
+understanding of how the economy works, and how policy works.
+Before the financial crisis many distinguished policy makers and academics treated economics
+and finance as if it had attained something of a natural science – replete with regularities upon
+which  most  economists  could,  and  seemingly  did,  agree.  Indeed,  some  even  declared  the
+business cycle dead. The doubters meanwhile (among them Robert Gordon, Raghuram Rajan,
+Robert Shiller) were either neglected or – what is worse – labelled luddites.
+The global financial crisis challenged such complacency. In effect, it shone a light on our over
+confidence and, exposed our very lack of humility. More philosophically, the crisis also suggested
+that we, as a profession, had perhaps lost touch with an older tradition of economics that had
+precisely sought to emphasise uncertainty, the limits of information, and the wider social context
+underlining  economic  interactions  —  as  for  instance,  highlighted  by  von  Mises  and  Hayek
+“economic  calculation  problem”  and  Hayek’s  “fatal  conceit”  which  submits  that  knowledge  is
+dispersed across society and can never truly be known by any one agent or entity  - a fact that
+the former chief economist of the ECB, Otmar Issing, never failed to remind us of.
+2
+Notwithstanding,  the  inescapable  fact  is  that  policy  makers  must  make  decisions  under
+uncertainty. Such uncertainty is not, in addition, a temporary phenomenon that we can wait out.
+As former Fed Chairman Alan Greenspan (2003) wrote:
+“... uncertainty is not just a pervasive feature of the monetary policy landscape; it is the defining
+3
+characteristic of that landscape”.
+Given  this  complexity  and  the  need  to  stabilize  market  expectations,  policy  makers  have
+traditionally relied on a variety of macro-econometric and statistical models. These tools come
+ 1 / 7
+BIS central bankers' speeches
+with many caveats. Indeed, many were the first to point an accusatory finger at such modelling
+frameworks in the aftermath of the financial crisis.
+The main criticisms were that models were missing key features of the economy (e.g. financial
+interactions) and/or were based on unrealistic assumptions.   Examples of the latter include the
+assumption  of  “complete”  and  “efficient”  markets  as  well  as  of  “rational”  expectations.  These
+features make it difficult for models to speak to real-world phenomena such as herd behaviour in
+markets, asset price misalignments, sudden stops etc. The overreliance on mathematics and
+models leads to a failure of acknowledging the crucial role of social behaviour.
+4
+Of course, all models make simplifying assumptions, otherwise they wouldn’t be models. Or, as
+the statistician George Box famously noted, “All models are wrong; some models are useful.”
+Indeed, there is an  active  research  agenda  to  incrementally  but  carefully  improve  our  existing
+models:  examples  include  integrating  “financial  frictions”  and  so-called  heterogeneous  agents
+which  inject  more  realistic  dynamics.  Moreover,  many  have  also  sought  out  insights  from
+machine learning and big data techniques, and from behavioural and evolutionary economics.
+The latter try to explain departures from optimality in agents’ decisions, and integrate the social
+fabric and consumer heuristics underlying economic behaviour. As the economy advances and
+grows yet more complex, innovation in our modelling and statistical frameworks will undoubtedly
+continue, but fail in its pretention to encapsulate human complexity in an equation.
+The fact that all models are wrong does not preclude their combination from being useful. We
+know that combining models – even often using simple pairing rules – regularly outperform the
+best  individual  model  in  forecasting  exercises.  Likewise,  the  robust  policy  literature  has
+combined macroeconomic models to ask which types of policies are likely to work well across
+many different models and scenarios.   This seems a reasonable research agenda, although it
+is unclear if the models are close to being useful for analysis of macro-prudential and financial
+stability  issues.   Macro-prudential  policy  is  a  good  example  of  this  pretence  lacking  even  a
+capacity to define its own objective otherwise then by its negative.
+5
+6
+In the remainder of my remarks I will elaborate on the challenges faced by central banks related
+to uncertainty. I highlight merits and limitations of models, and I comment on different area that
+researchers are currently working on.
+Monetary policy and financial regulation under uncertainty
+Uncertainty  is  the  defining  characteristic  of  monetary  policy  landscape.  The  literature
+distinguishes  several  types,  so  it  is  worth  starting  by  describing  it  to  continue  later  on  how
+economists have thought about it and how they have tried to tackle it.
+First, there is Knightian uncertainty. This is the type of uncertainty that is immeasurable and thus
+not  possible  to  calculate.  Typically  it  relates  to  the  inability  of  agents  or  decision  makers  to
+reasonably  contemplate  all  the  possible  states  of  nature  or  characterize  their  probability
+distributions. If, on the other hand, the realization of the states of nature is not known in advance
+but  agents  can  reasonably  contemplate  all  such  states  and  their  likelihood,  this  situation  is
+commonly known as risk (the second type of uncertainty).
+7
+Others  tend  to  distinguish  between  aleatory  (or  objective)  uncertainty  and  epistemic  (or
+subjective).  Ultimately, all uncertainty relevant for decision making is subjective, but for practical
+purposes  it  is  worth  making  the  distinction  because  there  are  cumulative  effects  of  the  two
+uncertainties  that  can  explain  events  such  as  the  financial  crisis.  As  Oliver  Blanchard
+commented:
+“… what is at work is not only objective, but also subjective uncertainty … Subjective uncertainty
+is  about  “unknown  unknowns”.  When,  as  today,  the  unknown  unknowns  dominate,  and  the
+ 2 / 7
+BIS central bankers' speeches
+economic  environment  is  so  complex  as  to  appear  nearly  incomprehensible,  the  result  is
+extreme prudence, if not outright paralysis, on the part of investors, consumers and firms. And
+8
+this behaviour, in turn, feeds the crisis”.
+Uncertainty can be related to many dimensions relevant to policy making, including (i) uncertainty
+about the current state of the economy, (ii) uncertainty about its structure; and (iii) uncertainty
+over the way economic agents form expectations about future developments and future policy
+actions.
+Let me give you some concrete examples of such dimensions relying on unobservables.
+First, consider the famous Taylor rule. This relates changes in monetary policy rates to changes
+in inflation and the output gap, anchored around some notion of the equilibrium real interest rate.
+By  and  large,  the  rule  assumes  fixed  coefficients  for  these  feedbacks.  Even  though  policy
+makers never mechanically follow such a rule, over a long horizon, it can ex post provide a good
+description  of  monetary-policy  setting.  Policy-making,  however,  as  opposed  to  academia  is
+forward looking – unless one believes with Karl Marx that history repeats itself as a farce.
+Consider now the effect of monetary policy when interest rates are around their effective lower
+bound.  Given  the  limited  experience  policy  makers  have  of  such  episodes,  there  is  deep
+uncertainty as to whether the normal rules of the game (i.e., the coefficients of the Taylor rule)
+will continue to provide a broad guide for monetary decisions. Moreover, estimates of potential
+output and thus the output gap have inevitably been blurred by the scarring of the financial crisis,
+as well as by rapid technological changes throughout the last decades.  In line with this, at the
+Bank for Internal Settlements, Borio has argued that we must supplement traditional measures of
+output gaps with measures of financial imbalances and  credit  cycles.
+  There  is  however  no
+unambiguous  way  to  do  this  given  the  many  different  methods  of  filtering  data  and  extracting
+trend and cycle. Moreover, macroeconomic data samples are limited relative to the infrequent
+nature of crises to make these discriminations. Likewise, forecasts of inflation are increasingly
+difficult to make in a globalized world: there are many common trends in inflation determinants,
+and  common  shocks  such  as  in  commodity  prices. Accordingly,  domestic  factors  –  such  as
+wage setting – may matter far less than before.
+10
+9
+Finally, estimates of the so-called natural real rate of interest, always understood to be difficult to
+pin  down,  are  in  an  interdependent  world  beset  by  many  “headwinds”  (e.g.,  population  aging,
+potentially technical deceleration), as argued by Gordon.
+ It is very difficult to be able to say how
+such  headwinds  will  evolve.  In  the  same  context  other  scholars  even  identify  tailwinds:
+Brynjolfsson and McAfee find that technological advance has caused a drastic shift in the means
+of  production,  simultaneously  boosting  the  productivity  of  firms  which  are  however  difficult  to
+measure with traditional gauges.
+11
+12
+All of these examples relate to stabilization policy over the cycles – but it goes well beyond that.
+Consider regulatory policy, given the expansion in recent decades of the financial sector and its
+changing  nature  (e.g.,  the  rise  of  shadow  banking,  FinTech),  the  optimal  design  of  regulatory
+policy in such a changing landscape is profoundly complex.
+Uncertainty  though  does  not  (and  cannot)  prevent  the  central  bank  from  taking  informed
+decisions.  How  do  we  ensure  that  we  avoid  paralysis?  Given  the  complexity  and  the  need  to
+stabilize market expectations, academics and researchers have traditionally relied on a variety of
+econometric models. Policy makers supplement these models, with expert judgement to shed
+light on economic developments.
+The use of models inevitably introduces other dimensions of uncertainty which all go under the
+name of model uncertainty. It is possible to classify risk within a model, where the uncertainty is
+about the outcomes that emerge in accordance with a model that specifies fully the outcome set
+ 3 / 7
+BIS central bankers' speeches
+of probabilities; and ambiguity among models, where the uncertainty is about which alternative
+model should be used. If the true model is not assumed to be among the original set of models
+under consideration, a third source of uncertainty emerges, i.e. model misspecification.
+Uncertainty  has  been  one  very  important  aspect  of  the  policy  environment  and  of  the  models
+used that the economic professions has been forced to think more deeply about with the financial
+crisis. But many other features of the models have been at the centre of the discussion.
+Reflections on the models
+Let me now elaborate more fully on policy models. Many prominent economists (from different
+perspectives) concluded that today’s mainstream macroeconomic models somehow had led the
+profession down the wrong path (Buiter, Krugman, Mankiw, Akerlof and Shiller).
+ In other words
+that these models suffer from misspecification. There are also examples in finance: mainstream
+financial  economists  possessed  an  incomplete  understanding  of  the  correlation  of  different
+assets, perhaps excessive faith in the risk-reducing potential of the securitization and a blinkered
+Gaussian mind-set.
+  In  short  they  used  models  –  often  of  great  sophistication  –  but  poorly
+combined them with judgement and experience.
+13
+14
+As we noted, many have reached a relatively positive assessment of policy models, and of the
+re-constructive  abilities  of  the  profession.  Indeed,  some  others  argued  that  the  mistake  was
+actually  in  not  following  models’  prescriptions  closely  enough.  For  instance  John  Taylor
+maintained  that  during  the  early  2000s,  monetary  policy  in  the  US  was  set  looser  than  that
+implied by the Taylor Rule. This, he claimed, caused the build-up of debt and risk-taking, which
+ultimately led to the onset of the Great Recession. Likewise, Michael Wicken concluded that
+“… the financial crisis was brought about more by a failure to employ modern macroeconomics
+than by its failings. If used sensibly, it will lead us out of the crisis.”
+15
+On the other side, those who criticize the types of macroeconomic models popular at central
+banks have argued that they mistook beauty for truth and were too complex and opaque to be
+used  quickly.  More  recently  Stiglitz  posed  another  question  highlighting  one  important  flaw  of
+models:  why  does  the  economy  not  quickly  return  to  full  employment,  as  one  would  have
+expected  in  an  equilibrium  model?  Why  do  we  persist  in  using  models  with  such  strongly
+counterfactual  dynamics?  More  specifically  the  list  of  model  troubles  could  include:  linearity,
+rational  expectations,  complete  markets, 
+financial
+imperfections.
+limited  agent  heterogeneity  and 
+16
+On a more general perspective, some set the discussion in terms of the fact that some models
+give the impression of the possibility to fine tune or socially “engineer” the economy whereas less
+standard approaches – also inspired by other disciplines – see the economy rather as an ever-
+evolving  social  system  for  which  one  can  merely  set  the  broad  framework  conditions  and
+institutions.  This  goes  back  to  an  old  debate  started  indeed  with  Ludwig  von  Mises,  who  first
+discussed the concept of catalaxy, and made popular later on by Friedrich Hayek who elaborated
+on that concept and defined it as follows: “… the order brought about by the mutual adjustment of
+many individual economies in a market”. Hayek particularly stressed his view in that respect in
+his  lecture  to  the  memory  of Alfred  Nobel,  The  Pretence  of  Knowledge  in  which  he  forcefully
+challenged all those who believed that government had the wisdom or ability to successfully plan
+the economic affairs of society. His primary targets were the Keynesian economists at that time
+who were confident that they could manage the economy to assure full employment, economic
+growth,  and  market  stability.  Hayek’s  more  general  antagonists  were  social  engineers  who
+wished  to  redesign  and  regulate  society.  The  terms  of  the  current  debate  are  similarly  along
+those lines.
+ 4 / 7
+BIS central bankers' speeches
+Way forward/implications for research and policy
+One possible reaction by fine-tuners to this uncertainty is to rely on Machine learning and Big
+Data techniques to deliver forecasts and enhance policy analysis. As the name implies, such
+techniques rely on large complex datasets to extract and manipulate correlations and regularities
+in  the  data  that  would  otherwise  be  opaque.  They  have  proved  popular  and  valuable  in  many
+fields such as advertising, prediction, developing trading strategies, and so on. Indeed, as the
+economic historian Joel Mokyr provocatively wrote “… who needs causation as long as we have
+correlation?”
+17
+Big  Data,  however  intriguing,  is  no  panacea.  Such  methods  rely  on  often  multi-dimensional
+correlations fitted (perhaps over-fitted!) on past data that may bear little relation to future events.
+Moreover,  the  relations  uncovered  by  algorithms  trawling  vast  datasets  may  identify  false
+positives (in other words, relationships that essentially do not exist in the data and have no real-
+world  justification).  But  more  fundamentally,  many  problems  in  social  sciences  entail  a
+combination of prediction but also causal inference. We need to know for example, if the central
+bank  lowers  interest  rates  below  zero  or  engages  in  asset  purchases,  will  that  stimulate
+aggregate demand? Central banks have for the most part not engaged in these types of policy
+before so there is no (or very limited) historical correlation upon which we can fall back.
+To  address  such  questions,  we  inevitably  rely  on  our  macro-econometric  models  to  give  us
+structure. During the crisis some believe to have seen many examples of policy insights from
+models  (for  example  how  the  policy  transmission  changes  in  periods  of  low  activity,  high
+uncertainty and rates near their effective lower bound). Moreover, many interesting extensions
+were fashioned onto existing models in the wake of the crisis.
+However successful such extensions prove to be, there are still clearly (fairly tight) limits on how
+big policy models can be. The bigger models are, the more difficult it is to estimate and solve
+them; the more difficult it is to build a coherent narrative around them. Such narratives are an
+important ingredient in building consensus around where the economy is and how policy should
+advance. To lose the big picture in the details is not ideal.
+The  bottom  line  is  that  whilst  we  should  acknowledge  the  contribution  our  statistical  and
+macroeconomic  models  make,  we  must  also  acknowledge  their  limitations  and  make
+improvements.  We  must  recognize  the  presence  of  pervasive  uncertainty.  We  must  show
+humility.
+There is hope, and an active research agenda. Useful insights on how to improve models come
+from  behavioural  and  evolutionary  economics  (expectations,  multiple  equilibria,  the  effects  of
+news,  and  asset  market  bubbles)  —  as  well  as  from  the  enhancement  of  models  to  include
+commercial  banks,  credit  frictions,  and  uncertainty.  Also,  central  banks  have  always  been
+concerned  with  uncertainty  and  they  always  tried  to  take  robust  decisions.
+  They  have  also
+been confronted with the challenge to distinguish between short-term versus long-term, cyclical
+versus structural developments or deviations of various degrees versus dead ends. The main
+problem is the difficulty the policy maker faces in distinguishing between objective and subjective
+uncertainty, and how to cope with the latter.
+18
+Possible  solutions  to  uncertainty  are  on  the  one  hand  to  relax  the  assumption  that  a  single
+probability number quantifies beliefs and assume that they can account on a set of them. The
+policy makers then act according to the belief that minimizes the excepted loss. On the other
+hand the risk aversion of policy makers towards the two types of uncertainties is not the same.
+Allowing for the distinction in the attitude towards uncertainty allows us to evaluate their role and
+quantify their importance. As already stressed, the crises increased the concern for uncertainty.
+The research agenda is also high on this topic.
+19
+ 5 / 7
+BIS central bankers' speeches
+Conclusions
+If  it  did  nothing  else,  the  financial  crisis  served  to  remind  us  all  of  a  few  home  truths.  The
+economy is a profoundly complex setting. It is bound and shaped by history as well as by cultural
+and legal norms. If it can at all be conceived of as a model, such a model would have many
+moving parts and shifting parameters and volatilities. But even then, deep uncertainty inevitably
+remains  –  uncertainty  about  the  underlying  mechanisms  and  parameters  and  the  lines  of
+causality between those mechanisms. Many economists had in recent years perhaps forgotten
+that, but as I have argued the study of economics and many practitioners had not.
+Let me be clear, an acknowledgement of uncertainty is not a recipe for nihilism. On the contrary,
+the ECB has shown great flexibility and ingenuity in dealing with the financial crisis. For instance,
+all  the  available  evidence  suggests  that  the  range  of  asset  purchases  programme  has  led  to
+material improvements in financial conditions and credit supply conditions in the euro area. The
+ECB  has  marshalled  its  many  models  and  staff  expertise  to  great  effect  in  these  last  few
+admittedly difficult years.
+Moreover,  economists  have  made  a  sober  assessment  of  the  gaps  in  their  modelling
+frameworks and made a serious, diligent, and ongoing attempt to fill them whilst retaining model
+tractability.  In  this  cause  we  have  and  will  be  guided  by  the  proliferation  of  large  and  detailed
+datasets in our macroeconomic and macro-prudential settings. And yet the benefit of experience,
+judgement, and – perhaps above all — humility remains always to the fore.
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+Dizard, John (2017). Supply-side shocks confound Fed’s economic models, Financial Times, 2 October 2017,
+p.12.
+Von  Mises,  Ludwig  (1990).  Economic  calculation  in  the  Socialist  Commonwealth.  Originally  published  in
+German in 1920. Hayek, F. A. (1935). “The Nature and History of the Problem” and “The Present State of the
+Debate” in F. A. Hayek, ed. Collectivist Economic Planning, pp. 1–40, 201–43. Hayek, F. A. von (1974)  The
+Pretence of Knowledge, Lecture to the memory of Alfred Nobel, December 11, 1974.
+Greenspan, A. (2003). Opening Remarks at “Monetary Policy under Uncertainty,” symposium sponsored by the
+Federal Reserve Bank of Kansas City, Jackson Hole, Wyoming.
+Tovar,  C.  E.  (2008).  DSGE  models  and  central  banks,  BIS  Working  Papers  258,  Bank  for  International
+Settlements.
+Levine,  P.,  McAdam,  P.  and  J.  Pearlman  (2008).  Quantifying  and  sustaining  welfare  gains  from  monetary
+commitment, Journal of Monetary Economics, 55(7), 1253–1276.
+Basel Committee on Banking Supervision (2012). Models and tools for macro prudential analysis. BIS Working
+Papers 21, Bank for International Settlements.
+Marinacci, M. (2015). Model Uncertainty. Journal of the European Economic Association, Vol. 13, pp. 998–1076.
+Blanchard, O. (2009). (Nearly) nothing to fear but fear itself. The Economist.
+I examined the debate on output gap measurement under technical change between Gordon and McAfee in a
+previous speech.
+Borio, C. (2012). The financial cycle and macroeconomics: What have we learnt?, BIS Working Papers 395,
+Bank for International Settlements.
+Gordon, R. J. (2012) Is U.S. Economic Growth Over? Faltering Innovation Confronts the Six Headwinds, NBER
+Working Paper No. 18315.
+Brynjolfsson, E. and McAfee, A. (2011). Race against the machine: How the Digital Revolution is accelerating
+innovation,  driving  productivity,  and  irreversibly  transforming  employment  and  the  economy.  Lexington,
+Massachusetts: Digital Frontier Press.
+ 6 / 7
+BIS central bankers' speeches
+13
+14
+15
+16
+17
+18
+19
+Buiter,  W.  (2009).  The  unfortunate  uselessness  of  most  ‘state  of  the  art’  academic  monetary  economics.
+Financial Times, 3 March 2009. Krugman, P. (2010). The International Finance Multiplier. New York Times, 22
+March. Mankiw, N. Gregory (2006). The Macroeconomist as Scientist and Engineer. The Journal of Economic
+Perspectives 20(4), pp. 29–46. Akerlof, G. and Shiller, R. (2009). Animal Spirits: How Human Psychology Drives
+the Economy, and Why It Matters for Global Capitalism. Princeton University Press.
+There were, of course, also salient exceptions from the rule (e.g. Hartmann, Straetmans and de Vries (2004),
+Asset market linkages in crisis periods, Review of Economics and Statistics, 86(1), 313–326, although the
+relapse  to  a  normally  distributed  world  seems  to  be  irresistible  to  the  mainstream  (e.g.  Adrian  and
+Brunnermeier, CoVaR, American Economic Review, 106(7), 1705–1741).
+Wickens, M. (2010). What’s wrong with Modern Macroeconomics? Why its critics have missed the point. CESifo
+Economic Studies, Vol. 56, 4, pp. 536–553.
+Stiglitz, J. E. (2017). Where modern macroeconomics went wrong. NBER working paper 23795. See also the
+discussion by Kenny and Morgan (2011) in the ECB Occasional Paper series.
+Mokyr,  J.  (2017),  Is  technical  progress  obsolete?,  forthcoming  in  Investment  and  Growth  in  Advanced
+Economies, ECB: Frankfurt am Main.
+Hansen, L., P. and Sargent, T. J. (2007). Introduction to Robustness. Introductory Chapters in: Robustness,
+Princeton  University  Press.  Marinacci,  M.  (2015).  Model  Uncertainty.  Journal  of  the  European  Economic
+Association, Vol. 13, pp. 998–1076.
+Hansen,  L.,  P.  and  Marinacci,  M.  (2016).  Ambiguity  Aversion  and  Model  Misspecification:  An  Economic
+Perspective. Statistical Science, Vol. 31, No. 4, pp. 511–515. Watson, J. and Holmes, C. (2016). Approximate
+models and robust decisions. Statistical Science 31, pp. 465–589.
+ 7 / 7
+BIS central bankers' speeches

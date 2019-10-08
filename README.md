@@ -64,21 +64,27 @@ The following shows basic folder structure.
 * datetime 1.0.0
 * numpy 1.15.4
 
-## Usage
-##### 0-1. To install pdfminer package, you need to install `pdfminer.six` via `pip` or `conda`. 
-``pip install -r requirements.txt`` or ``pip install pdfminer.six``
-
-##### 0-2. Clone this repository.
+## Install
+##### 0-1. Clone this repository.
 ```sh
 git clone https://github.com/sophia-jihye/bis_speeches_text_dataset.git
 ```
 
-##### 1. You can set the `sleep` time at `config.py`. 
-```python
-bis_sleep = 0.5  # YOU CAN EDIT THIS SLEEP TIME
+##### 0-2. You can download necessary packages by running `setup.py`
+```sh
+cd src
+python setup.py install
 ```
 
-##### 2. Run `main.py`.
+
+##### 1. You can set the `sleep` time and `output` directory path at `src/config.py`. 
+```python
+bis_sleep = 0.5  # YOU CAN EDIT THIS SLEEP TIME
+
+output_base_dir = os.path.join(base_dir, "output")   # YOU CAN EDIT THIS OUTPUT DIRECTORY PATH
+```
+
+##### 2. Run `src/main.py`.
 If you want to scrape data of whole range, just run `main.py` without any aruments, as below.
 ```sh
 python main.py

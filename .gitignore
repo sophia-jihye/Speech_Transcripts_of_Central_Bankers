@@ -2,6 +2,10 @@
 .idea/
 data/
 output/
+*.egg-info/
+build/
+dist/
+sophia.sh
 OBSELETE/
 __pycache__
 *.zip

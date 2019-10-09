@@ -25,7 +25,9 @@ Target webpage에 접속하여 스크랩핑하는 대상 파일은 `.pdf` 파일
         - pdf\_url : Target webpage에 게재된 메타정보로서, 해당 연설문 데이터에 대한 .pdf 파일을 스크랩핑할 때 방문한 url입니다. 
         - title : Target webpage에 게재된 메타정보로서, 해당 연설문의 제목입니다.
         - short\_info : Target webpage에 게재된 메타정보로서, 연설자가 연설을 한 '장소', '날짜' 등의 정보를 담고있는 2-3 문장의 텍스트입니다.
-        - content: 해당 연설문 .pdf 파일로부터 추출한 텍스트입니다.
+        - content: 해당 연설문 .pdf 파일로부터 추출한 텍스트입니다.   
+        
+        
 | key           | date            | pdf\_url         | title          | short\_info        | content       |
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
 | r970106         | 1997-01-06      | https://www.bis.org/review/r970106.pdf | Prof. Tietmeyer discusses the Bundesbank's commitment to .. | Translation of an article by the President of the Deutsche Bundesbank .. | Prof. Tietmeyer discusses the Bundesbank’s commitment to .. |

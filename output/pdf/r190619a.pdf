@@ -1,2715 +1,0 @@
-%PDF-1.6%âãÏÓ
-1 0 obj<</Lang(it-IT)/Metadata 2 0 R/Pages 3 0 R/Type/Catalog/ViewerPreferences<</Direction/L2R>>>>endobj2 0 obj<</Length 3027/Subtype/XML/Type/Metadata>>stream
-<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c143 79.161210, 2017/08/11-10:28:36        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
-            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
-         <dc:format>application/pdf</dc:format>
-         <dc:title>
-            <rdf:Alt>
-               <rdf:li xml:lang="x-default">Bank of Italy and Bank for International Settlements Workshop on â€˜Computing Platforms for Big Data and Machine Learningâ€™</rdf:li>
-            </rdf:Alt>
-         </dc:title>
-         <dc:creator>
-            <rdf:Seq>
-               <rdf:li>Luigi Federico Signorini</rdf:li>
-            </rdf:Seq>
-         </dc:creator>
-         <xmp:CreateDate>2019-06-18T19:47:27+02:00</xmp:CreateDate>
-         <xmp:MetadataDate>2019-06-18T19:47:28+02:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2019-06-18T19:47:28+02:00</xmp:ModifyDate>
-         <xmp:CreatorTool>Adobe InDesign CC 13.0 (Windows)</xmp:CreatorTool>
-         <xmpMM:InstanceID>uuid:98ca8fc8-9635-467f-ab06-d62c89a2dd4a</xmpMM:InstanceID>
-         <xmpMM:OriginalDocumentID>xmp.did:dea17df4-3ef3-324b-a79f-40b00ae4d838</xmpMM:OriginalDocumentID>
-         <xmpMM:DocumentID>xmp.id:bf065c75-c508-7743-9727-0868941720d3</xmpMM:DocumentID>
-         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
-         <xmpMM:DerivedFrom rdf:parseType="Resource">
-            <stRef:instanceID>xmp.iid:0c7ad7a1-753a-4a45-aa1c-b713fb0a2c0d</stRef:instanceID>
-            <stRef:documentID>xmp.did:7d216e95-63d1-9440-b23a-9f4ff80ce2f5</stRef:documentID>
-            <stRef:originalDocumentID>xmp.did:dea17df4-3ef3-324b-a79f-40b00ae4d838</stRef:originalDocumentID>
-            <stRef:renditionClass>default</stRef:renditionClass>
-         </xmpMM:DerivedFrom>
-         <xmpMM:History>
-            <rdf:Seq>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>converted</stEvt:action>
-                  <stEvt:parameters>from application/x-indesign to application/pdf</stEvt:parameters>
-                  <stEvt:softwareAgent>Adobe InDesign CC 13.0 (Windows)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-                  <stEvt:when>2019-06-18T19:47:27+02:00</stEvt:when>
-               </rdf:li>
-            </rdf:Seq>
-         </xmpMM:History>
-         <photoshop:DateCreated>2018-11-30</photoshop:DateCreated>
-         <pdf:Producer>Adobe PDF Library 15.0</pdf:Producer>
-         <pdf:Trapped>False</pdf:Trapped>
-      </rdf:Description>
-   </rdf:RDF>
-</x:xmpmeta>
-<?xpacket end="r"?>
-endstreamendobj3 0 obj<</Count 22/Kids[5 0 R 6 0 R 7 0 R 8 0 R]/Type/Pages>>endobj5 0 obj<</Count 5/Kids[9 0 R 10 0 R 11 0 R 12 0 R 13 0 R]/Parent 3 0 R/Type/Pages>>endobj6 0 obj<</Count 5/Kids[14 0 R 15 0 R 16 0 R 17 0 R 18 0 R]/Parent 3 0 R/Type/Pages>>endobj7 0 obj<</Count 5/Kids[19 0 R 20 0 R 21 0 R 22 0 R 23 0 R]/Parent 3 0 R/Type/Pages>>endobj8 0 obj<</Count 7/Kids[24 0 R 25 0 R 26 0 R 27 0 R 28 0 R 29 0 R 30 0 R]/Parent 3 0 R/Type/Pages>>endobj24 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 31 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 8 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R/T1_2 35 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj25 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 36 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 8 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj26 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 37 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 8 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj27 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 38 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 8 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj28 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 39 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 8 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R/T1_2 35 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj29 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 40 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 8 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj30 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 41 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 8 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj41 0 obj<</Length 146>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-9 0 0 9 171.8772 79.3701 Tm
-[(Designed by the Printing and Publishing Di)25.1 (vision of the Bank of Italy)]TJ
-ET
-
-endstreamendobj34 0 obj<</BaseFont/ISTJUY+TimesLTStd-Roman/Encoding 42 0 R/FirstChar 29/FontDescriptor 43 0 R/LastChar 252/Subtype/Type1/ToUnicode 44 0 R/Type/Font/Widths[278 556 556 250 0 0 0 0 0 778 180 333 333 0 0 250 333 250 278 500 500 500 500 500 500 500 500 500 500 278 278 0 0 0 444 0 722 667 667 722 611 556 722 722 333 389 722 611 889 722 722 556 722 667 556 611 722 722 944 0 722 611 0 0 0 0 0 0 444 500 444 500 444 333 500 500 278 278 500 278 778 500 500 500 500 333 389 278 500 500 722 500 500 444 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 333 444 444 0 500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 444 0 0 0 0 0 0 0 0 0 0 0 500 0 0 0 0 0 0 0 0 500]>>endobj42 0 obj<</BaseEncoding/WinAnsiEncoding/Differences[29/lslash/f_l/f_i]/Type/Encoding>>endobj43 0 obj<</Ascent 898/CapHeight 662/CharSet(/lslash/f_l/f_i/space/ampersand/quotesingle/parenleft/parenright/comma/hyphen/period/slash/zero/one/two/three/four/five/six/seven/eight/nine/colon/semicolon/question/A/B/C/D/E/F/G/H/I/J/K/L/M/N/O/P/Q/R/S/T/U/V/W/Y/Z/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/p/q/r/s/t\/u/v/w/x/y/z/quoteright/quotedblleft/quotedblright/endash/ccedilla/oacute/udieresis)/Descent -218/Flags 34/FontBBox[-168 -218 1000 898]/FontFamily(Times LT Std)/FontFile3 45 0 R/FontName/ISTJUY+TimesLTStd-Roman/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 84/Type/FontDescriptor/XHeight 450>>endobj44 0 obj<</Filter/FlateDecode/Length 600>>stream
-H‰\Ôİ¢@à{¢/g.&]]-	1qüI¼ØŸ¬³€Ğº$+Äß~ûpÌL²&§Å¦¾©´•nÛC×N&ı9öõ1LæÜvÍnı}¬ƒ9…KÛ%Ynš¶«ùo}­†$›Û®‡îÜ'eiÒ_ñæmæeİô§ğš¤?Æ&Œmw1/¿7ÇW“ïÃğ7\C7™…Y­LÎñAßªá{u&·½šx¿oqÏ×7>C0ù¼Îˆ©û&Ü†ªcÕ]BR.âkeÊ}|­’Ğ5ÿİ_Zn;ë?Õ˜”Ù6~y‘I¾Šy‡¼PïÖû¯u×ùb^ÇKÌÊ¬ÈÙ#/™—Èó¼wÃŒçæ[æ-2kÆKÌ¬/IiYË¢–Í˜3äœ^k™-²0²cvÈtZ8-NK§…ÓÒiá´kæ5ò;ó;2m6¡Gàzæş	=Ğ#ğ=Ğ#ğ=Ğ#ğ=Ğ#ğ=°Ÿ‚~
-û)è§°Ÿ‚~
-Í³c?úéèwğ;úü~¿£ßÁïèwğ;úü~¿£ÙÁìhv0+k)j)k)j)k)j)k)j)k)j©>Ï2k)j){¥è•²î|>•uu®Ë^)z¥ìÕ|¦•½RôJŸç½ÒçYG¯<{åÑ+O¿‡ßÓïá÷ô{ø=ı~O¿‡ßÓïá÷ô{ø=ı~O¿‡ßÓïá/P+_dø¼°ÌğÂ¡Ì0ìøü¿§mÏ÷üßãÃàù«ÇXˆÓË|Îœú>qÜÌ#n3˜0m>§àĞ&îÂ;ù'À ¹ü2@
-endstreamendobj45 0 obj<</Filter/FlateDecode/Length 7619/Subtype/Type1C>>stream
-H‰dTiTW­¢»ºµÕ.K¡«K£ÎY\Br@¥í6wš¦€Æ^°»i`PA@Ä´ˆCD5ƒ"Š¬âtÜFAQ	Ã¢qI`N2Nb¾ê<æœ)Hr2™ùsë}ïÕ÷½[÷Ô½8&vÂpwŒZ¾jÍì(³¨£"­ñ&ƒÆ8|¦ä§à¼›˜gÆP( Üúã$‚ã}&T»OSËG&`bLŠËqeÂ&}Â&İSJ†Y—˜de½ı|ÌÆ÷GĞoı¼FpŞìûù pêãååÃÅ›â862Ãbå6Ô¨5™SLf•‹ŸËéõlÄğhÁY8³mxs„5«³°ÖjÖÄsy3kJ`C8]<§ãÌ‰œ™]jNÕn6h,Ú$‘3²AËæ°\ºVŸjÑÙ8}«×i9£…‹g­IfSjb«ÖMÖŒNXÄ™5æv™!.d«1Æ³M+04s‰:£YhÒY-g¶j„grªYg‰×i­:“Ñ2×S5<d>Ï%`‚P8†IEØØq‹aÓ&a‹pl±–„c&KÃ°b{€a=öÃwáXÔ°´jl%NâaB}GN2§…NaNeNE¬h—èª˜g‰ë¢„è“,”4J§J›œÇ;oq~3jã¨'.*—L—ë£FgşfÌÇcÊÇÊÇî–‰eFÙåqSÆ¥3Ş:şÜ„ 	å¾—gÈÛHWòÕÄ˜‰g)7êõtRö¤o'/˜Üèúk›Ô-Òí2íN_P¨7İG¹{¸p¯š2vŠfÊwÌjæ¥•u²_áß\Áœ~Edó°¡	ìE·(ô!|JÀ ±èÃÅP±tH²qd"¡–ğ­Ôğ
-W2VÆûmo~ß–ƒñ´¼e £¼¯uÀ²Îğ×©»'Î«×­ñõ^Ÿ²I;›Öz‰æ£ÉÒÛ$'ó9zåG~F‰¹»±3±Ó¹­¦ÿü?ènõùÅ3£.Yw0ùØJ†K%B9/Õ{4šüİ–¿Àè{7êšCõ•OïÎ^´GIfm=@,iÖhEĞòŞC9Ê{/ìö†öÊ‹®UWjŠê÷9“­C](•úú‹‹ª™ÿVŸ[ÁÎáªµyVÅÒğ¶¥ÌÂ·fO“Ã²&2öLÕ”|yÿ1ı,ü Õœ¼5–!Ëµõ;*‹÷íÙ³—ÙS´wO¡¢¸8?'=sc¨Fhvø¦á—^Šà’Ã—Bh
-¤S»äò¦1ò~ğ-}éaWAZÜ¦·4¿îíºÍüÔë^ŠQ00i`’;×v2ÜĞGá§²2]©q;2Í Qñì‚Â»0_›¼¦ÏĞTŠ,ÿ-×ÿ%JÆş7UX}o‚ODMPB©á“{R›"o›üˆÈX˜M•×iP’å§¶Tfóf†ŒåÎd–3²€b›C•†çÀe4"AÿVÙ¶J‡¼¯x_‹`¯ƒ¡`b!*Z°å¡‰hânÈyÚQE0QY)FjJC.hl²‚Ô-`…±à¢4¤VÊìeßšè-]&Au™$0íÀ%%ÿFš[ˆB¼ˆmÒc7ìöRÅû›rh4(awønFfïæwáĞÿRÄ›`
-µ}¡O/HP \	ÀRâüçÏûßÑ öîğšç±Í60åùÄõc5İı
-p9áë=®©P8‘ÅÓRÙ¶z¾ÿ÷qäCğ€gÔÃÂùõéÎmÉ¥Af:0.`.ÆİØ È´æ™¢¿Ê¯ oó5L×…uš£JòÅıs'Ï]§Ï¦üQ!>z4YË”í"ªÊZzû]õ«c<×y•²rø·ñáixi3äõŠx=dR3øğMô`(œXgø¿•¢6
-åI ‰BAíşfü#„òO(ˆ‘Øoß¿WÙø*§˜Øš“½E8	ÂÑ"¯`ïÎ?* ÛÁëÑ|É‚"—3«Rî®PhíÆ‰Ÿ[úÀœŞÛ«ìêØVeX§ÇÿCÎ²mU¼ø"äÆÏBÑßD|„#Bù¹‚á—£M4Jx;\@Uó¾ úƒî©‘¶¬ä(æ3}
-PU9£8ÔD½«ùİtDlˆV†tAÀ’Š’eÅ‰úOÏ(dmü`ş'>HÄ¯rÌ¢†$’ÌM±Óä­µG«Û` µCƒD»’ÓCV%¿ÑÜ¦‡Qİä $A;E¾©_‹!ˆ^¯Q/ÚĞŞÃƒı—šNW2È-¢>¸ïãá¥Eµ n}`»…è×J²çzõ“–ºû£ûˆX0sÕÌEÍºçAB£Ï²8ı|šìyÂÏ .¾ö×ºUQó"83“xÜçf/-ûÌ¹çxq^3 yoD·S)(>3!’hğŸ‡&ù#¹ù]DÎ@_¹v´á<S¸{§9JøÛóµnpTFAÖöÌlšŒdÅÔTÕıåñÁçàfGÑaJYÀˆHˆ¡§‚cÈ$p‡øñ3;Q‰ø'üÕ£I?{t$à_¿Éj"c~Îˆıµ¥}íèça¥¶ìuQ	5ÛOÿ&#¢~Í2©‘Oşÿ[e_å~ÿ¾Í1­FŞqUÈÊåGzÈtÒàKzYÙüç6çšº®Ò­9ÇSj™jKhu„Bå;SWbl®:PqDYÏ•¤k¯VµôÔ†|¬MWehÓ
-bç6‹*Œ&ÓKP Uqª¬^I^¨¶œĞ-V=C¦s§ÿÃw•EqfqÇ±ûÓÊÆDg‡£g«ÛgÔÅ+/KQ1â™r5®<pa›c¹†a@P 9ANÔ«ëB²(j<cÔMmÌêº™`òzò&›ıL%©lmõ]ı½ßû}ï÷~ïu¥%«¬¬sÊ³÷v€z¹i¹Ã%í¦cÁkh“?ôÙËâV‰Ñ|)nÚ¹@'Æ[²†‹°^"†Ö¶‚ûş"á$Œ`ÀÁ:§0yÆ¢Èn[dÖ6^„Ä“DíÔÀp¬aFB·U›¡­
-›Ei40.0»æ Ñ4–¸½µŸdØMó9Ï
-jŠ÷·Ğó‰¦¢Ë€oytúµRÁF?ì(ø{¨9˜†í¯ñXÏÂzüLûø˜9¹AĞÄK8È!‡/¦,^—ÛÌËöa›½Œ?dÏ.×iNôõ‹ø‚òX¢„©YJBÆvù«VÍOí"¯Ñ¦@,c`#S#­æØ%õ3u8î{/¢m0
-Ì†·À([¶WÊìÚ¹0_Òáh|á!íœqí=Ç[gÛ…²N¼t5è•jA¹Şfù¾Â´ß%³ ÒÜ,ö‚f.Ş†µàzœ*L°’ÕtˆäfzAò ı7L	s3xÍM“{´eVéŒîÚó‡ÓüåeUsü9lÇ,ëÒ¦ü~$ä[[ Í	[(ÆS”TÖ?Ä{ßÍSùÖF±6­Û…£tøª5Û)@6?Ë½,‡±0È·õlè¾äÊÑ¢Ù†Bk9:Ô‡f:„j6Æ2VsO$İæªôß+™…èS–fğ¢ÜLFÂ*K?B¨lû:†ú-Næ%ÇíÔáx½6?·š‡ßü¿èo@Sâ<ê%š³·ğc¢Œ·|œU•\àïKoÓØ
-İ¥ĞØ:ú°ò˜'[kd÷:øF‹âØ^sYV ‡¯“÷ßÔ/ÂicÅ»ÿÉkÁ˜s“*ÙTxŸ‰e£Ò#Í©;Ş­Ÿ Ãíè…A´ÄŞµ+Î¯Bú@½ë©N#ÃPğ½`à]ÒwØÖû¼SÎ´C³¤úÆ].µäu¼?Yúˆƒ-Ğ…kÈ¼ŒX%ÿ:‰¾—W¾Â¢y¼„u"¹n§õÅpì‚ğ_¾§üÏŒ±Jîa’
-ˆK]ê;ßsè–ìNuşµz¨S$÷~Ò+¯ÓQ}ÌØ"O…ºÔP'wj¯Ûní§Ÿ¶Šä®¹ĞÊyŞ#k1ü«?]¤Û¿K4æ%Ç	¦‚ê¤6İøm„vûe—ZA[òŒE²ìá"vïAnâa3ù!n³HzÍiÁÏë¬ğn¤¼sMÅW8XN—ı
-ÓñxÜN.6>+\éæ	³loYrãC-~Eß•òœ¿ì÷•ĞA)—¿”TO)Stza£ÈşBwä4,`¢Yô[š“uqÙ­‚¼‹Ü®ÎïUŠtôyúªv¹Ô¥v÷+q6°ø'dƒëEözFy*Íz2Á!†Ä¹fš—I"r_qòX›çcg!_şˆ±yV³IƒÜ¨&—æêŞTÊp»*¯{ÿ $R¨qS£x³Ú5î5
- I¤b¬IEÂáCñhäXçŠlk±ySğ,û_Àu6Q~ËÓÁ”È•,Œ8–Û¯ Ğ…é?Mªªö`ÕğQKE=¼!âÑŸzj }üq8ÆcL@oX,4CõøÏ`ˆ ¾ërzŠ¸güLTƒ=[Ñ
-Š%ıÛ	Ô’hîÓB_K+0…*Å\hÕû§±Å;®q°„Xª¤¬*İ³Rç	¡¤¸İy‹Ó<¾|yKXx;T[_]Û,8§"gİfØ›m
-ø¦Sş”†{%ÎÒN³…Õnl·‡ŸK)CŠÀ¯öp?c5ã(+ŞïQ4êfæ-ğŠNWTfÍ¶øÈ}A;@.®ğ”Ü é(ˆSHsœMĞ¨¥—¤uO”´[l1¥±Gpäùœ=^UÀqà‡å3y<ÊjîŠäJš#åy3æ(Eª•HPn²ô7Ö‘.¤à%f³š'òíÑƒùçà‰¾”÷d‹µä´hn§ªï¿TË«èBo`÷YÌú¨èÕËu3¦¯BvRÏ¦ÏÃ˜8»8"Œ[ı^XêÖ‚×)‘×³µ¸©`‹•”óµg"nè`lïãûlÆ‡e0™ûëÙºÎg=3KøjVéIşW›ª¬"\Qşë y­¤õÏ1I½œ|àCkâph¹PÅ¦Cã¹Ä¦cSEÇPÅ	†ê> ¿¦ó3õÓuwElí²[Rõ»à»vµ[Y 1Qd¯dTÅá°’ÌILŠå7îÛ¬ÃVz¸¦ØØmÅÆšDrÃlßGííC²œî]…VXq‡;yVâ¸y@‘Â¡f)v£øhîk.»—)(›E¶ÅÒ˜¹…3Äo¶¤ó8Ñ£Æ)ğF6ÎéàI¶.Åó$‘œ²”šœÓ!ËsÒÇÁB´|¡ö†İ~:‡N†OCïÿvjA«„ş6@	Mû½!³1c+gHİ•jàq~N±¿`›*J¸¦“¶:¹L$ç³éõõ>c°ÇÉ¿bÌEé%vîpY^‡~aÉŸÍöİÇZ&öcóYüİpŠï'@Õ'¸­q¬¯ƒ½«ï@äexÛ~¼Ø~æÀğ­´—Ñ*%™(‘­k±ì4¦™Òö	T/œÑLJQªTÀÕTgŸTêEÒ‘áÈtádğÆw|p™›©UqÏ‹™‘Tr•£Ã&áò×õ¹M¹¾+€|¯EuP¾¯–ûşËv•FEuáP:óÑš`Âíñ^{/¦Æª­rrbLQ%
-F7v‘(û*Ê,ÌÃ2Î0²—„adSEÀİÆˆQ´ŠNp©MÌâ{Ïùè9ıÀÄşé9÷ç÷½Ïsßå{<é52åìÊâ©è)ş$¦ê‘¯–4J¯XË>‡y,$K§¼§~’hÄ¨,qÎ÷ug@/—®ëîÁ»D/{`6`H×púÌx­ŒLl ö«£täˆù
-¥33´:9›hjnæÁ7}‹rÔ7Ø)Äsº,©µ±º®–/ÖÓz¤ª½e c-çƒ¨ñòOß‹YÀxEœîiïâÖZúr«ØŠÖ¼Á>ŞY×&ÎºGWí xàH–ÄqúLÁåª6öóÿì­ÆŒöyZóËÕtä{OÂ¦sàşèùV@øµÕ~[Rr8#ŒHõæ`UPZ°vå–˜
-Ù£&yqÚº/EI³Ã¡[âÛ°”ˆ‰[Ë._w“Ô[»N[RŠøBY¡¬2¹Ñ<§Å\Q]ÏTi[j¹Š}¡BKö§é·Éıù†;ëé0¡<”$¬k›¡íÒ4	
-;Uÿ|FGe…ïÿŒõ^;
-aîƒ£ƒqëòÔjX„›h/½©¦—/£Tg¨½¤Š—¢æØ„ò0ÿz1FØ•§jpÌStßèêjªâÌR*İNW¯8Q9‡üØUHlÔépè*Dí^L–‡È”°õî¬÷‡½ğI:—¥àšá9´„ı+~İoÂoß\0ÿ,Ìm-áñXL?¨ènao—xä‰	Ämğ™Íá{»#\ıh<œ¤]–¡nÀòQ[SomîØÕ´{™ğ'Ûøqwñé*U¦·Ó€U@1ç6^`à
-8#gœx¼ärx÷Äv[l.¶±Ä{ç!àV“ês£Æİ.£[ªj[»¸]ékƒÓã 1”ñ[¿‹¨€4ª§•£úÂ†EOúJw}çdf’dú×¯L~x›£»Áµãt÷*¤N5ÉyOØ#+ŠfW/
-Æ³¶tì<—ÌS½µî&­ŠIjLoÒrT¿[@TÈn|×³Gğá(Hli7Ü,uì+LJò‚óë™šŞ3WØ©/cG¿ï†WNfVëêyg’vøE‹^·ƒİQTt`±ÎB”2õäÂ,<{sP\`ô‹FÌŸ®nèLuó_Vw*­ÑeïÈ&™ŠPEi¹Å@:ÑÛ-4³#uá^<B«”ú =9œ=èìÒ!E½şğÌåïÏŞ·S·É&¡¤ë
-ô•Ÿ3Ô t ß_ ôWÍÑ ³Õj.g+ªs}y¬A+U9›5qQü­,ël©«k¶Éê¢5qD¡=pb‡8^vêçàg‚ƒC(½Â´5‹Òc•rMJäqå Ğ½ßÁoxê‰¸éóış©şjòcfá%5¡‚Sÿ„ğÿ@€µå$iwíß­ UäIbÍ²¢^¼‰íâğFI™ª83›ÑjYœR‰‚t¯9ü`Àe¼üŞjn’€°6ÓiVÀai¨¯(+#3+C“Æï‰ñİo4¿%¾‡˜ıT~iA/†©8ÏÊvªCù)9Ú‘eôÊàfù|šÅS»cí›!H·ä«ŠÎ2â×?_õ›¹Zö¿«Éh{ªÖ—¸rq¹ëjÍr™´ÃÆéïws©ÁÉ¯h¯ã\R§}ŠÎ‹52pY_ª÷æpÚb‰íÎ‹Ï¿É€uÔuQû2Ï7€ÇQèSµ10‡œHP²Y²ë`^KY)Ğ´æyølŞ/çú2âû6°;vÇ…úòã(Û,¡&vªB4!Z'2•¼ÈşÆ™ŞtµêF\îØÁÓN»óˆöÕhC¦Á£äŸŸVÑÎ@ê:ÒZÓÂ«ŠòáqZ¬œ>N± ]` ÁlÏ¦¾Ñ;ƒ¸Û3p·¦áBgà
-J_Âél¢»Í¡ù”?r£FcfvÀ³1ûh>Ğ°xøÃ;Kî“ç«rÊ‡Æ¯¦ÀÆ?Œ]z|Š{ÏóŠàqBli„Ìó.ãvMRãØ•; ÷Ös*ĞW¡µêRb6–¡¸v[Fü5p#/öœÕwİWíJ’óF³ä:Ê!4¿	V«‚5N¤„Å%¦böp¾jéI»>R8jëdÁÙ‚ßOÁk–)c·‡ô×OcWÂÖâ¶
-—†IPÛ‰¯WÒuá)Ö ¿±ÿ
-sxÑ¸çÃc}-•¼ûHÓR>2bå(´$µàCML·OA¶A²ß£sãLj¥SvªÊ¨aİÃŸ<æIÌ×†¯O<ÉóLš^îøö©wYæ%—›vêÂM;½MmØ®#ÈP€9¦à*CYA†Úlà¨%Ñ‡Ù†òêCíŠÚ˜ˆ…go|HäMB5)SƒÔä_ÍÅ¥¿ÌŸs›®Î"7Õg*\N]ô±BÌX°•j„/à
-M•€ßK2¤TËƒ>;S_³‹ıS˜÷¶G"/FóTÓÙXI[jÍş8fkˆ:f¡òşétN-¥"ğR+¢šŠòËØ<[¿ò{y¢ïşùh[POµàW.K"ëršk˜ÆÚî‘£ÇäïÔ‘)Ó‰¯¶9Œá("ÂñG¢E&K6é§‘E„;Éd²œtÆ`6˜s¹ÓxXº wï©ãíıœ¶T¢ÍH•Å±¦s­<t‡œugcäıå"UérÍëìT%å!î?Io6ë;øvW¡1c|CUât›­ËÌâd{ÒXïÌ‹å<ü—õ²iâãx	Şs7¸Kîf26İ–ù²5›ş1aQ3“‰N‚ŠFg¦¹BÁ¾İõhK¡Ğ^)¥¥/*":`CÉX¶dÌmQ£Î‰1ÙÔ_–™<G~.î:g³¹¸dÿ^Ü÷—»_>ßÏs½h$b|7¿Bnbî…²à°«¿Ÿ!¹ÁAl)QÇµñŸò§'{ôòF)¥UŞºàZÜå’xå±Âµ:jOZXø
-“˜½Á"5SÑ°³½‘Ğf	!‹´÷PÖÏˆk_;s{ ÎÖH{#M,¤ÂÙöÏ<Ş¸£&xôpR+¤”6 5ı†R¨³Éëä]ù´ÅíÖ­Œª¶hM¥Ì"Tú&)šji
-R]Qg[‰ÚÆÖ&óa„-DyiùšdÕqEâYÅQ¾¡*”4ú)­Ğï®ñĞõî¦NåÌ óÈ„íñ×™è—·?À·¤Ãno›']"n@L¯tZJd y‡¢‹Éë0vFí²6Ws”¾ÖVG\¾Dìµâ®q”
-›ÓÈ»—á™_,6(¦Kh1G´AO™,µë^g];>RmÑº r¶Ñ#6;Öİ@/¤!-Óäy­=ƒåzGg›ümõÌE˜)¶0¹äyXJñËˆš<LvÉûâ¿ƒæğn1Pc j«45Zf9*EÔcv9à£:úÄˆ¨„í0>ş µ¹p$¤ù‹‡pTåNÄlbHmUqPKçó»,,ÙUÑ||îøPŸ0ŠË¿*)mï«STÊ“©XÂ}U¦Iu_õ¬I•(g­®paË+-ÅsiÄà–çcºMØÑ,,ˆŸò¸zÏĞÀà¨õŞ|E«“áÉ^Z0|%ñ¼RíCR'Õ¡óÊuFí¾0Jò¾Ç$_•³AtyÂ`?lìO„Ê¦¸·fÙê,jéxU$Ú#İã-1[ÁÎ6»ÀÓf³»±5pbâe­O<›ù#	ÙÎ[dû¡$	ª˜óGî§r¶:æı~â[êòŸ®´ˆÛ¾óPÍA[ŒèrŠu´Çc­5Tn]]À‚ÅğÄ³ñ®…ˆ~û‡ºUöÍó£ØqbE.Òcšm#–çbÛˆ£ªxXÂW‘¦ï»#£Z<,:÷ï"éë¥í´¼Ê/üuÍEİ½ØcÅ\^ÉÑDÇ¤j]a‰Is`·Û³Ÿ5c©½f„¾rèØÀ	MtSµYàkÙğø„wìÄĞ­ôÿ§·ÊF5¼6…yëC¾å:5F³C§cĞKhöÏÜV ˜{óÎÍÕ
-Mä[¦8	Íx.îcE¡é¿±p¿éQŞK’{Õåş½½‘pg‡.¢-âŠTAŞœ¿=N†¼»u–ïH¹3	9“ä¥n9Sı5šÀ3Âû¶òSàúÀ=FÁ5ÈAW‰µE¶Â¸uh$bƒÓÒò%OñV›ªóËŒ4y©¤<ú.]€3 "ÍÂáÆ”ƒÿÀó0ó›ñª•_ĞäT£Óåt²Ó=åPM¹5	ë•ô•ôÓè<]q`Kœ[Z‰XåäcG)¸L´ÁS¼àc{¬NÓ.
-µëùŠU¶3›]•ŞÓ9¢ÜÉ¨8 v36§bZ–¢í¶İ4Z„_9†šc3»š{û†ÎÚ–œ¤[-¡Ñu¡5èù·3Ñ<+ûlôO¿ìGz/”9pîq"Ñ9kòiÙ
-Óêß NØÃ
-endstreamendobj32 0 obj<</AIS false/BM/Normal/CA 1.0/OP true/OPM 1/SA true/SMask/None/Type/ExtGState/ca 1.0/op true>>endobj40 0 obj<</Length 913>>stream
-q
-0 0 595.276 841.89 re
-W n
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 -303.1378 43.0236 Tm
-(20)Tj
-ET
-Q
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(21)Tj
-/T1_1 1 Tf
-0.208 Tw 14 0 0 14 110.5512 761.4617 Tm
-(Coordination and cooperation among central banks and market and )Tj
--0.082 Tw -1.822 -1.286 Td
-(supervisory authorities is of the utmost importance, not only to avoid n\egative )Tj
-0.03 Tw 0 -1.286 TD
-[(spillovers )0.5 (across )0.6 (jurisdictions, )0.5 (but )0.5 (also )0.5 (because )0.6 (the )0.5 (exchange )0.5 (of )0.5 (knowledge )]TJ
-0.088 Tw 0 -1.286 TD
-(and best practices yields concrete bene\037ts when navigating such a rap\idly )Tj
-0 Tw 0 -1.286 TD
-(changing world. )Tj
--0.049 Tw 1.822 -2.906 Td
-(I thank you very much for your attention. The Banca d\222Italia is delig\hted )Tj
-0 Tw -1.822 -1.286 Td
-(to host this event, and I wish everyone a very fruitful discussion.)Tj
-ET
-
-endstreamendobj33 0 obj<</BaseFont/USQDGA+Garamond3LTStd/Encoding/WinAnsiEncoding/FirstChar 48/FontDescriptor 46 0 R/LastChar 57/Subtype/Type1/ToUnicode 47 0 R/Type/Font/Widths[500 500 500 500 500 500 500 500 500 500]>>endobj46 0 obj<</Ascent 842/CapHeight 608/CharSet(/zero/one/two/three/four/five/six/seven/eight/nine)/Descent -250/Flags 34/FontBBox[-167 -250 1019 842]/FontFamily(Garamond 3 LT Std)/FontFile3 48 0 R/FontName/USQDGA+Garamond3LTStd/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 68/Type/FontDescriptor/XHeight 380>>endobj47 0 obj<</Filter/FlateDecode/Length 276>>stream
-H‰\‘ÛjÄ †ï}Š¹Ü½XÌaeK!=Ğ´è$+4FŒ¹ÈÛw&.[¨ ~2şúû+¯ÕseM ùáGUc€ÎXíqg¯ZìiÚ¨p_­£'$‰ëe
-8T¶EQ€ü¤âü›'=¶¸òİkôÆö°ù¾Ö[õìÜh$P– ±£ƒ^÷Ör•í*Mu–işv|-![×i4£F“kúÆö(Š„Z	ÅµR Õÿêé]ÖvêÖxQä¼9Ih"N#§ÌYäŒ9œ3ï#ï™‘ÌÇÈGæSäó9ò™ùùR²Í,ŞLÛ¼ûaÃ”+<ÒP³÷Äşš ¿İX|üŠ»ø` j†Ã
-endstreamendobj48 0 obj<</Filter/FlateDecode/Length 1466/Subtype/Type1C>>stream
-H‰4SkPWÎ¶	I×êÆÙİQì“‚Š¬£«â³VQÇZ±†d5‘<pĞD É†°ym‚J‚ÈËÈ£Z°¾:T§Ö:êPQ§hU:õ‡?|ŒÖéY¼ühèLÿœû}÷Ì9ç;çÜ‹I$†MÜ”¿~i^îÇyVc²˜uÙk6æÛtcJTcâ»‰â À›àÈÃ$¸;îMè’4”&IÀ°go>·ÛYÃ.½9?''#nçÏÌ gÍ˜1‹ÎÕY
-:ßnµ1&+½Ò¬µ°ÅVcct™t®ÑHo³Ò+Ã–]ş/Î¦VZCÛX1iØ"Ú²“^ÁtŒ±aw1,½”-Ñ™4V­Ş`fÌtn^ÍìÓK¬†RÆh§-c¶2:Ú¦g-%»ôôƒÙb³3qPÈjX;g*\‘AkâµL;—É2»q¡l<È`¦µkÓÄÏİ%¬Áª3hm‹Ùš™µ<ãX’Ù´Ù)‘`’	oIäñ!JÖH"’§˜»›°?á•tµôH"™hçûÄ§}XÜ¦÷IùD±fäËÑĞ-‚H<‘!]ÂaŒŒ†“GeÛÿÃ°Å¹L¼ˆ!4Æ”ö&ñ÷&ìû!82$Ÿõ$ÁW°"&"åt$™†
-ÑÖÇ(R¨¦ÄLdÔ=õäIÊBj¤Ö¡¬LJéùı€ô0G©¼[ë!8ï$Mü!²å|°çÔÉSŠ©±ƒ¾ºX™oÿw¬‹£ÉQ—ÏYo6.$9/çåİ¼ÓïåÓ[{¢ê£¼İA)½WÄ@/pG
-Ó/ãœ?ø
-r`fÒğƒ/=$şşä§™Ó–|h¯Ö$Ûş‚õ•ë¯ÌŞº™BùhG’×ëõÔÎ&{Oû{ÛaqL1U¨„|”Ğéël&„š »ÜSè-%k«Êkjå¢ã":™¿\öô«nª†A/^Ç‡¢ù6
-MF{ò„3ìÈØ‘Ó÷Ôª›7ï½‡Tˆš§§Ìöƒº¢ÄUbo>Ğ™ğA|Zmi/‹QÆŸñu„j8Òş~âöòîe7|ZÍù¹:òhÃûj¥´¦ipm@µC¤F&ã!!,Ä¡Êƒ*sºIô|Ôï¤–ãwˆ“P';Zç*£TÍs“Ëœ¥enrOUi¨’¨
-ñÙÙáïììøN1õàŞë+	Qá@ø8¡Ú1œã#ÏËşú:·PMm•YkCmT'GÊ}\U±ËQI¢½Éæ*~7‰6Ê*]|8àú”rÓHúº«i·{¡x@RÃx‘ÃıaŸPï‡í“Z|{=å|·§Öë ÑüızWë©˜Ì•1« *nUÿ©%‡µy’g-™VDîqî«©ösz½œ{¬¯#7¡ê0$ÑéH=àƒş©´·Áı“ØÙ!h”G)(À?ÙËµCHbXg+s	 YŠ^Pw~–;õ›%ó®yràa-à×º©Z{Åˆ°KpnG/ĞÔG*Åæ«Ø1U
-ÏÄf<"x8Îã¬©¦ĞúÑP’×]ëæÜu‘P  H‡-b$©ébÃ±(qÔé/&M….4>ÏÜ­®8PYbmpÅ(¥½¢¿¯%í\Á TİX7¨ê—‹~ç‹ëHñ~öêH4R÷”ªJß‹R‰õ§fÇÊÒ^À~%ašÔ%T] 8rBõ
-™Ñ6¼äzÚZ‘ğÍ+:^ş1x¡‹R=Ííø•ŞŸÜ:ûõ²UÚUz4®o˜TBÑI¸ß†„–ø—æÅç8J•‰dÓ¯-I÷ÕÖ†°;è¡\Å6õÜ¢»w^Ÿ½ıhèz’#­EøZ¥±i+Ë	WØ9/`ôAÊ|£Éñ54Š¯‘¯jÛdàôjøäÎ·ä‚B1Ğ¨HkŞùW€ 8KÍ
-endstreamendobj39 0 obj<</Length 4896>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(20)Tj
-/T1_1 1 Tf
-0.07 Tw 14 0 0 14 85.0394 761.4617 Tm
-[(appropriate. Cross-border coordination )0.5 (and collaboration )0.5 (may also involve )]TJ
-0 Tw 0 -1.286 TD
-(authorities in charge of IT security, especially in the regard to cyber \risk. )Tj
-0.02 Tc 0.306 Tw 1.822 -2.096 Td
-[(Finally, technology may also offer signi\037cant opportunities for)20 ( )]TJ
-0.131 Tw -1.822 -1.286 Td
-[(authorities )0.5 (to )0.5 (improve )0.5 (their )0.5 (ability )0.5 (to )0.5 (protect )0.5 (\037nancial )0.5 (stability. )0.5 (Many)20 ( )]TJ
-0.043 Tw T*
-(central banks and supervisory agencies are experimenting in this area.)Tj
--0.02 Tw 8.162 0 0 8.162 501.911 682.7851 Tm
-(40)Tj
-0 Tc 0 Tw 14 0 0 14 510.2362 678.1231 Tm
-( )Tj
-0.02 Tc 0.129 Tw -30.371 -1.286 Td
-[(At the Bank of Italy we are exploring the use of new technologies in)20 ( )]TJ
--0.042 Tw 0 -1.286 TD
-[(supervisory )0.5 (activities: )0.5 (speci\037cally, )0.5 (we )0.5 (are )0.5 (testing )0.5 (ways )0.5 (in )0.5 (which )0.5 (arti\037cial)19.9 ( )]TJ
-0.172 Tw 0 -1.286 TD
-[(intelligence can help in forecasting economic and \037nancial variables,\)20 ( )]TJ
-0.397 Tw 0 -1.286 TD
-[(understanding changes in investors\222 sentiment, and improving the)20 ( )]TJ
-0 Tw 0 -1.286 TD
-(effectiveness of anti-money-laundering activities.)Tj
--0.02 Tw 8.162 0 0 8.162 376.6419 592.7851 Tm
-(41)Tj
-/T1_2 1 Tf
-0 Tc 0 Tw 14 0 0 14 85.0394 547.4459 Tm
-(Conclusions )Tj
-/T1_1 1 Tf
-0.006 Tw 1.822 -2.096 Td
-(A more diversi\037ed \037nancial system, with banks and non-bank \037nan\cial )Tj
-0.252 Tw -1.822 -1.286 Td
-(institutions complementing each other, can improve resource allocation )Tj
-0.135 Tw T*
-[(and )0.5 (promote )0.5 (growth. )0.5 (Effective )0.6 (regulation )0.5 (and )0.6 (supervision )0.5 (have )0.5 (to )0.5 (ensure )]TJ
-0.085 Tw T*
-(that non-bank \037nancial institutions reinforce the \037nancial system,\ and this )Tj
-0 Tw 0 -1.286 TD
-(requires understanding and managing the attending risks. )Tj
-0.333 Tw 1.822 -2.096 Td
-(Certain types of non-bank \037nance could exacerbate the tendency )Tj
-0 Tw 28.549 0 Td
-( )Tj
-0.075 Tw -30.371 -1.286 Td
-(of the \037nancial system to behave procyclically, and increase the degr\ee of )Tj
-0.03 Tw T*
-(interconnectedness between intermediaries and markets. Authorities shoul\d )Tj
-0.19 Tw 0 -1.286 TD
-(look at a possible macroprudential approach, and consider adjusting the \)Tj
-0 Tw 0 -1.286 TD
-(policy framework accordingly, however challenging this may seem. )Tj
--0.039 Tw 1.822 -2.096 Td
-(Although FinTech has not raised issues from a systemic risk perspective \)Tj
-0.292 Tw -1.822 -1.286 Td
-(so far, the authorities need to be vigilant and constantly update their \)Tj
-0.002 Tw 0 -1.286 TD
-[(knowledge )0.6 (of )0.6 (how )0.5 (these )0.6 (activities )0.6 (are )0.6 (evolving, )0.5 (to )0.6 (harness )0.6 (the )0.6 (opportunities )]TJ
-0 Tw T*
-(for innovation while keeping risks in check. )Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 229.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-6.996 0 0 6.996 85.0394 215.3662 Tm
-(40)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.106 Tw 10 0 0 10 102.0472 211.3702 Tm
-[(Some )0.5 (of )0.5 (the )0.5 (initiatives )0.5 (by )0.5 (early )0.5 (users )0.5 (are )0.5 (described )0.6 (in )0.5 (a survey-based )0.6 (analysis )0.5 (by )0.5 (D. )0.5 (Broeders )0.5 (and )]TJ
-0 Tw 40.819 0 Td
-( )Tj
-0.055 Tw -40.819 -1.2 Td
-(J. Prenio, \223Innovative technology in \037nancial supervision \(suptec\h\) \226 the experience of early users,\224 )Tj
-0 Tw 0 -1.2 TD
-(Financial Stability Institute, FSI Insights on policy implementation, No\ 9 July 2018.)Tj
-6.996 0 0 6.996 85.0394 179.3661 Tm
-(41)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.089 Tw 10 0 0 10 102.0472 175.3701 Tm
-(Examples are M. Accornero and M. Moscatelli, \223Listening to the buzz: \social media sentiment and )Tj
-0.108 Tw T*
-(retail depositors' trust,\224 Bank of Italy Working Paper No. 1165, 2018\; M. Loberto, A. Luciani and )Tj
-0.156 Tw T*
-(M. Pangallo, \223The potential of big housing data: an application to th\e Italian real-estate market,\224 )Tj
-0.078 Tw T*
-[(Bank of )0.5 (Italy Working )0.5 (Paper No. )0.5 (1171, 2018; C. )0.5 (Angelico, J. Marcucci, )0.5 (M. )0.5 (Miccoli and )0.5 (F. Quarta, )]TJ
-0.128 Tw T*
-[(\223Can We Measure In\036ation Expectations Using Twitter?\224, )0.5 (Bank of Italy mimeo, 2019; L. Arciero )]TJ
-0 Tw 40.819 0 Td
-( )Tj
--0.089 Tw -40.819 -1.2 Td
-(G. Bruno, G, Marchetti, J. Marcucci, \223Anomaly Detection in RTGS Syste\ms: Performance Comparisons )Tj
-0.069 Tw T*
-(Between Shallow and Deep Neural Networks\224, Bank of Italy, mimeo, 2019\; G. Bruno, J. Marcucci, )Tj
-0 Tw 40.819 0 Td
-( )Tj
--0.016 Tw -40.819 -1.2 Td
-(A. Mattiocco, M. Scarn\363 and D. Sforzini, \223The Sentiment Hidden in \Italian Texts Through the Lens of )Tj
-0 Tw T*
-(a New Dictionary\224, Bank of Italy, mimeo, 2019.)Tj
-ET
-
-endstreamendobj35 0 obj<</BaseFont/PFFZOK+TimesLTStd-Bold/Encoding 49 0 R/FirstChar 31/FontDescriptor 50 0 R/LastChar 121/Subtype/Type1/ToUnicode 51 0 R/Type/Font/Widths[556 250 0 0 0 0 0 0 0 0 0 0 0 250 333 0 0 0 0 0 0 0 0 0 0 0 0 333 0 0 0 0 0 0 0 667 722 0 0 611 0 0 0 0 0 0 0 722 0 611 0 0 0 667 0 0 0 0 0 0 0 0 0 0 0 0 500 556 444 556 444 333 500 556 278 0 556 278 833 556 500 556 0 444 389 333 556 500 0 0 500]>>endobj49 0 obj<</BaseEncoding/WinAnsiEncoding/Differences[31/f_i]/Type/Encoding>>endobj50 0 obj<</Ascent 935/CapHeight 662/CharSet(/f_i/space/comma/hyphen/colon/B/C/F/N/P/T/a/b/c/d/e/f/g/h/i/k/l/m/n/o/p/r/s/t/u/v/y)/Descent -218/Flags 34/FontBBox[-168 -218 1012 935]/FontFamily(Times LT Std)/FontFile3 52 0 R/FontName/PFFZOK+TimesLTStd-Bold/FontStretch/Normal/FontWeight 700/ItalicAngle 0/StemV 140/Type/FontDescriptor/XHeight 461>>endobj51 0 obj<</Filter/FlateDecode/Length 382>>stream
-H‰\’Ínƒ0€ïyŠÛCÅ_qZ	!µ´•8ìGëö L‡4
-ôĞ·ŸW4$È%¶>cEy(m7ëàİõgİv¶q87W£¾àµ³*ŠuÓÕócç¿u_* àó}š±/m;¨,ÓÁN³»ëÅ®.¸TÁ›kĞuöª_Åy©ƒóm°G;ëPç¹n°¥D/ÕøZõ¨¶*:ïæûŠbşn|ŞGÔ±ßG"SNcU£«ìUÒ“ëìDO®Ğ6ÿÎ“XÂ.mı]9•E'º† ôns•Å¡ßÓB\Ìáq²óL‹ÊÖ±gZˆá„„ù(|$N%ÊùÓµğš"ñˆ˜%'pNœÀ9Aîƒ¿Ÿ
-§Ìğ¨Ùæğ†y+Ì5Â^xÏ,5×R#p ÎÀÎğøGôC3#ş†ıxö4âiØÓˆ§aO#†=xö4âC7éÑnM•~ÎB}sÆÀï?w¾³øœÎq5Eñ«~ Ğz¹8
-endstreamendobj52 0 obj<</Filter/FlateDecode/Length 3317/Subtype/Type1C>>stream
-H‰$TTg2mÆ±:ÑÉøötAÁET|Q`µ‹ŠÆ$„h8Iä!(`BEÁŠàƒòĞU±¨èBZ| ¬jÑV{vk[ÖVİsîĞ?gİ	=gÎ÷ßÿŞùïıî÷ßó‹0?L$}œ“¿öÏÉz£Ö›œdÕF›_HÉOñãüùÉ£)L¿Û_,ÿág~Ô=I&—cb!æ/#š”¶E¿Ìœ‘ÍéuéV68láü †c˜Ã‚†ñ/Ã8ì[8ŒBt^PĞ<6JcŞ¦e“²-V­ÑÂ®6©Í\†™SYµš9l”ÁÀ&úR[ØD­EËeúœÃ|Y½…U±VN¥ÑUÜÖœÆ®Òê5ZÃ6-§ÓrìrÎ¦ŞaTYÔéz“ÖÄF­`µYjƒÍ¢ÏÔ²Yƒ^­5Y´ÖšÎ™mºt6Vo2[³3´‚±SqÙìJã¶U¬Ê¤aªlV`Èiuz#'Ò›Xµ–³ª„u»Ó[4zµUo6YæÌIJö%	a5Ú4LĞH„aa
-›&ÂfaØ\Æ°ù-Åb%X’?–‚‰J1lŠOÏO±lVƒõ‰RD7üføúıW¼J|Ï¶¿Ù@2GRˆÇãm„ˆÈ!¥1ÒVéĞˆô#çÌywÔ'£ÚF/êq\ç¯‹œ~]ìğçíC	^;Ÿ£¯(´*%ğG,ºIoã=DxñÔa– aó”ÏB¾%
-_1ÌÁÜân´Šºy$wANwšîDoÖ7Ä^Íi`T”W(ªîIZ”hÎRÊXX
-RÑ(ÃE¸H¡R$…R\ÆæCÌ‚Ñsˆ?DmjIëø²­¥ãªöÂ¦:u*ı7µh_«àk|šTF»n®	zÏÂé³œ[şB Â‘¤	Á/ÔYœ´İµÿ‹¦ÑqùóŸ*»¶áşõNçé
-2s .aÅ›
-ÑJäô à	NAwàá¾£Ÿz=ô(SNÍ—ªArÄ4¡­’t‡Ã¯Ú/•­¦½YDÜÒ¤bIsVÇĞˆsö]òk°‚_à&¿šÔœ…‘Æ…!¼¦_¥Lë-ş¥‡†ˆ3ÿifÜ8ÙùùW¸73cç’kÁ
-”†¦£ ´Åƒ-„<÷ôëÿTÊ`©Ãİç¡éüp¯ Ğ„‹|C¾¨RR_Úÿş£OöÄb†¯›Xñ¹ºüyÈk£Ã¾Pºáß—»R”àäÈ%.?p"ÏÄN«c\°ÙÛ‹­8Ü¶Ì¡`¡Æ~Ù²½v<ìrãQ•™'úi~º HÿWïIÿï8Xß_Å¸Ñ(>²=F]eú•_*A:¯®µÇt)Év¯‰Xm.Š/bşhÁÓ]ÍB¿
--,®jP(ğÊÇTe•ĞGÀçgo‹ôÛö/5‚¡55‹$\Í GÜ,ñØCio‘”—¿g/STR¶?eŸ”„ıüSªÎY]}^ñ¼E‹p4Ze@e><#ü‡&ÑŒ-À>`ŠÖ	…“Äüa7Ua)ÿæ]D_é»’“(DÚˆ—Áf‰w·£Í’Fü$„¼«xx@êu¡–²hŸ®C„¬'¯wí#~\“Ü3	A
-©!ÏñÆ^ª°Pb·Û÷—*l•p”øiŞe$FccãbWŞré¬i;Î\0V¢këO¶<>šöMV4u+"ÕÓè¥w®‡wï2æƒ•ª‡ŠöV×¹%ÚĞMåäY3ô
-]n‹çÕ›Æú
-¥,¯‰ŸqVºDı „P˜%>6ÄR-E'J7ÑŞ÷Gˆg]’Ô«{<
-{ ã€„£CDŒN›½[	GĞzÖ£>ª®ª¦õªâÕAD' àôÏâ“óo4(eòîó="7L9ŒóA ¢2,;M‰Šˆ¸`ÛÁ˜§5§÷×9Rº*{½ı¡­ËÑÔ8ô74æå÷ìŞÅ»W†]¶z~d—ÀQj¶ÀQI^#syÏe*±¼¬ñÍ÷£â¥§ö¯§ÑZâ´Eß¯œ½E?¢™?†¾xÒĞĞÖÂ¬!ÈÜ;Çªœ0¶F*R~¤
-Ò6/vÀø¯şëQW]Ü~FàÜñ­â£­ÃBh¦€9_×Ú\ÍÙ2•FÇ§AúSÖ¬ô-	Š ÛÛïíJ¨ÀoÙó!E+ˆf£¥o£~û¶»éõmá©r¸øÉW`£Gô”İ ¾¦|we÷_]	qÆy½ãÈq{“kËÉ wÓ_ºX¦¹/Ò‡VïG?a·t£—øz«]_ÊÈzĞ¶&}ÀvùFq}Ö †›{=ò†Âa2š ş Š´gäÏ‘ä»>“ŸJİDã	òç‚Zµş N&¯_¼¬cİãeAş¹uO”&–Şp.·=‡ƒ‘I%:£šNzœcá#˜pFXÄˆ8œâdÈ·kœ’(çNçyúlëÉƒGU#Ó_®ó6İcl,<ÌÇ—x×S¹ºåHîPïZŞ[WU}ú”R¨_¨¯+Ü¾ç˜Ÿšh_›PÔÓÇÈ}ä÷}Ø'L #¨Î{\TŠãò1%8	ğ÷$oØjKÚÈÀy”l!.ì;jFó‘²»TWÄX ØEl®°7ÖÓp’¨º|íâ-g²™A%DZŞîív!¾‡¡B`×˜+ï¹h¦0A¯¡ÒEiì«óĞüX_Ş¶¢š¢ÔÿÓUµ1M]aXfÚƒÎt“ËU¹u÷ÎF'Q÷á@çÌ–`t8
-B,ja--m¡¥·_e-·•¯2@¡ÙD’9Ç˜,°Å,²©KÜŒ&ç²C²[ôÇ²íÇùõó¾Ïû<ç}^
-]GK­yFüÎˆ?Pª0Ofuèœü,K¡ÌË#~³æ#¾…ÌTb²I¤,’›ëªÎR&½Æh¤Q4Š–	(‘Ã\†ÁYSŞ	13V[jñr ­üCDIê´õÉi«‡Ëx`2Û=åJŞ@çÕa_SL[k³«¯:2ÜÉ|$qKüœbåíŒp}Ä‚Ç³"†Å"@&¼¦6šZdV<Ñk‰‘ùQL·s~
-º 1æøât’‚îÒ¾.?–Èê˜*)1ò:Ì‚vKÀš*Rs¤¸RYs›yã2cêğÛPÓåÒòEÒ‹8ÕQëb¹N£¯K¥æRèÒU.U%ÆYNu¤
-Ç@öÛô".â²Ğƒewp|Õ0ª¸,Œ„ÆH.‡‘ôU4˜Â"ıK||ÿå×u
-»ÄŞ ßÀß‡%$”ºMO\HB[aŠÛ³“{—ĞhÃ*´êg$ÁˆÖŞƒ/`Gf6?E«³DÒ2”í…ï
-ËÇ0ìïñ¥8¸‘˜Å[C	‘Şk—o»QDüa+Z¹#¹x‚£@}d†CU;CÁu@ÙİvæšüñÜÜã6NÆï<¥P–ŠÏ~-v6TQ£Í¥ªÀñòòL±³ ¹8ÁõoO³|ÔO˜¡8Ì“:õÑÛƒ¾Fš˜è²%]—‡<ı^{uï~E¢J-¦m˜A‡XĞaá+ÓEÂÒ‹-ù¢tÍ@–¦ë†7àJC0Êï/úÒ¿eùˆ^b
-Ş‡3$Ñ×bÊdµèKäDPsÜ—!ßúAÒ[Úç¶R§Ôyé4Ñ–²O/V0§Ñ¿´åü¹šºÚo
-Bòû_İxÈA¸•=¦:Û=4Ñ;6”µÛ‹mP?ÿ·ÌRxËf¸«Pºw“âXŠ"òÌèPÛ]ñp‰|®grÀËÖIÔ†RU<×öy¯= 2İMaqó¹Gt
-»¡©—‚(“İÖ6[2…z€FSX˜+O¶´1ğW”Ä‚~sş…Ü`w÷Ç·†úıíxŒ5{ìğ¥†HÙxµZHå£¼BŠ…±Ä]bR(‡9–•úm\>UfÑšKé´ÿ]xLblåœ.ªµÅtÒ<r²ÀoqsõEçô}ÃhdM@
-·	¯¶„<Şƒ:{Lø‘úÊìY‰Iâ¾PôÚÊ²ŠRz/JN€%FŸ!pâ/Úÿ,1¼¦$ERl.L<)×WÖ»—Ó]K5‚ŠÄŠ4]şÅÌ›¼c0&DÃ×„uÍ¡†Ş@õgaNGØ	b ‰^ÆÿiFòd®İĞÒCW„µ€˜©LÙgN•¯“BÒ1u—&fë4FÆbÔ³TÆˆÙã°ÿ‚ŞátHeAÛ÷Ù-¥Tµ5¯-‹8‹6ÑˆïáTO¤®25ƒFk+È´,N¢¦y~{#*­—BoõB±è<ó›<H}²\$l¬YĞÚ—ÑŞ„’Õ­X6¸2/ÚWÈ„/£…äß ÅHÄÁ
-endstreamendobj38 0 obj<</Length 5759>>stream
-q
-0 0 595.276 841.89 re
-W n
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 -303.1378 43.0236 Tm
-(18)Tj
-ET
-Q
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(19)Tj
-/T1_1 1 Tf
-0.02 Tc 0.122 Tw 14 0 0 14 85.0394 761.4617 Tm
-[(to be found; international cooperation is key to avoiding an excessive)20 ( )]TJ
-0 Tw 0 -1.286 TD
-(divergence across jurisdictions.)Tj
-0 Tc 0.133 Tw 1.822 -2.096 Td
-(From a macro-\037nancial perspective risks appear to be limited at this \)Tj
-0.02 Tw -1.822 -1.286 Td
-(stage, but they could increase rapidly if the authorities lag too much b\ehind )Tj
-0.308 Tw T*
-[(the )0.5 (market )0.6 (in )0.5 (understanding )0.5 (technological )0.6 (and )0.5 (business )0.5 (developments. )]TJ
-0.193 Tw 0 -1.286 TD
-[(International )0.5 (cooperation )0.5 (in monitoring )0.5 (FinTech )0.5 (trends would )0.5 (be )0.5 (highly )]TJ
-0.104 Tw 0 -1.286 TD
-(bene\037cial; assessing the material nature of the risks arising from Fi\nTech )Tj
-0.147 Tw 0 -1.286 TD
-[(is a )0.5 (dif\037cult task )0.5 (because of )0.5 (the lack )0.5 (of data and )0.5 (experience.)]TJ
-0 Tw 8.162 0 0 8.162 444.2944 628.7851 Tm
-(35)Tj
-0.147 Tw 14 0 0 14 452.4564 624.1231 Tm
-[( The )0.5 (FSB )]TJ
-0.132 Tw -26.244 -1.286 Td
-(is monitoring developments of FinTech in its annual review of non-bank )Tj
-0 Tw T*
-(\037nance, and has just released a report on decentralised technologies.\)Tj
-8.162 0 0 8.162 467.2204 592.7851 Tm
-(36)Tj
-14 0 0 14 475.3824 588.1231 Tm
-( )Tj
-0.278 Tw -26.059 -2.096 Td
-[( )0.5 (Collaboration )0.6 (with )0.6 (the )0.6 (industry )0.5 (can )0.6 (be )0.6 (very )0.6 (useful. )0.6 (In )0.5 (April )0.6 (the )]TJ
-0.294 Tw -1.822 -1.286 Td
-(European Commission and European Supervisory Authorities launched )Tj
-0.116 Tw 0 -1.286 TD
-(a new platform, the European Forum for Innovation Facilitators \(EFIF\).\)Tj
-0 Tw 8.162 0 0 8.162 502.0742 527.4465 Tm
-(37)Tj
-14 0 0 14 510.2362 522.7845 Tm
-( )Tj
-0.065 Tw -30.371 -1.286 Td
-[(Through this network, )0.5 (participating )0.5 (authorities can )0.5 (share )0.5 (experiences )0.5 (from )]TJ
-0.134 Tw 0 -1.286 TD
-(their engagement with \037rms through innovation facilitators. The Bank \of )Tj
-0 Tw 0 -1.286 TD
-(Italy will contribute its experience with its innovation hub.)Tj
-8.162 0 0 8.162 413.6305 473.4465 Tm
-(38)Tj
--0.038 Tw 14 0 0 14 110.5512 439.446 Tm
-[(Given )0.5 (the )0.5 (cross-cutting )0.5 (nature )0.5 (of )0.5 (FinTech, )0.5 (international )0.5 (coordination )0.5 (on )]TJ
-0.06 Tw -1.822 -1.286 Td
-(policies is already involving many institutions and standard setting bod\ies, )Tj
--0.103 Tw 0 -1.286 TD
-(each according to its mandate.)Tj
-0 Tw 8.162 0 0 8.162 249.1759 408.1079 Tm
-(39)Tj
--0.103 Tw 14 0 0 14 257.3379 403.446 Tm
-( The FSB has identi\037ed two issues that deserve )Tj
-0.097 Tw -12.307 -1.286 Td
-(the authorities\222 attention from a \037nancial stability perspective, \and should )Tj
-0.026 Tw T*
-(be a priority for international cooperation: managing operational risks \from )Tj
-0.088 Tw 0 -1.286 TD
-[(third )0.5 (party service )0.5 (providers, )0.5 (and )0.5 (mitigating )0.5 (cyber risks. )0.5 (Many )0.5 (third party )]TJ
-0.122 Tw 0 -1.286 TD
-(service providers are outside the regulatory perimeter, and the authorit\ies )Tj
-0.186 Tw 0 -1.286 TD
-(should carefully evaluate whether the existing oversight frameworks are \)Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 277.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-0 Tw 6.996 0 0 6.996 85.0394 263.3661 Tm
-(35)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.097 Tw 10 0 0 10 102.0472 259.3701 Tm
-(FSB, \223Financial Stability Implications from FinTech, Supervisory and \Regulatory Issues that Merit )Tj
-0 Tw 0 -1.2 TD
-(Authorities\222 Attention,\224 27 June 2017.)Tj
-6.996 0 0 6.996 85.0394 239.3661 Tm
-(36)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.021 Tw 10 0 0 10 102.0472 235.3701 Tm
-[(FSB, )0.6 (\223FinTech )0.6 (and )0.5 (market )0.6 (structure )0.7 (in )0.5 (\037nancial )0.6 (services: )0.6 (Market )0.6 (developments )0.7 (and )0.5 (potential )0.6 (\037nancial )]TJ
-0 Tw T*
-(stability implications,\224 14 February 2019.)Tj
-6.996 0 0 6.996 85.0394 215.3661 Tm
-(37)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.041 Tw 10 0 0 10 102.0472 211.3701 Tm
-(The European Commission has developed a FinTech Action plan, as outlined\ in a document released in )Tj
-0 Tw T*
-(2018 \(see \223FinTech Action plan: For a more competitive and innovativ\e European \037nancial sector\224\).)Tj
-6.996 0 0 6.996 85.0394 191.3661 Tm
-(38)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.044 Tw 10 0 0 10 102.0472 187.3701 Tm
-(FinTech Channel, accessible through the website, is a direct interface t\hrough active start-ups and \037rms )Tj
-0.077 Tw T*
-(that would like to offer technological solutions to banks and \037nancia\l intermediaries, or the latter if )Tj
-0.022 Tw T*
-(they are directly involved in the development of innovative solutions in\ the area of \037nancial services, )Tj
-0 Tw T*
-(can contact the Bank of Italy.)Tj
-6.996 0 0 6.996 85.0394 143.3661 Tm
-(39)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.162 Tw 10 0 0 10 102.0472 139.3701 Tm
-(Initiatives have been launched by the Financial Stability Board \(FSB\),\ the Bank for International )Tj
--0.034 Tw T*
-(Settlements \(BIS\), the Basel Committee on Banking Supervision \(BCBS\)\, the Committee on Payments )Tj
--0.051 Tw T*
-(and Market Infrastructure \(CPMI\), the International Organization of Se\curities Commissions \(IOSCO\), )Tj
--0.065 Tw T*
-[(the International Association )0.5 (of Insurance Supervisors )0.5 (\(IAIS\), the Financial Action Task Force \(FATF\). )]TJ
-0.026 Tw T*
-(The IMF and World Bank have developed the Bali Fintech agenda in 2018, t\o guide its work and the )Tj
-0 Tw T*
-(dialogue with member countries.)Tj
-ET
-
-endstreamendobj37 0 obj<</Length 4495>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(18)Tj
-/T1_1 1 Tf
-0.038 Tw 14 0 0 14 85.0394 761.4617 Tm
-(macroprudential perspective if they have the potential to amplify shocks\ or )Tj
-0 Tw 0 -1.286 TD
-(create new channels of contagion as a result of externalities.)Tj
-0.318 Tw 1.822 -2.096 Td
-(I already mentioned ways in which technology may enhance the )Tj
-0.314 Tw -1.822 -1.286 Td
-(ampli\037cation risk implicit in market intermediation. FinTech can also\ )Tj
-0.228 Tw T*
-(increase the risks of contagion arising from interconnectedness through \)Tj
-0.01 Tw 0 -1.286 TD
-(several other channels. First, FinTech entities are connected with banks\ and )Tj
-0.066 Tw 0 -1.286 TD
-(other \037nancial entities through partnerships or other joint ventures.\ Digital )Tj
--0.032 Tw 0 -1.286 TD
-[(platforms )0.6 (in )0.5 (some )0.6 (cases )0.6 (intervene )0.5 (at )0.6 (some )0.6 (stage )0.5 (of )0.6 (the )0.5 (value )0.6 (chain )0.5 (of )0.6 (a )0.5 (given )]TJ
-0.005 Tw 0 -1.286 TD
-[(\037nancial )0.6 (service. )0.6 (For )0.5 (example, )0.5 (they )0.6 (act )0.6 (as )0.5 (an )0.6 (interface )0.6 (between )0.6 (institutional )]TJ
-0.209 Tw 0 -1.286 TD
-(investors and borrowers or provide screening services for banks. While )Tj
--0.078 Tw 0 -1.286 TD
-[(specialisation )0.6 (of )0.5 (intermediaries )0.5 (in )0.5 (the )0.5 (different )0.6 (stages )0.5 (of )0.5 (credit )0.5 (intermediation )]TJ
-0.06 Tw T*
-(may increase cost ef\037ciency, it could also exacerbate agency problems\. At )Tj
--0.043 Tw 0 -1.286 TD
-(this stage, reputation risk and a collapse in trust in one or more large\ FinTech )Tj
-0 Tw 0 -1.286 TD
-(entities might conceivably be a major source of contagion. )Tj
--0.042 Tw 1.822 -2.096 Td
-(Second, digital technologies exhibit very signi\037cant economies of sca\le, )Tj
--0.105 Tw -1.822 -1.286 Td
-(which may drive consolidation in the \037nancial industry and in \037nan\cial market )Tj
-0.061 Tw T*
-(infrastructures, increasing concentration and leading to the emergence o\f a )Tj
-0.054 Tw 0 -1.286 TD
-(few systemically important players; similarly, third-party service provi\ders )Tj
-0.009 Tw 0 -1.286 TD
-(may become fewer and larger, which increases the potential for exposure \to )Tj
-0 Tw 0 -1.286 TD
-(common shocks. )Tj
-0.02 Tc 0.037 Tw 1.822 -2.096 Td
-[(While policies for microeconomic and \037nancial risks from FinTech)20 ( )]TJ
-0.269 Tw -1.822 -1.286 Td
-[(are currently de\037ned by individual jurisdictions, there is signi\037c\ant)20 ( )]TJ
-0.183 Tw T*
-(scope for coordination)Tj
--0.02 Tw 8.162 0 0 8.162 222.3027 336.1079 Tm
-(33)Tj
-0.183 Tw 14 0 0 14 230.7912 331.446 Tm
-[(. Regulatory and supervisory authorities have)20 ( )]TJ
-0.091 Tw -10.411 -1.286 Td
-[(the dif\037cult job of protecting the safety and soundness of the \037na\ncial)20 ( )]TJ
-0.204 Tw T*
-[(system without curbing innovation. They may be tempted to impose)20 ( )]TJ
-0.126 Tw 0 -1.286 TD
-[(unduly restrictive rules in response to the challenge they face, arising\)20 ( )]TJ
-0.186 Tw 0 -1.286 TD
-[(from the complexity and dynamism of technology. Or they could be)20 ( )]TJ
--0.011 Tw 0 -1.286 TD
-[(tempted to lower standards to encourage innovation and attract business,\)20 ( )]TJ
-0.026 Tw 0 -1.286 TD
-[(leading to the exploitation of regulatory arbitrage by \037rms. In Europ\ean)20 ( )]TJ
-0.153 Tw 0 -1.286 TD
-[(jurisdictions the volume )0.5 (of )0.5 (investment )0.5 (in FinTech )0.5 (companies )0.5 (appears)20 ( )]TJ
-0.053 Tw 0 -1.286 TD
-[(to )0.5 (be negatively )0.5 (correlated )0.5 (with )0.5 (the )0.5 (stringency )0.5 (of )0.5 (\037nancial )0.5 (regulation.)]TJ
--0.02 Tw 8.162 0 0 8.162 501.911 192.1079 Tm
-(34)Tj
-0 Tc 0 Tw 14 0 0 14 510.2362 187.4459 Tm
-( )Tj
-0.02 Tc -0.007 Tw -30.371 -1.286 Td
-[(While the optimal point in this trade-off may be dif\037cult to \037nd, \it needs)20 ( )]TJ
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 133.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-0 Tc 0 Tw 6.996 0 0 6.996 85.0394 119.3662 Tm
-(33)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.004 Tw 10 0 0 10 102.0472 115.3702 Tm
-(Realistically, one has to recognise that national security concerns may \in certain cases dictate limits to )Tj
-0 Tw 0 -1.2 TD
-(cross-jurisdiction cooperation in this \037eld.)Tj
-6.996 0 0 6.996 85.0394 95.3662 Tm
-(34)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.018 Tw 10 0 0 10 102.0472 91.3702 Tm
-(Barba Navaretti, G., G. Calzolari and A.F. Pozzolo, \223FinTech and Bank\s. Friends or Foes?\224, European )Tj
-0 Tw T*
-(Economy 2017 \(2\). )Tj
-ET
-
-endstreamendobj36 0 obj<</Length 4207>>stream
-q
-0 0 595.276 841.89 re
-W n
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 -303.1378 43.0236 Tm
-(16)Tj
-ET
-Q
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(17)Tj
-/T1_1 1 Tf
-0.005 Tc 0.11 Tw 14 0 0 14 110.5512 761.4617 Tm
-[(Regulators and supervisors have to focus their lenses better in order)5 ( )]TJ
-0.122 Tw -1.822 -1.286 Td
-[(to see more clearly the potential risks arising from each kind of Fintec\h)5 ( )]TJ
-0.183 Tw 0 -1.286 TD
-[(activity and business model. There is one general principle that should)5 ( )]TJ
-0.029 Tw 0 -1.286 TD
-[(inspire the way authorities tackle FinTech from a microprudential point \of)5 ( )]TJ
--0.029 Tw 0 -1.286 TD
-[(view: to the extent that FinTech activities involve the same risks that \justify)5 ( )]TJ
-0.059 Tw 0 -1.286 TD
-[(supervision of other activities, they should be regulated and supervised\ in)5 ( )]TJ
-0.066 Tw 0 -1.286 TD
-[(much the same way. Following this principle also ensures a level-playing\)5 ( )]TJ
-0.053 Tw 0 -1.286 TD
-[(\037eld between different institutions \(i.e., banks and non-banks\) per\forming)5 ( )]TJ
-0.068 Tw T*
-[(the same activities. The current regulatory framework may or may not be)5 ( )]TJ
-0.163 Tw 0 -1.286 TD
-[(adequate )0.6 (to )0.5 (ensure )0.6 (that )0.5 (this )0.6 (principle )0.6 (is )0.5 (followed; )0.6 (in )0.5 (many )0.5 (jurisdictions)5 ( )]TJ
-0.05 Tw 0 -1.286 TD
-[(regulation of non-bank agents that engage in bank-like activities is lig\hter)5 ( )]TJ
-0.001 Tw 0 -1.286 TD
-[(than )0.5 (that of banks, and )0.5 (many non-\037nancial entities, )0.5 (large and small, )0.5 (appear)5 ( )]TJ
-0.3 Tw 0 -1.286 TD
-[(determined to enter the )0.5 (\037nancial-services \037eld. Authorities should be)5.1 ( )]TJ
-0.055 Tw 0 -1.286 TD
-[(prepared to evaluate on an ongoing basis the regulatory perimeter and th\e)5 ( )]TJ
-0 Tw 0 -1.286 TD
-[(effectiveness of existing prudential rules.)5 ( )]TJ
-0 Tc 0.108 Tw 1.822 -2.096 Td
-[(Operational )0.5 (risk, while )0.5 (not unique to FinTech activities, )0.5 (is especially )]TJ
-0.113 Tw -1.822 -1.286 Td
-(relevant for them, irrespective of whether they are performed by separat\e )Tj
--0.044 Tw T*
-[(service )0.6 (providers )0.5 (or )0.5 (by )0.5 (banks )0.5 (or )0.5 (other, )0.5 (supervised, )0.5 (traditional )0.6 (intermediaries. )]TJ
-0.006 Tw T*
-(Cyber risk is not a new phenomenon, but the diffusion of FinTech activit\ies )Tj
-0.008 Tw 0 -1.286 TD
-(could increase the vulnerability of the \037nancial system due to greate\r use of )Tj
-0.101 Tw 0 -1.286 TD
-(digital technologies, which raises the number of potential entry points \for )Tj
-0 Tw 0 -1.286 TD
-(cyber-attacks. )Tj
-0.124 Tw 1.822 -2.096 Td
-(Another source of operational risk is the reliance of banks and other )Tj
-0.234 Tw -1.822 -1.286 Td
-(intermediaries on services provided by third parties. FinTech activities\, )Tj
-0.347 Tw T*
-(including those performed by traditional intermediaries, often involve )Tj
-0.062 Tw 0 -1.286 TD
-(outsourcing one or more functions or processes that are integrated into \the )Tj
-0.165 Tw 0 -1.286 TD
-(value chain; these third parties could be outside the \037nancial system\, or )Tj
--0.024 Tw 0 -1.286 TD
-(within the \037nancial system, but subject to lighter regulation and sup\ervision. )Tj
--0.054 Tw T*
-[(Reliance )0.5 (on third parties )0.5 (exposes FinTech activities )0.5 (to the risk )0.5 (of disruptions; )]TJ
-0.082 Tw 0 -1.286 TD
-(furthermore, if these third parties manage con\037dential data, the lega\l risks )Tj
-0.062 Tw 0 -1.286 TD
-(may be substantial. FinTech innovations need to be carefully monitored t\o )Tj
--0.01 Tw 0 -1.286 TD
-[(avoid )0.5 (that )0.5 (opportunities )0.5 (open up )0.5 (for )0.5 (illegal )0.5 (activities )0.5 (that )0.5 (could )0.5 (pose a )0.5 (threat )]TJ
-0 Tw 0 -1.286 TD
-(to \037nancial integrity.)Tj
-0.206 Tw 1.822 -2.096 Td
-(These risks have potential implications for \037nancial stability to the\ )Tj
-0.125 Tw -1.822 -1.286 Td
-(extent that their materialisation can trigger distress in an entire sect\or, or )Tj
-0.067 Tw 0 -1.286 TD
-(propagate signi\037cant stress to other sectors of the \037nancial syste\m and the )Tj
-0.122 Tw 0 -1.286 TD
-(economy. Developments in FinTech could also become important from a )Tj
-ET
-
-endstreamendobj31 0 obj<</Length 4031>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(16)Tj
-/T1_1 1 Tf
-0.056 Tw 14 0 0 14 110.5512 761.4617 Tm
-(This line of action deserves to be brought further forward. There have )Tj
--0.042 Tw -1.822 -1.286 Td
-(been from time to time episodes of hesitations and reversal, such abando\ning )Tj
-0.15 Tw 0 -1.286 TD
-[(the idea of identifying globally systemic )0.5 (non-bank intermediaries )0.5 (\(in my )]TJ
-0.146 Tw 0 -1.286 TD
-(view an ill-advised move\), some timidity in prescribing ex-ante liquidi\ty )Tj
--0.025 Tw 0 -1.286 TD
-(rules, and now perhaps a sense that all that needed to be done has been \done. )Tj
-0.057 Tw 0 -1.286 TD
-(The risks, however, are too new, too complex and too little understood f\or )Tj
--0.013 Tw 0 -1.286 TD
-[(any )0.5 (complacency. )0.6 (Continued )0.5 (evaluation )0.5 (of )0.5 (the )0.5 (effectiveness )0.6 (of )0.5 (the )0.5 (available )]TJ
-0.077 Tw 0 -1.286 TD
-(tools in a macro perspective, and increased coverage, as well as improve\d )Tj
-0.221 Tw T*
-(analytics, of systemic resilience testing, should in my view be actively\ )Tj
-0 Tw 0 -1.286 TD
-(pursued.)Tj
-/T1_2 1 Tf
-0 -2.906 TD
-(FinTech, regulation and systemic risk )Tj
-/T1_1 1 Tf
-0.222 Tw 1.822 -2.096 Td
-(FinTech, broadly de\037ned, includes very diverse technology-enabled )Tj
-0.286 Tw -1.822 -1.286 Td
-[(\037nancial )0.6 (innovations )0.5 (encompassing )0.5 (the )0.5 (provision )0.6 (of )0.5 (a )0.5 (whole )0.5 (range )0.6 (of )]TJ
-0.04 Tw 0 -1.286 TD
-(\037nancial services, such as payments, insurance, lending and crowdfund\ing, )Tj
--0.09 Tw T*
-(trading and investment services.)Tj
-0 Tw 8.162 0 0 8.162 261.6692 480.1079 Tm
-(31)Tj
--0.09 Tw 14 0 0 14 269.8312 475.446 Tm
-( FinTech is changing the landscape in which )Tj
-0.036 Tw -13.199 -1.286 Td
-(intermediaries and policymakers are operating, as new business models ar\e )Tj
-0.193 Tw 0 -1.286 TD
-(developed by exclusively Fintech \037rms or by incumbents responding to \)Tj
-0 Tw 0 -1.286 TD
-(competition. )Tj
-0.087 Tw 1.822 -2.096 Td
-(FinTech activities can generate institution-speci\037c risks, \037nancia\l and )Tj
--0.125 Tw -1.822 -1.286 Td
-(operational, and systemic risks. The \037nancial risks are not in princi\ple different )Tj
--0.016 Tw 0 -1.286 TD
-(from those borne by other intermediaries, and depend on the business mod\el )Tj
-0.156 Tw 0 -1.286 TD
-(adopted by the service provider. For example, some platforms providing )Tj
-0.197 Tw T*
-[(FinTech-enabled )0.5 (credit directly )0.5 (match borrowers )0.5 (with )0.5 (lenders, )0.5 (acting as )]TJ
-0.027 Tw 0 -1.286 TD
-(agents. If investments and loans are matched by maturity, and investors \are )Tj
-0.074 Tw 0 -1.286 TD
-[(unable to liquidate their investments before the loan matures, )0.5 (the platform )]TJ
--0.052 Tw 0 -1.286 TD
-(bears no liquidity risk. Only a small proportion of platforms currently \engage )Tj
-0.216 Tw 0 -1.286 TD
-(in leverage, as they use their own balance-sheet to fund loans.)Tj
-0 Tw 8.162 0 0 8.162 462.1156 252.7694 Tm
-(32)Tj
-0.216 Tw 14 0 0 14 470.2776 248.1074 Tm
-( These )Tj
-0.017 Tw -27.517 -1.286 Td
-(platforms are exposed to credit risk, like others that offer return guar\antees, )Tj
--0.042 Tw 0 -1.286 TD
-(and could be subject to liquidity risk if investors can liquidate on sho\rt notice )Tj
-0 Tw 0 -1.286 TD
-(their positions.)Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0393 133.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-6.996 0 0 6.996 85.0393 119.3662 Tm
-(31)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.025 Tw 10 0 0 10 102.0472 115.3702 Tm
-(The IOSCO maps eight groups of innovations, considering also those in pl\anning, data and analytics, )Tj
-0.22 Tw 0 -1.2 TD
-[(and )0.5 (security. )0.6 (A )0.5 (mapping )0.6 (can )0.5 (be )0.5 (found )0.6 (in )0.5 (IOSCO, )0.5 (\223Research )0.5 (Report )0.6 (on )0.5 (Financial )0.6 (Technologies )]TJ
-0 Tw T*
-(\(Fintech\), 2017.)Tj
-6.996 0 0 6.996 85.0393 83.3662 Tm
-(32)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-10 0 0 10 102.0472 79.3702 Tm
-(See the FSB-CGFS \223Report on Fintech credit,\224 May 2017.)Tj
-ET
-
-endstreamendobj19 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 53 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 7 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R/T1_2 54 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj20 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 55 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 7 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj21 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 56 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 7 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R/T1_2 35 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj22 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 57 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 7 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R/T1_2 54 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj23 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 58 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 7 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj58 0 obj<</Length 4706>>stream
-q
-0 0 595.276 841.89 re
-W n
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 -303.1378 43.0236 Tm
-(14)Tj
-ET
-Q
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(15)Tj
-/T1_1 1 Tf
-0.175 Tw 14 0 0 14 85.0394 761.4617 Tm
-(to wane during good times. Consideration of these issues should not be )Tj
-0 Tw 0 -1.286 TD
-(procrastinated until the next crisis.)Tj
-0.078 Tw 1.822 -2.096 Td
-(Central banks play a key role in macroprudential policy because their )Tj
-0.171 Tw -1.822 -1.286 Td
-(mandate includes in one way or another a macroeconomic and \037nancial )Tj
--0.006 Tw T*
-(stability perspective. They also have access to timely information as a \result )Tj
-0.143 Tw 0 -1.286 TD
-(of monetary policy implementation. Finally, they have the unique ability\ )Tj
-0.135 Tw 0 -1.286 TD
-[(to )0.5 (provide liquidity )0.5 (through )0.5 (banks. This )0.5 (proved )0.5 (crucial )0.5 (during the )0.5 (global )]TJ
--0.106 Tw 0 -1.286 TD
-(\037nancial crisis.)Tj
-0 Tw 8.162 0 0 8.162 168.3268 628.7851 Tm
-(28)Tj
--0.106 Tw 14 0 0 14 176.4888 624.1231 Tm
-( In designing the institutional framework for macroprudential )Tj
-0.102 Tw -6.532 -1.286 Td
-[(policy, )0.5 (authorities )0.5 (should consider )0.5 (if )0.5 (the scope of )0.5 (the )0.5 (lender-of-last )0.5 (resort )]TJ
-0.007 Tw T*
-(function should be expanded to include institutions other than banks. Un\der )Tj
-0.032 Tw 0 -1.286 TD
-(what circumstances, and how, should central bank intervene if the liquid\ity )Tj
--0.023 Tw 0 -1.286 TD
-(stress of a non-bank \037nancial intermediary appears likely to cause co\ntagion )Tj
-0 Tw 0 -1.286 TD
-(and disrupt markets?)Tj
--0.038 Tw 1.822 -2.096 Td
-(International cooperation is necessary to avoid regulatory arbitrage. Th\e )Tj
--0.021 Tw -1.822 -1.286 Td
-(FSB is the forum that is best suited to coordinating the any efforts to \analyse )Tj
-0.221 Tw T*
-[(\037nancial )0.5 (stability )0.6 (risks )0.5 (stemming )0.5 (from )0.5 (non-bank )0.5 (\037nance, )0.6 (and )0.5 (to )0.5 (devise )]TJ
-0.092 Tw 0 -1.286 TD
-(common approaches and regulatory standards. With its annual monitoring )Tj
-0.057 Tw 0 -1.286 TD
-(exercise the FSB provides the policymaking community with a framework )Tj
-0.089 Tw T*
-(for analysing risks, and a very useful source of data on non-bank \037na\nce; )Tj
--0.015 Tw 0 -1.286 TD
-(the coverage in terms of jurisdictions and the degree of harmonisation o\f the )Tj
-0 Tw 0 -1.286 TD
-(data have much improved in recent years. )Tj
-0.058 Tw 1.822 -2.096 Td
-(The FSB issued policy recommendations in 2017 to address structural )Tj
-0.13 Tw -1.822 -1.286 Td
-(vulnerabilities in asset management activities, mandating the IOSCO, the\ )Tj
-0.072 Tw 0 -1.286 TD
-(relevant standard setter body, to operationalise them. This work has led\ to )Tj
-0.073 Tw 0 -1.286 TD
-(the development of policy tools for asset managers in the area of liquid\ity )Tj
--0.043 Tw T*
-(risk management, and of leverage measures for investment funds to facili\tate )Tj
--0.011 Tw 0 -1.286 TD
-(monitoring for \037nancial stability purposes and to enable comparisons \across )Tj
--0.037 Tw 0 -1.286 TD
-[(funds )0.5 (at )0.5 (the )0.5 (global )0.6 (level.)]TJ
-0 Tw 8.162 0 0 8.162 220.978 246.1079 Tm
-(29)Tj
--0.037 Tw 14 0 0 14 229.14 241.4459 Tm
-[( )0.5 (The )0.5 (FSB )0.5 (has )0.5 (also )0.6 (made )0.5 (some )0.5 (progress )0.6 (in )0.5 (studying )]TJ
--0.008 Tw -10.293 -1.286 Td
-(the impact of large investors\222 strategies on market liquidity. In a r\ecent pilot )Tj
-0.057 Tw 0 -1.286 TD
-(simulation exercise, the FSB employed a modelling approach to assess the\ )Tj
-0.15 Tw 0 -1.286 TD
-(consequences of market stresses and examined the resilience of liquidity\ )Tj
-0 Tw 0 -1.286 TD
-(across a range of corporate bond markets.)Tj
-8.162 0 0 8.162 318.6823 174.1079 Tm
-(30)Tj
-14 0 0 14 326.8443 169.4459 Tm
-( )Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 145.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-6.996 0 0 6.996 85.0394 131.3662 Tm
-(28)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.03 Tw 10 0 0 10 102.0472 127.3702 Tm
-(The central bank provided liquidity to mutual funds in the United States\, to selected broker-dealers and )Tj
-0 Tw 0 -1.2 TD
-(central clearing counterparties in the UK. Similar arrangements were mad\e by the Bank of Japan. )Tj
-6.996 0 0 6.996 85.0394 107.3662 Tm
-(29)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.169 Tw 10 0 0 10 102.0472 103.3702 Tm
-[(IOSCO, )0.5 (\223Recommendations )0.5 (for Liquidity Risk )0.5 (Management for )0.5 (Collective Investment )0.5 (Schemes,\224 )]TJ
-0 Tw T*
-(February 2018.)Tj
-6.996 0 0 6.996 85.0394 83.3662 Tm
-(30)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-10 0 0 10 102.0472 79.3702 Tm
-(The approach was an adaptation of a model of the Bank of England.)Tj
-ET
-
-endstreamendobj57 0 obj<</Length 4306>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(14)Tj
-/T1_1 1 Tf
--0.115 Tw 14 0 0 14 85.0394 761.4617 Tm
-(given the limited relevance of the risk of managers\222 insolvency. More\ recently, )Tj
-0.059 Tw 0 -1.286 TD
-(the focus on liquidity management has increased, but still mainly from t\he )Tj
-0.04 Tw 0 -1.286 TD
-(perspective of individual funds. These issues should continue to receive\ all )Tj
-0.027 Tw 0 -1.286 TD
-(the attention they deserve; but there seems to be a case that they need \to be )Tj
-0.03 Tw 0 -1.286 TD
-(accompanied by a )Tj
-/T1_2 1 Tf
-0 Tw (macro)Tj
-/T1_1 1 Tf
-0.03 Tw (prudential approach. The authorities should assess )Tj
--0.029 Tw 0 -1.286 TD
-(how shocks originating in one part of the \037nancial system can be tran\smitted )Tj
--0.024 Tw 0 -1.286 TD
-(to the others components, both directly and through their impact on mark\ets. )Tj
--0.131 Tw 1.822 -2.096 Td
-(This is a very challenging objective, requiring data and complex analyti\cal )Tj
-0.015 Tw -1.822 -1.286 Td
-(frameworks. One tool that could be useful is macroprudential stress test\ing. )Tj
-0 Tw T*
-(The work on stress testing tools for non-banks is still in its infancy.)Tj
-8.162 0 0 8.162 461.8602 592.7851 Tm
-(27)Tj
-0.071 Tw 14 0 0 14 110.5512 558.7845 Tm
-(An additional challenge is the identi\037cation and design of appropriat\e )Tj
-0.208 Tw -1.822 -1.286 Td
-(policy instruments. Tools aimed at protecting the stability of individua\l )Tj
-0.153 Tw T*
-(asset managers are available in many jurisdictions, for example liquidit\y )Tj
-0.029 Tw 0 -1.286 TD
-(requirements, rules restricting the amount of illiquid assets that can b\e held )Tj
-0.221 Tw 0 -1.286 TD
-[(by open-end )0.5 (funds, )0.5 (redemption suspension )0.5 (and )0.5 (redemption gates. )0.5 (Their )]TJ
-0.07 Tw 0 -1.286 TD
-(effectiveness for macroprudential purposes should be evaluated. Standard\s )Tj
-0.171 Tw 0 -1.286 TD
-(aimed at preventing the excessive accumulation of risk ex ante, such as \)Tj
-0.19 Tw 0 -1.286 TD
-(minimum maturity-matching rules, are more effective in this sense than )Tj
-0.124 Tw T*
-(those meant to manage a fund\222s crisis ex-post, such as gates, which m\ay )Tj
-0.024 Tw 0 -1.286 TD
-[(even have counterproductive signalling effects. The )0.5 (former set of standards )]TJ
--0.001 Tw 0 -1.286 TD
-(should in my view include mandatory rules to ensure that funds investing\ in )Tj
-0.05 Tw 0 -1.286 TD
-(illiquid assets beyond a certain share of their portfolios may not opera\te as )Tj
-0 Tw 0 -1.286 TD
-(open-ended funds.)Tj
-0.014 Tw 1.822 -2.096 Td
-[(Finally, the adoption of a macroprudential )0.5 (approach to the risks arising )]TJ
-0.181 Tw -1.822 -1.286 Td
-[(from )0.5 (asset )0.6 (management )0.5 (could )0.5 (require )0.6 (the )0.5 (adjustment )0.6 (of )0.5 (the )0.5 (institutional )]TJ
-0.119 Tw T*
-(framework for \037nancial supervision. In many countries, the authoritie\s in )Tj
-0.032 Tw 0 -1.286 TD
-(charge of the regulation and supervision of these entities have no \037n\ancial-)Tj
-0.14 Tw 0 -1.286 TD
-(stability mandate. Should their mandate be expanded to include \037nanci\al )Tj
-0.282 Tw 0 -1.286 TD
-(stability? Given the cross-sectoral nature of \037nancial stability risk\s, if )Tj
-0.004 Tw 0 -1.286 TD
-(several authorities are in charge of \037nancial stability, how can the \exchange )Tj
-0.126 Tw 0 -1.286 TD
-[(of information )-0.6 (and the coordination of policies be )-0.6 (ensured? Incentives to )]TJ
-0.138 Tw 0 -1.286 TD
-(redesign institutions are usually stronger in the wake of a crisis but t\end )Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 133.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
--0.01 Tc 0.01 Tw 6.996 0 0 6.996 85.0394 119.3662 Tm
-(27)Tj
-0 Tc 0 Tw /Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.01 Tc 0.068 Tw 10 0 0 10 102.0472 115.3702 Tm
-[(See the work by Y. Baranova, J. Coen, P. Lowe, J. Noss and L.Silvestri, \\223Simulating stress across the)-10 ( )]TJ
-0.07 Tw 0 -1.2 TD
-[(\037nancial system: the resilience of corporate bond markets and the rol\e of investment funds,\224 the Bank)-10 ( )]TJ
-0.113 Tw T*
-[(of England Financial Stability Paper No. 42 \(July 2017\),. Also )0.5 (S. Calimani, G. Ha\035aj, S. Zochowski,)-10 ( )]TJ
--0.005 Tw T*
-(\223Simulating \037re-sales in a banking and shadow banking system,\224 \ESRB Working Paper Series 46, 2017.)Tj
-ET
-
-endstreamendobj54 0 obj<</BaseFont/RQHLQG+TimesLTStd-Italic/Encoding 59 0 R/FirstChar 31/FontDescriptor 60 0 R/LastChar 118/Subtype/Type1/ToUnicode 61 0 R/Type/Font/Widths[500 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 500 0 444 500 444 278 0 0 278 0 0 0 722 0 500 0 0 389 389 0 0 444]>>endobj59 0 obj<</BaseEncoding/WinAnsiEncoding/Differences[31/f_i]/Type/Encoding>>endobj60 0 obj<</Ascent 883/CapHeight 662/CharSet(/f_i/a/c/d/e/f/i/m/o/r/s/v)/Descent -217/Flags 98/FontBBox[-169 -217 1010 883]/FontFamily(Times LT Std)/FontFile3 62 0 R/FontName/RQHLQG+TimesLTStd-Italic/FontStretch/Normal/FontWeight 400/ItalicAngle -16/StemV 76/Type/FontDescriptor/XHeight 441>>endobj61 0 obj<</Filter/FlateDecode/Length 294>>stream
-H‰\‘ÏŠÃ Æï>ÅÛCÑ¤mÂ‚––Bû‡Íî¤:é
-#Æòö;jèÂ
-êo¿Ïqä§öÜZ€¿ûIu`0V{œ§»WW¼ËŠ´QaÒªÆŞ1Nân™­&&%ğJÎÁ/°yÖÓ·Œ¿yŞØl¾NİxwwîG´4hÈè¥w¯ıˆÀ“l×jÊ›°ìHówâsqeŠ‹\Œš4Î®Wè{{C&ä…FÃĞêùbŸe×A}÷ÉâB‡…¨*šO“U‘ã"ò>ó>ò!ó!ò1ó1rµê#?eN>çÌçÈëT¬ËÄ´gÿ:ú×Ù§>B”"E´Å'¬µÆÇPÏáÑ)u÷š”>&u'öÅX|ü›*Nö+À DÕŒÉ
-endstreamendobj62 0 obj<</Filter/FlateDecode/Length 1914/Subtype/Type1C>>stream
-H‰TyT÷N°h|e_ÉØ™ñ-µîû‚U{Ôº`-UĞŠB¡!!˜É
-!L‰‘€¶š°(P|â’".OZíéQÛS<—W­KûúN=ïÔwÇşøãMøç›»Ì½ç»÷Üï'$&„BaZÖ–›¶¬Ÿ±U¥a›¶f•³2ŒrµJOş›,äşœHş¸³`|÷Îx)Z4¸ÿHsØDzóÜä¤S©ßH(œ(œ¼«@µF§/cUEÅFz^úÒE3ã¸dÓã˜>wŒáX<}éòÙùsçÎ§W)u…]f02¡UèX½•ålz•ZMgÅ[è,ÆÀ°æxpŒ7­2ĞrÚÈÊ•ŒFÎî¦u»èŒJÉ¨¶ˆaéY“b·FnP«´Œ–^µ~&ÍXj“AefÔe4?-£50JÚXÌêLEÅô&•Vg,Ó3¼QÈÊÙ2z½¦pÃLZ®UÒyÍ3d™"Ï‘å‹TZZÁ°F9ÿ-1±*ƒR¥0ªtZÃì9ë²·Æ›,¤•Ì.¿£ÕÁ‡"ÁF S Ø,dÛÂj`B|‚ï…„p a|Âş„ÿˆ:DÏ7&^/ÄRÀâ;Ïız^‰“8ÏëÍ£üèk)Z	bx!]’BÜ­OÅòÇlX‰xã.JãŠ{ÇPîNÒá±¤†AÎ-wâyœ¤ù¶‚pV¬>‡ŸıÍ”Ë/Æ£™.§²@ìÅz<%‡>'Pš…>ASµşù¿QxßÕKGAòªñŠm™n“QVî+=}æXÿí«ähJ@úô)èa‰GôXs§MCê)|‰¾¤ı%¹âèç¨ˆğèÀ>Á_IEy…Ÿ™šØİkaR{Ø]A•WT•ÊŒA{wwG{O”=¿½‡HÀ”ö½öû×wz»IÉK9ç¸7;!?ÔnI>†G\AÜKNH3}_…ıjHôÑŸ¦¡¬™~.İ–æÊ-FQé¬¶ÁnåXM¹ëÄ¸)Ç‘ãÊq'—']Ş_ï6Êì.Ö©#?G¼^qGµ«/›@)ü?B3¶G2R¸ùüpnÆà,®6eæödßµÁgH~Ä÷V§0ú¬×E0ê¤?øîî?‰îF«ÙéFãQ¡œÃ{ÒÂrÕ6B¾½ó»p]¸.BõÔŠaqçÏ÷ïÉÎª»røYç£åè¯›zWüşÛ³çmM¤„FŠw¯¬B4u„[xOtœ£¥O±£KÅ
-g)’|Dìu54PM_HÖeh±“^¬Èëc<²ÏÚ%`Ü0,Iun‰Aˆì#v!pÖ> Z«”£Òg’9ê{;ÛÃá°-¶¥î@é‹KÉ9˜„vr‚¶nà¯R‡îœù0é–B­e/±ÏÕPßÜ<PÛJ=;1~_éZjc¼É¶¤Ën3¥[äÉÊ|ƒÃg/_9Iá\Òò¾ƒÑZ\ÜYŞİ×“xºo°ÜÌ¥]ÌkK…ÿİ}4RsWã}¯×Â8iSºÛJìõøC^Òz"ÇdÆÃEË äµ¤·FÜ:Ğù°UvÚÜÉ,ùš³SÃÇ†!/Î%ïSÇ§•Û*y.CA¯É”Û2¨;Ø	„¯\MÆK¼ŒŸŞºí/Î'€8ôí¹‘ä¡èÍ'§ˆæ€³‚?aË
-Ô«—Ù}Å§‡Ï_è'ëêy]E¸ÙááGpè‘nsKÑ»ü±.BS—Æ2_Á,x2`âuõ”L¹ÌÒsÛéåH°šş¯àg‰”¤6b†/7^S6§Æ8şL˜t
-ÒZcÿ¸™Œ	6\Q”À¿éª(:C4õû.cƒÆM q%”Óâ­‚Üø˜-ù®Í{r\ü×45ù›ˆhÍ¾¯JU¹‹Z†bbI­#âæÁ„ªÎTŞúräPÂóúá])² â6Ïk:XÛØJà¡#Ö£Äğ‹nRÿB’Ÿ¾•õ:Hü‹k][²êx-ñÿ†Â@‰íŞçtWU–ó5K(Ÿ˜b_M­„”²[nö2Ûó³.^~3·¬¹Û’
-“€åğ~7ÂM•hlğ5C~ÓŠVªqKZ¼†Iö‚íá®“x¬ï8LƒuÏe'‡J,6{¹ít“R¶ã}”’µ™TïvÁ;U4ğvÚîıœ„sï´;VS¤è‚51@½u–NTw¤¢)#0z§ç!şÌoó’©4e£#%osèÿ²•°Tû©@ ®UÖ²·K¯¯d+Ê[ò¯ÅÕ²&öøsÇ˜`æ`-~w•×çÙï¡´t6ÊÚ%S·[¢±³_^9MÚb«M¾ÃJ¸]5
-qŸÀú²6x Ş/ó'¹ù7õ†£ÊáõÚ(†×fòê4ƒI'z^şB„ƒnåØS[*Ó‡í‘@_íÉÁmŸ¡%9hŞ¹síKÊÚ_O	!wì­Ç â5Ö&Ù[_OoEæF0ø’!Ø0Zq`\ï#)œç-N*ı¿  -à›‰
-endstreamendobj56 0 obj<</Length 5412>>stream
-q
-0 0 595.276 841.89 re
-W n
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 -303.1378 43.0236 Tm
-(12)Tj
-ET
-Q
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(13)Tj
-/T1_1 1 Tf
--0.001 Tw 14 0 0 14 85.0394 761.4617 Tm
-(rules create \037rst-mover advantage incentives, and the behaviour of po\rtfolio )Tj
-0 Tw 0 -1.286 TD
-(managers displays signi\037cant herding tendencies.)Tj
-8.162 0 0 8.162 362.2783 748.1237 Tm
-(24)Tj
-0.071 Tw 14 0 0 14 110.5512 714.1231 Tm
-[(Countries )0.5 (with a small )0.5 (asset management )0.5 (industry and )0.5 (less developed )]TJ
--0.01 Tw -1.822 -1.286 Td
-(\037nancial markets are not immune to these risks. On the contrary, and \maybe )Tj
--0.062 Tw 0 -1.286 TD
-(rather paradoxically, they could be even more subject to volatile capita\l \036ows )Tj
--0.027 Tw 0 -1.286 TD
-(as global players adjust their investment strategies, leading to surges \in bond )Tj
-0.051 Tw 0 -1.286 TD
-[(yields )0.5 (and )0.6 (sharp )0.5 (depreciation )0.6 (of )0.5 (the )0.5 (domestic )0.5 (currency.)]TJ
-0 Tw 8.162 0 0 8.162 399.4676 646.7851 Tm
-(25 )Tj
-0.051 Tw 14 0 0 14 410.0822 642.1231 Tm
-[(There )0.6 (is )0.5 (evidence )]TJ
-0.045 Tw -23.217 -1.286 Td
-(that international investors engage in more herding and momentum trading\ )Tj
--0.018 Tw T*
-(in emerging markets than in developed countries.)Tj
-0 Tw 8.162 0 0 8.162 359.9953 610.7851 Tm
-(26)Tj
--0.018 Tw 14 0 0 14 368.1573 606.1231 Tm
-( Large \037rms borrow from )Tj
-0.032 Tw -20.223 -1.286 Td
-(international markets, often in foreign currency, which exposes them to \the )Tj
-0 Tw T*
-(re\037nancing and exchange rate risks from the reversal of capital \036o\ws.)Tj
-/T1_2 1 Tf
-0 -2.906 TD
-(Policy approaches to risks in non-bank \037nance)Tj
-/T1_1 1 Tf
-0.347 Tw 1.822 -2.096 Td
-(The externalities I have just described require a macroprudential )Tj
--0.036 Tw -1.822 -1.286 Td
-(approach. One of the lessons from the global \037nancial crisis is that \aggregate )Tj
-0.112 Tw 0 -1.286 TD
-(\226 i.e. systemic \226 risk can build up largely unchecked if authoriti\es lack a )Tj
-0.257 Tw 0 -1.286 TD
-(broad perspective, and that the consequences of a crisis originating in \)Tj
--0.043 Tw 0 -1.286 TD
-(\037nancial markets may extend far beyond the fortunes of individual inv\estors. )Tj
-0.037 Tw T*
-(The authorities in charge of \037nancial regulation and supervision need\ to be )Tj
-0.08 Tw 0 -1.286 TD
-(able to monitor the potential sources of risks, to anticipate the build-\up of )Tj
-0.151 Tw 0 -1.286 TD
-(systemic risk, and to deploy instruments to prevent it from materialisin\g )Tj
-0 Tw 0 -1.286 TD
-(when possible; or, failing that, to mitigate their fallout. )Tj
-0.136 Tw 1.822 -2.096 Td
-(As I already mentioned, traditionally the focus of the regulation and )Tj
-0.012 Tw -1.822 -1.286 Td
-[(supervision )0.5 (of )0.5 (the )0.5 (asset )0.6 (management )0.5 (industry )0.5 (has )0.5 (been )0.6 (the )0.5 (conduct )0.5 (of )0.5 (these )]TJ
--0.045 Tw T*
-[(intermediaries, )0.6 (and )0.6 (its )0.6 (purpose )0.5 (has )0.6 (been )0.6 (to )0.5 (ensure )0.6 (integrity )0.6 (and )0.5 (transparency, )]TJ
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 265.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-0 Tw 6.996 0 0 6.996 85.0394 251.3661 Tm
-(24)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.019 Tw 10 0 0 10 102.0472 247.3701 Tm
-(See the International Monetary Fund, Global Financial Stability Report, \April 2015. While most of the )Tj
-0.036 Tw 0 -1.2 TD
-(earlier literature focused on equity trading, the different features of \other types of assets can result in )Tj
-0.033 Tw T*
-(different herd behavior. Analyses of herding in the U.S. corporate bonds\ among bond fund managers )Tj
--0.039 Tw T*
-(\037nd that corporate bond herding is substantially higher than the stoc\k market herding \(e.g. Cai, F., Han, )Tj
--0.04 Tw T*
-[(S. and )0.5 (Li, D., \223Institutional Herding )0.5 (in the Corporate )0.5 (Bond Market,\224 )0.5 (Board )0.5 (of Governors )0.5 (of the )0.5 (Federal )]TJ
-0 Tw T*
-(Reserve System International Finance Discussion Papers No. 1071, Decembe\r 2012\).)Tj
-6.996 0 0 6.996 85.0394 179.3661 Tm
-(25)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.057 Tw 10 0 0 10 102.0472 175.3701 Tm
-(E S. Prasad, K. Rogoff, S. Wei, and M. A. Kose, \223Effects of Financial\ Globalization on Developing )Tj
-0 Tw T*
-(Countries: Some Empirical Evidence,\224 IMF Occasional paper 220, 2003.)Tj
-6.996 0 0 6.996 85.0394 155.3661 Tm
-(26)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.116 Tw 10 0 0 10 102.0472 151.3701 Tm
-(A number of studies focus on emerging markets, investigating the behavio\r of mutual funds, for a )Tj
--0.05 Tw T*
-[(survey see )0.5 (G. Gelos, \223International )0.5 (Mutual Funds, )0.5 (Capital Flow Volatility, and )0.5 (Contagion \226 A Survey,\224 )]TJ
-0 Tw 40.819 0 Td
-( )Tj
--0.079 Tw -40.819 -1.2 Td
-(IMF WP/11/92, 2011; the evidence in the literature suggests that funds t\end to avoid opaque markets and )Tj
-0.05 Tw T*
-(assets, and this behavior becomes more pronounced during volatile times,\ with portfolio rebalancing )Tj
-0.327 Tw T*
-[(mechanisms )0.5 (contributing )0.5 (to )0.5 (explain )0.5 (contagion )0.5 (patterns. )0.5 (Also )0.5 (C. )0.5 (Jotiikasthira, )0.5 (C. )0.5 (Lundlbadand )]TJ
-0 Tw 40.819 0 Td
-( )Tj
--0.071 Tw -40.819 -1.2 Td
-(T. Ramadorai, \223Asset Fire Sales and Purchases and the International T\ransmission of Funding Shocks,\224, )Tj
-0 Tw T*
-(Journal of Finance 67\(6\). )Tj
-ET
-
-endstreamendobj55 0 obj<</Length 5613>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(12)Tj
-/T1_1 1 Tf
-0.058 Tw 14 0 0 14 110.5512 761.4617 Tm
-(The real signi\037cance of these risk is the subject of an ongoing debat\e. )Tj
-0.076 Tw -1.822 -1.286 Td
-(There are many reasons to believe that they are not negligible, at the v\ery )Tj
-0.108 Tw 0 -1.286 TD
-(least. Not only is the asset management industry very large, but it is a\lso )Tj
-0.041 Tw 0 -1.286 TD
-(increasingly concentrated. According to one source the market share of t\he )Tj
-0.049 Tw 0 -1.286 TD
-[(top )0.5 (twenty )0.5 (\037rms is )0.5 (more )0.5 (than )0.5 (40 percent.)]TJ
-0 Tw 8.162 0 0 8.162 319.9955 694.1237 Tm
-(19)Tj
-0.049 Tw 14 0 0 14 328.1575 689.4617 Tm
-[( )0.5 (In the )0.5 (United )0.5 (States, )0.5 (the )0.5 (top 10 )]TJ
--0.012 Tw -17.366 -1.286 Td
-(managers owned about 5 per cent of the United States stock market in 198\0; )Tj
-0.163 Tw T*
-(in 2016 they owned about 23 per cent.)Tj
-0 Tw 8.162 0 0 8.162 315.6407 658.1237 Tm
-(20)Tj
-0.163 Tw 14 0 0 14 323.8027 653.4617 Tm
-( The commonality of exposures )Tj
-0.224 Tw -17.055 -1.286 Td
-[(is )0.5 (substantial; )0.6 (evidence )0.5 (suggests )0.6 (that )0.5 (during )0.5 (stress )0.5 (episodes )0.6 (bonds )0.5 (with )]TJ
-0 Tw T*
-(concentrated mutual fund ownership tend to experience larger price drops\.)Tj
-8.162 0 0 8.162 501.8145 622.1237 Tm
-(21 )Tj
-0.04 Tw 14 0 0 14 110.5512 588.1231 Tm
-(Some other structural changes may further exacerbate the potential for )Tj
--0.014 Tw -1.822 -1.286 Td
-(externalities. First, the diffusion of funds with passive investment str\ategies, )Tj
-0.235 Tw T*
-(for example ETFs, could create distortions in the pricing of individual \)Tj
-0.175 Tw 0 -1.286 TD
-(securities by applying mechanical investment rules, and thereby amplify \)Tj
-0.134 Tw 0 -1.286 TD
-(trading patterns.)Tj
-0 Tw 8.162 0 0 8.162 177.9043 520.7851 Tm
-(22)Tj
-0.134 Tw 14 0 0 14 186.0663 516.1231 Tm
-( Second, automated trading may lead to less diversi\037ed )Tj
-0.035 Tw -7.216 -1.286 Td
-(behaviour in response to shocks, increasing the procyclicality of prices\ and )Tj
-0 Tw T*
-(liquidity.)Tj
-8.162 0 0 8.162 135.9994 484.7851 Tm
-(23)Tj
-0.29 Tw 14 0 0 14 110.5512 450.7845 Tm
-[(Applications )0.6 (of )0.5 (new )0.6 (technologies, )0.6 (such )0.5 (as )0.6 (high-frequency )0.6 (trading, )]TJ
-0.064 Tw -1.822 -1.286 Td
-(algorithmic trading and robo-advisors, may improve market ef\037ciency a\nd )Tj
-0.046 Tw T*
-(reduce intermediation costs during normal times, but have the potential \for )Tj
--0.06 Tw 0 -1.286 TD
-(making the behaviour of intermediaries \(or, indeed, even individual inv\estors )Tj
--0.026 Tw 0 -1.286 TD
-(in the case of robo-advice\) more responsive to market news. More analyt\ical )Tj
--0.008 Tw 0 -1.286 TD
-(work surely needs to be done, but available studies suggest that mutual \fund )Tj
--0.071 Tw 0 -1.286 TD
-(investments affect price dynamics in less liquid markets, certain share \pricing )Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 289.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-0 Tw 6.996 0 0 6.996 85.0394 275.3661 Tm
-(19)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.209 Tw 10 0 0 10 102.0473 271.3701 Tm
-(Data from \223The world\222s largest 500 asset managers\224, Thinking Ah\ead Institute and Pensions & )Tj
-0 Tw 0 -1.2 TD
-(Investments joint research, based on 2017 \037gures for assets under man\agement.)Tj
-6.996 0 0 6.996 85.0394 251.3661 Tm
-(20)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.007 Tw 10 0 0 10 102.0473 247.3701 Tm
-(I. Ben-David, F. Franzoni, R. Moussawi, and J. Sedunov, \223The Granular\ Nature of Large Institutional )Tj
-0 Tw T*
-(Investors\224, NBER Working Paper No. 22247, May 2016.)Tj
-6.996 0 0 6.996 85.0394 227.3661 Tm
-(21)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.129 Tw 10 0 0 10 102.0473 223.3701 Tm
-(See Manconi A., Massa M. and Yasuda A., \223The role of institutional in\vestors in propagating the )Tj
-0.021 Tw T*
-(crisis of 2007\2262008\224, Journal of Financial Economics 104. More rec\ently, I. Ben-David, F. Franzoni, )Tj
-0.033 Tw T*
-(R. Moussawi and J. Sedunov, show that ownership by large institutions pr\edicts higher volatility and )Tj
--0.035 Tw T*
-(greater noise in stock prices \(\223The Granular Nature of Large Institu\tional Investors\224, CEPR Discussion )Tj
-0.036 Tw T*
-(Paper 13427, 2019\). The International Monetary Fund Global Financial St\ability Report, April 2015, )Tj
-0 Tw T*
-(reviews available evidence.)Tj
-6.996 0 0 6.996 85.0394 155.3661 Tm
-(22)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.323 Tw 10 0 0 10 102.0473 151.3701 Tm
-(See V. Sushko and G.Turner, \223The implications of passive investing fo\r securities markets,\224 )Tj
-0 Tw 40.819 0 Td
-( )Tj
-0.116 Tw -40.819 -1.2 Td
-(BIS Quarterly Review, March 2018, for a discussion of the issue. The evi\dence is ambiguous, see )Tj
-0.144 Tw T*
-(for example \223The Shift from Active to Passive Investing: Potential Ri\sks to Financial Stability?,\224 )Tj
-0.218 Tw T*
-[(K. )0.5 (Anadu, )0.5 (M. )0.5 (Kruttli, )0.5 (P. )0.5 (McCabe, )0.5 (E. )0.5 (Osambela, )0.6 (and C.H. )0.5 (Shin, )0.5 (Federal )0.6 (Reserve )0.5 (Board, )0.5 (FEDS )]TJ
-0.128 Tw T*
-[(WP )0.5 (2018-060; )0.6 (also )0.5 (I. )0.5 (Ben-David, )0.6 (F. )0.5 (Franzoni, )0.6 (and )0.5 (R. )0.6 (Moussawi, )0.5 (\223Do )0.6 (ETFs )0.5 (Increase )0.6 (Volatility?\224, )]TJ
-0 Tw 40.819 0 Td
-( )Tj
--40.819 -1.2 Td
-(NBER Working Paper No. 20071, April 2014.)Tj
-6.996 0 0 6.996 85.0394 83.3661 Tm
-(23)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-10 0 0 10 102.0473 79.3701 Tm
-(IOSCO Research Report on Financial Technologies \(Fintech\), February 20\17.)Tj
-ET
-
-endstreamendobj53 0 obj<</Length 4711>>stream
-q
-0 0 595.276 841.89 re
-W n
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 -303.1378 43.0236 Tm
-(10)Tj
-ET
-Q
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(11)Tj
-/T1_1 1 Tf
-0.083 Tw 14 0 0 14 110.5512 761.4617 Tm
-(In times of stress the behaviour of investors can depress the prices of \)Tj
-0.129 Tw -1.822 -1.286 Td
-(assets by pushing them well below their fundamental values. If investors\ )Tj
-0.041 Tw 0 -1.286 TD
-[(fear that the liquidation value of their shares )0.5 (will decline as other investors )]TJ
-0.032 Tw 0 -1.286 TD
-[(liquidate their )0.5 (positions, they will have )0.5 (an incentive to redeem )0.5 (their shares. )]TJ
--0.054 Tw 0 -1.286 TD
-(When they invest through funds, their joint behaviour could produce mass\ive )Tj
-0.101 Tw 0 -1.286 TD
-(redemptions, putting pressure on funds. Funds will be forced to liquidat\e, )Tj
-0 Tw 0 -1.286 TD
-(with adverse effects on asset prices and market liquidity.)Tj
-8.162 0 0 8.162 402.6953 658.1237 Tm
-(17)Tj
-14 0 0 14 410.8573 653.4617 Tm
-( )Tj
-0.313 Tw -21.45 -2.096 Td
-(Trades by large investors are more likely to turn into \037re sales, )Tj
-0.11 Tw -1.822 -1.286 Td
-(magnifying the impact of temporary shocks on market prices and leading )Tj
-0.182 Tw 0 -1.286 TD
-(to severe liquidity stress and extreme volatility. As asset prices decli\ne, )Tj
-0.252 Tw T*
-(other intermediaries holding those assets \(including banks\) face losse\s, )Tj
-0.073 Tw 0 -1.286 TD
-(collateral becomes less valuable and borrowers are affected, with negati\ve )Tj
-0 Tw 0 -1.286 TD
-(consequences for the real economy.)Tj
-0.125 Tw 1.822 -2.096 Td
-(Interconnectedness is another source of externalities from a systemic )Tj
--0.067 Tw -1.822 -1.286 Td
-(risk perspective. Externalities related to interconnectedness can arise \because )Tj
--0.012 Tw T*
-(intermediaries are linked through bilateral balance sheet exposures or o\n the )Tj
-0.038 Tw 0 -1.286 TD
-(derivatives market, or because they are jointly exposed to common shocks\. )Tj
-0.248 Tw 0 -1.286 TD
-(Ownership links between intermediaries might require the provision of )Tj
--0.082 Tw 0 -1.286 TD
-(liquidity support in case of fund distress, either because of existing g\uarantees )Tj
-0.18 Tw 0 -1.286 TD
-(or committed credit lines, but also with a view to avoiding reputational\ )Tj
-0.042 Tw T*
-(damage. For very large \037nancial institutions the web of interconnecte\dness )Tj
-0.02 Tw 0 -1.286 TD
-(is highly complex and opaque.)Tj
-0 Tw 8.162 0 0 8.162 257.6535 365.4465 Tm
-(18)Tj
-0.02 Tw 14 0 0 14 265.8155 360.7845 Tm
-( Interconnectedness mitigates the impact of )Tj
-0 Tw -12.913 -1.286 Td
-(small shocks but can amplify large ones. )Tj
--0.03 Tw 1.822 -2.096 Td
-[(In )0.5 (asset )0.5 (management, )0.5 (a )0.5 (commonality )0.5 (of )0.5 (exposures )0.5 (can )0.5 (arise )0.5 (because )0.6 (the )]TJ
--0.027 Tw -1.822 -1.286 Td
-(assets in which funds can invest are a \037nite set. Each fund holds a )Tj
-/T1_2 1 Tf
-0 Tw (diversi\037ed)Tj
-/T1_1 1 Tf
-( )Tj
-0.138 Tw T*
-[(portfolio )0.5 (but the )0.5 (portfolios )0.5 (of rationally-managed )0.6 (funds )0.5 (of a )0.5 (certain )0.5 (kind )]TJ
-0.132 Tw 0 -1.286 TD
-(are not likely to be particularly )Tj
-/T1_2 1 Tf
-0 Tw (diverse)Tj
-/T1_1 1 Tf
-0.132 Tw (, as most if not all funds will use )Tj
-0.01 Tw 0 -1.286 TD
-(basically the same insights from \037nance theory and therefore follow s\imilar )Tj
-0.025 Tw 0 -1.286 TD
-[(investment )0.6 (strategies. )0.6 (If )0.5 (everybody )0.6 (in )0.5 (a )0.6 (market )0.5 (owns )0.6 (more )0.5 (or )0.6 (less )0.5 (the )0.6 (same )]TJ
--0.031 Tw 0 -1.286 TD
-(portfolio and reacts in more or less the same way to disturbances, shock\s can )Tj
-0 Tw 0 -1.286 TD
-(be ampli\037ed and spread more easily across markets and asset classes. \)Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 145.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-6.996 0 0 6.996 85.0394 131.3662 Tm
-(17)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.072 Tw 10 0 0 10 102.0473 127.3702 Tm
-(Leveraged funds that rely on borrowing or derivatives may also be expose\d to run)Tj
-/Span<</ActualText<FEFF2011>>> BDC 
-(-)Tj
-EMC 
-(like behaviour if )Tj
-0 Tw 0 -1.2 TD
-(they cannot roll-over funding or positions when they are under stress. )Tj
-6.996 0 0 6.996 85.0394 107.3662 Tm
-(18)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.298 Tw 10 0 0 10 102.0473 103.3702 Tm
-[(J. )0.5 (Abad, M. )0.5 (D\222Errico, )0.5 (N. )0.5 (Killeen, )0.5 (V. )0.5 (Luz, T. )0.5 (Peltonen, )0.5 (R. Portes, )0.5 (T. )0.5 (Urbano, )0.5 (\223Mapping )0.5 (the )]TJ
-0.126 Tw T*
-[(interconnectedness )0.5 (between )0.5 (EU )0.5 (banks and )0.5 (shadow banking )0.5 (entities,\224 )0.5 (ESRB Working )0.5 (Paper Series )]TJ
-0 Tw 40.819 0 Td
-( )Tj
--40.819 -1.2 Td
-(No 40, March 2017.)Tj
-ET
-
-endstreamendobj14 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 63 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 6 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj15 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 64 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 6 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj16 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 65 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 6 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</C2_0 66 0 R/T1_0 33 0 R/T1_1 34 0 R/TT0 67 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj17 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 68 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 6 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R/T1_2 35 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj18 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 69 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 6 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj69 0 obj<</Length 5303>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 292.1378 43.0236 Tm
-(10)Tj
-/T1_1 1 Tf
-0.093 Tw 14 0 0 14 85.0394 761.4617 Tm
-(be further compounded by securities lending activities and the creation \of )Tj
-0.074 Tw 0 -1.286 TD
-(synthetic leverage via derivatives.)Tj
-0 Tw 8.162 0 0 8.162 278.6542 748.1237 Tm
-(14)Tj
-0.074 Tw 14 0 0 14 286.8162 743.4617 Tm
-( Others, particularly open-ended funds, )Tj
--0.033 Tw -14.413 -1.286 Td
-(perform \(among other things\) liquidity and maturity transformation, be\cause )Tj
--0.034 Tw 0 -1.286 TD
-(they invest in \037nancial instruments that often have a longer maturity\ than the )Tj
-0 Tw 0 -1.286 TD
-(funds\222 shares. )Tj
-0.021 Tw 1.822 -2.096 Td
-[(Asset )0.5 (managers )0.5 (mostly )0.5 (provide )0.5 (investment )0.5 (services )0.5 (as )0.5 (\037duciary )0.5 (agents )]TJ
--0.05 Tw -1.822 -1.286 Td
-(for their clients; hence, the risks associated with the investments are \borne by )Tj
--0.013 Tw T*
-(the owners of the funds\222 shares, not by the fund managers. The risks \that are )Tj
-0.033 Tw 0 -1.286 TD
-[(traditionally )0.5 (of )0.6 (concern )0.5 (for )0.5 (the )0.6 (authorities )0.5 (mainly )0.5 (involve )0.6 (agency )0.5 (problems )]TJ
-0 -1.286 TD
-[(and information asymmetries )0.5 (between the investors )0.5 (and the )0.5 (asset managers )]TJ
-0.014 Tw 0 -1.286 TD
-(\(misconduct, lack of transparency in the behaviour of the asset manager\s or )Tj
-0.047 Tw 0 -1.286 TD
-(investors not fully understanding \037nancial risks\). Accordingly, the \purpose )Tj
--0.001 Tw T*
-(of market regulation and the mandates of market authorities mainly conce\rn )Tj
-0 Tw 0 -1.286 TD
-(conduct and transparency.)Tj
-0.142 Tw 1.822 -2.096 Td
-(When markets function smoothly, liquidity and maturity mismatches )Tj
-0.124 Tw -1.822 -1.286 Td
-(can be managed because the asset managers deal with a large number of )Tj
-0.005 Tw T*
-[(investors )0.5 (with )0.5 (diversi\037ed )0.5 (liquidity )0.5 (needs. )0.6 (In )0.5 (certain )0.5 (situations, )0.6 (however, )0.5 (the )]TJ
--0.123 Tw 0 -1.286 TD
-(collective behaviour of investors can generate signi\037cant externaliti\es, leading )Tj
--0.014 Tw 0 -1.286 TD
-(to excessive procyclicality, amplifying the cyclical properties of asset\ prices )Tj
--0.032 Tw 0 -1.286 TD
-(and credit \036ows. It is well understood that in \037nancial markets pr\ocyclicality )Tj
--0.037 Tw 0 -1.286 TD
-(can be determined by behavioural phenomena \(euphoria and panics\), such\ as )Tj
-0 Tw 0 -1.286 TD
-(herding.)Tj
-8.162 0 0 8.162 131.309 365.4465 Tm
-(15)Tj
--0.046 Tw 14 0 0 14 139.471 360.7845 Tm
-[( In the case )0.5 (of the asset management )0.5 (industry, procyclicality )0.5 (can be )]TJ
-0.05 Tw -3.888 -1.286 Td
-(exacerbated by the pricing rules for fund shares, the incentive structur\e for )Tj
-0 Tw 0 -1.286 TD
-(fund managers and the benchmarking of fund performance.)Tj
-8.162 0 0 8.162 417.8299 329.4465 Tm
-(16)Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 265.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-6.996 0 0 6.996 85.0394 251.3661 Tm
-(14)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.076 Tw 10 0 0 10 102.0472 247.3701 Tm
-(Some asset managers provide their clients with indemni\037cation, a type\ of insurance associated with )Tj
-0.096 Tw 0 -1.2 TD
-(securities lending. When the borrower of a security defaults on the loan\ and the collateral received )Tj
-0.237 Tw T*
-(is insuf\037cient to cover the repurchase price of the lent securities, \the shortfall is borne by the )Tj
-0 Tw T*
-(indemni\037cation provider.)Tj
--0.01 Tc 0.01 Tw 6.996 0 0 6.996 85.0394 203.3661 Tm
-(15)Tj
-0 Tc 0 Tw /Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.01 Tc 0.157 Tw 10 0 0 10 102.0472 199.3701 Tm
-[(See for example D.S. Scharfstein and J.C. Stein, 1990. \223Herd Behavior\ and Investment.\224 American)-10 ( )]TJ
--0.017 Tw T*
-[(Economic Review 80; T. Lux, \223Herd Behaviour, Bubbles and Crashes,\224\ Economic Journal 105, No. 431,)-9.9 ( )]TJ
-0.036 Tw T*
-[(1995; and Shiller, R. J., \223Conversation, Information and Herd Behavio\r,\224 American Economic Review,)-10 ( )]TJ
-0.1 Tw T*
-[(Vol. )0.6 (85 )0.6 (\(2\), )0.5 (1995. )0.5 (For )0.6 (a )0.5 (review )0.6 (of )0.6 (the )0.5 (literature )0.6 (D. )0.6 (Hirshleifer )0.6 (and )0.5 (S. )0.6 (H. )0.6 (Teoh, )0.6 (\223Herd )0.6 (Behaviour )0.5 (and)-9.9 ( )]TJ
-0 Tw T*
-(Cascading in Capital Markets: a Review and Synthesis,\224 European Finan\cial Management 9 \(1\), 2003.)Tj
-0 Tc 6.996 0 0 6.996 85.0394 143.3661 Tm
-(16)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.078 Tw 10 0 0 10 102.0472 139.3701 Tm
-[(In\036exible net asset value \(NAV\) fund share pricing, that does not f\actor in the investment losses )0.5 (of )]TJ
--0.062 Tw T*
-(trading illiquid assets, can generate a \037rst-mover advantage for an o\pen-end mutual fund and exacerbate )Tj
-0.129 Tw T*
-(the incentive for investors to run. Benchmarking and relative performanc\e mechanisms, which are )Tj
-0.103 Tw T*
-(common tools to address the principal-agent problem in the investment ma\nagement industry, may )Tj
--0.005 Tw T*
-[(lead )0.6 (to )0.5 (a )0.6 (focus )0.5 (on )0.6 (short-term )0.5 (returns )0.6 (and )0.6 (thus )0.5 (reduce )0.6 (the )0.5 (investment )0.5 (horizon )0.6 (of )0.5 (the )0.6 (manager. )0.6 (Incentive )]TJ
-0 Tw T*
-(structures may increase risk-taking and short-termism by asset managers.\ )Tj
-ET
-
-endstreamendobj68 0 obj<</Length 4381>>stream
-q
-0 0 595.276 841.89 re
-W n
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 -300.3878 43.0236 Tm
-(8)Tj
-ET
-Q
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 294.8878 43.0236 Tm
-(9)Tj
-/T1_1 1 Tf
-0.095 Tw 14 0 0 14 85.0394 761.4617 Tm
-(thus provided evidence for both views, which should therefore be seen as\ )Tj
-0 Tw 0 -1.286 TD
-(complementary rather than mutually exclusive.)Tj
-0.02 Tc 0.087 Tw 1.822 -2.096 Td
-[(Another key message from the research literature is that an overly)20 ( )]TJ
-0.046 Tw -1.822 -1.286 Td
-[(rapid expansion of \037nance can lead to \037nancial instability, especi\ally if)20 ( )]TJ
-0.042 Tw T*
-[(it is accompanied \226 as is often the case \226 by equally excessive le\verage)20 ( )]TJ
-0.193 Tw 0 -1.286 TD
-[(and risk-taking. This reconciles the long-standing view that \037nancial\)20 ( )]TJ
--0.04 Tw 0 -1.286 TD
-[(development is bene\037cial )0.5 (for growth with )0.5 (post-crisis analyses )0.5 (suggesting)20 ( )]TJ
--0.008 Tw 0 -1.286 TD
-[(that )0.6 (too )0.5 (much )0.6 (\037nance )0.5 (can )0.6 (be )0.6 (detrimental.)]TJ
--0.02 Tw 8.162 0 0 8.162 326.8705 628.7851 Tm
-(13 )Tj
--0.008 Tw 14 0 0 14 337.493 624.1231 Tm
-[(Stable )0.5 (growth )0.6 (is )0.5 (promoted )0.5 (by)20 ( )]TJ
-0.007 Tw -18.032 -1.286 Td
-[(the ability of \037nancial systems to provide \037nancial services and p\erform)20 ( )]TJ
-0.07 Tw T*
-[(their allocation function effectively, while keeping risks in check. Thi\s)20 ( )]TJ
-0.016 Tw 0 -1.286 TD
-[(rather general and even obvious observation leads me to the second part)20 ( )]TJ
--0.048 Tw 0 -1.286 TD
-[(of my speech, where I shall endeavour to make its implications a bit mor\e)20.1 ( )]TJ
-0 Tw 0 -1.286 TD
-(speci\037c, and thus also possibly a bit less uncontroversial.)Tj
-/T1_2 1 Tf
-0 Tc 0 -2.906 TD
-(The risks from non-bank \037nance: the case of asset management)Tj
-/T1_1 1 Tf
-0.025 Tw 1.822 -2.096 Td
-[(Bene\037ts )0.5 (do )0.5 (not )0.5 (come )0.5 (without )0.5 (costs. )0.5 (There )0.5 (would )0.5 (be )0.5 (little )0.5 (development )]TJ
-0.168 Tw -1.822 -1.286 Td
-(without a \037nancial system, yet the economic functions that the \037na\ncial )Tj
-0.474 Tw 0 -1.286 TD
-[(system )0.5 (performs, )0.5 (such )0.5 (as )0.6 (credit )0.5 (provision )0.5 (and )0.6 (maturity )0.5 (/ )0.5 (liquidity )]TJ
-0.082 Tw 0 -1.286 TD
-(transformation, imply the creation of risks. These risks not only affect\ the )Tj
-0.004 Tw 0 -1.286 TD
-(stability of individual \037nancial intermediaries: they can also have a\n impact )Tj
--0.033 Tw 0 -1.286 TD
-(on the \037nancial system as a whole, with adverse effects on the real e\conomy. )Tj
-0.076 Tw 0 -1.286 TD
-(A long experience with banking informs the regulation and supervision of\ )Tj
-0.046 Tw 0 -1.286 TD
-(the risks generated by banks, imperfect as it will always remain; but as\ the )Tj
-0.209 Tw 0 -1.286 TD
-[(\037nancial )0.6 (system )0.5 (becomes )0.5 (more )0.5 (complex, )0.6 (risks )0.5 (take )0.5 (different )0.6 (forms )0.5 (and )]TJ
--0.004 Tw T*
-(extend to different types of intermediaries; the authorities will need t\o adapt )Tj
-0 Tw 0 -1.286 TD
-(and evolve in response. )Tj
-0.032 Tw 1.822 -2.096 Td
-(I shall focus here on the risks from one industry that I \037nd particul\arly )Tj
--0.132 Tw -1.822 -1.286 Td
-(challenging from a supervisory point of view: asset management. This ind\ustry )Tj
--0.016 Tw T*
-(manages a very signi\037cant volume of assets, and in\036uences the allo\cation of )Tj
--0.107 Tw 0 -1.286 TD
-(\037nancial resources globally. It includes a variety of asset managemen\t models, )Tj
--0.022 Tw 0 -1.286 TD
-(and families of funds investing in products with different risk pro\037l\es. Some )Tj
--0.016 Tw 0 -1.286 TD
-(types of funds, like hedge funds, feature leveraged \037nancial risk, wh\ich may )Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 133.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-0 Tw 6.996 0 0 6.996 85.0394 119.3662 Tm
-(13)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.056 Tw 10 0 0 10 102.0473 115.3702 Tm
-(See J.L. Arcand, E. Berkes, and U. Panizza, \223Too Much Finance?,\224 J\ournal of Economic Growth, 2015; )Tj
-0.069 Tw 0 -1.2 TD
-(S. G. Cecchetti, and E. Kharroubi, \223Why Does Financial Sector Growth \Crowd Out Real Economic )Tj
--0.015 Tw T*
-(Growth?,\224 BIS Working Paper, No. 490, 2015; S. H. Law and N. Singh, \223\Does too much \037nance harm )Tj
-0 Tw T*
-(economic growth?,\224 Journal of Banking and Finance 41, 2014.)Tj
-ET
-
-endstreamendobj65 0 obj<</Length 7942>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 294.8878 43.0236 Tm
-(8)Tj
-/T1_1 1 Tf
-0.144 Tw 14 0 0 14 85.0394 761.4617 Tm
-(of technology, while preserving their traditional business advantages, a\re )Tj
-0 Tw 0 -1.286 TD
-(likely in my view retain a key role.)Tj
-0.006 Tw 1.822 -2.096 Td
-[(What )0.5 (is the optimal )0.5 (mix between )0.5 (banks, non-bank )0.5 (\037nancial institutions )]TJ
-0.235 Tw -1.822 -1.286 Td
-(and markets? The academic debate used to contrast intermediary-based )Tj
-0.104 Tw T*
-[(\037nancial )0.5 (systems )0.6 (with )0.5 (market-based )0.6 (ones, )0.5 (often )0.5 (looking )0.5 (for )0.6 (evidence )0.5 (that )]TJ
-0.069 Tw 0 -1.286 TD
-[(one )0.5 (or the )0.5 (other )0.5 (was )0.5 (superior. )0.5 (A )0.5 (more )0.5 (nuanced )0.5 (view )0.5 (is now )0.5 (usually )0.5 (held.)]TJ
-0 Tw 8.162 0 0 8.162 506.1552 664.7851 Tm
-(8)Tj
-14 0 0 14 510.2362 660.1231 Tm
-( )Tj
-0.045 Tw -30.371 -1.286 Td
-(The optimal structure of the \037nancial system is often found to change\ with )Tj
-0 Tw T*
-(economic development)Tj
-8.162 0 0 8.162 215.2941 628.7851 Tm
-(9)Tj
-14 0 0 14 219.3751 624.1231 Tm
-(.)Tj
-8.162 0 0 8.162 222.8751 628.7851 Tm
-( )Tj
-0.228 Tw 14 0 0 14 110.5512 594.7845 Tm
-(Whatever the nuances, I suppose most would nowadays agree that )Tj
-0.276 Tw -1.822 -1.286 Td
-(a balanced \037nancial system with multiple, lively channels of \037nanc\ial )Tj
-0.193 Tw T*
-(intermediation is likely to provide both healthier competition and bette\r )Tj
-0.152 Tw 0 -1.286 TD
-(resilience to shocks. Research has shown that when banks are distressed \)Tj
-0.146 Tw 0 -1.286 TD
-(frictions in credit provision have negative real effects;)Tj
-0 Tw 8.162 0 0 8.162 402.2248 527.4465 Tm
-(10)Tj
-0.146 Tw 14 0 0 14 410.3868 522.7845 Tm
-( in countries that )Tj
-0.06 Tw -23.239 -1.286 Td
-(have well-developed markets, \037rms can borrow by issuing securities wh\en )Tj
--0.072 Tw T*
-(banks tighten credit supply conditions.)Tj
-0 Tw 8.162 0 0 8.162 297.611 491.4465 Tm
-(11)Tj
--0.072 Tw 14 0 0 14 305.773 486.7845 Tm
-( On the other hand, banks can smooth )Tj
-0.262 Tw -15.767 -1.286 Td
-(temporary shocks affecting borrowers and somewhat shield them from )Tj
-0.079 Tw T*
-(\037nancial market shocks by supporting \037nancial \036ows, as suggeste\d by the )Tj
--0.106 Tw 0 -1.286 TD
-(evidence from studies using microeconomic data on bank-\037rm relationsh\ips.)Tj
-0 Tw 8.162 0 0 8.162 502.0742 437.4465 Tm
-(12)Tj
-14 0 0 14 510.2362 432.7845 Tm
-( )Tj
-0.088 Tw -30.371 -1.286 Td
-(Cross-country evidence on various stages of the recent \037nancial crisi\s has )Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 361.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-0 Tw 6.996 0 0 6.996 85.0394 347.3661 Tm
-(8)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-5.83 0 0 5.83 88.5374 346.7001 Tm
-( )Tj
-EMC 
-0.025 Tw 10 0 0 10 102.0472 343.3701 Tm
-(R. Levine, \223Bank-Based or Market-Based Financial Systems: Which is Be\tter?,\224 Journal of Financial )Tj
-0.015 Tw 0 -1.2 TD
-(Intermediation 11 \(4\), 2002; for a review of the \037nance and growth \literature see R. Levine, \223Finance )Tj
-0 Tw T*
-(and Growth: Theory and Evidence,\224 Handbook of Economic Growth Vol. 1,\ Part A, 2005.)Tj
-6.996 0 0 6.996 85.0394 311.3661 Tm
-(9)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.102 Tw 10 0 0 10 102.0472 307.3701 Tm
-(A. Demirg\374\347-Kunt, E. Feyen, and R. Levine, \223The evolving import\ance of banks and securities markets,\224 )Tj
-0.183 Tw T*
-(World Bank Economic Review, 27\(3\). \226 As economies evolve, the bene\037\t of further developing )Tj
-0.078 Tw T*
-(traditional \037nancial institutions tends to decline whilst that of mar\kets increases. Moreover, an IMF )Tj
-0.041 Tw T*
-(study shows that the relationship between \037nancial development and gr\owth is bell-shaped: \037nancial )Tj
-0.053 Tw T*
-(development increases growth, but the effect weakens at higher levels of\ \037nancial development, and )Tj
-0.194 Tw T*
-[(eventually becomes negative. )0.5 (Considering sub-indices of an overall \037nancial development index, )]TJ
-0.111 Tw T*
-[(this )0.6 (bell-shaped )0.5 (relationship )0.6 (is )0.6 (due )0.5 (only )0.6 (to )0.5 (the )0.6 (\223depth\224 )0.6 (components )0.6 (of )0.5 (the )0.6 (index; )0.5 (\223access\224 )0.7 (exhibits )]TJ
-0.145 Tw T*
-[(a positive linear )0.5 (relationship )0.5 (with growth, )0.5 (while )0.5 (\223ef\037ciency\224 )0.5 (has )0.5 (no robust )0.5 (association )0.5 (with )0.5 (long-)]TJ
-0.073 Tw T*
-(term growth \(IMF Staff Discussion Note \223Rethinking Financial Deepeni\ng: Stability and Growth in )Tj
-0 Tw T*
-(Emerging Markets,\224 15/08, May 2015\).. )Tj
-6.996 0 0 6.996 85.0394 191.3661 Tm
-(10)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.048 Tw 10 0 0 10 102.0472 187.3701 Tm
-(G. Dell\222Ariccia, E. Detragiache, and R. Rajan, \223The real effects o\f banking crises,\224 Journal of Financial )Tj
-0.27 Tw T*
-(Intermediation, 17 \(1\), 2008; R. Krozner, L. Laeven, D. Klingebiel, \223\Banking crises, \037nancial )Tj
-0 Tw T*
-(dependence, and growth,\224 Journal of Financial Economics 84, 2007.)Tj
-6.996 0 0 6.996 85.0394 155.3661 Tm
-(11)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.181 Tw 10 0 0 10 102.0472 151.3701 Tm
-(T. Adrian, P. Colla, and H. S. Shin, \223Which Financial Frictions? Pars\ing the Evidence from the )Tj
-0 Tw T*
-(Financial Crisis of 2007-9,\224 NBER Working Paper No. 18335, 2012. )Tj
-6.996 0 0 6.996 85.0394 131.3661 Tm
-(12)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-/C2_0 1 Tf
-10 0 0 10 102.0472 127.3701 Tm
-[<0036004800480003>-97.7 <0049005200550003>-97.8 <0048005B00440050>0.5 <0053004F00480003>-97.5 <002800110003>-97.7 <003600480057005700480003>-97.3 <0044005100470003>-97.8 <002A00110003>-98 <002A005200450045004C000F0003>-97.8 <00B300350048004F00440057004C005200510056004B004C00530003>-96.9 <004F004800510047004C0051004A0003>-97.3 <004700580055004C0051004A0003>-97.7 <00440003>-97.6 <00BF0051004400510046004C0044004F0003>-97.2 <00460055004C0056004C0056000F00B40003>-97.5 <002D00520058005500510044004F0003>-97.7 <005200490003>]TJ
-T*
-[<002800580055005200530048004400510003>-26.7 <002800460052005100520050004C00460003>-26.4 <00240056005600520046004C00440057004C005200510003>-26.8 <00140016000F0003>-27.2 <0015001300140018001E0003>-27 <003300110003>-27.3 <00250052004F005700520051000F0003>-26.9 <003B00110003>-27.3 <002900550048004C005B00440056000F0003>-27 <002F00110003>-27 <002A004400500045004400460052005500570044000F0003>-26.4 <0044005100470003>-27.1 <003300110003>-27.3 <002800110003>-27 <0030004C0056005700550058004F004F004C000F0003>]TJ
-T*
-[<00B300350048004F00440057004C005200510056004B004C00530003>-197.2 <0044005100470003>-198.2 <00370055004400510056004400460057004C005200510003>-197.4 <002F004800510047004C0051004A0003>-197.7 <004C00510003>-198 <00440003>-198 <00260055004C0056004C0056000F00B40003>-198 <003500480059004C0048005A0003>-197.9 <005200490003>-198.2 <0029004C0051004400510046004C0044004F0003>-197.3 <0036005700580047004C004800560003>-198 <0015001C0003>-198.2 <000B00140013000C000F0003>-198.2 <0015001300140019001E0003>]TJ
-/TT0 1 Tf
-40.819 0 Td
-( )Tj
-/C2_0 1 Tf
--40.819 -1.2 Td
-[<003A00110003>101.1 <002D004C00440051004A004F004C000F0003>101.3 <002B00110003>100.7 <003800510044004F000F0003>101.2 <0044005100470003>101.1 <002600110003>100.9 <003C00520050000F0003>101 <00B300350048004F00440057004C005200510056004B004C00530003>101.9 <002F004800510047004C0051004A000F0003>101.5 <0024004600460052005800510057004C0051004A0003>101.1 <0027004C00560046004F00520056005800550048000F0003>101.1 <0044005100470003>101.1 <0026005500480047004C00570003>101.5 <002400590044004C004F00440045004C004F004C0057005C0003>]TJ
-T*
-<004700580055004C0051004A00030057004B0048000300240056004C0044005100030029004C0051004400510046004C0044004F000300260055004C0056004C0056000F00B40003002D00520058005500510044004F00030052004900030030005200510048005C000F00030026005500480047004C005700030044005100470003002500440051004E004C0051004A0003001700130003000B0014000C000F0003001500130013001B0011>Tj
-ET
-
-endstreamendobj66 0 obj<</BaseFont/OJTTAM+TimesNewRomanPSMT/DescendantFonts 70 0 R/Encoding/Identity-H/Subtype/Type0/ToUnicode 71 0 R/Type/Font>>endobj67 0 obj<</BaseFont/IARJUY+TimesNewRomanPSMT/Encoding/WinAnsiEncoding/FirstChar 32/FontDescriptor 72 0 R/LastChar 32/Subtype/TrueType/Type/Font/Widths[250]>>endobj72 0 obj<</Ascent 1007/CapHeight 662/Descent -307/Flags 34/FontBBox[-568 -307 2000 1007]/FontFamily(Times New Roman)/FontFile2 73 0 R/FontName/IARJUY+TimesNewRomanPSMT/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 80/Type/FontDescriptor/XHeight 448>>endobj73 0 obj<</Filter/FlateDecode/Length 15025/Length1 40956>>stream
-H‰„–	TgÇÿ5=]à Šˆ·3İ3Ğ¯5Ş‹.1x®q5²«‰1AÅ3$¢kFÅ[ÁñÀûDEŠŠŞÇŒŞÆaÕ¸>]w€ÙoÔÇn^6/ı^Õ÷UuÕ÷uıº«»A |‘	a½zØ¢úg_D]HDT\dBñÍ
-ªm‹—¨–7s<üK ¯[C†ÆË2ŠêæÜ|hìÄ!Ùã·×Ô×"Ü°èÈÁOr€9NØm†	‡ÿ³š“…½FØAÃâ'ä¥6»+ì“@ë±ñQ‘`k] o °#â"'$4æ uºˆWGFÆEôº_ l‘/½Lˆ“èò ÒyÎ'ŒNhûğ”¯°÷U»@’ZSdxËKå–¢
-íİ(e`ˆÎŸd%Y/ë$}1¹`B±J%!èÓ³“ŠP¨îR9µ¼+µô2ÓPÛíÙäİ Z? @ğ3×NŒ÷N1êt˜_â¤¤—ÙË»’Á§²o•ª~Õü«Ô¨Y«vºõêMŠj¶iÖ4lÔ¸Éš~Ø¬y‹–­Z·ùcpÛv
-ù¨ıÇ¡:vêÜ¥ëŸ»}Òı/=z~Ú+ì¯ëİç³Ïû~ÑïËş¾
-‰AQƒ£‡6<fDlÜÈø„Q£Ç$7~ÂÄI_O2uZÒ7ßNO1óï³¾K™:gî÷ió~˜¿`aú¢ÅK–bùŠ•«22W¯Y».k}ö†›¤Í9[¶nÛ¾cç®İ{öîÛŸ{àà¡¼ÃGâØñù'O.8söÜù…¸xéò•«×®ãæ-›ı¶£z¿tQh°(ÕÁ˜Jnªë§Ë‘¥^R¼4Vš*¥H©R¦t^z¥÷Õ÷’«ËFù¤üD~É×àz¬p;g·Wœ1Æ8ÂxÌX`t›¦™–™Vš~6½Qj(F¥‹ÒSé«ôSú+_)S”]Êqå²bS)/•rµªjQ­j3µ•ÚNQÛ«Õp5^¦.Pw«ûÔçfÙ\İ\Ól1[ÍMÍŸšû˜ÃÍÉæ…æl‹ÎÂ–ªKK]‹bihiléf‰´DêıÍ4VYóÓ´ÚZ}-Hk¢µÒB´X-IKÖfi©Ú|-SÛ¬íĞrµƒÚqí¬vA»©=´†XC­­Ö(ëëk|“¸&ã›ÖZo^ŸêÒ¹Ú¸B\í]\]Û]\îÒAe—½(+-,/u—z5ñ”eè 3ë¾Ôm‘‚¤0)Qš$%rs¥5R¡ôZ_E&×•çÉ…òsûr&6s(Gx…!ÈÅËM0%	r¦
-”ÚŠªtSÂŞ“¨$){”|åšr[y¡¼R¡úrÔjÛ
-r1‚\ššñ+r=Í½Íı¹´
-rÕ¹:Ó{r–ÁoÉ©¿A.¬‚\š–¡m¬ W ÈİäÚU‹¶ÆrMF	rµÖÏr‘Ëè
-äB]\]]—]¥¥áeíß’SË“<äÜ÷ ı3!— ù#!=W>Ü£õ…bÖğn ”–‘3Åxé¿íù´ğLz&zÜ9MXÙEŸ;k8«;«9«:}•>Nƒ³’ÓËÉNÙ)9uN<ñÜ)Ïx«“‹ßÜÉ._"ö*Ş[”¬,é[œR<åÎØ¢˜¢‰Å¹Î³÷šÏu.*Ê.Jw¤;V;f,OnQ-Ç(Ç@a5s„:Z:‚ì]í]ì!ö¶ö6ö–öfö†v‹½=ÀN¶§6§í±íí®'Ë–o;lË³‰7í„mm«­‹­£­ƒ-Èf±™m¦ûK<1\–óD;.÷ZæµÔkÉ»Zù'nï{Ë÷bå'2¤¨·o0Q½ôBPŠñİ„$Ë©B§ËE´Ÿvb¼wÙŞABÚx{ÇxgUºê{¼†ÚïDèîøÃlø\èDCÒÿø&½ÕIÿ?ãÙ³<bHyoÍüıŒŠÌpCDÅ|ÀoÄt7z¤áÛw;½÷îğ™å³íWÁÖ 3¤p¤ã!fb.fc6`-ü"°NÇ|<ÇÏ˜ƒE˜E$¾¯Ï°ñO¼ÀK¬ÆfœB>r0QHÃ` 'qçqgq0q…Ø‚¡xŠy¸‚K¸Œaø	N|‡ÇÄ!#‘xŒBFcÆ"ã01“0_c
-&c/21SÅWÿ<A	öS:-"I¤'.”ÒbZBKiÊPNL^ä7-§´’VQeR%2U¦Õ´¯ğšÖÒ:Ê¢õ”Mh#m¢Í”C[h+m£í´ƒvâ_¸J)4›vÑnÚC{iùRÚO¹T•ü¨ù£w¨:Ğ:H5¨&¥Ò!Ê£Ãt„ÒT‹jc+¶QªKÇè8Õ£úd$ |¼Á¿q÷H!•Ìd¡“tŠNS¡³tÎS ‘FVº@…t‘.Ñeº‚\ú€PCj„ûx@W9…gs*Ïá¹ü=§ñ<şçó^Èé¼ˆËA¼„—"‹—ñr^Á+ygp&¯æ5¼–×q¯×ÇèGp6oà¼‰7soá­¼·óŞÉ»ô±ú8ŞÍ{x/ïãıœËø â<>ÌGø(ÿÈÇø8Ÿà|>É§ø4ğ>Ëçø<_àB}©¾L_®wËÅ‹ìù_‘e–½do¹’l}ø"_âË|•¯ñu¾Á7ùÛØÎ·ÙÁE\Ìwø.ßãûü€ò#~,úı	;¹„ÿÁOé]§t“n‘í?4—g—E‡ßéù÷L÷Û3À²À²ÀFØ¼dÉ9.è‘P…GxÄ%KòîDA@DÀ;Ó)§` ƒ€HN¢ä¼À{o•uŸ§úK×ï×ó<RÖ–±q¶¬·åly[Á&ØŠ6ÑV¶Ul’M¶)6Õ¦Ùt‰—rR^JËQ9&Çå„œ”SrZÎÈ¯rÖİp7İ-Wän»;î®+v÷Ü}÷À•øÀ+[ÕV³6ÓfÙl›csmfHI°£í;Ö³oÙñv‚h'ÙÉvŠı›j§Ùév†igÙB;ÛÎ±sƒıÁ1;/øÙÎ·ìÂè‚-Š.Ù»Ô.³ïØ¿ÛØÚwƒƒÁ/Á¡àhp 8b—Û÷ìûv…]i?°«ìj»Æ~h×Úì:û±]o7ØRQ¥’T–*’$É’"©’&éRUªI†dJ–dÇ
-c³©il$5£æÔ‚ZR«ØPjMm¨-µ£öÔ:R'êL]¨+P7êN=¨'õ¢ŞÔ‡úR?z’úÓ ›+9’+y’/Õ¥†Ô”Zò›ü.çä¼\ÚRGêÒ4šN3h&Í¢BšMsh.Í£ù´€ÒÛ´ˆÓ2^ûX¬.«+êª:¬®©ëê†º¥ŠÔmuGİUyªXİS÷Õ•±V x‚† °@Àªê àÀC)(e ÊB<”S5 <TP5U-H€Š• 2T$H†”ˆÙ¦Fì‘®j«:PUÕ…j™Ù¹'õ¤¾ü"‡ä°\”KrY®ĞwÕ¡Ô„ZPê@]¨õá!h@ßÓ0Ş€7á/0
-ş
-£aŒ…qğŒ§aL¤­´¶ÓÚI»h7í¡½ôí£ıt€~¦ƒô¢Ãt„Ò1:N'è$¢Ót†~¥³ô£ót.Ò%ºLWè*]óMè:İ ›t‹Šè6İ¡»0	&cŒ£bº‡e1îÓ,‡å±&P	¬°"&²æ#¶LÌ²°‹«2V‰5SØs).Íe0Ó0«r—åx.Çå¹'pENäJ\™«p's
-§r§sUœÁ™œÅÙœÃ¹œÇùX3¸:×àš\‹ks®Ëõ¸>?Äøa~„ÅLÌâ†ü?Î¸1?ÁM¸)7ãæÜ‚[ÊU¹Æ­¸µ7ŞzòìC/Ü†Ûr;nÏ¸#wâÎÜ…»rwãîÜƒ{r/ï¼÷¥|iîÍ}¸/÷ã'¹?àü?Íƒx0?ÃÏòsü<‘ëü¿Èâ?óKü2¿Â¯òkü:åa<¦Át˜3aÂl˜saÜ€ù° ÂÛ°ÃX
-Ëx„Ü”[R$·á‚¼'Ëå}Y!+åY%«±®ÜKpYÑãôx=QOÖÓô=[ÏÕõ’È
-–ë•z•^£×êuz£şT©7éÍú½®èİzŸ>¨èúŒş]_Ô—õU¸
-×à:Ü€›pŠà6>Œà£²F>”µrWŠåÜ—Rwà.Ã=¸ DZiĞZÇà‚FÌÆ|lˆa#|"šnŠÍ±%¶Æ¶Ø»bì£S°?>Ïâø¾†ÃuÄQ8ÇF„4'áœŠÓq&âœˆ–D¦¹XçáR|ßÅ¸?Âø	~†ŸãWøMä:[q'îÖÕq/ÀCxOéÚxÏãe¼EXŒ%‘	ÙˆèK›8oôy“h’"/Jø>İT3™&Ûäš|SÃÔÒõMSÏ<9S£ˆı›šæšLÓÒ´2­MÓÖ´3íMÓÑt2MÓÕ˜n¦»éazš^¦·é½ô•u²şÿûÑ¡íşØégšÁæy3Dşå”CÇÎ»8WŞ%º$—æ2\–Ëqy®¦«ë¸†®±kæZ¹v®“+p=]_7ÀrÏ¹!îE9â|EuDUÇÔquBä’0U¡c!†&´!…†¡„.ôa©°tX&ŒË†ña9uJİŠÅnÇîÄîÆŠe‡ì”]²[öÈ^ùIöÉ~9 ?ËAø~‡sp^6ë‚aŠÙ¬êƒO‚oÔ™`}°!øV¶cƒMÁDİ12Ñ®‘Qu‘Áf5MM—ïtwİC÷Ô½tî>K$nª³¢TÑƒ¯c£‚/$útÅJ‰sÛİ·Óí
-ƒÿËƒBÕ8˜¡š¨áj–*T³ÕˆàßêMa_Å'ùdŸâS}šO÷U}5Ÿá3}–Ïö­}ßÖ·ó9>×çù|_İ×ğ5}-ßÙwñ]}ïækû:¾»oï;ø¾“j†™°E>•ÏäsùB¾”ÿÈWòµl‚ïà{ø~„­°¶ÃØ	»`7ì½pÁq8'áœ†3ğ+œrşx”ëì†İuŠNÕi:=J÷ ŒÏD‰ï„±K”÷8ŸŠ:ĞÛc‡(µßâfÜ%wnÇQ^Ç¡8,êÃËø
-¾ª³t¶ÎÑ¹Q/ŞÀÿq]-PQ]Wôœ{ß›Qüáw,¼áñùˆŠˆ‚ƒ(ş@QÆš8 * ‰˜¤6ZSmB«Ñeü¬eüÔe±e5}˜jÕØ†¸bZcŒ1~¢iê§ÑøI´Ö Ë.un÷Œ©ÕÎYoÖyïŞ÷Î¹çsîŞ‹õ×P¿@eÔ£2Q)KdŠt¡>ÖÈTÙO¦Ét™!3e™…|oÓïê÷ûßê7õ[Èøpä|· Md|´­Y?Ç6W~#oàú>9îFÍ\Ô/éÿ@ôE5$¢RôB[º-ÕÊHE=±åÚ†Êr üN¶é«ÀdÆP®>rE©K¸À\ÔµÀhõPŸCf V]”İè÷ıEL¿•âè6g`—[i4ıš†ÓZG#ÈOi!%L* ]Ï1$¨@Ò›€H¦‡_ºM¢b:œG`ó^4X]Ç15¨ı˜Fn û<—'Rô"áâX^­ZÉAIê˜:‹»·€UãTAûšºR"Püêôÿ‘zOãÀšx1_''ù¨QËÒüjAœæbhci¡~¶ı°„5´˜ºU]PWéÏƒm,A]4ÀãİÔ*úI·¾J ¡4*0ú:t!óU¢¡6áiİ)âCi‡)4Š¦ƒÛlG4Î Qß7 ¶Ğ9Á·ô³ğ­\dÇ[ˆ^øÎ~ Š`¢å ¾T†±Õ¨¡İ¨ÓO¹˜½Aä/wêé<ÕCõTW•¢d*‡‡[Q¿—©Ó1d¬|E‹Ö^Ñ3ı+¬¢Í`I'àÇyÄı.İçdÈ¥ æPSÔ.u¾´£Ê¦š
-¦dG¿Â®¢è_ü Hé§â¸vY|[­Elh|ÙñíFìÒnÚ9ƒUvãÈàlÇ¥<›WƒEí>ÌåóÅiÉ£òKm ®«|©EÃ®ISÀÚæ‚}5ĞZ¬w¦#`<	œŠÁû÷ÄQ Ù>óqµöP_¸ø&ğ@ùÉ,‰8üìñ2ıLÉ ©å—ù+xş†øƒì,Ã¥‰œ.'I¯lëä_å'ÚKZ³ö…>
-õÜl¯¼8¡ŠÕëˆ“~%’‹²hòg²iü«1ÈÅ`ˆ~°Ù5ğu5cİï•¦¿ƒ5¶1o¥s¬¿€¬[Î« ›ÀıŞ/;‚/("’˜'Ü¢PÌË!ëĞÎˆk²œ!—È¥-r¯<§‘¦ëdBŠĞ5šlGÁŠì•í>~xóQò#ï£ó
-D~Xx?pUMVá<¥R?xZ/7!wB~‹LÜKÒÇA. _ï€İêA	6˜ŒœÁy<’GAÆr	¤2…§B*¸’«!Kx)ÿœ—ñë8ŞÉF¬m'øíŞƒ= 9³ìk¾Áw€¸	xÛ|œì;+u‹‘b¼(…Ìó uâ%± ;Ô$ŞûÅÙ]Æ£VÈùÀ<oËCò”ü·&4—–¦åj“µÙÚ2í¸vB;«=Ğct^$qÈ…S¾ıp#Øå5ÛC»Í>Á^i_l?eWíâÑ­ş‚uï¡§i¶ãü²ŞC{U\@]DÈ:½Ë1›˜$çÊUò3}ß–8 _ÖÈ9j‡,÷å<,ŞãX`9‹V’âfœmâªÖ“'‰ëœ¤­á?ŠyÒ-lA#úI­§¶L¿F$>§ñ·ŠÃ@vËÔŸ(GßÂô-âÚEÑ. ªëÅ¼ô‰¨T®eé¨qÿş*â=L4p²<¥m¡+Òßí¬G×8Æ£µ8ñ¼ÌÍè¸8šnò|ªã7)Ÿß¦ØGÌ»d±[–èÄƒ˜è˜tò)FŞ œ zòq[”Éƒ¶Oå ft‰ÏhKNGîü÷ QëD"zšİä$gRm@¿ovlı¬Şˆ<Û.]TJéôœ8J9¨+rZA™t 9Ø@éb#-VK¹
-},ú§ ¨¥4î€né€oKp^ô±è…Óaõ>úÿGèúÅ|‹~Ì*«•’´àÈJÍƒÎäCÿm„TÑs¸ÛLkm{ô“4DšØ‚,ÿ’Ç™óìGR.ü›JÛ5¼6Ğ™çãÍ"Ê‡¬ £,è5ø<u>A+Bç]¯j±ÂœQcp&¡µÜØ»RµL5Òtµ]M£Ù4QíBÿ] vÓ@ª×½b²¢e¡ÇápıÑ·‹èô£x ·áÿ0ı]òkŸ£wæ©•ê4õD<b¡Jœ¢—éº…¸ÉVê'ZT¡¬Ã	uJT“Šá0ªVsÑyÒN»Ş³”¢õÈİFm–H‡¿}	¼O§é[óG”MÊÏ64wHÎàìAdõÏÌHOë—êJIî›”˜gÆ:˜èô‰ŠìáèÕ£{·®á]:wêØ!¬};»M×¤`ryÌBŸa%ø,-Á,*JŞ›xPñÔŸeàQá³s,Ãšf<;33gıßÌüÇ3óŸÌäp#—rS]†Ç4¬c¦±§–”Cÿeé5¬›!}lH#¤w‚îtâÃQ]`Xì3<Vá‚j¿ÇW€Ïµts›î™a©.j	ë µ4ËaÖµ°c‡áğä´j×	NY‘fÇêm=°d¼§¢ÊšPRî)ˆr:½©.‹İ3ÌJ‹ÌV—”Ğr‡ÌX6·e™1j‚«¡F£ÅÕê_¹/œ*})«ÌªŠiå–¬ğmtMİË±èrÄÿnññnîòú§G£¤ßQcoışzÃÚVRşô¨3øïõâ–ˆ/ôùax%BX<Ñ€-±Ü[nñr4‚ë®éñêfšà_­aµ7G˜ÕşZ6&ÒoQéBçîÈÈüıê"Ezÿ¤rÓiåE™ŞŠ‚>-=È_ºğŞùFïgGR]-á]‡µ¥s—ï•Vf>i¡éA­¸ôI\9è‘9
-é`3xRnbMÙÁ¿™ÙäŸ‘iøyoYUØ«½ÛçÏù÷UUuÅÏ»÷½·+²ùà3	î²lÒ|@4¡ù ¬„Ä@ø0&„M%@t´i•SGÂ8 ±ÅN-2Ê0LU†td ]pƒJµ¶Ó	ŒJkµ--¢Ã€äõwîÛ·n–(´ÓşÓL~9÷œsÏ}ç{Î=7{Ø>l<~o×Âùû?¹0T²<*1+ÄCÎ’X¢AïŒÃùùá¼<NWN>V*¾xJÁºˆûWy¼ İ‹Ø.o.+Dğ}>>Ş-‘ ­ î¬Ù¼—VdôR°0¿9,ÚXÓçhF/aM§£‰™·ù‘ÇĞÁ‰F‡İÙ±ßdÏ˜´ê‡ËÂÚ˜¯P?hëëüuõ-!ouW[4¶uC8[ÿ˜.:ÒlÖˆÔ<?Rï¾–ğkjüÕ´Õ¢Ôàc8­*$3D³=R-…üm­ÌLh$¯¥L•ÿí—	¬$š·&ìi«µÿ6ğùnÓ(b}ÆVŠ|aİS¸,(_>„âŞÈ.	‡õlQ×ØÒÕ5bˆ®—UWWß[ÓÕÖµ<bu®ğ{=ş®C2$C]«ªÛœãX‡·d„kkÆ&ÖÊÚ‚æôøµÍõ=AmsCKè‡È»¹1Ô+4QÕ6§¹g2t¡C^¢ ’
-–²/3èx¨Š^áVó3‰:•VWÅ¯Œh¤dnG¦ÑÊˆ°eG& ÓmYPÉø‡oŠªÆP|¨ÂjBBËÄÃ%Ó ’xR/ìÚ›âÂ.ñV/zD9 i„‹5ï6· $µ\ºCëĞ qùÏ+nT,ò\®Xx£‚fcì¹?ÓŠ|)¾” şh™:]÷Ê¾ëAƒ®áÔ§rÙH¹ğµ-¾MË’+®¸Ç»Õ«c÷¹¬·™şêí?¾¶æÆsr{ækê‰N.ß`5-õĞµ5y”$ş'i©YÊûÁÌş9si£_o›{©Ö,E¸¿KõĞ5S!ß¦?MÌ|è6QJòùÀg@Ğ x@X <	Ôcnx×p ·R«ëZn'ÑD“€ùûõs”§¯&ÆµÌã{3dåa<	º\Wæ·>f=æMRóš`·š:¡¯'êÚJ É@ä°Îö´Nå½ZŸb¼~ÌÃøh|º òÅÏ’`S!J­•§`<±IÁx$P»«lƒùIğ±útğ‚çâ»I <kæÊÓZ†¶ÏÁÓÔ£7RºÚ÷qÅûæ=;{bÿÙ§/AûÛ?öU|áÛM	xPÎPgµ!º×—Å	Z%wY—0ö›éTÍp¦‰Øß To§ñ®,ëoğqq€ŠÁ»q
-¼æË´I^¦ tùæ‹È›vªÓ (¶Ä÷(ËĞ=Ø/âM9ğ½™s¹0ó”};MÔ?¦	Èù¿¨Ù¨ÅÙ×V!îİd}‚5ªXçpöcñıBŸ»Ö4Ø¹ç¡{XŒ…~‹ÊaØ°=¾s7Ã>ò¨8÷€é¢çãàN*ş{Æ c™ ÷EàM`Ås°îÌŸ?âœáÜäüàÜPù|R9Ëç¸±á³kæUñmÒü?µ)Š<ÌUõÂçÈ>s-ğÚœ[œ3…>;š÷xŸœSqÔo¨o«äÜŠ£¹œûLePí!WôÑ,ÎY;ÖU>Ts=rM8Ôñ‡ëSÕ¨ì 4Ÿ»CXÄè.
-@·ÀxŸîÑ§ÑRyùßŠñ½ 3Ÿª?ÕDI¸ú¨ gÉµûRİÎpõkßÂz}ˆe¶~‚^R´_LÒû5Ãè¶Îİâ)Î8&Bë³uLñºWşŸ@œ2ºé!Œÿnô[–ŞO/ppıC+¼…¼èòÜùÚvw‡q-!òæ2ğ˜¤2#H3Ñsfë£Uİ _‚µõ*‡Ä?™ÏÊ%´Ûì¦¯Ë~œ#¾%NÑÓ^tU,sîæ\RÔÉ×a(×@’CUM•ZPuUj}¤j²Ô´)UpoàûYõRwsŠ“¯±¼|…²å•¸üLÈÓ¸ü,‡'1/i´·$9u
-›1Ükxÿê~lRõ¤î9èzù‰4f¿—"b¯õ¡º‡OP‹S×À4  ı/¢÷îaœ7÷­V«ù¸Õ*ç[­ØçÏÌg@/YûEÕë©š½Ë&8½”ãdœ ÌXĞâè}à~ªïA·ûhšêŸ¥qÆ%u·MWşrrâŞËAÿÜĞSéQù,H¨K–#GêY§»i´üîÜù´Fî´~'·©;¨ZR³ÌGÃ1gÊ4æRlH­Çs@YÆş›:ò“ï‚Zğ8+ç^æ³7(	È1.R	ö0öª½Ô=¾&s”íZô¬åÊ§T]P~tN@Ù|ïÜq±ˆöæJ^Ó¼Oål²²™a¸S©”a¼F%ø~@}«–ÊÜ¥”m4YÕ»"•ÉãT$ké.Œ'¨¼=*ı²ıç€Aä¦ÇæU¯VÔºªúızÕÏG…´T½'XgÒD3—¦2t?tm4E¾†uC^`ü†e©÷Áï)…¿yMô}Âï¡êå·°{‡¦p±ªß°?;oïÑ]Ü]»Ã”„g$¿#ùİ8HÏOÇïÇáQY¦M5ŸxŸšX'é(™}DV¿å´Lşç·|²ıûzc9zø|Äê7’'1ùN`Ş~k(YO¦vyó¦C·
-v'°Ænè›`sôš%ß¥GdŞgù@>}-èıÀ\ªÒ~Jâ*u˜%èÉåÖ+j}Æë›
-»Ñ7ÏFm£P¾:Îç'ğ¶Æ_åk¼Ÿìã0şñ¼®²Ã]§dÄé°é`½ØJİÀ.ñæ.¤'´=ÖaÄµ&µñ¼^¬=	LÕ‹éçÀŒ@ ûlv ±öQĞı&şU`ˆ9ÈgPÈvÛ_;ºxğw†“ÇÃÈ°á¢× Úeë0#q¾¾Jğ½}–u˜!Ï£‡ æzJw­£t™ùDØ%ğFî¹ƒ4Y’õÏ[ùôUÀOQ\ƒ·³ÇÛ×.÷çÿÖz·œïzà~åÃEÜÇ*‡h”vÊ:Ú¤Bß^‹» ?|šOçœ ÿ¡’'œr…8æ‰òD>ñ\oÅ‹ı´,NÄòáªdè³1HäİïP%Ã<İ±›yıõ[ o”ìr0çfŞ\L91¾N`ÔãßÃ½
-ğ\eŸ„~	pí2Äôb ¦/ÆÄÅµ„ã*wØzç|œsI<øÔO-xÏ¤"ĞĞ»_³‰9(sî’áæ$ÔFÑ—­ùÿÔÎ»Àqà—ÿëoi„\<€z£–Ó¿X/àªª+¯{Ïã&114"„ !’ T[„ B€@0 *V¡–fÚ2àGg|¶:
-*ÔJAÚtZjS ´¼,Ú*ØN§¥ §>§£U¤v°Œ/Hîé·öÙ'¹9yåÎ|³ÎŞw?ÖÙgïµş=É¿ Í9GÈ©MiìíE^àä5’W›^áù:(çyu«±Ë°„šÆ4õyÄÁ>á¢ßE–c¤oû6…[Ã1š9ùšåæ°ãràû6¡Ì·ÂÓ°	ªéóå±/RÕÈsÓ;°jaUhı?›9^U=ÒÎ=ô”Úî_ÔF÷ŒÈ¶¹CtÇşB¶Õ]#úş]Ùè.Ñ5ë`ı÷3üéôYöOv&héÕ”ª£UËzègÕÍVïm5Æö²ãD6_s jgÕ¯ŞH4sxÏ+Ï¸NŠòFflM|*O@8ÛÚ…´9Î]g±'Ÿ˜úï÷s…òéš×°¼Äs>¹îymƒİK¹ûY”Ó¢ØÚ&Æv‘ÓNu¹»9òKäÔ–y1:ªø†eªÏÅİ¥«Üı¥sy9:3OÕr”ç#²ÇÊ%5>Ø©ÄuiĞE¹+Ûİr\wt»Ó%Q9N›ÿã{/Ò3…RØLìÜu½[¸ÛZ´äCü7Ÿ7[f&eBBÎ*ƒ§ˆèÿ ¸ã+©»+«QFdmÔ{o°¶S÷!vş‡]›XAp;4Q¾‡rw¯i{¥eAWû9¾oUŸ}Èš™8øcõ_*a4ÀoaQô­õîÉÜ‡’Ï‰è=×|æîƒ˜ìÒ^ 7ÂFÊù”‰ÕÁIŸï®–ÄåÇ¬âü4…˜=Yc½ŸiSÍÕÎŸ9ïJ¥›”Ùî’`‘Æt(ğË$/™
-ÒÄçÊhÛ“\4ÌyGÎò—i]p›ÍU5©zÆ_FÉ¸w—0ïYì‘–s“/ˆKßŞÌ#Öõ>6yù4œñ#—ºBü+sgJ9ŒS_a&ÿCåò5g>}?±FL“'iÉÁ¿÷rğ1{–”¤VH5"ª,uãÜ$UYïÑfıQ’kó•É«š£çTQğÖfªÍebmUôÎqM şÑ¯rTğíÌy£~©ÇÉ¥·Ë Öç`f.ïHÛ$‚Œõd˜ëƒt2‡}Õ@Îl,×³Î?`èššµı¡Ô:e2ËätÍÕš³_±¾Û5ûÍÅ<Ü‰2Ú„ö®[É7«é£<Q¿•î%³ŸV#]™î|S¦Àxw«Œw’I¼çğæ6ëğ…µ¥­¨ª1İ_ÉÁRŠ½†@•â®•*¾a¶¥'{`¸ñåûF}Ëj©u™y>iAruÍ ¯–CÄ4…õRçÎàQì»ºvfıtMH½³~ÿ<3×GâêÚ9Ç€ïcà»O¯±g«Æù‹×÷5ïˆ¦â›Ş¿Ÿ:7/Âõ1mı…Ríï†¬É}ÄÿMÒÛ;_zû—Èw)ï|Qÿ::v¥ôƒA‰±Á?~à)É«¤Ÿ³ˆ³5_ÜÄò@ò04Èïa<Ç”D#}À½WC)\®$ıùÿ0ÜbŸ‹ÂgêFÉvƒÖg@»àˆs:ßëJæÅø[ğq&ÏÌãô`_Ä ÏuÕå}uß¸W£Z31}ÕVÆ¡^mi[_‡zµâP?¡?:j×‘ÕŠCı SàGGã–Ä¡¾¤ÿjãP_Û?:Zçq¨Ø‰uq¨¯‹ûA|zç^ú?ìÛÄñGÃº@ï¶d—ôA¹_õ¶ü¶m·¬ıWÃ5a¿`m¸ó‡»Hpié]ğ`Ø'š'¸¾cµÂ¾°oúÙpnãŸÓô|İ+÷má|fnõ'¶ÖØ6;ì¼»C¿Ó«±÷„í›ŞßÑôÛİBàÀeü_Œ¥°.‡œ·Òî8¼ÄóYØÁ+0”òáº¤_‡·Zâ‚¼áÈ¥ÎQ“{¥ŠCë^hb®ër2rÕbb~9©¿óéëş”øõ3âÚ’ã.ñ¹‡šøı!ù¢œöÓˆ+h?‡2xã‰™ëi¿šñ
-Ø{ù¿1™9L™¸©y×ÄÙ*ân•ÑF¹ÔäTâmö·Ğ/=Ñ'×ÒïJé—ú£öÊ0ÚˆûŒHÖD|Ø ÃRåRà-•¾Ù¿&ß¦OJ6yS¼CÔ'åœèü{ä"w»ŒŠlÖ‹èò_(C‰Ó“²·Jï¬Ù×›ç¶Z+¹AúQ¿³ûËAsn©ú«Íy»DõFpÜË£¾XŠñ§Îd¬Rç])ö§’?“\ç¹Q*²&H©?S*ø¿Öä;§ê çnÚÍ§ıôÇÈà„ë³)ÖpäDVõF´:sVx‹¤ÀIÍR¢¾5ÛhŒ"tM|­‘·âº&ÒQšBuÒôhè}Œ%FïŸa[ëí\/g{ÄÕQqk}òOH©7Ÿïgõ¬¿†ÂB©÷~!³ÜUäòµ2+u1šÖ•\ÕgäX3Ÿæhïtş~ÉåÛ¨&ÿkxF‚Í0æÀÍÔ¿
-lì¸,¬7g“º¦5¶şûp|/ü_ÿîŸ›„ã›ÿîÛ7mây¹H"©z4$ıïàaèŸ©SY[İ'Û±Íº^ß¿+×ŸZÎ0{dF†õd–>è¸à¿¡5:5ÒÑ­,ó”mglğµ‡l}¾î5qÛ¢«;²ê×PÛsÖ|Şâú:f›õuûv~ıİÊr§³å¸nïÄØu2–»ÅÙªA#ùª•3l¯V÷§¸Õo2*šu,{	ú¸çË¡ûNñg·ÛÁêû6xÄPHiw†Ó:Ã'c*Yç¶¹‚ßXË…*Šç´ùöí½OêsËğçhp¢3Œ¯C[ĞûGgøD%uÒr}k¢uÖ1Z—è½#£ù£q¿êwüªßåT½wg¾gÂ™|^³¶Òßºı^ğ3šEÏó`KöÌGğ2|bÙoĞ¸ÅÿÎŸØo°ï2ú´Ùi¹Ê}Î¢ÑHDòÔHæ\®ı5šxxK»ë³ÿ*Eç ÏÇæ~¤ÚëM÷H˜×•(öeíG¯„±`€Æ–,1g|¸»Kê­ŞÛcµßÎù0ÕKüŸÆ;©61—8|€p'ü{[ƒ¬´¼lYeµ_åúmÆş*§}Vaú_Ä|·Ã:«·KlÒ¿ë›}Ûƒ/MöÄóÊ İà<#Ãœìñärp~èæ“œ'g¹—R~mê
-sĞv6}.ÙFSŒuîj9ÛÎz©p6MäN§}Z°
-›aœÍÓ8©sñ.“Ü’ïÔ ¿4G1á^DºÈ™Ï~­c_œÉ{+7ğîGCœ[à~é—xóÜ@ıç¬ïe<o¥€Mn†_ò<û>vmĞÆÉá”•{©+ÆŞwB^HâHHò»ØXær>À^ukm]Ø/±»n²íæŠ—\x.Æ–c7Âñt¼Ä?mû¹m®miã¡Ùsêe2gjrêjöåÅÁÎÄ2Æ+=ù¦yáı!½/¼·¥wŒğå¿%·È<_¦Ö;Á`­çË<÷~™è~Ä½ï)é®“|o4yõ°LôÎ“şÿg¿üc›º®8~Ş»Ï/÷Ù&Jè4ï™âğ#1f]V³ÉP³€CËÈÔ:Y1¿ƒİ$€ª%UÛIU7‘¥”âMd£šÌ†h;òO™ØÊš?ö×¤A*u“&ö#¥Û$$†÷½×Ï4]©P§ıøc7ÑçœsÏıá÷î½ïÜsµg©ã|	4r°ş„u[Å6PrÏ2ı+Tì|1Y¾Êkõ4€V6ä|ÂæÙÛé\FÆ¿³|«Ï$U_‚<²JäN^^‡>ÏğüDäØ8óÅùZOÙ9ÜJ<¿?òoáØ/ÓÑgµıı®Æû”ó}eç;Àkj’øòµ${QmâwÑ÷«¹;iöéÜı6Û€q¿ë8GË8Ê_²‡9SÊ9ÿî²öîƒ°W|¼ŒµÚ|d]õôB;NòÉ£¼onïWÖ£TÁQçá7JîQî§¢‚=¸Wò¾¥÷/«g÷Øk/ãê9wßû~ek	ò{íî~ş¤÷§ìIwOQá"Wãk*ûû¨1úM;W[¡Æ÷úEt!ö-Êıˆ•<vmBDÎoÕ.‹X>ƒÇô)cßây«ØŸñl@Ä1ä‰"Æ!÷ÃÙ(îI<Ç·s0·yœßÓs¸âÓàw4Ä"‡ˆ+œ5v:ÍÉş@õÁw@Ä¢be7ô:A‰ò"¾†¨£à]^²ãÏ`ö„ˆ/íõm´A\T.dØ±ÊÄ™Tªëí8´š³XÀÏ¿‘;sd»¡ßçRÀ“|ÜfôƒÍó}şİâ¬©åß ædıır%œÿWíœ ÏU;Oú~9á”~ïß«=öúzí—Ø'UÈpã9¿ã*ÍÉß¹°føyí8.bMİİ»ˆã‹õÁ]kq§°SşùN ©´çÙJG'òsótüjŠåà1;wF¸‘&ã,åcÛw°ÅĞÓyŞÀŸÃ¾7¸§Ü÷ò÷8qÏ`—)âø"êœ8/S=Æ]Ö„Ş;·r±ñÎ	¾ÏÇh>Ïe¸¶ó…Ğ7 =Ğ¿ã÷^è?‚¿Âvçì¿¿mßáêîŞ…ÎòŒ;Wà¿Œ»Òmš­¿Ìï;ØĞ|åIZÇAŸW8˜Ë÷¦P‹g¯ÉE~Ú#‘H$‰D"‘H$‰D"‘H$‰D"‘H$‰D"‘H$‰D"‘H$‰D"‘H$ÿw(DF+İ¤Z:F¤’—ªéËDz¹vƒ(¹é5HFüo»Ü.@ßí¼·ø{˜&l›Ñg”bÛÖ`/¶mv½mĞrå1´T4'S9bÛ
-TÕ¶Ur«AÛfğ‡m[ƒ´mvÊ¶ñ<ê8½J)@K€E-´•âĞk(A»@=EIáY…Rl.;àß&ZT¡&B;ñoQ3|[Ğ¿‡ºE)Gë=›Ğ²õÂkÑZè½¢U¾Œd¡–×t€ñ›Ğ†×uÑø´ù_y¾W­``IÀjÙ·Ö$v%zJÆ­U‰®d¢«£g[bW•Ù¹ÓjŞ¶ekO·Õïwí‰oªz4ÒÜ°aãÂ–mñîµñ½Í‰Î]Më×´|Z¿pXğXÂemë¶:¬®MñÎ®Vbó'?×q]EËfj ´‘NY¥Ü}¸BM´¿ß"FØB»16_›OÛû?İş²Ëìo²>Œw¿ÔÂşaÌP¤˜½Gíì÷4È~K×F^x¼°B 	;Ù1ön¦¾>>½°Jè´¿2xW¤KæßdïªÃTA&×Ó3g‹šké•+mãsŸÏ™‹ƒ×#ÓÙ5ú3PÙ5vü¹^Up2bÀ¡°§É£(dRŠı†FJaöëÌ¼ùÁÁKìmÔÿœ]Á«ñnWÒÆŒ üû	’É~ÌÎÙ5ç2îAŠt³o!.Aƒ	0	4J°R?ØF€FHTƒ(÷°Óì4sı=Õ öSx
-ş\²“l;ÍEßo²CTı";(ô	èèïÃ_
-ı=”¹´ËßæõGmÿ+(Ï„>bë—áŸ}e®_²Ë{ØnÑ¯ÇÖ)Ö.5½‘RÔ[  ¬C°aêñ©°gÙNñK?‚Bwæ4¦«/í+kÔ—ypV0…)íÃÔ÷aæú0s}¤¡ª7ß¦7×f1ëE›^´éE›^ÛY7~¯›Ÿ;^`†yïÆ¼sÿ(äşç @Š—Ø^Ìc%ê¶=í7±É¶d	C¯³Í˜ê0Ûœ™õPpÿ‡%çt¾¡İ¶öğ¶qQÏ8àŞx¦ä¡œF«7{‚¾T*‚œ>ê€ÆHÏ«6/²µÔ9Ân³_ígıZ¿CÔ)…—Xš¦¶d![LµhPiÆj•švgÒ¹ÏÉ¼NËp†MNG‚õ³ıŒ™¬š…X”Å˜ã|v,]°l)Txµ¾lé€+åu¹Æ]Q}L×'ôIİaé=¬7éízRß§è)İ9 ¨í®¤kŸ‹y]–+à
-»š\³@IEg_ãg1¤$Á Ğ0Ç1ø-ö8ˆa5b˜ŠÇá'HBÉÆaO@;Pò í<ğzàõÀK¼¦	´ƒ¤]«ß­É÷áí'y¨@­^7ævr’[ %%%­ÆÕÛxB/¤š ¾	€]™¯Øõí@õ“¢M¾.Ìûª·Ãc•Êh¥’ªT*•pm(Ï…(,,Œ•ÅÊcşØ–(K”'ü‰!-Z-ú£CZ¨,Tò‡†´ê²êòjõf–™å¦ßÒö74^j|§Q‹5&ûY–.“^
-=·œëséY%ÁOd¹:‚×‰A‚ë€‘	YB 4uÒTÏÀ{Ş31à@3<¼@šv÷Š:nñzõ#õ/>œ^¶4i@ÈAÀ0ö0ê‡Eëœ5"ü£ÂµÛ§„ß„Ì÷apm"ÌµáókCğo£H½ÃZq8´ò‘!M#@cmøoe­êü«ÃlQØXRlÒÌ™8g
-gLóF¼êØ†rRÈ#B¾ dHÈyawƒñ·ã§Æ7Œ
-ª‡¬¡ÒvEŒ³#1*#F{|d¨ÅBê\*7„\+ä¢p‘Ï¸å3>ğïûŒc>ãIŸ±ÂÇûÍÁ·k¨EBº¸TÙ äü°Ë4.›F«iÔ˜FÄP+øuZ)d©³¹TnõÔyÈùºr“ê0’’®­4Ï«$”’M×F î¤kWÿƒõª£ŠÂ÷Ì&™!M»IZËBšÎff§JgÛ”’ÖíşÌ´†	’vkØ‰³ÙÆ´RIëî,ÒX¤`‘Z° ØjƒVƒ$wg5lÒ@KÅâ›ôAlŸ|Q©V,H=çîÚÈ‹àeÏıæóİó;sïî,Âß¡}	ánhŸWá/?ip'LÜRÓÁïĞßDãÛüúÙâ¯ˆãˆÓÌñãĞ>EüË8ÿ?bšBüÙ ˜7ıÂÿAcŞû¡5ŠªCëT½À,¡únhİBïùĞ:ƒğvhA8Tà‹¡½QMwÀ8KHÄ-2C¢JŠOcæ#ˆ{ê“İĞ¢Y	Ô ê›§*AgƒBNu±Èn¦‹ë˜.Šîb†ÀUÅ¯dš@%ÔOa––/Œ[êŸöZ8û¢á%õæ"®o‡?A8£~7O·+T—¬sê·úõëD†BõšUS0pÕªIğ¥ZÁ›Ì‘+Áœ:k«Ÿë"ú‰Q|ÔSvR½¨«ï8ÕSÖ"•Á^ÂaØ·vªöŒºÛ¨†S6Š¥ZÕ§ô—ÕíèŞVƒşêŒº9Q£R6a™9u#*nĞE)Ïö-H[™AÊ’Ëò¨<$ï•wÈ[ä¤—»åuò¥SiWV)mJ«¢(-J“")LYS»÷cÊdx
-×´´´4Qß$®Û%êéß~ëK Hxvøêˆ'y¹ğNyû3¼Ïôjò½}|›éqeğ¹|à-G\z£l7(¹NwñÎl~<yúlá«§Ïú>xüZ‘y£q~'‡ëhİ;Ì›õLŒ­=¾+¶«sgÇöİÎ2İH£7´˜ùp‹uów¼\Öíó^º¸×í{|O.~ ?/“&\g^:Jàççá„tÌİG~8áø÷iL“"ÙD«2hLƒª nSÍu*šV']‡~"áö¹.Hãõ\	”À\ƒH“Ö³„È•Ö÷C=Yôádm¢"Y´‰dëˆT1¤XQ*}*FŸÏ<ëF½ŸBÇ _è <à<Qçà.hp$9æÿÙÆ2ÿÕÂƒEwLwGtwm„¿yüPŒ¿6WŞ @œG6ŒŒÆø}Ìáu'^)—	)\Ğ
-+ºûó•bjÌ	©‚«¿:=™õÑ:s_+;¹L²IJ–%­io™°GáiÒòHË#­éÔ´ĞòöeÀÌW–ñ³êX•V´âyéêñ3kÛî‡cGOìd×BÃŸ­¦ÏÛô_‰F¡d:™¦N
-­Bw´ŠÜÑÓµ Ÿ6BíèîĞ3øG1ævîJ¥R™,LìËALøÊxh{rß½w8Ïmn»<5âø@#h´l>Õ~Õ^²¥	{Ò>gOÙ³vsøèî¼ª-iÒóÚ„6©Ó¦´Y­…òs){JûE‹¸› ŒÍu„f€ˆ–ƒ5†%´ºœ˜Ù|ZcE|Û|3O²Õh:Ú´Z3û
-ûïÑn¢İFkb¯cí2Z•<‘d$éÆ;¤è›ô¥‹ôV7míİVC,¼PÇÜpİgêh§{cˆá®-­é(¾x[Àş´Ğ~F»‹ÖéôŠäA}×ú%V2Ëg8(SW2Ë`âĞí.—L“‘ÑÇ'€Tİ÷JÃ[IÂ[¢iá¿ÿ0 ºpõ"
-endstreamendobj70 0 obj[74 0 R]endobj71 0 obj<</Filter/FlateDecode/Length 495>>stream
-H‰\”Ëjã0†÷~
--ÛE±-I-C.d1&3àØJjhlã8‹¼ı(úBÆÀ‡$ÿû8_ï6»¾›Uşsš}˜Õ±ëÛ)\†ëÔu§®ÏJ­Ú®™”ş›s=fy<¼¿]æpŞõÇ![,Tş+.^æé¦–ípÏYşcjÃÔõ'õôg½Vùş:ŸáúYªªTñFßêñ{}*OÇ^vm\ïæÛK<óoÇïÛ”N\b¦Úpë&Lu
-Ù¢ˆW¥ÛxUYèÛÿÖ]Á±Ã±ù¨§´İÄíE¡‹*Ñ
-z…ÖĞ´…Ö‰Êz‡¸‹á.¥@%d!9È@è²Ğä œœ•838+ß¡U"º ®QÔ5ê‚ºF]P×¨êuA]/!áEğ¢7Ğ¢%¡%S@ˆ–,-œYœœYœœYœœYœ¼X¼¼X¼z±ô"4áhBĞsè	z=AÏ¡'è9ô„&MêuAİ¡.¨»‡:OÅñT„^½Xzqôby—ïR,$Ñ¢3Og––––––––«»º¾¿n‰Âõê‘È‘8Ûcªîc¿êk¦›ë4ÅqNŸ4Ç÷	îúğõ•‡QÅS÷_öW€ ’JG
-endstreamendobj74 0 obj<</BaseFont/OJTTAM+TimesNewRomanPSMT/CIDSystemInfo 75 0 R/CIDToGIDMap/Identity/DW 1000/FontDescriptor 76 0 R/Subtype/CIDFontType2/Type/Font/W[3[250]11 12 333 15[250]17[250]19 25 500 27 28 500 30[278]36[722]37 38 667 39[722 611 556]42 43 722 45[389]47[611 889]51[556]53[667 556 611 722]58[944]59 60 722 68[444 500 444 500 444 333]74 75 500 76[278]78[500 278 778]81 83 500 85[333 389 278]88 89 500 90[722]91 92 500 179 180 444 191[556]]>>endobj75 0 obj<</Ordering(Identity)/Registry(Adobe)/Supplement 0>>endobj76 0 obj<</Ascent 1007/CIDSet 77 0 R/CapHeight 662/Descent -307/Flags 6/FontBBox[-568 -307 2000 1007]/FontFamily(Times New Roman)/FontFile2 78 0 R/FontName/OJTTAM+TimesNewRomanPSMT/FontStretch/Normal/FontWeight 400/ItalicAngle 0/StemV 80/Type/FontDescriptor/XHeight 448>>endobj77 0 obj<</Filter/FlateDecode/Length 28>>stream
-H‰š ‹ÿëôü¿¿ÿ`€	F€  ~H
-endstreamendobj78 0 obj<</Filter/FlateDecode/Length 38078/Length1 71680>>stream
-H‰\U	tW~Ş»ü$ÕZƒÊ¿,$‘Ø×"b'¶ÑJ,IÄªŠÑÒ¦ÊIìG-s¬ãh´JC‡Ú¦ÂT[UEí¦M˜Ú;ÔuÌÁç‰væ´ó?ç&ï½ß{ïûÜ÷¾÷¹ !˜ÄŞıšVÏ<š#ûÙ2GNâ$–İ¤.à½˜Ÿ3ş¯ï>ÏA O“œqÓ³<æåÎUÖmk°j	ç·Ìå@µCg²ÿ9ûrÇO™öÉüÄ¿³ÿĞbØ¸‰#³¼ÕÂØ?Ş•ıÌñYÓòkÄz¶BL1ı}²ÆŞWÎ>çëûù“Gç·¹öEeHĞ>ÆLÖ-d1,‚ìm3²Œüù¿^lUM¬RmUÚ\B#WŠi¸j%6è™ìC|î±H•fŞÙ—qÎqö2Û£":Œ]Ğg««—¡à.³]a»èÎ¹cáä¹Kº:ı·şÒ€H,Ç:4À]i‚C(Ew¼‹NèƒeèŠãøÏbº…]°‘…T„‰Å*\À0LÆU\BÒQ&Õ¸N
-òŠ6î&ÿ¦cÛC¯`$cöÊ8éÚi*Nby·†wÌgo®J·i´®¡*¢1KPyøÒ=®8Œ@±Ì”›ˆ@&ŠLsSèÆ¢vâŒ¤Óê‰éö|¥ÇY%LJ]¹»OŒ`4WzóÈxJUcl×3cQx½Å¯À©.Mt’‹vİ*ãŠUŸi/yÄ¢†c60gq?Iˆ´5²…8)wìyrKÇ+˜Áº\Ãìãì‘&ÒD…©0f+‘Áo‹°‰ñ?Â	I—!R*õ&›èèj¸šî:Ï²“á:dŒû’HFĞõõSÏL±MŸ¼ÁÂjœÀIò(cŞÂCiD\V¯«YnÛì®’KÂÑ}11¯âO<ÕCøÿ”Gª=›Ãv†½ë–2·QèLî½éİŸkñ”v`7q–»¬*>î¢µô’~’#‹d¹ì–rAyT„š¤né}TkZZëÚr¥PÔc\?!—'ğ:³½”ûİŒÃ8"5%Jâ¹£³œÿ@µS]ˆê¸*Ósô"óØ¾¸ø!ğÈÂË*ëÊ<¼‚÷™…%”J¼,ß“ùbõgı¬®¢ıº…î¤è!z^¦¿Ğ_›Éf‹¹h»Ù,»Å›˜8éÒİ[Ì…ÀC^ÑˆCs´bıd³šÆ’_>13ñ
-±õ²ë±…û>€#8ƒïğ $‚œÇ0úxVİYH¬’ä –#rYT@Õ'bTKÕQ%«T•£æËÔ	uVİĞuõH=KÏ&Öê]ú‚1ÆÙ¦Dš-²Å£ŞošwDĞWo?iôdÈ“² µ¿,\wİtòD<“é\²\ÅÜD¼ÏJÜ…ÏğÎ=åzO”XV|-ñ³âxj¥«t#zJ_"ƒ$C‰,!¹Ä,™-oJ¼%ä§XÉ½m’÷dñ±ì%ÎH¹\“[rO±ˆ•f5Gªh• Úp§Éª«ê­ú9j"‘¯&«©<¡bõ‘Ú£Îêê:RÇë,=I¯ÒÛô!}ZÿÛ(gL{3Ğä˜sÜœ4çÍ#nSl®]kyêxš{2<y•=7<½oïïLïi¯Š¤Z}Î}ïÄ¯	ãò²­a¦©rŞ‹Z:ßÎ•fÌ£èqz¡şÆfË]í“‹R¨Çè±n£NUõD¨H}nÛêlÌ‡“-ê²º¯®›š2@İ”³D>Vu²òT±§LMS`o êÚª×¤TÖºÀımíZ)·kÕIøÌ%Uå¼ÕsÕ
-NúZQElšÛGÃ¼¿g§1ßÔ<i¤O›µ¸ªıê_rW–S5IwÓ@½¤ÚÈ*î©‡Û2	ùò’dŸ|'»!²YKõO«DU–V|Ôé9­ƒ1¤‚£D©šÒGİUz¿çß¡J|ƒ¢%‘µóß_ x–©hjZ
-Õä”4E-¬ Şßì¯Pl{Ş±Î6è8ôC"^TGÑ–wã*1o£)ö²ç!Q­ÄL7[FQ÷{R?vK$„jFn³ø^„ªúÔÂáŒúúÿ%U?]îàUññf•"ÆT|™oR¨L™Ôß"b^do5–zvÚSè-a€ñÖ²Ê¿ÅK|s¾güÚhO~C±ÁÄ‘µÊ<‰3VÒø>&‘áQQxœ;ğ÷1iTŞå.;Ã7ªßÄ#ãV ™g×Ï¸"wÜ0ä ¿ÛLıêv %æÚ!j 5Í©±GäS¾G“"êv.R"¥nÛÈ¿ƒİ‡BsÚÙÑÍwgP“ù¨Ïà+zãq‡yKÓ¥hè¥¶»TÏª}]±—`äºqTŞıØäµÔÙ¨g7±v‹L¶J$ß†•³ë’:gHêØá…öíÚ¶iİªe‹æÍš6ILhÛ¨aLtTdı_x½çëÖ©ı»Za¡5ªW«Zå¹g+?\)Èë±F+A\Š?5ÓW•Yb¢üiiñ}²~5YâãPêo}J|™Oİ|¿õL¢göÿy&ıì™ô?O©âköñq¾¿¯äX¿o·í;˜ö‚.ş!¾’ÛOíOíÅOíÊ´#"8Á—R+·‹¯D2})%©SsS2»p¹í!ÁÉşäÑÁñqØB3„VI˜?»„uøãÅÛÄu~ï}ç‹ûüÛg‡pÎÅF‰CHˆbÏ%—Î !HÖÙ)nœ”_4”u‚‚H+1èÖ–²i£ë@âœÒÖI¥Â*ØÊşÉ¤µ“*mj4eÒˆ†¦CgßC š4Í²¿û~¼wßÏ÷ü}XCˆ;Ëd(£¯ØšPx±Uµ@¡‰¾eÓæd¢Õç÷§VV)¸e›Ø¯ ±Y±„´%¨ES£Ğ-
-£©vªŞ B¶êš|2Ç¡şLÈ4 ômM*T_JÕaŞVÅ}pÆó„„—ÛZ’Ç–ú(9áÙ)¨¤,”±ÍÉ§¥~¦Rğ…Ú2r(>	!ìè@9šJ*ø((T?TŸ
-ŞŠ	•“Ù%(¬Ø,îwe 1^YA[øÇ½^ib~y‚ÜıJ£OLõµ–dHŞrà}^ø¥’•UYÎZkÖlY@LÅO#ƒ‹2Ó–«XÇ–Å¸bÕ"q=”ƒ"lÀ’¤>5¨`°ÉÛ`|Rv)
-Û’‘¹ğ9u¿¢p¢ ßEqööRNß‡pw‘ŠªU²Xh Œ+¡RY©Ó×jtdeÕ+9¢ˆ/q< |hÄ¶/[Á÷ûÕôÈI¨exs²@¨ß7¤U¡”B2ªäÚc‰ó[ªdø±dq{F„:¾‚Ô‰Å©‚‹_ç²'vÄìúâÁ‚¼£KìØÜ“rf!¶İK¨‚¼aQ¶€á‚ ®è©õ"”Ş–¤Ê€¯>Ğ&&vfÖÁQ{K’ò‘T#>J{ÔïÖÅ7«DÒ¤¾K µúÈ1(`ƒ…6…Ë¬+ÀT‘ßÿnÊÍßQwi'Û|Rb¡¥ô7–ĞKÌ3É¬’îY.Z"kƒËJ–ÛD¡MÎÈ}¹ùá~QàDy‚JRIù¥Dæqúsó“'|JÛÉ8±Ç ´	jÎŠøøæ¬„wõ$'8³w'Ç	&-™æT¶dÉ	!Iã•«2UBP	øÇƒS1NÚzß„„Ğ°&ÕiŞ–ÃHãó0Ú–#÷˜G€§+ğ$§~Ô›¢¥;ùth+µ\K‰æCh©;³L>V˜!WÇ‘^—#Ÿ\¡P£"`ÄhıUDá
-Äâİøä	q÷âsñÜ×ñÎ¹8jœ{ ¶Æoõ[ p‰=¨k$=zĞ5°¼;ßNÁ jG1I|Ûú®•üÀô†•a­èŒX±¿6—m¢1=ìè~AU’‹Ç9Ğ0Û8[-NcgpED8´ÆIÓÄép—rèÁÓ£xõ½WÏmô{Ûç÷6¼ø&–?Çõx~OeëíüÛ7ş|Y~÷§`C5ØğœfCT*¯ĞUÖé)Pn#ìĞI±E`€@×ĞMÑÃÎä/ÿÛœ¶G\n—ÍÉ!&R_o‹„WT“ê3ƒ#£ù©û¯ïôó‡ô•/ş(ÿı/òÈã=Ä?ğî_(òÕ‚=ù‹øú¿.iEŠ¤Ü×]ëÎğä)#F§³lèC›d2êbçrç°“ræp¥d\néµï£ òéÎ¹ô,Ø4c‹b«ÍU-ÃCv0	,
-Še-–#áúºÕ.§ƒŞ³}ˆecÀæ¨uÔ7oÉ_¬*Ùd/fl¬®¶íåŞíYu zs~ï…FËˆBR	’h#%±R,ÂJ‘^Ÿg/³„=jÚuPËĞ¾PHµ ¶& é(èÃh•ÔT]İÔô©«WA!Ô>‹úH¿q¨M÷à¿×ëê£¸Ø›ÃÉÆzQP
-)˜	§ƒº Ue›{aR=‚F`Ó#>0‰K¡]ˆÀìF.=t¯sv!5-¤¸\,/+‡1º[B3ß2_©¢íAKÀôğnĞ~µ-§½ıØaÌe¬ıØg `ãœıˆ/‚VA¥ö«¬|Í¶­ˆº]VW×pnWİêú5õVz!ì¤ıäşÌè¡³ÇÿÔÿékß½ˆÕï/­®)VÄZ#ëÂäÜ-üì–¦ó7ò—oç?|ëï¿½Ÿ¿•}«oß%½uöåÿ3]ùQÈÄ84DÌ…Ş‘’'ãóL{tÈ#yÈ+ĞËs“ÆÏ&8‘cĞVRn \„4şYğNh› ÿ—dÆaad&B¡I|–¯—lf³E²Fj,G,§-c…wO’r<³ÜP¼“›QË>Ş·ªEEwgá»¡v‡Òö@Õár¹şÈZQ ú·ûíñ­y’ip1o Y÷ûŸ?<¶¯¡”dYíAò—W
-¥ËÕj«/‚¥x‡ô:ã1Fİ’gÂ	 ¯K©ËUÁÄ™õÌ{-	ÏëzÏ»{<»û­ûm£ÆŸ™b½d¼d¾©¿éşÌó¥ûKÏ´ğ@÷Àítâe:^ïsò.Ş½ÌÃ°n£Ç¸,Ì“Ã="0·—7ñt1Å=]±ÓÁØuÅ90ƒe%‡©q˜Ålª“LœŞ;Âãóüeğ“TîÔû˜˜Jsø”TŒè¿=kïµïµ±ëì9ÌHvõ‚ö"A†*#Œ	Dà?Æà-Æ’äè%{É2B®’)òù'ÜêüòIüÃ'õ</Ttºóëô,eŸKÅç†²´z›4Ââ«ìKPz(šQ½–[4J¸Â’+‡ùS<ÈSæø1Nøºù:\CûÒ1(bÂ”?‚P$©¢±¾p=04Cÿêúú5ÔÅŞGÓĞ%	çöœø©³¿úkMû…kqÿw¾İæÅúüÃ nÆgŞ{íÂ÷†&~÷ùéíÛñAşNW»\ï‚Sşäs5Ş0Šæ§ÇMQ67MŠ›¢Ml¢¨ÍØQ¦›bqEEC…Î„§ÂÓáûE
-ã&öˆx°ú7åå“Õ7«¿úİåÛÔuÇñsîûÚ¾¹×vâ÷ëÆ¹vl“8`;45ÊxJ¨„tM	f!II!,&ã•6ji5¶`”—ªÁ„
-Ö‰²J£R§iClÚ–²ì‘né_LÛÉö»×iË6ÍÊõ99,å÷ı}?çûşVùUùgÅ“ŠiÉáş‘ÒR	åˆ‰‘O*pEL^!iÉ†m9|üŠWÅ“Ş~zD"¥×q*D<ñ;Õ¸4 u@É‘‹&lÊáA8/Ë”ƒeÙ2¢Î¯ld{àÏ¿Wjg“?LIXŸºªZoZ	«3¡çO_
-¤«3Ußö@{›€ûĞ›j¯ªŸ²TÅóª,ûB‘bŠå \"+2ÅĞJA(d ¸Ä©²4ö‰°“á46ğåLEû¯Fia7±è^xékGm±˜µRgèdÓÅ’gÁnóiôIéì	ƒš5eÙ¦Ã}'kug¶™ùóÁÍqÙé2ï²+ÑÆ·‚.ìèê@Íñå{5QÏ|³¹æù7†æî¾¸÷ì’°wGW3Æ¡Öš•OxKù/öÕléyGc8„ò¨k@º«–Ú,¢¯	ªHª"špÀÅ$O3˜2D™Š1	à*ja¹B–å8’b‡ü®ãïAæ0âãª@c†ç†£)“‰ºW€_8Ü¨y^$ñqò=’ søoªWëöqğj\$EFe1ë,xÌCmu…‚`ûIK'ÕUq	îoiJšn_h®2ë†Ù_£º¥[ÚVE Z;„‹¶v\4Ír
-'`ÁäµÑÓÓ?"v|óôL	~ğúÌwqc†ì}ÔOœ˜Ş¨ñ+ıŞI¯B2ö©OŸ¢°¥Î·Õ×C÷0=Ş~ê5/›"Rò:r] Vnñì¤;=û‰C®C“äY>Š(ˆEÉl±Ùì\¡@¤V*s@.T@v¹=$ë h8=>ÈÖ1 ‰ƒ´ªPS|÷eQ@ó§/»’a³Zã¿B±lA0È?F%"+cYû•¨RV"$gñ~Oê›¨ÌKõZuôÖ èÀîS½¡úeöså1Ê…´_ò Q…vÜN´zq/Ñ`€8h€3ëUcµÍòßvz»—®¯ƒ`ÂÊ,¥u0Ã<–Kf›z7ŒÉÎÕ3Mu˜?¶¯¶ï¹W:»¶•]áøÊgw~ù}LÑ«Î†‡äZF3áùkçyb’œîÙıóe,!jİ¹´†ît RôHîàw:
-zù{Ê¤Â0$î&»¨.Û>;µ+eh2è,u2d`#‡9`Çh „C!ÕGˆÖÂÉˆ(`(®ªi¤ZŒ.U£„mˆf£ãQ*êÌ×>BVÉ°VXUë 5ke­ÎÈWå„´‰ÙŒ¢£€U­Ÿj‡2â¯jyÙÈ¸B/!ğcGá-^ÏC0fE)|!¹ÓH.€]‰!”ÆK ŠMğ†¾È(4tdà¢’ı‚ëZF1'-%•	Ì~Yq€?y´ïÌÉ–’Áï¾³eÏÃ›nÁâß[¦ïX–-M¬¨=x ;TK7)BÍ~|póøÅóıç_ÁŞQ¼|fÃô’ık>]?õö…‡ğê¨ü!¨¼…Pw©cu¤şD4¼-ÑUœ1fLWÆİ«dB‡ç§]g”Óe×ÕĞõğ‡†w‹˜¶	v—"(+q?~UØWp<‰à•0,­(İˆ¿~!ÑŒšñVbK¨9Ü”Ø÷„wÎÙ“ è›ázÍ½–ÂÛÛÔQîóQË1Û;¡wÃï&rÔ(7iüÌ4Y0œa>¼ Uá'æÑK8dr…)ıM²ë©”¡Ë´Å*xñ@8z@{*`/•$”RS„šjHeSã)*|> ¡¢Ğ†
-»j´“vgr>k1-¨>Ğí55ñ ŸU5é±–ÙAîy±¸¯Øl£¸"E¦ƒLYoÏ)Œ¦Q¹î†b
-.ŸLc¶²4Š›Ëò¢Ïª®İšíà§zøËÀÏÚìùLÖÎ”ÊYÕµ°2Ú2{oàƒ'êïœ;õQë…‹U«~9üAëúN<w—º³±1“š[¹vÍk/·ö†–ú²ëûn^j_5Ôr`ucÛÀO:7½òüğ/Z»k¶vì¬I6Ågş¸ôtÃŞc]µË«šÁÏık‚<=aGalR»Ã÷è»Å÷ÂTÕIws]|‡i—Ğiíæ^µxn B<ÉÑa‡vĞ¤O¡KáÍÈÕËá5Àxğ¨ÊÇ•m
-dHäÓä) Á­ı—ív$84/º°xY$KÀBZrø%ğeDd"¤iˆd#ã*‚57Ëğgªá¦08KÿãfŸÊ_íÓyşUÏÚTz RéÔC–®WÔ]Â™M!Iñ„‚!¿ §‘WÔv£¦3¼óÊãæÔ„Òéh×fÆùyÎŸ½Ö	ğ)ÖÊ+¤›´µwü§‘ï÷ÜiÜ}ûLÇ‘ßÜ>qƒHXw>[÷íºEË¿åQˆ¸ä½—~}õÒás‡.üóşLçŞfâZïêMŸîÊı¬cıPáu˜5sä0LsA´YuËÊæ-•·Å[Å„Ip[‹$Ş4ê01*bsäjÕïS0ï‰¼†¼J·´@”ırF&åÜÎmäƒBiC'”ºxŠ—&ôºè¥Ám1üØHşŸI»´©ÿ{$%‡U}b,W>üßá”€ÙÑéäA~Â1Lè—û}„Ï‹€–ÈëÇÀÌÂä}d‡‡…Ç@ŞWíáñ‘"ç±y‘;Î`cN$8¯ÖDşø“ãqMaijêó¿àxş%uï¿uK‚gn…[us¢(Hï_#3E¢Ur™]n·Çáedˆ·—””¶ŒTlHêk¬\_/EòÇPşØåËÛõãKEú¢¾%Y“‚h„/¯Ÿ—J+|5rX+­û7ÙUÛÄy†ï»;ß“øî;Çÿgßùì;ûÂ9±ÉÅ	xYrPŠZ:št%DX@CK5Ğ–84Ğv,ÙÔ@ª‚Š†øQY+†F'KíFCXÙZMÕ Ò&c@·Á´‘ÂJ&´ehÀâîû.Ğvªe¿Ÿïµîd½Ïû¾ÏóøVÊß6Àgåa8Jñ»„18æİ)ïP
-á~ñ <)LÂw#“ò‡Âø›Øù#á"üD¸¯Ëw„ÿÀ;±;rÆ-<&‘
-b#T$"&ËQ7_#¹Ñ àHVâü¢Oòo•‡r4š¡O¯§m‘”}$)+±#1W¸
-˜°ë8(Pş@€ãÜ\´îÚnİCám±BæuÉ@®7m>nóİü-âß¸+dÂÛÅpuO(‚¥ö6X”¡8ƒÄÇlû?§0ÆŠ|SÈCÎÅpÀ_}9Ám¿ngÛÑÛ‘æƒ(!­¡²Î’C¦´µ­µX`Î¡:ÍXKRoÌşkuâ+OU{zÂVøS\\X|röÆoMİ\èJ+YV×…Pn½úŞ¾O¸tnR3k€‡Ôfÿˆ$0‘ z
-©>™0‰ä6;×GôÉ;‰òNkäÕt9RNßˆü=ıq¶nñBúyë@ó~ëˆöSëbäbú¢QC*äÇÇ„­ÜÑD>í¿úƒ-–­fPË-ÍvÒ@AŠµ,Ñ–è;#—Àí²uMgièfHù)â“ZÀğçššÖ–µ|¬÷¥÷’"$`¡ôik…ÑÂk.’‹4wd#šl„³4CRrPî²vh´K/Ø…îB?ÙO­u­eÖ²ksÃÌPdH7kCéŒ—˜íÒvyÜ-œÉ^Î~¢İÕÂ«8A‘Üj*R@MZAÑ"o*•hX±¨¦„‘Ï»F0 ›Ü)»‘ÂÂm_È;Çb|Œë\Ô‚/=´Ô9mÊmMÔÈ¹(í¡MeAf>ş>œ÷Úôk4I p•¦hœ¬ñˆ-â4 +à¬­g˜úz²'S'8z<(&P/ìâøR8´°ğp–P‰u „6¿ùøŒi¶/ŸF½3[4‹ƒ­œ$æS7$ç˜^…,Y;îĞÒ´Ó`¥9r@‹c´4ğâç¤œi:ô°(Û’4B2`#RX"&¥!Ò²RF(e,;ßI9eQ-`¾E¥¥ä\M¡Ç!7Sy)GdÛ¿@sn™P*•ˆÒàgäO :s4Ï$Õ¼ÕÜÖšñÆMæUìQ^`.™ã~V¼/ş0Ë°ÔÏ_^ºnôÊµÙQ«GÆÒË-rÙû÷úÎì‹úš…¯ìyüıë»7Nœê}¼c¥D¾-/^ıƒ§'{ôÖd‰Úô]5£‡´w¶<óºÀ²ß_¾åhàŞ·¥Ã[»^YA»°3Zöé_\ÚÕ íÅn9²d–Ê*{…ıòaá°÷¸ğ·–“Ñ¿GÂüEÿÖÀËÔ®À«ÔŞH™:I¹ë(&cP«(W–ƒ¢&àš % Nê±ãñ.#J
-yeB4ß‚ V¨EãyHO…ÊÚYŸ›, €fX~SŠØ)’bÄFèn‡€RBdÈiĞ£úú~‡×Ìbiù4Rê·KƒH¬b~œ)ÎLuNßœA+ë·Ó¼q¿ÄÔ±z$U›
-èŒän$êü(paW#¨	z1çƒ/2~	)òú¤StÒïóbÚ‚ŒcaæÕ°ÀÈµÑg¥cêõ±ËÛ†§÷½tæyå™ê­“Õ7'wïîŸç•|‘Z×Æªõ»ã;«ç¯TªÿÜ=xÔ7qôî‰ÿ~Vœ|$P/å°J"–Ä4€´e¯ª•jcÛááï¡kûÆà¾úışÓÒéØyÈ…D¯/&S¬ŒEvÈ¤Á1ŠD¨	V‘<j2¨†ƒç=dØ.ÚŞås+çµ½.oåÓ?Ç5ô>šÄ³ØÑ™G¾3Iìm©¤t¦1èLcĞ)wI:ˆ¦‘q’L'™C‰u÷1À³8ëD¤ÅJæm”ÏGnáƒ‹FdÁu_J¢½ âG!&*½@ª÷>(?6ChbŠƒÖÿFœöú!Ë¨iTuíJ4I«WDñ ¾ú^ù½êsô^ÍÕßŞêÒÛÔ!jÓH<£ïª:W½vêüSQ°A,‰á^Ÿ‡øàmTq´Úv~CtKô`îP9w2w5Ïõ†˜v„q2£ì87îvkŠSº"™j’³qA8•ç·Ä±¸”*Î°*I*ŒÄF¡D‚$Ò1‹8b6°‘l¬çUdLÔPGbÒõh4Æ¹ËÇ”;Ù–$XÈv±zÖ”İí<k¸©œ1•Æ,ºuS¤GŠæŠDIOvç‰¡òt ‚*Ğ
-&tÍJs’š•v¨åê$#0™c˜¬ĞÌ§gŠ›Ep§N°›ˆÑÑQu¨­ÊöÙv,áôMşÛ÷O'ZaE ªx,1™J£AQEZ[xNPš[lŸˆg	}e0osº…Ñu÷~½§z¦†Íu,2»÷I.gÆƒmEöi¿Õl<í"g¯'›6WşhÒ¨.êKãÙmÕ²„v?5ø=ÙĞ«ØØí0¢*BTAˆ6‚y?3² ÛmúúV7í®y+Kí3O˜˜—¨sæúFÍ=ú^{À5ÀŒ ŒG]£Ì8Â˜ckÜóHV­««€”íá$6¦HA5Á Pq¦Á%1¼Ã²"¥Ô¤™1j¸:ÚE"¨QùƒD2EĞ Œ´N§È@K›F™h DCY›ähv3ŒÂ‚.üÒ±HvÁ;Hòh¼ƒ$Ÿc’1'sŒjúÒĞÍ ™kG*mĞñ@½?ïtW}lç¾÷='9Ûù8;Nî=Ÿ“û°Ïvâä|I—„£ÁĞˆ’•ğÙf€Ê(´T$!ëie¬Y·!M”Q­)ÛX·n­ñ1L»uÑVª±‚í: ™D7>µuee*$Ùï}“ÚnŞ»×~/–õ{~Ïó{‚XJL£7>sAá`z"…@´p8ìƒÂVWrß\šÁÎÑo/_Z`š(ÖúàíVe×Œ¿awDIG…¦à?,[¿ü$€v½mëDıÒ‡Ì‰Oè²Ÿ˜f¶‹ß2µŸ8·vuœâµ¦ÍÏaÚ¤P§Óáq-´°Æ±HDki'½.½Sè"]òÎÊ}dŸ<L†eou²Ï»×Ë“´lOw¥Ÿw½îK»òùoxGÒü"p!~ŠZ8ÅæÏQ6ĞQp€mÎ‚š«$BŒÜx_7Ü(¡–çÓÊ—³"—çÒ"—>_»Ÿù—ú1ÕÎ¯ù'ı.¿‹¢á½|Œ	hÿÇñzšÚ£¨(ªF1¡:"ıš¨HÏ£‹ë7Nc‚<K&T5Àj*­é¦'Õ´J¦´D(˜ñXE¬2Æçæƒ)Ò}HSE_^ÂSÍ„á"j…œ;–[¼faõt`¥Îœ©–`¥Öƒ2@Q£{j’ù¨¨×KhÊ+ñacˆKÓ²¸®ìıoMŒïí~á£¶çç«óÁòÃemcÏMì8spÅÆ#ûß}¨ëœâb…‡×qè‹ÛÏ¾şßMŒìšè›[ôh4e>=±~ŞÜ»¿¹}ôğï7¯$%á:@N»—€©­hÇT"<‘qhÑ83;ùñqŠˆ™ÊNŞuüt›b½Ÿb¥Šá§˜~\Œ†Áøbd'¯8Œ0{ĞÎ!I–Áª‚•„eqùpuÃjÕÓÛÌE"V3¶BÌµ$Y²<òÆvAI:’FÎ&èı/‰‘;¡8İ]™C™ÑÌXÆUœ
-9évØbè8¯nªÒ”ªXºÑª*ót«ŠG«Š¢‡apTëázUiÖÃPp$¢Ìknöz=Øª®…Á_l`Ç@—¤¶Ñe2F1#×ÈbÍ	Š™u™‘¯eP¦Õ4êÛSëR85´pıû$±D¼ÕbĞ$v÷01ošMiğ7%3®¢WgÑÀ5ËmÖĞŸ%¿şÿå`ú_ĞOpè@Â¶ñƒL¼Aªl{ü×ö²¨<>ÈjÆßœ–8Á­PD0rï¡g7M	ƒ$Îßpwÿ¬J —&¿O3ºï16µ'ÿÊû sÂÜU§±ÕÖ¯àR—´'ÿE#fŸ ÛtLUÁº
-ôp)	‰¥2FØ8Ü@,ï9.ÇÜe¡ìä'ÇhÁæÖ1Ú:tãè´©B†Ûmğ]áeá—BÎo…KÂ¤À˜>.d'¯9æJé³BĞ¼v,bfqÍQ}ìG4§\îd#·³¼ã=ĞşfgwK÷œ‘T<ùÁüP#òz¯ÜÈJ71÷@Xè.¾ÇTÆÔÎ`r*»,JîıÒY¯ÒêbRDI2 rb¬”ã›¾õíÎ¦Y­|4ı…~ˆU™Ö´ææ	¨©Æ;
-äP¤qrŒ•ø	¼jµWµ“Z>2²è;N]á†ôrüX9v«
-¯¥(¾fÃ£*¢ÖT³9‡ã¹¿‡|"…1/p¯¡-8‹ßv’¥ÿËXºİÆYûÔÃˆîÒ×wÎ¹©ºİºE
-5”—;iÙh÷@#‰ÿL„*‰N·2ó"i×zï¿Õ­0K˜UÜ¸e¥&æ×~ıñ|uÚ‘7±Ïœ£õòOQ›h¢J§ÿîkËÔ’€µªbp\î¿ *6:í\)"¨¤B¹ ^TQTé²óüÍ¨9¹šlE›ÈÓÉ~r ½˜|—\ WĞuRP@ TäÚm>MÒv†ğ¥vŒDm>—äØ’Ä'¸
-x×ÈÍ•H½\o·Ô.­İÄíâúH¿ÜkrÏ‘=öAî€ı*÷Š}¨v¸öŒtšŒÔ¾/'£µ7¥käš<Vû1÷‰tÛ6¡ÅÒÂä´ZZ‘|RÚ)¿CNÙçÈ9ûò]X¤*nİĞT%¨–ªÄ™	zXdFW•ä‡
-pDæLHŸvæÙÉ€M$;I ÿÁo—‚²,a· pœmÇâ‚ı(9iš¦Ò‡õ}TÓsõ!§Õ"L¿¢@,ÒŠ|xyÑPU(Š%U¨%ÔuÒôr e5#Tp¢a¯`%rß†;a2«[İğÛ²à±U’ù-hê"6âk ¢¿Hƒ”=.5Hv f
-nj­F@%ÑÎø´ ÑAˆĞ=†}êñÇo)f»=·!m
-Û–¡t]FÉ•>Ìöäøˆ½2\:şo×ö»}Ï¨•¦™Òzø¾5ñ²˜yç¢‹½½;xï`ğÎ·hÚƒŞr% ·T®
-í<ÉY¾7·>im'½Joè+ñ.k(¯Ÿœˆ¼¿¨\]ˆäÊ1ÑŠGÌ†XcÜ¶ÖÄ6Çº¬Ëû‡‚¡ŠP[è=ù¢’ó³8úcä¼t!r>öçøõHnÈ	—Å…B
-ºT%OCK”èa®L«ª,‹·„—†Áôå•TBV,ÁBàç‚bĞ:Á®`Np±599Ö°…_¶F¬Q‹·ª£2b¤EŒÊÈ(*dLö°ŒÉ…CÕVí8ªSÓšxøóI±sÉ‚U'¹(_}Ua·›«§,ìMĞÆd'Ø£ÿ×izŒTH!bÆ£R´EBp‰É•uÈTÀQÌ¦ÇÅ §å†®†]F¹ÖÈéšÊ!æŒ¸µE\w˜¢N:?ßT@j¡*³±R&°Ô*yèp(º$5ş&(I@%AşêOû.ş¡¦g~ı#e›,z¶£®ïØ> ‚’ÌQ{ù-t×vd×+£…ç‡«´òÔùläã\
-cçH„Ğr™¬h{äß=>UÍ/ü´U²6Fx7r›Q3Ã­B[ñÖÈn´oS·i}ÆNsíÕ¾_ı_¾«56Šã ïÌ­÷q{½Û³ñİîíŞûön}Ş=ßñ`¯D ;ØH'°-_ME  µ±Š,¢„Ä"¥<Ò‚Ò„Ä*bàˆPq’¦U$ªöêbª
-µR]‰JE}Y›VåGWÚ™Ù™İÑjæ›ïq\Œ_OÜÌÔbõTè08;œœŠïÁ÷c—3·2w‡™ZÆé%@ zU´»ÙRsÉØ{Q·§(I ^İáWEi¦©%ö1Q6Åc±>”ob—`ÒéÔy+ê®Â¿‹âj½ƒ¶ı„>GCš/Iù*8nº[Ô`P‚n— ‚ñ†ÑûWz¸27tˆğå0ìF´ÃWùV`"§ÕÖšg,D1Ö:0¢˜HC½…¨z«³ŞBTıÛ…ïß ~â©ÄW°óÑ4Œ&}Mú
-šVèeaGpªŒêòIkı~aÒ…ñğ<2ásÚ$_7ñ«¬Ñˆñ–ÉÊQ%‰ê9•QÑiÊÑ˜jÉymrH£G¦F-RºAÄkóWE€¢À_Q­Öæ¯ùŠ÷ãæ7Wù¢Á»‹Ä2T	LHšjÿŠ4hhXZVÀˆ°X7´ôÓ¥B.ä”y)ÑU°@iÉøûİß¾ùîEĞ¸ãáïÖ	ûÙg_-í„?‚ ,ÿ/4;>|i¢šX:øz¯Ó¯:+`/ğrí>Y‡2YÜnú½o57pCÎF¸I•HÕiİ ²Rl4ï´¶µl"9Ø8èŠT³ÎE¤çJä7æs»GäeD12¯s“ÎI×a÷¤6MNçx¯3çÌ;Á\0, ‘2$‡”T*“kí°ƒ4ü†l(Fx]~]a“sSºÌmsnç·¥¶iA(PÌ)±µÜXö—}-¹ü@a µµËÆq)SQ.TZ“2J£ŞQáhì4}Z?cLësê§é_ks¥oJ¾-L›HCñ2ø
-@p ŒHTQBt¦²’VDYş$ˆ{òş)_aÌáò9.Í‘v‘	Öª¨(XDAÍÚ¢ª…—€)Gò (	¨‚¨Éë[xÏBË{›§
-'¯+—dG'¿ œm·š6×¥šÏÌæ¯Ğƒh5ˆhÉæ›`#QAã2Ü+mßès£y.umÁJ‘_bñDBµæÂªIü'WZ­
-à÷¡¶Å¤­1ƒÔ×Äæˆ”“©€
-Ú@öŒ#Gp&-É#ju»Ré¸Ñ+£SóËÓ*,cô#ìWÖ÷šìNn·ó~§FVú*È¶jÄ>ÂÒi×è.’†»˜30ö±{¢Í0AY…Z\‹U8BÑQON†Ë0O&b	dt‘Ï]£¶‹qoåÒÀĞ­ı¯¿üqçÃ›kòÊçÇ½W÷N_]J.½w²kş{´­
-„í(j“ç¾whk{®sb÷NmºÇÖuÈ:øúÄñ‡û[v7ÉŸ+Ÿø}Á¯èùíH“?²4ù[³Ôúa°_ŞöÀ=Á=2£‡;ÂİáÓu?§ëŞi‚rv½³g”nŒ
-äİL¸
-çLa®ruxİhºâ2AU¨š†µxµ(µx¬jP4ó£AÈ¼<(Ÿ“Iù¨µ¿™fÁ‹ÿĞì³¡ç‘=Æ¹âQŒ–+à	®pî<Z`íÏüÚeÓlíart?z`I,„€ÿ’ÿû*¤†B4÷ úY)
-ä;î'(/”o‰‰n}ñSl†ŞTó›é_×µôY9VZı¯GO\ép	{@;^U®6_7ƒVµ¼zƒ0js³i=o Å¬Ú,7Hy•*Q]Ô7Æ“-Ñ–ä†è†äù$J“°Çãº§’·’ÿLPk]Ë±NQD8’¶Â ˆá(2¯H§`eºtªZûöc¼j¨ñÀÊtV¯`
-ÛSeÓQdÌBˆ1ÈàÄçñù°öX:DY¹õ^³)`ıé3Ş #Æ9ã#cŞ %dmfÈÚÌµ™¡ˆ×{H Ã,í\xLñ˜à×ıü‰pU*O’Íd…4µÊã>×–t-[ßÎ­fV3èè&ÂªİAŞRîx2s…2ïI8R”Ã|<C¨*4+?Z_§ñEg‘Ø‡,x*I&Hk–cÓJ·uşVÈö5˜Ïõhõ[nÿñÚ€òÓæ|9æv½9ôÚïCŠƒ£åzeßânßgê•¾@ïÄ–x¼]œé¾=ºyìê]GÙ
-á@¬İ§'Š6yÂõåŞk,hK%|ªíO¦Û[„I(±†Hr^È1„®w 2ëèàï kèYC4ı,å¤Œ¥ívƒ*Ò^W£Pt [ÄxbØ<ª_Æµ„jó/¨ÑÊôÍlÙË~ÀR	Jcš8Õ¡
-j %¦Õd¶•*òÆ³Ô3t'·I,S½t/ÓgïuôzröEêyz/7÷äÆÉqjœ·ïç:ö‹ÒşĞKúkä1æéˆ~Ä8š=AŸáN
-'ÏN‹§Ô·ôSÆ4s½À]L‹J‚è³ô,sİ^|lüÆxÌ<æ¾>mÒwCÙ£,Ù&î•‡•fÈ]ô.fˆµu²]Ê&µS'ûÄíúVÃÖC÷0ıœ¤	;9©AOK)%K9v†ÂËi	ïš’h°Éy–WVô248¦˜ôBœµ:*kùÅ/ğµ"Å¢h6±’Ä°¬]Bª'ËA‘>QPõ”¨zh–¤œ“Ål›X¬ÖFfEÎªÖ†MŸÁĞ!ÇEDô¶$™µÛñáª%Ô!éA†‰à$ièYŠ¦ñˆddÑcVğ&UY{rv;ÃĞìš·©óY´gWÌBÓXÉªÌDÆÈÙ3^ı±M\wüŞùÇÙ¾K|>ÇöùGìó9÷#¹ØwãÄç8Ü¹BƒF´L0›:’°u…šiĞˆ²iüQmİ¤‰jUY‘*µ¥Y–’"N*$ş ©ûc•PWi‹–IiŒ˜}ß]Ê¢Nšvç{ß÷ŸÏzï}?ïóùÌ”/”=;ÊÊåI§q»¼R”?ü9¸“Nÿ:E_%"…îÛ´ÍŒ17ó«úĞùÍ÷òßztİ½ñå;IöÏ®Şu$¢¶úé#U¸æ>g}%m¶ıÔ5ˆüºJ`­‚éTÓ€P±Büß%Å¶7pSlc¯cXİĞ‡
- 3b‡ªÆÛ¬,.ŠÏÑ–ë`@îE1 BĞ|Ùµ§1—.QTQd÷^×‰\º,T©SÕÇ²Zë%µõQëzWë™"Ó±iİã«µ^D¢
- ¡£Éd´›d»jıEäEdog\öm“äşÂ™-z>ø…÷ğé„,I’!N¯RäìôS}r´ø¡«»òâjüËFL¥„O÷0¸™·Õ–§×Eõ\ÄKñiÀôœ¿>¨JÜ¬É%¯œ¬‘2™ø„NAŒî%öÁ#€³'"¨-”ëè9â{y—m·‡Mí0Ù¦­ÙMO'Æs…şg‰ç"'ÅIídñçâÏ
-—Ğ%örş²x¹p©xY_,,J‹òÕÚ¼õ!ûAúáCs©y‹»%ü“^if88QèÒÔ’®³gCùÅĞ6`’šBÓhŞhzWDß)¾ ŸÕÎéŞm/³7ï	’…ø«¹55¢ø¹ê*}=ÿFş’w¢7Õ´»#r‰Œù’7-á¥H§ü© ^Š´\“1®¼ãk@ÜZtTÌ:+FX‘³Tä,?K¥ı)Ş¢U ¡UO›>äMû’ŸNÊ"~«>˜®E–Q±¡"œœÛAï½”^§@¢Y«A‘©dÒï÷¾a!K#|èi4&Ñ;h	İF+(„Èûvx£°K8$x„>B|M$Åò·óvó'Ÿëî8Ñ;ãÿ1Yp;'‹+C$µ¯Aêÿ‚Ïú2`ˆsV€¡„¦FöÌë¨[Ô7x@ib}s4H;¦O4±òÔ(OeáÃÊÑÙÃÀ
-l›I.<üÌ2f§Í<…-qS6â¸i>nŠjÜôB¶]‰›ØµÑ&ÏrøË›æÌb€3E3kğ’+aSq·ğğc‚47l€ğnØtåñº‹pJgØÑÈª¦U<ÈX~Ô7ˆ,+ qÜ›ˆFİQnd¨pâ»ûV¯Ö3±t2>mİ)rÛZ¹Š´ar²[ÿxæÕƒäñ±!ãÆß{¢L¸´}bvìÛIş­µ}î€O’”¢‰Dd3zºõJ]‰	=Iò±©=O¡WĞìÅƒĞò”2ÒæÖïQy@ÅØXAW8±ı(Æ=XEßeGÕİšóˆsôÑ›VÕ6öóû“c†·7ñ|â„|B9Ÿ8§ø“¾¤Ÿ$ŒScÌğù|05Fzó„€º(UéR¥’a<lã+hµ/»G3ûSÇÕã=“ÆšñŸ¡Î¨3=3ÆÅ×ÑëäkÆµÎ[·á¬–šU=ˆ"ÓÈ•ã9YHçµ”&\aå;ÓÙ.™O$Àdt@úS †‡¨¨ĞRy9¡«”P)Eæ}9D.—ÅB>_xx<¨ÜuD$®ØaG‡‹v H:"ú~ãèø·¯×VC±•1eR™Q.(”²@¾úA“§¥@á5RüšÎ[|àgÖëš8ˆ.ı Î\¶"nİ=|æêr]!!µÚ™šÂöM#…÷	>FHÅLƒ§0cRnÀ	ı.ã¸3ä8´qä°°Ğü NËÿâŠ7ĞR©C;­÷3òÎŞÕ%ìZ?|LÿR‡LnÌê;†Q…À5¥'¾¶ºÚzës³€šdíP_!$I½½]û[[Ñ/÷—2½I‚ ‰Ñ‡Ës·‰>bØ3êò‹-X6^mËÆ;KS%)@ÓänÉ‘ßÁT\ÌräîJöŸ+PÁ›Ã[VqÆVLÊ‰T±„·MÂOJ"ëíî5ú;/eìÎN\Fà+fááM;‹1Œ÷EñN/ïŒàY)K5z½„¾l-ƒVçLÃıº¾Š·ó¦véĞp€¥¥?jÚ5öæõ²¡iiûy¹Br»'äÌëÍà|ÈÃiÜ)âTå%â<}¾êïäâuÖš±¼ÁÌ6ß6ÿ&a“¸­n[ç:¡vJ ÄQ´54JV·ÔG‡Ÿ¤ĞgƒgBgèğWã?ˆ“9ë€EN*D£Ô]ì_yÇzA“Qi“ÁsOÕ«,h'¨	Æ#8áYÆË4 O>¶»is€?Æ{tşEäOLğŒ†İ aÚ“Å™"Y¬Âº-x·#^º´TDÅ	‰¨´1L?,üØÿîÊ":BtşÇv“rÒŒtAòÚÒŠDÎHHbñ i‘!("20gÆĞ;›ÖÍ2e·›5FÍP–B+£5²aäÛ¡ŸšÖ¾¼|wYû­±ª­‰;öŞ8 ìîêqvyÊZÊÒ"&£iº‹+r–a¯ğv•0Z›«C™‚/:X¨‘ş`  ıyQI•6"ÒÍ\4œkË ±0ä33D-Ğ/ j?ÍeØj¡¨û)ìâ¶æÇzzÀ}	ESÓf7‹sxA#¦­se˜i	Së„ùvsPhÇ,ƒ‘*`ED;	´™€'ƒ³=E›!ØÊAÇÄÄ Ä I|†öÂ<%8|ÁúUû1Ñ |ã—èpû*}‰x"F0ÇŒ961‚iªÒGnşQ×Àğç³İıõÉ]–$“º,éï\<¹}(Ã…a–‰5&—ëè§½;6>Qû7ÕUÛÄuÇß»¯w¶ÏÎùëbÇvîc'ÄI Òå¨SÂÒ²d¡I©‹ˆNS«Æ¡C¥j…;ÊP +Ùª¡®*:Úm jÓÜ•eDÊº©£ÕÙÄ¾Š2¥LH,ÍşÿsZTKwï½»{¾÷Şı¾ŞC/>éï;ÙÅÏ¬_8¼uÁ‚úKšÖ,ÒïOíşüƒ]+ÌİÖz ãšk×ç3k6óçîÎİàÇÅ—‰FÒËÌ»ZD«Èe1 Ù ÿİVia†—ì
-ò\Áçİø¼¢„*‰À9ü˜G½Ë‚$’p¸Ì‘vàmûµÔ´­Â6O¯¥Jê -ÄÒùtBxøè‡}°oµ(&$2"õ…8D/çÎilCåßgñ’¢$^[€ø%¬MÌ¿o_‡¹w‡š¤G¥3ÒûTÄdÖ[f$¿Ëo¾ÏïŞâË¬“Ñr Æ½Ê_èU*DˆhD5é—#Y¬‹#"—‹Çyñ¦¢Z¨(ª»Ç=èqE8ºyâVİ†»	ª%÷¤›¹ıgÛZÜùÄo´‰„äi[«Î"qfsCÓöH‡Ú½•™ÛÓÿ£·mjÔ†ŞÅ’_mĞ*g(JÂ!—•¡¥¦AÃ®H”Ä¤ˆAÊ~‚$„Ê/ àãàJ`¦¬Œ-t¬&±ÔëEĞ-›Ç$]¹ûµ|øÆ¾ã=o®¯0BÑ:õ7,}2³áàÁ---µÜÇ?ûı­W¬àÇ^_S¥Ægkgÿ¼dé¥ßŒş:€Œ²0ÔîaÒÛ'e~á\•¤ &$1"Ù i‰
-Ë›ƒ&gÂ’Œ!Ì(şi€ëƒÊå3è(±Å<H<Èw*×~~ÚÊÄyDˆ/2º­®¡™ÄñëUº¹¨Ğ+öJëX¤?Ê·‹ER4OÃ†dÒ˜"Ëi']ê‹nŒçCùèöĞPt¯ïeÿˆw$ô=ÊˆŸ¢ïÒ‹ìbø_òè§Æ-’¸.ßÃ¾}ú>£Ÿ‰3¯A57E8t#(ÀM€‹¼Y49bª¦aö˜8¯ó°9j–ÌIsÊœ1İæÖØõ
-ZqQK8X“k ƒ…ÕêËÀ$]æ]¡İÊ~…SÒ*i"É“A2BFI‰L^àÈ±mU»ª¸*z¨ŠV£Šå›‘(‘TÉš$K¥ì‚ì8÷Cbk¨°v:7T˜-änlX¥RíÓÓ[ºoøæ)æìmm‹ñ¯Ä@ÀÖÖVÚJ9„ÉF$j(İ;ãÏˆªš¡°ô • Œ¥·Õ²àÑ@¬ ‘:¾€ki&6Ö ^c‡T»@YÛø®ÄÕ]¯ÿ“ÒÓ{~¹¸~eµ×mË}ß<2¼éË›é£cïQéúUêÙ¿6™N·ëÕ]›½›mÜ³ï˜»!ˆ P:iàœÇV2m!²I!Tr`6ØˆÓlÁÒ\Ê’ñd(4Ã~®Ş±lH!ìaDßáÿJbhÔĞŠé>”.Õo9<\Ÿ?@ğáêëy;q r¥á ó	ãä‹’NÈ_È×·|Ğ‹.Ç®ÑÁµbùÓ]ğ7.ÍÖ0M@Á‚°4„Š
-8sx7’‹ìgìÉI}’”n´Um"U·Tiv98˜\n¢}”¸1NÒs¥SÍi¤Èı©Ææ|ú9á9q¯PLŸH—ÒÌJÓIkuÁTŸØ'¯K`l£Fz¹³Ó¹Şùªğ³ºÃiVJÏ¤8Ã †ù İ.ø@›Ñm<flu>a<k"‡Œclœ]¨s%e²ÊWíïÆj´UÑêX‡İ\B}Ğ^5½Ö×ë¼K'.S10`ø‚y­¨Ğx]Ñ8íæ¢	Æzª¶±Ë³-R¶1»³¬2f‡rm³møƒôâ8ò¨ÚúHÔ{2Y•L	rM")/2HJ€S-K´N¬·…‘–%1×Š|èP!şî\6bqË=e,Ûq¥oñ6r_b˜»˜-v˜ºóŞnPÈª”›z*L-Òàú|¦QjÛœî`Ãè_}ßİ÷ß§kqĞÊ»×tF½ñÂôjÇ`¦ûÛ—.ÿ	ıèe/?J$Æ??èZY¿S* ‚Äc[0=Á&‹P¤#D…,”­•X±¼^/Ôˆ+’ğ2ÂTÆ1¼½™­®ğÎÍ}d÷€Êå³Èa±Ëe&h@¢*—ËÙ°;NO”î™q,X$‡AxÃV'¾<ˆòe|‰µ!¬2ƒ2°<ÇÃL`?ŞN
-<¾ŠÁÔ‰I„s  WÃ<±
-³Øãl¡€]\òxôê¯Zxjb]<w>—K-±Ç
-#E¸[aßÆP.œ'ùÀG¼6¢Ó¢ÍŠft•3ÛÕ,ëhº±Úfûro]csD
-;úıi+	m¨b”wHÌ!+bğëÒ0÷’´GÙ«îı”;óÿ‘û¸âõ÷ŞïË³¼<³v¼Ë.UÌ0p:æ~‘ãÈ	xÒµÌ±šëttëë¸uMÜ7ìÿÄÔqÔyNsŒ:/rÿà¦”[Î€<É(a“Œ+`‰k7‹6Ê$ö¼ MZ‡ê÷e|ƒ;ƒ‡‚×ƒB0ùƒ@áN‚QıX\µÖø2¸ÆF(~vEÖj#™
->¥íÔök¼v+(Ê´I‘¹&y¿|]æUÙ’a&ò¨<%Kò1OP Ãˆ+¾Şò5y,O‡'ÕcxøõàH°–luv>¹À`ílcK!Å4ä|f!•òÂ'‚¬ıT²6lÚÀyÀzÀbh´¶’BfûOK„r\aÀŞàÏNäã„ÁÛ\ñŒb5dÜpÈè8µV.P#NFÊ­HùŞ|ËYn9Ë-‡İ²<LPgÂ†7ã†Ã–‚¯¤ô¿T‰9hyå¼ƒùĞÁ&¸Èô	İ²eÏ#»ôàåWß¼ùÙ™×.Ìî¡?Õğæe½»¸•W~zó3á¿PúñMÊ~wlEÿÂVëÈCİ„ğÏŠ/‘'Ï³;Ñ`ûUƒ…¶Ó`!±#)ªşŸéª‹mÛºÂ¼¢DI´~¨K”MK¢MêÇ2mÙeÙq"ú'^*Ç±’8qÍ‰‘Úa°l Ù—xÍ²­+0ÚÂÅçe°=4M•F)–ÆŒà&ØC0lH›A†xºÂ¶ÚÙ9WòÉä9<¼÷R—>ßùÎçâˆÍ•$6¼&^x×ÿ0¼P——BŸ’”‹Cz²'ñ6EÆtWIóM/gcºò›kÂZ~cSØ¬‘Ò¶ÓëÂ'ø]Gá»KKw7ÃÀT£%É)°’-I(	‡$´¯¦?ãÏFE#Ãõ_híri»ôOğøì[ûŞŒ®4®ÄØQvÔq t™½ì°¼k&]ÚEy™[¶®ÚVíW…«š]à Ni?“2I6W%l»ÒJ*ak•µ‘¶ğjø^Øö(j¤ŠÒíI¯‡³Yy¼J|°‚·jÚºIÚSU"ÎD’xİáŠÛMLÖfg3ÔÔl>_³J7µF@’3Ë.‚)~ÆUv­¹¸8W¨ã#–c­µj¦–”›ºTÙ‚ùræÉ°PÈh{a0¿Ê^å¯÷bjcL$$&îW$Rg¤h’<~È´ŞFY‡tËê6½$ Õ€´cª5L ü{ÉuIİwtûQ21ºyóÄ­ùWOdÂÁŞB$ë4¤§ìÁíë‹­Š’=k:u`ğÏj¹°.ÏçëşÎÃá~ÌŞ1ö¯Ğ“ïa^bN²ï¯{Åwb+Y–Ñ„’é|ûù£&¦ëä¼5çû&Ks}çbåÒ’yÉr)ø#qIÿÙ¾Kû—Æ<ùVğ-qe²j¾c©+â§™OÇ×JJKÏJÍMÑÆ^A÷g#%Ë¯m…l¾™	°Y¹ĞÌ„F¼Áír:x»İçóÛm‹*ñªÕçŸW¼ÀC*ş;ü<Z£ÁÛ_UßSï©¬Z%WoH-‚Ø‚¡†ÇzWå÷ä{2+×çPSdkˆËR0 Z0 Tè@èŠ~â¯›á›³‘‹6p<°ŒMçVFÈH•í6¡ß"ÅĞbÈºkúÃ¸&˜A¸ÅsÖĞar¸£Ã=ñ1›¾Ã¹Ÿ™`ÓFDH“¹ôRz5Í¦Eä×´!‘Öû;ÙÅ)2…{sZÁùcEğSçó
-ç™Á;HSj$A4ƒM™¥™L”k‰	sÂ…#áÖ×„<8ÿ4¼X0ç¢¥tÉ(]ƒwn)áT©Á‘)¹–Ş#cNëˆ;PÜ‡b_}ş•áÁy6úUÓ]Ã·’'ùî4[dME–0¬ÀšX|•¡–µ°*‹Ç6Û¸GöÕS¥È@×ñï¿!¦R[¨å›ÛÔÙL-<Ró[ô"µ€Õ?5/<Ş­°Y'…í/‘"òÂæªŞ08KTîË_È&à‰…¯7¡)KaDıB…ÈÏÍ-T<Zø£ˆ»0>=°_Ñ¥– H,1µ§»·;ÓÍrC±ÉX§Ú;®NIDÚ–˜q}"Ê“|”ÙkÉKLQ›˜#©©(Ç$r,>-‘ãÓ-Í0¼ys°»%ã=k˜F¢PÇ÷™%r¨ë°ÄM2ûƒ#CDLáÏÛ=Q´ÿÿÓÀÇY˜A²›§Ôfğä¨.xû;!!Ş÷Rıt’Ä Å* ¼ƒ•À
-<ÔV×PvAú¥wPVéSÙ>:‹´Â J_z&#Ü‹Wp­OÚ¸viö)ËYXwêû¹õ_~«#"§¥òg{gæ^ûåy¼Á£[ÏdRı¤±ğÊh¦xğìşŞw¥^¹[ùmoæİ¿‘CÉ_œüéºaáìÁ&ŞÂ(/~èõû=Q«™µØå#ó/_™îÉŠ¢:l9Òi;múÉùW§‡.¬şæ‡½'Ô´²ïâL `ÒgœPœşj.kZªscKÎ@à
-¼‡§DÈ‹
-^‹Mx!‚X£˜ ç±AèÂ$cÈ–ÄäŒ×ˆlv8LÇdº†¬‰¸†V}şŸ
-FÁÙªàmcà<5Ü””éz6ÄÕzáPáHÀg2@¼nİ°Ã\=ËÄ=-f+¤uWjA`İ§O!)ëz6­Âú'=ÂzªÙ ¸ş‚6<‘ñ"$uz†'Æ3°(.é‰ó”~yJ¹<¥e^¤!‘†DÅ\‘iX¦a™†eØÍ3ZmÀùª‚7Àùæ6ŞÓ´\_µ)i×ılº` #7<WÄÍFWÎh×ùÜ,ôÍnÕ[Ì-çÌ7rk¹96Å‘bn6WÆ‘#Q›˜{ª¬Ûğ´jÉp¼ĞÊ'ÃB¡MN†cUÖet¶éñÎ¡LX%Ñx–¡»„¶Êãø¨Ø—yrƒ'n¾Ì¯ò÷y3EJÕYéŒhEmV+kæEmY3İĞ0–¶¦=ĞÌÚlßuP‡Â6”ØYn×,ğ2"ö2èéï§Â_>-ş&ÉbãÔæ˜d	IÄjk²¶ =h)AÏ/03ŠW
-)ùaˆ\¨su5‡œ•JCˆöôewƒ ÉÄÜëC‡ÊÍ>Ÿ6vö5=<Mw¿VhìÛØÛæİ‘¦Æ.ñZ~¾}öÂşãß6~³ó»é¨()J<&"£oŸîÊLîH§;#ŠâãsÇÙ½5õÈ@[>'+à¥i5½TCÌF"hÁtö:iº;e3Y1³eŸÈÚAh-ç1M|;ª@¼Îgâh»SÜ­øàü½R‡Ûã]¸=¼EÑ­‚“òœ|h¸u0<Ëv²Ø‘ßÆ¸VÎİàC(ê3Â£š”„$«P3Së˜c»HpF)dzÆu*ããugh¨æ¡¾>î˜Á†»Æ™ğ¡•[­>ÜŞ–!áL»]isR<8M˜öNŠÜY"Ÿâ"·kRÚ^À@McÂo´‘ß˜¡z¤…Ğ²Bf•²²¬\S)–¨RTL$Ìµ¹šÕÒ5Û¦Rkt†š2 _¡Õ™{ñĞP4,:Bß2l¥ŸaZVŸ—_¶{?rğÍáÎëìwgÈ©ˆFª_ÄXSv ³,’¢HfÅòÿØ®ºØ¶­+ÌKYM]‹¤%“’I”E[¦éP’cZVìVT›Øm"¥^c9Q7Ù¡öSÛÀ†íÖìa(°‡ÀÃPhR`À^ç¦?s1l5‚"O+`†í¡¶¡kšd†ì]«îœ#Éq°âåá¹?â%Ïù¾ï$¶¯&î&‚‰«ù«?¥tÀÇ¾ƒ9 Ô{§+Syakj/hKp@¨¯³-ˆõ™ì‰íÇ5…u¡×öÔÂÂÔÔâÂ÷’åzçÑGİÑÁp&uh2ÊâÁKØ±85µĞÉ}n®U!S‹-öå—§Í¤bm@„h‚0À!j+wz(ï¤¼“ÔšƒM£–QğgulÙ?¢hDÃwº?Wp³¬îæ!‚{—ĞÛÕîİ>Ê»}”w1p0:¾J.•iÙ	ÙHOÒ¡àú%`ı„àA¤ÏÖÏU„‰$§Gã oò!ÊÀŸ^“C€ÿÎ§GŸ;{{{(T€³wbX ^|·ä¤ˆz[©f«âpHeğûñàËòvd›_V^Ñ.¿’½R}]–«ÉjêœzN;—ı†ú¬ölö²8x+s'+^ü~ôzàºrS¼©ÜÑ>–jZ-QËÎ›µê’²%[‘Šâ”j›Åê<›WÃ#j‹=©®šyõ;£|¨şC>®=–½6xMş³4u5›Îf‹(¡ˆ¦Ä†R<­d¢ÙĞé@kàt°­®j«±PRI§3ÙÓâ@/i‹s	L*“©¹àÁ;z3ş<°J8‡¿îq'n‚—ş!e!JÊB0>¥,tİêü}V"RB6zàƒÉ Bõ[ªÂDm8S“ÙT&éÑÆdq0##Ïòs…bİËÌŠB$¦ª–™›L4³Àì%&Æ™)˜Ù(ˆŠ¬ª	¹"Æ.»í7ü7‘ˆ‚xO&r¤Ä/rñ.g7ø¹¸Á÷¸È‹†q%Á©l•U˜«X\Õİq÷ÜnpÅeİmWtÏÏWwÙs¯ç~ö-ĞÈ§îmn­/6QıR·ş‰æ½uà«}’ZÄ®Úb·Œ’*Ì—¢nÂ‰~W}÷%©g0 ÑË_õS÷ºíKØ÷n8Ü†÷³µµ	õåú[§CØ6Aj¾-¨6qP›ÙIĞÍp¦}¼I¥*"ÊDª¼hU¥{ì^8\^Óªım³u`ETœŞìDÁË„BápŒ)âÅJM†èatY±rŸ¸y‚K¹	véÉoÖoİúÊXÉJ>Üytbt²ó×¤Ûì¸Kù‘ˆ5S#SSƒ—>Û|ÿØ0çñ´hš¢»ğûÎïÏ£²e±‘˜q„=Ó¹ÑO0ËÒ"FîKG®,jyDš‡€@šö£>;@ÄqbaF˜Á3aã(’6Àø˜ô!ï GšDÀ ãƒ7qş
-ÀA‚3,Ä  "±8!D|3(Y_ï9¨øÔë4_!Fcƒi‚fDSŒ’-DÕ¥,Ş/2º”Å¹¡? Ûj#]–úÅ¶±gÜ5rOmi¯şÑêÂ,3®]˜[1˜o¬çcÛx†¹	Ÿcv&TÈÇCõX&~)’fñŞ2œHÇ[˜İæl…³ó|ƒoóWù]äWõ¤Ó_µÅû4C´#–yYú‘ñ|rv¹S«¹©h6‘šÔ˜¼ôŸúÚ|šX$à_^îjb‘P)ğsáLà·=1ÚT+´}üV†FŸVk5J}¼/áÅÏ‡_Áo\rh”S®,õG-õG¡ÇÏá¨¥úrÆÕ)Pê(õFÿ­ÑŸ×èóK£¿ ŸúIÛq™†CÓšîTàútTTœ÷ïûœW9„W¨„Á¡‘úE\£¢Ñ­¡™È´†Y"¢ÜıâZws
-×€û?øjŠ½şÏ FaSOg?†òÍ\^mù8¦ØbO´m½Ø
-´ÖBËåÄøt$¼8ÄŠkçõuĞkŸïáÑ'4ºÿ5{¡-Ä»C×ë¤ñœıÈ_„åaõH8^m­…åe"^3ˆF*aò9•:İÕé®Ş€}|LÁošg+X¢»Ò­Éø;õV*gÈñèlô3ŒSo£Ñ>ÛKm¿UáÉé„-´ç÷j5eˆŞ¡“«gß–¾øH8gÎÒ½™J$Pzuö¨h6|£ı‰¸!ŞÆZÉbÛm(‰L;“Ø?{c¬bgÊ`ø‘±†Y>1¦Ùª¢7ò)í†ŞÈ×íÌşÃùV¡Y_Í´Iv¥éWíII/¯Á3>ÍåH84//•K	CnFJÕ¬\Édæ)š»Ìó•Ší:Ö|©Â6*;±‚>½y¦n5ÙæJS¼ØÜnŠBSmŠMÈë·âúlóüÙö®øpÖ‹‰]váÈ[SMÊª{XUı¥{Y<uü«Ç>„$Ç£F¿&Ix¹Â~½Õ¯¸Æ,®ç',;Ä¢ÊXtü`Å—Ã6×€/¨àú?eWK
-Tw…û8²ï¨ÇĞ­GØÊ…áÃ_;²öÂÈ3—N>¾™Ó‡ä¹‡:‹±…œ!ŒÖ¼¯7DqäèR§Ü¨F‚¹é'æ¼Ó‡“å“…ÚLŠ4nAaqG¼}A™˜ºpî¹“'[G_è|gÍÔ¡<3Ô¼¶Â~¸áúŞc§s’j6`¥'ÁWöÓÓ•ÎÈSs£–5ºĞbOÿd:×ÓÃ\ÿ$;"î#™GHV"=\¦6*)z!ÁÅ»|Ú²%‚$‰ğ@"<t§é)ìĞ9æ¹Ş‡'0> Tãoş×…4MNÓBiZ"m'p	›„³İÈvW¢‘Ñ9±MÆ¶pH´J$ƒeŸwfè×@ˆ*œcpc¥X3áÔ´HXR,'Ş¾­‚@†yPÀD}Øxº¨cã«	µÊdÓ”»ë+–Dì)RH„’.¢K'—.¡K×½Y!M#ÓäHSgš6Š^»6‚	°moö¾(íªÒ}Î-Â¶P™V«İbjÔ?êùSäaş—¼ï¼·ám{ÁÃÌ'û"Üíx¡ï†'îxì<8ö¼@ZÒíŒ²P|mÌ¶3Ö‰1ÉÎDOäÓv& á»ùraª^Ê”ò3GhÇV>¯(QÙĞ­ğ¶Äv$¦HÒé¿d—klÛÖ†yHŠ’HI¤¨‹EJ)ëBQb$[²(Îj&ÎİMœ.Ãb¥Uã®ÁŠ5Yc»Ksi“¨E›,kë€!Pw?²†\Ğ®N6FçeZ7ÁuÈŸm?‚lÁª‚Y[{ß9’œ 5Lò˜‡¢Éç{ß÷»îb]3ô¬5Ë©œfn7ÇÌq“­›Sæ“¡LÉ¤Mìãn(xs¬Jl›T9ÔøWÍc;•â‚®T–K™²QM+LG9¸ˆCm—1Tqm~)è%óy\É_+àV„Š|øäƒPFÃ?ÿñğ>=ìzÖ.ì2Ï®ÙzğÁ‡1¸¡GÔÚuØø`øÛ«_Z<¼SS Ñ42â:xtâ•ÅÎZ¸*mãô­s›T\g4ˆömæ2Ô™HuÒV¥Å ’Dç!q®ÙÓI‚ {•Åµƒ'ñÀà“,¹ŒíH»)M5‘ğ»@À…ÜÕæÔçñu*şp3¥²AB\Ğ#‘'‘øÆ’€‡,÷x´8‹X†¼ˆ|	ÜØ^/×Cè—áß„ÿ€®¹ç;o¹9ù<Úä^Şz½á>%ŞŠ:5»ÔÇjC€İ´†®†®©´­¡Í®öjd¿ô<äÿ@‘E7ğ~;;Æ³Sì–c?óØ0i{¦¡ÅŠGòÛ¤{“ù­ÎtÃ²;†/ll×EO|óEİüÍ]£³”gibaÓ–æ°şR™ÅRA¦tWº}èOp‡jëˆúQ§œöeèt,Ã§¹Œ_êT'RuvÃ(â„QÀ+é(ÊÀ.$tè”â€]³YşÛ@8ouhhÔö pGø#¾#ò¡ğÈ˜«V…FšÛ“ü•(l!xè…
-¾S-ŸAKv™¾Şşş.eÌ$8Mİ8¶÷…ëÇ¯yæèÇ;úö®~å©cßÛÈœëäù¿¬Ÿ{ı×Çî\3øÖK.şõíßß{cš¥û‹[˜+ÀšAUè®kæ€UµÄçğç0J|$ P:cˆô0	g ®ï¶óÑ]Cä%ÁÉæeÖÇ©W@[;pËñ£öõW9§AT˜"*L! ’[ƒ.±äbShçæ¤« ¬EBl[Z/S¥¥/ßÃ –xÌdy~`¬p Ğ›ÀáEıÛ’°¦ÃUYÎgPHñÁb¼¼ ü¦¥¦2¢¦b‚xŞhŠçBS}ŒÀ´V¤ÍÒãÒ)?{ÂBÖàÀ°õ¸õ¬ÿYëy×aÿaëU×9ç]×}··{`´\íİ×ËÚ¨èb²¦€X¥œè
-@¸2’”‘1âÔ:ZÎg¶ õ#¼Ú‰×¤D|¥Ÿâé1¾ÎŸçş_:˜AÏØQ]ßOĞõ¢RâBb.q#áHŒ­ú`¸ÕÌ¬–ˆ*N6pCÓ€kÒßQ‘ZŠÈø$œÑz±Ïéu¥{3LwºÏYÒQÑ»²»_G=BA§¨etA('&kÔDdÒåN:˜C'áĞh˜rxåƒÉÑLˆ@}­ C#5³ñôÈ˜øáø;[ú³¥Êğ¢®¬4!)¤Q¯Û÷ı{yì	{´»˜b*“Ÿ~jß«7g‡Ä‹wŸ,ÇÓizö0ß©vG|ÇßÙŸ\5ºí»—ÿ4±-"ãNË@¿,gÑ{-’³9B2§uø!Œˆ†Z×Ãı‰ÖNZ;7h˜?Y#í“F‚†Fúr!’˜HXù-À¡2€³oÄØo7#ëŒx@j÷!èB¾–¤ù«í¼ĞVá$¾]>»ß}ÜM»áVJpö“>¯ñg÷mX˜ñà}<§i9óåÃı©âàÂBmÙé£ö~Ùb‰.‰6m‹¯°N;‡vç†Y$©şDÒ0ô5™¸±â…œ?¨KˆÔİÈ]‘<ÈSeÊ	¹}7‡lq-‡r”?¥išêú”NSº9~N¿¡;ô1óÏ1^Nâ“·'&1«¥Æd£æo&î
-ÕÆ’È$¸0È[[0\²«[®ÛÒ-ßE>xå¦ŞTrgH­èx×>²˜ßĞ¥ğoRÕ…˜óŸ|2dıëƒæ“‹›5ÀbSa’zŸ~û1l³ÀË¥ÛôŸ—¶·Å‹Q&¼”mì¡4Šà÷"ø}#1ªº>o$Ä™¥¿Ã±Ü•ğ¼Øãtb‚•ótØö9#]DåœÊÁ8z:âi]Ecê¸J«²@Î×jàTE8Â¡’7ˆw^¸¹ İlêİ2¥„h¸Ø\8.t®ÇÙ¼";Ğ^Ç‹Ú‘Î9×ÅÑøât<-¯ğ¿¶ŠiÅrIuùHÖ4d|0Œr©¥kóÍã<8]­†7i~¾6(ÍË˜€EatL·¥X´,l¡be…J$XõìÊœ•~’rğN>Ë›cåñr½Ì‰å¤Û'A"?ò~ä›OÍ§ÿ’ü4uËºÃŞIŞIİµyĞªYÏ­8jF§éÓL=TWëÑzìÔŠÓ¯ˆDšgÜ.Æ[v]KºbL8(ÇÂŠµÎ¸Ïğgõ7“o¦9ïÍZ[¬‘òîò!óuÂ÷«äùò?™;1éê‰S³ti¨ˆh4ƒò—¨ÙÂRm.Wf£qUS‘¤êğäğ¤2Æ“]²œJzV4ÈÁG¤
-Å\Eá‡ªS”È³Á†‹øÁÒËÉ×Kü'Á$f˜ -Œ‹hL§DFœAı¶b¨JAs!—5m 1cÜ¨Œnt´qéT	é‡ÛÅ±µ1yDØ¯jC£—–¨V­Áı/-!‚‚7nÃ<··¥F«Wí¨@và!M§¼BĞëNú
-yßQi¾¡¤Ïî5j“HjÜk4ÇdØ„èİ‚îööRù*‘ÿXÖÔtÉÏ95?´·œéŠA	Çc”3ëˆ¡¦ô¿ü2NÈğ]î/œŸKŸû¿È²µ*4¾PªpR™FÓô43-üÌ;šR§¢S±3]?MN¯ğ@ˆÉ£	
-r\&“ÅÔëÖÙÔYËQ«âhãÏêJÅU*Èæ+4lQz—øŠŠóÂW
-pÊ"›»â‘âòÿù®ÖØ8®2:wö5}ÌcóØÇ¬wç±İõ®ïÆ]«êNh'¡!¡@SÆiC$R”…‘ˆå-J~àp	R„D'qÖµÒ8U…"‰%HÔşE(B©d‡€BA×á»wì’şaå¹ßÙ»÷^Ï=ßwÎiEÜ ÑÏèMÔf±óàöŒÜ,x!aVnVÙ›KòæŠI°„KHÍŠ!áßÜuc1kú„¬ÁÜu¥¬1p)"¹¨òÿûÀ»!åJ,àz
-,•L¥¼ºE¸® öcîê³ŠD¨a¾Än‚>·yË3Fnì•ß]:ôù¯ç©H>ŸşùóC»Ÿ[ısoïkßÙ¸£_¤°ïÕ«?~a{ïcN©:¼÷ÔÑ©,§¡á—~øÙæĞW6wüI*U †Åüƒ~Ü…ÒQw­†™W‚–qqâÃ
-f¯pBF™teBdrçÁ}Bx2f>"éğ»ãßÈ<S‰%ãşÒg(&ë.-ÖVŞYã°› ÉjŸ¬OjŠ¸Ü$iõá<nwª­wTè¸qÜ;À#>¦£Äş8ÚGd9 kó:
-	 –7@X0 ¼C¦À;%ü_$‚OÎ¤²¼K‹X¹w—FG„EáQÏê–Ëp¬úl
-7ÇĞM·2Sâ”z9q9ÙQo«¡éšÔĞÎğÎÈXx,ò/übB±_2¡¨šá&®ŸD¾DßÚn}}4‚áŞtòZâıÄß¾Ä¾¸ş{Šï e·b yVk™3:C!ä÷Šñ]2jËˆ’ùŒ¼ /É‘ƒòô¯'×\—XYaôh‡¨`n»·0u
-+ğÕ-ôIÁ%AmIF”Ù8v¯b¢ RÃ¬;Ëjˆ…ÆFàÍ´ıÆ~'ÿ„hÚ›«Ï>ò£oö¦Jş+«ÜÒıÍÈ%çù½ıc{é¯å“û·Zû03Òà@»¾”I÷­¡*i»=PØ0Xo8øÖøXÙ5pË•‰ü×È@MJãqÒ:Ü¤uÇ {ğ@©¸n¢Šä¨ÌT¢|ˆ¾€ÃQµ›åE8Q-aeÙÃáb™„…›å‡uÔîËìa0>†ã^‰ÍÌêMÉ#Ãq;ˆ€
-šßiDbi~¦IcyFØÃ‚İş“`OÂú…;{’d[kØq°7¤YÀ@l‰=¸ˆµì=@“†ùáŒí¯ó¹Ackn«Ğy'öùYÓ.06ÚÊ2›ŞÌ04äÊeš@Iøÿ‰r<Çóyƒ(u¡:€¦Ñ5äGú’kJªV”¤]òq™nCsFöaĞk°ĞYo÷“:¨àè£0ŞZWğÎ?Vj@‚‰é˜–¦Q2iªŒ„Ç-¨Q4J€'Â?(4Öqº-ÔÈ¯¡îì†oo,ŸÌÙÑÕ;½ß:2´ã`%=°mi•¿ñéæ}'º×§‡ÓbáàÛíO¼ÔFS›6èÈì¾ÖŞµñ):ô™ÚŒŠ€ÑÀ¨A_ñ0:Ë²”&ãoD¸¸hß_ÏRPÂVV–—[5`„ÀVU8VgX¶'¿ããI|¾q9(>Bä¶¤ÉÈoƒt<Ïbù’ço.‚oÄÇÊJŸãU¾¤ú Æ½;Ã7z0=—hÄÕ¸V`{¸¼hHEÅPmmrƒRSi¨ƒÚvf»™R†ÔmÚ~æ§Ìû3íU}ºçWÔëÌ/ØSê)íuı-æ;ËÍ*Õ7µy}¡çºò!÷¡ò­wšEx•söÔI,?êÅlÉ‹ÃÃ^´m/
-^E]WM×c=G¨q4N1¾ø¾ør;ÈÔ¹ºÒÔ\È¿«…&¸Iå˜ê¶*´¬Ä³2¥YJâÄ,dÁ‹n…ÕTCQÕ>–‹³,§kZ‘e Ç„‚¿ŸI&K ›¨ ¦òJ=qHàŠÜ47Ëı‰pGYƒXpƒµ“ÌóÈŞ£¬zH›G:eP,ì7&ÕY¼o5CâÌ†ÃŠ] »ÔA—g…ÔîñŞŒÂq6&×ó¸°ªB¹|püŞ(®ZWù›
-˜Wîi+8++5!XÇÕõ˜'§ª
-é”AW­ aááTûÁuE@ _Fã o.pF2Ò‚âuû"D¶zÌ¨‚ËÉMÆ ™ò	‹‰‘9Ÿğ„„,ƒj°AV4ò‰ 8 T@–e[¶ˆŞHÛ¥Äõ)†ï©£r=^H¯Î—Vç’NNÜà;aZF¡o5HGËDÙoš~1»å£;¾ÀÆšÀ2-‘·ç![*¾Åµl±òY1JW:¸òR¬¥0~ÇÌcAóV«VK5…î|Ê™9ÊöÜŒë’&–‚´à“ A¯U,ÖO9dòoWP…:d"“?ä ‡÷f¯Tzóùj/N¨•x­ÖhkT¸9J‰ë oU?+U1HÓ­FÒƒ)š¶Q«îgT?0?pî›÷00#7È¸«z®¯VK_İ˜QÕœ^ª~ÎÊX«i}!u:uZ9m1¼9P°wRO¡¡mÌpq‹½ÃÙQšµ…¶øsÂ™(µ«¯
-'ğ`s^˜3çœËÕ«æUç=ó=g©š£şP0áO±fÈf`©‘zRxRÜx:ôŒòti’Y˜P&ÕÉÂ„9aµ«©cì‹©c–/Â ÃÂaÑ9§iš
-AV)1+…|Ö J•,ã¢ÙXNÍfsTçÇ2=êºŠY4˜Ã†Š%'^*9€ÓîcØ8Ã° NÔD‘3ãgŠÅ>E+ŠZ²
-ª’â ÿ88‡y´I”EËçr(&â;Š‚6„\Î0(?DT†@’*óèÊ¤ôK7æ¸°ÙbÑábû8ğTgÏ/PûJ…bÜ„«×v©è¤Š.©×Ô÷¡ê½R¬Azë˜‰8tœŠ|¸nÎ#²¨dxØåjcr­¶E[ Î³Gíó&¤9rŠ3(µ»í`îÿ/İåÛ¶uÅq^R²DêAR–DQ²^–(‰¢$ÚzY”å’qÍË‰‹%]“Lh€¦«³‹m¤kRÌpº!ÉÚ3°¡[¿%XA%İÄC0 Å¼}ó–/† E7ÀÍŠ6Â²À¶5²w.%§éÖJ¾<çŠ’yyÏïü\š9oÃ`Ëè”Œ™“c²!_‘oÊ·d›|8ÿH5µV•æ”lµW é™êæ6„‚€Ó• H)<p²ãTb=¥7°Äjtß¿Õé³ û;pì8°?Q¾ÿ´qö†½ac
-5Ó¸…h*˜)ÎëÔqc2¶s"¬	/6÷¯
-š„Ïœ½ëë ¿:äèé€#9ÑÁÆHºs” :q¡SP†—~[¤ı´°=âµßzß›ÖPüëòÚïåÖş!­İ	×ÀK¤/škÿ]:ÛÜ”$Q—ğúÚĞgÕXo„”$×Ñ‡Ÿ’;Ú×)rGÉ…5cˆ ¨¿ajÔƒ®ft¦˜@9eÉğU*pf!ßË‘5p®ùßªbÊÜ4fƒ‹acœõleĞœkÎ=ÇŸM-ßvÜî¤ï”h¶b$GÒ9Í¼ì¸[´õÕìÁª¥ [uNçk)=£•ê;{¹½ü¶ÈÔîÌ®²QZ|Z¯¿l›uÌr³ü¬VxÓv;Ç¿¸‘Š¸­,Çòl.ÊEùhNfdA­3\}?}°:^·t•Bşï“5TÃ7ò©…T9ÀXˆ¾‡H!Ö
-…º¶4UÕu|'&Ñnvø~‚Üüşt¹\aNg	ä‡Í&¦Ê•r©"yæü*ø
-ÈR¿3<#GPD•%fdb.¢T(h¥üYN—Æaµg*¨bµÚ$ÑfKV$o¥"9ıéô@Éé-•œğä´S(¥%ÑQSS†r–m¶õEáI¨ü €ó<®ÊKåó‘H˜q‚Ä|ï˜ùÒ"rÏÇD$b®:¹Š!^ÿ,Ş-8€«±xƒ¬%Â†^¸Z)¤óD	•nïQ'ÇæãËšÊ?›­Õ×VšÊTú™Nî57ª-HMóÀ5šXH™N=wA9ëé$vPÀ£Í¨{ÜJ¯ñŠ¹Ğ­©6!Â™Sî»÷À³Ù¹†»qÖÍ5f––°Y²/ÙÀØ!z 2pºÙÄ¥zŠ˜‚äûá€œb4´&×iMˆE<:øÏƒõá&•îãu—âô Â[£WpëVÃãĞm8T±WÇR¬œañ·İ¿ÆjRŒÅÿOWYÍ†™ÕŠ`®¹à„ËŒ¬GKÅğà!Æãë@2š"áª§cød¹4€‡!ãX‡‘3|Zo‡
-şñàRèÓ‚03z}ZÕîÓ2^M†ÁÛım~™_“†O+â¿,à_‡/—ÿœ-_|ÿ3G_8abÈÔ/~AÂàÙĞ/¶^¿_ğÅ+EM§1šÌ9nK‡°Î	¡Ër<áğoÚµ½?…ªƒÉÁı3+û¶kkãy±×8ó“-ùüÚ“¡ÔÁ›¿ÜùÔ€©O¹ş‰‰ç‚¾0`)Ğ?ıÎÚâÉA*™ôº¡¹´tˆ¤ÉdÒê¿²şğ¥!ÈçÚ6jÈT$û»duªd)âD¥ÃĞ1p#êÅ`âM—Ç.iº$v‹¦[\Üh&”–rŞººÜÜ@V—Z!Â^|µˆŠ„ğxÿëõ–¢\z$z>h.A_h²÷WƒW¸]ûù5Zÿ!®ß'‚ z†«Áë@È¸Hs°½ÜÊ›2Ù[.øT¿o=İCÒ´ÕcíAZñStÒ“¦”ªz*¡'=ôsTüfğ¹ĞDî„ı$sR|%x<t"÷:óºøñı³àO•Ä­òG=	Ğ$Š’Ëfd*uËû\±+ïSö˜d/| §(¦°W²pI6H[{¬JÃèJü4†şÛ´šĞÂlY‚"V¡9}ÈÜgÈÃÌ$ó7†bftz/ı,MÑ3ĞØº°r›!6v.FÆæÍ!5§çÈœX*_ˆÿºTe(õ±•æÔJ{µ¹
-•´½gëó[îúX{Eéà?öÇ*7XŒ–¯,ÔŸg4…Ñ |•7µ¸ÙÎVÊÕRQ0;Ù!”2‹®]ôåóñ—y›½_AY) ÅµV/?5¼{h ®e˜È“ÉMk×Ù¸È	%ØÃépzëZıGÎxh‡Äz îÖ~ûô¶ä²%?ûÄsä|´prN‚$6S/P_³¾Hø‰<ñ=#ƒ·% H¡h¦ßÎ;2Fÿ57×"(–›•¢Ò)‰‚g6T?©úÖuŸrSn£-õË^äê":>ßw°³ºc­vpİnvV±ÌFWëlTÔÑxJE¿ÏÛ]éËÃhÛ3»ÚåÊyä‘C›_:MzŞp8œœ_«~ëŒõE¹pd8ár³#¹­Ç÷¹”JÕ¿ñDŸÛÍ+ƒÛ§÷½D¬¯o¬¢ˆ%‚°¼MÀ=O$	Df)ú¨&Ö "œ±şˆ0ĞåG
-]•{ü LÑ3\ÎLŒ‰²»¸¾¶€pV'ncXkX×ïI–ÏÃVëè&B0?!ôà°@â	2¨²pœ¿,à3à|zŸ”¤ÑM8Ù7?À‡îdYQğ2jC_^Ö[z+ƒı“êd™Ü©Õ7Ô7ªÔÕó£ïUW]©2C‡G'G?©~2ôïêgC¶ñQ³³r„I÷K‘Ø™~«¡Ó	a!=“¥jM Ùjmxo•©-†kXÊ¾q@Ğ@†²,RÛŒ|FÎ=±(C3ƒª•c“–sÖËVÒœıÃ(9jÉÔ1iN"¥§ÅM£‹èĞ|üâÛæ[m6Ú=l“ÆX»Á­@9o@-op«PÆ§z«5ÅkæVÁ›EÃ…ap`óIÃßĞ³¹'ôìQRœ#ôìpá’}í5¨ÊSDó Š‡J¼÷Q±àÿË}ùGU]qü¼wß{»„l6¿ò“üX2ÙdI nè¢$a% "%¥E°cC%Àh­À(?T¨b[EÊ´–&A 8Ó	"‚¶ÁvÚ@UZ*?ÚÒò£Ã Bv_¿çî¾íºÁı§™|æÜ_çŞóî=ç»2ôŠ’8¥¤WU¡åM*òVİQÍv1?„+òŠ²@Y¶° ÜÛüÊœœÔ8»çñ“ñƒrÊ‡ºƒñÅMu;wÎ{÷»-kÇyò+}®wÕ¼”,ñ#0zÁX$‹²¼o*gÛRœI×çÍLÊ).ô´:­yoÏßŒ’ÂáES*Òœ÷yı»‰ã1ø˜JG(ƒ*è¹úÚMÙ›†ÿ¬b_Å‘ŠsÆã	‹3MX™¡eÉ)!EsØİñ™{ÜõÅƒiOr}üàcsFßëQœ|ÏrğÈ İ‚ã9¨v¦å§-OihÛåR9":<'Ú.\m´=z»~áşÙ‹¢£ò‘¶oµ¼°Š
-m‘{ŠwI¿Iû¢ycã;âÒÓÓİc&º«}µò@ë¤¸¸xGzF‚µºaşÊà;n_[-BÑnSVé´õ¡íÅnÏ¼š¢‡İ^WVÙ´áÊqG¤'ß™éôlç˜O‘”ˆÿ¶Î}›å‘·«^¾ŞX›HöTa<k [A°‘ZézGßÉÄĞ<QVÃ§äpIµè¤3¢VjD.0ßè$¿á£f<é¦ oöõÚSäÂø‡QŸ
-¹^õ‘@ûğOP¦‚¡`¸LO€)ûsğ=ÃB¬£Y¶¯Ñ7ôÃ”¨·P!˜€r‘všÜÚ"*@ÙÏu¬W%rÉr!úJm¹{Ø<ËıW(Çµ@o-GêƒA²meC:A
-Ú³0Ï6¶²Yào5/¡¼vÜòuÈ&ØÚ 9í“Q®èŒQ}æ('¡\‹½IB94Bïë`¼6ÎE*ê*ÅºÈl‹9KÅq%[ÙH?Çi§6Råw¦şnşfë›Ø~¶é&4±}Ñ„ì“°­êl»5†y¢JÕŠğ·nR{h¡Øb^F¹ÈH¥FÆvœòğ}çO›KCl¹æß`ãİúnò¢n™s­W¨}eÆKğ›¹T§@‡×ìS¿C¹†‹Æã{±ßTÛg°ïÁŠ1nªÔŸKyÚYÊB¹ÏÿEîQ?Î¾röı¢Ì˜cƒy~@?ëWğğ¹+-Á.Œ=‡¾¥`|dÈ@ÿsÒ‡¡ÃúXçN^#t”(}°ï‘áó±l!÷¿S’2À(Àë¾Ş÷€\ƒyÓ1>v<É>Ã¾ÉşÁ¾!ış$}–Ïqö†},3?Q¤5 ”D«Â¸1VÆŸ#ÛÌ±Às³o±ÏXıÃÂ~¿“}*Jéårmƒì[Q²”}Ÿ¥¨—ßPªvS-ûlh¯-)mhäxä˜°¤eÇ§ŒHÑN)¼w|î–´ö""·}õi¼6‚ZÅ!øÿ,”ï……ıÙ,cğ’öC:£®$ÕÖMå8KİWbäÆÖ«|óuc/‡i=ôŠ”½j¡Ö«èz—yNïRŸa•£e,Jw¨%İ÷EÛÿÔcz=ˆòßõ^ÓÔzéEÎ¶(•`¨%ÑşXÜö2eƒ½]Ùg›N‰ğ›+`VO£õz¥uÓX-MÆíÓ1w…ÖN5ĞJ7=#¦ÓV£‹î½8G¬¥£§raÄb}îF_’Òò×$Ç€Ã’2¦|æŸd\ùÌ“2&}f0$iç¾Ÿe~ y7'YşñËWi˜ø4Ê?cü4Ê?k —ë—±2œ[VœB's¿¼[d<É{}oXãceD¿“ö©æÇòî¡™V\ƒÀ…şƒá{÷0Î›sÇ:s–±Ôœ%&˜³ğ{ŒÕ—Í]j‰¹3’S]42|—eY¹”÷Iï¡œHuÑäğ}æâ|ªmCåÑ™?ÿJ™úey·”örrVàŞ+A¿jöiÉô°x†H .¹>2…û4;¥‰OpçN ±ÙüX/ï F¤¢1]ìY¦®RŞ@ÍĞ!9ä6¶ßĞàŸ|øQÇYY÷2Ÿ½ÑGP¢_¤j|³Kï”ßê’÷ø*æ}º‹‘W0—­Œ’5•ÊÂc\RçÛx/ÈıÀµáÜ\Çs÷IŸuJ*³ÏL>Fª±¾K®å§ÑvÓ[Ì‹ò]‘L÷ˆÃT)ü”r–ôûÕÈQ¥È—~äG Nƒ |31T—¹ZJóšÌ÷Ëd>×+¨U¾'¸Ï <£”†3Zú¾NñæY ¿êCy»iÊ÷Á)‰×F{Sø}ÂïUÆËo¡÷y8ÆØ™oØğ·(Ÿs¢m+ö0xFò;’ß#A2êüt|>ŠÂm9!©¨R÷©ÓèÏ™Df;¿ÅG4[üç·ƒ
-ÄLäïCÈ5Èá°W¿¡ûÅQ”Ñ¾,ÁÛ¯ƒœš“æŠS7}¡×ƒ9¶¢ŸYÛ©V¼O‰n¼Nñ
-´Åm Æ)¯S»zÚjääóU9?Óa~U²yóTX7Œ´Õb ›ÃÛn {¥­Ñv²ØÇsğ¼Rc4œØ§À’Á)ê:ê[Ô0v=¦l3÷c_›bğG×5¯ò®yi/Xr9ä/ÁP6‚ÁJÌ} r—Ÿ
-Œzüm›Áğ+«/^g öhôlsÿgêo"× åŠ¹Ÿ‰¯­ j¬W­Õšûq9Ë(Õ¶„RE	Úó S×³qÏ½IÅ‚ÌİÊ¦Ï•QûX;ßx»pìr~ş²æ»]p¾Ë@›´á"îcéC” 3O@¶(Ç·ã.¨{PO±öÓ:'´_¶Çœ|…xÏcÛcë±çz«ºº‹fGcùAÄ^¤:F‹ñ ¶nêãúİX×~zfâ²‘m‚–ÜX7&S	£ÃÖ,ÖAÌHıÜ«€ÇJ}ò%àØeÔİÈÅ ÒïÅ¢öµš÷Ulõ[çcKìùÀ¾zí(˜‰÷ìQª„œ
-y§%£c6Ö§cÛ¬»d 11±Qy³9ÿŸ@ì¼ƒwÿ×k)_‰@¾Qk¨ÑğâÍÙBÈ©_õ§B¦ / òú‘W¿Gy(Cy/Ú6@®ÄUÓD»‰<" 7kYx¿­˜#¸0¤¸
-–†æ¼Etıa:BúıkÎ7€—Yÿn°lĞ±æYú#Qš«åÀ'`5h/‡dÿ³€ûaãüàwè—*oöûãv¥õ;Ã’7ü†ø"²æ¶äg~kXç+iı–@Ê}ÛoDÙó¹¿q,	ÿŞÒEü¦äw4¿eu¼Ÿùı‘ü»Í/eJx³^.@ZVe¾÷öí®‹‚‚ËŠËËÊ‚ÈrAB¨ˆ©¤¡¯©£bA9^ÈpŠlU¢5²ÌiŠ1œJt‘l@ÆÂwú=ç=ïî·ïŞf…oæ7Ï{ÎwÎ{÷\ç[¢9Pµ³ê×pš9¾çUçİÇ%y#?¶f>‘Ç #ôpv1ms×ÙMì)!¦~Ê÷ıB¡|¶æ5,˜Wy.!×½¨m°»(—a?MrZ[›ÄØ6rÚ™.·7G~œ:Ø1?EKõ	_q\¡¤sq{i+wá\ŞBÎÏÓ§[Nò|Bá¬dG™mJZ—6Ñm”ÛÒ¹í-§uG»Ë)]’”Ó4ù?½÷=Ó]º×“:wíEïÁÖíŸø>ÇõçÍ•™£qùú‘³ªàqâúß”w\³†ºÛ
-NÊà‚§õŞk¶Â³ÔÆ.Ôÿ°ë2«	nGÍ)ÊwRîì²mg;¶µŸÓûVõ¹Õ‡Ì™ƒ?Qÿe \¥ğ[X’¬µŞ=û ÷‚ˆŞsƒ9æÓ`7¤4`›öù.<M¹„2±Ú|‘áƒ‡¥7qùAg…8?I!f×XİmÛŒå¿±ş+œ‹ı20ğdV°Ü,Ñ˜¥Q•tğ²&G|® |!m;‘‹øïÈyÑJ­37¹\51»ˆ÷¯$á½bËw¹,õËÈOÈŞKĞ·ãˆ³#Âl^>+iı(¦®;şUÓ¥Fª¯0ÿ.‚şş*ù’¿€¾¼?³V6x#eC&'Eø÷n>Î”Šìj‹ˆªÊÏ{n”Ú‚wÍ´Ùh¨»|eóªæÄä9[fşËÜ\ár™8[›|sZ¨ôëå5ßÈ7é—}„\z³\ÈüÈÏå-i¯Îìå]â\orM4È5ì«:rnbS¹yşó¼PçÔÎí2Ù¯’™6§k®ÖœıºóİÍqÚ—d,öä¡V´Õ&´‚¬Ù@sL÷å1ºVº—ì~ZMdŠÿU™ £‚gd”ÿ#Çwªo³_˜[ÚŠú¨CÑıåõ•Jì¥Ğj•`Ô²†…NìAÖ—ìõ­ÆÊä`‰çã¤XçºiÙ?HLS˜/õGño5`÷ëÜÙùÓ9](‹üØxı;Ø±>”@çÎ?¬?‡ynŸÎsgk¢ÿ¤ßk¿MÅšŞ¿ŸøËˆñüØ¶Ñbí€½ÌÉİÄÿMÒ%¼XºDWÊ´à^¾ù&(£ştìé	}2#Ìß3”*ŞuÒÓ_ÂÙZ Aæ%¹Ï;uò{ØÏÃ1%s’>Ü%}¡®V¼ºL/ş?+ÜsYüLİPyÖâŞó 9âŸÍzÍfì™¼>Nç™qüì‹ôùºCuy7İ7ÁµÄ¨ÆŒIC_µÓP¯¶2«ï†zµ£ÓP?º?Zj×’-Õ÷IC}Ÿ3àGKï­HC}E+şMNCıävøÑÒ<÷NC}ïVü˜š†ú©i?ˆOïÁ‹ÜK?À¾M ®3z·%»äğÌıÂ,rå·]»•èÏÌ…yq?3Ÿ6ÜyÍ!à.b®j ·~÷IÆ1÷À7VØ÷Íı!ÛúçÆ´}_·§Ê]ak<[ıß†­€µ®ÍsnÜ±ß¹‡±wÆíO½£í·£ãÃş/ÇÒßì„«!çÀ÷iw^åù<ì¿áuèOù’x^roÀ[qAö¥r•ÔæÆÎÙòØ—Ú˜+äº¢¼\µ”˜_FNêåÿLº?'~=J\Û'EÁR‘ˆ{¨ß‡ÉÕ´ŸD¬XMûk(C8Š˜¹‘öó¾RöÀ.şïJLf[&njŞµq¶–¸[+ı4‡Q®´9•x[ø5ôK'ôÉõô›-=³’¾áb@	)ƒOÉ€lµ”†÷J·Â'Éß7£é=)$oJxzOÎO¾)ºS†ÏÊĞÄ¼ŒŞ!ßDİ¥?qz\á321ÂwæìËõc;­å=%=©ß/¸}'«Asn¥ú«Í»\õ†9v ¾\Êñ§Îå]•ş~)® <(ÅÑnÎóI©)-•Ñt©áÿÉ6÷¸1Uø·Óní÷¢?†˜AÄ<d™ÃùR”XÕÉèŒY.‘R?g5K…úVo“w”¡k:âëDy+­k•§)T'MIÆH¾ÇZògòıy¶±Ş˜(—ù7H°x¢:*mOÑ	©°~NÏFK¡?,–Eá/efğ¹|ÌÌ^¦¤Xõ9Ö§9:ü):³6ªÉÿŸ³&À5ğ=êÿ	O¹Ø1#®·g“ºSk]ıwàøvü¿şgnŸO‰ßoÿ»%njÏ«D2êÑ˜ÜbÌıĞ+_§2·º?>oÆÖëzış¶lZ¶h9Ãì‘iyz8Ö“mXú ãÌÿb=kuj¢£YÆ©²ÚÎZó¾³]}‰î5iÛ «[²-ê×X»sVŞÒú:eëõuóvAıİÈr§så´noÅ–ºy²–»EÕ ‰…ÕÊy¶s£ûSÚêš5¦^Ç²—ğ§kp±\Ûºï”h&q»œ¾oBx’
-ÙááÎpVkDdL¥à‚æ±÷‹ùÃ8ö*ÄPQB¿yìÚ7Cò=ÙÏƒbü£æDkX_û7 ÷ÖˆˆJösÇIæ=™Çd^’ïNüMÆOŞ{ºëxºër¦¾»5ßóáL¾	ÿr¶«Òœßº£Îğ³šEÏs_GWöÌ‡ğ|ìØcÑ¸ÅÿşŸÙûØwy}šìƒœ\gIÖ„³h5‘<;„1Wi…6®hv~váß@@ÑEƒéó‘½©öz38çu%‰}{Ğ+q,¸PcKØ3>(Ø.‹œŞÛé´ßsœóª—ø¿$w2ÖÆ\â€w1Êp'<Ì½­NÖ8^s<ä´ßTÇ9ôÛŒıu>~ú¬ÆöÆx7Ãz§·+\r¿‹ëë}Û‰/½m%« İà?/ü½ìñÁärğèÆîÍ—ó‚«(ß¶ŠõG={i;‹>WÂ,«)Fø·5œm£Ôø›Œ± ‰‚)´/BÖb!³4NêX|Ë¸`š”øÑ_š£Gß£]ä/`¿Ne_œËw+Ëøö£1ş
-¸Gzfã<×Qÿó;ƒç-p/ G½Íğ+'`ßÃ®§ÚØDY¹‹ºrìMp+tˆÉ‰ñ¾…†e,ÿ}ìå0Š÷Ë¬Ä®ƒ]»9z«a4ÏåØjìÓ0ZB}_æ®ıœ¼6×7´	ÑìE‹d<gj|v.ûòr³-ó¾æH'Ö´C|Èíï-VGéc<FùoŞ™¯àË$ËZ³ÍïÎ†‘Ìî‘1Á‡Üû—!Áz)	/#¯’1áEÒ+¸K*yÏd˜¢°>`İÆø³$›y_òˆfË9…¯CQYœI¬÷$`3³â:û¬êíÉX‘é9K4nÔU¼èbtdÕNõ?úÜ¡úÄjlr¾Í¯ãdÓp£ñKïzv²_Šè3Áß	|O¥î+§Ã&o™èr¨×İló¦ë]ÁößIÍmñıÖLâ½†[e˜’ùÄ<¨ä•·)gºÜÁıá¨å¹¶i™µìh´®Ñ¡#i§ÌAO®Õ¾ñ:ÿŸıòêªâøyï¾}aYŞî@óŞ’„l€$ËRK…´Ù…PLÂˆÆ)›Ğ,¿Ã.ISMfÚ2ÒêRÚ$uˆR&îBK%ãh°ùÃ¿…t¦:*:¦tt‰ß{÷¢¥"ÎTÿğ&ó9çÜsì{÷Şwî¹÷+ë*ä¨ùøœ{”»(+£÷JŞ7÷şeõ4â>{­ğ£e¼ÓJÎ÷¾_ÙÀZ‚‰½vg?ÜûÓøqwOPá"Wãkbü<û(1ú;W{L=„ïõ'Ö}”…Ø·0}ö#VòØÕ„8ˆœß/¢‹X>ÇôIcßäy«ØŸ±ñ€ˆcÈEŒCî‡³QÜ“xoç!nó8+¾§çq?Ä§ÁïhˆEW8Õv:Éÿ¶êƒo¿ˆEÙÊNèÕ‚å%|;FÍÇ»¼lÇŸñc"¾°cÔ7ÑqQ97¾ßU&Î¤\õ5°ÖC‹ 9Ûüü¹} Íx+ôyq.ì8ÉÇ]ƒ~°y¾Ï¿[œ5eüÄœ¬½_®„óÿŠLpÅÎ„¾_N8©ß÷j½¾VûöI	òÜßxÎï¸Bs&î\X³ùü¼v±¦âÎ]ÄÎñÅúà®Çµ8Ç{±SşùN ©ôœgËÍ”ÉÏ-ÌÓ0øù$MÃcvúŒÎp#MÆYÊÇ¶ï`ÅĞSyŞÀŸÃ¾7¸'İ÷&îqâÁ†)ìxuNœ—Gi%Æ]V„ŞÛ7Ó±ñö1¾ÏGhÏe¸¶ó…/A_‡ö@ÿ†ß{¡ÿşÛ¶ÿvÙ¾ÃUÜ¹!ä·÷;.Â?Œ»Ò-š­¿Âï;ØÒ<e­æ Ï«Ìåû“(Ã³/IG~j şŠŞq5Ç¦%Ã{j_C6‡Ø>å"çç‰¦bÎ§­Jã^tì·i¼oİ›O=N4ífş’húÌF¦=g„(÷á(L3÷‹iò=\ºKáÓÌo"*^GTréáù4ï'zôE¢¥cÿšÇO.!Zö	ŒQ‰ç©úÑêz¢Zô¯¥ùò	¢§ö­¯!Š%Ú”O´e,M3y²Ú6œiíW‰¾‚}ø,õ9ì‡†%Ÿ{.ƒÿ>{Ÿü(/n‘H$‰D"‘H$‰D"‘H$‰D"‘H$‰D"‘H$‰D"‘H$‰D"‘üŸ utƒÊèeJ^*¥'‰ôí:9P&rÓw!ñ¿-Br;ƒÚIôŸ¡QÛfôi%Û¶5ØÅ¶­Ã^iÛ´Ly
--ÍÉÇTÛ¶BUµm•ÜjĞ¶ü!ÛÖ`'l[‡İkÛxu„Ş$‹‚ EÀ¢ZÚD1èjŠÓvĞFÏPBxV Ô›ËFø7‹%¨	Ó6ü[´¾èßF­¢ƒ¡u;dZÖ¢¾Yx-Z½K´ŠÃ×ˆ‘,ÔòšFĞ&~£	mx]m…/Nş“ç{Ó
-¬ÚM1«:¾=ŞöL"f­ˆ·$â-m›ãÛK¬ğ¶mÖšÍ7µµZkb­±–öXSI¤²¶6\½ vss¬uUl×šxsãöšµÕµêK¸¬Í­V£ÕÖÒØknlÙjÅ7|üsı×%B•¿í«iÁ¤UJ¯Ñİª¡µhQ+FØH;16_›íıI·ÿŸì²sTËşbóÍòp6{ŸØï¨‡ıš®¼ğxa•ƒìqàbï¥V®†ÎB/(:é/
-ãÉœ9ÁwØ{j?’	ÇµäŒÙ¢æjrùrÛxäÑ´‘š_¼Ê®ÒŸ€Ê®²käO÷JùK‚ca…=KE!“zÙ¯h¨b¿HåÏö\`—Q‰]ÄTğn“Æô ü)û>e’ÉŞbgìš3)÷ô …[Ù7w† GÀ(ÅÙw¨ì@#¤	JA„{ØIvÏÙ‡şÈRû€†)<ÿV.Ùq¶…æ¢ï×ÙAÊ†~‰útô·àÏ…~e®{ìòëĞ¼ş5Ûÿ*Ê3 ÛúøgCB™ë—ír;Û)úµÙº—µ&sMo8õ ë ¬ƒ˜ºƒ<¢C*ì9¶MüÒ÷ ƒĞÍiéêLúòÄu¦fÎ
-öbJ;1õ˜¹NÌ\'i¨ê˜hÓ‘nSÌ:Ğ¦m:Ğ¦ƒÇnÖŠßkåç
-¤X€aŞ[1ïÜ?9F„ÿyÈnĞËKlæ±Oµ—mIúMl²©Ï†‚åo³˜êÛšõPpßİ’s*ßˆĞn[{xÛ˜¨¥œÓ¸7–Êy(­ÑjkØÍ¦¯•² óÁÃ hìéd~©ù¶Šš§PÈmv©]¬Kërh
-%óRÍÂ–ÌdÅT†Ef´LYÒàL8w;™×i9Î³Æéˆ³.¶1“•²raQæ8;>”ÌXº*ô9}éânW¯kĞ5äq9õ!}DÕÇt‡¥ô^£7è	}·Ş­÷êÎn½;Cmp%\»]Ìë²\WÈUãr˜Joø¶Ÿµ^ İ@ÃGá·Ø:ÅjD1ëà'HBÉF`B;Pò í<ğzàõÀK¼¦4€„]«ß©™èÃÛñPˆZ7¼nÌí(ä·@%JJJZ¨·ğ„^HÔ &|£ »r¢.`×7 ]Ô‰6u!ŞW½j,*R‹”Ş"¥»H	••‡ƒ¡¹™™™Ñ¼hAÔíÓâyñ‚¸?Ş§Eò"¤O+Ï+/(÷—÷i¥y¥¥şÒ>ÍÌ3L¿Ù§í«¨ºPõn•­ŠWuU±%XºTrA (ôÜ®Ï$gå—xÂËÔ¼N²\ŒLÈRPâ@S Mõ¼§à=Eô8ÅÃ¤i×q¨ã¯Wÿ¡áÅû“KGÂ•¹QĞÆîG}¿h¶„rTø#vû^á7!'ú0¸zæêñùÕ#ø×S$€ƒŞeu8êøÈ&H€ ±zü×±:õşûÕ~¶0d,Ê6iÆ$~™Ó§xÃ^uö€¡ò°{…,2?ä®4şRiü°ÒØSiÂPı8>å ¾+lœ‘°Q60ÚLò‘¡f©s©\r•CY>ã¦ÏøĞg|à3øŒ>ã1ï7ß®¡f	éâR9$d¥óB.Ó6:ÓXbaC9ªà×i¹¹BÎæR¹qÚSá!çÛÊªÀHÊßY¯ºĞ8ª(|ïl’Ò´›¦±,¤élfvªvf±M(iíĞîÏLc˜"I¶†X0›mL+•¶îNÁ"E
-©Š­6h5ˆAr÷®†Ih©øâƒE|“>ˆÍ“/*ÕŠçÜ]ûy¼ì¹ßÜs¾{¾sgîİåöãj(t™Ûi€¿¹İğ·/Üåöyu‘şIÅO½ÃKjúúíoÀñí:şJûÉà/€€ÓÄ¦àGÜ>…üË0ÿŒ?$š‚üÈ€˜7Eû…ÿıú¼÷¸5ª¹õ2¨^ –P}‡[Kà=Ï­3 oqë0À9n`/p{³š^K'HBBn‘V²·®ød>ØW›ìrg9(Ò,×·<ŠU.R9•ëb‘D)6]İAkhT¿šh®Ÿ‚,MŸKêö\8ùFù%õÖ"¬o†?Ò~>£~;·‹«7¬sê7úõ«DH‡¹zÍ
-\µB‰~¡Và&3àJtNµ&ÔÏtıX‡(<ê);©^ÔGÔwsõ”µˆeaÅÃö­]ê^{Fİc„Â)ÄRÍê“úKêpoiuFİš±”-cfNİŠ›tQÊ3½Ò6"Ó eÉeyL–årœ”ãr§¼AnWÚ”VeÒ¢4+ŠÒ¤4(’B”öpù‡”Ià¶7µ"45`ß ®[%ìñß|ëKT‘àì°uOòrÊÚ<âíË°^Óåå!¶İô˜2ğl¾Bé›>Œ˜ôzHÉ¾<lPtî`mÙü<¡ô‰Óg;_9}Ö÷©Ç®‰7gwr°æÁÖ¨gbdıñİ±İm»ÖîØã¬ĞÖ{ó~‹™¶X'{ÛËåÙ§>ëÆ‹åNßc}¹øşü¼tL:â:óÒQ??OOHÇÜ!ôÓF4é(Ğˆ€´*ÑF4Z´½‚ÛTsŠ¦ÕH×i?’`û\¤‰Z®H@® IIBäJH‘û¡–,ú`²B£"Y´…ˆdT1 XR*½*F¯ÏÜëF­ŸBÇ ¾Ğ¡ô>ç±vA#)À1ÿÏ6ùdZ-Ü<PtÇuwTwÇÁFÙÇÆØ«cñxåÀMÄYdÓèXñ baœİÔÇv@wâ•Bq…pÃİ©¢»/_)¦Æ^H\½àøÕéÉ¬÷Ö™{ZÙÉ’Mb²,jM{+„=O£–‡ZjM§¦…–7”¡Ş@¾¢ŒŸİ_Ãª´ªÎÃhG—ŸYßzt—8;»b';ül­2}Ö¢gØj0%ÓÉ4†àtbh¸£õPìäÎ®úI=Ô
-îµzşÆÜCÎ½O©T*£	}9ˆ	_mWÎc{GòÌf¶ËR£Oñqõ–Í§Z¯Ú7léˆ=iŸ³§ìY»1|p·]ÕnhÒsÚmR;§Mi³ZöççRö”ö³	`7Ñ24×š |pXJØ”Àjrf`fóiám—Â›y’¬ÓÁzÀr`äKè¿»v¬¼ıy°Ë`UôD’‘¤;ä ¢oâ—N,Ò]İ²­{{Xx¾†¹‘ºO×ĞNwÇ ùîæt^¼)Y€şk°ïÁ~»Öét‹äAm×ú%R2)”O`PÆ®d–©	ow¹dš78< šôá}Oh) p+à  IxK8-@ü·aà gñ£
-endstreamendobj64 0 obj<</Length 4277>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 294.8878 43.0236 Tm
-(7)Tj
-/T1_1 1 Tf
--0.057 Tw 14 0 0 14 85.0394 761.4617 Tm
-[(supporting issuers and providing liquidity and diversi\037cation )0.5 (to savers. Asset )]TJ
-0.082 Tw 0 -1.286 TD
-(managers, and other entities that specialise in market \037nance, increa\se the )Tj
-0.066 Tw 0 -1.286 TD
-(ef\037ciency and liquidity of capital markets, and investors\222 opportu\nities for )Tj
-0 Tw 0 -1.286 TD
-(diversi\037cation. )Tj
--0.083 Tw 1.822 -2.096 Td
-[(A )0.5 (vibrant )0.5 (non-bank )0.6 (\037nancial )0.5 (sector )0.6 (increases )0.6 (competition )0.6 (in )0.5 (the )0.6 (\037nancial )]TJ
-0.144 Tw -1.822 -1.286 Td
-[(system, )0.5 (reducing )0.6 (transaction )0.5 (costs )0.6 (and )0.5 (improving )0.5 (the )0.5 (quality )0.5 (of )0.5 (services. )]TJ
--0.069 Tw T*
-(Incumbents, including banks, can see some of their advantages eroded as \new )Tj
-0.035 Tw 0 -1.286 TD
-(players enter the market, exploiting economies of scale in speci\037c bu\siness )Tj
-0.171 Tw 0 -1.286 TD
-(segments. Examples of this are institutions offering payment services or\ )Tj
-0.022 Tw 0 -1.286 TD
-(asset managers specialised in catering to the needs of investors with ce\rtain )Tj
-0 Tw 0 -1.286 TD
-(risk-return pro\037les. )Tj
-0.01 Tc 0.188 Tw 1.822 -2.096 Td
-[(New digital technologies are increasing the options for alternative)10 ( )]TJ
--0.026 Tw -1.822 -1.286 Td
-[(providers of \037nancial services, because they can be used to unbundle \some)10 ( )]TJ
-0.067 Tw T*
-[(of the services offered by banks. Technology-driven \037nancial innovati\on)10 ( )]TJ
-0.115 Tw T*
-[(can be particularly bene\037cial for developing countries because it )-0.6 (makes)10 ( )]TJ
-0.219 Tw 0 -1.286 TD
-[(services more affordable and accessible; but it can increase access to)10 ( )]TJ
--0.025 Tw 0 -1.286 TD
-[(\037nance in advanced economies too. Thanks to technology there are grea\ter)10 ( )]TJ
-0.15 Tw 0 -1.286 TD
-[(opportunities to acquire and process information, reducing some of the)10 ( )]TJ
--0.152 Tw 0 -1.286 TD
-[(traditional advantages of banks. Banks of course can adopt these technol\ogies)10 ( )]TJ
-0.086 Tw 0 -1.286 TD
-[(themselves, but non-bank entities sometimes are in apposition to exploit\)10 ( )]TJ
--0.046 Tw 0 -1.286 TD
-[(them more effectively, because they do not have to upgrade legacy system\s)10 ( )]TJ
-0 Tw T*
-[(and internal procedures; they can effectively \223leapfrog\224 them.)10 ( )]TJ
-0 Tc 0.18 Tw 1.822 -2.096 Td
-(Some see these developments as an existential threat to banks. The )Tj
-0.031 Tw -1.822 -1.286 Td
-(banks\222 future is linked to their ability to exploit the unique featur\es of their )Tj
-0.103 Tw 0 -1.286 TD
-(core mix of activities to the full; but they need to evolve and adapt.)Tj
-0 Tw 8.162 0 0 8.162 479.4406 300.1079 Tm
-(7)Tj
-0.103 Tw 14 0 0 14 483.5216 295.446 Tm
-( The )Tj
-0.088 Tw -28.463 -1.286 Td
-[(bene\037ts )0.6 (of )0.6 (physical )0.5 (proximity )0.6 (to )0.6 (clients )0.5 (afforded )0.5 (by )0.6 (the )0.6 (banks\222 )0.5 (traditional )]TJ
-0.105 Tw T*
-[(large, )0.6 (costly )0.5 (networks )0.6 (of )0.6 (branches, )0.6 (are )0.5 (becoming )0.6 (less )0.6 (important )0.5 (as )0.6 (savers )]TJ
-0.008 Tw T*
-[(and )0.6 (borrowers )0.5 (can )0.6 (access )0.6 (\037nancial )0.6 (service )0.6 (providers )0.6 (remotely. )0.5 (Banks )0.6 (are )0.6 (in )]TJ
-0.065 Tw 0 -1.286 TD
-(fact reducing the number of branches to cut costs. But in order to reap \the )Tj
-0.087 Tw T*
-(bene\037ts of technology they will need to go beyond cost-cutting and ad\opt )Tj
-0.082 Tw 0 -1.286 TD
-(farsighted and possibly quite far-reaching innovations in their approach\ to )Tj
-0.001 Tw 0 -1.286 TD
-(business and customers. Banks that are both creative and ef\037cient in \the use )Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 121.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-0 Tw 6.996 0 0 6.996 85.0394 107.3662 Tm
-(7)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.01 Tw 10 0 0 10 102.0472 103.3702 Tm
-(See R.G. Rajan, \223Why banks have a future: Toward a new theory of comm\ercial banking\224, Journal of )Tj
-0.07 Tw 0 -1.2 TD
-(Applied Corporate Finance 9 \(2\), 1996; and A.W.A. Boot, \223Banking at\ the crossroads: How to deal )Tj
-0 Tw T*
-(with marketability and complexity?\224, Review of Development Finance 1,\ 2011.)Tj
-ET
-
-endstreamendobj63 0 obj<</Length 4208>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
--0.019 Tw 14 0 0 14 85.0394 761.4617 Tm
-(ability to bridge the gap between lenders and borrowers through the crea\tion )Tj
-0.173 Tw 0 -1.286 TD
-(and accumulation of knowledge on the behaviour of the former and the )Tj
-0.065 Tw 0 -1.286 TD
-(creditworthiness of the latter. One of the advantages of banks with resp\ect )Tj
--0.026 Tw 0 -1.286 TD
-[(to other institutions is that they bundle different )0.5 (information-based )0.5 (products, )]TJ
-0.276 Tw 0 -1.286 TD
-(exploiting synergies between payment services, liquidity provision and )Tj
-0.176 Tw 0 -1.286 TD
-(monitoring. There is an enormous literature to explain why banks exist, \)Tj
-0 Tw 0 -1.286 TD
-(which I cannot even start to summarise here. )Tj
-0.01 Tc -0.019 Tw 1.822 -2.096 Td
-[(At the same time banks may be less ef\037cient than other intermediaries\)10 ( )]TJ
-0.199 Tw -1.822 -1.286 Td
-[(in providing certain standardised services in isolation. While bundling)9.9 ( )]TJ
-0.223 Tw T*
-[(can provide synergies and economies of scope, unbundling can allow)10 ( )]TJ
-0.087 Tw 0 -1.286 TD
-[(specialised intermediaries to operate at a lower cost and to exploit oth\er)10 ( )]TJ
-0.1 Tw T*
-[(advantages of specialisation. FinTech is widely expected to enhance the)10 ( )]TJ
-0 Tw 0 -1.286 TD
-(ability of non-banks to challenge banks on this ground.)Tj
-0 Tc -0.119 Tw 1.822 -2.096 Td
-(In other cases non-bank intermediaries pro\037t from the ability to tail\or their )Tj
-0.046 Tw -1.822 -1.286 Td
-(services to speci\037c needs. In developing economies, to make one examp\le, )Tj
-0.095 Tw T*
-(\037nance companies may be important, as they can cater to households an\d )Tj
-0.06 Tw 0 -1.286 TD
-(micro and small enterprises, improving \037nancial inclusion; small loan\s are )Tj
-0.04 Tw 0 -1.286 TD
-(often bundled with the provision of liquidity services to clients that a\re too )Tj
-0.01 Tw 0 -1.286 TD
-(small to be pro\037table for banks.)Tj
-0 Tw 8.162 0 0 8.162 263.8346 419.4465 Tm
-(5 )Tj
-0.01 Tw 14 0 0 14 270.038 414.7845 Tm
-(To make another, quite different, example, )Tj
-0.184 Tw -13.214 -1.286 Td
-(bank loans might not be suitable \226 or available \226 to support busin\esses )Tj
--0.029 Tw 0 -1.286 TD
-(engaging in research and development as banks require collateral to miti\gate )Tj
-0.007 Tw 0 -1.286 TD
-[(risks; )0.5 (venture )0.6 (capital )0.5 (\037rms )0.5 (and )0.5 (private )0.6 (equity )0.5 (funds )0.5 (could )0.5 (be )0.5 (more )0.6 (effective )]TJ
-0 Tw 0 -1.286 TD
-(in this speci\037c domain.)Tj
-8.162 0 0 8.162 214.9303 347.4465 Tm
-(6)Tj
-14 0 0 14 219.0113 342.7845 Tm
-( )Tj
-0.061 Tw -7.747 -2.096 Td
-(From the point of view of savers, collective investment vehicles, such )Tj
-0.052 Tw -1.822 -1.286 Td
-(as mutual funds and pension funds, provide investors with a wide range o\f )Tj
--0.014 Tw 0 -1.286 TD
-(investment options, with different risk-return pro\037les. Institutional\ investors )Tj
-0.157 Tw 0 -1.286 TD
-(such as insurance companies, and pension funds can focus on long-term )Tj
-0 Tw 0 -1.286 TD
-(\223patient\224 \037nance more than banks, due to the nature of their li\abilities. )Tj
-0.337 Tw 1.822 -2.096 Td
-(Non-bank \037nancial intermediaries also facilitate the deepening of )Tj
-0.391 Tw -1.822 -1.286 Td
-(\037nancial markets. They channel savings towards market instruments, )Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 157.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-0 Tw 6.996 0 0 6.996 85.0394 143.3662 Tm
-(5)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.048 Tw 10 0 0 10 102.0472 139.3702 Tm
-(See A. N. Berger and G. Udell, \223A more complete conceptual framework \for SME \037nance\224, Journal )Tj
--0.018 Tw 0 -1.2 TD
-(of Banking and Finance Volume 30 \(11\), 2006, on the role of different \lending technologies to address )Tj
-0 Tw T*
-(business opacity. )Tj
-6.996 0 0 6.996 85.0394 107.3662 Tm
-(6)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.036 Tw 10 0 0 10 102.0472 103.3702 Tm
-(A survey of the role and distinct features of venture capital can be fou\nd in B. H. Hall and J. Lerner, )Tj
--0.032 Tw T*
-[(\223The )0.5 (Financing of R&D )0.5 (and Innovation\224, Handbook )0.5 (of the )0.5 (Economics of Innovation, )0.5 (Volume 1, 2010, )]TJ
-0 Tw T*
-(Elsevier.)Tj
-ET
-
-endstreamendobj9 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 79 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 5 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 35 0 R/T1_1 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj10 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 80 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 5 0 R/Resources<<>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj11 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 81 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 5 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj12 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 82 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 5 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R/T1_2 54 0 R/T1_3 35 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj13 0 obj<</ArtBox[0.0 0.0 595.276 841.89]/BleedBox[0.0 0.0 595.276 841.89]/Contents 83 0 R/CropBox[0.0 0.0 595.276 841.89]/MediaBox[0.0 0.0 595.276 841.89]/Parent 5 0 R/Resources<</ExtGState<</GS0 32 0 R>>/Font<</T1_0 33 0 R/T1_1 34 0 R>>/ProcSet[/PDF/Text]>>/TrimBox[0.0 0.0 595.276 841.89]/Type/Page>>endobj83 0 obj<</Length 4621>>stream
-q
-0 0 595.276 841.89 re
-W n
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 -300.3878 43.0236 Tm
-(4)Tj
-ET
-Q
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 294.8878 43.0236 Tm
-(5)Tj
-/T1_1 1 Tf
--0.056 Tw 14 0 0 14 110.5512 761.4617 Tm
-(The non-bank \037nancial sector includes a variety of intermediaries. So\me )Tj
--0.032 Tw -1.822 -1.286 Td
-[(of them perform credit )0.5 (intermediation functions, either )0.5 (issuing loans directly )]TJ
-0.054 Tw 0 -1.286 TD
-(or facilitating credit provision through \037nancial market instruments;\ others )Tj
--0.035 Tw 0 -1.286 TD
-(support equity \037nancing in various ways. In certain business models, \entities )Tj
-0.22 Tw 0 -1.286 TD
-(that intermediate market instruments engage in liquidity transformation,\ )Tj
-0.238 Tw 0 -1.286 TD
-[(maturity transformation, and the creation )0.5 (of leverage )0.5 (just as banks do. )]TJ
--0.019 Tw 0 -1.286 TD
-(These activities used to be referred to as \223shadow banking\224 becaus\e they are )Tj
-0.082 Tw 0 -1.286 TD
-[(usually subject to less )0.5 (stringent prudential regulation )0.5 (and supervision than )]TJ
-0.011 Tw T*
-(banks. Last year the FSB decided to avoid using this de\037nition, recog\nising )Tj
-0.041 Tw 0 -1.286 TD
-[(that )0.6 (non-bank )0.5 (credit )0.6 (intermediation )0.6 (can )0.6 (be )0.6 (bene\037cial, )0.6 (provided )0.5 (its )0.6 (risks )0.6 (are )]TJ
-0 Tw 0 -1.286 TD
-(appropriately monitored and regulated.)Tj
-0.039 Tw 1.822 -2.096 Td
-[(Activities )0.5 (that )0.5 (could )0.5 (generate )0.6 (bank-like )0.5 (risks )0.5 (are )0.5 (identi\037ed )0.5 (by )0.5 (the )0.5 (FSB )]TJ
-0.023 Tw -1.822 -1.286 Td
-(under a narrow de\037nition of non-bank \037nancial intermediation, and \include )Tj
-0.153 Tw T*
-(various entities, such as collective investment vehicles with features t\hat )Tj
--0.062 Tw 0 -1.286 TD
-[(make )0.6 (them )0.6 (susceptible )0.6 (to )0.5 (runs; )0.6 (\037nance )0.6 (companies )0.6 (engaging )0.6 (in )0.6 (loan )0.5 (provision )]TJ
-0.045 Tw 0 -1.286 TD
-(that is dependent on short-term funding; market intermediaries that depe\nd )Tj
-0.121 Tw 0 -1.286 TD
-(on short-term funding or secured funding of client assets \(mostly broke\r-)Tj
--0.055 Tw 0 -1.286 TD
-(dealers\); trust companies and structured \037nance vehicles.)Tj
-0 Tw 8.162 0 0 8.162 400.3834 448.7851 Tm
-(3)Tj
--0.055 Tw 14 0 0 14 404.4644 444.1231 Tm
-( The assets of these )Tj
--0.064 Tw -22.816 -1.286 Td
-[(entities )0.5 (represent 14 percent )0.5 (of total global )0.5 (\037nancial assets )0.5 (in the jurisdictions )]TJ
-0 Tw 0 -1.286 TD
-(monitored by the FSB, and have grown by almost 60 percent since 2007.)Tj
-8.162 0 0 8.162 493.3322 412.7851 Tm
-(4)Tj
-14 0 0 14 497.4132 408.1231 Tm
-( )Tj
-0.184 Tw -27.633 -2.096 Td
-(The importance of non-bank \037nance varies across jurisdictions, and )Tj
-0.283 Tw -1.822 -1.286 Td
-[(depends, )0.5 (among )0.6 (other )0.5 (things, )0.5 (on )0.5 (the )0.6 (degree )0.5 (of )0.5 (\037nancial )0.6 (development. )]TJ
-0.137 Tw 0 -1.286 TD
-(Non-bank \037nance tends to be quantitatively more signi\037cant in coun\tries )Tj
-0.093 Tw T*
-(with well-developed markets. In the United States, the assets of non-ban\k )Tj
-0.068 Tw 0 -1.286 TD
-(\037nancial institutions account for 62 per cent of the total assets of \\037nancial )Tj
-0.088 Tw 0 -1.286 TD
-(corporations, exceeding those of banks. In the larger European economies\ )Tj
-0.005 Tw 0 -1.286 TD
-(the sector is less developed: the corresponding \037gure is about 35 per\ cent in )Tj
--0.027 Tw 0 -1.286 TD
-(France and Germany and below 30 percent in Italy and Spain. While in mos\t )Tj
--0.017 Tw 0 -1.286 TD
-(emerging markets banks are still the largest sector of the \037nancial s\ystem, in )Tj
-0 Tw 0 -1.286 TD
-(some of them non-bank \037nance has grown very rapidly.)Tj
-0.061 Tw 1.822 -2.096 Td
-(Banks traditionally perform a key role in the \037nancial system because\ )Tj
-0.13 Tw -1.822 -1.286 Td
-(of the monetary nature of their main funding source \(deposits\), and th\eir )Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 133.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-0 Tw 6.996 0 0 6.996 85.0394 119.3662 Tm
-(3)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.003 Tw 10 0 0 10 102.0472 115.3702 Tm
-(The FSB de\037nition based on economic function is described in its repo\rt on \223Strengthening Oversight )Tj
--0.024 Tw 0 -1.2 TD
-(and Regulation of Shadow Banking: Policy Framework for Strengthening Ove\rsight and Regulation of )Tj
-0 Tw T*
-(Shadow Banking Entities\224, 29 August 2013. )Tj
-6.996 0 0 6.996 85.0394 83.3662 Tm
-(4)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-10 0 0 10 102.0472 79.3702 Tm
-(Data refer to 29 jurisdictions.)Tj
-ET
-
-endstreamendobj82 0 obj<</Length 4107>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-11 0 0 11 294.8878 43.0236 Tm
-(4)Tj
-/T1_1 1 Tf
-0.094 Tw 14 0 0 14 85.0394 761.4617 Tm
-[(\037nance )0.6 (appears )0.6 (to )0.5 (require )0.6 (fresh )0.6 (thinking, )0.5 (more )0.6 (data, )0.6 (deeper )0.5 (analysis, )0.6 (and, )]TJ
-0 Tw 0 -1.286 TD
-(quite possibly, new policy instruments. )Tj
--0.02 Tc 0.06 Tw 1.822 -2.096 Td
-[(FinTech opens \037nancial intermediation and credit markets to new playe\rs)-20 ( )]TJ
-0.138 Tw -1.822 -1.286 Td
-[(and, at the same time, is bound to change the way traditional intermedia\ries)-20 ( )]TJ
-0.155 Tw T*
-[(operate. It can expand access to \037nancial services, increase competit\ion and)-20 ( )]TJ
-0.068 Tw 0 -1.286 TD
-[(ef\037ciency, by lower transaction costs; but it may also mean that old \risks take)-20 ( )]TJ
-0.1 Tw 0 -1.286 TD
-[(new forms and that new \(or substantially increased\) risks, such as cyb\er risk,)-20 ( )]TJ
-0.091 Tw 0 -1.286 TD
-[(arise. Detecting such evolving and emerging risks requires understanding\ and)-20 ( )]TJ
--0.09 Tw 0 -1.286 TD
-[(closely monitoring FinTech activities, especially with a view to closing\ regulatory)-20 ( )]TJ
-0.149 Tw 0 -1.286 TD
-[(loopholes: among them deviations from the key principle that the same ri\sk)-20 ( )]TJ
-0.08 Tw 0 -1.286 TD
-[(should be subject, in effect, to the same regulatory and supervisory tre\atment,)-20 ( )]TJ
-0 Tw T*
-(regardless of the nature of the agent and its technical means of operati\on.)Tj
--0.025 Tc 0.045 Tw 1.822 -2.096 Td
-[(There is substantial )0.5 (scope )0.5 (for international cooperation and )0.5 (coordination in)-25 ( )]TJ
--0.051 Tw -1.822 -1.286 Td
-[(these \037elds because developments in asset management and FinTech tend\ to cross)-25 ( )]TJ
--0.047 Tw T*
-[(borders quite easily. There is also a lot to be done in cooperation betw\een different)-24.9 ( )]TJ
-0.228 Tw 0 -1.286 TD
-[(authorities. International coordinating bodies, such as the Financial St\ability)-24.9 ( )]TJ
-0 Tw 0 -1.286 TD
-(Board, are the natural )Tj
-/T1_2 1 Tf
-0.025 Tw (fora)Tj
-/T1_1 1 Tf
-0 Tw ( for the authorities to elaborate common strategies.)Tj
-0 Tc 0.295 Tw 1.822 -2.096 Td
-(I shall \037rst review the bene\037ts of non-bank \037nance; then I shal\l )Tj
--0.015 Tw -1.822 -1.286 Td
-(highlight the potential sources of systemic risk, particularly those fro\m asset )Tj
--0.001 Tw 0 -1.286 TD
-(managers, and make some considerations about how they are being / should\ )Tj
-0.13 Tw 0 -1.286 TD
-(be approached by the supervisory authorities. I shall also touch upon th\e )Tj
-0.075 Tw T*
-(potential risks from Fintech. As testi\037ed by the agenda for these two\ days )Tj
-0.119 Tw 0 -1.286 TD
-[(of )0.6 (discussion, )0.5 (these )0.6 (issues )0.6 (are )0.6 (relevant )0.6 (for )0.5 (countries )0.6 (facing )0.6 (very )0.6 (different )]TJ
-0 Tw 0 -1.286 TD
-(economic and \037nancial conditions.)Tj
-/T1_3 1 Tf
-0 -2.906 TD
-(The bene\037ts of a diversi\037ed \037nancial system )Tj
-/T1_1 1 Tf
--0.02 Tc 0.075 Tw 1.822 -2.096 Td
-[(The role of non-bank \037nance in the global economy has been increasing\,)-20 ( )]TJ
--0.021 Tw -1.822 -1.286 Td
-[(and is now at least as signi\037cant as that of banks. Data collected by\ the Financial)-20 ( )]TJ
-0.176 Tw 0 -1.286 TD
-[(Stability Board \(FSB\) show that at the end of 2017 the assets of non-b\ank)-20 ( )]TJ
-0.17 Tw 0 -1.286 TD
-[(\037nancial intermediaries reached 180 trillion dollars, about 48 percen\t of the)-20 ( )]TJ
--0.026 Tw 0 -1.286 TD
-[(global \037nancial sector\222s total assets; the assets of banks account\ed for 39 percent)-20 ( )]TJ
-0 Tw 0 -1.286 TD
-(of the total.)Tj
-0 Tc 8.162 0 0 8.162 145.5609 158.0922 Tm
-(2)Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 121.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-6.996 0 0 6.996 85.0394 107.3662 Tm
-(2)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
-0.071 Tw 10 0 0 10 102.0473 103.3702 Tm
-(FSB, Global Monitoring Report on Non-Bank Financial Intermediation 2018,\ 4 February 2019. The )Tj
--0.007 Tw 0 -1.2 TD
-(data refer to 21 countries and the euro area, and include insurance comp\anies, pension funds and other )Tj
-0 Tw T*
-(\037nancial intermediaries.)Tj
-ET
-
-endstreamendobj81 0 obj<</Length 3854>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-0.235 Tw 14 0 0 14 110.5512 680.3829 Tm
-[(Access )0.6 (to )0.5 (\037nancial )0.6 (resources )0.6 (is )0.5 (essential )0.6 (for )0.5 (growth. )0.6 (The )0.5 (\037nancial )]TJ
-0.133 Tw -1.822 -1.301 Td
-(system channels resources through intermediaries and markets, allocating\ )Tj
-0.088 Tw 0 -1.301 TD
-[(them )0.6 (within )0.5 (the )0.6 (economic )0.6 (system. )0.6 (The )0.5 (mix )0.6 (of )0.6 (banks, )0.5 (other )0.6 (intermediaries )]TJ
-0.048 Tw T*
-(and market-based \037nance varies across countries and over time, depend\ing )Tj
-0.245 Tw 0 -1.301 TD
-(on history, institutions, and stage of \037nancial development, but cert\ain )Tj
-0 Tw 0 -1.301 TD
-(common trends have emerged in the last decade. )Tj
-0.264 Tw 1.822 -2.111 Td
-[(Since the global \037nancial )0.5 (crisis, the regulation of banks has been )]TJ
--0.073 Tw -1.822 -1.301 Td
-[(redesigned )0.5 (to address )0.6 (the vulnerabilities )0.5 (that )0.5 (led to )0.5 (accumulation )0.5 (of excessive )]TJ
-0.059 Tw T*
-(risks. The reforms resulted from a reassessment of the role of banks in \the )Tj
-0 Tw T*
-(post-crisis world, justi\037ed by the adverse systemic effects of their \distress. )Tj
--0.011 Tw 1.822 -2.111 Td
-(As banks\222 role has somewhat shrunk, non-bank \037nancial intermediari\es )Tj
--0.006 Tw -1.822 -1.301 Td
-(have taken on an increasing role in the global \037nancial system.)Tj
-0 Tw 8.162 0 0 8.162 436.043 462.0305 Tm
-(1)Tj
--0.006 Tw 14 0 0 14 440.124 457.3685 Tm
-( At the same )Tj
-0.153 Tw -25.363 -1.301 Td
-(time, advances in technology have fuelled the emergence of technology-)Tj
-0.08 Tw T*
-[(enabled )0.5 (\037nancial )0.5 (innovation \(\223FinTech\224\), )0.6 (which is )0.5 (one of )0.5 (the )0.5 (areas )0.5 (where )]TJ
-0 Tw 0 -1.301 TD
-(non-bank \037nance is expanding most rapidly. )Tj
-0.034 Tw 1.822 -2.111 Td
-(A diversi\037ed \037nancial system bene\037ts savers and borrowers becau\se it )Tj
--0.014 Tw -1.822 -1.301 Td
-(offers multiple ways of channelling \037nancial resources, including to \support )Tj
-0.026 Tw 0 -1.301 TD
-(long-term investment, and diversifying risks. The non-bank \037nancial s\ector )Tj
-0.063 Tw T*
-(competes with banks, thereby stimulating ef\037ciency and innovation. It\ can )Tj
-0.155 Tw T*
-[(reduce )0.6 (the )0.5 (vulnerability )0.6 (of )0.6 (the )0.5 (real )0.6 (economy )0.5 (to )0.6 (\037nancial )0.5 (shocks )0.6 (because )]TJ
-0 Tw T*
-(funding sources for the real economy can be diversi\037ed.)Tj
-0.308 Tw 1.822 -2.111 Td
-(At the same time, the expansion of non-bank \037nance poses new )Tj
--0.063 Tw -1.822 -1.301 Td
-(challenges to regulators, as the activities of non-bank \037nancial inte\rmediaries )Tj
-0.135 Tw T*
-(can have their own signi\037cant implications for systemic risk. In the \case )Tj
-0.178 Tw 0 -1.301 TD
-(of the asset management industry, on which I shall mostly focus today, )Tj
-0.029 Tw 0 -1.301 TD
-(identifying, monitoring and preventing the build-up of risks from non-ba\nk )Tj
-ET
-0 0 0 1 K
-0.5 w 
-q 1 0 0 1 85.0394 157.0394 cm
-0 0 m
-72 0 l
-S
-Q
-BT
-0 Tw 6.996 0 0 6.996 85.0394 143.3662 Tm
-(1)Tj
-/Span<</ActualText<FEFF0009>>> BDC 
-( )Tj
-EMC 
--0.007 Tw 10 0 0 10 102.0472 139.3702 Tm
-(Based on BIS data, in 2007 banks in the euro area accounted for 70 per c\ent of \037nancing to the private )Tj
--0.031 Tw 0 -1.2 TD
-(sector,54 per cent in the United Kingdom, and 34 per cent in the United \States; in June 2018 their share )Tj
--0.015 Tw T*
-(declined by 12 and 2 percentage points in the euro area and the United K\ingdom, respectively, while it )Tj
--0.005 Tw T*
-[(has remained unchanged )0.5 (in the United States, where it was lower. )0.5 (FSB data on total )0.5 (assets of \037nancial )]TJ
-0.063 Tw T*
-(corporations in 21 jurisdictions and the euro area show that the share o\f banks declined by almost 5 )Tj
-0 Tw T*
-(percentage points since 2007.)Tj
-ET
-
-endstreamendobj80 0 obj<</Length 0>>stream
-
-endstreamendobj79 0 obj<</Length 425>>stream
-BT
-0 0 0 1 k
-/GS0 gs
-/T1_0 1 Tf
-22 0 0 22 94.1066 494.5016 Tm
-(Non-Bank Finance: opportunities and risks)Tj
-/T1_1 1 Tf
-15 0 0 15 140.3794 458.163 Tm
-(Speech by the Deputy Governor of the Bank of Italy)Tj
-( )Tj
-5.539 -1.667 Td
-(Luigi Federico Signorini)Tj
-13 0 0 13 241.6733 70.8661 Tm
-(Naples, 18 June 2019)Tj
-0.264 53.175 Td
-(Euromed Workshop)Tj
--6.096 -1.372 Td
-(\223Non-Bank Finance and Financial Intermediation\224)Tj
-ET
-
-endstreamendobj84 0 obj<</Author(Luigi Federico Signorini)/CreationDate(D:20190618194727+02'00')/Creator(Adobe InDesign CC 13.0 \(Windows\))/ModDate(D:20190618194728+02'00')/Producer(Adobe PDF Library 15.0)/Title(Bank of Italy and Bank for International Settlements Workshop on Computing Platforms for Big Data and Machine Learning)/Trapped/False>>endobjxref
-0 85
-0000000000 65535 f
-0000000016 00000 n
-0000000124 00000 n
-0000003228 00000 n
-0000000000 00000 f
-0000003298 00000 n
-0000003390 00000 n
-0000003483 00000 n
-0000003576 00000 n
-0000160811 00000 n
-0000161122 00000 n
-0000161357 00000 n
-0000161657 00000 n
-0000161993 00000 n
-0000077521 00000 n
-0000077821 00000 n
-0000078133 00000 n
-0000078468 00000 n
-0000078792 00000 n
-0000047801 00000 n
-0000048125 00000 n
-0000048437 00000 n
-0000048761 00000 n
-0000049085 00000 n
-0000003683 00000 n
-0000004007 00000 n
-0000004319 00000 n
-0000004631 00000 n
-0000004943 00000 n
-0000005267 00000 n
-0000005579 00000 n
-0000043718 00000 n
-0000015938 00000 n
-0000017013 00000 n
-0000006076 00000 n
-0000024396 00000 n
-0000039459 00000 n
-0000034912 00000 n
-0000029101 00000 n
-0000019448 00000 n
-0000016049 00000 n
-0000005879 00000 n
-0000006857 00000 n
-0000006952 00000 n
-0000007563 00000 n
-0000008233 00000 n
-0000017226 00000 n
-0000017550 00000 n
-0000017896 00000 n
-0000024808 00000 n
-0000024892 00000 n
-0000025246 00000 n
-0000025698 00000 n
-0000072758 00000 n
-0000058513 00000 n
-0000067093 00000 n
-0000061629 00000 n
-0000054155 00000 n
-0000049397 00000 n
-0000058881 00000 n
-0000058965 00000 n
-0000059265 00000 n
-0000059629 00000 n
-0000156551 00000 n
-0000152222 00000 n
-0000088892 00000 n
-0000096886 00000 n
-0000097025 00000 n
-0000084459 00000 n
-0000079104 00000 n
-0000112569 00000 n
-0000112594 00000 n
-0000097191 00000 n
-0000097458 00000 n
-0000113159 00000 n
-0000113612 00000 n
-0000113681 00000 n
-0000113961 00000 n
-0000114058 00000 n
-0000175092 00000 n
-0000175043 00000 n
-0000171137 00000 n
-0000166978 00000 n
-0000162305 00000 n
-0000175568 00000 n
-trailer
-<</Size 85/Root 1 0 R/Info 84 0 R/ID[<30B38C1518FCCA49B30F1D3EE640923F><95FA88CCC62B324A95E67BD09F3367E4>]>>
-startxref
-175912
-%%EOF
-2 0 obj<</Length 5353/Subtype/XML/Type/Metadata>>stream
-<?xpacket begin="ï»¿" id="W5M0MpCehiHzreSzNTczkc9d"?>
-<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.4-c006 80.159825, 2016/09/16-03:31:08        ">
-   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
-      <rdf:Description rdf:about=""
-            xmlns:dc="http://purl.org/dc/elements/1.1/"
-            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
-            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
-            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
-            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
-            xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
-            xmlns:pdf="http://ns.adobe.com/pdf/1.3/">
-         <dc:format>application/pdf</dc:format>
-         <dc:title>
-            <rdf:Alt>
-               <rdf:li xml:lang="x-default">Luigi Federico Signorini: Non-bank finance - opportunities and risks</rdf:li>
-            </rdf:Alt>
-         </dc:title>
-         <dc:creator>
-            <rdf:Seq>
-               <rdf:li>BIS - Central bankers' speeches</rdf:li>
-            </rdf:Seq>
-         </dc:creator>
-         <dc:description>
-            <rdf:Alt>
-               <rdf:li xml:lang="x-default">Speech by Mr Luigi Federico Signorini, Deputy Governor of the Bank of Italy, at the Euromed Workshop â€œNon-Bank Finance and Financial Intermediationâ€, Naples, 18 June 2019.</rdf:li>
-            </rdf:Alt>
-         </dc:description>
-         <xmp:CreateDate>2019-06-18T19:47:27+02:00</xmp:CreateDate>
-         <xmp:MetadataDate>2019-06-19T22:46:37+02:00</xmp:MetadataDate>
-         <xmp:ModifyDate>2019-06-19T22:46:37+02:00</xmp:ModifyDate>
-         <xmp:CreatorTool>Adobe InDesign CC 13.0 (Windows)</xmp:CreatorTool>
-         <xmpMM:InstanceID>uuid:5de33cb6-15c3-4b63-bb03-0e94127fad76</xmpMM:InstanceID>
-         <xmpMM:OriginalDocumentID>xmp.did:dea17df4-3ef3-324b-a79f-40b00ae4d838</xmpMM:OriginalDocumentID>
-         <xmpMM:DocumentID>xmp.id:bf065c75-c508-7743-9727-0868941720d3</xmpMM:DocumentID>
-         <xmpMM:RenditionClass>proof:pdf</xmpMM:RenditionClass>
-         <xmpMM:DerivedFrom rdf:parseType="Resource">
-            <stRef:instanceID>xmp.iid:0c7ad7a1-753a-4a45-aa1c-b713fb0a2c0d</stRef:instanceID>
-            <stRef:documentID>xmp.did:7d216e95-63d1-9440-b23a-9f4ff80ce2f5</stRef:documentID>
-            <stRef:originalDocumentID>xmp.did:dea17df4-3ef3-324b-a79f-40b00ae4d838</stRef:originalDocumentID>
-            <stRef:renditionClass>default</stRef:renditionClass>
-         </xmpMM:DerivedFrom>
-         <xmpMM:History>
-            <rdf:Seq>
-               <rdf:li rdf:parseType="Resource">
-                  <stEvt:action>converted</stEvt:action>
-                  <stEvt:parameters>from application/x-indesign to application/pdf</stEvt:parameters>
-                  <stEvt:softwareAgent>Adobe InDesign CC 13.0 (Windows)</stEvt:softwareAgent>
-                  <stEvt:changed>/</stEvt:changed>
-                  <stEvt:when>2019-06-18T19:47:27+02:00</stEvt:when>
-               </rdf:li>
-            </rdf:Seq>
-         </xmpMM:History>
-         <photoshop:DateCreated>2018-11-30</photoshop:DateCreated>
-         <pdf:Producer>Adobe PDF Library 15.0</pdf:Producer>
-         <pdf:Trapped>False</pdf:Trapped>
-      </rdf:Description>
-   </rdf:RDF>
-</x:xmpmeta>
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                                                                                                    
-                           
-<?xpacket end="w"?>
-endstreamendobj85 0 obj<</Author(BIS - Central bankers' speeches)/CreationDate(D:20190618194727+02'00')/Creator(Adobe InDesign CC 13.0 \(Windows\))/ModDate(D:20190619224637+02'00')/Producer(Adobe PDF Library 15.0)/Subject(Speech by Mr Luigi Federico Signorini, Deputy Governor of the Bank of Italy, at the Euromed Workshop Non-Bank Finance and Financial Intermediation, Naples, 18 June 2019.)/Title(Luigi Federico Signorini: Non-bank finance - opportunities and risks)/Trapped/False>>endobjxref
-0 1
-0000000000 65535 f
-2 1
-0000177769 00000 n
-85 1
-0000183199 00000 n
-trailer
-<</Size 86/Root 1 0 R/Info 85 0 R/ID[<30B38C1518FCCA49B30F1D3EE640923F><CA3F65F411937D478218F87A2C8A3CF8>]/Prev 175912>>
-startxref
-183679
-%%EOF

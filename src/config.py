@@ -3,7 +3,7 @@ import argparse
 from datetime import datetime
 
 bis_sleep = 0.5  # YOU CAN EDIT THIS SLEEP TIME
-base_dir = os.path.realpath(os.getcwd())
+base_dir = os.getcwd()   
 print('base_dir: ', base_dir)
 output_base_dir = os.path.join(base_dir, "output")   # YOU CAN EDIT THIS OUTPUT DIRECTORY PATH
 

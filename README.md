@@ -88,13 +88,13 @@ output_base_dir = os.path.join(base_dir, "output")   # YOU CAN EDIT THIS OUTPUT 
 ##### 2. Run `src/main.py`.
 If you want to scrape data of whole range, just run `main.py` without any aruments, as below.
 ```sh
-cd src
-python main.py
+cd bis_speeches_text_dataset
+python src/main.py
 ```
 
 If you want to scrape data of specific range, run `main.py` with arguments `--start_year`, and `--end_year`.
 For your information, the data listed on bis.org starts from 1997 to today.
 ```sh
-cd src
-python main.py --start_year 1997 --end_year 1998   # It scrapes data of 1997 and 1998.
+cd bis_speeches_text_dataset
+python src/main.py --start_year 1997 --end_year 1998   # It scrapes data of 1997 and 1998.
 ```

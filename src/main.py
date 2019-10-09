@@ -24,7 +24,19 @@ bis_w_content_csv_filepath = params['bis_w_content_csv_filepath']
 create_dirs = [output_base_dir, pdf_dir, pkl_dir, txt_dir, err_dir, err_web2pdf_dir, err_pdf2txt_dir]
 
 
-def _get_target_url_dict(start_year, end_year):
+def _get_target_url_dict(start_year, end_year, already_scraped_pdf_files):
+    already_scraped_year = None
+    if len(already_scraped_pdf_files) > 0:
+        already_scraped_pdf_files.sort(key=os.path.getmtime)
+        most_recently_scraped_filepath = already_scraped_pdf_files[-1]
+        print('most recently scraped file: ', most_recently_scraped_filepath)
+        
+        _year_two_digits = os.path.basename(most_recently_scraped_filepath)[1:3]        
+        if _year_two_digits in ['97', '98', '99']:
+            already_scraped_year = int(_year_two_digits) + 1900
+        else:
+            already_scraped_year = int(_year_two_digits) + 2000
+        
     quarter_dict = {'jan': '1Q', 'apr': '2Q', 'jul': '3Q', 'oct': '4Q'}
 
     soup = get_soup_html('https://www.bis.org/list/cbspeeches/from_01011997/index.htm')
@@ -32,6 +44,8 @@ def _get_target_url_dict(start_year, end_year):
 
     target_year_list = list()
     for target_year in range(start_year, end_year + 1):
+        if already_scraped_year is not None and target_year < already_scraped_year:
+            continue
         target_year_list.append(str(target_year))
 
     target_url_dict = dict()
@@ -106,7 +120,8 @@ def _init(dirs):
 
 
 def main():
-    target_url_dict = _get_target_url_dict(start_year, end_year)
+    already_scraped_pdf_files = get_filepaths(pdf_dir, '.pdf')
+    target_url_dict = _get_target_url_dict(start_year, end_year, already_scraped_pdf_files)
 
     # Step1) Download .pdf
     for target_range_str in sorted(target_url_dict.keys()):

@@ -133,6 +133,7 @@ def main():
                 except Exception as e:
                     print(str(e))
                     write_errlog(os.path.join(err_web2pdf_dir, _item_dict['key'] + '.log'), str(e))
+                    continue
 
                 sleep_(bis_sleep * 0.1)
                 bis_wo_content_dict[_item_dict['key']] = _item_dict
@@ -161,11 +162,12 @@ def main():
         filename_only = filename_w_ext[:-4]
         try:
             _whole_txt = pdf2txt(one_file, txt_dir, wo_special_char_regex)
+            bis_w_content_dict[filename_only]['content'] = get_str_strip(_whole_txt, without_n_t_blank=True)
         except Exception as e:
             print(str(e))
             write_errlog(os.path.join(err_pdf2txt_dir, filename_only + '.log'), str(e))
+            continue
 
-        bis_w_content_dict[filename_only]['content'] = get_str_strip(_whole_txt, without_n_t_blank=True)
         save_txt(os.path.join(txt_dir, filename_only + ".txt"), _whole_txt)
 
     end_dict_pkl(start, bis_w_content_dict, bis_w_content_pkl_filepath)

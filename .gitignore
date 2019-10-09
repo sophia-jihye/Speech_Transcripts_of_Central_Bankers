@@ -5,6 +5,7 @@ data/
 build/
 dist/
 sophia.sh
+scraped_data/
 speech_texts/
 OBSELETE/
 __pycache__

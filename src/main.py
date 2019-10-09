@@ -171,7 +171,7 @@ def main():
 
     # Step3) *FINAL.pkl -> .csv
     write_dict2csv(bis_w_content_dict, bis_w_content_csv_filepath, column_list)
-
+    os.system('rm -rf ' + pkl_dir)
 
 column_list, wo_special_char_regex = _init(create_dirs)
 if __name__ == '__main__':

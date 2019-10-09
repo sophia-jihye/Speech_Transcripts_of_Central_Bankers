@@ -1,0 +1,225 @@
+Donald L Kohn: Asset-pricing puzzles, credit risk, and credit derivatives  
+Remarks by Mr Donald L Kohn, Vice Chairman of the Board of Governors of the US Federal Reserve 
+System, at the Conference on Credit Risk and Credit Derivatives, Washington DC, 22 March 2007. 
+ Good  afternoon.  I  am  pleased  to  participate  in  the  Board’s  conference  on  credit  risk  and  credit 
+derivatives. Song Han, Matt Pritsker, and Hao Zhou have worked hard to put together a stimulating 
+program  of  cutting-edge  research  in  this  area.1 Your  conference  focuses  on  improving  our 
+understanding of credit risk and credit derivatives, but I will begin my talk by taking a step back and 
+discussing  a  wider  range  of  asset  markets,  in  which  our  understanding  is  also  limited.  Then  I  will 
+examine  how  the  research  in  this  conference  can  help  sharpen  our  focus  on  this  broader  range  of 
+asset markets. 
+At the Federal Reserve, we have considerable interest in credit risk and credit derivatives. As these 
+markets develop and become more complete, they facilitate risk transfer and diversification, thereby 
+increasing  the  resilience  of  our  financial  system.  With  participants  coming  to  rely  more  on  these 
+markets to manage risk, we have focused increasingly on their liquidity and structure. We have worked 
+closely  with  the  private  sector  to  strengthen  the  clearing  and  settlement  infrastructure  and  to 
+understand how these markets will function under stress. 
+But  my  emphasis  today  will  be  not  the  structure  or  mechanics  of  credit  markets  but  rather  the 
+information contained in the prices we observe in these markets. We at the Federal Reserve use this 
+information in nearly every area of our responsibility. For example, in our roles as bank supervisors 
+and  protectors  of  financial  stability,  we  monitor  the  credit  spreads  of  financial  institutions  as  early 
+warning  signs  of  possible  financial  stress.  In  our  role  as  monetary  policy  makers,  we  analyze 
+information  from  credit-risk  markets  to  get  readings  on  the  cost  of  capital  to  businesses  and  on 
+forward-looking indicators of the health of the corporate sector that can have implications for future 
+macroeconomic developments.  
+Extracting information from asset prices  
+As a consequence, the staff at the Federal Reserve puts considerable effort into research on asset 
+prices and into reporting the results of that research to policymakers. One reason we do so is to try to 
+understand  the  expectations  that  households,  businesses,  and  market  participants  have  about  the 
+future.  Expectations  are  critical  to  understanding  the  economy  and  developments  in  the  financial 
+system. Of course, we look at a great deal of data from the nonfinancial side of the economy, such as 
+gross domestic product (GDP) growth, the unemployment rate, and changes in the prices of goods 
+and services. These data certainly reflect expectations but not always in a transparent way. And, these 
+data take some time to compile and so are never available in real time.  
+Because  financial  asset  prices  embody  expectations  about  the  future,  they  also  contain  forward-
+looking  information  about  prospective  developments,  and  many  are  available  continuously  and 
+instantaneously. We pay attention to an extensive range of asset prices, including those of Treasury 
+securities (both nominal and real), corporate debt and equities, and derivatives. Although it is not easy, 
+we use these asset prices to tease out information about expectations that help us to interpret and 
+predict the pace of economic activity and prices. 
+The price of an asset reflects the future cash flows that investors expect to receive from owning that 
+asset. The price also reflects a risk premium, which is the excess expected return over the risk-free 
+rate  that  investors  require  for  holding  risky  assets  in  their  portfolios.  Each  asset’s  risk  premium 
+depends  on  the  asset’s  risk  –  as  measured  by  the  possible  variability  of  its  cash  flows  from  their 
+expected level – and on investors' risk aversion, which represents the extent of investors’ appetite for 
+risk.  And  we  try  to  measure  and  understand  the  elements  of  the  risk  premium,  in  addition  to  the 
+embedded expectations.  
+                                                      
+1   Mike Gibson, Song Han, Matt Pritsker, and Hao Zhou, of the Board's staff, contributed to these remarks. 
+BIS Review 28/2007 
+ 1
+In  equity  markets,  corporate  earnings  are  the  future  cash  flows  that  affect  equity  prices.  Given  the 
+market’s  outlook  for  corporate  earnings  –  as  embodied,  for  example,  in  the  predictions  of  market 
+analysts – we make a crude estimate of the risk premium on equities as the difference between the 
+ratio of trend earnings to price and a real long-term Treasury yield. On occasion, we go further and 
+use structural economic models to decompose the risk premium into components related to risk and to 
+investors’ risk appetite. 
+In  the  credit  market,  the  relevant  future  cash  flows  are  the  coupons  on  corporate  debt,  less  an 
+allowance for expected losses from future defaults. In one exercise, we forecast future defaults with a 
+simple  regression  model  and  estimate  the  credit-risk  premium  as  the  difference  between  corporate 
+yields and Treasury yields that is in excess of what would be required to compensate investors for 
+their estimates of expected credit losses. We also estimate a term structure of credit-risk premiums by 
+repeating  this  analysis  using  debt  that  has  different  maturities.  To  judge  what  market  prices  of  risk 
+might be telling us, we try to understand how the resulting credit-risk premiums relate to other sources 
+of information, such as the strength of business balance sheets, historical levels of risk premiums, and 
+premiums  observed  in  related  markets,  like  that  for  equities.  This  approach  helps  us  to  assess  the 
+current attitudes and expectations of market participants as well as possible future movements in risk 
+premiums under alternative scenarios. 
+We  look  to  prices  in  Treasury  markets  and  in  markets  for  interest  rate  options  and  futures  to  infer 
+investors’ expected future path of monetary policy and their uncertainty about that path. To do so, we 
+need to model term premiums to tease out the links between long-term interest rates and investors’ 
+expectations of future short-term rates. We also compare the Treasury yield curve with the prices on 
+Treasury inflation-protected securities to infer expected inflation, a key variable tracked by monetary 
+policy makers. 
+Although  we  use  a  variety  of  techniques  for  extracting  information  from  asset  prices,  what  we  can 
+learn  has  limits.  First,  asset  prices  are  tough  to  work  with.  They  change  rapidly  and  are  subject  to 
+short-run technical factors – swings in prices that are not related to fundamental and persistent shifts 
+in supply and demand. Second, and perhaps even more important, how asset prices embody risk and 
+investors’  risk  attitudes  is  complicated  and  varies  over  time.  We  must  use  models  to  extract 
+information  on  risk  and  risk  preferences  from  prices,  and  because  all  models  are  simplifications  of 
+reality, we have to recognize that the results are only approximations of the underlying attitudes and 
+circumstances and thus are subject to error. 
+Asset-pricing puzzles 
+Researchers  are  well  aware  of  the  difficulties  of  decomposing  an  asset’s  required  return  into 
+components  that  are  related  to  expected  future  cash  flows,  risk  aversion,  and  risk.  Moreover,  risk 
+preferences that should be related in a predictable way across markets often do not appear to be so. 
+For  example,  the  risk  preferences  required  to  fit  consumption  data  from  the  goods  market  are 
+inconsistent with the risk preferences implied by prices in the equity market. 
+This  problem  is  well  known  to  most  economists  and  to  everyone  in  this  room  and  is  known  as  the 
+"equity-premium puzzle." The equity premium is defined as the return that an investor expects to earn 
+on a broad equity index in excess of the return on a U.S. Treasury security. Although theory suggests 
+that the equity premium should be related to investors’ risk preferences as well as the fundamental 
+volatility of the corporate sector, it is difficult to find plausible risk preferences that can rationalize the 
+high level of the historical equity premium. Also, we observe that required returns appear to vary over 
+time, but we do not understand all the reasons for the fluctuation. Both of these problems complicate 
+our  interpretation  of  what  implications,  if  any,  movements  in  equity  markets  have  for  the 
+macroeconomy. 
+The  equity-premium  puzzle  is  not  the  only  aspect  of  the  behavior  of  financial  asset  prices  that  is 
+difficult  to  reconcile with  economic  theory  or  experience  in  related  markets.  A  second  puzzle  is  the 
+"credit-spread puzzle." The spread between a corporate bond and a similar-maturity Treasury bond 
+compensates an investor for the risk that the bond’s issuer will default and recoveries on the defaulted 
+bond will be low. Credit-risk spreads vary substantially over the cycle, and right now they are on the 
+low side of historical experience. However, over long periods, actual percentage losses on corporate 
+bonds have been well below historical averages of credit spreads at all maturities, especially in the 
+high-grade, short-maturity segment of the market. Again, it is difficult to reconcile this observation with 
+2 
+ BIS Review 28/2007
+standard models of investor preferences. Other explanatory factors, such as the different tax treatment 
+of corporate and Treasury bonds, appear to explain only part of the puzzle. 
+A third puzzle concerns the behavior of financial market volatility. Volatility and measures of expected 
+volatility derived from options prices vary over time but not in ways that are easy to link to economic 
+fundamentals  or  to  the  variation  of  expected  returns  in  asset  markets.  Moreover,  the  relationship 
+between financial market volatility and the volatility of macroeconomic variables such as GDP is not 
+well understood. 
+A  fourth  puzzle  related  to  the  pricing  of  risk  concerns  the  term  premium,  which  is  the  additional 
+compensation  that  investors  require  to  hold  longer-term  securities.  We  estimate  from  the  Treasury 
+market that the term premium has declined substantially in recent years to unusually low levels, which 
+has contributed to the inversion of the yield curve. But we do not understand why, and consequently 
+we do not know to what extent we are seeing a permanent decline in the term premium – perhaps due 
+to a general reduction in the volatility of economic activity and inflation over the past twenty-five years. 
+Or we may be seeing a temporary decline due to the influence of recent macroeconomic conditions or 
+special factors affecting the demand for long-term bonds. 
+In addition to these well-known puzzles, are also a large number of puzzles across all asset markets 
+that I will group under the common theme of risk harmonization. Risk-harmonization puzzles concern 
+whether a given risk is priced the same way in all markets in which that risk is traded. In the absence 
+of transaction costs, broadly defined, the law of one price should hold – there should be no risk-free 
+arbitrage – and all risks should be priced the same way in all markets. 
+In  fact,  risk  harmonization  is  limited  because  transaction  costs,  viewed  in  a  broad  way,  are  quite 
+material in many markets. A broad notion of transaction costs includes not only the direct fees paid 
+when transacting and trading but also the full set of risks that are involved when arbitraging among 
+markets.  These  include  various  types  of  basis  risk,  which  is  the  risk  that  long  and  short  positions 
+exposed to the same risk in different markets might not offset each other. Another important risk is 
+model risk, which is the risk of misjudging an apparent price anomaly when trading owing to not having 
+the  correct  model.  Some  of  the  conference  papers  focus  on  markets  in  which  risk  harmonization 
+appears to be incomplete. 
+How the common lens of credit risk improves our understanding 
+Papers in this conference contribute to our overall understanding of how credit risk, as well as other 
+risks such as those associated with volatility and liquidity, are priced in financial markets. One of the 
+contributions of the conference is that it views many of the asset-pricing puzzles through the common 
+lens  of  credit  risk.  This  approach  holds  the  hope  of  addressing  the  various  puzzles  in  an  internally 
+consistent way that helps us to understand how the puzzles may be related. 
+One  strand  of  the  literature  on  the  equity-premium  puzzle  attempts  to  explain  the  puzzle  with  a 
+somewhat  controversial  refinement  of  standard  risk  preferences.  The  first  paper  in  the  conference 
+examines the plausibility of these preferences by analyzing whether they can also explain the average 
+pattern of credit spreads in the bond market. The results are mixed. Part of the credit-spread puzzle is 
+explained, lending some credence to these preferences, and suggesting the two puzzles are related, 
+but a part remains unexplained. And the paper identifies better modeling of the situation in which firms 
+are forced into default as one research direction that may help to explain the remaining part of the 
+credit-spread puzzle. This research direction is pursued in a separate paper in the conference. 
+A second paper at the conference also studies the relationship between equity prices and credit risk 
+but does so from a different perspective by asking whether credit risk is appropriately priced in the 
+stock  markets.  To  address  this  question,  it  focuses  on  companies  that  are  heavily  exposed  to 
+systematic risk of financial distress – that is, they are relatively likely to experience financial distress 
+during future downturns – and then studies whether the stocks earn a positive premium for this risk. 
+The main finding is that investors in those companies do not earn a premium for distress risk in the 
+stock market. This result suggests a possible failure of risk harmonization in the stock market, which in 
+turn raises the deeper question of identifying why this failure in risk harmonization is not arbitraged 
+away. 
+In short, papers in the conference deepen our knowledge of some of the asset-pricing puzzles, but 
+they also highlight new aspects of the puzzles that remain to be explained. 
+BIS Review 28/2007 
+ 3
+How credit derivatives markets can improve our understanding  
+This leads to my last topic, which is how credit derivatives markets provide new ways for us to uncover 
+market perceptions of risk. Like all derivatives (such as options and swaps), credit derivatives allow for 
+credit risk to be unbundled and traded independently from other types of risk, which makes it easier to 
+price and measure the different types of risk. Here I will focus on two examples. 
+The first involves our ability to infer the market's perception of default risk. In the bad old days, about 
+ten years ago, the best way to infer credit risk was from the prices of corporate bonds, but bond prices 
+are  contaminated  by  differences  in  coupons,  taxes,  option-like  features,  bond  covenants,  and  the 
+illiquidity  of  the  corporate  bond  market  itself.  All  of  these  features  meant  that  the  modeling  error 
+involved in the process resulted in credit-risk measures that were noisy and potentially biased. 
+Now, instead of looking to the bond market to measure default risk, we are increasingly turning to the 
+market for credit default swaps, or CDS. CDS are more standardized than corporate bonds, and, over 
+time,  they  have  also  become  more  liquid.  They  therefore  provide  us  with  new,  and  in  many  cases 
+more  precise,  measures  of  credit  risk.  These  measures  in  turn  can  sharpen  our  measures  of  the 
+pricing puzzles. In addition, because the CDS market helps us to strip out the credit-risk component 
+from  bond  prices,  that  market  also  gives  us  a  clearer  picture  of  how  important  non-credit-risk 
+components of bond prices, such as liquidity, are priced. 
+The  second  example  involves  the  pricing  of  default  correlation.  Default  correlation  measures  the 
+tendency of firms to default at the same time. Suppose a bank makes a set of loans that appear to be 
+safe when looked at individually. Whether the loans are likely to default at nearly the same time can 
+represent the difference between whether the bank remains healthy or has the potential to become 
+insolvent.  For  this  reason,  the  modeling  of  default  correlations,  and  how  correlations  change  with 
+economic conditions, is one of the most important inputs into measures of portfolio credit risk at banks. 
+Default correlations and how they are modeled are also important to bank regulators and are heavily 
+emphasized within the Basel II capital standards. 
+Collateralized debt obligations, or CDOs, are one of a number of financial instruments whose prices 
+are sensitive to the pattern of default correlations. As a result, the prices of these instruments provide 
+us with a forward-looking picture of the market’s perception of default correlations and an indication of 
+how the risks of changes in correlation are priced. Of course, as some of the papers in the conference 
+demonstrate, the pricing of correlation-sensitive instruments is, putting it generously, somewhat less 
+than  straightforward.  For  that  reason,  there  is  substantial  model  risk  involved  in  making  inferences 
+from  these  prices.  Nevertheless,  the  prices  of  these  instruments  provide  a  blurry  view  of  default 
+correlations that I expect will improve through time as credit derivatives markets continue to grow and 
+mature. 
+Credit derivatives, like all derivatives, are in zero net supply, and, abstracting from the very important 
+issue of counterparty credit risk, they neither add to nor subtract from the stock of financial risk in the 
+economy. They do, however, provide new and more-efficient ways for sharing and hedging the risks 
+that do exist, and they facilitate the transfer of those risks to those who are most willing to evaluate 
+and bear them.  
+As a consequence, as the credit derivatives market continues to develop and deepen, my guess, and 
+it is just a guess, is that cleaner measures of credit risk will, all else being equal, reduce the costs of 
+arbitraging between markets and will improve the harmonization of risk across markets – one of the 
+asset-pricing puzzles I highlighted. 
+Two of the other puzzles I described earlier are the credit-spread and equity-premium puzzles. At least 
+a part of these puzzles may be due to imperfect risk sharing among active market participants. If this is 
+indeed  part  of  the  puzzle,  then  financial  innovations  such  as  credit  derivatives  may,  again,  all  else 
+being equal, reduce long-run average risk premiums in both the equity and credit markets, over time, 
+by  facilitating  risk  sharing  among  currently  active  market  participants,  provided  that  participants 
+adequately  understand  and  manage  the  risk  of  these  products.  That  said,  time  will  tell  whether  my 
+speculations on this point are correct. 
+Conclusion 
+My  message  to  you  today  has  been  that  the  Federal  Reserve  places  a  lot  of  emphasis  on 
+understanding financial asset prices to help it meet its public policy objectives. But in doing so, we are 
+handicapped by the extent to which we do not understand important aspects of how financial assets 
+4 
+ BIS Review 28/2007
+are priced. Your work as researchers in this field – a portion of which is show-cased at this conference 
+– has been helpful in beginning to explain some of the puzzles, and more recent techniques and ideas 
+together with the data series being generated in new markets hold the promise of more progress in the 
+future. 
+So,  I  will  not  keep  you  from  your  work  any  longer.  Your  contributions  are  important  to  the  nation’s 
+central bank. Please, go solve some puzzles.  
+BIS Review 28/2007 
+ 5

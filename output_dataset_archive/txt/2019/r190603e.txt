@@ -1,0 +1,663 @@
+    
+ 
+Resilience: three lessons from the financial crisis1 
+ 
+Speech given by 
+Dave Ramsden, Deputy Governor for Markets & Banking 
+ Inverness Chamber of Commerce 
+30 May 2019 
+                                                        
+1With thanks to Tom Smith for his assistance in preparing these remarks and to staff across Bank, including Alex Baiden from the 
+Bank’s Advanced Analytics division and Nick Bate and Liam Crowley-Reidy from the Bank’s Monetary Analysis directorate, for their 
+many contributions, as well as my colleagues on the MPC for their helpful comments and suggestions. 
+ 
+ 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+1 
+    1   Introduction 
+  It’s great to be here in Inverness, and to be speaking here this morning.   
+ My talk today is going to focus on resilience. The first definition of resilience thrown up by Google is “the 
+capacity to recover quickly from difficulties; toughness”. It seems apt that I should be focusing on this here in 
+Inverness as Scotland itself is a famously resilient nation. Robert the Bruce was taught resilience by a spider. 
+Scotland’s mountains epitomise geological resilience and tests the physical resilience of walkers and 
+climbers. The Scottish economy has been through some tough times, but proved relatively resilient during 
+the financial crisis, with Scottish onshore GDP falling much less than overall UK GDP. Even the existence of 
+the Loch Ness monster has proved resilient to continued scientific investigation.   
+ And resilience is a word that you hear a lot these days (Chart 1). Psychological resilience is lauded as a 
+virtue as life becomes more complex and challenging. Ecological resilience is becoming increasingly 
+prominent as the world comes to terms with the threat from climate change. In my role as Deputy Governor 
+for Markets and Banking I’ve recently talked about the importance of resilience in the Bank’s operations.2  
+ What I want to focus on today is economic resilience, by which I mean the ability of an economy to withstand 
+and recover from unexpected difficulties – what economists call “shocks”. This is of particular relevance to 
+two of the Bank’s policy committees that I am a member of, the Monetary Policy Committee (MPC) and 
+Financial Policy Committee (FPC). 
+  Economic resilience is a subject I first really got 
+Chart 1: Google searches for “resilience” 
+interested in when I became Chief Economic Adviser at 
+Index: 100 = maximum
+the Treasury in 2007. At this point the UK economy had 
+been growing continuously for 15 years, a period 
+characterised by solid growth, falling rates of 
+unemployment, and low and stable inflation. And a 
+similar pattern had held across other advanced 
+economies. 
+ The question economists were asking themselves, 
+including in the UK, was what explained that pattern. 
+Was it just good luck – had the economy been hit by 
+fewer or smaller unexpected shocks than in previous 
+decades? Or was it more down to good judgement – 
+was the economy now, including because of 
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2004 2006 2008 2010 2012 2014 2016 2018
+ Source: Google Trends. Google Trends indices show the 
+number of searches on a specific topic as a proportion of all 
+searches, normalised to give a maximum value of 100. 
+                                                      
+2 For instance in my recent speech “Resilience and innovation in post-trade”, available online at https://www.bankofengland.co.uk/-
+/media/boe/files/speech/2019/resilience-and-innovation-in-post-trade-speech-by-dave-ramsden.  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+2 
+ 
+2 
+   
+ 
+improvements in policy, better able to adjust to shocks when they did happen? 
+ One way analysts at the OECD and at the UK Treasury tried to answer that question was by looking at 
+graphs like these (Charts 2 and 3).3 These try to quantify the resilience of different countries in specific time 
+periods in terms of shocks to GDP. They show a statistical estimate of the average GDP shock to hit the G7 
+economies in the first and second half of the available pre-crisis data – roughly, the pre-crisis decade and the 
+previous decade – and how long that average shock persisted for. The scale on the X axis shows the 
+number of years from the point the shock first hit. And the scale on the Y axis shows the deviation from trend 
+output in each year. Broadly speaking, the smaller the average shock, and the faster it goes back to trend, 
+then, as defined, the more resilient the economy. 
+ There were a few conclusions that we drew from this analysis back in 2008. First, the scale of economic 
+shocks, measured by the size of the initial impulse, had fallen significantly across all the G7 economies. And 
+second, the shocks had generally become less persistent across economies. That’s less obviously true for 
+the UK in this version of the chart, but it appeared true in the data that was available at the time. Thirdly, the 
+country whose resilience had increased the most between the two periods of all the G7 countries was the 
+UK.  
+   Chart 2: typical response to an economic 
+Chart 3: typical response to an economic 
+shock, 1985-96 subsample  
+shock, 1997-2007 subsample 
+Per cent deviation from trend output
+2.0
+Per cent deviation from trend output
+2.0
+1.5
+1.0
+0.5
+0.0
+4
+5
+-1
+0
+1
+2
+3
+4
+5
+-1
+0
+1
+2
+3
+Years since shock
+Canada
+Italy
+USA
+Germany
+Japan
+France
+UK
+Canada
+Italy
+USA
+Years since shock
+Germany
+Japan
+France
+UK
+  1.5
+1.0
+0.5
+0.0
+                                                        
+3 These charts replicate charts 2.4a and 2.4b in Gurney (2008), “Resilience in the UK and other OECD economies: Treasury Working 
+Paper No. 2”, available online at https://webarchive.nationalarchives.gov.uk/20081112160625/http:/www.hm-
+treasury.gov.uk/d/bud08_workingpaper2_557_.pdf. The replication is only approximate as the OECD have discontinued their quarterly 
+output gap series: we estimate a simpler AR(1) model using their annual estimates. See also the OECD work summarised in Duval, 
+Elmeskov and Vogel (2007), “Structural Policies and Economic Resilience to shocks”, available online at https://www.oecd-
+ilibrary.org/economics/structural-policies-and-economic-resilience-to-shocks_140152385131, which reached similar conclusions. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+3 
+ 
+3 
+   
+ 
+This analysis alone couldn’t prove whether the increase 
+in UK resilience was down to good judgement or to good 
+luck – the UK might simply have had the good fortune to 
+be hit by smaller and less persistent shocks. But given 
+the policy changes that had been made – things like 
+successive labour market reforms and changes to the 
+monetary and fiscal frameworks – it was suggestive. 
+ You’ll have noticed that my sample in the second chart 
+ends in 2007. Of course everyone knows what 
+happened next. The global financial crisis triggered the 
+biggest UK recession in post-war history. Unemployment 
+rose to 8.5%, annual GDP growth troughed at -6.1% and 
+inflation see-sawed between close to 1% and over 5%. 
+And the UK fared worse than most of its peers (Chart 4). 
+ Chart 4: G7 GDP in the financial crisis  
+Index: 100 = peak pre-crisis GDP
+104
+102
+100
+98
+96
+94
+92
+90
+-4
+0
+4
+8
+12
+Quarters from GDP peak
+Canada
+Italy
+US
+France
+Japan
+Germany
+UK
+ Why did the crisis trigger such a severe recession, and why was it particularly bad in the UK? One reason 
+was that the pre-crisis build-up of debt had been so large. Another was the very large size of the UK financial 
+sector, which acted to amplify rather than reduce the blow. Interest rates on credit spiked, and lending to 
+households and businesses came to a standstill. Partly as a result, it gradually became apparent that the hit 
+to demand had been accompanied by a large and permanent hit to the level of productivity – that is, the 
+amount of output the economy was actually capable of producing – and a sustained slowing in its growth 
+rate. GDP took many years to return to trend growth. And that trend was itself much weaker than what had 
+become seen as normal in the pre-crisis decades.   
+ Having appeared to be among the most resilient economies in the G7, the UK revealed itself to be one of the 
+least resilient.  
+ I take three key lessons from the financial crisis and what followed. The first lesson – which seems obvious 
+in hindsight – is that the past is not necessarily a good guide to the future.  The second is about what 
+constitutes resilience. We had thought the UK economy was resilient, but we were looking at a narrow form 
+of resilience – by focusing on resilience in terms of GDP growth and inflation, we had failed to realise how 
+fragile the financial system had become, both in response to and as a source or amplifier of shocks. We 
+should have been thinking about and tracking developments much more broadly. And, following on from the 
+first two, the third lesson is that policy needs to be prepared for the unexpected.  
+ What I want to use the rest of this speech to talk about is how I think about stability and resilience in light of 
+those three lessons now that I’m at the Bank of England, and how that has influenced my approach to 
+monetary and financial policy setting in the face of recent and future shocks. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+4 
+ 
+4 
+   
+ 
+2   A broader assessment of resilience 
+ My first lesson from the financial crisis was that the past is not necessarily a good guide to the future. For the 
+MPC this is most obviously true when it comes to thinking about supply growth – that is, the economy’s 
+underlying growth potential. The experience of the crisis showed us that it wasn’t enough to think about 
+business cycles relative to a fixed supply trend: that might have worked for the decades before the crisis, 
+when supply growth averaged around 2½ %; these days we have to think about supply as much as we do 
+about demand. That’s because once the economy is on trend the growth of supply sets the “speed limit” for 
+how fast demand can grow without generating above-target inflation. Reflecting that, for instance, the word 
+“productivity” – a concept which is integral to our assessment of the speed limit – now appears almost three 
+times as frequently in our Inflation Report as it did before the financial crisis (Chart 5). And the MPC have 
+instituted an annual “supply stocktake” to enable us to have a regular, full and in-depth discussion of the 
+subject. 
+ Although we are uncertain about the pace of productivity growth, one thing that does seem likely is that it will 
+remain lower for the foreseeable future than it was before the financial crisis. This judgement is embedded in 
+our Inflation Report forecasts, where we now assume productivity growth of around 1%. This compares with 
+around 2% before the crisis, but is still up on the 0.6% average rate since 2016.  
+ The slowdown in productivity growth has been broad-based across the sectors of the economy. But it has 
+been particularly pronounced in finance and manufacturing, to the point where they account for more than 
+half of the overall slowing (Chart 6). If the weakness in finance sector productivity has been a result of 
+households and firms paying down debt – a process which has now largely run its course – then you might  
+ Chart 5:  Frequency of mentions of 
+Chart 6: Sectoral contributions to the 
+“productivity” in the Inflation Report 
+slowdown in productivity growth 
+Mentions per million words
+Percentage
+ICT
+Prof. & scientific
+Finance
+Manufacturing
+Other
+Total
+2.5
+2.0
+1.5
+1.0
+0.5
+0.0
+-0.5
+-1.0
+-1.5
+-2.0
+2001
+2005
+2009
+2013
+2017
+ 1997-07
+2008-09
+2010-17 Difference
+(2010-17
+minus 1997-
+07)
+  
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+5 
+ 
+5 
+ 4000
+3500
+3000
+2500
+2000
+1500
+1000
+500
+0
+1997
+   
+ 
+expect to see an increasing contribution from finance in the coming years, and perhaps also spillovers to 
+professional services and other complementary industries.4 This would help underpin the pickup in 
+productivity growth that we are forecasting at the aggregate level. 
+ I am less confident, because I put more weight on the view that pre-crisis growth in finance sector 
+productivity was simply unsustainable. Much of the apparent growth in finance sector productivity before the 
+crisis reflected profits on the risky lending that led to the crisis itself. Indeed the way finance sector output is 
+measured meant that the rate of bank balance sheet expansion translated directly into the measured 
+contribution of the finance sector to productivity growth.  
+ Strong pre-crisis growth in manufacturing productivity, meanwhile, was largely caused by structural changes 
+in the sector catalysed by globalisation. Increased competition from abroad, especially from China, created a 
+more challenging climate for UK manufacturers, incentivising them to raise productivity (often supported by 
+significant foreign direct investment) or scale back production. The UK manufacturing sector is now much 
+more productive as a result – but is also smaller.  
+ Looking ahead, the risks to productivity from this channel also appear to be to the downside. The tensions 
+between the US and China have led to increased tariffs which have contributed to a slowdown in world 
+growth and a sharp slowing in goods trade. And in the UK, Brexit, on our forecast assumptions, is likely to 
+lead to a reduction in the UK’s integration with the EU in goods and services trade, which appears unlikely, at 
+least in the near term, to be offset by an equivalent increase in integration with the rest of the world. 
+ Putting all this together leaves me a little more pessimistic on productivity growth than the MPC’s central 
+forecast. Since productivity growth is a key determinant of how fast the economy can sustainably grow – 
+what I just described as the economy’s “speed limit” – that also means that, all else equal, I am a little more 
+pessimistic about future GDP growth. 
+ My second lesson from the crisis was that we need to think about resilience much more broadly. Reflecting 
+that, economic policy makers now think as much about stability over the financial cycle as we do over the 
+business cycle – a broader definition of resilience. One major response to the financial crisis was the 
+creation of a new Financial Policy Committee as part of the Bank of England, giving it an explicit mandate to 
+identify, monitor and take action to remove risks to the financial system. The Committee’s goal is to ensure 
+the financial system is resilient to shocks, so that it doesn’t again act as an amplifier, worsening the impact 
+on households and businesses in the real economy, as it did in the crisis.  
+                                                       
+4 My MPC colleague SIlvana Tenreyro sets out these arguments in detail in her spech “The fall in productivity growth: causes and 
+implications”, available online at https://www.bankofengland.co.uk/-/media/boe/files/speech/2018/the-fall-in-productivity-growth-causes-
+and-implications.pdf.  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+6 
+ 
+6 
+   
+ 
+The FPC has been active in pursuing this goal. We have a mandate to ensure the safety and soundness of 
+the financial system as a whole.  To do that, one of the things that we do is to regularly reassess and actively 
+adjust the amount of loss-absorbing capital that banks, who are at the heart of the financial system, are 
+required to hold as our assessment of the level of risks changes. (Our tool for doing this is called the  
+counter-cyclical capital buffer rate, or CCyB.)  And we also monitor new developments in the financial system 
+to check that everything is appropriately covered by regulation and that we are not missing any new risks. 
+We have taken action to insure against potential financial stability risks from the housing market. And we aim 
+to protect the system against wider operational and cyber risks as well as from financial ones. 
+ 3   The UK’s evolving economic resilience  
+ What does all this mean for how we are setting policy today? 
+ The biggest single shock to the UK economy since the global financial crisis has been the Brexit referendum 
+result and its aftermath. In many ways the nations and regions which make up the UK have proved resilient 
+to that ongoing shock. Employment growth has remained historically strong, with unemployment falling to 
+3.8%. Wage growth has picked up after years of subdued growth, with private sector regular pay growth now 
+at 3½%. And GDP turned out to be robust: it has grown by around 1% more than we predicted in August 
+2016, immediately after the referendum – but still by around 1½% less than we predicted in May 2016. 
+ Part of that resilience reflects the fact that Brexit has been a slow-moving policy and political process, now 
+nearing the end of its third year. It also reflects the policy response to the shock – the MPC cut Bank Rate to 
+0.25%, launched a Term Funding Scheme to reinforce the pass-through of that cut, and embarked on a new 
+round of asset purchases; and the FPC cut the CCyB. Fiscal policy has also been more supportive, and the 
+world economy grew more strongly than we had expected.  
+ But part of that performance also appears to reflect the underlying resilience of the UK labour market. The 
+growing flexibility of the labour market has been a theme in UK economic policy developments for some 
+time. The share of long term unemployed has fallen steadily from its 1980s peak of 4½% to reach 1% now; 
+even in the financial crisis, when unemployment stayed around 8% for several years, long term 
+unemployment remained below 3%.  
+ This resilience is good news, and has been positive for households and businesses. But as policymakers it is 
+important that we look at the underpinnings of this resilience. GDP growth since the Brexit referendum has 
+mainly been supported by continued consumption growth, even despite the hit to real household income 
+caused by the fall in sterling around the referendum. Consumption has instead been funded, perhaps less 
+sustainably, by a historically low household saving ratio. Net trade on the other hand has performed less 
+strongly; while it did support growth immediately following the referendum and in response to the 
+  
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+7 
+ 
+7 
+   
+ 
+accompanying depreciation, that boost has now come to an end, and slowing trade is now dragging on 
+growth.  
+ Chart 7: G7 business investment 
+Chart 8: Business investment compared with 
+ previous recoveries 
+Percentage changes on a year earlier
+20
+15
+10
+5
+0
+-5
+-10
+-15
+-20
+-25
+2007
+2009
+2011
+2013
+2015
+2017
+G7 (ex. UK)
+UK
+ Indices: peak in GDP = 100
+EU Referendum
+Act 
+180
+160
+140
+120
+100
+80
+60
+2008
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Quarters since pre-recession peak in GDP
+ At the same time, business investment has been strikingly weak. Investment growth was already slowing 
+ahead of the Brexit referendum (Chart 7). Following the referendum it has come to a complete stop. In fact 
+the level of business investment has actually fallen slightly over the past three years – that is despite a 
+supportive global environment and accommodative financial conditions that have supported growth in other 
+countries, and in contrast to the 7%-plus annual growth we were forecasting ahead of the referendum. And 
+over 2018 it fell for four consecutive quarters by a total of 2½% - the first time this has ever happened 
+outside a recession, and completely outside the range of recoveries from previous recessions (Chart 8).  
+ Given all this, while the ½% increase in investment in the 
+most recent data is welcome if it can be sustained, so far 
+it offsets only a tiny fraction of the investment weakness 
+of the previous three years. And likewise the recent 
+quarterly strength in GDP appears to have been driven 
+more by stockbuilding ahead of the initial 29th  
+March Brexit deadline, as well as by further rises in 
+consumer spending, than by underlying strength. 
+ The main driver of the investment weakness is the 
+uncertainty generated by the Brexit negotiations, which 
+is discouraging businesses from investing. We hear that 
+ Chart 9: Business investment in the May 
+2019 Inflation Report 
+Percentage change on previous year
+15
+10
+5
+0
+-5
+-10
+-15
+-20
+2000 2003 2006 2009 2012 2015 2018 2021
+  
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+  8 
+ 
+8 
+  
+ 
+message clearly both from our Agents’ and our own conversations with business leaders such as yourselves 
+and through our formal Decision Maker Panel survey of over 7000 firms. That uncertainty intensified as the 
+March Brexit deadline approached, explaining the further weakening in investment in 2018. If the 
+government is able to agree a transition deal ahead of the new October deadline, that should lead to some 
+easing in uncertainty. This is what we have assumed in our latest Inflation Report forecast, where conditional 
+on a smooth Brexit investment growth resumes in 2020 and 2021 (Chart 9). But we are unlikely to achieve 
+full certainty until the final outcome of negotiations is known, and there is a risk that more persistent 
+uncertainty could push out the pick-up in investment and continue to drag on growth.  
+ The weakness of investment also casts further doubt on how durable the resilience of the labour market has 
+been. Usually business investment and employment rise and fall together – in aggregate, businesses either 
+increase hiring and investment at the same time, or they cut them both. For businesses to be increasing 
+employment at the same time that they are reducing investment suggests something unusual is going on. 
+One explanation would be if they are substituting labour for capital, perhaps on the grounds that hiring would 
+be easier to reverse in the event of a shock than capital expenditure. Another would be if demand is shifting 
+away from capital-intensive, export-oriented businesses and into labour-intensive, domestically-focused 
+ones. 
+ Either way, this shift away from capital and towards labour matters for the economy. Bank staff calculations 
+suggest it has left the economy around 1½% less capital-intensive than we were forecasting ahead of the 
+Brexit referendum. By itself that reduction in capital intensivity accounts for a ½% reduction in labour 
+productivity, even before allowing for the additional impacts of foregone innovation and process 
+improvement. If this continues it will drag still further on the economy’s already weak productivity trend, over 
+and above the drag from reduced economic openness that I highlighted earlier. 
+ I’ve talked so far from a whole UK perspective. And that’s right because the MPC and FPC set policy for the 
+whole country. But regional resilience is also an important aspect of resilience.5   
+ And Scotland, like the UK, has been resilient in a number of ways. The Scottish economy has become 
+increasingly diversified over time. I already mentioned Scotland’s relatively robust performance in the 
+financial crisis. And while the falls in the oil price weighed on growth in 2015-16, more recently GDP growth 
+has broadly kept pace with the UK as a whole – although Brexit uncertainty is having the same negative 
+effects in Scotland as elsewhere. Scottish labour productivity, while slower than pre-crisis as in the rest of the 
+UK, has been better sustained, perhaps because there has been less of an impact from the financial sector. 
+And unemployment is at 3.2%, even lower than the already record-breaking UK rate of 3.8%. In the Highland 
+region it was 3.0% in the most recent data. 
+                                                      
+5 Andy Haldane’s speech “Is all economics local?”, available online at https://www.bankofengland.co.uk/-
+/media/boe/files/speech/2019/is-all-economics-local-speech-by-andy-haldane.pdf, gives a sense of the kind of new ways the Bank is 
+using regional data to get a better understanding of the economy. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+9 
+ 
+9 
+   
+ 
+Table A: Summary of the May 2019 Inflation Report forecast 
+  4   The outlook for policy  
+ The resilience of the economy to date has meant that the MPC and FPC have both adjusted policy. Demand, 
+in terms of GDP growth, has exceeded growth in supply such that spare capacity in the economy has been, 
+broadly speaking, used up. Reflecting that, and its implications for domestic inflationary pressure, the MPC 
+has raised Bank Rate twice; it now stands at 0.75%. The FPC, meanwhile, judging that the domestic risk 
+environment had returned to a standard level, has also raised the counter cyclical capital buffer twice to 1%. 
+ Looking ahead, if we get a smooth Brexit with a transition deal, as assumed in the MPC’s latest Inflation 
+Report forecast (Table A), I expect growth to pick up, leading to excess demand and building domestic 
+inflationary pressure, so that further monetary tightening is appropriate to maintain monetary stability.  
+ Relative to the best collective judgement expressed in the MPC’s central forecast I am, as I have set out in 
+my talk today, a little more pessimistic on GDP growth than my colleagues on the MPC. But as I have 
+discussed, that is true both on the supply side, where I can see more downside risks to productivity, and on 
+the demand side, where I am less optimistic that investment will recover as much as it does in the central 
+forecast. Those two risks broadly offset each other in terms of the balance of demand and supply, meaning 
+that my best guess for inflation, and the outlook for policy, is in line with the central view. 
+ 
+But as I have argued today, the outlook for policy depends on more than just our central expectation for the 
+path for the economy – we need to consider the risks as well. My third lesson from the crisis was that policy 
+needs to be prepared for the unexpected. That is true both for the MPC, who need to take the balance of  
+risks to their central forecast into account when setting monetary policy, and for the FPC, who set financial 
+policy based on their assessment of the risks to financial stability. The FPC track a very large number of 
+risks; I will focus on just two – first, market volatility, and, second, Brexit.6 
+                                                        
+6 Jon Cunliffe’s speech “Financial stability post Brexit: risks from global debt”, available online at https://www.bankofengland.co.uk/-
+/media/boe/files/speech/2019/financial-stability-post-brexit-risks-from-global-debt-speech-by-jon-cunliffe.pdf, goes into more detail on 
+several key risks including Brexit and global risks. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+10 
+ 
+10 
+   
+ 
+First, one widely-used measure of the risks to economic 
+stability is the measure of global policy uncertainty 
+shown in Chart 10, taken from the May 2019 Inflation 
+Report. This has risen sharply in the past couple of 
+years and to historic highs; it fell back in the most recent, 
+April, data, but remains high. Against the backdrop I 
+have been discussing of slowing global growth, trade 
+tensions and Brexit uncertainty, that is not surprising. 
+But it suggests a policy environment that could 
+potentially be challenging.  
+ Many of the drivers of elevated policy uncertainty are 
+fundamentally shocks to supply, which monetary policy 
+is not able to offset, rather than demand. But they could 
+introduce a more complicated policy trade-off for the 
+MPC. And they represent risks to financial stability which 
+the FPC needs to be mindful of and prepared to respond to. 
+ Chart 10: Measures of uncertainty 
+Differences from averages since 2002 (number 
+of standard deviations)
+6
+5
+4
+3
+2
+1
+0
+-1
+-2
+2002
+2006
+2010
+2014
+2018
+Policy uncertainty
+VIX
+ The policy uncertainty index is available at 
+http://www.policyuncertainty.com/. This chart shows data to 
+end-April. 
+That is particularly the case given the apparent disconnect between this measure of policy uncertainty and 
+measures of market uncertainty, for example the VIX measure of US equity market uncertainty which is also 
+shown on the chart. The VIX has risen far less than the policy uncertainty index in recent months, suggesting 
+market participants see relatively little risk of major disruption. It has picked up a little in the recent data as 
+US-China trade tensions intensified, but has also fallen back to below historical averages. 
+ This apparent disconnect does not necessarily mean that markets are complacent – the policy uncertainty 
+index might be more sensitive to short-term political developments, while market indices could also be 
+factoring in a belief that monetary policy might be able to offset the impact of shocks. But if market 
+participants are underestimating the extent of political risks materialising, that suggests the potential for 
+sharp price corrections if those shocks do come about.  
+ The second risk I want to highlight today, and unarguably biggest risk to the UK economy and UK financial 
+stability, remains that of a Brexit outcome of no deal and no transition. That would have large negative 
+economic effects, both in the Bank’s view and in the views of the businesses we talk to up and down the 
+country (Chart 11). This has been a key focus for the FPC in particular since the Brexit referendum, and we 
+have taken many actions to prepare for and respond to it. We have evaluated what effect of a worst case 
+disorderly scenario, featuring much lower GDP, higher inflation and unemployment and much lower house 
+prices, would be on the core banking system, and concluded that it would be resilient to such an event – in 
+other words that banks would be able to continue to lend to households and businesses in a way  
+  
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+11 
+ 
+11 
+   
+ 
+Chart 11: Expectations for the impact of Brexit on business  
+ Deal and transition
+No deal and no transition
+Net percentage balance
+50
+40
+30
+20
+10
+0
+-10
+-20
+-30
+-40
+they couldn’t at the time of the financial crisis. Just as importantly, we have published our assessment of the 
+most significant risks to financial stability from disruption to cross-border services in a disorderly scenario, 
+and we have worked with other authorities in the UK and EU to mitigate those risks.  
+  This work has been largely successful: in our view most risks to financial stability that could arise have been 
+mitigated – although, particularly in the absence of further actions by EU authorities, some potential risks to 
+financial stability, primarily to EU households and businesses, remain. And it’s important to note that financial 
+stability is not the same as market stability; a no deal, no transition Brexit could still be expected to bring 
+significant market volatility, as well as economic instability. 
+ One question I am often asked is how the MPC would respond in such a disorderly no deal scenario. 
+Unfortunately this is not a question with an unambiguous answer. The lesson that we should take a broad 
+view of resilience applies particularly in this case. A disorderly no deal scenario would certainly be a major 
+negative supply shock – the largest since the 1970s. But the relative response of demand and supply will 
+would depend on the precise nature of the shock that hit, as would the response of the exchange rate and 
+other asset prices.  
+ How the MPC would respond would depend on the balance of demand, supply and the exchange rate and 
+the implications of all those for inflation, as we set out in a range of alternative scenarios that we published in 
+November to aid understanding.7 Each committee member will have their own assessment of the most likely 
+combination of factors; but it is impossible to predict exactly what would happen in advance, and I would 
+                                                      
+7 These are included in “EU withdrawal scenarios and monetary and financial stability”, available online at 
+https://www.bankofengland.co.uk/report/2018/eu-withdrawal-scenarios-and-monetary-and-financial-stability, which we published in 
+November 2018 at the request of the House of Commons Treasury Committee. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+12 
+ 
+12 
+   
+ 
+want to wait and see how the situation unfolded. There are scenarios where the balance of those factors 
+would mean looser monetary policy was appropriate, and other scenarios where it would be appropriate to 
+tighten. In other words the response would not be automatic and could go either way: rates could go up or 
+down as the situation demands. 
+ 5   Conclusion  
+ The financial crisis reminded us that the past is not always a good guide to the future. It taught us there is 
+more to resilience than the narrow economic cycle. And it demonstrated that policy needs to prepare for the 
+unexpected. 
+ While it is important to remain humble and vigilant, I think that the Bank of England has learned the lessons 
+of the crisis. We have realised that we are uncertain about supply as well as demand. We have expanded 
+our view of resilience to cover the financial cycle and risks to financial stability as well as the business cycle. 
+And, through the FPC, we have been given a mandate to identify risks and new tools and powers to address 
+those risks before they materialise. 
+ Those lessons have guided our approach to Brexit. We have not assumed the future will look like the past: 
+different outcomes from the negotiations could have very different effects on the economy. The MPC have 
+set monetary policy based on what we expect to happen in the most likely outcome, based on the 
+assumption of a smooth transition to an average of possible end-states, but with full recognition of the risk 
+that things could turn out differently. And the FPC have actively sought to insure against the most serious 
+downside risks. Whatever the eventual outcome, both the Bank’s macroeconomic policy-making committees 
+will continue to set policy to manage risks, ensure resilience and maintain monetary and financial stability.  
+   
+All speeches are available online at www.bankofengland.co.uk/news/speeches 
+13 
+ 
+13 
+ 

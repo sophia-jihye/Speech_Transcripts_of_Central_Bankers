@@ -1,0 +1,269 @@
+Malcolm Edey: The challenge of central clearing in OTC derivatives 
+markets1 
+Address by Mr Malcolm Edey, Assistant Governor (Financial System) of the Reserve Bank of 
+Australia, to the ISDA Annual Australia Conference, Sydney, 20 October 2011. 
+ Good morning, and thank you to ISDA for the opportunity to speak here today. 
+This conference is taking place at an interesting and challenging time for the global financial 
+system. Obviously a good deal of attention right now is focused on Europe, particularly on 
+the  problem  of  sovereign  debt  sustainability  and  its  interaction  with  the  condition  of  the 
+European banking system. This is a source of significant uncertainty for the rest of the world. 
+Policymakers are working hard to find solutions that will rebuild confidence, but the situation 
+is still fluid and it remains an area that will need to be closely watched. 
+In Australia meanwhile the financial system is continuing to perform relatively well. The broad 
+outlines of that story are, I think, well known. During the GFC Australia avoided a recession 
+and a banking crisis. Our banks are profitable and well capitalised, and their overall asset 
+quality remains good. 
+We can’t of course expect the Australian system to be entirely immune from the unfolding 
+events  in  Europe,  but  a  couple  of  points  are  worth  emphasising.  The  first  is  that  the 
+Australian banks have only limited direct exposures to sovereign debt in the countries that 
+are  most  at  risk.  So  potential  effects  on  Australian  banks’  overall  asset  quality  are  not  an 
+issue. The second point is that, since the height of the GFC, the Australian banks have done 
+a  lot  to  strengthen  their  funding  positions.  They  have  increased  their  use  of  domestic 
+deposits as a funding source, lengthened the average term of their wholesale funding, and 
+correspondingly reduced their reliance on short-term wholesale debt. These things will help 
+to  make  them  more  resilient  to  the  uncertainties  that  are  now  affecting  international  credit 
+markets. 
+As  important  as  these  current  challenges  are,  financial  regulators  around  the  world  have 
+been focusing not just on those, but also on longer-term regulatory reforms. The reform effort 
+is proceeding on a number of fronts, aimed at building more robust financial systems for the 
+longer term and thereby reducing the risk of future crises. Many of these efforts are being 
+coordinated  internationally  through  the  G20  process,  through  the  Financial  Stability  Board, 
+and  through  standard-setting  bodies  like  the  Basel  Committee.  In  all  of  these  bodies 
+Australia is actively represented. 
+In broad terms, the various reforms draw on the lessons that emerged from the GFC, and 
+they  seek  to  remedy  the  weaknesses  that  became  apparent  during  that  period.  Hence, 
+among  other  things,  there  is  a  significant  effort  through  the  Basel  process  to  increase  the 
+amount  and  quality  of  capital  in  the  global  banking  system,  and  to  strengthen  liquidity 
+management by banks. Although, as I said, we didn’t have a banking crisis here during the 
+GFC period, the Australian regulators recognise the importance of improving standards, and 
+we are working on implementation of the various international initiatives in all these areas, 
+and others. 
+One particular piece of the picture that has absorbed a lot of our attention at the Reserve 
+Bank  has  been  the  work  on  financial  market  infrastructure,  particularly  in  relation  to  OTC 
+                                                 
+1  For a more detailed treatment of the issues discussed in this speech, readers are referred to the Council of 
+Financial  Regulators  Discussion  Paper,  Central  Clearing  of  OTC  Derivatives  in  Australia,  June  2011 
+http://www.rba.gov.au/publications/consultations/201106-otc-derivatives/pdf/201106-otc-derivatives.pdf. 
+BIS central bankers’ speeches 
+ 1
+why is there a general case for promoting central clearing?  
+what are the complexities involved?; and  
+where does the process stand in Australia?  
+derivatives clearing. I know this is very relevant to ISDA members here today, and it’s on this 
+topic that I want to focus my main remarks. 
+At the Pittsburgh Summit in September 2009, G20 leaders agreed, among other things, to a 
+common commitment to central clearing in key derivatives markets. The commitment states 
+that “all standardised OTC derivative contracts should be traded on exchanges or electronic 
+trading  platforms,  where  appropriate,  and  cleared  through  central  counterparties  by  end-
+2012  at  the  latest”.  Australia  was  part  of  that  agreement,  and  the  Australian  regulatory 
+agencies,  like  those  in  other  G20  jurisdictions,  are  working  through  the  issues  associated 
+with its implementation. 
+In focusing on that today, I want to look at three questions: 
+ 
+ 
+ 
+First, why central clearing? 
+The general case for promoting central clearing in derivatives markets is based on the aim of 
+reducing systemic risk by managing interconnectedness. In markets without central clearing, 
+counterparty  exposures  build  up  bilaterally  and,  in  certain  kinds  of  products,  they  can 
+accumulate  to  very  large  notional  amounts  over  time.  In  many  cases  this  might  not  be  a 
+problem,  but  where  the  interconnections  are  extensive  enough  they  can  be  a  source  of 
+systemic  risk.  The  risks  from  those  exposures  might  be  managed  well  by  individual 
+institutions, but an institution can’t be sure that its dealings with others don’t expose it to a 
+lower standard of risk control practiced by a counterparty, or anyone else in the market that 
+is linked through bilateral trades. 
+The clearing process, by novating positions to a central counterparty (CCP), allows risks to 
+be centrally managed to a standard acceptable to the market and its regulators. Moreover, 
+with legally enforceable multilateral netting, gross exposures can be drastically reduced. As 
+long as the CCP is itself robust, the effect should be to reduce the scope for contagion and 
+thereby limit the impact on the market if one or more of the participants fail. The experience 
+with resolving the Lehman failure in 2008 testifies to the effectiveness of this mechanism in a 
+crisis. We might also expect that confidence in this mechanism will help to underpin market 
+liquidity during periods of financial stress. 
+All  of  this  presupposes  that  the  CCP  is  itself  robust.  Of  course,  CCPs  themselves  have  a 
+strong incentive to control their risks, since they are after all in the risk-reduction business. 
+But  it  also  points  to  the  need  for  appropriate  regulatory  standards  to  ensure  that  the  risk 
+controls in a CCP are commensurate with its significance for the wider system. 
+Subject to that proviso, central clearing reduces aggregate counterparty risk by replacing a 
+web  of  bilateral  exposures  with  a  set  of  potentially  much  smaller  net  exposures  of  each 
+participant  to  a  CCP  with  robust  risk  management.  Individual  participants  benefit  from  the 
+reduction in risk but, importantly, so does the stability of the system as a whole. In a nutshell, 
+that  is  the  basic  case  for  promoting  central  clearing  as  a  policy  objective  in  systemically 
+important derivatives markets. 
+Which brings me to my second question: what about the complexities? 
+When  talking  about  these  things  in  the  abstract,  it’s  easy  to  talk  as  though  a  central 
+counterparty is truly “central”. But in fact, as we all know, it’s not that simple. There is a huge 
+array of markets in financial instruments around the world and there are multiple CCPs for 
+different instruments. Some instruments are centrally cleared already, many are not. Not all 
+instruments  are  good  candidates  for  central  clearing,  because  they  are  not  sufficiently 
+standardised and can’t easily be made so. 
+2 
+ BIS central bankers’ speeches
+It’s also important to recognise that not all market participants are alike, and not all can be 
+expected to have direct access to the major CCPs even when the new structures are fully in 
+place.  So  the  abstract  model  in  which  all  participants  are  connected  to  the  central  clearer 
+won’t be realised in practice. 
+For all these reasons, the optimal configuration of clearing arrangements in the real world is 
+far from obvious, and the way global markets will evolve in response to a mandatory clearing 
+environment across multiple jurisdictions is hard to predict. 
+Another complication is the question of interconnectivity between clearers. A central clearer 
+should, in some sense, be central. In theory, netting benefits might be maximised by a single 
+global  CCP  clearing  all  the  major  instruments,  with  all  active  traders  as  members  and  all 
+positions  included  in  the  scope  of  multilateral  netting.  It’s  not  clear  that  such  an  outcome 
+would be desirable even if it were possible. It would amount to a massive concentration of 
+risk  at  a  single  point  and  would  give  rise  to  complex  operational  issues  and  questions  of 
+jurisdictional oversight. 
+But in any case, even if such an outcome were desirable, it won’t be achieved. The closest 
+alternative might be to provide links that allow trades to be cleared between participants in 
+different  CCPs.  The  question  of  how  this  might  eventually  occur,  or  even  of  whether  it  is 
+achievable  at  all,  then  becomes  very  important.  The  weight  of  expert  opinion  is  that  the 
+capacity  to  develop  these  links  is  still  a  good  way  off.  Links  between  CCPs  also  raise 
+complex questions about the transmission of risks from one CCP to another, and these will 
+need to be carefully studied. 
+For the foreseeable future, then, we will be in a world in which there is a collection of CCPs, 
+each of which has some source of competitive advantage in its own location or its own area 
+of  specialisation.  That  advantage  might  derive  from  historical  legacy,  or  it  might  arise 
+because  the  market  that  a  CCP  is  servicing  has  some  sort  of  natural  home  in  its  own 
+location. But these markets will remain contestable and so the configuration of CCPs around 
+the  world  is  likely  to  stay  fluid,  not  least  because  the  market  will  be  rapidly  evolving  in 
+response to changing regulatory requirements. 
+It is in this very unpredictable environment that the domestic regulators are considering the 
+policy framework for central clearing in Australia. 
+Before  I  come  to  that,  it’s  worth  reviewing  a  few  general  facts  about  the  Australian  OTC 
+derivatives market. Its largest component, in terms of the amounts outstanding, is the market 
+for single-currency interest rate swaps – the bulk of which are Australian dollar denominated. 
+Australian  banks  (both  locally  incorporated  and  foreign  bank  branches)  have  aggregate 
+notional principal amounts outstanding in this market of around $8 trillion.2 
+But banks operating in Australia are not the only entities to transact in this market. From a 
+jurisdictional point of view, we can (in principle) divide transactions in the global market for 
+Australian  dollar  derivatives  into  three  types,  namely  local-to-local,  local-to-offshore,  and 
+entirely offshore. In fact the distinction between a local and an offshore market participant is 
+not entirely straightforward, since many local participants are affiliated with offshore entities. 
+That  said,  the  available  data  suggest  that  all  three  of  those  transaction  types  form  a 
+significant share of the market. Most of the activity that involves the large foreign banks as 
+the two counterparties is already cleared through LCH SwapClear, while the remainder of the 
+market is currently uncleared. 
+It is of course misleading in another way to talk of these three market segments as if they 
+were  separable.  They  are  in  fact  closely  interdependent,  and  liquidity  in  each  of  the  three 
+parts benefits from the liquidity of the others. As a related point, the Australian dollar market 
+                                                 
+2  APRA data on banks’ off-balance sheet business as at end June 2011. Note that this figure double counts 
+amounts outstanding between reporting banks. 
+BIS central bankers’ speeches 
+ 3
+the size of the market  
+its fundamental role in hedging domestic interest rate risk, and  
+the long duration of counterparty risk in these instruments.  
+is itself interdependent with other global markets, and specifically with derivatives markets in 
+other currencies. 
+The  regulatory  agencies  in  Australia  have  indicated  that  they  view  the  Australian  dollar  IR 
+swap market as being systemically important to the domestic financial system. This reflects a 
+number of considerations, including: 
+ 
+ 
+ 
+It is important to note, however, that although this market is large in relation to the Australian 
+financial system, it is not large in global terms. 
+The next largest OTC derivatives market in Australia3 is for FX-related derivatives4, in which 
+the Australian banking system has a notional principal outstanding of around $4 trillion. Other 
+OTC markets, such as those for commodity derivatives, are much smaller, though that is not 
+to say that they don’t have the potential to grow over time. 
+For various reasons, international regulators are at this stage giving priority in their regulatory 
+strategies  to  single-currency  interest  rate  swaps.  Among  the  reasons  for  that  is  that  these 
+instruments are often of relatively long duration and have very large volumes outstanding, as 
+well as the fact that cross-currency instruments (the next biggest market) give rise to more 
+complex jurisdictional issues. In Australia, for similar reasons, any mandatory clearing policy 
+is likely to focus initially on the Australian-dollar interest rate swaps market. 
+At  the  heart  of  the  policy  challenge  are  two  inter-related  questions:  should  there  be  a 
+mandatory  clearing  requirement  in  this  market  and,  if  so,  should  it  include  a  locational 
+requirement,  to  the  effect  that  trades  be  cleared  by  a  locally  incorporated  and  locally 
+regulated CCP? Since there is no domestic CCP offering such a service currently, that would 
+involve requiring industry to come up with a solution that meets the regulatory objectives. 
+There are many factors that will have a bearing on this decision, but I think they boil down to 
+finding  a  balance  between  the  two  objectives  of  stability  and  efficiency.  The  stability 
+consideration  comes  from  the  point  that  I  made  at  the  outset.  The  purpose  of  promoting 
+central clearing is to reduce systemic risk. CCPs reduce risk in one important respect, but 
+they also concentrate it in a specific location. Where a market is systemically important to the 
+Australian economy and financial system, this points to a case for the CCP that clears it to be 
+subject  to  appropriate  safeguards  that  control  the  propagation  of  risks  to  domestic 
+participants. This might be best achieved where the CCP is locally incorporated and subject 
+to domestic regulation. At the least, it argues that the CCP should be subject to safeguards 
+that take into account its systemic significance for the Australian market. 
+The second set of considerations are those related to efficiency. We have to recognise that, 
+even for instruments that are denominated solely in Australian dollars, the market is a global 
+one. The cost-effectiveness of a local CCP will thus depend to a significant degree on global 
+forces. I’ve tried to highlight the uncertainties involved in predicting how the global market will 
+evolve. On that front, a number of submissions to our consultation process have emphasised 
+the risk of splitting the Australian dollar market if any local clearing mandate turns out to be 
+not sufficiently effective. 
+The  cost-effectiveness  and  viability  of  a  local  CCP  for  this  market  will  also  depend  on 
+aspects of the international regulatory environment that are not yet determined, including the 
+                                                 
+3  As measured by the amount outstanding. 
+4  That is, FX swaps, forwards and options. 
+4 
+ BIS central bankers’ speeches
+extent of eventual mutual recognition of CCPs across borders by their respective regulators. 
+We need to avoid an outcome where internationally active banks find themselves subject to 
+inconsistent mandating requirements among the jurisdictions in which they operate. On that 
+issue,  I  note  that  the  Financial  Stability  Board  has  recently  begun  discussions  on  the 
+challenges of mutual recognition, though these are still at an early stage. 
+Adding  further  to  the  complexity  is  that  the  environment  is  already  being  shaped  by 
+regulatory developments in the major jurisdictions, especially the US and Europe. Australian 
+entities that are active in those markets will need to meet the clearing requirements that soon 
+come into force there, and they will also be affected indirectly to the extent that they deal with 
+counterparties that are subject to those jurisdictions. 
+In the United States, the Dodd-Frank regulations on OTC clearing are likely to start taking 
+effect around the second quarter of next year, and in Europe the corresponding regulations 
+under EMIR5 are likely to take effect by around 2013. Even before then, market behaviour, 
+and hence the environment for the Australian banks, will be influenced by the anticipation of 
+those requirements. 
+In broad outline, then, these are some of the key considerations that will need to be taken 
+into account in determining the way forward in Australia. 
+This brings me to my third question: where does the policy process in Australia now stand? 
+In  June,  as  you  know,  the  Council  of  Financial  Regulators6  released  a  discussion  paper 
+setting out these issues in detail and calling for submissions from interested parties. 
+To help focus discussion, the Council paper put forward four propositions. In summary, these 
+were: 
+ 
+that in the absence of Australian regulatory action, domestic CCP solutions may not 
+emerge;  
+that  where  a  market  is  of  systemic  importance  to  Australia,  a  move  to  offshore 
+central clearing might introduce risks to the Australian financial system that do not 
+currently exist;  
+that  the  Council  agencies  considered  the  market  for  Australian  dollar interest  rate 
+swaps to be systemically important within Australia; and  
+that  in  light  of  this,  the  Council  agencies  were  considering  the  case  for  a 
+requirement  that  those  instruments  be  centrally  cleared,  and  as  part  of  that  were 
+considering whether such clearing should take place domestically.  
+   I stress that these were not conclusions. They were preliminary propositions that the Council 
+agencies were seeking to test. 
+In response to the paper, we have received around 30 submissions, including one from ISDA 
+and a good number from ISDA members who are no doubt represented here today, along 
+with  others  from  a  range  of  other  market  participants  and  interested  parties.  Most  of  the 
+submissions are available on the Bank’s website. Council agencies have also engaged in a 
+series of follow-up meetings with those who made submissions. I’ve participated in a number 
+of those myself, and I’ve appreciated the spirit in which the industry has provided its input. 
+If I’ve conveyed anything today, it’s that these are difficult and complex issues. Most of the 
+submissions  have  stressed  that  point,  and  there  was  a  strong  view  from  industry  that  it’s 
+                                                 
+5  European Markets Infrastructure Regulation. 
+6  Comprising the Reserve Bank of Australia, ASIC, APRA and the Australian Treasury. 
+BIS central bankers’ speeches 
+ 5
+important to take the time to get it right.7 We take the complexities seriously, and we need to 
+continue engaging with industry in the process of determining the best way forward. 
+That said, the Council’s advice on these matters, when it’s made, will be determined by the 
+public policy considerations of stability and efficiency that I’ve just outlined. Not all industry 
+participants will have the same commercial interests and not all will be of the same view as 
+to their preferred outcome. But where the industry contributions will be valuable is in helping 
+to make clearer what are the costs and benefits, and the risks, of the alternative approaches. 
+We hope to be in a position to put forward some conclusions from the consultation process 
+soon, but I can’t foreshadow those today. In the meantime, I take the opportunity to thank all 
+those  in  the  industry  who  have  made  constructive  contributions,  and  we  look  forward  to 
+continued engagement. 
+                                                 
+7  But  not  too  long.  Others  have  pointed  to  the  need  to  respond  in  a  timely  way  to  the  rapidly  changing 
+international environment. Again, it’s a question of balance. 
+6 
+ BIS central bankers’ speeches

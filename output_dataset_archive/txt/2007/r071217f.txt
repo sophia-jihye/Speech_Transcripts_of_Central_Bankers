@@ -1,0 +1,985 @@
+Paul Tucker: Money and credit – banking and the macroeconomy 
+Speech  by  Mr  Paul  Tucker,  Executive  Director  and  Member  of  the  Monetary  Policy 
+Committee  of  the  Bank  of  England,  at  the  Monetary  Policy  and  the  Markets  Conference, 
+London, 13 December 2007. 
+My thanks for comments and/or for background work to Peter Andrews, Charlie Bean, Tim Besley, Roger Clews, 
+Andy  Haldane,  Colin  Miles,  James  Proudman  and  Iain  de  Weymarn.  Special  thanks  to  Jing  Yang  and  Alex 
+Haberis. For comments and background work to Damien Lynch. And for secretarial support to Sandra Bannister 
+and Cheryl Feeney.  
+ Each  month  the  MPC  sets  a  policy  rate,  Bank  Rate,  that  will  prevail  until  our  next  policy 
+meeting. But no one – here today, in the market, or on the Committee – thinks that setting 
+the  overnight  money  market  rate  for  the  coming  30  days  can  be  enough  to  steer  demand 
+conditions and maintain stable inflation. Rather, policy works on the basis of expectations of 
+the path of the Bank Rate in the future, and of how our policy settings will vary according to 
+economic conditions: the so-called “reaction function”.  
+Perceptions of the reaction function therefore matter a lot and a great deal of effort goes into 
+being transparent about the three inputs: the Committee’s objective; the MPC’s views on the 
+shocks to demand and supply affecting the economy; and our views on how the economy 
+works  and  how  our  policy  settings  affect  it.  This  conference  is  focused  on  one  important 
+element  of  this:  the  role  of  financial  markets  in  the  setting  and  transmission  of  monetary 
+policy. That is covered in the Bank’s publications on how the economy works, including the 
+Committee’s  1999  paper  on  the  Monetary  Transmission  Mechanism  (MTM),  and  books 
+describing  the  models  used  in  forecasting.1  But  those  high-level  descriptions  miss  out  an 
+awful lot about how the real and financial parts of the economy connect. Financial variables 
+are  limited  to  the  short-term  interest  rate,  the  exchange  rate,  and  equities.  Nothing  on  the 
+role of long-maturity interest rates, or on credit spreads and risk premia – which misses out a 
+whole universe of financial asset prices. Very little on credit more generally. Next to nothing 
+on money. And nothing at all on the role of bank intermediation. 
+These  gaps  were  perhaps  underlined  by  a  degree  of  confusion  amongst  commentators 
+about  the  way  in  which  Money  and  Credit  featured  somewhat  more  prominently  in  the 
+Committee’s discussions during the backend of 2006 and into this year (Chart 1). With both 
+having been strong for a while, some asked whether this marked some kind of change in the 
+reaction function, implying a greater stress on nominal variables. 
+Given  the  near  identity  of  deposits  and  bank  lending,  Money  and  Credit  are  often  used 
+almost inseparably, even interchangeably, with wider measures of non-bank credit looked at 
+only  when  assessing  the  health  of  corporate and  household  sector  balance  sheets.  But  in 
+some circumstances one can do better to approach things the other way round, starting with 
+general credit conditions, examining the interactions of non-bank and bank lending, and then 
+broad money as a (partial) counterpart to M4L. My remarks today will follow that structure, 
+which will provide a framework for some observations about the current tightening in credit 
+conditions, as well as about the preceding expansion.  
+                                                 
+1   “The transmission mechanism of monetary policy”, a paper by the Monetary Policy Committee at the Bank of 
+England, April 1999 and Harrison R., K. Nikolov, M. Quinn, G. Ramsay, A Scott and R. Thomas, “The Bank of 
+England  Quarterly  Model”,  Bank  of  England  2005.  The  Bank’s  wider  “suite  of  models”  does  include  richer 
+asset price channels. 
+BIS Review 149/2007 
+ 1
+Credit 
+Credit is, of course, vital to any economy, enabling households and firms to make choices 
+about whether to bring forward or defer spending from income. There are conditions in which 
+it would play no active role, passively reflecting cyclical fluctuations in output, employment 
+and  inflation.  In  a  world  of  more  or  less  complete  transparency  between  borrowers  and 
+lenders, very low transactions costs, and very low risk aversion, access to credit would not 
+be  rationed;  and  ex  ante  yields  on  financial  assets,  including  loans  and  bonds,  would  not 
+embody risk premia. So if households and firms wanted to bring forward spending in the face 
+of shocks to the economy, they would be able to do so restricted only by their need to remain 
+solvent.  
+But  nobody  believes  that  that  is  a  description  of  the  real  world  in  which  households  and 
+companies  manage  their  affairs.  Both  are,  to  a  greater  or  lesser  degree,  rationed  in  their 
+access  to  credit,  given  that  borrowers  know  a  great  deal  more  about  their  conditions  and 
+prospects  than  do  risk-averse  lenders,  and  that  lenders  face  obstacles  in  ensuring  that 
+borrowers  honour  their  contracts.2  The  availability,  price  and  terms  of  credit–  whether 
+unsecured or secured – will be sensitive to a range of factors, including assessments of the 
+idiosyncratic  risks  of  a  particular  borrower,  and  the  risks  common  across  borrowers. 
+Variations in these factors give rise to the possibility of a credit cycle.  
+A borrower’s ability to pledge collateral can help to overcome the problems of “asymmetric 
+information” and enforceability, by evidencing its net worth and giving it a continuing stake in 
+its contract with the lender. This can give rise to the so-called “financial accelerator” channel 
+of the Monetary Transmission Mechanism (MTM), in which monetary policy works partly by 
+affecting lending terms through its effect on asset values and so the net worth of borrowers.3  
+But credit conditions also depend on the access to credit of the lenders themselves. There is 
+an important distinction here between intermediation across bank balance sheets and via the 
+capital markets, although as I shall describe it turns out to be blurred.  
+Total credit: capital markets and securitisation 
+For  the  moment,  I  shall  put  that  distinction  to  one  side  in  order  to  focus  on  total  credit.  A 
+series of environmental changes over the past decade or so have affected the quantity and 
+price of credit generally. Greater macroeconomic stability, and perceptions that it will persist 
+more  or  less  uninterrupted,  probably  increased  the  supply  of  credit;  and  by  reducing  risk 
+premia, may have increased demand too (Diagram A).  
+Other developments are more likely to have worked purely through credit supply. The most 
+obvious is the growth of instruments such as credit derivatives and securitisation, associated 
+with an increased role for rating agencies in monitoring credit risk. This was in effect a shock 
+to  technology,  making  portfolios  transferable.  By  offering  the  prospect  of  better  meeting 
+desired risk profiles and by separating origination from investment, it has brought more non-
+bank financial institutions, and so more capital resources, into the credit markets, increasing 
+the supply of credit (Diagram B). 
+This  seems  to  have  been  borne  out  in  the  significant  shift  in  actual  credit  quantities  and 
+prices up to the middle of this year.  
+In  the  United  Kingdom,  non-bank  lenders  have  accounted  for  a  greater  share  of  credit 
+extension to both the household and corporate sectors (Charts 2-4).  
+                                                 
+2   Stiglitz,  J.  E.  and  A.  Weiss  (1981),  “Credit  rationing  in  markets  with  imperfect  information”,  The  American 
+Economic Review, Vol. 71, No. 3, pp 393-410. 
+3   Bernanke,  B.  and  M.  Gertler  (1989),  “Agency  cost,  net  worth,  and  business  fluctuations”,  The  American 
+Economic Review, March 1989, pp 14-31. 
+2 
+ BIS Review 149/2007
+for 
+that,  especially 
+the  corporate  sector  (Chart  8).  An 
+for  sub-investment  grade  borrowers, 
+A lot of that has been securitised (Chart 5). For the household sector, spreads on securitised 
+portfolios of both secured and unsecured credit fell between 2003 and 2005 (Chart 6). That 
+will have contributed to the fall in effective rates on the underlying mortgages and personal 
+loans (Chart 7).  
+illustrative 
+The  same  broad  picture  holds 
+decomposition  suggests 
+the 
+compression of spreads could not be explained solely by reduced compensation for default 
+risk, with the excess possibly reflecting lower liquidity premia (Chart 9).4  
+These falls in spreads were material relative to the changes in the MPC’s Bank Rate and to 
+the risk-free yield curve. For example, in the latest “policy cycle”, we increased Bank Rate by 
+125bp  over  11  months  from  August  2006.  During  that  period,  effective  rates  on  new 
+mortgages  rose  by  closer  to  50bp.  In  other  words,  from  around  2003,  monetary  policy 
+needed to take account of a progressive loosening of credit conditions.  
+The  tables  have  now  turned.  Spreads  have  risen;  the  issuance  of  securitised  portfolios  of 
+household  loans  has  collapsed;  corporate  bond  issuance  has  fallen  (Charts  10-11).  It  is 
+pretty clear that, for the time being, there has been an adverse shift in the supply of credit 
+from  the  non-banking  sector.  In  part,  that  seems  to  be  due  to  investors  becoming  less 
+confident that they can base decisions about exposures to complex credit portfolios on rating 
+agency  ratings;  this  is  akin  to  lenders  deciding  that  their  monitoring  of  risk  was  less  good 
+than  they  thought.  In  part,  it  is  due  to  various  types  of  non-bank  investor  in  credit  finding 
+themselves facing actual or incipient liquidity pressures. Both as cause and effect, liquidity in 
+the capital markets is impaired. This is apparent in the opening up of a so-called “negative 
+basis” between the spreads on corporate bond and on equivalent credit-default swaps, which 
+unbundle the transfer of credit risk from the provision of funds and so are less affected by 
+liquidity hoarding (Chart 12).  
+A twin-engine financial system?  
+At various times over the past decade or so, it had been argued5 that the macroeconomy as 
+a  whole  should  be  more  resilient  to  shocks  to  a  financial  system  with  “twin  engines”  – 
+combining  capital  markets  with  banking  system  intermediation  of  savings  and  credit.  The 
+argument  is  that  when  the  capital  markets  are  impaired,  banking  can  take  more  of  the 
+burden,  and  vice  versa.  I  have  a  good  deal  of  sympathy  for  this  view  –  but  not  for  all 
+circumstances.  It  rather  overstates  the  independence  of  capital  markets  and  banking,  as 
+recent developments graphically demonstrate.  
+First,  whether  through  financing  the  purchase  of  credit  assets  by  leveraged  funds  or 
+warehousing  portfolios  prior  to  sale  or  providing  “liquidity  lines”  to  conduits  and  other 
+investment vehicles, the banking system puts its capital and liquidity behind the distribution 
+of credit risk to the wider asset-manager universe. As the official sector stressed over recent 
+years, it is important to be clear about the circumstances in which risk can flow back to the 
+banking system.6  
+Second,  the  “twin  engines”  view  draws  too  absolute  a  line  between  banks  and  non-bank 
+financial  intermediaries.  Alongside  other  asset  managers,  banks  have  been  material 
+investors  in  securitised  credit.  In  some  respects,  it  may  be  more  useful  to  distinguish 
+                                                 
+4   See Churm R., and L. Webber (2007), “Decomposing corporate bond spreads”, Bank of England Quarterly 
+Bulletin, Q4 2007 (forthcoming). 
+5   Alan Greenspan made this point a few times. 
+6   For  example  see  Tucker  P  M  W  (2007),  “A  perspective  on  recent  monetary  and  financial  system 
+developments”, speech at Merrill Lynch Conference on Hedge Funds, Bank of England Quarterly Bulletin, Q3 
+2007, pp 310-16. 
+BIS Review 149/2007 
+ 3
+between intermediaries on the basis of whether they undertake some combination of maturity 
+transformation,  leveraging  their  balance  sheets,  and  mark-to-market  valuations.  Banks  are 
+not alone in having these characteristics, and so there can be common shocks to bank and 
+non-bank investors. In a recent series of papers,7 Hyun Shin has argued that balance sheet 
+management  of  this  kind  amplifies  the  credit  cycle.  That  sounds  like  the  “financial 
+accelerator”  model,  except  that  Shin’s  position  is  that  the  outcomes  can  exceed  those 
+warranted by fundamentals. His argument is that in the upswing of a business cycle, the rise 
+in  asset  values  increases  the  accounting  net  worth  of  banks  and  other  intermediaries, 
+enabling them to leverage up their balance sheets. This expands credit; and increases the 
+liquidity  in  capital  markets,  reducing  liquidity  premia  embodied  in  asset  prices;  and  so  on. 
+And when the music stops, the process can be reversed as falls in asset values, leverage 
+and liquidity feed on each other. (For Shin, the villain is mark-to-market accounting, although 
+I would not want its virtues in reducing forbearance to be overlooked.) 
+Thirdly, the “twin engines” view may place insufficient weight on banks having remained the 
+principal  originators  of  credit,  given  that  small  firms  and  households  cannot  issue  bonds 
+directly into the capital markets. It has been argued that the growth of markets for securitising 
+loan portfolios made banks less relevant to overall credit conditions, and so to the business 
+cycle, because a bank’s ability to originate credit becomes less intimately bound up with its 
+own financial strength.8 But if, as currently, the capital markets’ appetite for securitised credit 
+diminishes, a larger proportion of loans will after all remain on the balance sheets of banks.  
+All this brings back into focus the potential macroeconomic relevance of bank lending.  
+Bank lending 
+The  economic  literature  on  the  “bank  lending”  channel  of  the  Monetary  Transmission 
+Mechanism explores the conditions under which a tightening of monetary policy causes the 
+terms  on  bank  lending  to  tighten  over  and  above  the  increase  in  risk-free  short-term  real 
+rates. The literature has typically assumed (i) that a monetary policy tightening is effected by 
+the  central  bank  withdrawing  reserves  from  the  system  (or  slowing  the  pace  of  reserves 
+injection);  (ii)  that  banks  are  required  to  hold  a  proportion  of  transactions  deposits  in 
+reserves, so that reduced reserves provision entails slower deposit growth; and (iii) that they 
+do not have unrestricted access to liabilities that are not subject to reserves requirements, 
+and so cannot fill the gap left by slower deposit growth and must, instead, slow loan growth, 
+which they do by tightening credit conditions.9 The first two steps seem archaic. We effect 
+monetary policy changes by controlling the price not the quantity of central bank money in 
+the system; and, in the UK, banks choose their own reserves targets rather than having them 
+determined by a balance sheet ratio of some kind.  
+But  the  third  plank  in  these  models  –  restricted  access  to  non-deposit  liabilities,  whether 
+capital-like or not – plainly is still relevant today. In a world of asymmetric information, banks 
+do not have unrestricted access to resources, and we do not believe that a bank’s lending 
+                                                 
+7   Adrian, Tobias, and H. S. Shin (2007), “Liquidity, Monetary Policy and Financial Cycles”, paper prepared for 
+Current  Issues  in  Economics  and  Finance.  Adrian,  Tobias  and  H  S  Shin,  (2007),  “Liquidity  and  Financial 
+Cycles”,  paper  presented  at  the  6th  BIS  annual  conference  on  “Financial  System  and  Macroeconomic 
+Resilience”.  Analytically,  the  argument,  as  summarised  in  the  main  text,  needs  to  be  supplemented  with  a 
+mechanism that somehow impedes checks and balances from preventing the overshooting of fundamentals. 
+8   Loutskina  E.  and  P.  E.  Strahan  (2006),  “Securitisation  and  the  declining  impact  of  bank  finance  on  loan 
+supply: evidence from mortgage acceptance rates”, National Bureau of Economic Research (NBER) Working 
+Papers, No. 11983. And Estrella, A. (2002), “Securitization and the efficiacy of monetary policy”,  Economic 
+Policy Review, Vol. 8, No.1. 
+9   For an overview of early work see Kashyap, A. K. and J. C. Stein (1994),”Monetary policy and bank lending”, 
+in G. N. Mankiw, ed., Monetary policy, Studies in Business Cycles, vol. 29. pp. 221-56. 
+4 
+ BIS Review 149/2007
+behaviour  is  invariant  to  its  capital gearing  or  to  the  composition  of  its  liabilities.10  We  do, 
+therefore,  face  questions  about  the  extent  to  which  a  shock  to  banks’  liquidity  or  capital 
+resources can bring about a shift in credit conditions with macroeconomic effects that, other 
+things  being  equal,  monetary  policy  should  seek  to  offset  in  order  to  maintain  aggregate 
+demand in line with aggregate supply.  
+Over  the  past  15  years  or  so,  when  banks  have  seemed  anything  but  restricted,  easier 
+access to liquidity or capital may have brought about a progressive relaxation of bank lending 
+conditions. That this featured in commentary on monetary policy rather less than the recent 
+manifest tightening may say no more than that sharp contractions attract more attention than 
+gradual expansions. In a similar vein, on the whole, research does better at identifying these 
+“credit channel” mechanisms in the context of particular stressed episodes than in longer-run 
+averages.11
+Be that as it may, it is beyond doubt that there has recently been an adverse shock to bank 
+balance  sheets  –  involving  capital,  liquidity,  and  a  potent  “asymmetric”  information 
+mechanism  affecting  a  wide  range  of  banks.  I  will  pick  out  four  elements  in  the  story, 
+involving liquidity, counterparty-credit risk and capital.  
+First, near closure of the capital markets for leveraged loans, conduit and SIV commercial 
+paper,  and  RMBS  has  left  banks  whose  business  model  is  “originate  and  distribute” 
+unexpectedly  holding  on  to  loans  and,  in  addition,  facing  the  prospect  of  having  to  take 
+assets  back  on  to  their  balance  sheets.  The  consequent  reintermediation  is  a  hit  to  both 
+capital ratios and liquidity, as the banks have bigger books to fund. For these reasons alone, 
+big  picture, banks  responded  from  August  onwards  by  tightening  loan  terms  and  hoarding 
+liquidity.  
+But the story does not end there. The second element is that access to resources (uninsured 
+deposits)  from  outside  the  banking  sector  has  become  more  restricted  since  the  summer. 
+While  the  new  risk-transfer  instruments  have  plainly  dispersed  risks,  lack  of  ex  ante 
+disclosure left market participants highly uncertain about the scale and distribution of losses 
+across the banking sector itself. On top of that, open-ended investment vehicles that have (or 
+may have) themselves invested in structured-finance paper have felt compelled to preserve 
+liquidity,  to  guard  against  redemption  risk.  And  one  significant  source  of  demand  for  bank 
+hybrid-capital instruments over the past half-decade or so, the SIVs, has been turned off due 
+to their own funding problems. Taken together, the upshot for the banking system has been a 
+shortening in the maturity of wholesale deposits, and an intermittent tightening of access to 
+hybrid capital instruments (Chart 13).  
+Coming on top of an involuntary increase in risk-weighted assets and reduced access to term 
+liquidity,  the  third  component  of  the  shock,  apparent  since  late  autumn,  has  been  some 
+actual  impairment  of  capital  resources.  Large  banks  especially  have  progressively  written 
+down  the  values  of  structured-finance  assets,  reflecting  deterioration  in  the  underlying 
+position  of  the  US  household  sector  and  in  the  values  of  a  wide  range  of  leveraged 
+instruments.  But  the  adjustment  is  drawn  out,  partly  due  to  uncertainty  about  appropriate 
+mark-to-market valuations given the impaired liquidity in ABS markets. To avoid this process 
+amplifying  the  credit  cycle,12  some  replenishment  of  common  equity  may  be  needed,  and 
+has already begun.  
+                                                 
+10   In  a  Modigliani-Miller  world  of  perfect  capital  markets,  a  bank’s  overall  cost  of  funds  is  independent  of  its 
+capital  and  funding  structure.  As  a  result  the  level  of  bank  capital  and  the  balance  of  wholesale  and  retail 
+funding are not relevant to bank lending decisions and so do not affect the monetary transmission mechanism. 
+11   Bernanke, B. S. and C. S. Lown (1991), “The credit crunch”, Brookings Papers on Economic Activity, No. 2, 
+pp. 204-39. 
+12   Ashcraft, A. B., and M. Campello (2002), “Borrowers' financial constraints and the transmission of monetary 
+policy: evidence from financial conglomerates”, Federal Reserve Bank of New York, Staff Reports: 153. 
+BIS Review 149/2007 
+ 5
+The  fourth  element  in  the  story,  underway  since  August,  has  been  distributional.  Banks 
+relatively reliant on wholesale funding have bid up for funds. But doing so has been taken as 
+an  adverse  signal,  prompting  further  rationing  of  wholesale  money  market  lending  at  term 
+maturities and potentially deterring the strong from entering the market; this is what is known 
+as  a  “Lemons”  problem13.  In  the  United  Kingdom,  since  August,  mortgage  approvals  and 
+secured lending have declined by more at the medium-sized mortgage banks and specialist 
+lenders than at the largest UK banks, partly due to Northern Rock (Charts 14-15). This was 
+symmetric. Their mortgage portfolios grew faster over the previous years. All told, this looks 
+like a manifestation of the Kashyap and Stein finding, in various non-UK settings, that lending 
+is more cyclically variable at banks that start off with weaker balance sheets;14 or, as I would 
+prefer to put it, with concentrated income streams and/or funding sources. 
+Won’t  the  macroeconomic  effect  of  this  be  dampened  by  the  bigger  and  more  diversified 
+banks picking up the slack? It is important to distinguish the longer term from the near term. 
+The  longer-term  impact  will  depend  on  whether  the  structure  of  the  industry  shifts.  The 
+securitisation boom seems to have altered the terms of trade in UK banking for a while. By 
+reducing reliance on retail deposits, it reduced barriers to entry. Lenders’ margins fell (Chart 
+16),  and  credit  conditions  in  the  UK  mortgage  market  eased.  Conversely,  the  painful 
+reminder  that  undiversified  funding  and  income  sources  may  leave  a  bank  unusually 
+vulnerable  will  probably  bring  about  another  shock  to  the  structure  of  the  market.  The 
+persistent  tightening  in  mortgage  credit  that  that  would  bring  was  a  factor  in  the  MPC’s 
+November projections.  
+In the near term, the extent to which the big or more diversified banks fill the gap will depend 
+on  the  extent  to  which  they  too  preserve  capital  and  liquidity  in  the  face  of  the  harsh 
+environment I have described.  
+Money, or bank intermediation  
+So  far  I  have  focused  entirely  on  credit.  Where  does  this  leave  money  (or  Money),  the 
+starting point for much traditional monetary analysis? 
+Well, much that I have said about banks – their capacity, in the short run, to lever up their 
+balance  sheets  and  expand  credit  at  will;  their  role  in  providing  liquidity  insurance  to 
+investment vehicles and corporates – turns precisely on their liabilities being money. And for 
+this reason, banks are after all decisively different from other intermediaries.  
+As  transactions  balances  and  so  the  means  of  exchange  in  our  payments  system,  the 
+moneyness  of  bank  deposits  lies  at  the  core  of  credit  intermediation.  Subject  only  but 
+crucially  to  confidence  in  their  soundness,  banks  extend  credit  by  simply  increasing  the 
+borrowing  customer’s  current  account,  which  can  be  paid  away  to  wherever  the  borrower 
+wants  by  the  bank  “writing  a  cheque  on  itself”.  That  is,  banks  extend  credit  by  creating 
+money. This “money creation” process is constrained: by their need to manage the liquidity 
+risk  –  from  the  withdrawal  of  deposits  and  the  draw-down  of  back-up  lines  –  to  which  it 
+                                                 
+13   Akerlof,  G.  A.  (1970),  “The  market  for  “lemons”:  quality  uncertainty  and  the  market  mechanism”,  Quarterly 
+Journal  of  Economics,  Vol.  84,  No.  3,  pp.  488-500.  A  market  for  “lemons”  issue  arises  when  informational 
+deficiencies give rise to uncertainty about the true quality of a product. In such circumstances, buyers choose 
+to pay only average prices for goods that carry the risk of sellers overstating their true quality. As a result, 
+sellers of good products, having little incentive to participate in such markets, are driven out by those sellers of 
+poor quality products. The most common example of the problem is the market for used new cars. Rationing 
+in the interbank markets is discussed by Freixas, X. and J. Jorge (2007) in “The role of interbank markets in 
+monetary policy: a model with rationing”, Universitat Pompeu Fabra, Economics Working Papers. 
+14   Kashyap,  A.  K.  and  J.  C.  Stein  (2000),  “What  do  a  million  observations  say  about  the  transmission  of 
+monetary policy”, The American Economic Review, Vol. 90, No. 3, pp. 407-28. 
+6 
+ BIS Review 149/2007
+exposes them.15 Adequate capital and liquidity, including for stressed circumstances, are the 
+essential ingredients for maintaining confidence.16  
+If  that  excursion  into  the  realm  of  financial  stability  appears  to  have  drifted  away  from  the 
+immediate issue of Money, it is because the health of bank balance sheets is relevant to both 
+the demand for money and its supply, even if this is apparent only occasionally. 
+Charles Goodhart has already, and very usefully, stressed the importance of recovering the 
+notion  of  shocks  to  the  supply  of  broad  money.17  In  the  main,  however,  in  terms  of  the 
+underlying  drivers,  we  are  talking  here  of  shifts  in  the  supply  of  broad  money  caused  by 
+shocks to the supply of bank lending: banks create money by extending credit (Diagram C). 
+And  as  discussed  earlier,  key  drivers  in  terms  of  bank  balance  sheet  growth  include  the 
+variables  that  underpin  bankers’  confidence  in  borrowers;  and,  conversely,  confidence  in 
+banks themselves. It should come as no surprise that the “credit channel” macroeconomic 
+literature  converged  with  bankers  in  focusing  on  the  tangible  collateral  available  from 
+borrowers,  and  on  their  own  capital  and  liquidity  (which  includes  the  ex  ante  and  ex  post 
+terms on which they have access to central bank reserves).  
+Some important things can be said about this account of shifts in the supply of broad money. 
+First, in contrast to the textbook account of shocks to the Money supply via the proverbial 
+helicopter drop of base money (pound notes), firms and households are not caught in a bind 
+where, in aggregate, they are forced to hold the increased supply of broad money, even if it 
+exceeds  demand.  Following  a  shock  to  the  supply  of  credit,  in  which  some  people  or 
+companies become less credit constrained, it will be open to others to reduce their existing 
+borrowing  as  the  extra  money  circulates  around  the  economy  via  the  purchase  of  goods, 
+services and financial assets.  
+Second, and more important, the shocks to credit supply are, in themselves, real not nominal 
+shocks. And like other real shocks, causing changes in the balance of Aggregate Demand 
+and Aggregate Supply, there is a nominal effect only if monetary policy does not respond via 
+alterations to the path of short-term interest rates to keep the economy on a stable path and 
+in line with the inflation target.  
+Absent an appropriate policy response, the easing in monetary conditions would in time feed 
+into inflation through an expansion of nominal spending. In the first instance, the expansion 
+of “liquidity” represented by faster money growth may sometimes work through asset prices. 
+That  is  because  with  imperfect  substitution  between  different  kinds  of  financial  assets, 
+relative risk premia may be altered, which in turn may affect borrowing conditions in capital 
+markets.18
+With an appropriate policy response, what should we expect to see in bank balance sheets, 
+in broad money growth, following a credit-supply shock? It might be that the path for broad 
+                                                 
+15   See  Kashyap,  A.  K.,  R.  Rajan  and  J.  C  Stein  (2002),  “Banks  as  liquidity  providers:  an  explanation  for  the 
+coexistence of lending and deposit-taking”, The Journal of Finance, Vol. 57, No. 1, pp 33–73. 
+16   Acharya, V. V., H. S. Shin and T. Yorulmazer (2007), “Fire sales, foreign entry and bank liquidity”, C.E.P.R 
+Discussion Paper, No. 6309. 
+17   See Goodhart, C. A. E. (2007), “Whatever Became of the Monetary Aggregates?”, Peston Lecture at Queen 
+Mary  College,  London;  King  M.  A.  (2007),  “The  MPC  ten  years  on”,  lecture  to  the  Society  of  Business 
+Economists,  Bank  of  England  Quarterly  Bulletin,  Summer  2007,  pp  272-85;  and  Tucker  P.  M.  W.  (2007), 
+“Central banking and political economy: the example of the UK’s Monetary Policy Committee” speech at the 
+Inflation Targeting, Central Bank Independence and Transparency Conference, Cambridge, Bank of England 
+Quarterly Bulletin, Autumn 2007, pp445-52. 
+18   There is an echo here of a channel stressed by Brunner & Melter, but with the impulse coming from the central 
+bank’s short-term interest rate rather than the quantity of reserves, and the transmission into risk premia and 
+so other asset prices coming via the expected path of the policy rate and broad money rather than via narrow 
+money. 
+BIS Review 149/2007 
+ 7
+money should be unaltered in the medium term. In other words, a persistent acceleration (or 
+deceleration) of M4 would be indicative of a nominal shock, jeopardising achievement of the 
+inflation target. The world is not so simple, however. The underlying drivers of the change in 
+the  supply  of  bank  lending,  and  so  in  broad  money,  may  also  bring  about  shifts  in  the 
+demand  for  money,  validating  a  different  level  for  real  money  balances  –  perhaps  most 
+obviously, if investment and so the economy’s productive capacity were affected. 
+For  some  underlying  shocks,  it  is  probably  better  to  think  about  the  effects  on  banking 
+intermediation rather than simply on bank lending. Faced with a change in their costs and 
+opportunities, bankers might sometimes be able to adjust the terms on either their assets or 
+their liabilities (or both). Currently, banks have incurred an adverse shock to their wholesale 
+funding  (Chart  17).  The  evidence  so  far  suggests  that,  as  well  as  tightening  terms  for 
+borrowers, they are improving rates offered on retail deposits.  
+Where  does  that  leave  us  on  Money?  It  is  clear  enough  from  the  long-run  relationship 
+between money growth and inflation that prolonged shifts in money growth can be an amber 
+light  (Chart  18).  And  possible  liquidity  effects  mean  that,  through  risk  premia,  shifts  in  the 
+quantity  of  money  may  feed  back  into  financial  asset  markets  and  so  into  broader  credit 
+conditions.  But  there  are  no  “easy  wins”  when  it  comes  to  analysing  Money  demand  and 
+supply.19  
+Money and credit in the current conjuncture  
+Those  challenges  are  certainly  apparent  right  now.  Judging  from  a  combination  of  market 
+intelligence, surveys and prices, there is no doubt that credit conditions for both households 
+and firms have tightened materially. The Bank’s new Credit Conditions Survey, published for 
+the first time in September, recorded a clear tightening in availability of credit to corporates 
+over  the  previous  quarter.  A  month  later,  a  mini-survey  unsurprisingly  revealed  tighter 
+conditions  for  households  too.20  Spreads  on  corporate  and  household  credit  are  already 
+higher across the board; and for risky borrowers, financing costs have risen notwithstanding 
+the fall in risk-free yields.  
+Since  August,  the  MPC  has  stressed,  however,  that  it  will  not  be  sufficient  in  these 
+circumstances  to  look  solely  at  the  price  of  credit,  as  there  could  be  increased  quantity 
+rationing.  The  standard  view  is  that  households  and  small  firms  are  more  likely  to  be 
+adversely  affected  in  such  circumstances  than  large  firms,  which  typically  have  greater 
+access to capital markets. But as this disturbance affected the wholesale loan markets, we 
+will need to monitor conditions for corporate bond and loan issuance. Indeed, we will need to 
+look at total credit, and carefully across different sectors to track the impact of the tightening. 
+But  timely  and  rich  data  are  available  on  just  bank  lending.  And  interpreting  them  is  not 
+straightforward given the nature of the shock to the system. If reintermediation is significant, 
+banks will be taking back on to their balance sheets conduit and investment vehicle paper or 
+just holding onto loans for longer than usual before they can be sold onto the capital markets. 
+                                                 
+19   Perhaps nothing illustrates this as cleanly as the advent of credit derivatives. Derivatives of any kind unbundle 
+funding (and so liquidity risk) from the underlying risk to which an agent is seeking exposure via a particular 
+contract. So a credit derivative unbundles credit risk from funding. This further complicates interpretation of the 
+bank  lending  data  (M4L).  Imagine  that,  due  to  their  customer  networks  and  screening  capability,  banks 
+originate all credit, but that they use credit-default swaps to shed a great portion of the credit risk via CDS to 
+non-bank  financial  institutions.  In  the  limit,  this  would  be  a  world  in  which  M4L  correctly  measured  (bank) 
+lending and M4 was one useful measure of “liquidity”. But it would also be a world in which shocks to credit 
+conditions  from  capital  and  risk  appetite  worked  largely  through  non-bank  lenders,  and  in  which  shocks  to 
+liquidity  worked  largely  through  depositor  confidence  in  the  banking  system.  In  the  real  world,  this  story 
+underlines the need to look at total credit, and to analyse the monetary data with finesse. 
+20   See Bank of England Inflation Report, November 2007, Section 1 on “Money and Asset Prices”, pages 16-17. 
+8 
+ BIS Review 149/2007
+It cannot be ruled out that, for a while, the M4L growth rate may deceive as to the underlying 
+pace of credit expansion in the economy.  
+That is important because, in a nutshell, the turmoil in financial markets is not just a “City” 
+event. How potent it will be macroeconomically will depend on how long current conditions 
+persist, and the feedback loop between the financial economy and the real economy. 
+As to its persistence, necessary conditions for an alleviation of the current strains in credit 
+markets are probably at least twofold. First, that the US housing and household debt markets 
+stabilise.  Second,  that  banks  and  other  financial  intermediaries  recognise  impairments  to 
+asset values, so that uncertainties about counterparty credit risks begin to reduce.  
+On  the  financial-real  economy  interaction,  we  must  try  to  avoid  a  vicious  circle  in  which 
+tighter  liquidity  conditions,  lower  asset  values,  impaired  capital  resources,  reduced  credit 
+supply,  and  slower  aggregate  demand  feed  back  on  each  other.  A  variety  of  policy 
+responses  are  possible.  The  announcement  yesterday  by  central  banks  of  co-ordinated 
+action via term auctions to alleviate pressure in financing markets is directed at that. Second, 
+regulatory authorities around the world are monitoring banks’ liquidity and capital positions, 
+including in the context of Basel II. And, thirdly, monetary policy also can in principle play a 
+role,  through  what  is  effectively  a  “financial  accelerator”  working  through  bank  balance 
+sheets, where that is consistent with maintaining stable inflation in the medium term. 
+In the UK, the starting point has been robust domestic demand; the leveraged-buyout sector 
+aside,  generally  healthy  corporate  balance  sheets;  somewhat  more  vulnerable  household 
+balance sheets;21 and potentially stretched commercial and residential property prices.  
+At the Committee’s November meeting, I explored the case for an “insurance cut” addressed 
+to  the  downside  risks  from  tightening  credit  conditions.  The  case  for  such  a  cut  was 
+strengthened  by  Bank  Rate,  at  5¾%,  standing  at  a  level  that  was  most  probably  mildly 
+restrictive. But that had to be weighed against the upward pressures on inflation stemming 
+largely  from  the  rise  in  energy  and  other  commodity  prices.  Our  November  projections 
+seemed to me likely to validate the expectation already embodied in the money market curve 
+that  Bank  Rate  would  over  time  be  lowered,  representing  some  offset  to  the  tightening  in 
+liquidity and credit premia. That being so, on balance, I concluded that an immediate cut was 
+not  necessary;  and  that  “no  change”  would  give  the  Committee  a  valuable  opportunity  to 
+explain  in  the  Inflation  Report  the  implications  of  both  the  credit  and  commodity  shocks, 
+underlining that the Committee remains focused on anchoring inflation expectations and so 
+achieving the inflation target over the medium term. 
+Looking  ahead,  I  noted  the  importance  of  distinguishing  between,  on  the  one  hand,  the 
+passing  through  into  the  macroeconomy  of  the  shocks  that  had  already  occurred  to  credit 
+conditions and to commodity prices; and, on the other hand, the possibility of new shocks on 
+either or both fronts.  
+That was my starting point for our December meeting, the minutes of which will be published 
+next week.  
+Summary and conclusions  
+Let me try to pull together some of my central themes. 
+                                                 
+21   “…households have increased their debt….more debt unavoidably leaves them more vulnerable to bad luck, 
+eg adverse economic shocks”, Tucker, P. M. W. (2003), “Credit conditions and monetary policy”, speech at 
+the Leeds Financial Services Initiative, Bank of England Quarterly Bulletin, Autumn 2003, p. 373. 
+BIS Review 149/2007 
+ 9
+I have stressed that we should take care to avoid talking about money when we mean credit. 
+In a similar spirit, we should be clear when we mean total credit and when bank lending, but 
+without assuming the two are divorced. 
+I  have  also  stressed  the  need  for  attention  to  the  underlying  drivers  of  credit  conditions 
+throughout the economic cycle. In today’s financial system, we may well need richer data on 
+credit quantities and flows outside the banking sector, perhaps along the lines of the US Flow 
+of  Funds  statistics.  The  Bank’s  new  Credit  Conditions  Survey  is  also  designed  to  give  us 
+better qualitative information to put alongside the quantity and price data. Even so, as with 
+asset prices more generally, we will sometimes find it hard to distinguish between changes in 
+credit  conditions  warranted  by  fundamentals  and  those  that  are  not.  Failure  to  recognise 
+fundamentally  warranted  and  sustainable  shifts  would  deplete  welfare.  But  it  is  distinctly 
+uncomfortable  for  the  world’s  central  banks  to  rely  entirely  on  mopping  up  after  a  bubble 
+bursts: one imbalance can lead to another.22 The central banking community does not yet 
+have a satisfactory way through this dilemma.  
+And Money? It occupies one end of the liquidity spectrum, and so changes in the quantity of 
+money might potentially affect risk premia, and so credit conditions more generally. Gauging 
+that  is  a  formidable  challenge.  As  an  input  to  policy,  there  is  just  no  alternative  to  getting 
+one’s hands dirty in analysing the monetary data. With an institutional rather than functional 
+definition of broad money, special care is needed not to be misled by shifts in the demand for 
+money from the plethora of non-bank financial institutions. This is important if we are to use 
+money  as  an  indicator  of  nominal  trends  alongside  survey  and  financial-market-based 
+measures of inflation expectations.  
+That  brings  me  back  to  where  I  began:  with  our  policy  reaction  function.  Occasionally  the 
+markets  will  be  surprised  by  our  policy  decisions.  But  we  should  do  all  we  can  to  avoid 
+confusion about how we think about the economy and about monetary policy strategy. In the 
+spring, my own view of the signals from broad money had not altered materially. So today I 
+have  tried  to  explain  how  I  think  about  money,  credit  and  the  connections  between  them. 
+That  has  provided  a  framework  for  some  observations  on  the  current  conjuncture, 
+underlining the need for careful attention to conditions in the banking system. Central banks 
+should  be,  and  need  to  be,  well  placed  to  undertake  that  analysis,  which  has  rarely  been 
+more important than now.  
+                                                 
+22   I argued this in Tucker, P. M. W. (2006), “Reflections on operating inflation targeting”, speech at the Chicago 
+Graduate School of Business, Bank of England Quarterly Bulletin, Summer 2006, p. 220. 
+10 
+ BIS Review 149/2007
+M entions
+2
+1.8
+1.6
+1.4
+1.2
+1
+0.8
+0.6
+0.4
+0.2
+0
+1997
+ANNEX 
+Chart 1: Money mentions(a) in MPC 
+minutes and money growth 
+M oney mentions
+M 4 growth
+6m-o-6m (ann)
+14
+Diagram A: Shifts in both supply of 
+credit (CS(1)→ CS(2)) and demand for 
+credit (CD(1)→ CD(2)/ CD(3))  
+iloan 
+CD(3)
+CD(2)
+CD(1)
+12
+10
+8
+6
+4
+2
+il(2) 
+il(1) 
+il(2) 
+CS(1) 
+CS(2)
+F 
+A 
+E 
+C1 
+C2 
+C3 
+Credit 
+  
+C
+hart 2: Total credit to UK households 
+Total lending to individuals
+Bank and building society credit
+£ billions
+1600
+1400
+1200
+1000
+800
+600
+400
+200
+0
+ 1999
+2007
+2003
+1995
+1991
+1987
+Source: Bank of England, ONS 
+ 
+Chart 4: Shares of total lending to UK 
+households  
+Non-bank lending
+Bank lending
+Percentage of total 
+lending to households
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+1993
+Source: Bank of England, ONS. 
+1997
+2001
+2005
+ 0
+2007
+1999
+2001
+2003
+2005
+ank of England 
+ 
+Note: (a) number of mentions on “money” in 
+“Immediate policy decision” section of MPC Minutes
+Source: B
+ 
+ 
+iagram B: Shift in supply of credit 
+D
+(CS(1)→ CS(2)), unchanged demand (CD
+iloan 
+ CD 
+il(1) 
+il(2) 
+A 
+CS(1) 
+B 
+CS(2) 
+C1  C2 
+Credit 
+ 
+Chart 3: Total credit to UK private non-
+financial companies 
+ £ billions
+4000
+Total financial 
+liabilities
+PNFCs' M4L
+Total lending to 
+PNFCs
+3500
+3000
+2500
+2000
+1500
+1000
+500
+0
+1995
+1991
+1999
+1987
+Source: Bank of England, ONS 
+ 
+ 
+2003
+2007
+ BIS Review 149/2007 
+ 11
+Chart 5: Securitisations relative to 
+stock of M4 lending 
+ 
+Percentage of sectoral M4L stock
+25
+Household secured
+Household unsecurd
+PNFCs
+04
+05
+06
+07
+99
+00
+98
+03
+Source: Bank of England 
+02
+01
+20
+15
+10
+5
+0
+  
+Chart 7: Spread of effective mortgage 
+and personal loan rates (new business) 
+to Bank Rate 
+Personal loans
+M ortgages
+Per cent 
+6
+5
+4
+3
+2
+1
+0
+ 2006
+2005
+2004
+2003
+2002
+2007
+2001
+Source: Bank of England 
+ 
+Chart 9: Decomposition of UK non-
+investment grade corporate bond 
+spreads 
+Residual including liquidity
+Uncertainty about default loss
+Expected default loss
+Basis points
+1000
+Actual
+ 2000
+1998
+2006
+Source: Bloomberg, Bank of England 
+2004
+2002
+800
+600
+400
+200
+0
+-200
+ Basis points
+150
+Commercial mortgages
+Credit cards
+Prime mortgages
+Non-conforming mortgages (LHS)
+Chart 6: UK household sector asset-
+backed security spreads 
+Basis points
+400
+350
+300
+250
+200
+150
+100
+50
+0
+2002
+2003
+2006
+120
+30
+60
+90
+0
+2005
+2007
+2004
+ 
+Source: LehmansLive 
+Note: weighted averages of AAA, AA, A and BBB 5-
+years spreads for prime and commercial mortgages 
+and of AAA, A and BBB 5-year spreads fro credit 
+cards and non-confirming mortgages. 
+ 
+Chart 8: UK corporate bond spreads 
+Non-investment grade
+Investment grade
+Basis Points
+1200
+1000
+800
+600
+400
+200
+0
+1998
+2000
+2002
+2004
+2006
+Source: Bloomberg, Bank of England 
+ 
+Chart 10: Issuance of UK residential 
+mortgage-backed securities 
+ £ blns
+60
+50
+40
+30
+20
+10
+0
+2000 2001 2002 2003 2004 2005 2006 2007
+Source: Dealogic 
+ 12 
+ BIS Review 149/2007
+Chart 11: Gross corporate bond 
+issuance by UK private non-financial 
+companies (all currencies) 
+£, billions
+12
+10
+8
+6
+4
+2
+0
+ 2003
+2004
+2005
+2006
+2007
+Source: Bank of England 
+ 
+ 
+Chart 13: Global capital issuance by 
+tier 
+Lower T 2
+Upper T 2
+T 1 (incl hybrid capital)
+$ billions
+50
+40
+30
+20
+10
+0
+2006
+Jan  May  Sep  Jan  May  Sep  Jan  May  Sep 
+2005
+Source: Dealogic 
+ 
+Chart 14: UK mortgage approvals 
+2007
+Top 5 banks by market capitalisation
+Other banks and lenders
+Building societies
+2001
+Source: Bank of England 
+2003
+2005
+Thousands
+100
+90
+80
+70
+60
+50
+40
+30
+20
+10
+0
+2007
+  Chart 12: Basis between credit spreads 
+on bonds and credit default swaps 
+ Europe
+US
+basis points
+150
+100
+50
+0
+-50
+-100
+-150
+-200
+-250
+Jul.
+Oct.
+Jan.
+Apr.
+Jul.
+Oct.
+Jan.
+Apr.
+ 
+Source: JP Morgan Chase & Co and Merrill Lynch. 
+(a) The difference between: US CDX crossover index and 
+a BB rated US corporate bond index; and European 
+iTraxx crossover index and a European BB-B rated 
+corporate bond index. This is because the iTraxx 
+crossover index has a lower average rating than the CDX 
+crossover. 
+ 
+  
+Chart 15: UK net secured lending to 
+households 
+Top 5 banks by market capitalisation
+Other banks and lenders
+Building societies
+£ millions
+8000
+6000
+4000
+2000
+0
+2007
+ 2001
+Source: Bank of England 
+2003
+2005
+BIS Review 149/2007 
+ 13
+Diagram C: Shifts in supply of credit 
+(CS(1)→ CS(2)) and money supply 
+iloan 
+  CD 
+A 
+CS(1) 
+B 
+CS(2) 
+C1  C2 
+Credit 
+MS(1) 
+MS(1) 
+MD 
+A’
+B’
+il(1) 
+il(2) 
+iwholesale 
+iw(1) 
+iw(2) 
+M1  M2 
+Money 
+ 
+Chart 16: Lenders’ margins on UK mortgages 
+Basis points
+140
+Basis points
+600
+120
+100
+80
+60
+40
+20
+0
+1999
+Personal loans (RHS)
+Mortgages (LHS)
+2001
+2003
+2005
+2007
+500
+400
+300
+200
+100
+0
+  Source: Bank of England 
+Note: spreads of effective rates on stocks of lending over appropriate funding costs. 
+ 
+14 
+ BIS Review 149/2007
+ 
+Chart 17: UK wholesale M4 growth 
+% change on a year ago
+40
+35
+30
+25
+20
+15
+10
+5
+0
+-5
+-10
+2002
+2005
+ 1990
+1987
+Source: Bank of England 
+1993
+1996
+1999
+ Chart 18: 10-year rolling averages of 
+UK broad money growth and inflation 
+% average annual growth
+20
+Broad money
+15
+10
+5
+0
+-5
+ CPI
+1880
+1900
+1920
+1940
+1960
+1980
+2000
+Source: Capie, F and Webber, A (1985), “A 
+monetary history of the United Kingdom, 1870-
+1982”, and ONS. 
+BIS Review 149/2007 
+ 15

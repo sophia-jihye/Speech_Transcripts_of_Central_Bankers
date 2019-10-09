@@ -1,0 +1,343 @@
+Mr.  Kelley's  testimony  to  the  US  House  of  Representatives  Committee  on
+Banking and Financial Services   Testimony by Mr. Edward W. Kelley Jr., a member of the Board
+of Governors of the  US  Federal  Reserve  System,  before  the  Committee  on  Banking  and  Financial
+Services of the US House of Representatives, in Washington DC, on 4/11/97.
+I am pleased to appear before the Committee today to discuss the Federal Reserve’s
+efforts to address the Year 2000 computer systems issue. The Federal Reserve System has developed
+and  is  executing  a  comprehensive  plan  to  ensure  its  own  Year  2000  readiness  and  the  bank
+supervision function is well along in a cooperative, interagency effort, to promote timely remediation
+and testing by the banking industry. This afternoon I will focus on actions being taken by the Federal
+Reserve  System  to  address  our  internal  systems,  coordination  with  the  industry,  and  contingency
+planning.Background
+The  Federal  Reserve  operates  several  payments  applications  that  process  and  settle
+payments and securities  transactions  between  depository  institutions  in  the  United  States.  Three  of
+these  applications  are  the  Fedwire  funds  transfer,  Fedwire  securities  transfer,  and  Automated
+Clearing House (ACH) applications. The first two applications are large-value payments mechanisms
+for  U.S.  dollar  interbank  funds  transfers  and  U.S.  government  securities  transfers.  Users  of  the
+applications are primarily depository institutions and government agencies.
+The Fedwire funds transfer system is a real-time credit transfer system used primarily
+for payments related to interbank funds transfers such as Fed funds transactions, interbank settlement
+transactions,  and  “third-party”  payments  between  the  customers  of  depository  institutions.  Funds
+transferred over Fedwire are immediately final; they cannot be revoked after they have been accepted
+and processed by the Federal Reserve. About 10,000 depository institutions use  the  Fedwire  funds
+transfer system to transfer each year approximately 86 million payments valued at over $280 trillion.
+The current average total daily value of Fedwire funds transfers is approximately $1.1 trillion.
+The  Fedwire  securities  transfer  system  supports  the  safekeeping,  clearing,  and
+settlement  of  U.S.  government  securities  in  both  the  primary  and  secondary  markets.  It  provides
+custody  of  U.S.  government  securities  in  book-entry  form,  as  well  as  the  transfer  of  securities
+ownership among market participants. On the custody side, the system calculates and credits interest
+and principal  payments  to  the  holders  of  securities,  reconciles  outstanding  securities  balances  with
+issuers, and performs other record keeping and collateral safekeeping functions. On the transfer side,
+the 
+called
+delivery-versus-payment,  thus  reducing  the  settlement  risks  of  market  participants.  About  8,000
+depository institutions use the Fedwire securities transfer service to transfer each year approximately
+13 million securities valued at over $160 trillion. The average total daily value of Fedwire securities
+transfers is about $650 billion.
+system  delivers  book-entry 
+simultaneous  payment, 
+securities 
+against 
+a 
+The  ACH  is  an  electronic  payment  service  that  supports  both  credit  and  debit
+transactions and is used by approximately 14,000 financial institutions, 400,000 companies, and an
+estimated  50  million  consumers.  Typical  credit  transactions  include  direct  deposit  of  payroll  and
+corporate  payments  to  suppliers.  Typical  debit  transactions  include  the  collection  of  mortgage  and
+loan  payments  and  corporate  cash  concentration  transactions.  The  ACH  processes  transactions  in
+batches  one  or  two  days  before  they  are  scheduled  to  settle.  ACH  transactions  are  settled  through
+depository  institutions’  accounts  at  the  Federal  Reserve  Banks.  Approximately  4  billion  ACH
+transactions were processed in 1996 with a total value of approximately $12 trillion. About 3.3 billion
+of  these  payments  were  commercial  transactions;  625  million  payments  were  originated  by  the
+Federal government.
+BIS Review   104/1997
+- 2 -
+The  Reserve  Banks’  critical  applications,  such  as  Fedwire  funds  and  securities
+transfer, ACH, and supporting accounting systems, run on mainframe computer systems operated by
+Federal  Reserve  Automation  Services  (FRAS),  the  internal  organizational  unit  that  processes
+applications  on  behalf  of  the  Federal  Reserve  Banks  and  operates  the  Federal  Reserve’s  national
+network. These critical applications are “centralized”, that is, one copy of the application is used by
+all  twelve  Reserve  Banks.  In  addition  to  centralized  applications  on  the  mainframe,  the  Federal
+Reserve Banks operate  a  range  of  applications  in  a  distributed  computing  environment,  supporting
+business  functions  such  as  cash  distribution,  banking  supervision  and  regulation,  research,  public
+information,  and  human  resources.  The  Reserve  Banks  also  operate  check  processing  systems  that
+provide  check  services 
+the  U.S.  government.  A  national
+communications network, called FEDNET, supports the exchange of information among the Reserve
+Banks, FRAS, and external organizations. The scope of the Federal Reserve’s Year 2000 activities
+includes all of these processing environments and the supporting telecommunications network.
+institutions  and 
+to  depository 
+Year 2000 Readiness
+It is crucial that the Federal Reserve provide reliable services to the nation’s banking
+system  and  financial  markets.  The  Federal  Reserve  is  giving  the  Year  2000  its  highest  priority,
+commensurate  with  our  goal  of  maintaining  the  stability  of  the  nation’s  financial  markets  and
+payments systems, preserving public confidence, and supporting reliable government operations.
+We  are  taking  a  comprehensive  approach  to  our  preparedness  which  includes
+assessments of readiness,  remediation,  and  testing.  The  Federal  Reserve  has  completed  application
+assessments and internal test plans, and we are currently renovating and testing software. We are also
+updating  proven  plans  and  techniques  used  during  other  times  of  operational  stress  in  order  to  be
+prepared to address potential century date change difficulties. All Federal Reserve computer program
+changes, as well as system and user-acceptance testing, are scheduled to be completed by year-end
+1998. Further, critical financial services systems that interface with the depository institutions will be
+Year  2000-ready  by  mid-1998.  This  schedule  will  permit  approximately  18  months  for  customer
+testing, to which we are dedicating considerable support resources.
+A large cadre of top personnel in the Federal Reserve System have been assigned to
+this task. Our staff is putting in many extra hours to prepare for testing with customers, planning for
+business continuity in the event of any unanticipated problems with internal systems, and enhancing
+our  ability  to  respond  to  possible  Year  2000-related  operating  failures  of  depository  institutions.
+Assuring  compliance  internally  is  requiring  review  of  approximately  90  million  lines  of  computer
+code. While there are challenges and a great deal of work before us, I can report that we expect to be
+fully prepared for the century date change.
+The Federal Reserve recognized the potential problem with two-digit date fields more
+than five years ago when we began consolidating our mainframe data processing operations. Our new
+centralized mission-critical applications, such as Fedwire funds transfer, Fedwire securities transfer,
+and  ACH,  were  designed  from  inception  with  Year  2000  compliance  in  mind.  The  mainframe
+consolidation  effort  also  necessitated  extensive  application  standardization,  which  required  us  to
+complete a comprehensive inventory of our mainframe applications, a necessary first step to effective
+remediation.  Like  our  counterparts  in  the  private  sector,  the  Federal  Reserve  System  still  faces
+substantial challenges in achieving Year 2000 readiness. These challenges include managing a highly
+complex  project  involving  multiple  interfaces  with  others,  ensuring  the  readiness  of  vendor
+components,  ensuring  the  readiness  of  applications,  thorough  testing,  and  establishing  contingency
+plans. We are also  faced  with  labor  market  pressures  that  call  for  creative  measures  to  retain  staff
+who are critical to the success of our Year 2000 activities.
+BIS Review   104/1997
+CDC Project Management
+According  to  industry  experts,  up  to  one-quarter  of  an  organization’s  Year  2000
+compliance efforts are devoted to project management. Managing preparations for the  century  date
+change  is  particularly  resource-intensive  given  the  number  of  automated  systems  to  be  addressed,
+systems interrelationships and interdependencies, interfaces with external data sources and customers,
+and  testing  requirements.  In  addition,  Year  2000  preparations  must  address  many  computerized
+environmental  and  facilities  management  systems  such  as  power,  heating  and  cooling,  voice
+communications, elevators, and vaults. Our Year 2000 project is being closely coordinated among the
+Reserve  Banks,  the  Board  of  Governors,  numerous  vendors  and  service  providers,  approximately
+13,000 customers, and government agencies.
+In  1995,  a  Federal  Reserve  System-wide  project  was  initiated,  referred  to  as  the
+Century Date Change (CDC) project, to coordinate the efforts of the Reserve Banks, FRAS, and the
+Board  of  Governors.  Our  project  team  is  taking  a  three-part  approach  to  achieve  its  objectives,
+focusing on planning, readiness, communication, and monitoring. Our planning began with a careful
+inventory of all applications and establishment of schedules and support mechanisms to ensure that
+readiness objectives are met. The readiness process involves performing risk assessments, modifying
+automated systems, and testing both internally and with depository institutions, service providers, and
+government agencies. We are stressing effective, consistent, and timely communication, both internal
+and external,  to  promote  awareness  and  commitment  at  all  levels  of  our  own  organization  and  the
+financial  services  industry,  more  generally.  Some  of  our  most  senior  executives  are  leading  the
+project, and the Board and senior Bank management are now receiving formal, detailed status reports
+at least every 60 days. Any significant compliance issues will be reported to the Board immediately.
+The  Reserve  Banks’  internal  audit  departments  and  the  Board’s  oversight  staff  are  also  closely
+monitoring progress.
+A significant challenge in meeting our Year 2000 readiness objectives is our reliance
+on  commercial  hardware  and  software  products  and  services.  Much  of  our  information  processing
+and communications infrastructure is comprised of hardware and software products from third-party
+vendors.  Additionally,  the  Federal  Reserve  utilizes  commercial  application  software  products  and
+services  for  certain  administrative  functions  and  other  operations.  As  a  result,  we  must  coordinate
+with numerous vendors and manufacturers to ensure that all of our hardware, software, and services
+are  Year  2000-ready.  In  many  cases,  compliance  will  require  upgrading,  or  even  replacing,
+equipment and software. We have a complete inventory of vendor components used in our mainframe
+and distributed computing environments, and vendor coordination and system change are progressing
+well.  These  preparations  also 
+the  Year  2000  readiness  of
+telecommunications providers.
+include  careful  attention 
+to 
+Testing
+As we continue to assess our systems for Year 2000 readiness, we are well along in
+preparing  a  special  central  environment  for  testing  our  payment  system  applications.  We  are
+establishing  isolated  mainframe  data  processing  environments  to  be  used  for  internal  testing  of  all
+system components as well as for testing with depository institutions and other government agencies.
+These environments will enable testing for high-risk dates, such as the rollover to the year 2000 and
+leap year processing. Testing will be conducted through a combination of future-dating our computer
+systems to verify the readiness of our infrastructure, and testing critical future dates within interfaces
+to  other  institutions.  Our  test  environments  will  be  configured  to  provide  flexible  and  nearly
+continuous  access  by  customers.  Network  communications  components  are  also  being  tested  and
+certified in a special test lab environment at FRAS.
+BIS Review   104/1997
+- 4 -
+The  testing  effort  for  Year  2000  readiness  within  the  Federal  Reserve  will  be
+extensive and complex. Industry experts estimate that testing for readiness will consume more than
+half  of  total  Year  2000  project  resources.  To  leverage  existing  resources  and  processes,  we  are
+modelling our Year 2000 testing on proven testing methods and processes. Our customers are already
+familiar  with  these  processes  and  the  testing  environment.  We  shared  our  testing  strategy  with
+depository  institutions  in  October  of  this  year,  and  we  are  currently  developing  a  coordinated  test
+schedule. As I noted earlier, the Reserve Banks  are  targeting  June  1998  to  commence  testing  with
+their  depository  institution  customers,  which  allows  an  18-month  time  period  for  depository
+institutions to test their systems with the Federal Reserve.
+All of these activities require that we retain highly skilled staff critical to the success
+of the project. As I mentioned earlier, we have placed the highest priority on our CDC project, and, as
+such, have allocated many of the best managers and technical staff in the Federal Reserve System to
+work on the project. The information technology industry is already experiencing market pressures
+due to the increased demand for technical talent. As the millennium draws closer, the global market
+requirements for qualified personnel will intensify even further. We are responding as necessary to
+these  market-induced  pressures  by  implementing  programs  to  retain  staff  members  in  critical,
+high-demand positions.
+Our focus at the Board goes beyond the immediate need to prepare our systems and
+ensure  reliable  operation  of  the  payments  infrastructure.  We  are  also  working  hard  to  address  the
+supervisory issues raised by Year 2000 and are developing contingency plans which I  will  discuss
+later.
+Bank Supervision
+As  a  bank  supervisor,  the  Federal  Reserve  has  worked  closely  with  the  other
+supervisory agencies that are part of the Federal Financial Institutions Examination Council (FFIEC)
+to  alert  the  industry  to  our  concerns  and  to  monitor  Year  2000  preparations  of  the  institutions  we
+supervise so that we can identify early and address problems that arise. Comptroller of the Currency
+Ludwig  is  testifying  today  as  Chairman  of  the  FFIEC  to  describe  the  interagency  Year  2000
+supervisory initiatives of all of the five member agencies (Federal Reserve, OCC,  FDIC,  OTS  and
+NCUA), so I will limit my comments on the Federal Reserve’s supervisory efforts.
+In May of this year, the Federal Reserve and the other regulatory agencies developed
+a uniform Year 2000 assessment questionnaire to collect information on a national basis. Based on
+the  responses  and  other  information,  we  believe  the  banking  industry’s  awareness  level  improved
+substantially during 1997 and is reflected in the intensified project management, planning, budgeting,
+and renovation efforts that have been initiated.
+Generally  speaking,  the  nation’s  largest  banking  organizations  have  done  much  to
+address the issues and have devoted significant financial and human resources to  preparing  for  the
+century  date  change.  Many  larger  banks  are  already  renovating  their  operating  systems  and  have
+commenced  testing  of  their  critical  applications.  Large  organizations  seem  generally  capable  of
+renovating  their  critical  operating  systems  by  year-end  1998,  and  will  have  their  testing  well
+underway by then.
+Smaller banks, including the U.S. offices of foreign banks and those dependent on a
+third party to provide their computer services, are generally aware of the issues and are working on
+the  problem;  however,  their  progress  is  less  measurable  and  is  being  carefully  monitored.  We  are
+directing significant attention to ensure that these banks intensify their efforts to prepare for the Year
+2000.
+BIS Review   104/1997
+Major third-party service providers and software vendors serving the banking industry
+are  acutely  aware  of  the  issue  and  are  working  diligently  to  address  it.  Most  of  these  suppliers
+consider their Year 2000 capability to be a business survival issue, as it is of critical importance to
+their ability to remain competitive in an aggressive industry.
+By  mid-year  1998  we  will  have  conducted  a  thorough  Year  2000  preparedness
+examination of every bank, U.S. branch and agency of a foreign bank, and service provider that we
+supervise.  Our  examination  program  includes  a  review  of  each  organization’s  Year  2000  project
+management plans in order to evaluate their sufficiency, to ensure the direct involvement of senior
+management and the board of directors, and to monitor their progress against the plan. As we proceed
+through  the  examination  process,  we  are  identifying  any  institutions  that  require  intensified
+supervisory attention and establishing our priorities for subsequent examinations.
+International Awareness
+With regard to the international aspects of the Year 2000 issue, U.S. offices of foreign
+banks pose a unique set of challenges. We are concerned about the possibility that some offices may
+not have an adequate appreciation of the magnitude and ramifications of the problem, and may not as
+yet  have  committed  the  resources  necessary  to  address  the  issues  effectively.  This  is  a  particular
+concern  for  foreign  bank  offices  that  are  dependent  on  their  foreign  parent  bank  for  information
+processing  systems.  In  addition,  we  are  increasingly  concerned  that  the  foreign  branches  of  U.S.
+banks may be adversely affected if counterparties in foreign markets are not ready for the Year 2000.
+Therefore,  we  are  working  through  the  Bank  for  International  Settlements’  (BIS)
+Committee  on  Banking  Supervision,  composed  of  many  of  the  international  supervisory  agencies
+responsible  for  the  foreign  banks  that  operate  in  the  United  States.  Through  formal  and  informal
+discussions,  the  distribution  of  several  interagency  statements  and  advisories,  and  the  Federal
+Reserve’s Year 2000 video (see below) to the BIS supervisors committee, we have sought to elevate
+foreign bank supervisors’ awareness of the risks posed by the century date change.
+The  G-10  governors  issued  an  advisory  in  September  that  included  a  paper  by  the
+bank supervisors committee on the Year 2000 challenge to banks and bank supervisors around  the
+world to ensure a higher level of awareness and activity on their part. The BIS supervisors committee
+has  developed  a  survey  sent  to  about  40  countries  to  collect  better  information  on  the  state  of
+readiness of banks in those countries and the extent of the efforts of the bank supervisors to address
+the issues locally and internationally. The surveys will be evaluated and the findings distributed early
+next  year.  Also  on  the  international  front,  William  McDonough,  President  of  the  Federal  Reserve
+Bank  of  New  York,  in  a  keynote  address  to  the  annual  meeting  of  the  Institute  of  International
+Finance in Hong Kong,  emphasized  the  importance  of  planning  for  the  century  date  change  on  an
+international basis and the significant risk to financial markets posed by the Year 2000.
+We  also  participated  in  the  BIS  meeting  sponsored  by  the  Committee  on  Payments
+and Settlement Systems and the Group of Computer Experts for G-10 and major non-G-10  central
+banks in September which provided a forum to share views on and approaches to dealing with Year
+2000 issues, and we have been active in various private sector forums. The majority of foreign central
+banks are confident that payment and settlement applications under their management will be Year
+2000-ready.  Like  the  Federal  Reserve,  however,  the  operation  of  foreign  central  bank  payment
+systems is dependent on compliant products from hardware and software suppliers and the readiness
+of telecommunication service providers. The approach of foreign central banks toward raising bank
+industry  awareness  varies  widely.  Information  garnered  from  this  meeting  and  similar  meetings
+planned for the future will assist the BIS Committee on Payment and Settlement Systems, as well as
+the Federal Reserve, in understanding the state of preparedness of payment systems on a global level.
+BIS Review   104/1997
+Public Awareness
+- 6 -
+We  are  mindful  that  extensive  communication  with  the  industry  and  the  public  is
+crucial to the success of century date change efforts. Our public awareness program concentrates on
+communications  with  the  financial  services  industry  related  to  our  testing  efforts  and  our  overall
+concerns  about  the  industry’s  readiness.  We  continue  to  advise  our  bank  customers  of  the  Federal
+Reserve’s plans and time frames for making our software Year 2000-ready. We have inaugurated a
+Year 2000 industry newsletter and have just published our first bulletin addressing specific technical
+issues. We would be glad to provide you with copies of our recent newsletter and the bulletin. We
+have  also  established  an  Internet  Web  site  to  provide  depository  institutions  with  information
+regarding  the  Federal  Reserve  System’s  CDC  project.  This  site  can  be  accessed  at  the  following
+Internet address: http://www.frbsf.org/fiservices/cdc.
+On behalf of the FFIEC, the Federal Reserve has developed a Year 2000 information
+distribution system, including an Internet Web site and a toll free Fax Back service (888-882-0982).
+The Web site provides easy access to policy statements, guidance to examiners, and paths to  other
+Year 2000 Web sites available from numerous other sources. The FFIEC Year 2000 Web site can be
+accessed at the following Internet address: http://www.ffiec.gov/y2k.
+The  Federal  Reserve  has  also  produced  a  ten-minute  video  entitled  “Year  2000
+Executive Awareness” intended for viewing by a bank’s board of directors and senior management.
+The video presents a summary of the Year 2000 five-phase project management plan outlined in the
+interagency  policy  statement.  In  my  introductory  remarks  on  the  video,  I  note  that  senior  bank
+officials should be directly involved in managing the Year 2000 project to ensure that it is given the
+appropriate  level  of  attention  and  sufficient  resources  to  address  the  issue  on  a  timely  basis.  The
+video can be ordered through the Board’s Web site.
+Contingency Planning
+While we will continue our public outreach efforts, our main focus is preparedness.
+Because  smooth  and  uninterrupted  financial  flows  are  obviously  of  utmost  importance,  our  main
+focus is on our readiness and the avoidance of problems. But we know from  experience  that  upon
+occasion,  things  can  go  wrong.  Given  our  unique  role  as  the  nation’s  central  bank,  the  Federal
+Reserve has always stressed contingency planning -- for both systemic risks as well as  operational
+failures.
+In this regard, we regularly conduct exhaustive business resumption tests of our major
+payment  systems  that  include  depository  institutions.  Moreover,  as  a  result  of  our  experience  in
+responding  to  problems  arising  from  such  diverse  events  as  earthquakes,  fires,  storms,  and  power
+outages, as well as liquidity problems in institutions, we expect to be appropriately positioned to deal
+with  similar  problems  in  the  financial  sector  that  might  arise  as  a  result  of  CDC.  However,  CDC
+presents  many  unique  situations.  For  example,  in  the  software  application  arena,  the  normal
+contingency of falling back to a prior release of the software is not a viable option. We are, of course,
+developing  specific  CDC  contingency  plans  to  address  various  operational  scenarios,  and  our
+contingency  planning  includes  preparation  to  address  unanticipated  problems  when  we  bring  our
+systems into production as Year 2000 begins. Key technical staff will be ready to respond quickly to
+problems with our computer and network systems. We are establishing procedures with our primary
+vendors to ensure direct communication and appropriate recourse should their products fail at Federal
+Reserve installations during Year 2000 date processing. Our existing business resumption plans will
+be updated to address date-related difficulties that may face the financial industry.
+We already have arrangements in place to assist financial institutions in the event they
+are unable to access their own systems. For example, we are able to provide financial institutions with
+BIS Review   104/1997
+access to Federal Reserve computer terminals on a limited basis for the processing of critical funds
+transfers. This contingency arrangement has proven highly effective when used from time to time by
+depository  institutions  experiencing  major  hardware/software  outages  or  that  have  had  their
+operations disrupted due to natural disasters such as the Los Angeles earthquake, hurricane Hugo in
+the  Carolinas,  and  hurricane  Andrew  in  south  Florida.  In  these  cases  we  worked  closely  with
+financial institutions to ensure that adequate supplies of cash were available to the community, and
+we arranged for our operations to function virtually without interruptions for 24 hours a day during
+the crisis period. We feel the experience gained from such crises will prove very helpful in the event
+of  similar  problems  triggered  by  the  century  date  change.  We  are  formulating  responses  for
+augmenting  certain  functions,  such  as  computer  help  desk  services  and  off-line  funds  transfers,  to
+respond to short-term needs for these services.
+Beyond  reliance  on  a  sound  plan  and  effective  execution  of  the  plan,  the  Federal
+Reserve  provides  several  different  payment  services,  such  as  Fedwire,  ACH,  check,  and  cash;
+therefore,  the  banking  industry  is  not  totally  dependent  upon  any  single  system  for  executing
+payments.  Alternatives  are  available  in  the  event  of  a  disruption  in  a  segment  of  the  electronic
+payment system.
+We  recognize  that  despite  their  best  efforts,  some  depository  institutions  may
+experience operating difficulties, either as a result of their own computer problems or those of their
+customers, counterparties, or others. These problems could be manifested in a number of ways and
+would  not  necessarily  involve  funding  shortfalls.  Nevertheless,  the  Federal  Reserve  is  always
+prepared to provide information to depository institutions on the balances in their accounts with us
+throughout the day, so that they can identify shortfalls and seek funding in the market. The Federal
+Reserve  will  be  prepared  to  lend  in  appropriate  circumstances  and  with  adequate  collateral  to
+depository institutions when market sources of funding are not reasonably available. The terms and
+conditions of such lending may depend upon the circumstances giving rise to the liquidity shortfall.
+Our  preparations  for  possible  liquidity  difficulties  also  extend  to  the  foreign  bank
+branches  and  agencies  in  the  U.S.  that  may  be  adversely  affected  directly  by  their  own  computer
+systems  or  through  difficulties  caused  by  the  linkage  and  dependence  on  their  parent  bank.  Such
+circumstances  would  necessitate  coordination  with  the  home  country  supervisor.  Moreover,
+consistent with current policy, foreign central banks will be expected to provide liquidity support to
+any of their banking organizations that experience a funding shortfall.
+Closing Remarks
+As I indicated at the outset, the Federal Reserve views its Year 2000 preparations with
+great seriousness. As such, we have placed a high priority on the remediation of date problems in our
+systems  and  the  development  of  action  plans  that  will  ensure  business  continuity  for  the  critical
+financial  systems  we  operate.  While  we  have  made  significant  progress  and  are  on  schedule  in
+validating our internal systems and preparing for testing with depository institutions and others using
+Federal  Reserve  services,  we  must  work  to  ensure  that  our  efforts  remain  on  schedule  and  that
+problems are addressed in a timely fashion. In particular, we will be paying special attention to the
+testing  needs  of  depository  institutions  and  the  financial  industry  and  are  prepared  to  adjust  our
+support  for  them  as  required  by  experience.  We  believe  that  we  are  well-positioned  to  meet  our
+objectives and will remain vigilant throughout the process.
+As  a  bank  supervisor,  the  Federal  Reserve  will  continue  to  address  the  industry’s
+preparedness, monitor progress, and target for special supervisory attention those organizations that
+are most in need of assistance. Lastly, we will continue to participate in international forums with the
+expectation  that  these  efforts  will  help  foster  an  international  awareness  of  Year  2000  issues  and
+provide for the sharing of experiences, ideas, and best practices.
+BIS Review   104/1997

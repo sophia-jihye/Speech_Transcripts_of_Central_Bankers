@@ -1,0 +1,1450 @@
+ Andrew G Haldane: Rethinking the financial network 
+Speech by Mr Andrew G Haldane, Executive Director, Financial Stability, Bank of England, at 
+at the Financial Student Association, Amsterdam, 28 April 2009. 
+I  would  like  to  thank  Ian  Bond,  Sebastiano  Daros,  Kemal  Ercevik,  David  Gregory,  Sujit  Kapadia,  Iman  van 
+Leyveld,  Sarah  Parkinson,  Filipa  Sa,  Nick  Vause,  Lewis  Webber,  Matthew  Willison  and  Peter  Zimmerman  for 
+comments and contributions. I would also like to thank Lord Robert May for conversations on the topic. 
+ On 16 November 2002, the first official case of Severe Acute Respiratory Syndrome (SARS) 
+was  recorded  in  Guangdong  Province,  China.  Panic  ensued.  Uncertainty  about  its  causes 
+and  contagious  consequences  brought  many  neighbouring  economies  across  Asia  to  a 
+standstill. Hotel occupancy rates in Hong Kong fell from over 80% to less than 15%, while 
+among Beijing’s 5-star hotels occupancy rates fell below 2%. 
+Media  and  modern  communications  fed  this  frenzy  and  transmitted  it  across  borders.  In 
+North America, parents kept their children from school in Toronto, longshoreman refused to 
+unload a ship in Tacoma due to concerns about its crew and there was a boycott of large 
+numbers of Chinese restaurants across the United States. Dr David Baltimore, Nobel prize 
+winner in medicine, commented: “People clearly have reacted to it with a level of fear that is 
+incommensurate with the size of the problem”. 
+The macroeconomic impact of the SARS outbreak will never be known with any  certainty. 
+But it is estimated to stand at anything up to $100 billion in 2003 prices. Across Asia, growth 
+rates  were  reduced  by  SARS  by  between  1  and  4  percentage  points.  Yet  in  the  final 
+reckoning,  morbidity  and  mortality  rates  were,  by  epidemiological  standards,  modest.  Only 
+around 8000 people were infected and fewer than 1000 died.  
+On  15  September  2008,  Lehman  Brothers  filed  for  Chapter  11  bankruptcy  in  a  New  York 
+courtroom in the United States. Panic ensued. Uncertainty about its causes and contagious 
+consequences brought many financial markets and institutions to a standstill. The market for 
+Credit Default Swaps (CDS) froze, as Lehman was believed to be counterparty to around $5 
+trillion of CDS contracts.  
+Media and modern communications fed this frenzy and transmitted it across markets. Banks 
+hoarded  liquidity  for  fear  of  lending  to  infected  banks,  causing  gridlock  in  term  money 
+markets,  spreads  on  lower-rated  companies’  bonds  spiked  and  there  was  an  effective 
+boycott of the remaining large US investment banks. Professor Paul Krugman, Nobel prize 
+winner  in  economics,  commented:  “Letting  Lehman  fail  basically  brought  the  entire  world 
+capital market down.” 
+The  macroeconomic  impact  of  Lehman  Brothers’  failure  will  never  be  known  with  any 
+certainty.  IMF  forecasts  of  global  growth  for  2009  have  been  revised  down  by  over  5 
+percentage points since Lehman’s failure. Yet in the final reckoning, the direct losses from 
+Lehman’s  failure  seem  likely  to  be  relatively  modest.  Net  payouts  on  Lehman’s  CDS 
+contracts amounted to only around $5 billion.  
+These  similarities  are  striking.  An  external  event  strikes.  Fear  grips  the  system  which,  in 
+consequence, seizes. The resulting collateral damage is wide and deep. Yet the triggering 
+event is, with hindsight, found to have been rather modest. The flap of a butterfly’s wing in 
+New  York  or  Guangdong  generates  a  hurricane  for  the  world  economy.  The  dynamics 
+appear chaotic, mathematically and metaphorically.  
+These  similarities  are  no  coincidence.  Both  events  were  manifestations  of  the  behaviour 
+under stress of a complex, adaptive network. Complex because these networks were a cat’s-
+cradle of interconnections, financial and non-financial. Adaptive because behaviour in these 
+networks was driven by interactions between optimising, but confused, agents. Seizures in 
+BIS Review 53/2009 
+ 1
+the  electricity  grid,  degradation  of  eco-systems,  the  spread  of  epidemics  and  the 
+disintegration  of  the  financial  system  –  each  is  essentially  a  different  branch  of  the  same 
+network family tree. 
+This paper considers the financial system as a complex adaptive system. It applies some of 
+the  lessons  from  other  network  disciplines  –  such  as  ecology,  epidemiology,  biology  and 
+engineering – to the financial sphere. Peering through the network lens, it provides a rather 
+different account of the structural vulnerabilities that built-up in the financial system over the 
+past decade and suggests ways of improving its robustness in the period ahead. 
+Part 1 provides the diagnosis. Using network theory and evidence, it explains the emergence 
+of  two  characteristics  of  the  financial  network  over  the  past  decade  –  complexity  and 
+homogeneity. Together, these resulted in a financial network: 
+• 
+Which was at the same time both robust and fragile – a property exhibited by other 
+complex adaptive networks, such as tropical rainforests; 
+Whose feedback effects under stress (hoarding of liabilities and fire-sales of assets) 
+added to these fragilities – as has been found to be the case in the spread of certain 
+diseases; 
+Whose  dimensionality  and  hence  complexity  amplified  materially  Knightian 
+uncertainties in the pricing of assets – causing seizures in certain financial markets; 
+Where  financial  innovation,  in  the  form  of  structured  products,  increased  further 
+network dimensionality, complexity and uncertainty; and 
+institutions’  business  and  risk 
+Whose  diversity  was  gradually  eroded  by 
+management  strategies,  making  the  whole  system  less  resistant  to  disturbance  – 
+mirroring  the  fortunes  of  marine  eco-systems  whose  diversity  has  been  steadily 
+eroded and whose susceptibility to collapse has thereby increased.  
+    This evolution in the topology of the network meant that sharp discontinuities in the financial 
+system were an accident waiting to happen. The present crisis is the materialisation of that 
+accident. 
+Given that diagnosis, Part 2 of the paper provides some tentative policy prescriptions. The 
+experience of other network disciplines suggests a rather different approach to managing the 
+financial network than has been the case in the past, if future systemic dislocations are to be 
+averted. Three areas in particular are discussed:  
+• 
+failure  of 
+Data  and  Communications:  to  allow  a  better  understanding  of  network  dynamics 
+following a shock and thereby inform public communications. For example, learning 
+from  epidemiological  experience  in  dealing  with  SARs,  or  from  macroeconomic 
+experience after the Great Depression, putting in place a system to map the global 
+financial network and communicate to the public about its dynamics; 
+Regulation: to ensure appropriate control of the damaging network consequences of 
+the 
+from 
+experience in epidemiology by seeking actively to vaccinate the “super-spreaders” 
+to avert financial contagion; and 
+Restructuring:  to  ensure  the  financial  network  is  structured  so  as  to  reduce  the 
+chances  of  future  systemic  collapse.  For  example,  learning  from  experience  with 
+engineering  networks 
+implementation  of  central 
+counterparties  and  intra-system  netting  arrangements,  which  reduce  the  financial 
+network’s dimensionality and complexity. 
+through  more  widespread 
+institutions.  For  example 
+interconnected 
+learning 
+large, 
+  Networks and finance are not complete strangers. There has been growing interest among 
+network  theorists  in  applying  their  techniques  to  financial  phenomena  over  the  past  few 
+years.  For  example,  network  techniques  have  already  been  applied  extensively  to  the 
+2 
+ BIS Review 53/2009
+ dynamics of payment systems and inter-bank networks.  But the financial crisis of the past 
+two years provides both a greater body of evidence, and a stronger incentive, to apply the 
+lessons from other network disciplines to the pressing problems facing financial policymakers 
+today. 
+1
+Part 1: Topology of the financial network 
+In many important respects, the current financial crisis is cut from familiar cloth. Its genesis 
+was  the  over-extension  of  credit,  over-inflation  of  asset  prices  and  over-exuberance  of 
+participants. From the South Sea bubble to the sub-prime crisis, this roll-call of excesses is 
+familiar. Gerald Corrigan, ex-President of the New York Fed, said ahead of the crisis: 
+“In  recent  years  the  pace  of  change  and  innovation  in  financial  markets 
+and institutions here and around the world has increased enormously as 
+have  the  speed,  volume  and  value  of  financial  transactions.  The  period 
+has  also  seen  a  greatly  heightened  degree  of  aggressive  competition  in 
+the financial sector. All of this is taking place in the context of a legal and a 
+regulatory  framework  which  is  increasingly  outdated  and  ill-equipped  to 
+meet the challenges of the day. This has led to…concern that the fragility 
+of  the  system  has  increased,  in  part  because  the  degree  of  operational, 
+liquidity and credit interdependency has risen sharply”.2  
+Corrigan  was  speaking  in  January  1987.  The  crisis  foretold  was  the  October  1987  stock 
+market crash. Plus ça change. 
+Yet  in  some  more  fundamental  respects  this  time’s  crisis  feels  different  –  larger  probably, 
+more  discontinuous,  complex  and  interconnected  certainly.  There  are  already  numerous 
+accounts of why that might be. Here, I argue that these knife-edge dynamics can essentially 
+be explained by two structural features of the financial network. These have developed over 
+many  years  but  at  particular  pace  over  the  past  decade.  They  are  complexity  on  the  one 
+hand, and homogeneity on the other.  
+In  essence,  the  financial  network  has  over  time  become  progressively  more  complex  and 
+less diverse. Why? And what have been the consequences? 
+In  the  1987  film  Wall  Street,  the  financial  sector  mantra  was  “greed  is  good”.  The  stock 
+market crash of the same year put paid to that doctrine, at least temporarily. By the early part 
+of  this  century,  both  the  circumstances  and  the  individuals  had  changed.  So  too  had  the 
+mantra.  It  had  become  the  rather  gentler  “diversification  is  desirable”.  Risk-taking  became 
+less Gordon Gekko and more Merton Miller.  
+Diversification came care of two complementary business strategies. The first was “originate 
+and distribute”. Risk became a commodity. As  such it could be bundled, sliced, diced and 
+then re-bundled for onward sale. Credit became, in the jargon, structured. Securitisation was 
+one vehicle for achieving this. Derivatives, such as CDS, were another. As these marketable 
+instruments passed between participants, the network chain lengthened.  
+In principle, these instruments delivered a Pareto-improving reallocation of risk. Risk would 
+flow  to  those  best  able  to  bear  it.  They  had  deep  pockets  which  they  sought  to  line  with 
+higher yield. For the system as a whole, this sounded like the land of milk and honey. For a 
+risk shared was a risk halved – perhaps more than halved, given the magic of diversification. 
+The network chain, meanwhile, just kept on growing. 
+                                                 
+1   Federal Reserve Bank of New York (2007); May, Levin and Sugihara (2008); Allen and Gale (2000).  
+2   Corrigan (1987). 
+BIS Review 53/2009 
+ 3
+The second strategy was diversification of business lines. Firms migrated activity to where 
+returns looked largest. As each new day dawned – leveraged loans yesterday, CDOs today, 
+proprietary  trading  tomorrow  –  the  whole  sector  was  drawn  to  the  new  source  of  sunlight. 
+Through competitive forces, finance engaged in a frantic game of follow-the-leader, played 
+for real money. 
+From an individual firm perspective, these strategies indeed looked like sensible attempts to 
+purge risk through diversification: more eggs were being placed in the basket. Viewed across 
+the system as a whole, however, it is clear now that these strategies generated the opposite 
+result: the greater the number of eggs, the greater the fragility of the basket – and the greater 
+the probability of bad eggs. 
+Securitisation  increased  the  dimensionality,  and  thus  complexity,  of  the  financial  network. 
+Nodes grew in size and interconnections between them multiplied. The financial cat’s-cradle 
+became dense and opaque. As a result, the precise source and location of underlying claims 
+became anyone’s guess. Follow-the-leader became blind-man’s buff. In short, diversification 
+strategies  by  individual  firms  generated  heightened  uncertainty  across  the  system  as  a 
+whole.  
+Meanwhile,  a  strategy  of  changing  the  way  they  had  looked  in  the  past  led  to  many  firms 
+looking the same as each other in the present. Banks’ balance sheets, like Tolstoy’s happy 
+families, grew all alike. So too did their risk management strategies. Financial firms looked 
+alike and responded alike. In short, diversification strategies by individual firms generated a 
+lack of diversity across the system as a whole.  
+So  what  emerged  during  this  century  was  a  financial  system  exhibiting  both  greater 
+complexity  and  less  diversity.  Up  until  2007,  many  participants  in  financial  markets  would 
+have  viewed  that  network  evolution  as  the  inevitable  by-product  of  technical  progress  in 
+finance. Until then, complexity plus homogeneity equalled stability.  
+But  in  just  about  every  non-financial  discipline  –  from  ecologists  to  engineers,  from 
+geneticists to geologists – this evolution would have set alarm bells ringing. Based on their 
+experience,  complexity  plus  homogeneity  did  not  spell  stability;  it  spelt  fragility.  In 
+understanding why, it is useful to explore some of the wider lessons from those disciplines, 
+taking in turn the effects of complexity and diversity on stability. 
+Complexity and stability 
+Tropical rainforests are a complex adaptive system. In the immediate post-war period, these 
+eco-systems  were  often  used  as  a  case-study  when  demonstrating  why  complex  systems 
+tended  to  exhibit  greater  stability.3  In  Elton’s  (1958)  words,  this  was  because  there  are 
+“always  enough  enemies  and  parasites  available  to  turn  on  any  species  that  starts  being 
+unusually  numerous”.  Complexity  strengthened  self-regulatory  forces  in  systems,  so 
+improving robustness. This was the prevailing ecological wisdom up until the early 1970s. 
+That  conventional  wisdom  has  since  been  turned  on  its  head.  From  the  1970s  onwards, 
+orthodoxy  was  altered  by  a  combination  of  enriched  mathematical  models  and  practical 
+experience.4  Counter-examples  emerged,  with  some  simple  eco-systems  –  savannas  and 
+grasslands  –  found  to  exhibit  high  robustness  and  some  complex  eco-systems  proving 
+vulnerable 
+tropical  rainforests 
+highlighted their inherent fragility. Not for nothing did rainforests become known as a “non-
+renewable” resource from the early 1970s.  
+large-scale  clearance  of 
+to  attack.  Perhaps 
+tellingly, 
+                                                 
+3   For example, Voute (1946) and Elton (1958).  
+4   For example, May (1974). 
+4 
+ BIS Review 53/2009
+ Finance appears to be following in ecologists’ footsteps, albeit with a generational lag. Until 
+recently, mathematical models of finance pointed to the stabilising effects of financial network 
+completeness.5  Connectivity  meant  risk  dispersion.  Real-world  experience  appeared  to 
+confirm that logic. Between 1997 and 2007, buffeted by oil prices shocks, wars and dotcom 
+mania, the financial system stood tall; it appeared self-regulating and self-repairing. Echoes 
+of 1950s ecology were loud and long. 
+The  past  18  months  have  revealed  a  system  which  has  shown  itself  to  be  neither  self-
+regulating nor self-repairing. Like the rainforests, when faced with a big shock, the financial 
+system has at times risked becoming non-renewable. Many of the reasons for this have a 
+parallel  in  other  disciplines.  In  particular,  in  making  sense  of  recent  financial  network 
+dynamics,  four  mechanisms  appear  to  have  been  important:  connectivity;  feedback; 
+uncertainty; and innovation. 
+6
+Connectivity and stability 
+(a)  
+Over the past 30 years, a great deal has been established about the links between network 
+connectivity  and  robustness.  These  lessons  span  a  range  of  disciplines  including  physics, 
+biology, engineering and epidemiology. There are perhaps three key robustness results from 
+this literature which are relevant to the financial system.  
+Perhaps the key one concerns the “robust-yet-fragile” property of connected networks.  The 
+intuition behind this result is beguilingly simple, but its implications profound. In a nutshell, 
+interconnected  networks  exhibit  a  knife-edge,  or  tipping  point,  property.  Within  a  certain 
+range,  connections  serve  as  a  shock-absorber.  The  system  acts  as  a  mutual  insurance 
+device  with  disturbances  dispersed  and  dissipated.  Connectivity  engenders  robustness. 
+Risk-sharing – diversification – prevails. 
+But  beyond  a  certain  range,  the  system  can  flip  the  wrong  side  of  the  knife-edge. 
+Interconnections serve as shock-amplifiers, not dampeners, as losses cascade. The system 
+acts not as a mutual insurance device but as a mutual incendiary device. Risk-spreading – 
+fragility – prevails. The extent of the systemic dislocation is often disproportionate to the size 
+of  the  initial  shock.  Even  a  modest  piece  of  news  might  be  sufficient  to  take  the  system 
+beyond its tipping point. This same basic logic has latterly been applied to financial systems, 
+using mathematical models and simulated data.7  
+These knife-edge dynamics match closely the behaviour of the financial system in the recent 
+past. A lengthy period of seeming robustness (the Golden Decade from 1997 to 2007) was 
+punctuated by an acute period of financial fragility (the period since). The shock causing this 
+tipping point to be reached – the sub-prime crisis – was by global financial standards rather 
+modest.  The  robust-yet-fragile  property  of  networks  helps  make  sense  of  these  non-linear 
+financial  dynamics.  Though  they  looked  and  felt  like  chaos,  these  dynamics  were  in  fact 
+manifestations of a new network order. 
+The  second  key  robustness  result  concerns  the  “long-tailed  distribution”  of  connected 
+networks. The degree of a node measures the number of links to other nodes. So the degree 
+distribution could be thought of as a histogram of the number of links for each node. For a 
+network  whose  links  are  randomly  configured, this  degree distribution would  be  symmetric 
+and bell-shaped; it would have a fat middle and thin tails.  
+                                                 
+5   For example, Allen and Gale (op.cit).  
+6   For example, May and Anderson (1991), Albert et al (2004), Kinney et al (2005), Watts (2002). 
+7   For example, at the Bank of England by Nier et al (2008) and Gai and Kapadia (2008); and by Battiston et al 
+(2009) and Gallegati et al (2008).  
+BIS Review 53/2009 
+ 5
+But  many  real-world  networks  do  not  exhibit  these  properties,  including  the  internet, 
+biological food webs and epidemiology networks.8 Instead these networks have been found 
+to have a thin middle and long, fat tails. There is a larger than expected number of nodes 
+with both a smaller and a larger number of links than average. Some financial networks, such 
+as payment systems, have also been found to exhibit long tails.9
+Long  tails  have  been  shown  to  have  important  implications  for  network  robustness.  In 
+particular,  long-tailed  distributions  have  been  shown  to  be  more  robust  to  random 
+disturbances, but more susceptible to targeted attacks.10 Why? Because a targeted attack on 
+a hub risks bringing the heart of the system to a standstill, whereas random attacks are most 
+likely to fall on the periphery. 
+This result carries important policy implications. Long periods of apparent robustness, where 
+peripheral  nodes  are  subject  to  random  shocks,  should  offer  little  comfort  or  assurance  of 
+network health. It is only when the hub – a large or connected financial institution – is subject 
+to stress that network dynamics will be properly unearthed. When large financial institutions 
+came under stress during this crisis, these adverse system-wide network dynamics revealed 
+themselves.  
+ The origin 
+The third result is the well-known “small world” property of connected networks.
+of  this  was  a  chain  letter  experiment  by  Stanley  Milgram  in  1967.  This  showed  that  the 
+average path length (number of links) between any two individuals was around six – hence 
+“six  degrees  of  separation”.  Although  networks  tend  to  exhibit  local  clustering  or 
+neighbourhoods, certain key nodes can introduce short-cuts connecting otherwise detached 
+local communities.  
+This  small  world  property  has  again  been  found  across  a  range  of  physical  networks, 
+including the World Wide Web and forest fires.12 Its implications for network robustness are 
+subtle. In general, however, it will tend to increase the likelihood of local disturbances having 
+global  effects  –  so-called  “long  hops”.  That  could  occur  between  different  institutions  or 
+between  different  nation  states.  Either  way,  a  small  world  is  more  likely  to  turn  a  local 
+problem into a global one. 
+So  what  evidence  do  we  have  on  these  three  characteristics  in  real  financial  networks? 
+Charts 1-3 look at the evolution in the international financial network. In particular, they look 
+at cross-border stocks of external assets and liabilities in 18 countries at three dates: 1985, 
+1995 and 2005. These data can be used to gauge the scale and evolution of interconnectivity 
+within the global financial network.  
+In Charts 1-3, the nodes are scaled in proportion to total external financial stocks, while the 
+thickness  of  the  links  between  nodes  is  proportional  to  bilateral  external  financial  stocks 
+relative to GDP.13 Table 1, meanwhile, provides some summary statistics for the international 
+financial  network,  in  particular  measures  of  the  skew  and  fat-tailedness  in  the  degree 
+distribution and its average path length.  
+Three  key  points  emerge.  First,  it  is  clear  that  the  scale  and  interconnectivity  of  the 
+international financial network has increased significantly over the past two decades. Nodes 
+11
+                                                 
+8   May (2006). 
+9   Pröpper et al (2008). 
+10   May and Anderson (1991), Porterie et al (2008). 
+11   Watts and Strogatz (1998). 
+12   On the former see Albert et al (2000); on the latter see Porterie et al (2008). 
+13   Specifically, nodes are scaled by (Total External Assets + Total External Liabilities) for each node, and links 
+between nodes i and j by (Total External Assetsij + Total External Liabilitiesij )/(GDPi + GDPj). The data are 
+developed and analysed in Kubulec and Sa (2008).  
+6 
+ BIS Review 53/2009
+ have  ballooned,  increasing  roughly  14-fold.  And  links  have  become  both  fatter  and  more 
+frequent,  increasing  roughly  6-fold.  The  network  has  become  markedly  more  dense  and 
+complex.  And  what  is  true  between  countries  is  also  likely  to  have  been  true  between 
+institutions within countries.  
+Second,  the  international  financial  network  exhibits  a  long-tail.  Measures  of  skew  and 
+kurtosis  suggest  significant  asymmetry  in  the  network’s  degree  distribution.  Global  finance 
+appears to comprise a relatively small number of financial hubs with multiple spokes.  
+Third, the average path length of the international financial network has also shrunk over the 
+past  twenty  years.  Between  the  largest  nation  states,  there  are  fewer  than  1.4  degrees  of 
+separation. Were the network extended beyond the 18 countries in the sample, the evolution 
+of this “small world” property would be clearer still.  
+So based on evidence from a sampled international financial network, the past twenty years 
+have resulted in a financial system with high and rising degrees of interconnection, a long-
+tailed degree distribution and small world properties. That is an unholy trinity. From a stability 
+perspective, it translates into a robust-yet-fragile system, susceptible to a loss of confidence 
+in the key financial hubs and with rapid international transmission of disturbances. That is not 
+the  worst  description  of  financial events  over  the  past  decade  –  and  in  particular  over  the 
+past 18 months. 
+Feedback and stability 
+(b) 
+In epidemiology, the impact of a disease depends crucially on such structural parameters as 
+the mortality rate once infected and the transmission rate across agents.14 The first is largely 
+fixed and biological. But the second is likely to be variable and sociological. In other words, 
+agents’ responses to infection, or indeed the fear of infection, are often crucial in determining 
+its rate of transmission. 
+In practice, these behavioural responses typically take one of two forms: “hide” or “flight”. For 
+example, the response to the SARS epidemic in the 21st century was a “hide” response, with 
+people self-quarantining by staying at home and with flight, in this case literally, prohibited. 
+But the response to yellow fever in North America in the 19th century was “flight”, with half 
+the population of Memphis fleeing in 1878.15
+Either response is rational from an individual perspective. Both responses have the aim of 
+removing  that  individual  from  circulation  with  other,  potentially  infectious,  agents.  But  the 
+implications  of  these  responses  for  infection  rates  across  the  system  are  potentially  very 
+different. Hide responses tend to contain infection locally, thus protecting the system globally. 
+This  was  the  SARS  experience.  Flight,  by  contrast,  tends  to  propagate  infection  globally. 
+This was the yellow fever experience, as incidence of the disease followed the railroad line 
+out of Memphis.16
+During  this  financial  crisis,  faced  with  fears  about  infection,  similar  sets  of  behavioural 
+responses by financial institutions have occurred. Only the names are different. The “hiding” 
+has taken the form of hoarding, typically of liquidity. And the “flight” from infected cities has 
+taken the form of flight from infected assets, as institutions have sold toxic assets. Unlike in 
+an epidemiological context, however, both behavioural responses have aggravated stresses 
+in the financial system. How so?  
+                                                 
+14   May (2006), Newman (2002). 
+15   Epstein et al (2008) provide a range of examples.  
+16   Wheelis  (2006)  provides  an  excellent  example  of  the  role  of  human  (in  this  particular  case  literal)  flight  in 
+transmitting the Plague to Europe in the 14th Century. Transmission of the Plague was reputedly the result of 
+Genoese traders fleeing the Crimean city of Caffa after the Mongol army had catapulted infected corpses over 
+the city walls. 
+BIS Review 53/2009 
+ 7
+Banks  entered  the  crisis  with  a  large  portfolio  of  risky  assets.  As  risk  materialised,  banks 
+rationally sought to protect themselves from infection from other banks by hoarding liquidity 
+rather  than  on-lending  it.  The  result  has  been  enduring  stress  in  money  markets.  Banks’ 
+mutual  interdependence  in  inter-bank  networks  meant  that  individually-rational  actions 
+generated a collectively worse funding position for all.  
+That,  in  turn,  contributed  to  the  second  behavioural  response.  Unable  easily  to  fund  their 
+asset portfolio, some financial firms instead opted for flight through sales of assets. These 
+acted  like  the  railroad  out  of  Memphis,  placing  downward  pressure  on  asset  prices  and 
+thereby  spreading  the  infection  to  other  institutions.  Others’  immunity  to  infection  was 
+simultaneously being lowered by widespread marking of assets to market. In escaping the 
+plague, asset flight served to propagate it.  
+These behavioural dynamics – panic hoarding of liabilities, distress sales of assets – have 
+been defining features of this crisis. Placing these responses in a network framework clarifies 
+the individual rationalities, but collective externalities, that drove these actions. These rational 
+responses by banks to fear of infection added to the fragility of an already robust-yet-fragile 
+financial network.  
+Uncertainty and stability 
+(c)  
+A  related,  but  separate,  behavioural  response  to  fear  of  infection  is  felt  in  the  pricing  of 
+financial instruments. Networks generate chains of claims. At times of stress, these chains 
+can amplify uncertainties about true counterparty exposures. Who is really at the end of the 
+chain – Warren Buffett or Bernard Madoff? Through their impact on counterparty uncertainty, 
+networks have important consequences for dynamics and pricing in financial markets.  
+To illustrate, consider the case of pricing in the CDS market – an inherently complex, high 
+dimension market. In particular, consider Bank A seeking insurance from Bank B against the 
+failure  of  Entity  C.  Bank  A  faces  counterparty  risk  on  Bank  B.  If  that  were  the  end  of  the 
+story,  network  uncertainty  would  not  much  matter.  Bank  A  could  monitor  Bank  B’s 
+creditworthiness, if necessary directly, and price the insurance accordingly. 
+But what if Bank B itself has n counterparties? And what if each of these n counterparties 
+itself  has  n  counterparties?  Knowing  your  ultimate  counterparty’s  risk  then  becomes  like 
+solving  a  high-dimension  Sudoku  puzzle.  Links  in  the  chain,  like  cells  in  the  puzzle,  are 
+unknown – and determining your true risk position is thereby problematic. 
+For Bank A, not knowing the links in the chain means that judging the default prospects of 
+Bank B becomes a lottery. Indeed, in some ways it is worse than a lottery, whose odds are at 
+least  known.  In  this  example,  Bank  A  faces  uncertainty  in  the  Knightian  sense,  as  distinct 
+from risk, about the true network structure. Counterparty risk is not just unknown; it is almost 
+unknowable. And the higher the dimensionality of the network, the greater that uncertainty. 
+It is possible to formalise this intuition with some simple numerical examples.
+Consider two states of the world, pre-crisis and crisis. And consider the impact of network 
+complexity  on  CDS  pricing.  Once  we  introduce  Knightian  uncertainty,  asset  prices  are  no 
+longer  determinate;  they  are  defined  by  a  range  rather  than  a  point.  So  the  range  of 
+equilibrium CDS spreads can be taken as a metric of the uncertainty, and hence distortion, 
+arising from different network structures.  
+Chart 4 plots a pre-crisis world where it is assumed that counterparty default probabilities, 
+and the uncertainty around them, are low. Subject to those assumptions, it illustrates how the 
+range of CDS spreads is affected by Bank B’s number of counterparties. Larger numbers of 
+ 17
+                                                 
+17   The following is based on work in progress at the Bank on asset pricing under network Knightian uncertainty, 
+by Sebastiano Daros and Kemal Ercevik. 
+8 
+ BIS Review 53/2009
+ counterparties are marginally beneficial. There is a “law of large numbers” benefit. Broadly-
+speaking, however, network dimensionality has no material bearing on CDS pricing.  
+Chart 5 simulates a crisis world in which the default probability of Bank B has risen and so 
+too the uncertainty around that probability. The difference is striking. Pricing uncertainty now 
+increases  with  the  dimensionality  of  the  web.  Extra  counterparties  add  to,  rather  than 
+subtract  from,  pricing  distortions.  There  is  a  “law  of  large  numbers”  cost.  That  uncertainty 
+cost, or Knightian distortion, is roughly proportional the dimension of the network. 
+It  is  difficult  not  to  draw  comparisons  with  Lehman’s  experience.  Lehman  had  large  CDS 
+counterparty  exposures  relative  to  its  balance  sheet  and  hundreds  of  counterparties.  AIG 
+was  similarly  situated.  It  is  little  wonder  participants  took  fright  as  both  institutions  came 
+under stress, fearful not so much of direct counterparty risk, but of indirect counterparty risks 
+emanating from elsewhere in the network. The network chain was so complex that spotting 
+the weakest link became impossible. This added yet a further layer of fragility to the financial 
+system.  
+Innovation and stability 
+(d)  
+A  fourth  dimension  to  complexity  in  network  chains  derives  from  the  effects  of  financial 
+innovation. Over the past decade, this often took a particular form – structured credit – with 
+risk decomposed and then reconstituted like the meat in an increasingly exotic sausage. The 
+result was a complex interlocking set of claims. With each restructuring of ingredients, the 
+web branched and the dimensionality of the network multiplied.  
+Chart 6 shows some of the interlocking networks of structured products that emerged. I will 
+not attempt to describe this chart; it would take too long and, even if I had the time, I doubt I 
+would  have  the  ability.  These  were  the  self-same  constraints  –  time,  complexity  –  which 
+faced  investors  in  these  products.  Due  diligence  was  the  casualty.  End-investors  in  these 
+instruments were no more likely to know the name of the companies in their portfolios than 
+the name of the cow or pig in their exotic hot dog. 
+To  illustrate,  consider  an  investor  conducting  due  diligence  on  a  set  of  financial  claims: 
+RMBS, ABS CDOs and CDO2. How many pages of documentation would a diligent investor 
+need  to  read  to  understand  these  products?  Table  2  provides  the  answer.  For  simpler 
+products,  this  is  just  about  feasible  –  for  example,  around  200  pages,  on  average,  for  an 
+RMBS investor. But an investor in a CDO2 would need to read in excess of 1 billion pages to 
+understand fully the ingredients.  
+With a PhD in mathematics under one arm and a Diploma in speed-reading under the other, 
+this  task  would  have  tried  the  patience  of  even  the  most  diligent  investor.  With  no time  to 
+read  the  small-print,  the  instruments  were  instead  devoured  whole.  Food  poisoning  and  a 
+lengthy loss of appetite have been the predictable consequences. Though it had aimed to 
+dampen institutional risk, innovation in financial instruments served to amplify further network 
+fragility. 
+Diversity and stability 
+A  final  dimension  to  network  robustness  concerns  the  effects  of  diversity.  The  oceans 
+provide a rich and lengthy test-bed of the links between diversity and robustness. Over the 
+past millennium, studies of coastal eco-systems reveal some dramatic patterns.18 For around 
+800  years,  between  the  years  1000-1800AD,  fish  stocks  and  species  numbers  were 
+seemingly stable and robust. Since then, almost 40% of fish species across the world’s major 
+                                                 
+18   The results here are based on Worm et al (2006). 
+BIS Review 53/2009 
+ 9
+coastal  eco-systems  have  “collapsed”,  defined  here  as  a  fall  in  population  of  greater  than 
+90%. That is systemic by any metric.  
+There appear to be many environmental reasons for this collapse, some natural, others man-
+made. But the distribution of this collapse across eco-systems is revealing. For species-rich – 
+that is, diverse – eco-systems the rate of collapse has been as low as 10%; for species-poor 
+eco-systems,  as  high  as  60%.  Diverse  coastal  eco-systems  have  proved  to  be  markedly 
+more robust, measured over century spans. 
+Results for large marine eco-systems suggest a similar picture. Over the period 1950-2003, 
+the incidence of collapsed fisheries declines exponentially with species-diversity.19 Diversity 
+also appears to increase the resilience of fisheries – that is, their capacity to recover – in the 
+event of collapse. These results reappear throughout marine eco-systems, “in coral reefs in 
+Jamaica and on rocky shores in Panama”.20  
+And they do not appear to be unique to marine eco-systems. For example, similar effects of 
+diversity have been found in studies of the resilience of crops to pathogen outbreaks; in the 
+robustness  of  savannas  and  grassland  to  drought;  and  in  morbidity  and  mortality  rates 
+among humans facing disease and infection.21 Diversity of the gene pool, it seems, improves 
+durability.  
+The  financial  system  has  mirrored  the  fortunes  of  the  fisheries,  for  many  of  the  same 
+reasons. Since the start of 2007, 23 of the largest European and US banks have seen their 
+market capitalisation fall by 90% or more – the fisheries equivalent of collapse. But what took 
+marine eco-systems two hundred years to achieve has been delivered by financial engineers 
+in two. In explaining the collapse in fish and finance, lack of diversity seems to be a common 
+denominator.  
+Within  the  financial  sector,  diversity  appears  to  have  been  reduced  for  two  separate,  but 
+related,  reasons:  the  pursuit  of  return;  and  the  management  of  risk.  The  pursuit  of  yield 
+resulted  in  a  return  on  equity  race  among  all  types  of  financial  firm.  As  they  collectively 
+migrated  to  high-yield  activities,  business  strategies  came  to  be  replicated  across  the 
+financial sector. Imitation became the sincerest form of flattery. 
+So savings cooperatives transformed themselves into private commercial banks. Commercial 
+banks ventured into investment banking. Investment banks developed in-house hedge funds 
+through  large  proprietary  trading  desks.  Funds  of  hedge  funds  competed  with  traditional 
+investment  funds.  And  investment  funds  –  pension,  money  market  mutual,  insurance  – 
+imported the risk the others were shedding.  
+Cumulative returns earned by, on the face of it, very different financial models illustrate this 
+story  (Chart  7).  Looking  across  global  banks,  large  complex  financial  institutions  (LCFIs), 
+insurance  companies  and  hedge  funds,  cumulative  returns  have  exhibited  a  remarkably 
+similar pattern, both in the run-up to crisis and in the subsequent run-down. Rolling averages 
+of  pairwise  correlations  across  sectors  averaged  in  excess  of  0.9  throughout  the  period 
+2004-2007. At the height of the credit boom, financial imitation appears to have turned into 
+near-cloning. Flattery gave way to fat-cattery. 
+What was true across financial sectors was also true within them. For example, hedge fund 
+strategies  rejoice  in  such  oblique  names  as  “convertible  arbitrage”  and  “dedicated  short 
+bias”. The average pairwise correlation between these different funds’ strategies was roughly 
+zero at the turn of the century. By 2008, it had risen to around 0.35. Far from daring to be 
+different, hedge funds seem increasingly to have hunted as a pack.  
+                                                 
+19   Worm et al (op.cit.). 
+20   Levin and Lubchenco (2008). 
+21   For example, Tilman (1999) and Clay (2004). 
+10 
+ BIS Review 53/2009
+ Management of the risks resulting from these strategies amplified this homogeneity. Basel II 
+provided a prescriptive rule-book ensuring a level playing field. Ratings were hard-wired into 
+regulation.  Risk  models  blossomed,  with  Value-at-Risk  (VaR)  and  stress-testing  providing 
+seductively precise outputs. Like blossom, these models looked and acted alike – and may 
+yet prove similarly ephemeral. The level playing field resulted in everyone playing the same 
+game at the same time, often with the same ball. 
+Through  these  channels,  financial  sector  balance  sheets  became  homogenised.  Finance 
+became a monoculture. In consequence, the financial system became, like plants, animals 
+and  oceans  before  it,  less  disease-resistant.  When  environmental  factors  changed  for  the 
+worse,  the  homogeneity  of  the  financial  eco-system  increased  materially  its  probability  of 
+collapse. 
+So where does this leave us? With a financial system exhibiting, for individually quite rational 
+reasons,  increasing  complexity  and  homogeneity.  A  network  which,  in  consequence,  was 
+robust-yet-fragile. A network predisposed to tipping points and discontinuities, even for small 
+shocks. A network which, like Tolstoy’s unhappy families, could be unhappy in quite different 
+ways. A network mostly self-repairing, but occasionally self-destructing. A network which, like 
+the little girl with the curl, when the going was good was very, very good – but when it turned 
+bad was horrid. 
+Part 2: Improving network stability 
+This  is  a  gloomy  prognosis:  a  financial  system  teetering  between  triumph  and  disaster. 
+Unlike  Kipling,  policymakers  in  practice  are  unlikely  to  treat  those  two  imposters  just  the 
+same. Recent events have rather illustrated that. Public interventions in the financial system 
+during this crisis – through liquidity injections, capital injections or public sector guarantees – 
+already total in excess of £5 trillion.22  
+So what could be done to protect the financial network from future such dynamics? And are 
+there lessons from other network disciplines which might help inform these efforts? Let me 
+highlight three areas where improvements in the robustness of the financial network seem 
+feasible: mapping; regulating; and restructuring.  
+Mapping the network 
+(a)  
+The SARS episode may be remembered by historians as an overblown economic reaction to 
+a small health risk – that was Nobel Laureate Dr David Baltimore’s prognosis. But there is an 
+alternative  reading  of  the  runes,  one  which  offers  some  lessons,  and  not  a  little  hope,  for 
+financial policymakers. 
+In  2000,  the  World  Health  Organisation  (WHO)  established  the  Global  Outbreak  Alert  and 
+Response  Network  (GOARN).  This  brings  together  over  120  international  institutions  and 
+networks to share resources to better identify and manage outbreaks. In the case of SARS, 
+the speed and scale of response was striking.  
+On 12 March 2003, less than two weeks after the Hong Kong outbreak, the WHO issued a 
+global  health  alert.  On  15  March,  a  “general  travel  advisory”  was  issued.  By  17  March,  a 
+network of scientists from 11 laboratories in 9 countries was established to devise diagnostic 
+tests,  analyse  samples  and  share  results  in  real  time.  This  allowed  national  agencies  to 
+promulgate information quickly and widely, with governments in Thailand, Malaysia, China, 
+                                                 
+22   For example, Bank of England Financial Stability Report, October 2008. 
+BIS Review 53/2009 
+ 11
+Singapore  and  Canada  each  imposing  some  combination  of  travel  bans,  quarantining  and 
+public health notices.23
+These measures appear to have contributed both to the rapid subsidence of SARS-related 
+fears  and  uncertainties  among  the  general  public  and  to  containing  the  spread  of  the 
+disease.  Since  April  2004,  there  have  been  no  reported  cases  of  SARS.  The  global 
+information infrastructure of GOARN is widely acknowledged as having helped nip the SARS 
+crisis in the bud.  
+There are important lessons here for the financial system. At present, risk measurement in 
+financial systems is atomistic. Risks are evaluated node by node. In a network, this approach 
+gives  little  sense  of  risks  to  the  nodes,  much  less  to  the  overall  system.  It  risks  leaving 
+policymakers navigating in dense fog when assessing the dynamics of the financial system 
+following failure. The market repercussions of Lehman’s failure were in part the result of such 
+restricted visibility.  
+What more might be done to prevent a repeat? Part of the answer lies in improved data, part 
+in  improved  analysis  of  that  data,  and  part  in  improved  communication  of  the  results.  On 
+data, in some real-world physical networks, data is collected on virtually all nodes and links. 
+For  example,  in  modelling  the  US  electricity  grid,  data  are  collected  on  all  major  power 
+stations (nodes) and power lines (links).24 As these total 14,000 and 20,000 respectively, this 
+is a large-dimension network.  
+Data from physical networks such as the power grid are relatively easy to collect. For many 
+other large-dimension networks, sampling techniques are typically required. These typically 
+take one of three forms: node sampling; link sampling; and “snowball” sampling.25 There are 
+lessons for the financial system from all three.  
+To  date,  sampling  of  nodes  has  been  the  dominant  means  of  assessing  risk  within  the 
+financial  system,  typically  for  a  sub-set  of  the  nodes  such  as  banks.  Where  non-bank 
+financial intermediaries are an important part of the network, sampling of nodes has shown 
+itself deficient. For example, little was known about the activities of off balance sheet vehicles 
+–  SIVs  and  conduits  –  ahead  of  crisis.  More  fundamentally,  this  approach  provides  little 
+information  on  the  links  between  nodes.  These  are  central  to  understanding  network 
+dynamics.  Imagine  assessing  the  robustness  of  the  electricity  grid  with  data  on  power 
+stations but not on the power lines connecting them. 
+Sampling of links has historically been little deployed when analysing the financial system. 
+Some  data  exist  on  the  degree  of  linkage  between  financial  firms  –  for  example,  from 
+regulatory  returns  on 
+to  construct  rough 
+approximations  of  inter-bank  networks.26  But  these  data  are  typically  partial  and  lack 
+timeliness. They are weak foundations for understanding the financial network. 
+That  takes  us  to  snowballing  –  that  is,  constructing  a  picture  of  the  network  by  working 
+outwards from the links to one of the nodes. As a way of understanding the financial web, 
+there  are  attractions  to  this  approach.  It  is  agnostic  about  which  are  the  key  nodes  and 
+important links. Network boundaries are uncovered by following the money, rather than by 
+using institutional labels or national or regulatory boundaries.  
+Applied in practice, this approach might have helped identify some of the key nodal sources 
+of  risk  ahead  of  financial  crisis.  In  early  2007,  it  is  doubtful  whether  many  of  the  world’s 
+large  exposures.  This  has  been  used 
+                                                 
+23   For example, Smith (2006) and McKercher and Chon (2004). 
+24   For example, Kinney et al (2005). 
+25   Lee, Kim and Jeong (2006).  
+26   Propper et al (2008). 
+12 
+ BIS Review 53/2009
+ largest  financial  institutions  were  more  than  two  or  three  degrees  of  separation  from  AIG. 
+And in 1998, it is unlikely that many of the world’s largest banks were more than one or two 
+degrees of separation from LTCM. Rolling the snowball might have identified these financial 
+black holes before they swallowed too many planets. 
+There have been a number of recent policy proposals in this general area. For example, the 
+de Larosiere Report (2009) calls for a European and, ultimately, global initiative to create an 
+international register of claims between financial institutions. A similar initiative following the 
+LDC  debt  crisis  resulted  in  the  Bank  for  International  Settlements  (BIS)  developing 
+international banking statistics. These are now an essential source of international financial 
+network  data.  There  is  a  need  for  similar  ambition  now  in  fashioning  international  flow  of 
+funds and balance sheet data. 
+Even  with  these  data,  policymakers  and  practitioners  need  to  invest  in  new  means  of 
+analysis. Node-by-node diagnostics, such as VaR, have shown themselves during this crisis 
+to offer a poor guide to institutional robustness. Fortunately, network theorists have identified 
+some of the key summary statistics determining system robustness.27 This includes degree 
+distributions  and  average  path  lengths.  In  time,  network  diagnostics  such  as  these  may 
+displace atomised metrics such as VaR in the armoury of financial policymakers. 
+To these static diagnostics could be added dynamic summary statistics of network resilience, 
+such as simulated responses to nodal failure or stress. Stress-testing to date has focussed 
+on institutional, idiosyncratic risk. It needs instead to focus on system-wide, systematic risk.28 
+Advances in computing power mean that technology is no longer a constraint. In studies of 
+the  electricity  grid,  simulations  of  hundreds  of  thousands  of  observations  are  common. 
+Finance can piggy-back on these efforts.  
+After  data  and  analysis  comes,  crucially,  communication.  Network  information  is  a  classic 
+public good. Not only is it in no-one’s individual interest to collect it; nor is it remotely within 
+anyone’s compass. Aggregate data are a job for the authorities. And having been collected, 
+these results need then to be disseminated. This is important both ex-ante as a means of 
+better pricing and managing risk, and ex-post as a means of containing that risk.  
+In a world of 24/7 media, public communications during crisis become crucial. That was the 
+lesson  from  SARS  –  and  may  yet  be  the  enduring  lesson  from  Lehman.  From  mid-
+September to mid-October 2008, the financial crisis did not just dominate the news; it was 
+the news. Only a hermit could have failed to have their perceptions shaped by this tale of 
+woe. As woe became the popular narrative, depressed expectations may have become self-
+fulfilling.  
+In their recent book, Animal Spirits, George Akerlof and Robert Shiller emphasise the role of 
+popular psychology – “stories” – in shaping people’s perceptions and actions. Depression is 
+a  psychological state  as  well  as  an economic  one.  Perhaps  the  best  explanation  we  have 
+about  events  following  the  Lehman  crisis  is  that  these  two  states  merged.  Adroit 
+communications  by  the  authorities,  like  counselling,  might  help  head-off  future  bouts  of 
+clinical depression in the financial system. 
+This  is  undoubtedly  an  ambitious  agenda.  But  experience  after  the  Great  Depression 
+suggests  grounds  for  optimism.  That  crisis  brought  about  a  revolution  in  thinking  about 
+macroeconomic theory and macroeconomic policy. In many respects, it marked the birth of 
+modern  macroeconomic  models  – 
+IS/LM  analysis  –  and  modern 
+macroeconomic policy – in the form of activist monetary and fiscal policy.  
+form  of 
+the 
+in 
+                                                 
+27   Newman (2002). 
+28   Haldane (2009). 
+BIS Review 53/2009 
+ 13
+Though  less  heralded,  it  also  resulted  in  a  revolution  in  macroeconomic  data.  Despite 
+attempts in the 1920s and 1930s, it was from the 1940s onwards that national accounts data 
+emerged for the main developed economies. This was largely a response to the evolution in 
+macroeconomic 
+the  Great  Depression.  Crisis 
+experience led theory which in turn led data. That is the evolutionary path finance now needs 
+to be on. 
+thinking  and  policy-making 
+following 
+Regulating the network  
+(b)  
+The  first  diagnosed  case  of  Human  Immuno-Deficiency  Virus  (HIV)  in  the  United  States 
+came in June 1981. The first diagnosed case of HIV in Australia came in November 1982. In 
+the  early  1980s,  rates  of  HIV  and  AIDS  incidence  in  the  US  and  Australia  were  roughly 
+similar  on  a  per  capita  basis.  But  from  the  mid-1980s  onwards,  things  changed.  By  1994, 
+rates  of  incidence  in  the  US  were  six  times  those  in  Australia.  By  2003,  the  per  capita 
+prevalence  of  HIV  in  the  US  was  ten  times  that  in  Australia.29  What  explains  these 
+differences?  
+The short answer appears to be government policy. In the US, the policy stance since the 
+early 1980s has been largely theological. The preventative response has taken the form of 
+moralising  about  sexual  abstinence  and  monogamy.  Since  the  mid-1990s,  the  US 
+government  has  invested  in  the  less  contentious  areas  of  HIV/AIDS  treatment.  But  as 
+recently as 2007, the US administration remained opposed to the provision of condoms or 
+needle and syringe programmes to prevent the spread of HIV/AIDS.  
+Australian  policy  since  the  early  1980s  has,  by  contrast,  been  grounded  in  biology  rather 
+than  theology.  It  has  been  systematic,  with  policy  evidence-based  and  preventative. 
+Education  and  prophylactic  measures  have  been  widely  available.  But  there  have  been 
+targeted initiatives for high-risk groups – for example, sex workers and drug users – through 
+subsidised needle and syringe exchanges and free condoms. The results of this programme 
+are clear in the statistics.  
+There are perhaps two clear lessons from this experience. First, the importance of targeting 
+high-risk, high-infection individuals – the “super-spreaders”. This principle has an impeccable 
+epidemiological  pedigree.30  For  randomly  distributed  networks,  targeted  treatment  has  no 
+value.  But  for  networks  exhibiting  long  tails  –  which  is  most  of  them,  certainly  including 
+finance – targeted vaccination programmes offer a much more effective means of curtailing 
+epidemics.  
+ For a number of diseases, 
+Not for nothing is epidemiology the origin of the 80/20 principle.
+including  SARS  and  measles,  the  distribution  of  infection  rates  suggest  20%  of  the 
+population  is  responsible  for  80%  of  the  spread.  Similar  patterns  have  been  found  in  the 
+transmission of HIV/AIDS, foot and mouth and computer viruses on the internet. In each of 
+these  cases,  the  right  response  has  been  shown  to  be  targeted  vaccination  of  the  super-
+spreaders. 
+The second lesson concerns the importance of a system-wide approach to the management 
+of network problems. The Australian HIV/AIDS programme was system-wide, tackling both 
+the  causes  and  consequences  of  the  disease  and  its  spread.  Fisheries  management 
+provides a second revealing case study. Concerns about the collapse of fisheries came to a 
+head  during  the  1970s  and  1980s,  leading  to  the  imposition  of  fishing  quotas  for  various 
+species. The effect of quotas was, at best, mixed.  
+31
+                                                 
+29   Bowtell (2005, 2007).  
+30   May and Anderson (1991). 
+31   May and Anderson (op.cit.), May (2005).  
+14 
+ BIS Review 53/2009
+ Recently,  there  has  been  a  growing  recognition  of  what  went  wrong.  In  setting  quotas,  no 
+account was taken of interactions between species and the surrounding eco-system. During 
+this  century,  fisheries  management  has  pursued  a  different  strategy  –  Ecosystem-Based 
+Fishery  Management  (EBFM).32  EBFM  takes  as  its  starting  point  the  management  of  the 
+eco-system. It develops system-level standards and single-species targets are calibrated to 
+ecosystem-wide  objectives.  The  EBFM  approach  is  already  being  implemented  in  Alaska, 
+California and the Antarctic. 
+Existing regulatory rules for financial institutions have echoes of fisheries management in the 
+1970s.  Risk  quotas  are  calibrated  and  applied  node  by  node,  species  by  species.  This 
+approach  takes  no  account  of  individual  nodes’  system-wide  importance  –  for  example, 
+arising from their connectivity to other nodes in the network or their scale of operations.  
+Charts 8 and 9 illustrate the problem. They plot the relationship between global banks’ capital 
+ratios and their size, where size is used here as a rough proxy for connectivity and scale. 
+Chart 8 shows there is essentially no relationship between banks’ systemic importance and 
+their Basel capital ratios. There has been no targeted vaccination of the super-spreaders of 
+financial  contagion.  Chart  9  uses  leverage  ratios  rather  than  risk-weighted  Basel  capital 
+ratios.  It  suggests  that,  if  anything,  the  super-spreaders  may  historically  have  had  lower 
+capital buffers. 
+One  potential  explanation  of  these  findings  is  that  large  banks  have  benefited  from  the 
+diversification benefits – those words again – of Basel II. Another is that financial markets 
+have  allowed  these  banks  lower  capital  buffers  because  of  the  implicit  promise  of 
+government support. Chart 10 offers support for the latter hypothesis. It suggests a positive 
+relationship between bank size and pre-crisis expectations of official sector support.33 Size 
+matters. Historically, the safety net was perceived to be fur-lined for those above a certain 
+size. 
+This  evidence  is  discouraging  from  a  systemic  risk  perspective.  It  suggests  incentives  to 
+generate  and  propagate  risks  may  have  been  strongest  among  those  posing  greatest 
+systemic threat. Basel vaccinated the naturally immune at the expense of the contagious: the 
+celebate were inoculated, the promiscuous intoxicated. Latterly, this defect has begun to be 
+addressed. For example, the US and Swiss authorities have announced plans to introduce 
+tighter regulatory requirements for systemic institutions.  
+There  is  further  to  go  internationally.  Work  is  needed  to  give  systemic  regulation  practical 
+effect. A number of calibration devices have been proposed.34 With richer data on network 
+topology,  calibrated  simulation  models  could  help  gauge  financial  institutions’  marginal 
+contribution to systemic risk. This is standard practice in management of the electricity grid 
+and eco-systems. Finance needs to catch up. 
+Restructuring the network 
+(c)  
+In Herbert Simon’s The Architecture of Complexity, he tells the parable of two watchmakers, 
+Hora and Tempus.35 Both produce watches composed of 1000 parts. Both watches are, in 
+this sense, equally complex. They are also of equal quality and sell at the same price. But 
+Hora’s business prospers, while Tempus’s founders. Why? 
+                                                 
+32   For example, Pikitch et al (2004). 
+33   Proxied by Fitch ratings agency’s support ratings for institutions. 
+34   Including  measures  of  banks’  Conditional  VaR  or  CoVaR  (NYU  Stern  School  of  Business  (2009),  and 
+Brunnermeier  et  al  (2009)).  These  are  statistical  measures  of  an  institution’s  VaR  conditional  on  other 
+institutions in the network simultaneously facing stress.  
+35   Simon (1962). 
+BIS Review 53/2009 
+ 15
+The answer lies in the structure of complex systems. Hora’s watches are designed as ten 
+sub-assemblies  each  comprising  ten  elements,  which  are  combined  into  ten  larger  sub-
+assemblies, ten of which then constitute a whole watch. Tempus, by contrast, assembles his 
+watches part by part. The result is that, whenever Tempus is interrupted – in Simon’s parable 
+by a telephone call ordering more watches – his work is lost and he must start again. Hora 
+suffers  the  same  fate  much  less  frequently,  due  to  the  sub-assembly  structure  of  his 
+watches.  
+The  differences  in  the  robustness  of  these  equally  complex  structures  are  dramatic.  If  the 
+probability  of  interruption  is  0.01,  Hora  will  complete  9  watches  for  every  10  attempts.  By 
+contrast,  Tempus  completes  44  watches  for  every  million  attempts.  The  probability  of 
+horological collapse is lowered from 0.999956 to 0.1.  
+The  secret  of  the  structure  of  Hora’s  complex  watches  is  that  they  are  “hierarchical”,  with 
+separate and separable sub-structures. Simon discusses how a number of other networks, 
+both social and physical, exhibit this hierarchical structure. This is no evolutionary accident. 
+For many networks, hierarchy emerges naturally. It is the product of a process of Darwinian 
+selection  in  which  it  is  only  the  hierarchical  structures  that  survive  to  maturity.  Hora’s 
+business thrives, Tempus’s dies.  
+In other networks, hierarchy is the result not of natural evolution but human intervention. For 
+example, the optimal distribution of trees has been shown to comprise contiguous patches 
+separated by firebreaks.36 The firebreaks created by man generate hierarchy in this system. 
+The  same  man-made  firebreaks  are  present  in  epidemiological  networks,  such  as  the 
+imposition  of  travel  bans  following  the  SARS  outbreak  in  Asia  or  the  prohibition  of  animal 
+movement during the foot and mouth epidemic in the UK.37  
+All of this has relevance to the future structure and design of the financial network. What is 
+second  nature  to  the watch-maker  needs  to become  second  nature  to  the  watchdog.  Four 
+topical  examples  can  be  used  to  illustrate  the  importance  of  these  structural  issues  for 
+financial network design. 
+First, the past decade has seen an explosion in the dimensionality, and thus complexity, of 
+the financial web. Among others things, that has exacerbated the system’s robust-yet-fragile 
+characteristics and uncertainty about counterparty pricing within the network. Both have been 
+much  in  evidence  recently.  Yet  there  are  structural  means  of  addressing  these  combined 
+problems at a stroke. 
+The stroke is infrastructure. Central counterparties (CCPs) are intended to deal with precisely 
+these  problems.  They  interpose  themselves  between  every  trade.  In  this  way,  a  high-
+dimension  web  is  instantly  compressed  to  a  sequence  of  bilateral  relationships  with  the 
+central counterparty – a simple hub-and-spokes. The lengthy network chain is condensed to 
+a  single  link.  Provided  that  link  is  secure  –  the  hub’s  resilience  is  beyond  question  – 
+counterparty uncertainty is effectively eliminated.  
+Table 3 simulates the benefits of introducing a CCP in reducing counterparty uncertainty. As 
+in the earlier example, Knightian uncertainty is measured by the size of the range of CDS 
+spreads. In all cases, moving to a central counterparty (n = 1) results in a material reduction 
+in uncertainty around spreads. These benefits are predicated on the CCP “super-spreader” 
+itself being impregnable to attack. 
+There have been various initiatives over the recent past to introduce central counterparties 
+for  the  clearing  of  certain  financial  instruments,  including  CDS  products  over  the  past  18 
+                                                 
+36   Carlson and Doyle (1999).  
+37   Kelling et al (2003).  
+16 
+ BIS Review 53/2009
+ 38
+ This is welcome. But the debate needs not to end there. A much broad range of 
+months.
+over-the-counter  financial  instruments,  both  cash  and  derivatives,  could  potentially  benefit 
+from the introduction of a central counterparty.  
+Central  counterparties  are  of  course  not  new.  Clearing  houses  date  from  the  early  19th 
+century.  But,  latterly,  the  question  often  most  asked  of  central  counterparties  has  been 
+“Why”?  Experience  during  the  crisis  means  we  now  know  why.  From  a  network  resilience 
+perspective,  it  is  important  that  in  future  the  central  counterparty  question  becomes  not 
+“Why?” but “Why not”? 
+Second,  financial  innovation  has  created  strings  of  gross  claims  between  financial  entities 
+which far exceed their capital bases. Lehman had gross CDS exposures around eight times 
+its balance sheet. These gross intra-system claims have grown rapidly over the past decade, 
+fuelled by off balance sheet activity. CDS growth has outpaced Moore’s Law – the more than 
+doubling of microchip capacity every two or so years. In the CDS market, what were 1000-
+piece watches in 2000 would by 2007 have become more than 64,000 piece.  
+Intra-system claims on this scale increase network fragility. When one node collapses, the 
+ripple across the system risks developing into a tsunami – as Lehman’s experience attests. 
+Herbert  Simon  recognised  just  this  problem.  Hierarchical  networks  are,  in  his  words, 
+decomposable with intra-system interactions constrained. The financial system has recently 
+evolved in the opposite direction, with intra-system interactions growing and decomposability 
+of the system thereby reduced. 
+Policy initiatives may be able to help. For example, infrastructure could be developed to “net 
+off” gross claims within the financial system. Attempts have already been made to do this in 
+the  CDS  market,  by  tearing-up  redundant  claims  among  participants.  This  has  reduced 
+outstanding CDS claims by as much as 30%. The same netting principle could potentially be 
+applied to a wider range of contracts and counterparties, to improve the decomposability and 
+hence robustness of the system.39  
+Third,  financial  innovation  in  the  form  of  structured  credit  also  had  the  consequence  of 
+creating  a  network  structure  which  was  non-hierarchical.  Financial  engineers  created 
+products  in  which  elements  of  a  loan  portfolio  were  reassigned  to  a  higher-order  sub-
+assembly.  In  this  way,  an  automatic  dependence  was  created  among  almost  every  sub-
+structure. By contract design, the overall financial system became impossible to decompose 
+into separable sub-structures. 
+Such  a  structure  is  in  fact  worse  even  than  Tempus’s  complex  production  line.  Structured 
+credit  was  equivalent  to  taking  one  part  randomly  from  each  of  1000  watches  and 
+reassembling  the  pieces.  No  watchmaker  in  their  right  mind  would  expect  the  resulting 
+timepiece to keep time for too long. Such was the CDO story.  
+However sensible structuring of credit may have seemed for individual firms, it is difficult to 
+conceive of a network which could have been less structurally robust. Darwinian evolution is 
+currently  in  the  process  of  naturally  deselecting  CDOs.  But  there  is  a  strong  public  policy 
+case for the authorities intervening more aggressively when next financial innovation spawns 
+species with undesirable physiological features.  
+Finally,  the  business  strategies  of  financial  firms  have  over  the  past  decade  created  a 
+network  structure  which  is  much  less  easily  decomposable.  Under  the  old  financial  order, 
+mutuals were a sub-structure, as were commercial banks, investment banks and investment 
+funds.  In  some  cases  that  was  by  choice.  In  other  cases  it  was  the  result  of  regulatory 
+                                                 
+38   President’s Working Group (2008). 
+39   For example, as proposed in King (2008). 
+BIS Review 53/2009 
+ 17
+design:  for  the  larger  part  of  the  past  century,  the  Glass-Steagall  Act  in  the  US  prohibited 
+inter-breeding between commercial and investment banking. 
+Deregulation swept away banking segregation and, with it, decomposability of the financial 
+network. The upshot was a predictable lack of network robustness. That is one reason why 
+Glass-Steagall is now back on the international policy agenda. It may be the wrong or too 
+narrow an answer. But it asks the right question: can network structure be altered to improve 
+network robustness? Answering that question is a mighty task for the current generation of 
+policymakers. Using network resilience as a metric for success would help ensure it was a 
+productive one. 
+Conclusion 
+Through history, there are many examples of human flight on an enormous scale to avoid the 
+effects of pestilence and plague. From yellow fever and cholera in the 19th century to polio 
+and  influenza  in  the  20th.  In  these  cases,  human  flight  fed  contagion  and  contagion  fed 
+human catastrophe. The 21st century offered a different model. During the SARS epidemic, 
+human flight was prohibited and contagion contained.  
+In the present financial crisis the flight is of capital, not humans. Yet the scale and contagious 
+consequences  may  be  no  less  damaging.  This  financial  epidemic  may  endure  in  the 
+memories long after SARS has been forgotten. But in halting the spread of future financial 
+epidemics, it is important that the lessons from SARS and from other non-financial networks 
+are not forgotten.  
+References 
+Akerlorf,  G,  and  Shiller,  R  (2009),  “Animal  Spirits:  How  Human  Psychology  Drives  the 
+Economy, and Why It Matters for Global Capitalism”, Princeton University Press. 
+Albert,  R,  Albert,  I  and  Nakarado,  G.L  (2004),  “Structural  vulnerability  of  the  North 
+American power grid”, arXiv:condmat/040107v1. 
+Albert,  R,  Jeong  H  and  Barabasi,  A-L  (2000),  “Attack  and  error  tolerance  of  complex 
+network”, Nature, Vol. 406: 379-382. 
+Allen, F and Gale, D (2000), “Financial Contagion”, Journal of Political Economy 108(1) 1-
+33.  
+Battiston,  S,  Gatti,  D.  D,  Gallegati,  M,  Greenwald,  B.C.N.  and  Stiglitz,  J.E.  (2009), 
+“Liasons Dangereuses: Increasing Connectivity, Risk Sharing, and Systemic Risk”. Working 
+Paper. 
+Bowtell,  W  (2005),  “Australia’s  response  to  HIV/AIDS  1982-2005”,  Lowy  Institute  for 
+International Policy. 
+Bowtell,  W  (2007),  “HIV/AIDS:  The  looming  Asia  Pacific  Pandemic”,  Lowy  Institute  for 
+International Policy. 
+Brunnermeier,  M,  Crockett,  A,  Goodhart,  C,  Persaud,  A.D  and  Shin,  H.  (2009),  “The 
+fundamental principles of financial regulation”, Geneva Reports on the World Economy 11. 
+Carlson,  J.M  and  Doyle,  J  (1999),  “Highly  optimized  tolerance:  A  mechanism  for  power 
+laws in designed systems”, Phys. Rev. E 60: 1412-1427. 
+Clay, J (2004), “World Agriculture and the Environment: A commodity-by-commodity guide to 
+impacts and practices”, Washington (DC): Island Press. 
+Corrigan, E.G (1987), “Financial Market Structure: A Longer View”, Federal Reserve Bank of 
+New York. 
+18 
+ BIS Review 53/2009
+ (2009), 
+“Why  Banks  Failed 
+the  Stress  Test”,  available  at 
+de Larosière, J (2009), “Report”, The high-level group on financial supervision in the EU, 
+available at ec.europa.eu/internal_market/finances/docs/de_larosiere_report_en.pdf. 
+Elton, C.S (1958), “The Ecology of Invasions by Animals and Plants”, Methuen.  
+Epstein,  J.M,  Parker,  J,  Cummings,  D,  and  Hammond,  R  (2008),  “Coupled  contagion 
+dynamics  of  fear  and  disease:  Mathematical  and  computational  explorations”,  PLoS  ONE, 
+Vol. 3, Issue 12: 1-11. 
+Federal Reserve Bank of New York (2007), “New Directions for Understanding Systemic 
+Risk”, FRBNY Economic Policy Review, Vol. 13, No. 2. 
+Gai, P and Kapadia, S (2008), “Contagion in Financial Networks”, mimeo, Bank of England. 
+Gallegati, M, Greenwald, B, Richiardi, M and Stiglitz, J (2008), “The Asymmetric Effect of 
+Diffusion Processes: Risk Sharing and Contagion”, Global Economy Journal, Vol 8, Issue 3.  
+Galvani, A.P and May, R.M (2005), “Dimensions of superspreading”, Nature, Vol. 438: 293-
+296. 
+Haldane,  A 
+http://www.bankofengland.co.uk/publications/speeches/2009/speech374.pdf. 
+Kelling,  M.J,  Woolhouse,  M.E.J,  May,  R.M  and  Grenfell,  B.T  (2003),  “Modelling 
+vaccination strategies against food-and-mouth disease”, Nature, Vol. 421: 136-142. 
+King, M (2008), Speech to the CBI dinner, Nottingham, Tuesday 20 January 2009, available 
+at http://www.bankofengland.co.uk/publications/speeches/2009/ 
+speech372.pdf. 
+Kinney, R, Crucitti, P, Albert, R and Latora, V (2005), “Modeling Cascading Failures in the 
+North American Power Grid”, The European Physics Journal, B 46 (2005) 101.  
+Kubelec, C and Sa, F (2009), “The Geographical Composition of National External Balance 
+Sheets: 1980-2005”, Bank of England Working Paper (forthcoming). 
+Lee,  S.H,  Kim,  P-J  and  Jeong,  H  (2006),  “Statistical  properties  of  sampled  networks”, 
+Physical Review, Vol.73. 
+Levin, S and Lubchenco, J (2008), “Resilience, Robustness, and Marine Ecosystem-based 
+Management”, Bioscience Vol. 58: 27-32. 
+Lloyd-Smith J.O, Schreiber S.J, Kopp, P.E and Getz, W.M (2005), “Superspreading and 
+the impact of individual variation on disease emergence”. Nature 438, 355-9. 
+May,  R.M  (1974),  “Stability  and  Complexity  in  Model  Ecosystems”,  Princeton  University 
+Press. 
+May, R.M (2006), “Network structure and the biology of populations”, Trends in Ecology and 
+Evolution Vol. 27, No. 7. 
+May, R.B and Anderson, R.M (1991), “Infectious Diseases of Humans”, Oxford University 
+Press. 
+May,  R,  Levin,  S.A  and  Sugihara,  G  (2008),  “Complex  systems:  Ecology  for  bankers”, 
+Nature Vol. 451: 893-895. 
+McKercher, B and Chon, K (2004), “The over-reaction to SARS and the collapse of Asian 
+tourism”, Annals of Tourism Research 31(3): 716-719. 
+Milgram, S (1967), “Small-world problem”, Psychology Today 1(1): 61-67. 
+Newman,  M  (2003),  “The  structure  and  function  of  complex  systems”,  arXiv:cond-
+mat/0303516v1. 
+Newman, M (2008), “The physics of networks”, Physics Today: 33-38. 
+BIS Review 53/2009 
+ 19
+Nier, E, Yang, J, Yorulmazer, T and Alentorn, A (2008), “Network Models and Financial 
+Stability”, Bank of England Working Paper No.346. 
+NYU  Stern  School  of  Business  (2008),  Repairing  the  US  Financial  Architecture:  An 
+Independent View. 
+Pikitch, E.K, Santora, C , Babcock, E.A, Bakun, A, Bonfil, R, Conover, D.O, Dayton, P, 
+Doukakis, P, Fluharty, D, Heneman, B, Houde, E.D, Link, J, Livingston, P.A, Mangel, M 
+McAllister,  M.K,  Pope,  J  and  Sainsbury,  K.J  (2004),  “Ecosystem-Based  Fishery 
+Management”, Science Magazine, Vol. 305: 346-347. 
+Porterie, B, Kaiss, A, Clerc, J-P and Zekri, L and Zekri, N (2008), “Universal scaling of 
+forest fire propagation”, eprint arXiv:0805.3365. 
+President’s Working Group (2008), Initiatives to strengthen OTC derivatives oversight and 
+infrastructure, available at http://www.ustreas.gov/press/releases/hp1272.htm. 
+Pröpper,  M,  van  Lelyveld,  I  and Heijmans,  R  (2008),  “Towards  a  network  description  of 
+interbank payment flows”, DNB Working Paper No. 177. 
+Simon,  H  (1962),  “The  architecture  of  complexity”,  Proceedings  of 
+Philosophical Society, Vol. 106, No. 6: 467-482. 
+Smith, R.D (2006), “Responding to global infectious disease outbreaks: Lessons from SARS 
+on the role of risk perception, communication and management”, Journal of Social Science 
+and Medicine, 63, 3113-3123. 
+Tilman,  D  (1999),  “The  ecological  consequences  of  changes  in  biodiversity:  A  search  for 
+general principles”, Ecological Society of America, Vol. 80, No. 5: 1455-1474. 
+Voute, A.D (1946), “Regulation of the density of the insect populations in virgin forests and 
+cultivated woods”, Archives Neerlandaises de Zoologie, 7, 435-470. 
+Watts, D (2002), “A simple model of global cascades on random networks”, Proceedings of 
+the National Academy of Sciences 9: 5766-5771. 
+Watts,  D.J  and  Strogatz,  S.H  (1998),  “Collective  dynamics  of  'small-world'  networks”, 
+Nature 393 (6684): 409–10. 
+Wheelis,  M  (2002),  “Biological  warfare  at  the  1346  Siege  of  Caffa”,  Emerging  Infectious 
+Diseases, Vol. 8, No.9. 
+Worm, B, Barbier, E.B, Beaumont, N, Emmett Duffy, Folke C, Halpern, B.S, Jackson, 
+J.B.C,  Lotze,  H.K,  Micheli,  F,  Palumbi,  S.R,  Sala,  E,  Selkoe,  K.A  and  Stachowicz,  J.J 
+(2006), “Impacts of biodiversity loss on ocean ecosystem services”, Science, Vol. 314: 787-
+790. 
+the  American 
+TABLES: 
+Table 1: Summary Statistics on the Global Financial Network 
+ 
+ 
+Skewness  
+Kurtosis  
+Average path length 
+ 
+1985 
+7.4 
+71.3 
+1.55 
+1995 
+8.0 
+80.6 
+1.44 
+2005 
+3.1 
+14.3 
+1.37 
+20 
+ BIS Review 53/2009
+[4] 
+[5] 
+[6] 
+Table 2: Climbing the Complexity Tree 
+ 
+Typical contract details(a) 
+ 
+[1] 
+[2] 
+[3] 
+ 
+Pages in CDO^2 prospectus 
+Pages in ABS CDO prospectus 
+Pages in RMBS prospectus 
+Number  of  ABS  CDO  tranches  in
+CDO^2 
+Number of RMBS in a typical CDO 
+Number  of  mortgages 
+RMBS 
+ 
+typical
+in 
+ [2] + [3]*[5] 
+ 
+Metrics of complexity(a) 
+ 
+[1] + [3]*[5]*[2]*[4]  Pages to read for a CDO^2 investor 
+Pages  to  read  for  an  ABS  CDO
+investor 
+Max.  number  of  mortgages  in  a
+CDO^2(b) 
+Max.  number  of  mortgages  in  an
+ABS CDO(c) 
+ 
+[4]*[5]*[6] 
+[5]*[6] 
+    300 
+ 300 
+ 200 
+ 125 
+ 150 
+ 5,000 
+ 
+ 
+ 
+1,125,000,300 
+ 30,300 
+ 93,750,000 
+ 750,000 
+  
+Sources: Bloomberg, deal documents and Bank calculations 
+ 
+(a) CDO^2 is used as short-hand for CDO of ABS CDO. 
+(b) Assuming there is no overlap in the composition of the RMBS pools that back the CDO or
+the CDO pools that back the CDO^2. 
+(c) Assuming there is no overlap in the composition of the RMBS pools that back the CDO. 
+ 
+ 
+BIS Review 53/2009 
+ 21
+Table 3: Range of CDS Premia (bp) and Central Counterparties 
+ 
+Number of counterparties 
+Probability of 
+counterparties 
+defaulting 
+ uncertainty 
+Low 
+around 
+counterparties' 
+inter-linkages 
+uncertainty 
+High 
+around 
+counterparties' 
+inter-linkages 
+ Charts: 
+1% 
+5% 
+10% 
+30% 
+1% 
+5% 
+10% 
+30% 
+1 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+0 
+2 
+2 
+10 
+18 
+42 
+3 
+14 
+27 
+63 
+10 
+0 
+2 
+6 
+44 
+9 
+39 
+68 
+127 
+50 
+0 
+0 
+2 
+43 
+18 
+60 
+87 
+136 
+Probability  of  reference  entity  defaulting  =  10%;  Loss  given  default  rate  = 
+50%;  
+Chart 1: Global Financial Network: 1985  
+ 22 
+  BIS Review 53/2009
+Chart 2: Global Financial Network: 1995 
+  Chart 3: Global Financial Network: 2005 
+ 
+  BIS Review 53/2009 
+ 23
+Chart 4: CDS Premia and Network 
+Uncertainty – Pre-crisis 
+Chart 5: CDS Premia and Network 
+Uncertainty – Post-crisis 
+bps
+500
+i
+a
+m
+e
+r
+p
+ 
+S
+D
+C
+ 
+f
+o
+ 
+e
+g
+n
+a
+r
+ 
+f
+o
+ 
+e
+z
+i
+S
+400
+300
+200
+100
+0
+50
+40
+30
+Number of counterparties
+20
+10
+0
+0
+bps
+500
+400
+300
+200
+100
+0
+50
+i
+a
+m
+e
+r
+p
+ S
+D
+C
+ 
+f
+o
+ e
+g
+n
+a
+r
+ 
+f
+o
+ e
+z
+i
+S
+0.5
+0.4
+0.3
+0.2
+40
+30
+Number of counterparties
+20
+0.1
+Default probability of reference entity (p)
+0.5
+0.4
+0.3
+0.2
+10
+0
+0
+0.1
+Default probability of reference entity (p)
+ 
+ 
+Chart 6: Financial Contract Design 
+ 
+SIV
+CDO
+LBO’d company
+  Y
+M
+O
+N
+O
+C
+E
+L
+A
+C
+N
+A
+N
+F
+I
+I
+ABCP
+MTNs
+Capital 
+Notes
+Senior 
+ABS/CDO
+tranches
+Senior 
+AAA
+Leveraged 
+loans
+(and
+bank debt/ 
+capital)
+Mezzanine 
+tranche
+Equity
+Mezzanine
+HY bonds
+Corporate 
+assets
+Leveraged 
+loans
+Mezz/second 
+lien debt
+HY bonds
+Equity
+CDO2
+CDO of ABS
+HEL ABS/CMBS
+Senior
+CDO
+mezzanine
+tranches
+Mezzanine
+Equity
+CPPI on CDO equity
+Principal 
+protected 
+notes
+CDO
+equity
+tranches
+BBB- rated
+HEL ABS/
+CMBS
+or
+synthetic
+Senior
+Mezzanine
+Equity
+Senior
+Mezzanine 
+(often BBB-)
+Sub-prime 
+mortgages/
+Commercia
+l mortgages
+Equity
+Y
+M
+O
+N
+O
+C
+E
+L
+A
+E
+R
+  24 
+ BIS Review 53/2009
+Chart 7: Weighted-average Cumulative Total Returns 
+ Large Complex Financial Institutions
+Banks excl. LCFIs 
+Insurers 
+Hedge Funds
+Cumulative return
+200%
+150%
+100%
+50%
+0%
+-50%
+ 00 
+01 
+02 
+03 
+04
+05
+06
+07
+08
+09
+Source: Bloomberg, CreditSuisse/Tremont and Bank calculations. 
+(a) Sample based on banks and insurers in S&P 500, FTSE All Share and DJ EuroSTOXX indices as at March 
+2009. Excludes firms for which returns not quoted over entire sample period. 
+ Chart 8: Global Banks’ Size and Capital Ratios (a) 
+Tier 1 Ratio (%) 
+18 
+16 
+14 
+12 
+10 
+8 
+6 
+4 
+2 
+0 
+0.0 
+0.5 
+1.0 
+1.5 
+2.0
+Total Assets (£trn)
+ Source: Bankscope 
+(a) As at end 2007 due to data availability  
+BIS Review 53/2009 
+ 25
+Chart 9: Global Banks’ Size and Leverage ratios(a)  
+ 
+ 
+Tier 1 Ratio (%) 
+8
+7
+6
+5
+4
+3
+2
+1
+0
+0.0 
+0.3 
+0.6 
+0.9 
+1.2
+1.5 
+1.8 
+Total Assets (£trn) 
+ Source: Bankscope 
+(a) As at end 2007 due to data availability  
+ 
+Chart 10: Global Banks’ Size and Government support (a) 
+ 
+Support rating
+4
+3
+2
+1
+0
+0.0
+0.2
+0.4
+0.6
+0.8
+1.0
+1.2
+1.4
+Total Assets (£ trn)
+ 
+Source: Bankscope and Fitch  
+(a) As at end 2006. Government support proxied by Fitch’s ‘support rating’. A higher number is a lower level of 
+support. 
+26 
+ BIS Review 53/2009

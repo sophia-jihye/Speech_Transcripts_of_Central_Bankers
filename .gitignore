@@ -1,12 +1,20 @@
 */.idea/*
 .idea/
 data/
+<<<<<<< HEAD
+=======
+output/
+output_dataset_archive/
+>>>>>>> 8616756313e6303b8570890b044dff2a6feef9b8
 *.egg-info/
 build/
 dist/
 sophia.sh
+<<<<<<< HEAD
 scraped_data/
 speech_texts/
+=======
+>>>>>>> 8616756313e6303b8570890b044dff2a6feef9b8
 OBSELETE/
 __pycache__
 *.zip

@@ -1,0 +1,326 @@
+Susan Schmidt Bies: Basel II implementation and revisions to Basel I 
+Testimony of Ms Susan Schmidt Bies, Member of the Board of Governors of the US Federal Reserve 
+System, before the Committee on Banking, Housing, and Urban Affairs, U.S. Senate, Washington DC 
+10 November 2005.  
+ Chairman  Shelby,  Senator  Sarbanes,  and  members  of  the  Committee  on  Banking,  Housing,  and 
+Urban  Affairs,  I  thank  you  for  the  opportunity  to  join  my  colleagues  from  the  other  federal  banking 
+agencies to discuss the current status of Basel II in this country, as well as the status of proposed 
+amendments to our existing Basel I-based capital rules.  
+Introduction 
+The Federal Reserve considers the maintenance of strong and stable financial markets as an integral 
+part  of  our  responsibility  and  critically  related  to  safety  and  soundness  of  the  participants  in  those 
+markets. Financial stability contributes to sustained economic growth by providing an environment in 
+which  financial  institutions,  businesses,  and  households  can  conduct  their  business  with  more 
+certainty about future outcomes. Part of maintaining a strong financial system is ensuring that banking 
+organizations operate in a safe and sound manner with adequate capital cushions that appropriately 
+support the risks they take.  
+As  many  of  you  are  aware,  there  have  been  two  major  developments  within  the  past  six  weeks 
+regarding U.S. regulatory capital requirements that apply to banking institutions. First, on September 
+30,  the  U.S.  banking  agencies  announced  their  revised  plan  for  the  implementation  of  the  Basel  II 
+framework in the United States. Second, the agencies published for comment an advance notice of 
+proposed  rulemaking  (ANPR)  pertaining  to  amendments  to  the  existing  Basel  I-based  capital  rules 
+(the  amended  Basel  I).  Taken  together,  these  proposals  on  Basel  II  and  the  amended  Basel  I 
+represent  substantial  revisions  to  the  regulatory  risk-based  capital  rules  applied  to  U.S.  banking 
+institutions, from the very largest to the smallest. From the Federal Reserve's perspective, these two 
+initiatives, when implemented successfully, should produce a much-improved regulatory capital regime 
+in the United States that enhances safety and soundness. The Federal Reserve considers the ongoing 
+discussion between the Congress and the U.S. banking agencies--and, of course, with the banking 
+industry and members of the public--to be critical to the success of both sets of proposals.  
+Reasons for pursuing Basel II 
+We  have  all  witnessed  the  substantial  changes  in  the  U.S.  banking  industry  over  the  past  decade, 
+including  growth  in  size  and  geographic  scope,  expansion  of  activities,  development  of  new 
+instruments and services, and greater use of technology. As a result, we have seen the rise of very 
+large  entities  with  large  geographic  reach  operating  in  many  lines  of  business  and  engaging  in 
+complex and sophisticated transactions. The largest institutions have moved away from the traditional 
+banking strategy of holding assets on the balance sheet to strategies that emphasize redistribution of 
+assets  and  actively  managing  risks.  These  dramatic  changes  to  the  risk  profiles  of  many  banking 
+organizations  have  only  accelerated  with  the  continued  evolution  of  many,  often  complex,  financial 
+tools, such as securtitizations and credit derivatives.  
+Additionally,  risk-management  techniques  employed  by  many  banking  organizations  continue  to 
+change, improve, and adapt to the ever-changing financial landscape. For instance, operational risk 
+was  not  part  of  our  risk-management  thinking  ten  years  ago,  but  tools  to  identify,  measure,  and 
+manage  it  are  now  becoming  prevalent.  Also,  the  lines  between  the  banking  book  and  the  trading 
+book  have  blurred  significantly  and  organizations  continue  to  move  resources  and  products  to 
+optimize earnings and manage risks. And finally, global competition has intensified significantly, as the 
+ability  of  customers  to  choose  from  a  variety  of  local  and  international  banking  firms,  as  well  as 
+nonbank competitors, has increased.  
+While the current Basel I-based rules have served us well for nearly two decades, they are simply not 
+appropriate for identifying and measuring the risks of our largest, most complex banking organizations. 
+Basel  I,  even  when  periodically  amended,  must  be  straightforward  enough  for  even  the  smallest 
+   1/6 
+banking organizations to implement with relative ease. Thus, the categories of risk used to determine 
+capital are very broad and are intended to capture the "average" risk levels across the banking system 
+for that generic exposure.  
+Large financial institutions, however, tend to manage risk in more proactive ways, and are able to take 
+advantage  of  new  innovations  in  financial  instruments  to  hedge,  sell,  or  take  on  risk  exposures  to 
+support their business strategies and profitability targets. As a result, they are able to remove balance 
+sheet  exposures  for  risks  where  they  feel  regulatory  capital  is  set  too  high,  and  thereby  reduce 
+minimum  regulatory  capital.  Smaller  organizations  generally  do  not  have  the  risk-management 
+systems or scale of transactions to make these practices economically viable.  
+While  the  balance  sheet  focus  of  Basel  I  is  appropriate  for  most  banking  organizations,  the  largest 
+organizations  have  significant  exposures  off  the  books,  and  these  risk  exposures  need  to  be 
+considered explicitly in determining minimum regulatory capital for these sophisticated organizations. 
+Large  organizations  are  increasingly  gravitating  toward  fee-based  revenue  streams.  This  is  due  to 
+securitizations of loan portfolios that retain the responsibility of servicing the loans, buying and selling 
+financial  instruments  for  customers,  and  growth  in  business  lines  where  fees  are  generated  by 
+transactions and account processing. These activities have little exposure shown on the balance sheet 
+at a moment in time, but failure to operate complex systems and negotiate complex financial deals in a 
+sound manner can lead to large loss exposures given the volume of activity that runs through the line 
+of  business.  They  also  use  sophisticated  models  to  manage  credit,  market,  and  interest  rate  risks. 
+Poor data integrity, model reliability or lack of sufficient controls, can create losses when management 
+action relies on the faulty results of decision models. 
+Finally, the complexity of these organizations makes it more difficult for executive management to view 
+risk  in  a  comprehensive  way,  both  in  terms  of  aggregating  similar  and  correlated  risks,  but  also  in 
+identifying potential conflicts of interest between the growth of a line of business and the reputation, 
+legal,  and  compliance  risks  of  the  firm  as  a  whole.  In  recent  years,  large  financial  institutions  have 
+reported losses from breaks in these operating controls that in some cases have exceeded those in 
+credit or market risk.  
+The Basel II framework should improve supervisors' ability to understand and monitor the risk taking 
+and capital adequacy of large complex institutions, thereby allowing regulators to address emerging 
+problems  more  proactively.  It  should  also  enhance  the  ability  of  market  participants,  through  public 
+disclosures, to evaluate the risk positions at those institutions by providing much better risk measures. 
+The  advanced  approaches  under  Basel  II,  which  include  the  advanced  internal  ratings-based 
+approach  (or  A-IRB)  for  credit  risk  and  the  advanced  measurement  approaches  (or  AMA)  for 
+operational risk, offer particularly good improvements in terms of risk sensitivity, since they incorporate 
+advanced risk-management processes already used today by best-practice institutions.  
+Indeed, the expected improvements in risk measurement and risk management form the core of our 
+reasons  for  proposing  Basel  II  in  the  United  States.  Its  advanced  approaches  create  a  rational  link 
+between  regulatory  capital  and  risk  management.  Under  these  approaches,  institutions  would  be 
+required  to  adopt  a  set  of  quantitative  risk-measurement  and  sophisticated  risk-management 
+procedures  and  processes.  For  instance,  Basel  II  establishes  standards  for  data  collection  and  the 
+systematic use of the information collected. These standards are consistent with broader supervisory 
+expectations that high-quality risk management at large complex organizations depends upon credible 
+data. Enhancements to technological infrastructure--combined with detailed data--will, over time, allow 
+firms to better track exposures and manage risk. The emphasis in Basel II on improved data standards 
+should not be interpreted solely as a requirement to determine regulatory capital standards, but rather 
+as a foundation for more advanced risk-management practices that would strengthen the value of the 
+banking  franchise.  But  while  the  new  framework  would,  in  our  view,  provide  useful  incentives  for 
+institutions to accelerate the improvement of risk management, we believe that in most areas of risk 
+management institutions would continue to have the choice among which methods they employ.  
+Thus,  from  a  safety  and  soundness  regulatory  perspective,  for  these  large,  complex  financial 
+organizations,  regulators  and  market  participants  need  the  information  provided  by  the  advanced 
+framework of Basel II.  
+Recent developments with Basel II 
+The Federal Reserve considers the agencies' September 30 announcement relating to Basel II a good 
+outcome  and  an  example  of  successful  interagency  cooperation.  As  you  may  recall,  in  April  of  this 
+   2/6 
+year the agencies announced jointly their reaction to initial results of a fourth quantitative impact study 
+pertaining  to  Basel  II,  known  as  QIS4.  As  the  April  statement  indicated,  we  were  concerned  about 
+results  from  QIS4  that  showed  a  wider  dispersion  and  a  larger  overall  drop  in  minimum  regulatory 
+capital requirements for the QIS4 population of institutions than the agencies had initially expected. 
+The initial QIS4 results prompted the agencies to delay issuance of a notice of proposed rulemaking 
+(NPR) for Basel II in order to conduct further analysis of those results and their potential impact. The 
+agencies' reaction to the initial QIS4 results, deciding to take additional time to understand more fully 
+the information provided by the QIS4 institutions, is an indicator of how seriously we are taking Basel II 
+implementation.  
+During  the  summer,  the  U.S.  agencies  conducted  additional  analysis  of  the  information  reported  in 
+QIS4.  That  analysis  is  for  the  most  part  complete.  Based  on  the  new  knowledge  gained  from  the 
+additional  QIS4  analysis,  the  U.S.  agencies  collectively  decided  to  move  ahead  with  an  NPR  but 
+adjust  the  plan  for  U.S.  implementation  of  Basel  II.  Adjustments  to  the  plan  include  extending  the 
+timeline for implementation and augmenting the transitional floors, which should provide bankers and 
+regulators with more experience with Basel II before it is fully implemented in the United States. In 
+addition, the agencies stated specifically in our joint press release that after completing a final rule for 
+Basel  II,  we  intend  to  revisit  that  rule  prior  to  the  termination  of  the  transitional  floors.  That  is,  we 
+expect to perform additional in-depth analyses of the Basel II minimum capital calculations produced 
+by  institutions  during  the  parallel  run  and  transitional  floor  periods  before  we  move  to  full 
+implementation  without  floors.  This  is  consistent  with  the  overall  process  we  have  laid  out  for 
+implementing  Basel  II.  We  want  to  ensure  that  the  minimum  regulatory  capital  levels  for  each 
+institution and in the aggregate for the group of Basel II banks provide an adequate capital cushion 
+consistent with safety and soundness.  
+Probably the most important thing we learned from the QIS4 analysis is that progress is being made 
+toward developing a risk-sensitive capital system. In terms of the specifics of the analysis, we learned 
+that the drop in QIS4 capital was largely due to the favorable point in the business cycle when the data 
+were collected. While the previous QIS3 exercise was conducted with data from 2002, a higher credit 
+loss year, QIS4 reflected asset portfolio, risk-management information and models during one of the 
+best periods of credit quality in recent years. We learned that the dispersion was largely due to varying 
+risk parameters used by the institutions, which was permissible in the QIS4 exercise, but also due to 
+portfolio  differences.  That  is,  banks  have  different  approaches  to  risk-management  processes,  and 
+their models and databases reflect those differences.  
+We also learned that some of the data submitted by individual institutions was not complete; in some 
+cases banks did not have estimates of loss in stress periods--or used estimates that we thought were 
+not very sophisticated--which caused minimum regulatory capital to be underestimated. Based on the 
+results of QIS4, the Federal Reserve recognizes that all institutions have additional work to do. In our 
+view,  the  findings  did  not  point  to  insurmountable  problems,  but  instead  identified  areas  for  future 
+supervisory  focus.  In  that  way,  the  analysis  was  critical  in  providing  comfort  to  enable  us  to  move 
+forward. 
+It is also helpful to remember that the QIS4 exercise was conducted on a best-efforts basis. It was just 
+one step in a progression of events leading to adoption of the Basel II framework. We certainly expect 
+that  as  we  move  closer  to  implementation,  supervisory  oversight  of  the  Basel  II  implementation 
+methodologies by our examination teams would increase. Indeed, during the qualification process we 
+expect to have several additional opportunities to evaluate institutions' risk-management processes, 
+models, and estimates--and provide feedback to the institutions on their progress. So while the QIS4 
+results clearly provided a much better sense than before of the progress in implementing Basel II and 
+offered additional insights about the link between risks and capital, QIS4 should not be considered a 
+complete  forecast  of  Basel  II's  ultimate  effects.  It  was  a  point-in-time  look  at  how  the  U.S. 
+implementation was progressing.  
+Institutions participating in QIS4 put a lot of time and effort into assisting with the QIS4 analysis. For 
+that  reason,  we  owe  it  to  the  institutions  to  provide  feedback  prior  to  engaging  in  a  detailed  public 
+discussion of the findings. Those feedback sessions, a full interagency effort involving an interagency 
+agreed-upon  presentation  of  the  results,  are  now  underway  and  we  expect  them  to  be  largely 
+completed by the end of this month. The agencies plan to release a public document describing our 
+findings shortly after these sessions are completed, we hope by the end of the year. 
+   3/6 
+Proposed next steps in the Basel II process 
+I  would  now  like  to  describe  some  possible  next  steps  in  the  Basel  II  process.  To  be  clear,  these 
+thoughts represent our best estimates at this time and could change, given the extensive opportunity 
+for public comment and additional interagency discussions to come. But I thought it would at least be 
+helpful to offer the Federal Reserve's perspective.  
+First, we support the idea of finishing an NPR on Basel II and related supervisory guidance as soon as 
+possible,  which  right  now  looks  to  be  in  the  first  quarter  of  2006.  We  believe  that  the  best  way  to 
+further augment our understanding of the impact of Basel II is to issue the NPR and hear reaction from 
+the  Congress,  the  industry,  and  the  public.  In  addition,  we  are  interested  in  issuing  the  NPR  and 
+related  supervisory  guidance  as  soon  as  possible  so  that  bankers  can  have  a  better  idea  of 
+supervisory expectations relating to Basel II. The NPR will help bankers identify the areas where they 
+need  to  strengthen  their  risk-measurement  processes  as  they  continue  to  prepare  for  adoption  of 
+Basel II.  
+After the end of the NPR comment period, the agencies plan to review the comments and decide more 
+specifically on how to move forward. The agencies would then develop a strategy for issuing a final 
+rule on Basel II, of course taking into account comments received. Once the final rule is issued, those 
+institutions moving to Basel II would complete preparations to move to a parallel run, a period in which 
+minimum  regulatory capital  measures under  both  Basel  II and  Basel  I  will  be calculated.  Under  the 
+current timeline, the parallel run would start in January 2008.  
+The parallel run period, which is intended to last for four continuous quarters, should provide us with 
+additional key information about the expected results for Basel II on a bank-by-bank basis, as well as 
+the level of bank preparedness to operate under Basel II. Once an institution conducts a successful 
+parallel run, the relevant primary federal supervisor would then confirm the bank's readiness and give 
+permission for the institution to move to the first initial phase of adoption, into the initial floor period. It 
+is only after an institution has operated to the primary supervisor's satisfaction in the parallel run and 
+each  of  the  three  years  of  floors  that  it  would  be  allowed  to  have  its  minimum  regulatory  capital 
+requirements determined by Basel II with no floors.  
+During U.S. implementation of Basel II, if at any stage in the process we see something that concerns 
+the banking agencies, we will reassess and propose amendments to relevant parts of the framework. 
+The agencies have already decided to embed in the planned timeline the possibility for a later revision 
+to  the  initial  Basel  II  rule  (before  the  floors  are  removed),  since  it  is  expected  that  new  information 
+provided in the parallel run and floor years might point to a need for adjustments to that initial rule. 
+This is entirely consistent with the path we have taken in the past regarding Basel I, to which there 
+have  been  more  than  twenty-five  revisions  since  1989.  The  Federal  Reserve  considers  all  of  the 
+planned safeguards and checks and balances to be sufficient for Basel II to be implemented in the 
+United States effectively, and with no negative impact on safety and soundness or the functioning of 
+banking markets.  
+Proposed Amendments to Basel I 
+As  I  noted,  the  Basel  II  proposal  is  not  the  only  minimum  regulatory  capital  proposal  being 
+contemplated by the U.S. banking agencies. We have issued an ANPR for amendments to Basel I that 
+is another important initiative in our efforts to update regulatory capital rules. The regulatory capital 
+rules  to  be  amended  by  the  ANPR  would  apply  to  thousands  of  banking  institutions  in  the  United 
+States, while the Basel II proposal would likely only apply to ten to twenty at inception. The agencies 
+are focusing considerable attention on the potential interplay between the proposed Basel II rules and 
+the proposed Basel I amendments in order to ensure that the goals for each are achieved.  
+The Federal Reserve's statement pertaining to the release of the ANPR highlighted that the revisions 
+are  intended  to  align  risk-based  capital  requirements  more  closely  with  the  risk  inherent  in  various 
+exposures. The ANPR relates, in part, to some long-standing issues in our current capital rules that 
+have been identified (such as requiring capital for short-term commitments). We also noted that the 
+amended  Basel  I  is  intended  to  mitigate  certain  competitive  inequalities  that  may  arise  from  the 
+implementation  of  Basel  II  rules  (such  as  lowering  the  risk  weight  for  some  residential  mortgage 
+exposures).  In  considering  these  possible  revisions,  the  U.S.  agencies  are  seeking  to  enhance  the 
+evaluation of bank portfolios and their inherent risks without undue complexity or regulatory burden. In 
+issuing  the  ANPR,  an  advance  notice,  the  agencies  are  emphasizing  that  views  are  still  being 
+developed and additional comment from the banking industry and other interested parties would be 
+   4/6 
+both beneficial and welcome before we move forward. We are intentionally leaving a number of areas 
+open in order to solicit a broad range of comments before we narrow down the range of possibilities.  
+The U.S. banking agencies have identified over the past several years a number of issues that need to 
+be addressed within our current Basel I rules. The development of Basel II-based rules also creates 
+the  need  for  the  U.S.  agencies  to  amend  the  current  rules  in  order  to  address  issues  relating  to 
+competitive  impact.  While  we  view  that  impact  as  limited,  we  want  to  ensure  that  institutions  not 
+moving  to  Basel  II  have  equal  opportunities  to  pursue  business  initiatives  and  are  not  placed  at  a 
+competitive disadvantage or otherwise adversely affected. That is why we are being very careful to 
+analyze the potential results of these two efforts in tandem, and asking for the Congress, the industry, 
+and others to provide comments on the potential effects of both initiatives. 
+We believe that the revisions to Basel I-based rules should benefit most institutions by better reflecting 
+current  risk  exposures  in  regulatory  capital  requirements  at  little  additional  burden.  Naturally, 
+regulatory capital requirements are usually not the binding constraint for banking organizations. Nearly 
+all institutions hold capital in excess of the minimum required regulatory ratios, in many cases several 
+percentage points above, to satisfy rating agencies, debtholders and shareholders, and counterparties 
+in the market. By the same token, pricing in the banking industry is not driven by regulatory capital, but 
+rather,  as  most  would  intuitively  assume,  by  supply  and  demand  and  business  decisions  made  by 
+bankers. But we think regulatory capital can act as a useful gauge of risk-taking, even though it would 
+not be the deciding factor in business decisions. 
+With  respect  to  the  proposals  for  amended  Basel  I,  as  well  as  Basel  II,  the  Federal  Reserve  fully 
+supports retention of the existing prompt corrective action (PCA) regime, which the Congress put in 
+place  more  than  a  decade  ago,  as  well  as  existing  leverage  requirements.  In  addition  to  the 
+safeguards planned for initiatives being discussed today, we at the Federal Reserve take comfort that 
+the  PCA  and  leverage  requirements  will  continue  to  provide  a  level  of  protection  for  depositors, 
+consumers, and the financial system as a whole. These regulations help to ensure a minimum level of 
+capital  at  individual  institutions  and  in  the  aggregate  that  we  consider  to  be  absolutely  vital  to  the 
+health of our banking system and the economy more broadly.  
+Importance of the Rulemaking Process 
+At the Federal Reserve--indeed, I think I can say among all the U.S. banking agencies--we understand 
+and respect the rulemaking process and the legal requirements for implementing regulatory revisions. 
+This,  of  course,  includes  comment  periods  for  each  of  our  regulatory  capital  proposals  and 
+transparency in our overall process. We encourage a healthy debate about the agencies' proposed 
+initiatives--including the recently revised timeline for Basel II. We look forward to continuing to engage 
+the industry, the Congress, fellow supervisors, and others in a discussion about what effects the Basel 
+II framework and the Basel I revisions might have on our banking system. The proposals are intended 
+to provide the right incentives for bankers, but if the proposals do not achieve this goal, we want to 
+know why. In the past, when we have been provided with well-documented and convincing reasons for 
+making  a  change  to  the  Basel  II  framework  or  the  U.S.  implementation  process,  we  have  heeded 
+those arguments. We expect to have the same posture regarding comments on the proposed Basel I 
+amendments. We continue to recognize that vigorous discussion and debate produce a much better 
+product.  And  we  expect  to  remain  vigilant  about  the  potentially  unintended  and  undesired 
+consequences, particularly those that might affect a certain class of banks. 
+Additionally, I would like to emphasize that from my perspective the U.S. agencies continue to work 
+well with one another on these regulatory capital proposals in a general environment of cooperation 
+and  good  will.  While  the  U.S.  agencies  naturally  disagree  on  certain  policy  matters  and 
+implementation issues from time to time, we at the Federal Reserve are pleased with the outcomes to 
+date and recognize that all four agencies are making considerable contributions to the overall effort.  
+Dialogue with the industry 
+The extension of the U.S. timeline for Basel II, along with the ongoing proposals for amended Basel I, 
+obviously present some challenges for U.S. institutions. We will continue our efforts to ensure that we 
+hear about these challenges and do our best to assist institutions in meeting them. First of all, bankers 
+must  keep  track  of  the  latest  proposals  and  understand  what  they  could  mean  for  their  own 
+institutions.  For  those  institutions  looking  to  prepare  for  adoption  of  Basel  II,  making  the  manifold 
+   5/6 
+upgrades  in  risk-measurement  and  -management  systems--not  the  least  of  which  is  developing 
+credible  databases--is  even  more  difficult,  especially  since  complete  and 
+final  supervisory 
+expectations have yet to be released. But we certainly hope that institutions do not lose momentum 
+based on the revised timeline for Basel II; indeed, that timeline reflects our assessment of the work 
+that still lies ahead.  
+While institutions might be challenged to move forward in certain areas until the Basel II NPR and its 
+associated supervisory guidance is issued, we still believe that they can make strides in other areas. 
+For one, the agencies all along have emphasized the importance of institution-specific implementation 
+plans, which include gap analyses, clearly defined milestones, and remediation plans. In other words, 
+we think that institutions could now continue development of the corporate governance surrounding 
+each  institution's  efforts  in  Basel  II  implementation  and  focus  on  their  individual  implementation 
+processes.  In  addition,  supervisors  have  begun  to  discuss  individual  QIS4  results  with  each 
+participant;  these  discussions  include  specific  feedback  about  the  institution's  results  and  some 
+general peer comparisons.  
+Additionally,  we  do  recognize  that  the  recent  update  to  U.S.  implementation  plans  could  generate 
+some challenges for U.S. institutions as they try to implement Basel II worldwide, as well as for foreign 
+banks operating in the United States. Overall, we think these challenges are manageable and we can 
+facilitate  solutions  to  them  during  the  implementation  process.  While  not  downplaying  potential 
+challenges, the U.S. agencies, in deciding to adjust implementation plans, thought it was important to 
+ensure  that  implementation  in  the  United  States  be  conducted  in  a  prudential  manner  and  without 
+generating  competitive 
+the  September  30 
+announcement,  we  continue  to  work  with  institutions  and  foreign  supervisors  to  minimize  the 
+difficulties  in  cross-border  implementation.  Our  support  includes  extensive  discussion  with  other 
+countries in the Basel Accord Implementation Group, as well as more informal, bilateral discussions 
+with institutions and foreign supervisors. Our view is that these cross-border issues do not necessarily 
+represent fundamentally new problems; while requiring some work, these challenges are manageable. 
+It  is  also  useful  to  point  out  that  all  Basel  member  countries  have  their  own  rollout  timelines  and 
+national discretion issues, not just the United States--which is entirely appropriate. In order to assist 
+institutions in resolving their cross-border challenges, we are eager to hear specifics from institutions 
+so that we can develop targeted solutions.  
+in  our  banking  markets.  As  before 
+inequalities 
+Conclusion 
+Mr.  Chairman,  in  my  remarks  today  I  have  described  the  Federal  Reserve's  views  on  suggested 
+changes  to  the  current  regulatory  risk-based  capital  regime,  namely  the  proposals  for  Basel  II  and 
+amended Basel I. I have outlined the need for change, the work completed to date, and some of the 
+lessons learned. In our view, recent exercises such as QIS4 have served as useful indicators of the 
+progress being made and the direction needed for these initiatives on regulatory capital requirements. 
+QIS4  was  part  of  an  extended  series  of  activities  to  ensure  that  the  suggested  regulatory  capital 
+revisions  are  implemented  in  an  appropriate  and  prudent  manner.  From  the  Federal  Reserve's 
+perspective,  we  should  continue  to  move  forward  with  the  activities  I  described,  while  seeking 
+comment and listening to feedback at every stage.  
+Our support for Basel II stems from the belief that it would provide a much better measure of minimum 
+regulatory capital at the largest, most complex institutions, aligning capital with risks to which these 
+institutions are exposed. We also believe that Basel II would bring about substantial improvements in 
+risk  management  to  those  institutions.  At  the  same  time,  amending  Basel  I  for  the  vast  majority  of 
+banking  institutions  in  the United  States  could  improve  the reflection  of  risks  in  Basel  I-based rules 
+without  much  additional  burden.  Taken  together,  these  initiatives  should  ensure  adequate minimum 
+capital  cushions,  allow  fair  competition,  maintain  safety  and  soundness,  and  enhance  financial 
+stability.  
+I am pleased to answer your questions.  
+   6/6 

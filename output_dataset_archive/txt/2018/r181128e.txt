@@ -1,0 +1,307 @@
+    
+ 
+Transforming our payments infrastructure 
+ 
+ 
+ 
+Speech given by 
+Victoria Cleland 
+Executive Director, Banking, Payments and Financial Resilience 
+ 
+Payments International, London 
+27 November 2018 
+ 
+ I would like to thank Sam Leighton, Richard Lewis, and Cameron Penny for their contributions. 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx 
+1 
+   
+ 
+ 
+Transforming our payments infrastructure 
+ 
+Payments are an essential part of our lives, and of the UK economy.  Last year UK payment systems 
+processed more than 26 billion transactions worth over £91 trillion, covering everything from small scale card 
+payments and cash withdrawals to major corporate transactions. 
+ 
+The UK payments landscape has undergone considerable change in recent years.  Increased take-up of 
+new types of payment technology in retail and wholesale markets has been facilitated by factors including 
+increased ease of use, the growth in e-commerce, and increased confidence in their reliability and 
+security.   Looking to the future, we expect this transformation to continue, driven by incumbents but also the 
+growth of new Fintech firms who will continue to find innovative ways of meeting demand for faster, simpler, 
+cheaper and more flexible payments.  This wave of innovation could deliver positive outcomes ranging from 
+better choice for consumers, to improved access to finance for businesses, to lower transaction costs, 
+enhanced resilience and greater capital efficiency.   
+ 
+The Bank of England is actively researching both how technology is changing financial services today 
+(through our Fintech Hub1) and how financial services might evolve over the next decade.2  We are 
+assessing what technological change means for users, businesses, and the financial sector, as well as the 
+risks that this might pose to the Bank’s mission. In the context of this rapid change in payments, an area of 
+critical importance to the UK economy, the Bank is undertaking two major initiatives to strengthen core 
+payments architecture, and to enable it to better meet the needs of the industry and the public.  These 
+initiatives are closely linked: renewing the RTGS service and bringing the operation of CHAPS into the Bank. 
+  
+Before I go any further, I will define these two acronyms that might sound unfamiliar, but whose role is crucial 
+to everyone in this room - indeed to everyone in the country.  
+  
+The RTGS (Real Time Gross Settlement) service is the core payments infrastructure in the UK, providing the 
+ultimate settlement for a number of payment systems and other financial market infrastructures, including 
+retail systems such as Bacs.  As part of this, it provides accounts for banks, building societies, and, from very 
+recently, to non-bank payment service providers (PSPs),3 which use it to settle payment obligations. It is also 
+the platform through which monetary policy decisions to change Bank Rate are implemented.  Settlement 
+takes place across the books of the Bank, in central bank money and in real-time. This is efficient, settlement 
+risk free and irrevocable.  The Bank has recently commenced a multi-year Renewal Programme of the RTGS 
+service, to enhance resilience and drive innovation.4 
+ 
+                                                      
+1 https://www.bankofengland.co.uk/research/fintech   
+2 https://www.bankofengland.co.uk/research/future-finance  
+3 https://www.bankofengland.co.uk/news/2018/april/non-bank-psp-access-to-the-payments-system-announcement  
+4 See https://www.bankofengland.co.uk/payment-and-settlement/rtgs-renewal-programme and https://www.bankofengland.co.uk/-
+/media/boe/files/speech/2018/real-time-gross-settlement-rtgs-renewal-enabling-the-next-generation-of-
+payments.pdf?la=en&hash=49E47B8951F6FD8D24E6307B36EDAFB7D214B4F5 for further details  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx 
+2 
+ 2
+  
+ 
+ 
+CHAPS (Clearing House Automated Payment System) is one of the payment systems which settles over 
+RTGS.  It is the UK’s high-value payment system, used for wholesale payments and known to many of you 
+for making house purchases, but also for a range of time-sensitive or cross-border corporate payments.   
+  
+Origins and use of CHAPS 
+  
+This month marks the first anniversary of the operation of the CHAPS payment scheme being brought into 
+the Bank.  But CHAPS is rooted in centuries of payments history.  Payments systems in the UK grew out of 
+the 1770s arrangement of clerks meeting at a tavern in the City of London and exchanging paper cheques 
+over lunch.   This was more efficient than each clerk walking around the city visiting other banks.  By the end 
+of the 19th century, around 200 years after the creation of the Bank, the operation of payment systems was 
+formalised, with the establishment of the Bankers’ Clearing House, which was owned and controlled by the 
+major retail banks. In 1985 following a series of reviews the Association of Payments Clearing Services 
+(APACS) was created as an umbrella organisation for three clearing companies, including the CHAPS & 
+Town Clearing Company. It had responsibility for the CHAPS system, providing high-value, same-day 
+settlement with a minimum value of £10,000 (equivalent to around £29,000 in today’s prices).5   
+ 
+Today there is no minimum value, but CHAPS settles around £330 billion every working day, representing 
+93% of non-cash payments in the UK. Around 40% of CHAPS payments originate from organisations based 
+overseas, reflecting the UK’s strong links to the global economy.   
+ 
+Bringing CHAPS into the Bank 
+ 
+When RTGS was established in 1996, it became the settlement infrastructure for CHAPS, increasing 
+financial stability by ensuring the highest value payments were settled real time in central bank money. The 
+CHAPS Co Clearing Company Ltd (CHAPS Co) continued to operate the CHAPS scheme from a member 
+perspective until last year. Bringing CHAPS in-house marked an important milestone in our ongoing work to 
+make CHAPS and RTGS safer, more secure, more accessible, and in line with international best practice.  
+  
+Until last year, the UK was unusual in that a private sector company (CHAPS Co) was responsible for the 
+governance and rulebook6 of the high-value payment system, while the Bank provided the underlying 
+settlement infrastructure.  In 2017 the Bank’s analysis concluded that there were structural constraints in this 
+model.  Given the status of RTGS as critical national infrastructure, CHAPS Co could not be given the full 
+range of information on RTGS that it would need to identify and manage risks across the whole payment 
+system.  These constraints meant that, while CHAPS Co had made important enhancements to its existing 
+model, it was unable to fully meet regulatory expectations to act as an effective end-to-end systemic risk 
+                                                      
+5 https://www.bankofengland.co.uk/monetary-policy/inflation/inflation-calculator  
+6 The rulebook (or ‘CHAPS Reference Manual’) sets out the requirements that a member needs to adhere to as a participant in CHAPS. 
+The rules are designed to deliver a safe, secure, and resilient CHAPS payment system. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx 
+3 
+  3
+ 
+ 
+ 
+manager for the CHAPS payment system. Put another way, the Bank understood and mitigated the risks 
+within RTGS, and CHAPS Co looked at risks in its participants but it was hard to join the two views together.  
+Bringing these two views together could benefit financial stability. 
+  
+This is not to say that the Bank and CHAPS Co stood still in their joint operation of the service.  Two key 
+improvements to the resilience of CHAPS in recent years were the implementation of a Liquidity Saving 
+Mechanism (LSM) and establishing a third site for RTGS to ensure settlement could continue to operate in 
+the very unlikely event that the Bank’s data centres suffered a simultaneous outage.  And CHAPS Co took 
+important steps to streamline its governance arrangements, strengthen its rulebook, and improve how it 
+sought assurance of compliance.   
+ 
+The resilience of the CHAPS system is about more than just the central RTGS infrastructure or management 
+of its Direct Participants7 in isolation. Weaknesses in security or operations at any point in the payment chain 
+could threaten stability and trust in the whole system. It is vital to have a holistic view of CHAPS as a 
+network, through which financial or operational risk can be transmitted.  Addressing this was particularly 
+important given the increased sophistication of risks faced by the payments system including, for example, 
+cyber-attack. 
+  
+It was therefore agreed to bring the operation of CHAPS in-house.  The transfer took place on 13 November 
+2017, and was smooth with no disruption to the availability of CHAPS for the banks or their customers. I’d 
+like to thank the staff across the Bank, CHAPS Co, the participating banks and other organisations who 
+made it possible. 
+  
+Effective risk management for CHAPS 
+ 
+But that was just the first step and the Bank continues to enhance its approach to managing risks in CHAPS. 
+As the systemic risk manager for CHAPS, we seek to ensure that end-to-end flow of payments is safe, 
+secure and stable.  
+  
+We are now increasingly able to draw on the broader set of tools and resources available to the Bank to: 
+identify, assess, mitigate, and respond to the full range of risks to the delivery of the CHAPS system.  Our 
+approach is to assign responsibilities for these risks according to where they can be most effectively 
+managed and to coordinate with the owners of these risks (such as Direct Participants and Critical Service 
+Providers) in order to seek assurance that the payment system is operating within our risk tolerance. 
+  
+We also work closely with colleagues in the Prudential Regulation Authority (PRA),  
+Financial Conduct Authority (FCA) and Payment Systems Regulator (PSR), who have relationships with 
+   
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx 
+4 
+ 4
+ 
+ 
+ 
+CHAPS participants and a shared interest in the operation of the payments chain. A recent example is the 
+July 2018 Discussion Paper, ‘Building the UK Financial Sector’s Operational Resilience’, which the Bank, 
+PRA and FCA published together. We are increasingly working with supervisory colleagues to: 
+ 
+ Identify and manage risks to and from the payments function for the Direct and Indirect Participants 
+that they supervise; and 
+  Deploy expert cyber resources in order to manage the threats posed to the CHAPS system. 
+  
+It goes without saying that, the RTGS Renewal Programme is also putting resilience at the heart of its design 
+and scope.  
+ 
+Widening access to CHAPS and RTGS 
+ 
+In addition we are working to improve access to CHAPS and to RTGS. 
+  
+In 1987, CHAPS only had 14 direct participants - a number which remained broadly unchanged twenty years 
+later in 2007. This created increased risk to financial stability through operational reliance on a small number 
+of banks, creating credit exposures between Direct and Indirect Participants (who could only access CHAPS 
+via a Direct Participant).   In response, the Bank took three steps to facilitate direct access to CHAPS:  
+  
+De-tiering.  In 2011 the Bank identified the six largest indirect participants8 who presented a systemic risk 
+through indirect access. We engaged with them to discuss these risks and how “de-tiering” could alleviate 
+them. Each of these banks now accesses CHAPS directly. Over the last year, they accounted for 17% of 
+total CHAPS values, demonstrating a clear and measurable reduction in risk, which in turn, benefits the 
+wider payments ecosystem and all of its participants and end users. In April 2012, after consultation with all 
+CHAPS participants, formal tiering criteria were introduced to CHAPS based on a presumption that Indirect 
+Participants that breach the criteria should transition to direct access. The Bank will continue to analyse the 
+financial stability risks presented by indirect access and further refine if we consider there is an unacceptable 
+level of risk. 
+  
+Expanding eligibility to non-banks.  Where it can be done safely without compromising our mission to 
+maintain monetary and financial stability, we also seek to promote efficiency, innovation and competition 
+through our operation of RTGS and CHAPS. We have therefore recently widened the access criteria for 
+RTGS and CHAPS to enable non-bank PSPs to join. Key to this was working closely with the FCA, HM 
+Treasury and the PSR to develop a supervisory regime that would allow non-bank PSPs to access 
+settlement in RTGS and participation in the CHAPS payment system without increased risks. In April 2018 
+Transferwise was the first non-bank PSP to join RTGS and was followed by iPagoo who in August 2018 was 
+                                                      
+8 i.e. those which the Bank’s analysis identified as being systemically important to the CHAPS system in terms of the total value of 
+payments they send and receive. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx 
+5 
+ 5
+  
+ 
+ 
+the first non-bank PSP to join CHAPS directly. Direct access allows non-bank PSPs to reduce their 
+operational dependence on the banks they are trying to compete with. Over the longer term, this should also 
+create a more diverse payments sector with fewer single points of failure.  
+  
+Reducing the cost of access.  We continue to seek to avoid the costs of direct access being prohibitive to 
+prospective and existing participants. We have enabled third-party aggregators to provide technical 
+connectivity to RTGS for smaller CHAPS direct participants, reducing the upfront costs of direct access 
+without reducing overall resilience. 
+  
+The RTGS Renewal Programme will further reduce the barriers to direct access. Its technical architecture will 
+be designed to support several hundred Direct Participants in CHAPS; allowing for a significant increase 
+from the current 33.  We also intend to introduce automated testing to streamline the joining process. We will 
+build simulators to help new joiners better familiarise themselves with CHAPS and provide broader RTGS 
+functionality before going live. The renewed RTGS will also feature enhanced functionality (e.g. enhanced 
+liquidity management and the capability to extend opening hours), facilitating innovation by both established 
+participants and new joiners.  This should, in time, ultimately lead to a situation where it is simple and cost 
+effective for any eligible participant to become a direct participant in CHAPS. 
+  
+Improved governance  
+ 
+In bringing CHAPS in-house it has been important to develop a strong and robust governance framework 
+and retain the strong ‘user voice’ that CHAPS Co facilitated.   At the heart of this was the establishment of 
+the RTGS/CHAPS Board (the Board) chaired by the Bank’s Deputy Governor for Markets & Banking and 
+comprising four non-executive members selected for their experience and expertise, together with a number 
+of the executive, myself included.9 The Board provides a strategic focus with particular attention to the 
+Bank’s role as a systemic risk manager to the CHAPS system, broader financial stability remit and other 
+public interests.  The Bank’s operation of CHAPS is subject to the Bank’s full ‘three lines of defence’ risk 
+management model and close engagement and oversight on relevant matters from the Governors, the 
+Bank’s Court of Directors and the Financial Policy Committee. 
+ 
+In its capacity as Payment System Operator, the Bank’s delivery of CHAPS is supervised by the Bank’s 
+Financial Market Infrastructure Directorate10 to the same standards as other systemically important payment 
+systems. 
+ 
+It is also essential to understand the views of industry, and we have established forums to facilitate an open 
+dialogue with a variety of key stakeholders. This includes the CHAPS Strategic Advisory Forum (SAF) and 
+the RTGS Renewal Programme’s External Advisory Body (EAB). Both forums involve attendees from a 
+                                                      
+9 Information on members of the RTGS/CHAPS Board can be found at https://www.bankofengland.co.uk/payment-and-settlement  
+10 https://www.bankofengland.co.uk/financial-stability/financial-market-infrastructure-supervision  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx 
+6 
+ 6
+  
+ 
+ 
+range of organisations to ensure input and challenge from a diverse range of stakeholders across the 
+payments landscape, from the major, established banks through to innovative Fintechs and end-users.  
+  
+Looking ahead to RTGS Renewal 
+ 
+This is an important time for the UK payments industry.  In addition to the RTGS Renewal Programme, 
+Pay.UK11 is working to build a New Payments Architecture for retail payments.  There are synergies between 
+these programmes and while we operate independently we are working closely to ensure that we co-ordinate 
+where there are benefits to doing so, and where this will best support the payments industry.  
+  
+An example of our close cooperation is planning the introduction of messaging standards based on ISO 
+20022. The Bank and Pay.UK are working together on the introduction of a Common Credit Message (CCM) 
+for CHAPS, Faster Payments Service (FPS) and Bacs. The Bank published a joint consultation with Pay.UK 
+and the Payment Systems Regulator (PSR) in June.12 This set out how we propose to develop the new 
+messaging standards to create a harmonised language for retail and wholesale payments in the UK. We will 
+shortly be publishing our response to that consultation, which will set out our next steps.  We have also 
+created the Standards Advisory Panel (SAP)13. We are seeking participants from beyond payments and 
+financial services but also from the companies who initiate and receive payments, and software providers 
+and others who may want to take an active role in shaping the technical standards which will underpin 
+elements of that project. 
+ 
+Conclusion 
+ 
+The Bank is committed to strengthening the UK’s payments services, and we will continue to work closely 
+with the industry to ensure we create services not just for existing users but for prospective participants too, 
+including those with innovative business models such as Distributed Ledger Technology. Our vision is to 
+develop an RTGS service which is fit for the future, increasing resilience and access, and offering wider 
+interoperability, improved user functionality and strengthened end-to-end risk management. Our changes will 
+help to increase competition and innovation in the wider banking and payments markets. The upcoming 
+enhancements will benefit from a two-way dialogue between the Bank and the payments industry.  As we 
+continue this exciting journey I look forward to working with all of you as we innovate and strengthen the 
+UK’s payment services for the future. 
+ 
+ 
+ 
+                                                      
+11 https://www.wearepay.uk/  
+12 https://www.bankofengland.co.uk/news/2018/june/iso-20022-consultation-paper-a-global-standard-to-modernise-uk-payments  
+13 https://www.bankofengland.co.uk/-/media/boe/files/payments/sap-terms-of-
+reference.pdf?la=en&hash=104B67B7AF846BF7837BF6762BDB7000C6B06A6F  
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/publications/Pages/speeches/default.aspx 
+7 
+ 7
+ 

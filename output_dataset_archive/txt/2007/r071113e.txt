@@ -1,0 +1,351 @@
+Nigel Jenkinson: New markets and new demands – challenges for central 
+banks in the wholesale market infrastructure 
+Speech by Mr Nigel Jenkinson, Executive Director, Financial Stability, Bank of England, at a 
+joint Bank of England/European Central Bank Conference on “Payments and Monetary and 
+Financial Stability”, Frankfurt am Main, 12 November 2007. 
+I am very grateful to Mark Manning for his help in preparing this speech and to John Gieve, Victoria Cleland and 
+Ben Norman for helpful comments. 
+ Introduction 
+1. 
+1  
+Central  banks  sit  at  the  heart  of  the  monetary  economy  providing  the  ultimate 
+settlement  asset  and  typically  operating  the  large-value  payment  systems  that  underpin 
+financial  activity.  The  modern  central  bank’s  twin  objectives  of  monetary  and  financial 
+stability emerged from their early role in settling claims between banks. 
+2  
+But this traditional payments function is subject to the same forces for change that are 
+transforming the rest of the economy. In particular, developments in technology, the financial 
+innovation they allow, and the globalisation of finance are reshaping the landscape, exposing 
+new sources of risk and posing fresh challenges for regulators and central banks. 
+3  
+As markets become more interconnected and international, national authorities have to 
+work  more  closely  together,  cooperating  in  their  oversight  and  operational  activities  and 
+coordinating their risk assessments. As new products and players emerge in the commercial 
+sector, they may also need to adapt the scope of their oversight and regulatory response. 
+4  
+which will resurface over the course of this two-day conference. 
+I would like to take some time this afternoon to explore some of these issues, many of 
+Early demands: the historical context 
+First  some  history.  How  did  central  banks  come  to  assume  their  “central”  role  in  the 
+2.  
+5  
+financial infrastructure? 
+6  
+Internationally,  Venice  claims  a  key  role  in  the  story,  but  I  will  start  later  with  the 
+activities  of  goldsmiths  in  17th  century  London.  Starting  from  their  custody  business, 
+goldsmiths  began  to  settle  transactions  between  merchants,  across  their  books  or  via  the 
+transfer  of  deposit  receipts  –  the  early  bank  notes.  Merchants  were  thereby  able  to  settle 
+obligations with one another without having to carry, count out and value coins: a welcome 
+development, considering that a £100 sterling bag of silver coins – a commonly used value 
+for  notes  –  weighed  over  30  pounds  (14kg  for  those  in  the  audience  baffled  by  imperial 
+measures)! 
+7   Over time, so as to accommodate transfers between customers of different “banks”, the 
+banks  started  accepting  claims  on  each  other  and,  once  they  found  ways  to  settle  these 
+claims, established the first British interbank payment systems. 
+8  
+So  what  were  these  early  settlement  mechanisms?  At  first,  banks  started  settling 
+interbank  claims  using  gold  and  silver  coins.  But  these  were  in  short  supply  and,  again, 
+costly to transport and exchange. 
+9  
+Banks thus eventually innovated by switching to settlement in assets convertible into 
+gold  and  silver.  For  example,  by  the  1770s,  London  bankers  had  begun  to  settle  in  notes 
+issued by the Bank of England, a highly-regarded, but at that time, private bank.  
+BIS Review 130/2007 
+ 1
+10   A low-risk settlement asset was particularly important in the unregulated world of the 
+goldsmiths,  in  which  credit  risk  was  acute  and  liquidity  shocks  –  like  the  one  we  have 
+experienced of late − were common and dangerous. In a sorry letter to an associate1, one 
+goldsmith  wrote  to  another  in  the  1660s:  “I  have  beene  by  many  accidents  much 
+postpon’d…ye money due to mee is soe farre off that I can not make it useful to mee. All 
+Credit in London is much Shortened of late.” 
+11  Showing all the optimism which continues to characterise bankers today, he added: “ I 
+am  attempting  a  way  to  enlarge  my  owne  (credit)  and  doubt  not  to  effect  it  to  his 
+Maties.[Majesties] advantage as well as my owne, if I am (like ye lame dogg) but helpt over 
+this style.” 
+12   Further efficiency gains were then obtained by settling interbank obligations over the 
+accounts  of  a  single  institution.  This  innovation  was  sometimes  put  in  place  by  the  public 
+authorities; in other cases it developed naturally, such as when the London bankers adopted 
+Bank of England deposits as the ultimate settlement asset in 1854. 
+Payments and monetary and financial stability 
+3.  
+13   To ensure that its liabilities continue to be perceived of higher quality than those of any 
+other issuer, the institution at the apex of the payment system – typically the central bank – 
+has an incentive to exercise close control over the terms on which they are made available to 
+the banking system. 
+14   That translates into the traditional monetary stability objective: preservation of the role 
+of  the  ultimate  settlement  asset  as  a  store  of  value  and  unit  of  account.  It  also  gives  the 
+central bank a strong interest in the stability of the financial system. And within that a reliable 
+and resilient infrastructure for distributing the ultimate settlement asset is a key condition of 
+stability (and of implementing monetary policy effectively). 
+15 
+In  an  advanced  monetary  economy,  of  course,  bank  deposits  constitute  by  far  the 
+largest component of “money”; in the UK they make up some 96% of the broad monetary 
+aggregate, M4. Agents rely on interbank payment systems to facilitate the direct transfer of 
+deposits between banks and thereby also preserve their role as a medium of exchange. And 
+as the sophistication of securities and other markets has grown, the core payment systems 
+have  become  intertwined  with  the  settlement  and  clearing  systems  for  the  key  markets. 
+Together  they  have  become  a  critical  part  of  the  infrastructure  not  just  for  the  financial 
+system but  for the economy  more  widely. And in the wake of 9/11, all central banks have 
+been  giving  more  attention  to  the  physical  and  financial  resilience  of  these  systems.  For 
+example, in our regular Financial Stability Report, the Bank of England has included the risk 
+of infrastructure disruption in the list of the top six vulnerabilities facing the financial system 
+over the last two years. 
+16   As Alan Greenspan notes in his memoirs: “We’d always thought that if you wanted to 
+cripple the US economy, you’d take out the payment systems. Banks would be forced to fall 
+back on inefficient physical transfers of money. Businesses would resort to barter and IOUs; 
+the level of economic activity across the country could drop like a rock.” 
+17  
+In  a  paper  to  be  presented  at  this  conference  tomorrow,  Andrea  Gerali  and  Franco 
+Passacantando  consider  this  in  the  context  of  the  Great  Depression. As  confidence  in  the 
+banking  system  evaporated,  bank  deposits  ceased  to  function  as  a  medium  of  exchange. 
+“Scrip”, or substitute money, emerged, typically taking the form of vouchers or coupon books. 
+Such  monies  had  otherwise  only  been  commonly  used  in  isolated  lumber  or  coal-mining 
+                                                 
+1   Quoted  in  Quinn  (1997),  “Goldsmith-Banking:  Mutual  Acceptance  and  Interbanker  Clearing  in  Restoration 
+London”, Explorations in Economic History 34, pp411-432. 
+2 
+ BIS Review 130/2007
+communities  in  the  United  States  –  communities  lacking  banks  or  financial  intermediaries. 
+But while adequate for the purchase of provisions at the local general store, such forms of 
+money  were  clearly  an  imperfect  medium  of  exchange  and  created  otherwise  unintended 
+credit exposures between agents. 
+18   The  recent  market  turbulence  offers  a  further  reminder  of  the  importance  of  resilient 
+infrastructure for conditions in financial markets. When markets are fragile, any interruption to 
+normal service could have particularly serious implications: further clouding judgements as to 
+individual  participants’  solvency;  undermining  agents’  risk  management;  or  affecting  asset 
+prices in dependent markets. With volumes and values in several markets having hit record 
+levels  during  the  market  turmoil  and  remaining  high  for  a  sustained  period,  infrastructure 
+providers have experienced a severe stress test and, by and large, have passed with flying 
+colours. CLS, for instance, processed nearly 860,000 transactions (more than $8trn in value) 
+on 19th September, 2½ times the daily average in June. 
+4.  
+Current trends in the wholesale market infrastructure: new markets and new 
+demands. 
+19   Today,  central  banks  around  the  world  still  typically  provide  the  ultimate  settlement 
+asset and sometimes operate, and also own, key components of the payment and settlement 
+infrastructure.  For  key  elements  of  the  infrastructure  central  banks  have  assumed  an 
+oversight role. Depending on the particular regulatory architecture in place, this is sometimes 
+shared with the financial regulator, as in the UK. 
+20   But this is a dynamic environment: the landscape is broadening and deepening, with 
+niche  market-specific  facilities,  cross-border  systems,  new  entrants  and  commercial  bank 
+providers  becoming  more  important.  New  sources  of  risk  are  emerging,  presenting  new 
+challenges for central banks in their pursuit of monetary and financial stability. 
+Financial innovation and technological advancement 
+21   The  way  technology  is  transforming  markets  and  therefore  payment  systems  is 
+illustrated in the rapid growth in OTC derivatives markets; and the increased penetration of 
+electronic trading platforms – and automated trading strategies – across a range of markets. 
+22   According to data released by the Bank for International Settlements, notional amounts 
+outstanding in global OTC derivatives markets rose by almost 40% in 2006 – up more than 
+260% over the past five years. The outstanding value of the credit segment of the market 
+doubled  in  value  in  2006  alone  and  trading  activity  has  remained  high  through  2007, 
+especially during the recent market turmoil. 
+23   These markets have traditionally been cleared and settled via bilateral arrangements 
+between  the  counterparties  to  the  trade,  but  new  automated  infrastructure  services  have 
+emerged,  partly  in  response  to  an  international  regulatory  initiative  led  by  the  Federal 
+Reserve  Bank  of  New  York  (FRBNY).  Major  dealers  now  confirm  almost  90%  of  credit 
+derivatives trades electronically, as against less than 50% two years ago. 
+24   An  important  recent  addition  to  the  landscape  is  DTCC  Deriv/SERV’s  Trade 
+Information Warehouse, which maintains a so-called “golden copy” of each credit derivatives 
+trade. With appropriate interoperability between systems, these data can support a range of 
+ancillary  services:  calculating  and  settling  payment  obligations,  managing  collateral, 
+terminating trades and reconciling portfolios. The Warehouse is likely ultimately to be rolled 
+out for other products. 
+25   The  declining  cost  of  technology  has  also  been  a  key  driver  of  the  rise  of  electronic 
+trading  in  recent  years.  Almost  60%  of  trade  in  foreign  exchange  is  now  executed 
+electronically and close to 50% in repo. 
+BIS Review 130/2007 
+ 3
+26   Automated  and  algorithmic  trading  strategies  are  becoming  more  widespread  across 
+asset  classes.  The  London  Stock  Exchange  (LSE)  reports  that  the  proportion  of  the  order 
+flow on the exchange that is automated has risen from negligible amounts just four or five 
+years ago to approaching half today. This not only has implications for the scale of trading 
+activity – volumes have tripled on the LSE’s SETS system over the past five years – but also 
+the design and location of the trading infrastructure. For many algorithmic trading strategies, 
+processing  speed  is  critical.  The  faster  systems  can  process  trades  in  just  one  or  two 
+milliseconds: a tiny fraction of the blink of an eye. But ultimately speed and thus the ability to 
+gain  a  competitive  advantage  depends  on  proximity  to  the  platform;  hence,  the  old 
+geographical  pull  of  markets  has begun  to  re7 emerge  with  exchanges  selling  space  near 
+their trading platforms to those who want to be first in the queue. 
+27   Many  new  entrants  to  the  trading  arena  are  therefore  competing  with  incumbent 
+exchanges on the basis of processing speed. These new platforms are also looking for lower 
+cost post-trade solutions. As such, those emerging in Europe have looked beyond incumbent 
+providers: new entrants and commercial bank providers of clearing and settlement services 
+have featured strongly in their plans. Such providers not only aim to meet demands in terms 
+of flexibility and cost, but also to offer sufficient breadth to deliver a multicurrency clearing 
+and settlement service. 
+Globalisation, regulatory change and the market structure of infrastructure 
+28   This is part of a general reshaping of the infrastructural landscape in a global market 
+place.  Market  participants  are  becoming  increasingly  international,  operating  in  multiple 
+markets and facing obligations in multiple currencies. Latest international banking data from 
+the Bank for International Settlements revealed growth in excess of 20% in reporting banks’ 
+total cross-border claims in the year to end-Q1 2007, taking the total to $28.5trn. 
+29   Banks, therefore, seek infrastructural solutions that will accommodate the international 
+organisation of their businesses. So, while, historically, financial infrastructure has typically 
+evolved  along  national  lines,  cross-border  alliances  and  mergers  are  now  more  common, 
+both  in  trading  and  post-trade:  e.g.,  NYSE  Euronext;  LCH.Clearnet;  Euroclear  Group.  And 
+alliances  in  the  form  of  cross-border  clearing  and  settlement  links  are  also  widespread, 
+enabling, for instance, securities traded in Italy to be settled and held in an account in the 
+securities settlement system in Germany. 
+30   Commercial  bank  providers  –  namely,  correspondent  banks  and  global  custodians  – 
+may  be  best  placed  to  meet  the  demand  for  multicurrency  settlement,  leveraging  their 
+extensive international connections. This could then reinforce their important position in the 
+infrastructural landscape. Indeed, the major global custodians each posted growth in assets 
+held in custody in excess of 20% in just the past year. 
+31   And  differences  between 
+incumbent  providers  of 
+infrastructure and those for either commercial bank providers or smaller new entrants could 
+tilt the playing field. For example, CLS is subject to close central bank scrutiny, operates as a 
+narrow  bank,  and  has  to  meet  exacting  –  and  costly  –  resilience  standards.  New  clearing 
+arrangements  and  bilateral  netting  schemes  are  now  penetrating  the  foreign  exchange 
+markets, threatening the volumes passing through CLS. In messaging, too, SWIFT – which 
+submits  voluntarily  to  central  bank  oversight  –  is  beginning  to  face  competition  in  certain 
+markets  from  new  entrants  not  subject  to  oversight.  Authorities  must  be  alert  to  the 
+challenges these competitive developments provide. 
+32   Other regulatory initiatives are contributing to a reshaping of the landscape. MiFID, in 
+the EU, and RegNMS, in the US, have sought to encourage increased competition in trading; 
+and the Code of Conduct, recently signed in the European Union, establishes terms under 
+which  infrastructures  operating  in  one  member  state  can  clear  and  settle  (initially  equity) 
+trades in another. More than 20 applications have now been made under the terms of the 
+Code. 
+the  regulatory  regimes 
+for 
+4 
+ BIS Review 130/2007
+33   Whether  trading,  clearing  and  settlement  infrastructure  markets  can  support  a  wide 
+range of providers in the long-term remains an open question. There is generally a tendency 
+towards concentration in infrastructure provision because of increasing returns to scale in a 
+fixed cost business and often powerful network effects. This applies equally in the case of 
+commercial  bank  provision  of  infrastructure:  ECB  survey  evidence  reveals  that  the  ten 
+largest  correspondent  banks  in  euro  account  for  around  80%  of  correspondent  banking 
+payment  values;  and  the  top-4  global  custodians  now  account  for  three-quarters  of  total 
+assets in custody. Indeed, regulators have been giving increasing attention to the potential 
+systemic spillovers from operational or business failures at major commercial bank providers 
+of infrastructural services. That has led, for example, to the initiative in the US to implement 
+“New Bank”, a dormant shell company to take over the functions should one of the two major 
+clearers in the US Treasury market cease operations. 
+34  
+It may be that a competitive environment can be sustained, particularly as the cost of 
+technology  falls,  lowering  barriers  to  entry,  and  liquidity  bridges  and  other  forms  of 
+interoperability are established between systems. But, the jury is still out. Recent evidence 
+on  the  trading  side,  particularly  in  the  US,  is  mixed:  some  trading  platforms,  such  as 
+Archipelago and INET, have been swallowed up by the incumbent exchanges; others, such 
+as  BATS  Trading  are  thriving,  keeping  the  pressure  on  the  exchanges  to  cut  costs  and 
+upgrade their services. 
+35  
+I suspect what we are seeing is a redefinition of the market on an international scale. In 
+the process, national incumbents are being challenged by a combination of ambitious foreign 
+incumbents  eager  to  exploit  economies  of  scale  and  nimble,  unencumbered  new  entrants 
+sometimes specialising in niche products. A process that is likely to lead in time to greater 
+consolidation at international level is currently manifesting itself in terms of fragmentation at 
+the national level as local incumbents are challenged. 
+36   The  end-game  may  well  be  lower  transaction  costs  at  both  the  trade  and  post-trade 
+level and more concentrated (if not monopoly) cross-border infrastructure in each. But it may 
+take some time to reach a new equilibrium. Central banks and regulators need not only to 
+prepare  for  and  perhaps  help  shape  the  end-game,  but  also  address  challenges  arising 
+during the transition. 
+BIS Review 130/2007 
+ 5
+Issues and challenges for central banks and regulators going forward 
+5. 
+37   Two key challenges, in particular, will need to be met: 
+(i) 
+Preserve enough influence to protect the collective interest while maintaining 
+a level regulatory playing field 
+38   The resilience and efficiency of the core infrastructure is an important public good and, 
+given the tendency to monopoly, the authorities need to ensure that they maintain sufficient 
+influence  to  ensure  resilience  in  this  increasingly  complex  landscape.  That  requires 
+consistent and objective criteria to be applied to new as well as established systems. Such 
+criteria might include: size – the volume and value of flows; type of flow – the extent to which 
+interdependencies  are  generated  with  other  systems  or  underlying  financial  markets;  and 
+substitutability – the potential for rerouting flows to other systems. 
+39   A changing market structure may also alter the nature of risks posed by the systems 
+themselves. For instance, to the extent that we are entering a phase of competing provision 
+of  services  at  the  national  level,  issues  might  arise  around  the  potential  fragmentation  of 
+system liquidity. Equally, we are also seeing pressures for greater consolidation of systems 
+at an international level, where the challenges of lowering single point of failure risks remain 
+at the top of the agenda. 
+40   Where new services are offered by commercial bank providers, central banks need to 
+cooperate  closely  with  banking  supervisors  to  ensure  that  potential  sources  of  financial 
+stability  risk  in  their  infrastructure  roles  are  embedded  within  regulatory  assessments. 
+Indeed, to the extent that new services are multicurrency in nature an international dialogue 
+may be necessary. I am pleased that the Basel Committees on Banking Supervision (BCBS) 
+and  Payment  and  Settlement  Systems  (CPSS)  have  agreed  to  strengthen  communication 
+between  the  committees,  for  example  by  holding  joint  meetings  of  sub-groups,  which  will 
+help to support this dialogue. 
+41   As  recent  events  have  underlined,  regulation  and  public  intervention  can  not  only 
+change  market  incentives  for  the  better  but  can  also  have  unintended  side  effects.  For 
+instance,  the  creation  of  the  off-balance  sheet  vehicles  at  the  centre  of  the  recent  market 
+turbulence  may  be  seen  in  part  as  a  response  to  the  crude  regime  for  capital  charges 
+established under the original Basel Accord, under which liquidity facilities under a year in 
+maturity were exempt. That is being remedied under Basel II. But it is a reminder that we 
+need  to  be  very  careful  to  watch  for  these  distortions  in  the  regulation  and  oversight  of 
+payment systems and other infrastructures, so as to ensure that we do not inadvertently alter 
+incentives in a way that may hamper the future development of the landscape. 
+42   This  issue  arises  for  example  in  the  context  of  the  establishment  of  ESCB-CESR 
+standards for securities settlement systems. The Bank of England supports the principle of 
+risk-based functional regulation, which implies that regulatory standards should be applied to 
+a  function  –  such  as  settlement  –  regardless  of  the  status  of  the  institution  providing  that 
+function.  We  hope  that  further  moves  towards  implementation  will  adhere  to  this  principle, 
+thereby establishing a level regulatory playing field at least between CSDs and ICSDs, but 
+ideally also between traditional infrastructures and commercial banks offering infrastructural 
+services. 
+43   Finally,  with  a  wider  spectrum  of  participants,  issues  arise  around  the  way  in  which 
+members  interface  with  infrastructures.  It  is  important  to  ensure  that  individual  member 
+behaviour cannot threaten the smooth-functioning of the system. Some incidents during the 
+recent market turbulence revealed issues around members’ processing capacity, underlining 
+the value in member-level testing to ensure that participants can always support the delivery 
+of the network benefits from the smooth operation of the infrastructure. 
+6 
+ BIS Review 130/2007
+(ii)  
+Ensure effective international cooperation in oversight and operations, and 
+coordination in risk assessment activities 
+44   The  second  main  challenge  is  to  allow  market  participants  to  reap  the  benefits  of 
+globalisation, while ensuring that the risks are adequately controlled. An extended and highly 
+connected network can simultaneously be both robust and fragile: robust, because risks may 
+be more effectively shared and dispersed across the system; fragile in that major risks can 
+flow more rapidly through the system. 
+45   Naturally, market participants have been pushing hard for the removal of obstacles to 
+efficient cross-border settlement and barriers to the seamless cross-currency management of 
+liquidity.  Central  banks  have  been  urged  to  consider  accepting  foreign  collateral  or 
+implementing  other  arrangements  to  facilitate  cross-currency  liquidity  management.  Some 
+already  do  so  –  the  Bank  of  England,  for  instance,  routinely  accepts  euro-denominated 
+collateral  in  its  operations  –  and  a  recent  report  from  the  CPSS  encouraged  other  central 
+banks  to  consider  accepting  foreign  collateral,  at  least  in  emergency  circumstances.  The 
+Eurosystem has recently begun to explore new options. 
+46   Provision  of  cross-border  collateral  arrangements  may  entail  a  high  degree  of 
+coordination and cooperation between central banks internationally, for instance in opening 
+custody  and  correspondent  accounts,  and  sharing  information  on  local  infrastructures  and 
+market practices. 
+47   More generally, strong international cooperation in the sphere of risk assessment and 
+crisis  management  responses  is  also  clearly  important.  With  increased  links  between 
+infrastructure  providers  in  different  centres  and  the  emergence  of  new  cross13  border 
+infrastructures, greater cooperation is also required in the conduct of oversight: not only in 
+terms of assessment of particular overseen cross-border infrastructures against international 
+standards,  but  also 
+interdependencies  between  national 
+infrastructures.  While  existing  cooperative  arrangements  work  well,  the  model  needs  to 
+expand and continue to evolve. 
+identifying  potential 
+in 
+Concluding remarks 
+6.  
+48   The  resilience  of  the  infrastructure  of  wholesale  payment,  clearing  and  settlement 
+systems to both operational and financial shocks remains a key requirement of financial and 
+monetary stability. But the landscape is changing fast in response to technological change 
+and the financial innovation and globalisation it allows. Cross border and global networks are 
+squeezing  our  national  monopolies  and  commercial  banks  are  playing  an  increasing  role. 
+These changes present several challenges for central banks and regulators: 
+• 
+We  need  to  establish  and  apply  consistent  criteria  for  the  scope  of  oversight,  in 
+order to maintain a level regulatory playing field; 
+We  need  to  take  full  account  of  new  interdependencies  between  systems  when 
+assessing financial stability risks at a national and international level; 
+We  need  to  work  more  closely  together  in  risk  assessment  and  oversight  and 
+ensure that cross-border operational arrangements are robust ; 
+We need to ensure that financial stability risks posed by financial firms operating key 
+infrastructure functions are adequately captured in their regulation. 
+   49  Meeting  these  challenges  will  deliver  a  robust,  resilient financial  infrastructure,  which 
+the global financial system and the global economy depend upon. 
+BIS Review 130/2007 
+ 7

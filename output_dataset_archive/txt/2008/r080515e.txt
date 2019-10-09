@@ -1,0 +1,295 @@
+Randall S Kroszner: Risk management and Basel II 
+Speech  by  Mr  Randall  S  Kroszner,  Member  of  the  Board  of  Governors  of  the  US  Federal 
+Reserve  System,  at  the  Federal  Reserve  Bank  of  Boston  AMA  Conference,  Boston, 
+14 May 2008. 
+The original speech, which contains various links to the documents mentioned, can be found on the US Federal 
+Reserve System’s website. 
+ I am delighted to be here today at this impressive conference. I thank my hosts, President 
+Rosengren  and  his  staff  at  the  Federal  Reserve  Bank  of  Boston,  for  the  invitation.  I  also 
+thank  President  Rosengren  for  providing  such  interesting  and  informative  introductory 
+remarks.  
+Over the next two days, you will be having a number of discussions on specific aspects of 
+operational  risk  and  the  advanced  measurements  approaches  (AMA)  for  calculating  risk-
+based capital requirements under Basel II. Therefore, I can probably best contribute to this 
+conference  by  offering  a  broader  perspective  about  risk  management  and  Basel  II,  using 
+examples from the field of operational risk management. I will discuss the implementation of 
+Basel  II,  including  enhancements  to  the  framework  being  undertaken  by  the  Basel 
+Committee on Banking Supervision in light of recent market events, as well as a proposal to 
+implement in the United States a less complex version of the Basel II framework, known as 
+the standardized approach.  
+Background 
+I  believe  focusing  on  risk  management  today  is  certainly  topical,  given  some  of  the  risk 
+management  challenges  that  financial  institutions  have  faced  over  the  past  year.  Recent 
+market events have shown that a number of institutions have not maintained satisfactory risk 
+management  practices;  however,  we  also  can  point  to  many  examples  of  sound  risk 
+management practices during the recent disruptions.1  
+Individual institutions are responsible for maintaining sound risk management practices. But 
+supervisors, of course, also have a role to play both in promoting effective risk management 
+and  offering  incentives  for  bankers  to  make  improvements  to  their  practices.  There  are  a 
+number of methods supervisors use to that end – some informal, some formal – including 
+speeches,  one-on-one  discussions,  supervisory  guidance,  onsite  examinations,  formal 
+supervisory  actions,  and  regulations.  One  substantial  initiative  that  seeks  to  improve  risk 
+management practices at banking organizations is Basel II.  
+Importance of Basel II 
+As you all know, banking activities must be supported by both sound risk management and 
+strong  capital  levels.  For  example,  even  where  robust  internal  controls  are  in  place,  the 
+potential for losses from fraud can never be fully eliminated, meaning that institutions need to 
+hold  sufficient  capital  to  offset  unexpected  losses.  Determining  the  right  level  of  capital  to 
+hold for fraud and other elements of operational risk is not necessarily easy, as many of you 
+                                                 
+1   Randall S. Kroszner (2008), “The Importance of Fundamentals in Risk Management,” speech delivered at the 
+American  Bankers  Association  Spring  Summit  Meeting,  Washington,  DC,  March  11.  See  also  President’s 
+Working  Group  Issues  Policy  Statement  To  Improve  Future  State  of  Financial  Markets,  and  Report  of  the 
+Financial Stability Forum on Enhancing Market and Institutional Resilience. 
+BIS Review 59/2008 
+ 1
+here can attest. But the AMA is designed to make that determination more risk sensitive and 
+more accurate.  
+In  this  manner,  Basel  II  represents  a  major  step  forward  in  banking  regulation.  While  the 
+existing  Basel  I  capital  regime  was  a  significant  advance  when  introduced  in  1988,  it  has 
+become outdated for large, internationally active banking organizations. Retaining Basel I for 
+these institutions would have widened the gap between their regulatory capital requirements 
+and their actual risk profiles. That is one reason why the Federal Reserve supports Basel II 
+so strongly.  
+With  regard  to  credit  risk,  the  advanced  approaches  of  Basel  II  improve  regulatory  capital 
+measures by requiring banks to distinguish among the credit quality of individual borrowers. 
+Generally speaking, banks holding riskier credit exposures are required to hold more capital. 
+Similarly,  the  AMA  framework  requires  a  more  systematic  approach  for  assessing  the 
+operational risk to which a bank is exposed and ties an explicit regulatory risk-based capital 
+requirement to these exposures. Under Basel I, this charge was indirect and embedded in 
+credit  and  market  risk  measures.  In  contrast,  under  the  AMA,  banks  with  higher  levels  of 
+operational  risk  –  such  as  those  more  heavily  involved  than  others  in  activities  that  have 
+elevated loss potential from fraud, business disruption, or systems failure – generally should 
+have  higher  capital  requirements.  By  establishing  a  much  more  refined  approach  that 
+requires  banks  to  hold  capital  commensurate  with  the  actual  risks  of  their  exposures  and 
+activities,  Basel  II  should  lead  institutions  to  make  better  decisions  about  assuming, 
+retaining, and mitigating risks. 
+Not  only  does  Basel  II  establish  more  risk-sensitive  and  meaningful  regulatory  capital 
+requirements,  it  also  encourages  ongoing  improvements  in  banks'  risk  management 
+practices.  The  U.S.  final  rule  for  Basel  II  includes  extensive  system  and  process 
+requirements  and  U.S.  supervisors  have  high  standards  for  banks  seeking  to  qualify.  One 
+reason for such high standards is that the framework will only function as intended if Basel II 
+banks  have  solid  risk  management  infrastructures  and  robust  quantification  methods  on 
+which to base capital requirements. Another reason for such high standards is that the risk 
+management improvements in Basel II offer broader safety and soundness benefits, beyond 
+those associated with capital requirements. 
+Risk management and the AMA 
+There  are  strong  linkages  between  the  AMA  and  supervisory  expectations  for  sound 
+management of operational risk. The AMA builds upon the longtime best practices of banks 
+to develop techniques for identifying, measuring, and attributing capital for operational risk. I 
+commend  those  of  you  here  today  who  have  made  strides  in  improving  operational  risk 
+management,  and  heartily  encourage  you  to  maintain  your  efforts.  Supervisors  have  been 
+working  actively  with  bankers  to  improve  operational  risk  management  and  help  bankers 
+move  toward  qualification  under  AMA.  A  good  example  is  the  research  and  analysis 
+conducted by my colleagues here at the Federal Reserve Bank of Boston: their useful papers 
+have covered such topics as estimating operational risk loss distributions, evaluating various 
+measurement techniques, and analyzing the reputational impact of operational risk losses. 
+Supervisors have also conducted a series of loss-data collection exercises in which many of 
+you  have  participated.  More  generally,  I  think  supervisory  attention  on  operational  risk 
+management has provided support to risk managers striving to improve practices within their 
+organizations. 
+The  AMA  has  specific  qualification  requirements  that  are  intended  to  bring  about  risk 
+management improvements. For example, institutions are required to categorize operational 
+risk losses by event type, which promotes identification of the underlying risk drivers of each 
+category. The AMA also requires consistent comprehensive operational risk capture, which 
+promotes  an  enterprise-wide  assessment  across  all  business  units  within  an  entire 
+organization.  Moreover,  qualifying  for  the  AMA  requires  strong  senior  management  and 
+2 
+ BIS Review 59/2008
+board oversight of the entire process. In designing AMA requirements, supervisors decided 
+against  creating  a  mandated,  standard  treatment  and  instead  allowed  for  considerable 
+flexibility. Allowing more flexibility lets banks create an AMA reflective of their organization, 
+and  it  promotes  innovation  in  AMA  approaches.  But  that  flexibility  makes  banks  more 
+responsible for creating a solid and robust process rather than simply providing inputs to a 
+supervisory-determined formula. Operational risk management is a relatively new field, and a 
+number of challenges remain, such as collecting sufficient and relevant data and developing 
+appropriate modeling techniques to capture low probability events of high severity. Naturally, 
+validating  the  techniques  used  in  the  AMA  is  also  very  important,  as  with  any  quantitative 
+models.  
+Pillar 2 and Pillar 3 
+While  Pillar  1  minimum  capital  requirements  are  very  important,  people  sometimes  forget 
+that Basel II has three pillars of equal significance. Under Pillar 2, banks are required to have 
+an internal capital adequacy assessment process (ICAAP), subject to rigorous supervisory 
+review. The bank's ICAAP should ensure that the bank is holding enough overall capital to 
+support its entire risk profile, and it should provide a cushion against the potential impact of 
+periods of financial or economic stress. In its ICAAP, for example, an institution may choose 
+a solvency standard for overall capital adequacy that is higher than the 99.9 percent implied 
+by the AMA – for example, a solvency standard of 99.95 or 99.97 associated with a certain 
+credit rating. As most of you know, estimating capital needs in the tail of a loss distribution 
+becomes  more  and  more  difficult  the  farther  out  one  goes,  so  simply  "scaling"  the  AMA 
+measure will likely not suffice for truly assessing capital adequacy against a higher solvency 
+standard.  
+More broadly, one of the supervisory expectations surrounding the ICAAP is that institutions 
+should understand the limitations of models and conduct stress testing and scenario analysis 
+to provide greater information about potential losses and capital needs. Even good models 
+have their limits – such as incomplete data or assumptions that have not been tested across 
+business  cycles  –  and  need  to  be  supported  by  more  qualitative  measures  and  sound 
+judgment.  Put  another  way,  Pillar  2  is  not  just  about  using  "one  number,"  but  requires 
+institutions  to  develop  a  robust  process  to  evaluate  the  full  range  of  potentially  adverse 
+outcomes that could affect capital adequacy. This process certainly includes considering the 
+potential  for  operational  risk  losses  becoming  correlated  with  losses  in  other  risk  areas. 
+Recent  events  provide  ample  evidence  that  underestimating  the  potential  for  concurrent 
+losses in multiple risk areas can put pressure on capital levels.  
+Pillar  3  plays  an  important  role  in providing  greater  information  on  banks'  risk  profiles  and 
+their  ability  to  manage  them.  In  addition  to  disclosing  their  capital  requirements  for 
+operational  risk  under  the  AMA,  banks  will  have  to  provide  a  description  of  their  AMA 
+process, including their measurement approaches and relevant internal and external factors 
+considered. They will also have to provide information about the use of insurance to mitigate 
+operational risk. As a strong believer in market discipline and the importance of information in 
+market transactions, I believe Pillar 3 will improve bank disclosures about risk profiles and 
+enhance  discussions  between  bankers  and  market  participants  about  risk-management 
+practices.  
+Next steps with Basel II implementation 
+In the United States, Basel II has been an official regulation for just over a month. But the full 
+implementation process will take time. While I believe that expeditious application of Basel II 
+will  have  significant  benefits,  it  is  of  the  utmost  importance  that  the  implementation  be 
+undertaken  thoughtfully  and  deliberately.  As  you  know,  following  a  successful  four-quarter 
+parallel run, a banking organization would have to progress through three transitional periods 
+BIS Review 59/2008 
+ 3
+– each lasting at least one year – before being able to fully implement Basel II. A banking 
+organization would need approval from its primary federal supervisor to move into each of 
+the three transition periods. 
+Of  course, we  recognize  the  substantial  work that  bankers  have  undertaken  over  the  past 
+several years to prepare themselves for Basel II, and we think that preparation will pay off. 
+Thus,  before  setting  a  parallel  run  target  start  date,  we  strongly  recommend  that  banks 
+conduct a sober and frank self-appraisal of their current state as well as their ability to meet 
+requirements  of  the  final  rule.  Systems  development  can  take  time,  for  example,  and  it  is 
+important to make sure that these systems function appropriately. 
+As  stated  in  the  final  rule,  and  as  the  U.S.  agencies  articulated  several  years  ago,  a  key 
+instrument  in  the  qualification  process  is  a  bank's  implementation  plan.  This  written 
+implementation plan, approved by a bank's full board of directors, is a detailed and tangible 
+representation of how the bank complies, or intends to comply, with the rule's qualification 
+requirements. Our hope is to provide a bit more information in the next month or so about our 
+expectations for these plans, so I will only provide high-level comments here. 
+One important part of a credible implementation plan is a thorough assessment of how the 
+bank  intends  to  address  the  gaps  it  has  identified  between  its  existing  practices  and  the 
+qualification  requirements  set  forth  in  the  rule  for  the  advanced  approaches  that  cover  all 
+consolidated subsidiaries. The implementation plan also must include objective, measurable 
+milestones  –  including  delivery  dates  –  and  a  target  date  when  the  bank  expects  its 
+advanced approaches to be fully operational. The bank must establish and maintain a sound, 
+comprehensive planning and governance process to oversee implementation efforts, and it 
+must  demonstrate  to  the  full  satisfaction  of  its  supervisor  that  it  meets  the  qualification 
+requirements.  Because  the  implementation  plan  (including  the  gap  analysis)  is  the  only 
+requirement to enter parallel run, the agencies have high expectations for its overall quality 
+and the reasonableness of the approach taken by the banks in assessing their current state. 
+The large, internationally active banks subject to the final rule on a mandatory basis – the 
+core banks – have until October 1st of this year to adopt an implementation plan and have it 
+approved by their board of directors. This deadline for submission of plans by core banks is 
+intended  to  ensure  that  the  board  of  directors  will  provide  the  necessary  resources  and 
+oversight and prevent delays in implementation efforts. Of course, banks may always submit 
+their plans earlier. Once they have adopted an implementation plan, banks have ample time 
+to fully meet the qualification requirements, since the final rule allows a bank up to 36 months 
+before it would have to exit parallel run and enter the first transition period. As with all things, 
+however, waiting until the last possible moment leaves little margin for error. 
+Again, as supervisors, we understand that banks face challenges in implementing Basel II, 
+and we stand ready to assist bankers as they work to meet the high standards we expect. 
+For one, we have already engaged in a number of discussions with bankers to address their 
+questions on certain aspects of the final rule. In that effort, supervisory staffs of all the U.S. 
+agencies are working together to ensure that we give consistent messages to bankers, and 
+we intend to maintain such cooperation among the agencies throughout the implementation 
+process. We have also been preparing our examiners to assess banks' practices during the 
+qualification  process.  In  this  manner,  we  have  been  working  to  ensure  that  qualification  is 
+done thoroughly, fairly, and consistently.  
+Enhancements to the Basel II framework 
+One  of  the  substantial  benefits  of  the  Basel  II  framework  is  its  overall  flexibility  and 
+adaptability  to  new  practices,  instruments,  and  circumstances.  That  is,  Basel  II  provides  a 
+robust structure within which to integrate new information and enhanced risk management 
+practices as needed. As such, the Basel II framework is well suited to address some of the 
+current  challenges  seen  with  the  current  Basel  I  framework.  For  example,  the  new 
+4 
+ BIS Review 59/2008
+framework's credit risk capital charges for mortgages vary with the underlying riskiness of the 
+exposures unlike Basel I. Basel II also takes into account off-balance sheet exposures much 
+better than the Basel I framework.  
+Just  as  lessons  learned  from  recent  events  can  help  bankers  improve  risk  management 
+practices,  they  can  also  help  supervisors  further  increase  the  effectiveness  of  the  Basel  II 
+framework.  Indeed,  members  of  the  Basel  Committee  on  Banking  Supervision  recently 
+announced  plans  to  strengthen  the  resiliency  of  the  framework  based  on  the  lessons  we 
+have learned over the past year. The Basel Committee's plans to enhance aspects of Basel 
+II  are  entirely  consistent  with  what  we  have  done  in  the  past  with  regulatory  capital  rules 
+upon receiving new information and represent good supervisory practice. These proposals to 
+enhance  the  resiliency  of  the  Basel  II  framework  are  fully  consistent  with  one  of  its  key 
+objectives – improving risk management – and should in no way interfere with institutions' 
+efforts to meet the process and system requirements in the U.S. final rule.  
+The Basel Committee's enhancements, which it outlined in an April 16 press release,2 are 
+intended to improve Basel II's ability to make the banking system more resilient to financial 
+shocks.  For  one,  the  Committee  will  revise  the  framework  to  establish  higher  capital 
+requirements 
+for  certain  complex  structured  credit  products,  such  as  so-called 
+"resecuritizations" or collateralized debt obligations (CDOs) of asset-backed securities, which 
+have been the source of many losses during the recent market disturbances. There are also 
+plans to strengthen the capital treatment of liquidity facilities extended by banks to support 
+off-balance sheet vehicles such as asset-backed commercial paper conduits.  
+Furthermore,  the  Committee  will  strengthen  the  capital  requirements  in  the  trading  book, 
+given the large growth in trading-book assets and the wide range of instruments held there, 
+some  of  them  quite  complex  and  less  liquid. The  current  value-at-risk  based  treatment  for 
+assessing capital for trading book risk is limited in its ability to capture extraordinary events 
+that can affect many complex and less liquid exposures. The Committee is working with the 
+International  Organization  of  Securities  Commissions  (IOSCO)  on  an  interim  treatment  for 
+certain  instruments  held  in  the  trading  book,  such  as  complex  securitizations,  and  will 
+conduct further analysis to determine a suitable longer-term approach.  
+The  Committee  plans  to  issue  Pillar  2  guidance  in  a  number  of  areas  to  help  strengthen 
+banks' practices and help them better prepare for financial shocks that could affect capital 
+adequacy.  Areas  under  consideration  include  proper  asssessment  of  the  risks  from  off-
+balance sheet exposures and securitizations, as well as the need to address reputational risk 
+and apply proper stress testing. These efforts relating to Pillar 2 are certainly in line with my 
+earlier  comments  that  bankers  must  understand  the  limitations  of  their  more  formal  risk 
+models, and think creatively to ensure that they have captured all risks and addressed them 
+appropriately.  
+Going forward, the Committee will monitor Basel II minimum requirements and capital buffers 
+to  evaluate  their  appropriateness.  It  will  also  assess  banks'  internal  capital  management 
+processes  and  associated  risk  management  practices.  This  oversight  will  be  particularly 
+important  given  some  of  the  breakdowns  in  risk  management  at  institutions  over  the  past 
+year  and  the  associated  pressures  on  capital  ratios.  The  Committee  is  also  working  to 
+promote better disclosures by banking organizations under Pillar 3. 
+Standardized approach in the United States 
+As a final point, I would like to mention that U.S. agencies plan, fairly soon, to publish for 
+public comment a set of proposed rules that would provide an optional capital framework – 
+                                                 
+2   Basel  Committee  on  Banking  Supervision  announcement  on  strengthening 
+http://www.bis.org/press/p080416.htm. 
+the  banking  system, 
+BIS Review 59/2008 
+ 5
+known  as  the  standardized  approach  –  for  those  banks  not  subject  to  the  advanced 
+approaches  of  Basel  II.  The  proposed  standardized  approach  would  help  increase  risk 
+sensitivity and foster competitive equity. Since we have not yet formally issued the proposed 
+rules for public comment, I will provide just a brief overview on aspects of the proposal that 
+the agencies have already discussed publicly.  
+The proposed U.S. standardized approach will be based on the approach of the same name 
+in  the  international  Basel  II  framework,  modified  in  some  areas  to  suit  the  U.S.  banking 
+system. The standardized approach would enhance risk sensitivity by increasing the number 
+of  risk-weight  categories  to  which  a  bank  would  assign  credit  exposures.  It  also  would 
+increase  capital  requirements  for  certain  off-balance  sheet  exposures,  such  as  liquidity 
+commitments,  and  allow  for  broader  recognition  of  credit  risk  mitigants,  such  as  collateral 
+and  guarantees.  In  addition,  the  approach  will  include  a  specific  capital  requirement  for 
+operational risk.  
+Banks  not  required  to  adopt  the  Basel  II  advanced  approaches  are  facing  a  choice  about 
+whether to opt-in to them. Some of these banks may be sophisticated institutions that exhibit 
+sound risk management, but they might not wish to undertake the extensive effort to meet 
+the advanced approaches of Basel II. The agencies recognize that such institutions should 
+be afforded an alternative to more-risk-sensitive capital requirements, one not as complex as 
+the advanced approaches. Therefore, the proposal is being developed as an optional risk-
+based  capital  framework  for  all  banking  organizations  not  required  to  adopt  the  Basel  II 
+advanced  approaches.  We  plan  to  retain  our  existing  Basel  I-based  regulatory  capital 
+framework for those banks that would prefer to remain under that regime.  
+I encourage all interested parties to review and comment on this proposal once it has been 
+issued.  We  are  keenly  aware  of  the  need  for  capital  requirements  to  make  sense  from  a 
+standpoint that considers safety, soundness, and competitiveness; we recognize that a one-
+size-fits-all  approach  is  probably  not  the  best  for  our  banking  system,  in  light  of  our  wide 
+range of institutions. We remain sensitive to the principle that if we have multiple regulatory 
+capital  frameworks  they  must  work  together  to  support  the  safety  and  soundness  of  our 
+entire banking system without artificially creating competitive inequalities. 
+Conclusion 
+My remarks today have focused on the risk management aspects of Basel II, with particular 
+emphasis  on  operational  risk.  Events  of  the  past  year  have  shown  that  institutions  should 
+never let their guard down when it comes to risk management. Even though most of the high-
+profile losses during the past year have – so far – stemmed from market and credit risks, one 
+should  not,  therefore,  assume  that  less  attention  should  be  paid  to  operational  risk 
+management.  The  Basel  II  capital  framework  is  a  positive  step  forward  through  its 
+combination of more risk-sensitive capital requirements with strong incentives for improved 
+risk management. In this manner, we expect Basel II to make the U.S. banking industry more 
+resilient in the face of future financial turbulence and generally more safe and sound.  
+6 
+ BIS Review 59/2008

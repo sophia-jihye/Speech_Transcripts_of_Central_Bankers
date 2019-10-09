@@ -1,0 +1,178 @@
+Yves  Mersch:  Digital  Base  Money  -  an  assessment  from  the
+European Central Bank's perspective
+Speech by Mr Yves Mersch, Member of the Executive Board of the European Central Bank, at
+the  Farewell  ceremony  for  Mr  Pentti  Hakkarainen,  Deputy  Governor  of  the  Bank  of  Finland
+(Suomen Pankki), Helsinki, 16 January 2017.
+ We are living in digital times. The internet and portable online devices have radically transformed
+the way we use and exchange information, and the way we exchange money. Money has been
+digitalised in many ways and we can now, for instance, transfer bank deposits electronically and
+pay with e-money.
+Today I will focus on one type of digital money – Central Bank Digital Currency, or Digital Base
+Money  (DBM).  This  is  money  that  is  characterised  by  two  features:  (1)  like  banknotes  in
+circulation, DBM is a claim on the central bank; (2) in contrast to banknotes, it is digital.
+Of  course,  DBM  already  exists.  Commercial  banks  and  some  other  types  of  institution  hold
+digital  claims  on  central  banks  in  the  form  of  deposits.  But  there  has  been  more  recent
+discussion about whether central banks should provide DBM to a wider range of counterparties,
+allowing  non-banks,  including  households,  to  hold  accounts  at  the  central  bank.  The  People’s
+Bank of China, the Bank of England and Sveriges Riksbank have published on this topic or have
+indicated that they are conducting some work on it.
+I see two main reasons why this discussion on DBM has been started.
+First,  electronic  payments  have  become  increasingly  popular.  There  are  already  a  number  of
+electronic payment methods provided by the financial industry, such as credit, debit and pre-paid
+cards. But these methods are based on commercial bank money and people may prefer to hold
+claims  on  the  central  bank  to  avoid  the  risk  that  the  commercial  bank  defaults.  From  this
+perspective, an increasing demand for DBM could emerge.
+Second,  some  technological  developments  may  now  render  the  introduction  of  DBM  much
+easier  and  potentially  less  expensive  than  ten  years  ago.  This  includes  Distributed  Ledger
+Technology, or DLT, a variant of which is used for Bitcoin.
+These are good reasons to start a discussion on DBM and for research to understand better the
+options available for DBM and their implications for central banks in fulfilling their mandates. In
+some  European  countries,  for  instance  in  Sweden  and  Denmark,  electronic  payments  have
+started crowding out the use of cash. This may give the discussion an additional drive. In the
+euro area, however, we do not see a trend away from cash. By contrast, in recent years the
+growth in demand for banknotes in the euro area has by far exceeded that of economic output.
+For the ECB, the discussion is therefore mainly an analytical one. The ECB would in particular
+have to understand the impact – positive or negative – of DBM on our primary objective of price
+stability before considering introducing it. Moreover, any value judgement on DBM needs to be
+assessed  against  a  number  of  high-level  principles,  namely  (1)  technological  safety,  (2)
+efficiency,  (3)  technological  neutrality,  and  (4)  freedom  of  choice  for  users  of  means  of
+payments.
+Today, I would like to outline some of the various options for designing, issuing and managing
+DBM, and discuss some of their potential consequences. This will not be an exhaustive list, but it
+can give first insights into the complexity of the issue at hand.
+ 1 / 4
+BIS central bankers' speeches
+Account-based versus value-based Digital Base Money
+Let me start with a primarily legal dimension, which is the distinction between account-based and
+value-based DBM. Current DBM in the form of commercial bank deposits at the central bank is
+account based. A transfer of DBM from one bank to another reaches finality when the funds are
+debited from the account of the payer and credited to the account of the payee. The central bank
+is directly involved, as it registers the transfer.
+Cash is different: it is value based and accounts are not involved. A transfer of cash is final when
+the payer hands the cash over to the payee. The central bank does not register transfers of cash,
+only the initial issuance and the final return.
+DBM held by non-banks could either be account-based – in this case, the central bank would
+open an account for every interested non-bank – or it would be value-based like cash. In this
+case, interested non-banks would need to be equipped with electronic wallets for holding and
+using DBM. A transfer of DBM would require that the funds be debited from the payer’s electronic
+wallet and credited to the payee’s device without the involvement of the central bank.
+Whether  DBM  is  account  based  or  value  based  might  matter  for  several  reasons.  Let  me
+mention  two.  First,  value-based  and  account-based  DBM  may  require  very  different  types  of
+technology with specific safety features and costs. DLT may be fit for both, but in different ways.
+Second, anonymity towards the central bank can be achieved only with value-based DBM. These
+factors may influence the demand for DBM by non-banks and whether DBM would be used more
+to substitute cash or bank deposits.
+Options for providing DBM
+With that distinction in mind, let me now turn to the way DBM could be provided to non-banks.
+A  straightforward  approach  would  be  to allow  non-banks  to  convert  commercial  bank
+deposits into DBM at a rate of 1 to 1. As cash can always be paid into a bank account, this
+would of course also allow non-banks to convert cash into DBM.
+It may be argued that with such an approach bank runs could unfold more easily and faster. Non-
+banks  could  react  to  bad  news  about  a  certain  bank  by  quickly  switching  their  deposits  into
+default-free DBM – there would be no need to keep the cash under the mattress. This would
+counteract  important  regulatory  efforts  to  reduce  excess  volatility  in  the  movement  of  funds
+between types of investment
+Yet it is already easy to switch deposits from a bank hit by bad news to another commercial bank
+that  is  perceived  as  safe,  so  I  don’t  see  an  additional  risk  of  bank  runs  in  the  event  of  an
+idiosyncratic banking event. The situation would be different in a systemic banking crisis, though.
+If depositors perceived the entire commercial banking sector as fragile, a sector-wide run might
+be made more likely and severe by DBM, negatively impacting the efficiency of financial markets.
+Depending on how attractive DBM is for non-banks, a more gradual substitution of commercial
+bank deposits by DBM is of course possible too. This could have different effects on commercial
+banks. For example, commercial banks with excess central bank reserves could reduce their
+excess reserves when they experience a DBM-induced deposit outflow. This could increase their
+profitability in the current situation, as deposits bear a higher interest rate than excess reserves.
+But banks without excess central bank reserves might need to replace deposits by central bank
+credit. They would need to provide more collateral to the central bank. And the interest rate to be
+paid on central bank credit may, at least in normal times, be higher than the average rate on
+customer deposits. The profitability of these banks might suffer. A consequence could be higher
+interest  rates  on  bank  loans.  These  effects  may  require  an  adjustment  of  central  bank  policy
+ 2 / 4
+BIS central bankers' speeches
+rates and could make monetary policy more difficult until a new steady state is reached.
+More restrictive approaches to providing DBM may also be considered. For example, the central
+bank could provide DBM to non-banks exclusively in the context of asset purchases. That would
+mean that, to obtain DBM, non-banks would need to sell certain assets to the central bank. They
+would not be able to convert commercial bank deposits or cash into DBM directly.
+With this more restrictive approach, the central bank would keep the amount of DBM under its full
+control. It would decide how much assets it would buy. Bank runs or gradual outflows of deposits
+from commercial banks would not be induced.
+However,  this  approach  would  create  some  difficult  policy  decisions  for  central  banks.  Which
+assets should be purchased, how much and at which prices? If the demand for DBM was high
+relative  to  the  amount  of  DBM  the  central  bank  would  like  to  provide,  two  different  prices  for
+eligible assets could emerge: a market price in trades between two market participants; and a
+price below the market price when the same assets are sold to the central bank against DBM. As
+a  consequence,  DBM  would  be  worth  more  than  cash  and  commercial  bank  deposits.  DBM
+would  truly  be  a  currency  on  its  own.  The  central  bank  would  be  the  issuer  of  two  different
+currencies, an outcome that does not seem to be in line with fundamental ECB principles.
+If the central bank wanted to avoid such a situation, it would either need to increase the amount
+of DBM it provides or make DBM less attractive, for example by lowering the remuneration of
+DBM. I will come to this later.
+Given  these  challenges,  the  more  straightforward  approach  which  would  allow  non-banks  to
+convert bank deposits directly into DBM at a rate of 1 to 1 may therefore appear more attractive,
+provided that non-banks mainly substitute cash rather than bank deposits with DBM. As long as
+DBM  mainly  replaces  cash,  negative  side  effects  of  DBM  might  be  unlikely.  In  this  context,
+consideration could be given to making DBM as cash-like as possible, at least initially, until more
+experience is gained.
+Remuneration of DBM
+This brings us to the next important question: how should the central bank remunerate DBM held
+by non-banks?
+For the euro area, one option could be to remunerate DBM at the same rate as excess central
+bank reserves held by commercial banks, i.e. at the rate on the deposit facility. This would mean
+applying a policy rate directly to funds held by non-banks. This could potentially strengthen the
+transmission of monetary policy rate decisions to the economy.
+The deposit facility rate is currently –0.4%. At this interest rate, demand for DBM may be low. But
+in normal times, when it is positive, remunerating DBM at the deposit facility rate may be risky. It
+could make it too attractive to convert commercial bank deposits into DBM. As I argued a few
+minutes ago, this could have negative side effects.
+An alternative option would then be to remunerate DBM at a rate of 0%. This is the rate at which
+cash  (i.e.  banknotes  and  coins)  is  de  facto  “remunerated”.  With  a  rate  of  0%,  non-banks  are
+unlikely to convert commercial bank deposits or cash into DBM if their motive is only to obtain a
+better remuneration. Even in times of negative central bank rates, retail bank customers rarely
+receive a negative remuneration on commercial bank deposits.
+Even so, a 0% interest rate on DBM held by non-banks is not without policy risks. If banks have
+large amounts of excess central bank reserves remunerated at a negative rate, they could try to
+find  ways  of  replacing  their  excess  reserves  by  DBM,  such  as  by  setting  up  a  non-bank
+subsidiary. This may counteract monetary policy.
+ 3 / 4
+BIS central bankers' speeches
+If the central bank considered this risk important, it could combine the two approaches I have
+mentioned  so  far.  It  could  remunerate  DBM  held  by  non-banks  at  a  rate  of  0%,  if  the  deposit
+facility rate is positive. And if it is negative, we could remunerate at the deposit facility rate. This
+may, however, entail strong movements out of DBM when the deposit facility rate turns negative.
+Moreover, there is a risk that a negative remuneration of claims of non-banks on the central bank
+would substantially undermine the confidence in the central bank.
+Technology for DBM
+Finally,  let  me  mention  the  technological  dimension  of  DBM.  I  said  that  one  reason  why  the
+discussion on DBM for non-banks has started is that we now have technologies that could make
+it easier to issue DBM. This includes, in particular, Distributed Ledger Technology (DLT). DLT
+carries  great  potential,  but  is  it  already  advanced  enough  to  be  applied  by  central  banks?
+Reputation  is  crucial  for  central  banks.  We  cannot  afford  mistakes  in  the  technologies  we
+employ. Before the central bank can start providing DBM to non-banks, we need to be sure not
+only  that  DBM  is  unlikely  to  have  negative  economic  side-effects,  but  also  that  the  relevant
+systems are operationally efficient and safe.
+But  we  should  not  be  dogmatic,  either.  If  a  more  efficient,  but  absolutely  safe,  technology  for
+central banking operations can be found, introducing it could reduce costs for both the central
+bank and users, and therefore for society as a whole.
+Conclusions
+Let me conclude.
+There are many ways to design DBM for non-banks. The different options have potential impacts
+– both positive and negative – that need to be studied and considered carefully. Only when the
+best way of designing DBM has been identified, can a decision be made as to whether DBM of
+non-banks  should  be  introduced  at  all.  The  most  important  question  for  the  ECB  is  whether
+introducing a DBM would affect our ability to honour our mandate. The impact may be negative if
+non-banks replace commercial bank deposits with DBM to a significant extent. More generally,
+any materialisation of DBM would have to be assessed against four principles: (1) technological
+safety, (2) efficiency, (3) technological neutrality, and (4) freedom of choice for users of means of
+payments.
+As there has been some speculation about a possible intention of central banks to abolish cash,
+please let me stress one aspect relating to the principle of freedom of choice: if DBM for non-
+banks were introduced, it would exist alongside cash for the foreseeable future. It would merely
+be an additional option for non-banks to hold funds. In particular, those who are sceptical about
+digital devices would naturally continue to use cash.
+Even where efficiency gains are possible when people substitute some of the cash for DBM, this
+would still require that the technology used for DBM be operationally reliable and secure against
+attacks. Technological feasibility and cost considerations alone will not change our mandate.
+Thank you!
+ 4 / 4
+BIS central bankers' speeches

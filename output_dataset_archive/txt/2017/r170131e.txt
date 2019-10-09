@@ -1,0 +1,61 @@
+Carl-Ludwig  Thiele:  Industry  Dialogue  on  "Distributed  ledger
+technology - potential benefits and risks"
+Introductory  statement  by  Mr  Carl-Ludwig  Thiele,  Member  of  the  Executive  Board  of  the
+Deutsche Bundesbank, at the G20 conference &quot;Digitising finance, financial inclusion and
+financial literacy&quot;, Wiesbaden, 26 January 2017.
+ Mr von Weizsäcker,
+Ladies and gentlemen
+Whenever a technical topic attracts as much media attention as blockchain technology has, it
+must mean it’s something special, especially considering the topic itself is not an easy one.
+It’s safe to say that there is much anticipation surrounding distributed ledger technology – some
+feelings  of  hope,  some  of  fear. And  the  influence  this  technology  is  likely  to  have  extends  far
+beyond the financial sector.
+The Deutsche Bundesbank  operates  large  financial  market  infrastructures  and  also  develops
+these further in line with technological advances. For this reason, we need to be aware of the
+potential benefits and risks of this technology early on.
+Together with Deutsche Börse, we have developed a preliminary prototype for blockchain-based
+settlement.
+This prototype has the following capabilities:
+Settling payments based on blockchain technology,
+Transferring securities,
+Processing  basic  delivery-versus-payment  transactions,  where  securities  purchases  are
+settled and paid for simultaneously, and
+Processing basic corporate actions, such as coupon payments on bonds and redemptions
+of maturing securities.
+The aim of the project is to learn, step by step:
+How blockchain technology works,
+How secure and reliable blockchain-based transactions are,
+Which factors affect the costs of blockchain-based transactions,
+How efficient and effective blockchain-based processes are, and
+How existing processes may be improved using blockchain technology.
+One of the key points here is increasing process efficiency. By using a shared data pool across
+all  entities  concerned,  it  should  be  possible  to  standardise  and  simplify  some  of  the  overly
+complicated transaction monitoring processes we have today. In addition, a shared data pool in
+combination  with  a  flexible  access  rights  concept  would,  for  example,  also  establish  the
+conditions in which the relevant regulatory reporting and internal audit requirements could be met
+with reduced effort and designed more securely.
+We opted for a concept based on a Hyperledger blockchain. The most important considerations
+for us when designing the Hyperledger-based prototype were:
+ 1 / 2
+BIS central bankers' speeches
+Having a closed – or “permissioned blockchain” – network, where only authorised users can
+transact on our blockchain network.
+Confidentiality and responsibility – we believe that even in the future, financial transactions
+will continue to be governed by today’s standards as far as confidentiality and acceptance of
+responsibility  for  effected  transactions  go.  That’s  why  each  individual  transaction  is
+encrypted, along with the identities of the transacting parties.
+Our  conceptual  study  shows  that  blockchain  technology  can  be  adapted  to  meet  the  current
+needs  and  requirements  of  the  financial  system.  The  prototype  works.  Having  said  that,  its
+further development for mass use is still presenting many challenges.
+The conceptual study is far from being market-ready. We are currently only at the preliminary
+stage with a test application, with which we are able to simulate large-volume delivery-versus-
+payment securities transactions.
+At  this  point,  we  are  unable  to  say  whether  this  application  can  be  adapted  for  mass  use  or
+whether this is even a viable option in terms of costs.
+So, to summarise: our joint project has seen the development of an elementary, but functional,
+blockchain-based application, which caters to the basic requirements of the financial sector.
+With  this  as  our  starting  point,  we  aim  to  develop  a  technically  more  sophisticated  prototype,
+capable of providing information on technical performance and thus allowing comparison with our
+present settlement infrastructure.
+ 2 / 2
+BIS central bankers' speeches

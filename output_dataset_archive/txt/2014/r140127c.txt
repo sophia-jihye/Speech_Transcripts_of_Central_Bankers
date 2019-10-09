@@ -1,0 +1,160 @@
+Benoît Cœuré: Risks in Central counterparties (CCPs) 
+Speech by Mr Benoît Cœuré, Member of the Executive Board of the European Central Bank, 
+at  the  policy  panel  during  the  conference  “Mapping  and  Monitoring  the  Financial  System: 
+Liquidity,  Funding,  and  Plumbing”,  organised  by  the  Office  of  Financial  Research  and 
+Financial Stability Oversight Council, Washington DC, 23 January 2014.  
+ I would like to thank Andreas Schönenberger for his contribution. I remain solely responsible for the opinions contained 
+herein. 
+Accompanying  slides  can  be  found  on  the  European  Central  Banks’  website:  http://www.ecb.europa.eu/press/-
+key/date/2014/html/sp140123_1.en.pdf. 
+Ladies and Gentlemen, 
+I am delighted to participate in this policy panel today on a topic of high importance to the 
+ECB from the perspective of monetary policy implementation, financial stability, and banking 
+supervision. 
+Central  counterparties  (CCPs)  play  a  key  role  in  the  financial  markets  by  managing  and 
+structuring  a  complex  web  of  counterparty  risk.  As  such,  risks  in  CCPs  are  of  interest  to 
+CCPs themselves, their clearing members and the regulators who supervise them. 
+What I would like to do in my brief introductory remarks is therefore not only to focus on the 
+risks in CCPs, but also and importantly on the risk of CCPs. 
+The  growing  importance  of  CCPs  certainly  brings  a  number  of  important  benefits  that 
+alternative  bilateral  arrangements  could  not  do  to  the  same  extent.  However,  the  rise  of 
+central clearing may also be accompanied by some unintended side effects that need to be 
+addressed. 
+The growing importance of central clearing 
+First,  however,  let  me  illustrate  the  growing  importance  of  central  clearing  on  the  basis  of 
+some figures [Slide 2]. The figures show the importance of CCPs already today for interest 
+rate and credit derivatives in Europe. There are also CCPs for cash products and the role 
+these CCPs would play for collateral pools of triparty repos is of increasing importance. 
+With  the  forthcoming  implementation  of  the  central  clearing  requirement  for  standardised 
+OTC derivatives contracts, the volume of transactions cleared by a CCP will rise significantly 
+also  in  that market  segment  over the  coming  years  [Slide 3].  A  recent  quantitative  impact 
+study  run  by  the  Working  Group  on  Margining  Requirements  of  the  Basel  Committee  on 
+Banking Supervision (BCBS) and the International Organization of Securities Commissions 
+(IOSCO)  estimated  that  the  global  volume  of  centrally  cleared  OTC  derivatives  could  rise 
+from  a  notional  value  of  USD  142.7  trillion,  or  around  28%  of  OTC  derivatives  traded,  to 
+USD 268  trillion  after  migration  to  the  clearing  requirement,  or  53%  of  OTC  derivatives 
+traded. All these figures quite forcefully demonstrate the increasing systemic importance of 
+CCPs. 
+Now, why is there such a push for central clearing and what does that mean from a systemic 
+risk perspective? 
+Central clearing: benefits and side effects 
+I  see  four  main  benefits  that  explain  the  market-driven  and  regulatory  push  for  central 
+clearing [Slide 4]. 
+BIS central bankers’ speeches 
+ 1 
+First, CPPs overcome information asymmetries that typically exist in marketplaces, especially 
+markets with a big number of heterogeneous players. CCPs allow participants to trade with 
+one a single counterparty (the CCP), which greatly facilitates the due diligence efforts and 
+risk management burden that counterparties normally face. 
+Second,  CCPs  offer  state-of-the-art  margining  and  risk  management  methods  that  do  not 
+exist to the same extent in the bilateral world, which either relies on standardised margining 
+methods that are not very risk-sensitive or on bank-internal margining models that may not 
+necessarily meet the same high standards that CCPs are required to meet. 
+Third,  by  introducing  default  and  clearing  funds,  CCPs  are  able  to  mutualise  losses  in  a 
+transparent and predictable way, which makes it easier for financial markets to handle huge 
+losses and liquidity shortfalls that may occur in catastrophic events. By carefully designing 
+their risk management framework, CCPs can help to ensure that losses fall predictably on 
+those who are better able to cope with them. More generally, central clearing introduces ex 
+ante  transparency  and  therefore  certainty,  provided  that  the  rules  are  clear  and  well 
+understood by market participants. 
+Finally, and most importantly, central clearing allows for the multilateral netting of exposures 
+so that a given level of risk protection can be achieved with a smaller amount of collateral, or 
+vice versa, a given amount of collateral can achieve a higher level of risk protection. 
+Notwithstanding the numerous benefits of central clearing, the rise of central clearing may be 
+associated with a number of side effects [Slide 5]. 
+First, risk concentration within CCPs will grow, both nationally and internationally. CCPs are 
+increasingly  turning  into  institutions  of  unprecedented  systemic  importance.  Their  failure 
+could  lead  to  very  serious  systemic  disruptions,  which  is  why  not  only  sound  risk 
+management, but also an effective recovery and resolution regime for CCPs is key. 
+Second,  a  growing  number  of  banks  will  participate  in  key  CCPs  across  the  globe.  It  is 
+essential  that  the  financial  institutions  that  participate  in  and  rely  on  CCPs  are  able  to 
+conduct  effective  due  diligence  to  understand  the  risks  they  face  as  members  and  take 
+appropriate steps to mitigate those risks. 
+Third, owing to mutualisation, losses and liquidity shortfalls in the event of a member default 
+may  spread 
+further  driven  by 
+interdependencies  of  changing  complexity.  These  can  exist  between  CCPs  and  other 
+financial institutions, for example, through interoperability arrangements. Note that the same 
+large 
+increase 
+interdependencies even in the absence of interoperability. 
+Finally, existing differences in regulation may lead to regulatory arbitrage and potentially to a 
+race  to  the  bottom.  Moreover,  the  use  of  a  centralised  infrastructure  depends,  in  some 
+instances,  on  exemptions  from registration  or  the  application  of  equivalence  or  substituted 
+compliance  with  foreign  infrastructures.  Where  foreign  CCPs  cannot  be  used,  compliance 
+with mandatory clearing under domestic laws may inhibit cross-border transactions. 
+institutions,  being  clearing  members  of  many  CCPs, 
+to  other  participants.  Crisis  propagation  may  be 
+financial 
+New risks related to central clearing 
+The globalisation process has triggered a trend towards global clearing that in itself may lead 
+to further unintended consequences and may create new risks [Slide 6]. The trend towards 
+increasingly large global CCPs is similar in nature to that of horizontal integration which the 
+Committee  on  Payment  and  Settlement  Systems  (CPSS)  looked  at  in  greater  detail  in  a 
+2 
+ BIS central bankers’ speeches 
+report of 20101, concluding that larger global CCPs may have certain advantages, but may 
+also lead to systemic risks, reduced benefits of central clearing, and regulatory frictions. 
+Moreover, it appears that for many banks, indirect access is their preferred way to get access 
+to clearing services so as to comply with the clearing obligation. Client clearing seems thus 
+to  be  dominated  by  a  few  large  global  intermediaries.  A  factor  contributing  to  this 
+concentration may be higher compliance burdens, where only the very largest of firms are 
+capable  of  taking  on  cross-border  activity.  This  concentration  creates  a  higher  degree  of 
+dependency on this small group of firms. 
+There  are  also  concerns  about  client  access  to  this  limited  number  of  firms  offering  client 
+clearing  services.  For  example,  there  is  some  evidence  of  clearing  firms  “cherry  picking” 
+clients, while other end-users are commercially unattractive customers and hence unable to 
+access centrally cleared markets. 
+These are all developments that I believe the international regulatory community may wish to 
+carefully monitor and act on as and when needed. 
+The consequences of regulatory reforms 
+There  are  a  number  of  (sometimes  unintended)  consequences  of  regulatory  reforms  that 
+CCPs, regulators, and clearing banks need to respond to [Slide 7]. 
+First, perhaps most obviously, the growing reliance and importance of CCPs calls for higher 
+risk management standards, which has led to the revision of the CPSS-IOSCO Principles for 
+financial  market  infrastructures,  specifying  a  number  of  new  and/or  more  demanding 
+requirements for CCPs2. 
+Second, it is essential that the financial institutions that participate in and rely on CCPs are 
+able to conduct effective due diligence to understand the risks they face as members and 
+take appropriate steps to mitigate those risks. It is very welcome therefore that the Payments 
+Risk Committee issued last year their “Recommendations for Supporting Clearing Member 
+Due Diligence of Central Counterparties”3, which complement CPSS-IOSCO new quantitative 
+disclosure  requirements.  It  is  also  important  that  banks  are  subject  to  strict  capital  and 
+liquidity  requirements  on  their  exposures  to  CCPs,  while  at  the  same  time  preserving  the 
+incentives for central clearing. 
+Third, given the dramatic consequences that a CCP default would have for financial stability, 
+it is vital that there are robust recovery and resolution regimes for CCPs. The CPSS-IOSCO 
+and Financial Stability Board (FSB) have made good progress to that end. 
+Fourth, it is important to react swiftly to any structural developments that may cause systemic 
+disruption.  The  FSB  and  the  standard-setting  bodies,  in  particular  the  CPSS,  continuously 
+monitor any such developments to that end. 
+Finally, I would not exclude that there could be a need for further adaptations and guidance 
+on  some  selected  regulatory  requirements  for  CCPs  if  needed  to  ensure  cross-border 
+consistency in regulation. In addition to the recognition processes by individual jurisdictions, 
+the  ongoing  monitoring  by  the  CPSS-IOSCO  of  the  implementation  of  the  Principles  for 
+                                                
+1   See  Committee  on  Payment  and  Settlement  Systems,  “Market  structure  developments  in  the  clearing  industry: 
+implications for financial stability”. Report of the Working Group on Post-Trade Services. November 2010. 
+2   See  Committee  of  Payment  and  Settlement  Systems,  “Principle  for  Financial  Market  Infrastructures”,  April  2012. 
+http://www.bis.org/publ/cpss101.htm. 
+3   See  Payments  Risk  Committee,  “Recommendations  for  Supporting  Clearing  Member  Due  Diligence  of  Central 
+Counterparties”, 5 February 2013. 
+BIS central bankers’ speeches 
+ 3 
+financial market infrastructures provides an opportunity to identify possible inconsistencies at 
+a global level4. 
+Conclusion 
+Let me conclude [Slide 8]. 
+The trend towards more central clearing is welcome and needed as it helps to manage risks 
+better  than  bilateral  clearing  could.  However,  the  greater  use  of  CCPs  concentrates  and 
+redistributes risks and may even create new risks. 
+Much  progress  has  been  achieved  by  CCPs,  banks  and  authorities  to  ensure  high  risk 
+management standards of CCPs and enable clearing members to conduct due diligence. It 
+strikes me however that further efforts are needed to be able to cope with CCP default, to 
+address  risks  associated  with  changes  in  market  structures,  and  to  remove  cross-border 
+differences in regulation where needed. 
+I thank you for your attention. 
+                                                
+4   See “CPSS: Implementation monitoring of standards”, http://www.bis.org/cpss/cpssinfo2_5.htm. 
+4 
+ BIS central bankers’ speeches 

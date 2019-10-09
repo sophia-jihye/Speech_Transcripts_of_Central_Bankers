@@ -20,7 +20,6 @@ end_year = params['end_year']
 
 bis_wo_content_dict_pkl_filename_prefix = params['bis_wo_content_dict_pkl_filename_prefix']
 bis_w_content_csv_filepath = params['bis_w_content_csv_filepath']
-bis_w_content_pkl_filepath = params['bis_w_content_pkl_filepath']
 
 create_dirs = [output_base_dir, pdf_dir, pkl_dir, txt_dir, err_dir, err_web2pdf_dir, err_pdf2txt_dir]
 
@@ -169,8 +168,6 @@ def main():
             continue
 
         save_txt(os.path.join(txt_dir, filename_only + ".txt"), _whole_txt)
-
-    end_dict_pkl(start, bis_w_content_dict, bis_w_content_pkl_filepath)
 
     # Step3) *FINAL.pkl -> .csv
     write_dict2csv(bis_w_content_dict, bis_w_content_csv_filepath, column_list)

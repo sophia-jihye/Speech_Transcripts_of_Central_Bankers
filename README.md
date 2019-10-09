@@ -13,14 +13,24 @@ Target webpage에 접속하여 스크랩핑하는 대상 파일은 `.pdf` 파일
 * 위 Target webpage에 접속하여
     - HTML 정보로 출력되고 있는 메타데이터('date', 'pdf_url', 'title', 연설 장소 등이 담겨있는 'short_info')를 스크랩핑하여 Python `dict` 오브젝트에 저장합니다.
     - 메타데이터가 담긴 Python 'dict' 오브젝트를, 분기별로 그룹핑하여 `.pkl` 파일로 만들어, `scraped_data/pkl` 디렉토리에 저장합니다. (예기치 못한 네트워크 이슈로 인해 갑자기 프로세스가 중단될 경우를 대비하여 하나의 `.pkl`이 아닌 분기별 `.pkl` 파일 각각 저장되도록 하였습니다.)
-    - `.pdf` 포맷으로 공개되어있는 연설문 텍스트 데이터를 스크랩핑하고, 스크래핑한 `.pdf` 파일들을 `scraped_data/pdf` 디렉토리에 저장합니다.
+    - `.pdf` 포맷으로 공개되어있는 연설문 텍스트 데이터를 스크랩핑하고, 스크랩핑한 `.pdf` 파일들을 `scraped_data/pdf` 디렉토리에 저장합니다.
 * `scraped_data/pkl` 디렉토리 내에 있는 `.pkl` 파일들을 모두 merge하여 하나의 최종 Python 'dict' 오브젝트로 만듭니다.
 * `scraped_data/pdf` 디렉토리 내 `.pdf` 파일을 하나씩 처리하며 텍스트를 추출하여
     - 추출한 텍스트를, `scraped_data/txt` 디렉토리 내에 `.txt` 파일로 저장합니다.
     - 추출한 텍스트를, 이전에 merge하여 만든 최종 Python 'dict' 오브젝트에 업데이트합니다.
 * 최종 Python 'dict' 오브젝트를
-    - `scraped_data/bis_w_content_FINAL.csv`로 저장합니다.
-    - `scraped_data/bis_w_content_FINAL.pkl`로 저장합니다.
+    - `scraped_data/bis_w_content_FINAL.csv`로 저장합니다. 
+    - 해당 csv에 저장되어 있는 데이터는 아래와 같은 내용을 저장하고 있습니다. 
+        - key : `scraped_data/pdf` 또는 `scraped_data/txt` 디렉토리 내 파일명과 매칭할 수 있는 key입니다.
+        - date : Target webpage에 게재된 메타정보로서, 해당 연설문이 Target webpage에 업로드된 날짜입니다.
+        - pdf\_url : Target webpage에 게재된 메타정보로서, 해당 연설문 데이터에 대한 .pdf 파일을 스크랩핑할 때 방문한 url입니다. 
+        - title : Target webpage에 게재된 메타정보로서, 해당 연설문의 제목입니다.
+        - short\_info : Target webpage에 게재된 메타정보로서, 연설자가 연설을 한 '장소', '날짜' 등의 정보를 담고있는 2-3 문장의 텍스트입니다.
+        - content: 해당 연설문 .pdf 파일로부터 추출한 텍스트입니다.
+    > | key           | date            | pdf\_url         | title          | short\_info        | content       |
+    |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|
+    | r970106         | 1997-01-06      | https://www.bis.org/review/r970106.pdf | Prof. Tietmeyer discusses the Bundesbank's commitment to .. | Translation of an article by the President of the Deutsche Bundesbank .. | Prof. Tietmeyer discusses the Bundesbank’s commitment to .. |
+
 
 ## Folder structure
 The following shows basic folder structure.

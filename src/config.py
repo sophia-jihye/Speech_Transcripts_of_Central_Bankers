@@ -5,7 +5,7 @@ from datetime import datetime
 bis_sleep = 0.5  # YOU CAN EDIT THIS SLEEP TIME
 base_dir = os.getcwd()   
 print('base_dir: ', base_dir)
-output_base_dir = os.path.join(base_dir, "output")   # YOU CAN EDIT THIS OUTPUT DIRECTORY PATH
+output_base_dir = os.path.join(base_dir, "scraped_data")   # YOU CAN EDIT THIS OUTPUT DIRECTORY PATH
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--start_year', type=int, default=1997)  # 1997

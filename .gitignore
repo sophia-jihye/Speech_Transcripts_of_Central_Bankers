@@ -1,8 +1,6 @@
 */.idea/*
 .idea/
 data/
-output/
-output_dataset_archive/
 *.egg-info/
 build/
 dist/

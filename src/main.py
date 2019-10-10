@@ -1,25 +1,25 @@
-from config import params
+from config import parameters
 from utils import *
 from datetime import datetime
 import time
 import os
 import re
 
-bis_sleep = params['bis_sleep']
-base_dir = params['base_dir']
-output_base_dir = params['output_base_dir']
-pdf_dir = params['pdf_dir']
-pkl_dir = params['pkl_dir']
-txt_dir = params['txt_dir']
-err_dir = params['err_dir']
-err_web2pdf_dir = params['err_web2pdf_dir']
-err_pdf2txt_dir = params['err_pdf2txt_dir']
+bis_sleep = parameters.bis_sleep
+base_dir = parameters.base_dir
+output_base_dir = parameters.output_base_dir
+pdf_dir = parameters.pdf_dir
+pkl_dir = parameters.pkl_dir
+txt_dir = parameters.txt_dir
+err_dir = parameters.err_dir
+err_web2pdf_dir = parameters.err_web2pdf_dir
+err_pdf2txt_dir = parameters.err_pdf2txt_dir
 
-start_year = params['start_year']
-end_year = params['end_year']
+start_year = parameters.start_year
+end_year = parameters.end_year
 
-bis_wo_content_dict_pkl_filename_prefix = params['bis_wo_content_dict_pkl_filename_prefix']
-bis_w_content_csv_filepath = params['bis_w_content_csv_filepath']
+bis_wo_content_dict_pkl_filename_prefix = parameters.bis_wo_content_dict_pkl_filename_prefix
+bis_w_content_csv_filepath = parameters.bis_w_content_csv_filepath
 
 create_dirs = [output_base_dir, pdf_dir, pkl_dir, txt_dir, err_dir, err_web2pdf_dir, err_pdf2txt_dir]
 

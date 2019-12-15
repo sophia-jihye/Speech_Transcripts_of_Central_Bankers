@@ -1,0 +1,188 @@
+Kevin Stiroh: Emerging issues for risk managers
+Introductory  remarks  by  Mr  Kevin  Stiroh,  Executive  Vice  President  of  the  Financial  Institution
+Supervision Group of the Federal Reserve Bank of New York, at the GARP Global Risk Forum,
+Federal Reserve Bank of New York, New York City, 7 November 2019.
+  Prepared for delivery
+Introduction
+Good morning and welcome to the GARP Global Risk Forum. The Federal Reserve Bank of New
+York has been collaborating with GARP on this forum for a decade and it is always a pleasure to
+participate.  This  discussion  provides  real-time  insight  into  critical  issues  at  the  center  of  the
+practice of risk management.
+A quick scan of today’s agenda highlights a number of topics of obvious importance—operational
+resilience,  cyclical  aspects  of  risk  management,  technology  and  big  data.  We  are  all  thinking
+about these issues, and I look forward to your insights.
+I’d  like  to  briefly  discuss  two  topics  where  I  expect  risk  managers  will  increase  their  focus  in
+coming years—climate change and the cultural aspects  of  digital  transformation.  Both  issues
+reflect potentially transformative trends for the economy and the financial system, and I believe
+they will take an increasing share of your bandwidth over the next decade. In both cases, the
+relevant questions from a supervisors’ perspective are: what new risks are introduced? How do
+firms manage them? And how do supervisors view them?
+Before  proceeding,  I  will  emphasize  that  I  am  speaking  for  myself  and  these  views  do  not
+necessarily  reflect  those  of  the  Federal  Reserve  Bank  of  New  York  or  the  Federal  Reserve
+System.
+Climate
+1
+The  U.S.  economy  has  experienced  more  than  $500  billion  in  direct  losses  over  the  last  five
+years  due  to  climate  and  weather-related  events.   In  addition,  climate  change  has  significant
+consequences for the  U.S. economy and financial sector through slowing productivity growth,
+2
+asset revaluations and sectoral reallocations of business activity.
+For  these  climate-related  risks,  a  new  lexicon  has  emerged. Physical risk  is  the  potential  for
+losses  as  climate-related  changes  disrupt  business  operations,  destroy  capital  and  interrupt
+economic activity. Transition risk is the potential for losses resulting from a shift toward a lower-
+carbon economy as policy, consumer sentiment and technological innovations impact the value
+of  certain  assets  and  liabilities.  These  effects  will  be  felt  across  business  sectors  and  asset
+classes, and on the strategies, operations and balance sheets of financial firms.
+Risk managers must be aware of these risks and develop the tools needed to identify, monitor
+and manage them appropriately. Physical and transition risks may manifest through traditional
+risk stripes such as credit, market, operational, legal and reputational risk, but today’s tools are
+not  necessarily  well-suited  for  the  unique  challenges  associated  with  climate  change.  Let  me
+mention three of these challenges.
+First, climate change is a long-term issue where actions today are likely to have an impact over
+many  decades.  This  exceeds  the  typical  life  span  of  a  bank  exposure,  as  well  as  the  typical
+1 / 4
+BIS central bankers' speeches
+control  and  planning  horizon  of  a  financial  institution.  Risk  management  tools,  models  and
+3
+scenarios  are  not  designed  to  capture  the  long-term  nature  of  climate-related  risks.
+Nonetheless, real impacts are already being felt and we must develop the tools to assess and
+manage them.
+Second, climate change is complex—the impacts are uncertain, non-linear and hard-to-predict.
+Trusted  credit  models,  for  example,  may  prove  less  useful  if  the  historical  patterns  of  the
+frequency  and  severity  of  weather-related  shocks  become  a  poor  guide  to  the  distribution  of
+future losses. Asset prices may move sharply, and unpredictably, as consensus views change
+and  future  impacts  are  priced  today.  Moreover,  transition  risks  may  stem  from  second-order,
+indirect effects like the impact on supply chains, sectoral shifts or worker productivity, which are
+inherently difficult to model and predict.
+Third, we face significant data gaps. Climate change is a global phenomenon, but risks should
+be  assessed  locally,  which  requires  new  data  such  as  asset-specific,  geo-spatial  data.
+Borrower-specific analysis requires data, for example, on asset utilization and climate effects for
+particular industries at particular locations. Such granular data is currently limited and requires
+significant  resources  to  acquire  and  process,  but  greater  transparency  about  the  physical
+location  of  assets  will  allow  institutions  to  better  assess  exposures  to  at-risk  borrowers  or  to
+specific geographic risks.
+As  supervisors,  we  can  consider  climate-related  risks  in  terms  of  both  microprudential  and
+macroprudential objectives. To be clear, in my view, supervisors should take a risk management
+perspective,  not  a  social  engineering  one.  It  is  beyond  our  mandate  to  advocate  or  provide
+incentives  for  a  particular  transition  path.  Rather,  supervisors  should  focus  on  the  risks  that
+emerge along the path decided by the public at large and their elected governments. Supervisors
+can  use  our  tools  to  ensure  financial  institutions  are  prepared  for  and  resilient  to  all  types  of
+relevant risks, including climate-related events.
+To  do  this,  we  must  continue  to  invest  in  research  to  better  understand  the  economic  and
+financial impact of climate-related events. For example, on Friday, the Federal Reserve Bank of
+San  Francisco  will  host  a  conference  on  the  economics  of  climate  change.  We  can  also
+continue to follow closely and learn from the approaches taken by other central banks, including
+the  use  of  scenario  analysis,  stress  testing  and  supervisory  expectations  to  encourage
+institutions to factor climate risk into their risk management practices. Finally, we can seek to
+strengthen the data and modeling capabilities we need to assess climate-related risks as part of
+our forward-looking, data-driven supervision.
+Given the far-reaching impact of climate risk on the structure of the economy and the financial
+sector,  I am confident that risk managers will respond appropriately and firms will continue to
+build resilience to all risks. GARP, for example, is exploring this and has recently surveyed its
+members  to  better  understand  professional  needs  for  “sustainability,  climate  risk,  and  ESG
+integration.”  I am interested to hear from all of you about how your institutions are developing
+tools and practices to integrate climate risk into your risk management frameworks.
+Innovation and Culture
+4
+It is no surprise to this audience that technological innovation, big data, and advanced analytics
+are transforming financial services. We can debate where we are on the maturity curve and what
+innovations are most likely to be transformative, but the direction of travel seems clear. I expect
+the  afternoon  session  on  “Technology,  Big  Data,  and  the  Practice  of  Risk  Management”  will
+address  core  issues  such  as  new  approaches  for  model  risk  management  in  a  world  of
+widespread  artificial  intelligence;  the  inherent  challenge  of  “explainability”  and  potential  bias  in
+algorithms; the strategic risks from new entrants; and the impact on human capital strategies.
+ 2 / 4
+BIS central bankers' speeches
+5
+I want to highlight a complementary, but different issue and focus on how firms manage these
+changes. More broadly, what type of corporate culture is needed to support a successful digital
+transformation?
+Over the past five years, the New York Fed has emphasized the importance of a healthy culture
+to reduce misconduct risk. In addition, I think there is likely a link between a firm’s culture and its
+ability to adapt to a changing environment, whether it is technological innovation, demographic
+change, new business models, or climate change. Firms need a culture that allows change and
+is resilient to these trends.
+In discussions of the impact of technology on financial services, for example, one extreme view
+is that new fintech entrants—either smaller start-ups or big-tech firms—will leverage technology
+and a customer-centric approach to disrupt the industry and outcompete stagnant incumbents,
+fundamentally transforming the industrial organization of financial services. An alternative, equally
+extreme  view,  is  that  incumbent  financial  firms  with  established  customer  bases,  scale,  vast
+quantities of data, and experience working in a regulated environment will “disrupt themselves”
+and maintain their central position in finance. The most likely outcome, as is typically the case, is
+somewhere in the middle, but change seems inevitable.
+If all firms face a strategic imperative to innovate and adapt, a relevant question is what types of
+firm-specific factors will determine success? Clearly, things like business model, technological
+expertise, and resources will matter. I think that firm culture will also matter.  And by culture, I
+mean the values and shared norms within a group that influence individual behavior, collective
+decision-making and outcomes.
+As firms innovate and transform how financial services are provided, I expect we’ll see the value
+of leadership from senior managers and boards as they outline the strategic case for change and
+exhibit  the  critical  behaviors  that  promote  it.  I  expect  we’ll  see  the  value  of  innovative
+environments where employees speak up, both raising new ideas and questioning assumptions.
+I expect we’ll see the value of cognitive diversity as firms tackle complex problems like a digital
+transformation from multiple perspectives.  I expect we’ll see the value of agility that facilitates
+product  innovation,  reprioritization,  constructive  partnerships,  or  the  successful  integration  of
+financial market specialists and technologists. Finally, I expect we’ll see the value of well-crafted
+incentives where employees are rewarded based on both “what” they do and “how” they do it.
+More broadly, I think firms with high levels of “cultural capital” will be more likely to successfully
+implement a digital transformation in a sustainable, prudent and responsible manner.  This is a
+central question for risk managers and supervisors because the evidence suggests that most
+large-scale transformations fail.   Just like firms, investors and supervisors consider execution
+risk when assessing bank mergers, I expect more attention will focus on culture and the change
+management risks associated with innovation and digital transformation.
+In  my  view,  the  official  sector  can  facilitate  this  transition.  The  2018  guidance  on  responsible
+8
+innovation  related  to  anti-money  laundering  and  terrorist  financing  is  a  good  example.
+Supervisors can also press on the governance and change management framework to promote
+effective  internal  oversight.  From  our  perspective,  supervisors  also  need  to  be  nimble  and
+develop the necessary skills to assess innovation as firms transform.
+While a firm’s culture is not directly observable, I believe this will prove to be a critical part of any
+change  initiative.  Technological  progress,  innovation,  and  new  models  of  competition  are
+changing the financial industry and there will undoubtedly be winners and losers. Understanding
+all  of  the  factors  that  drive  successful  transformations  will  be  a  critical  insight  for  both  risk
+managers and supervisors.
+Conclusions
+6
+7
+ 3 / 4
+BIS central bankers' speeches
+The  financial  sector  is  large,  complex  and  constantly  evolving  due  to  a  wide  range  of
+technological, business, and macro factors. Your job, and ours, is to be vigilant and open-minded
+in our thinking, constantly questioning our traditional assumptions and scanning the horizon to
+understand how the risk landscape is changing.
+The topics covered at today’s conference are some of the most important risks that the industry
+faces.  Climate change and digital transformation are two powerful trends with the potential to
+fundamentally change financial services. We all need to be forward-looking and proactive in order
+to promote our ultimate goal of a safe and sound financial system that supports the sustainable
+provision of financial services and economic growth.
+Thank you for your attention.
+ 
+1
+2
+3
+4
+5
+6
+7
+8
+NOAA  National  Centers for  Environmental  Information (NCEI), Billion-Dollar  Weather and  Climate  Disasters
+(2019), National Oceanic and Atmospheric Administration.
+The Impact of Higher Temperature on Economic Growth, Riccardo Colacito, Bridget Hoffmann, Toan Phan and
+Tim  Sablik, Economic  Brief,  August  2018,  No.  18–08; Climate  Change  and  the  Federal  Reserve,  Glenn
+Rudebusch, FRBSF Economic Letter, 2019–19, March 25 2019; Fourth National Climate Assessment, Volume
+II: Impacts, Risks and Adaptation in the United States, U.S. Global Change Research Program.
+Mark  Carney, Breaking the Tragedy of the Horizon – Climate Change and Financial Stability, September 29,
+2015.
+Climate  Risk  Management at  Financial  Firms:  Challenges and  Opportunities,  GARP  Risk  Institute,  May  29,
+2019; Climate Risk Management at Financial Firms: A Good Start, but More Work to Do, GARP Risk Institute,
+May 29, 2019.
+We’re Only Human: Culture and Change Management, James Hennessy, Federal Reserve Bank of New York,
+September 2019.
+Misconduct Risk, Culture, and Supervision, Stephanie Chaly, James Hennessy, Lev Menand, Kevin Stiroh and
+Joseph Tracy, Federal Reserve Bank of New York, December 2017.
+Leading Change: Why Transformation Efforts Fail, John P. Kotter, Harvard Business Review, January 2007 and
+How to Beat the Transformation Odds, McKinsey and Company, Survey, April 2015.
+Joint Statement on Innovative Efforts to Combat Money Laundering and Terrorist Financing, Board of Governors
+of the Federal Reserve System, SR 18–10, December 3, 2018.
+ 4 / 4
+BIS central bankers' speeches

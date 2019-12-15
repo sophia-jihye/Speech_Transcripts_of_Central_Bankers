@@ -1,0 +1,549 @@
+10/12/2019
+A Payments System for the Digital Economy | Speeches | RBA
+Speech
+A Payments System for the Digital Economy
+Philip Lowe
+Governor
+  Address to the 2019 Australian Payments Network Summit 
+Sydney – 10 December 2019
+Thank you for the invitation to address this year's Australian Payments Network Summit. This
+summit has become an important fixture on the Australian payments calendar and this is the third
+time I have had the privilege of joining you.
+A recurring theme across these summits has been the need to improve customer outcomes. I am
+very pleased to see that this focus has been continued at this year's summit. The focus on customer
+outcomes aligns very closely with the focus of the Payments System Board. The Board wants to see
+a payments system that is innovative, dynamic, secure, competitive, and that serves the needs of all
+Australians.
+Increasingly, this means that the payments system needs to support Australia's digital economy.
+With the digital economy being an important key to Australia's future economic prosperity, we need
+a payments system that is fit for purpose. We will only fully capitalise on the fantastic opportunities
+out there if we have a payments system that works for the digital economy. The positive news is that
+we have made some substantial progress in this direction over recent years and in some areas,
+Australia's payments system is world class. However, in the fast-moving world of payments, things
+don't stand still and there are some important areas we need to work on.
+In my remarks today, I would like to do three things.
+The first is to talk about some of the progress that has been made over recent years.
+The second is to highlight a few areas where we would like to see more progress, particularly around
+payments and the digital economy.
+And third, I will highlight some of the questions we will explore in next year's review of retail
+payments regulation in Australia.
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+1/12
+10/12/2019
+A Payments System for the Digital Economy | Speeches | RBA
+Progress Is Being Made
+Over recent years there have been significant changes in the way that we make payments. We now
+have greater choice than ever before and payments are faster and more flexible than they used to
+be.
+The launch of the New Payments Platform – the NPP – in early 2018 has been an important part of
+this journey. This new payments infrastructure allows consumers and businesses to make real-time, 
+24/7 payments with richer data and simple addressing using PayIDs.
+After the NPP was launched, it got off to a slow start, but it is now hitting its stride. Monthly
+transaction values and volumes have both tripled over the past year (Graph 1). In November, the
+platform processed an average of 1.1 million payments each day, worth about $1.1 billion. The rate
+of take-up of fast retail payments in Australia is a little quicker than that in most other countries that
+have also introduced fast payments (Graph 2).
+Graph 1
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+2/12
+10/12/2019
+A Payments System for the Digital Economy | Speeches | RBA
+Graph 2
+I expect that we will see a further pickup in usage once the CBA has delivered on core NPP
+functionality for all its customers. The slow implementation has been disappointing and we expect
+the required functionality to be available soon.
+There are now 86 entities connected to the NPP, including 74 that are indirectly connected via a
+direct NPP participant. There are at least six non-ADI fintechs that are using the NPP's capabilities to
+innovate and provide new services to customers. All up, approximately 66 million Australian bank
+accounts are now able to make and receive NPP payments.
+Use of the PayID service has also been growing, with around 3.8 million PayIDs having been
+registered to date. If you have not already got a PayID, I encourage you to get one. I also
+encourage you to ask for other people's PayIDs when making payments, as an alternative to asking
+for their BSB and account number. It is much easier and faster.
+One specific example of where the NPP is bringing direct benefits to people is its use by the
+Australian Government, supported by the banking arm of the RBA, to make emergency payments.
+During the current bushfires, the government has been able to use the NPP to make immediate
+payments to people at a time when they are most in need, whether that be on the weekend or after
+their bank has shut for the night.
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+3/12
+A Payments System for the Digital Economy | Speeches | RBA
+10/12/2019
+One other area of the payments system where we have seen significant change is the take-up of
+‘tap-and-go’ payments. Around 80 per cent of point-of-sale transactions are now ‘tap-and-go’, which
+is a much higher share than in most other countries. This growth has been made possible by the
+acquirers rolling out new technology in their terminals and by the willingness of Australians to try
+something different. There has also been rapid take-up of mobile payments, including through
+wearable devices.
+Progress has also been made on improving the safety of electronic payments, particularly in relation
+to fraud in card-not-present transactions. The rate of fraud is still too high, but it has come down
+recently (Graph 3). I would like to acknowledge the work that AusPayNet has done here to develop a
+new framework to tackle fraud. This framework strengthens the authentication requirements for
+certain types of transactions, including through the use of multi-factor authentication.
+help reduce card-not-present fraud and support the continued growth in online commerce.
+ This will
+[1]
+Graph 3
+As our electronic payments system continues to improve, we are seeing a further shift away from
+cash and cheques. The RBA recently undertook the latest wave of our three-yearly consumer
+payments survey. We are still processing the results, but ahead of publishing them early next year, I
+thought I would show you the latest estimate on the use of cash (Graph 4). As expected, there has
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+4/12
+10/12/2019
+been a further trend decline in the use of cash, with cash now accounting for just around a quarter
+of day-to-day transactions, and most of these are for small-value payments. Given the other
+innovations that I just spoke about, I expect that this trend will continue.
+A Payments System for the Digital Economy | Speeches | RBA
+Graph 4
+Further Progress Needed
+The progress across these various fronts means that there is a positive story to be told about
+innovation in Australia's payments system.
+At the same time, though, there are still some significant gaps and areas in our payments system
+that need addressing and where progress would support the digital economy in Australia. I would
+like to talk about four of these.
+NPP
+The first of these is further industry work to realise the full potential of the NPP, including its data-
+rich capabilities.
+The NPP infrastructure can help make electronic invoicing commonplace and help invoices be paid on
+time. It can also support significant improvement in business processes, as more data moves with
+the payment. Real-time settlement and posting of funds also enables some types of delivery-versus-
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+5/12
+10/12/2019
+payment, so that the seller can confirm receipt of funds and be confident in delivering goods or
+services to the buyer.
+A Payments System for the Digital Economy | Speeches | RBA
+The layered architecture of the system was designed to promote competition and innovation in the
+development of new overlay services. Notwithstanding this, one of the consequences of the slower-
+than-promised rollout of the NPP by some of the major banks is that there has been less effort than
+expected on developing innovative functionality. Payment systems are networks, and participants
+need to know that others will be ready to receive payments and use the network. Some banks have
+been reluctant to commit time and funding to support the development of new functionality given
+that others have been slow to roll out their ‘day 1’ functionality. The slow rollout has also reduced
+the incentive for fintechs and others to develop new ideas. So we have not yet benefited from the
+full network effects.
+The Payments System Board considered this issue as part of its industry consultation on NPP access
+and functionality, conducted with the ACCC earlier this year. As part of that review we recommended
+that NPPA – the industry-owned company formed to establish and operate the NPP – publish a
+roadmap and timeline for the additional functionality that it has agreed to develop. The inaugural
+roadmap was published in October and NPPA also introduced a ‘mandatory compliance framework’.
+Under this compliance framework, NPPA can designate core capabilities that NPP participants must
+support within a specified period of time, with penalties for non-compliance. This is a welcome
+development.
+One important element of the roadmap is the development of a ‘mandated payments service’ to
+support recurring and ‘debit-like’ payments. This new service will allow account-holders to establish
+and manage standing authorisations (or consents) for payments to be initiated from their account by
+third parties. This will provide convenience, transparency and security for recurring or subscription-
+type payments and a range of other payments.
+Another element of the roadmap that has the potential to promote the digital economy is the
+development of NPP message standards for payroll, tax, superannuation and e-invoicing payments.
+The standards will define the specific data elements that must be included with these payment types,
+which will support automation and straight-through processing. We would expect financial
+institutions to be competing with each other to enable their customers to make and receive these
+data-rich payments.
+Less positively, there is still uncertainty about the future of the two remaining services that were
+expected to be part of the initial suite of Osko overlay services. These are the ‘request-to-pay’ and
+‘payment with document’ services. We understand there are still challenges in securing committed
+project funding and priority from NPP participants to move ahead, even though BPAY has indicated it
+is ready to complete the rollout. The RBA strongly supports the development of these additional NPP
+capabilities, which are likely to deliver significant value for businesses and the broader community.
+Digital identity
+A second area where the Payments System Board would like to see further progress is the provision
+of portable digital identity services that allow Australians to securely prove who they are in the digital
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+6/12
+10/12/2019
+environment.
+A Payments System for the Digital Economy | Speeches | RBA
+Today, our digital identity system is fragmented and siloed, which has resulted in a proliferation of
+identity credentials and passwords. This gives rise to security vulnerabilities and creates significant
+inconvenience and inefficiencies, which can undermine development of the digital economy. These
+generate compliance risks and other costs for financial institutions, so it is strongly in their interests
+to make progress here. It is fair to say that a number of other countries are well ahead of us in this
+area.
+The Australian Payments Council has recognised the importance of this issue and has developed the
+‘TrustID’ framework. The Government's Digital Transformation Agency has also been working on a
+complementary framework (the Trusted Digital Identity Framework), which specifies how digital
+identity services will be used to access online government services. The challenge now is to build on
+these frameworks and develop a strong digital identity ecosystem in Australia with competing but
+interoperable digital identity services.
+The rollout of open banking and the consumer data right should bring additional competition among
+financial services providers, and digital identity is likely to reduce the scope for identity fraud, while
+providing convenient authentication, as part of an open banking regime.
+A strong digital identity system would also open up new areas of digital commerce and help reduce
+online payments fraud. It will also help build trust in a wide range of online interactions. Building this
+trust is increasingly important as people spend more of their time and money online. So we would
+like to see some concrete solutions developed and adopted here.
+Cross-border retail payments
+A third area where we would like to see more progress is on reducing the cost of cross-border
+payments.
+For many people, the costs here are still too high and the payments are still too hard to make. It is
+important that we address this. It is an issue not just for Australians, but for our neighbours as well.
+I recently chaired a meeting of the Governors from the South Pacific central banks, where I heard
+first-hand about the problems caused by the high cost of cross-border payments.
+Analysis by the World Bank indicates that the price of sending money from Australia has been
+consistently higher than the average price across the G20 countries (Graph 5). And a recent ACCC
+inquiry found that prices for cross-border retail payment services are opaque. Customers are not
+always aware of how the ‘retail’ exchange rate they are being quoted compares with the wholesale
+exchange rate they see on the news, or of the final amount that will be received in foreign
+currency.
+ There are also sometimes add-on fees.
+[2]
+[3]
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+7/12
+10/12/2019
+A Payments System for the Digital Economy | Speeches | RBA
+Graph 5
+As part of the RBA's monitoring of the marketplace, our staff recently conducted a form of online
+shadow shopping exercise, exploring the pricing of international money transfer services by both
+banks and some of the new non-bank digital money transfer operators (MTOs).
+This exercise showed that there is a very wide range of prices across providers and highlighted the
+importance of shopping around.
+The main results are summarised in this graph (Graph 6). In nearly every case, the major banks are
+more expensive than the digital MTOs. For the major banks, the average mark-up over the wholesale
+exchange rate is around 5½ per cent, versus about 1 per cent for the digital MTOs.
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+8/12
+10/12/2019
+A Payments System for the Digital Economy | Speeches | RBA
+Graph 6
+The graph illustrates why the cost of cross-border payments is such an issue for the South Pacific
+countries. These costs are noticeably higher than for payments to most other countries. This is a
+particular problem as many people in the South Pacific rely on receiving remittances from family and
+friends in Australia and New Zealand. In many cases, low-income people are paying very high fees
+and it is important that we address this where we can. As is evident from the graph, most digital
+MTOs do not service the smaller South Pacific economies, which limits customers' choice of
+providers.
+In part, the high costs – and slow speed – of international money transfers is the result of
+inefficiencies in the traditional correspondent banking process. It is understandable why some large
+tech firms operating across borders see an opportunity here. Where people are being served poorly
+by existing arrangements, new solutions are likely to emerge with new technologies. This represents
+a challenge to the traditional financial institutions to offer better service at a lower cost to their
+customers, while still meeting their AML/CTF requirements.
+Central banks have a role to play here too, and there is an increased focus globally on what we can
+do to reduce the cost of cross-border payments. One example of this is the promotion of
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+9/12
+A Payments System for the Digital Economy | Speeches | RBA
+10/12/2019
+standardised and richer payment messaging globally through the adoption of the ISO20022
+standard. The RBA is also working closely with the Reserve Bank of New Zealand, AUSTRAC and
+other South Pacific central banks to develop a regional framework to address the Know-Your-
+Customer concerns that have limited competition and kept prices high.
+Operational resilience
+A fourth area where we would like to see more progress is improving the operational resilience of the
+electronic payments system.
+[4]
+Disruptions to retail payments hurt both consumers and businesses. Given that many people now
+carry little or no cash, the reliability of electronic payment services has become critical to the smooth
+functioning of our economy.
+We understand that, given the complexity of IT systems, some level of payments incidents and
+outages to services is inevitable. But it is apparent from the data we have that the frequency and
+duration of retail payments outages have risen sharply in recent years. In response, the RBA has
+begun working with APRA and the industry to enhance the data on retail payment service outages
+and to introduce a suitable disclosure framework for these data. These measures will provide greater
+transparency around the reliability of services and allow institutions to better benchmark their
+operational performance.
+The 2020 Review of Retail Payments Regulation
+The third and final issue I would like to touch on is the Payments System Board's review of retail
+payments regulation next year.
+The review is intended to be wide-ranging and to cover all aspects of the retail payments landscape,
+not just the RBA's existing cards regulation. As the first step in the process, we released an Issues
+Paper a couple of weeks ago and have asked for submissions by 31 January.
+ There will also be
+opportunities to meet with RBA staff conducting the review.
+[5]
+The review will cover a lot of ground, including hopefully some of the issues that I just mentioned.
+There are, though, a few other questions I would like to highlight.
+The first is what can be done to reduce further the cost of electronic payments?
+Both the Productivity Commission and the Black Economy Taskforce have called for us to examine
+this question. It is understandable why. As we move to a predominantly electronic world, the cost of
+electronic payments becomes a bigger issue. The Payments System Board's regulation of interchange
+fees and the surcharging framework, as well as its efforts to promote competition and encourage
+least-cost routing, have all helped lower payment costs.
+At issue is how we make further progress: what combination of regulation and market forces will
+best deliver this? Relevant questions here include: whether interchange fees should be lowered
+further; how best to ensure that merchants can choose the payment rails that give them the best
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+10/12
+10/12/2019
+value for money; and whether restrictions relating to no-surcharge rules should be applied to other
+arrangements, including the buy-now-pay-later schemes.
+A Payments System for the Digital Economy | Speeches | RBA
+A second issue is what is the future of the cheque system?
+Cheque use in Australia has been in sharp decline for some time. Over the past year, the number of
+cheques written has fallen by another 19 per cent and the value of cheques written has fallen by
+more than 30 per cent, as the real estate industry has continued to shift to electronic property
+settlements (Graph 7). At some point it will be appropriate to wind up the cheque system, and that
+point is getting closer. Before this happens, though, it is important that alternative payment methods
+are available for those who rely on cheques. Using the NPP infrastructure for new payment solutions
+is likely to help here.
+Graph 7
+Third, is there a case for some rationalisation of Australia's three domestically focused payment
+schemes, namely BPAY, eftpos and NPPA? A number of industry participants have indicated to us
+that they face significant and sometimes conflicting investment demands from the three different
+entities. This raises the question of whether some consolidation or some form of coordination of
+investment priorities might be in the public interest.
+Fourth, and finally, what are the implications for the regulatory framework of technology changes,
+new entrants and new business models?
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+11/12
+A Payments System for the Digital Economy | Speeches | RBA
+10/12/2019
+The world of payments is moving quickly, with new technologies and new players offering solutions
+to longstanding problems. At the same time, expectations regarding security, resilience, functionality
+and privacy are continually rising. Meeting these expectations can be challenging, but doing so is
+critical to building and maintaining the trust that lies at the heart of effective payment systems. The
+entry of non-financial firms into the payments market also raises new regulatory issues. As part of
+the review, it would be good to hear how the regulatory system can best encourage a dynamic and
+innovative payments system in Australia that fully serves the needs of its customers.
+So these are some of the many issues on our agenda. We are looking forward to receiving your
+input. For now, thank you for listening and I am happy to answer your questions.
+Thank you.
+Endnotes
+ [1]
+[2]
+[3]
+[4]
+I would like to thank my colleagues in Payments Policy Department for assistance in the preparation of this talk.
+See AusPayNet's CNP Fraud Mitigation Framework, available at
+<https://www.auspaynet.com.au/insights/initiatives/CNP-Fraud-Mitigation-Framework>.
+ACCC (2019), ‘Foreign currency conversion services in Australia’, July.
+For example, bank customers may also incur additional fees charged by the ‘correspondent banks’ that intermediate
+the payment to its final destination on behalf of the sending bank. These fees may not be known at the point of the
+transaction and can result in less foreign currency being received than expected.
+See Bullock M (2019), ‘Modernising Australia's Payments System’, Speech to the Central Bank PaymentsConference,
+Berlin, 25 June.
+[5]
+Reserve Bank of Australia (2019), ‘Review of Retail Payments Regulation: Issues Paper PDF ’, November.
+© Reserve Bank of Australia, 2001–2019. All rights reserved.
+https://www.rba.gov.au/speeches/2019/sp-gov-2019-12-10.html
+12/12
+T
+h
+e
+ R
+e
+s
+e
+r
+v
+e
+ B
+a
+n
+k
+ o
+f
+ A
+u
+s
+t
+r
+a
+l
+i
+a
+ a
+c
+k
+n
+o
+w
+l
+e
+d
+g
+e
+s
+ t
+h
+e
+ A
+b
+o
+r
+i
+g
+i
+n
+a
+l
+ a
+n
+d
+ T
+o
+r
+r
+e
+s
+ S
+t
+r
+a
+i
+t
+ I
+s
+l
+a
+n
+d
+e
+r
+ P
+e
+o
+p
+l
+e
+s
+ o
+f
+ A
+u
+s
+t
+r
+a
+l
+i
+a
+ a
+s
+ t
+h
+e
+ T
+r
+a
+d
+i
+t
+i
+o
+n
+a
+l
+ C
+u
+s
+t
+o
+d
+i
+a
+n
+s
+ o
+f
+ t
+h
+i
+s
+l
+a
+n
+d
+  a
+n
+d
+ r
+e
+c
+o
+g
+n
+i
+s
+e
+s
+ t
+h
+e
+i
+r
+ c
+o
+n
+t
+i
+n
+u
+i
+n
+g
+ c
+o
+n
+n
+e
+c
+t
+i
+o
+n
+ t
+o
+ C
+o
+u
+n
+t
+r
+y
+  W
+e
+ p
+a
+y
+ o
+u
+r
+ r
+e
+s
+p
+e
+c
+t
+s
+ t
+o
+ t
+h
+e
+i
+r
+ E
+l
+d
+e
+r
+s
+  p
+a
+s
+t
+  p
+r
+e
+s
+e
+n
+t
+ a
+n
+d
+ e
+m
+e
+r
+g
+i
+n
+g
+ 

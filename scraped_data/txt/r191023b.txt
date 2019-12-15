@@ -1,0 +1,1904 @@
+    
+ 
+ 
+ 
+Understanding pay gaps 
+ 
+ 
+Speech given by 
+ 
+Andrew G Haldane 
+Chief Economist 
+Bank of England 
+ 
+Co-authors:  Zahid Amadxarif, Marilena Angeli and Gabija Zemaityte 
+ 
+Joint Bank of England, Federal Reserve Bank and European Central Bank conference on 
+Gender and Career Progression 
+ 
+Frankfurt 
+21 October 2019 
+ 
+  The views expressed here are not necessarily those of the Bank of England or the Monetary Policy 
+Committee.  I would like to thank Will Abel, Shiv Chowla, Julia Giese, Brian Hallissey, Sam Juthani, 
+Tomas Key, Clare Macallan, Jen Nemeth, Doug Rendle and Ratidzo Starkey for their comments and 
+contributions.  
+ 
+This work contains statistical data from ONS which is Crown Copyright. The use of the ONS statistical 
+data in this work does not imply the endorsement of the ONS in relation to the interpretation or 
+analysis of the statistical data. This work uses research datasets which may not exactly reproduce 
+National Statistics aggregates. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  1 
+  Section 1:  Introduction  
+ 
+“Pay gaps” measure the difference in pay between people with different demographic characteristics doing 
+identical jobs.  They are considered to be a good approximation of inequality in workplace rewards (EHRC 
+(2018)).  Under the Equality Act 2010, it is against the law to discriminate on the basis of protected personal 
+characteristics.  When it comes to pay, this means people should earn the same wage for the same work, 
+irrespective of their gender, race, religion, disability, or other protected characteristics.  In other words, no 
+“pay gap” should exist across any of these characteristics.  
+ 
+Since 2017, it has been compulsory for companies in Great Britain with over 250 employees to report gender 
+pay gaps each financial year.  Data for 2018 published earlier this year shows a gender pay gap of around 
+10% across reporting UK organisations.1  The UK government has also begun a consultation on requiring 
+companies to publish ethnicity pay gaps on an annual basis.2  While 63% of employers monitor ethnicity pay 
+gaps, only 31% of employers currently publish them.3  The Bank of England has published data on its gender 
+pay gap since 2017 and on its ethnicity pay gap since 2018.   
+ 
+While it is widely recognised that these pay gap measures may be imperfect proxies for pay inequality, 
+greater transparency about pay gaps can serve as an important incentive device.  Publishing companies’ pay 
+gaps encourages them to explain and, with time, close these gaps.  The benefits of doing so, for individual 
+companies and the economy at large, have been found to be large.  For example, closing the gender pay 
+gap has been estimated to add £600 billion (or 27% of GDP) to UK GDP by 2025 (McKinsey (2016)), while 
+full representation of BAME individuals across the labour market, through improved participation and 
+progression, could add an additional £24 billion (or over 1% of GDP) per year (BEIS (2017)).  
+ 
+Internationally, similar moves to improve pay gap reporting are underway.  Iceland has since January 2018 
+required external auditors to assess pay inequalities among companies with more than 25 employees.4,5  
+The Danish Equal Pay Act 2014 requires companies with a minimum of 10 employees to make available 
+gender-disaggregated pay statistics.  A number of other EU member states have implemented new reporting 
+standards, including recently in Germany and France.  In the US, all employers with more than 100 workers 
+must disclose pay information to the Equal Employment Opportunity Commission.  
+ 
+In this paper, we provide a detailed empirical examination of gender and ethnicity pay gaps in the UK using 
+micro-level  survey data.  As well as describing the evolution of these pay gaps over time, we identify some 
+of the key explanations and drivers of them over time.  This decomposition is important when accurately 
+                                                      
+1  Latest ONS LFS 2019Q1 release.  
+2  https://www.gov.uk/government/consultations/ethnicity-pay-reporting 
+3  Business in the Community (2019). 
+4  Pay in Iceland is assessed using an Equal Pay Standard which highlights four main criteria: expertise, responsibility, effort, and work 
+environment. 
+5  Wagner, I (2018), ‘Certified Equality: The Icelandic Equal Pay Standard’ 
+https://www.researchgate.net/publication/329371051_Certified_Equality_The_Icelandic_Equal_Pay_Standard 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+2 
+ 2
+  interpreting data on pay gaps and when deciding where action might best be taken – by companies and/or 
+public policymakers – to close these gaps and harvest some of the benefits this would bring. 
+ 
+Section 2:  Literature Review 
+ 
+Gender and ethnicity pay gaps have been studied fairly extensively using US data.  In the US, the 
+female/male earnings ratio has increased steadily since the 1980s (Blau and Kahn (2017)).  This is typically 
+attributed to improvements in women’s levels of education and experience (Stanley and Jarrell (1998), Jarrell 
+and Stanley (2004), Weichselbaumer and Winter-Ebmer (2005)).  Alkadry and Tower (2006) find human 
+capital explains over 90% of the gender pay gap.  Some studies have also found occupational representation 
+and segregation has been a factor explaining gender pay gaps (Lewis and Soo Oh (2009)).   
+ 
+Goldin (2014) provides one of the most comprehensive studies of the gender pay gap in the US across 
+different age groups.  She finds that, while the gap has narrowed for most age groups, the aggregate gap 
+has remained fairly stable.  By looking across the life-cycle, she finds that as workers get older the size of the 
+gender pay gap tends to rise.  It also differs significantly by occupation, with business occupations having the 
+largest gender pay gaps and technology and science-related occupations the lowest.  
+ 
+Like others, Goldin finds that the narrowing of the gap across age groups is largely due to a rise in the 
+human capital of women relative to men, due to factors such as improved levels of education, experience, 
+and labour force participation.  The remaining pay difference can partly be explained by higher-paying 
+occupations in the corporate, financial and legal worlds, especially at later career stages.  This is 
+disadvantageous for women who are more likely to work part-time or work fewer hours due to raising 
+children.  
+ 
+The US literature on ethnic minority pay has tended to focus on wage differentials between white and black 
+ethnic groups, the two largest ethnic groups in the US.  Studies have tended to find a large wage differential 
+between black and white men, although this does appear to have reduced over time with the black/white 
+earnings ratio increasing from just under 60% in 1967 to around 80% by 2009 (Lang and Lehmann (2012)).  
+This broadly mirrors trends in the gender pay gap.  Studies looking at wage gaps over the life-cycle find that 
+there is little evidence of an ethnicity pay gap during early working life, but that this grows to around 14% by 
+age 40 (Tomaskovic-Devey et al (2005)).   
+ 
+Evidence on the role of education on the size of the ethnicity pay gap is mixed.  Some studies find that, 
+among young men, the black/white pay differential appears, in part, to be explained by education (O’Neill 
+(1990), Rodgers and Spriggs (1996) and Carneiro, Heckman, and Masterov (2005)).  For example, the pay 
+differential decreases when controlling for performance on the Armed Forces Qualifying Test (Neal and 
+Johnson (1996)). Studies also find that, among college-educated men, there is no difference in pay between 
+black and white males (Black et al (2006)).  This might suggest the ethnicity pay gap can largely be 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  3 
+ 3
+ explained by human capital differences in white-collar sectors, but not in blue-collar jobs (Bjerk (2007)). 
+Other studies, however, have found that human capital differences increase the pay differential (Lang and 
+Manove (2011)). 
+ 
+Wage differentials between black and white women have historically been considerably lower than between 
+men (Lang (2007)) and at times have even reversed.  However, Neal (2004) demonstrates that this finding 
+partially reflects the differential selection of black and white women into the labour force.  For example, black 
+women face a lower household income than white women, which provides a stronger incentive for them to 
+enter the workforce in the first place. 
+ 
+For the UK, although evidence is more partial, it suggests that both gender and ethnicity pay gaps have 
+fallen over time (ONS (2018), ONS (2019)).  For gender, the factors determining these gaps include age, 
+educational background, sector, occupation and part time work (Olsen and Walby (2004), Manning and 
+Swaffield (2005), Brynin (2017), ONS (2018)).  For ethnicity, it includes occupation, being born in the UK and 
+education (ONS (2019), Brynin and Guveli (2012)).  As in the US, the UK ethnicity gap appears to be larger 
+for males than females (Longhi and Brynin (2017)). 
+ 
+When it comes to explaining the sources of pay gaps, three main approaches have typically been used.  
+Regression techniques estimate pay gaps controlling for various characteristics of the individual or job 
+(Goldin (2014), Brynin and Guveli (2012)).  Oaxaca-Blinder decompositions account for differences in pay 
+between two groups using an independent set of factors.  This is useful for capturing the effects of 
+compositional differences in the characteristics of groups (O’Donnell et al (2008)).  Finally, a rich literature 
+uses experiments to assess bias in hiring, promotion and bargaining between groups (Neumark (2018)).  
+ 
+In this paper, we use the first two approaches – regression-based techniques and decompositions – to 
+analyse gender and ethnicity pay gaps in the UK.  In the next section, we describe the dataset, summarise 
+key trends in the UK labour market over the past 25 years and discuss unconditional pay gaps by gender 
+and ethnicity.  In the following section, we provide an explanation of these pay gaps using factor-
+decomposition and regression-based methods.  Section 5 summarises our key findings and policy 
+recommendations.   
+ 
+Section 3:  Trends in the UK Labour Market 
+  
+This paper uses quarterly returns from the UK Labour Force Survey (LFS) from 1994 Q1 to 2019 Q1.  This 
+gives us a sample of 1,154,759 observations of employed individuals, reduced to 563,353 observations 
+when incorporating pay variables, as there are fewer observations for respondents on pay.6  There are two 
+                                                      
+6  Throughout our analysis we only use wave 1 respondents in order to ensure that we are not counting multiple responses from the 
+same individual. In addition to this, we only include workers aged 25 and over in order to remove noise from the data. Most workers 
+under  25  are  earning  in  the  minimum  wage  range  which  is  subject  to  regulation,  and  may  also  particularly  represent  part-time 
+employment. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+4 
+ 4
+  main advantages to using the LFS relative to other surveys, such as the British Household Panel Survey 
+(BHPS) and the Annual Survey of Hours and Earnings (ASHE).7 
+ 
+First, the LFS has the longest time-series of pay and other work characteristics at a quarterly frequency in 
+the UK.  Using it allows us to track the evolution of pay gaps over time.  Second, the LFS dataset offers a 
+rich set of information on the characteristics of both workers and their jobs.  These controls improve the 
+robustness of the analysis, statistically, and the ability to explain movements in pay gaps behaviourally, using 
+various individual and work-related characteristics.   
+  
+There have been a number of important changes in the employed LFS survey population over time.  First, 
+the share of ethnic minorities in the workforce has more than doubled, from 4% in 1994 to 10% in 2019.  
+Second, the share of the population in higher education or with a degree has also increased significantly, 
+from 22% to 43%.  Third, the share of the population not born in the UK has almost tripled, from 6% in 1994 
+to 17% in 2019.  These trends are representative of the composition of the UK population, as reported in the 
+2011 Census.  
+  
+(a)  Participation Trends  
+ Female participation in the workforce has been on a broadly upward trend in the UK.  Elsewhere across the 
+G7, trends have been more disparate (Chart 1).  Based on OECD Labour Force Statistics, UK rates of 
+female participation are second only to Canada across the G7, having recently overtaken the US. 
+Chart 1:  G7 female participation rates 
+Per cent
+1976
+1980
+1984
+1988
+1992
+1996
+2000
+2004
+2008
+2012
+2016
+Canada
+France
+Germany
+Italy
+Japan
+UK
+US
+Sources:  ONS Labour Force Survey, OECD Labour Force Statistics and Bank of England calculations. 
+70
+60
+50
+40
+30
+20
+                                                      
+7  This paper does not aim to produce better estimates of the gender and ethnicity pay gaps than the official ones published by the ONS.  
+ASHE data is the best source for estimating the overall gaps, but the LFS has a rich set of individual and job characteristics allowing the 
+type of analysis showcased here.  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+5 
+ 5
+  The increase in female participation has been accompanied by an opposite trend among the male 
+population, which has fallen from 70% to 65% over the sample.  In other words, the gender “participation 
+gap” between males and females in the UK has fallen by around 10 percentage points over the past 25 
+years, though it remains positive at around 8 percentage points.    
+  
+The participation of ethnic minorities in the UK labour force has also been on an upward trend since the 
+1990s, reaching around 64% in 2019.  Labour participation by the white population was, by contrast, on a 
+slightly downward trend prior to the GFC, after which it has flattened off.  That leaves participation rates for 
+ethnic minorities today slightly above the levels of the white population.   
+ 
+There have been some striking gender-related shifts in the pattern of work.  The share of part-time 
+employment among females has been declining, with a corresponding larger share of females working  
+full-time.  The opposite is true among males, with the share of men working part-time increasing by 5 
+percentage points over the sample.  For ethnic minorities, part-time employment has steadily increased, with 
+a pronounced pick up following the crisis. 
+ 
+Next, we look at three variables which are often used to capture aspects of “human capital”:  the highest 
+qualification achieved, the occupation of a person, and the sector in which they are employed.  For 
+illustrative purposes, we split the sample into four sub-groups – white men, white women, ethnic minority 
+men, and ethnic minority women – though we also consider more granular sub-sets of these groups. 
+ 
+Chart 2 compares the highest qualification attained among the four sub-samples in 1994 and 2019.  The 
+main trend is the same across the board:  the share of people with degrees or higher education has almost 
+doubled since 1994.  The increases are, however, most pronounced among women and ethnic minorities.  
+For example, ethnic minority females have seen a 31 percentage point increase between 1994 and 2019.  In 
+2019, around 60% had a degree or a higher education qualification.  
+ 
+Conversely, the shares of people without a qualification have decreased significantly across the four groups, 
+with the trend for UK-born ethnic minority women reducing at a faster pace than for non-UK born ethnic 
+minorities.  Both UK-born and non-UK born workers entering the labour force market in the UK are materially 
+more qualified than in the past.   
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+6 
+ 6
+ Chart 2:  Highest qualification attained 
+Per cent
+100
+80
+60
+40
+20
+0
+1994
+2019
+1994
+2019
+White male
+White female
+2019
+1994
+Ethnic minority male
+1994
+2019
+Ethnic minority female
+Degree
+Higher education
+GCE/A‐Level
+GCSE
+Other
+No qualification
+Source: ONS Labour Force Survey and Bank of England calculations.
+ 
+Chart 3 shows the composition of the labour force by occupation across the four sub-groups.  Occupational 
+participation differs strikingly by gender, less so by ethnicity.  There is a higher share of managers, 
+professional, and associate occupations among men than women.  Compared to men, women have a larger 
+representation in administrative, and personal, sales and customer service occupations, while men have a 
+larger representation in skilled trades and process and plant occupations.  This holds true across ethnicities.  
+ Chart 3:  Occupational representation 
+Per cent
+100
+80
+60
+40
+20
+0
+7 
+ 7
+1994
+2019
+1994
+2019
+White male
+White female
+1994
+2019
+Ethnic minority male
+1994
+2019
+Ethnic minority female
+Managers, professional and associates
+Skilled trade
+Process and plant
+Administrative
+Personal, sales and customer
+Elementary
+Source: ONS Labour Force Survey and Bank of England calculations.
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  Chart 4 shows the composition of the UK labour market by sector.  The vast majority of men across both 
+ethnic sub-samples work in the ‘industry’ sector (including manufacturing, utilities and mining) and trade and 
+transport sectors.  The latter is particularly important for ethnic minority males, where close to 40% of this 
+sub-group works.  On the other hand, the public sector is dominated by females of both ethnicity 
+backgrounds.  The share of people working in professional services and finance is similar across the board.  
+ 
+Chart 4:  Sectoral representation  
+Per cent
+100
+80
+60
+40
+20
+0
+1994
+2019
+1994
+2019
+White male
+White female
+2019
+1994
+Ethnic minority male
+1994
+2019
+Ethnic minority female
+Industry
+Public
+Trade and transport
+Professional
+Finance
+Other
+Source: ONS Labour Force Survey and Bank of England calculations.
+ Pay Trends 
+(b) 
+ 
+Table 1 shows summary statistics of the distribution of earnings across gender and ethnicity.  It shows that 
+white men have the highest mean and median hourly earnings, as well as higher earnings across every 
+percentile of the pay distribution.  Males also have higher earnings than females across the pay distribution 
+for both ethnic groups.  Ethnic minority females have higher earnings than white females across the 
+distribution.  All distributions have a strong positive skew, though white males have the longest upper tail.   
+ 
+ 
+ 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  8 
+ 8
+ Table 1:  Summary statistics for hourly earnings (£) across gender and ethnicity groups  
+ 
+Statistic 
+White male  White female 
+Ethnic minority 
+Ethnic minority 
+Mean 
+25th percentile 
+Median 
+75th percentile 
+Standard deviation 
+Skewness 
+13.6 
+7.6 
+10.9 
+16.4 
+14.4 
+46.3 
+10.4 
+6.0 
+8.35 
+12.7 
+8.6 
+20.4 
+male 
+12.9 
+6.9 
+10 
+15.7 
+11.1 
+13.9 
+female 
+11.1 
+6.4 
+9.1 
+13.6 
+8.4 
+16 
+Source: ONS Labour Force Survey and Bank of England calculations. 
+ 
+Charts 5 plots the distribution of hourly pay in £ for males, females and ethnic minorities separately on two 
+dates:  1997 and 2018.  It shows that there is a higher peak of low-paid females in 1997 and, to a lesser 
+extent, in 2018.  Put differently, more of the distribution of pay among males is skewed towards the upper tail 
+of higher pay rates.  Pay distributions between whites and ethnic minorities show fewer differences. 
+ 
+Chart 5:  Distribution of hourly pay by gender and ethnicity 
+ 
+Source: ONS Labour Force Survey and Bank of England calculations.
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 9 
+ 9
+ Chart 6 plots the mean hourly pay by decile for different ethnicity and gender groups.  In 1997, white males 
+earned more than all other groups, on average, across the entire distribution.  The same is broadly true in 
+2018, except that ethnic minority males now earn more in the top decile.  Females continue to earn less than 
+males right across the distribution.  The difference between white females and ethnic minority females is 
+relatively small across the distribution.  
+ 
+Chart 6:  Mean hourly pay by decile for ethnicity and gender interaction groups 
+ 
+Source: ONS Labour Force Survey and Bank of England calculations.
+ (c)  Unconditional gender and ethnicity pay gaps 
+  
+Unconditional gender and ethnicity pay gaps are calculated as the difference between median male (white) 
+gross hourly earnings and median female (non-white) earnings, divided by median male (white) earnings.8  
+As with published pay gaps for companies, these measures make no attempt, at this stage, to control for 
+factors driving or explaining these gaps;  they are unconditional pay gaps.   
+  
+The unconditional gender pay gap is large over the sample, averaging just over 22% (Chart 7).  This gap 
+has shrunk over the past 25 years, from around 30% in the mid-1990s to around 20% in 2018.  This 
+downward trend is particularly pronounced in the first part of the sample, when the pay gap was falling by, on 
+average, around half a percentage point per year.  Since the GFC, however, the gender pay gap has 
+flattened-off and has been essentially unchanged since 2007.   
+ 
+At the same time gender pay gaps have been falling, female participation in the workforce has been steadily 
+rising (Chart 7).   Increased female participation may have contributed to the shrinking of the gender pay gap 
+                                                      
+8  Unconditional gaps are calculated using raw pay data from the LFS and will not attempt to account for individual or job characteristics.  
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+10 
+ 
+10
+  during the 1990s and early 2000s, as female representation in certain sectors and occupations  expanded.9  
+But there is little evidence of these effects over the past decade, during which female participation in the 
+workplace has, if anything, picked up pace but the gender pay gap has been sticky. 
+ 
+Chart 7:  Female participation rate and unconditional gender pay gap 
+ 
+Gender pay gap (per cent)
+31
+29
+27
+25
+23
+21
+19
+17
+15
+1994‐2009
+2010‐2019
+52
+53
+54
+55
+56
+57
+58
+Female participation (per cent)
+Source: ONS Labour Force Survey and Bank of England calculations. 
+Note: A positive gender pay gap in this chart means that women earn less than men.  
+ 
+If we assess by qualification, the largest gender pay gaps are observed for people with GCSE or no 
+qualifications, while the lowest gaps are for workers with a degree or equivalent (Chart 8).  Generally 
+speaking, the higher the qualifications, the lower the gender pay gap. 
+ 
+Location also appears to play an important role.  The gender pay gap outside London is consistently higher 
+than in London, across all levels of qualification.  The largest gap between London and the rest of the UK is 
+among workers who have no or “other” qualifications.  This might be explained by the fact that “other” 
+qualifications includes degrees from outside the UK which may get less recognition. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                                                      
+9  Olivetti, C and Petrongolo, B (2016) show that structural change of the economy becoming more service based, can explain at least 
+half of the overall variation in female hours, both over time and across countries. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+11 
+ 
+11
+  Chart 8:  Median gender pay gap by qualification, sample average 
+ 
+London
+Other
+Gender pay gap, per cent 
+Degree or
+equivalent
+Higher educ
+GCE A Level or
+equiv
+GCSE grades A‐C or
+equiv
+Other qualifications No qualification
+1
+Male 
+2
+Female 
+25
+20
+15
+10
+5
+0
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive gender pay gap in this chart indicates that women earn less than men. 
+ 
+By occupation, consistent with qualifications, the gender pay gap is smaller for professional and 
+administrative occupations than for skilled trades, customer service and plant operatives (Chart 9).  For 
+almost all occupations, the gender pay gap is higher outside London.  In 2018, the gender pay gap outside 
+London remained higher for managers, skilled trades and elementary occupations.  For the rest of the 
+occupations, the pay gap in London overtook the respective gap outside London.    
+  
+Broadly speaking, occupations with median hourly pay of more than £10 (managers, professional, and 
+associate occupations) have lower gender pay gaps than occupations where the median hourly pay is less 
+than £6.50 (sales and customer services, and elementary occupations).  Relatedly, there is a clear inverse 
+relationship between the gender pay gap and female-dominated professions.  Occupations with a lower 
+share of females tend to be characterised by higher gender pay gaps and vice versa, consistent with 
+increased female representation shrinking gender pay gaps cross-sectionally, if not always over time.  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+12 
+ 
+12
+  Chart 9:  Median gender pay gap by occupation, sample average 
+ 
+Gender pay gap, per cent 
+London
+Other
+Managers
+Professional
+Associate
+professionals
+Administrative Skilled trades
+Personal
+service
+Sales and
+customer
+Process and
+plants
+Elementary
+male
+Male
+female
+Female
+35
+30
+25
+20
+15
+10
+5
+0
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive gender pay gap in this chart indicates that women earn less than men. 
+ 
+Finally, if we look at unconditional gender pay gaps by sector (Chart 10), these gaps are broadly-based 
+across sectors.  The largest gaps are in the finance sector, both in London and the rest of the UK.  These 
+average close to 40%.   This is materially larger than the next-worst sector, ICT, which averages around 
+30%.  The evolution of the gender pay gap in finance suggests it has fallen only modestly, from over 45% in 
+the mid-1990s to around 38% in 2018. 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+13 
+ 
+13
+  Chart 10:  Median gender pay gap by sector, sample average
+ 
+Gender pay gap, per cent
+London
+Other
+Agriculture
+Industry
+Construction
+Trade and
+transport
+ICT
+Finance
+Real Estate
+Professional Public sector
+Other
+45
+40
+35
+30
+25
+20
+15
+10
+5
+0
+male
+Male
+female
+Female
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive gender pay gap in this chart indicates that women earn less than men. 
+ 
+The unconditional ethnicity pay gap exhibits a rather different pattern than the gender pay gap.  This gap has 
+also been materially lower, averaging around 4% over the sample.  As the gender gap fell sharply in the 
+decade to 2005, the ethnicity pay gap was broadly stable at around 2% (yellow dots in Chart 11).  The 
+ethnicity pay gap then began increasing steadily between 2006 and 2014 (red dots), averaging 6% over the 
+period.  Recently, it has begun to fall (green dots), reaching just under 4% in 2018.   
+ 
+Chart 11 shows that higher ethnic minority participation in the workplace has only been associated with 
+lower pay gaps very recently.  This, and the relatively volatile pattern in the ethnicity pay gap over time, 
+presents something of a puzzle.  We might instead expect pay disparities to decline as ethnic minorities 
+become better represented in the labour market through higher participation. 
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+14 
+ 
+14
+ Chart 11:  Ethnic minority participation and unconditional pay gaps 
+12
+10
+8
+6
+4
+2
+0
+‐2
+‐4
+Ethnicity pay gap (per cent)
+1997 ‐ 2005
+2006 ‐ 2014
+2015 ‐ 2019
+55
+56
+57
+58
+59
+60
+61
+62
+63
+64
+65
+Ethnicity participation (per cent)
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive ethnicity pay gap in this chart indicates that ethnic minorities earn less than their white counterparts, whereas a 
+negative ethnicity pay gap indicates that ethnic minorities earn more than their white counterparts. 
+ 
+Looked at by qualification, white workers earn more than ethnic minorities for most levels of qualifications.  
+The exception are those with “other” or no qualifications living outside London.   Perhaps surprisingly given 
+the significant share of ethnic minorities in the workforce, ethnicity pay gaps are larger in London than 
+outside London, for all qualifications (Chart 12).  These gaps are larger for those with higher levels of 
+qualification, such as a degree.  This presents a second puzzle in the unconditional pay gap data. 
+ 
+Recent data do not change this picture.  In the latest calendar year (2018), ethnicity pay gaps are positive 
+across all qualifications, averaging 8%.  They remain larger in London than elsewhere, with the highest 
+ethnicity pay gaps in degree and A-level qualification categories.  Unconditional ethnicity pay gaps are still 
+consistently smaller than unconditional gender pay gaps.   
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+15 
+ 
+15
+ Chart 12:  Median ethnicity pay gap by qualification, sample average 
+ 
+London
+Other
+Ethnicity pay gap, per cent 
+Degree or
+equivalent
+Higher educ
+GCE A Level or
+equiv
+GCSE grades A‐C or
+equiv
+Other qualifications No qualification
+20
+15
+10
+5
+0
+‐5
+ethnic minority
+Ethnic minority
+white
+White
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive ethnicity pay gap in this chart indicates that ethnic minorities earn less than their white counterparts, whereas a 
+negative ethnicity pay gap indicates that ethnic minorities earn more than their white counterparts. 
+ 
+Ethnicity pay gaps differ significantly by occupation and sector.  They are largest in managerial, professional 
+and skilled occupations and lowest, or even negative, in elementary, personal service and sales and 
+customer occupations (Chart 13).  This is the mirror-image of gender, where pay gaps were largest among 
+the lowest-paid occupations.  By sector, pay gaps are largest in the professional and finance sectors (Chart 
+14).  In other words, ethnicity pay gaps are largest among the highest-paid.   
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  16 
+ 
+16
+ Chart 13:  Median ethnicity pay gap by occupation, sample average 
+ 
+Ethnicity pay gap, per cent 
+London
+Other
+Managers
+Professional
+Associate
+professionals
+Administrative Skilled trades
+Personal
+service
+Sales and
+customer
+Process and
+plants
+Elementary
+ethnic minority
+Ethnic minority
+white
+White 
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive ethnicity pay gap in this chart indicates that ethnic minorities earn less than their white counterparts, whereas a 
+negative ethnicity pay gap indicates that ethnic minorities earn more than their white counterparts. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  20
+15
+10
+5
+0
+‐5
+‐10
+ 17 
+ 
+17
+ Chart 14:  Median ethnicity pay gap by sector, sample average 
+Ethnicity pay gap, per cent 
+London
+Other
+Agriculture
+Industry
+Construction Trade and
+transport
+ICT
+Finance
+Real Estate Professional Public sector
+Other
+20
+15
+10
+5
+0
+‐5
+‐10
+‐15
+ethnic minority
+Ethnic minority 
+white
+White 
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive ethnicity pay gap in this chart indicates that ethnic minorities earn less than their white counterparts, whereas a 
+negative ethnicity pay gap indicates that ethnic minorities earn more than their white counterparts. 
+ 
+If we look at ethnic minority workers at a more granular level, some interesting cohort effects emerge.  There 
+is a very wide dispersion of pay among different ethnic minority cohorts, with some having negative and 
+others positive pay gaps compared with their white counterparts (Chart 15).  Median hourly pay is highest for 
+those of Chinese ethnicity, at just over £11, or around 15% higher than for whites.  There are also negative 
+pay gaps, though smaller ones, for workers from a mixed/multiple ethnic and Indian background. 
+ 
+At the other end of the spectrum, there are significantly positive pay gaps for other ethnic minority cohorts, 
+including black and Afro-Caribbean workers.  The largest pay gaps are for workers from a Pakistani and 
+Bangladeshi background, which average 13% and 20%, respectively (Chart 15).  These large pay gap 
+differences between different ethnic minority cohorts beg the question of whether it is useful to think about a 
+single “ethnicity pay gap”.   
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  18 
+ 
+18
+ Chart 15:  Granular ethnicity pay gaps 
+Ethnicity groups
+Mixed/Multiple ethnic groups
+Indian
+Pakistani
+Bangladeshi
+Chinese
+Any other asian background
+Black/African/Caribbean/Black British
+Other ethnic group
+‐40
+‐30
+‐20
+‐10
+0
+10
+20
+30
+Ethnicity pay gap, per cent
+2018
+Sample average
+ Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive ethnicity pay gap in this chart indicates that ethnic minorities earn less than their white counterparts, whereas a 
+negative ethnicity pay gap indicates that ethnic minorities earn more than their white counterparts. 
+ 
+Whether an ethnic minority individual is born in the UK or not also plays an important role in their pay.   
+Chart 16 shows that ethnic minorities born in the UK (apart from those from Bangladeshi and Pakistani 
+backgrounds) earn more than UK-born white people.  Educational attainment is part of the explanation here.  
+Although ethnic minorities born in the UK are a small part of our sample (2%), they are almost twice as likely 
+to have a degree relative to white UK-born workers (40% versus 21%).  
+ 
+In stark contrast, most ethnic minorities born outside the UK earn considerably less than white people born 
+outside the UK.  This in part reflects compositional effects, as a higher proportion of non-UK born ethnic 
+minorities have no qualifications compared to their white counterparts.   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+19 
+ 
+19
+  Chart 16:  Granular ethnicity gaps by country of origin, sample average 
+Ethnicity groups
+Mixed/Multiple ethnic groups
+Indian
+Pakistani
+Bangladeshi
+Chinese
+Any other asian background
+Black/African/Caribbean/Black British
+Other ethnic group
+‐50
+‐40
+‐30
+‐20
+‐10
+0
+10
+20
+30
+40
+Ethnicity pay gap, per cent
+Non‐UK born
+UK born
+ Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive ethnicity pay gap in this chart indicates that ethnic minorities earn less than their white counterparts, whereas a 
+negative ethnicity pay gap indicates that ethnic minorities earn more than their white counterparts.
+ 
+On average, ethnic minority women earn more than white women, whereas ethnic minority men earn less 
+than white men (Chart 17).  This is also true in the latest data.  Unconditionally, there is a clear and  
+well-defined pay gap for females, a clear and well-defined pay gap for ethnicity but, somewhat surprisingly, 
+no clear, well-defined pay gap for ethnic minority females.  This is a third puzzle in the unconditional pay 
+data. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+20 
+ 
+20
+  Chart 17:  Ethnicity pay gaps by gender 
+Gender
+Female
+Male
+‐15
+‐10
+‐5
+0
+5
+10
+15
+Ethnicity pay gap, per cent
+Sample average
+2018
+ Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive pay gap in this chart indicates that ethnic minorities of this gender earn less than their white counterparts of this 
+gender, whereas a negative pay gap indicates that ethnic minorities of this gender earn more than their white counterparts of this 
+gender. 
+ 
+Section 4:  Explaining Pay Gaps 
+ 
+In this section, we explore the factors contributing to gender and ethnicity pay gaps.  Accounting for 
+individual and job characteristics helps us to estimate conditional gender and ethnicity pay gaps.  Can pay 
+gaps be explained by characteristics of the individuals (such as their level of education or location) or the 
+jobs they are doing (such as the sector or occupation)?  How much of the pay gap remains “unexplained” 
+once these characteristics are accounted for?  As well as providing a greater understanding of the drivers of 
+pay gaps, this approach helps resolve some of the puzzles otherwise apparent in the unconditional pay gap 
+data. 
+ 
+The ability to “explain” pay gaps in terms of worker or job characteristics does not necessarily imply these 
+pay gaps are justified or are not therefore a policy problem.  For example, if the education system is working 
+inequitably across gender or race, in a way that causes pay gaps to emerge, this would be a clear market 
+failure that would justify policy intervention.  In other cases the choice of an occupation or sector may be a 
+personal decision, reflecting lifestyle and values, and less obviously a market failure or policy concern. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  21 
+ 
+21
+ The decompositions we carry out aim to identify the role of individual and environmental factors.  One way of 
+doing so is by using the so-called Oaxaca-Blinder decomposition.  This decomposes the gap between the 
+wages of two groups into two parts.  The first captures the share of the gap explained by the different 
+compositional characteristics of the two groups.  The second captures the sensitivity of pay to those 
+characteristics, something which is not typically observable.  
+  
+Suppose y is our variable of interest, in this case wages.  We have two groups, say male and female.  We 
+assume y is explained by a vector of determinants, x, according to the following model: 
+  
+(1)    (cid:1877)(cid:3036)= (cid:4682)(cid:2010)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:1876)(cid:3036)(cid:3397)	(cid:2013)(cid:3036)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032)		(cid:1861)(cid:1858)	(cid:1858)(cid:1857)(cid:1865)(cid:1853)(cid:1864)(cid:1857)
+(cid:2010)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:1876)(cid:3036)(cid:3397)	(cid:2013)(cid:3036)(cid:3040)(cid:3028)(cid:3039)(cid:3032)	(cid:1861)(cid:1858)	(cid:1865)(cid:1853)(cid:1864)(cid:1857)
+  
+where the vectors of the β parameters include intercepts.  To keep things simple, assume there is a single 
+factor – education – and that males benefit more, wage-wise, than females from a given level of education.  
+In other words, at each educational level (x), the level of wages (y) are higher for males than females.  
+Assume, again for simplicity, that males also have higher levels of educational attainment than females.  This 
+means that, for compositional reasons, we would also expect males to earn more than females. 
+  
+The gap between male and female wages, (cid:1877)(cid:3040)(cid:3028)(cid:3039)(cid:3032) and (cid:1877)	(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032), is  
+where (cid:1876)(cid:3040)(cid:3028)(cid:3039)(cid:3032) and (cid:1876)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032) are vectors of explanatory variables evaluated at their means for males and 
+(2)    (cid:1877)(cid:3040)(cid:3028)(cid:3039)(cid:3032)	(cid:3398)	(cid:1877)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:3404)	(cid:2010)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:1876)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:3398)	(cid:2010)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:1876)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032) 
+  females, respectively.  The Oaxaca-Blinder decomposition allows us to split up the overall gap into the part 
+that is attributable to (i) differences in x's (the so-called “accounted for” component capturing compositional 
+differences) and (ii) differences in the β's (the “unaccounted for” component reflecting the greater impact of a 
+given factor on males versus females).  In other words, the wage gap between the two groups can be 
+expressed as: 
+(3)    (cid:1877)(cid:3040)(cid:3028)(cid:3039)(cid:3032)	(cid:3398)	(cid:1877)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:3404)	∆(cid:1876)(cid:2010)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:3397)	∆(cid:2010)(cid:1876)(cid:3040)(cid:3028)(cid:3039)(cid:3032) 
+where     ∆(cid:1876)(cid:3404)	(cid:1876)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:3398)	(cid:1876)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032) and ∆(cid:2010)(cid:3404)	(cid:2010)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:3398)	(cid:2010)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032) 
+   
+In this way, we can split the gender pay gap into a part that can be accounted for by females having different 
+characteristics (x's) than males, and a part resulting from females being treated differentially to males given 
+those characteristics (β's).  This expression can be further rewritten as (4), which compares the regressions 
+coefficients to their hypothetical value in a world of no labour market discrimination. 
+(4) (cid:1877)(cid:3040)(cid:3028)(cid:3039)(cid:3032)	(cid:3398)	(cid:1877)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:3404)	∆(cid:1876)(cid:2010)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:3397)	(cid:1876)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:4666)(cid:2010)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:3398)(cid:2010)∗(cid:4667)(cid:3397)	(cid:1876)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:4666)(cid:2010)∗(cid:3398)(cid:2010)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:4667) 
+ where     ∆(cid:1876)(cid:3404)	(cid:1876)(cid:3040)(cid:3028)(cid:3039)(cid:3032)(cid:3398)	(cid:1876)(cid:3033)(cid:3032)(cid:3040)(cid:3028)(cid:3039)(cid:3032)  and  
+(cid:2010)∗(cid:3404)(cid:1874)(cid:1857)(cid:1855)(cid:1872)(cid:1867)(cid:1870)	(cid:1867)(cid:1858)	(cid:1866)(cid:1867)(cid:1866)(cid:3398)(cid:1856)(cid:1861)(cid:1871)(cid:1855)(cid:1870)(cid:1861)(cid:1865)(cid:1861)(cid:1866)(cid:1853)(cid:1872)(cid:1867)(cid:1870)(cid:1877)	(cid:1855)(cid:1867)(cid:1857)(cid:1858)(cid:1858)(cid:1861)(cid:1855)(cid:1861)(cid:1857)(cid:1866)(cid:1872)(cid:1871) 
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  22 
+ 
+22
+ We use an extensive list of factors or characteristics, x, to help explain pay gaps.  Some of these relate to 
+the characteristics of the individual worker – for example, their number of years in employment, their tenure 
+in post, where they live, their age and their educational qualifications.  Other factors relate to the nature of 
+the job itself – whether it is full or part-time, the occupation, sector and job-type.  Both factors, individual and 
+job-specific, are likely to be important in explaining pay. 
+ 
+Chart 18 shows the Oaxaca-Blinder decomposition of the gender pay gap over the sample, when the 
+average gender pay gap in the UK was close to 22%.  From the decomposition, around half of that gap can 
+be accounted for by compositional effects, arising from the different characteristics of either the worker or the 
+job they are carrying out.  That leaves around 11 percentage points of the pay gap unaccounted for by these 
+factors.  In other words, around half of the gender pay gap is difficult to justify on fundamental grounds, 
+consistent at least with some significant degree of gender pay “bias”. 
+ 
+Of those factors explaining the gender pay gap, the most important relate to the characteristics of the job 
+rather than the individual.  Occupation, sector, and the full/part-time nature of work are the most important 
+factors accounting for the gender pay gap.   It is difficult to know how much these reflect personal choice 
+(workers’ preference for a certain sector or way of working) rather than legacy environmental factors (such 
+as the preponderance of males in certain professions or sectors).  
+ 
+Chart 18:  Oaxaca-Blinder decomposition of gender pay gap, sample average 
+Years
+Region
+Age
+Qualification
+FT/PT
+Total explained
+Occupation
+Tenure
+Sector
+Job type
+Public
+Unaccounted 
+for
+Accounted for
+Total gap
+Per cent
+25
+20
+15
+10
+5
+0
+‐5
+ Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive gender pay gap in this chart indicates that women earn less than men, whereas a negative gender pay gap indicates 
+that women earn more than men.  ‘Years’ refer to time-fixed effects, ‘Job type’ captures if the job is temporary or permanent.  
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  23 
+ 
+23
+ Looked at over time, the halving of the gender pay gap since the mid-90s has been driven roughly equally by 
+accounted and unaccounted for components (Chart 19).  The main factor causing the shrinkage in the 
+explained component is qualifications.  While at the start of the sample the qualification component was 
+adding to the gender pay gap, by the end it was dragging.  This reflects the significant increase in relative 
+educational attainment by females over the period.  The unexplained – or “gender pay bias” – component 
+has shrunk somewhat, though remains significant at just under 10% at the end of the period. 
+ 
+Chart 19:  Gender pay gap Oaxaca-Blinder decomposition time series
+Unaccounted for
+Accounted for
+Gender pay gap
+Per cent
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+35
+30
+25
+20
+15
+10
+5
+0
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive gender pay gap in this chart indicates that women earn less than men. 
+ 
+Looked at regionally, although the unconditional gender pay gap is relatively stable over the sample in 
+London, once we allow for compositional effects the picture is more promising.  The unexplained (“pay bias”) 
+component of pay has fallen over time in London, reaching 5.5% by the end of the sample.  Outside London, 
+the gender pay gap has also been on a downward trend, driven by both explained and unexplained factors.   
+  
+Next we implement the same methodology for the ethnicity pay gaps.10  Chart 20 shows the Oaxaca-Blinder 
+decomposition of the ethnicity pay gap over the full sample.  The conditional ethnicity pay gap averages a 
+relatively modest 5% over the sample, smaller than for gender.  This is no longer the case once we account 
+for compositional effects.  These point to higher, rather than lower pay, for ethnic minorities.  Specifically, 
+                                                      
+10  The share of the ethnic minority population has been increasing over time in our sample from approximately 4% in 1994 to 10% in 
+2019.  This means the median observation for the white group occurs a lot earlier than for the ethnic minority group.  As a result, when 
+we run a pooled Oaxaca-Blinder decomposition, more weight is placed on later observations, where the ethnic minority population is 
+larger leading to a negative ethnicity pay gap.  This is at odds with time-series results which take into account the relative shares of the 
+two groups in each year.  To ensure that the results are comparable with the gender pay gap, we aggregated the results from the time 
+series regressions using the share of the two groups in each year as weights.  
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+24 
+ 
+24
+  ethnic minority workers tend to be employed in regions where wages are higher (40% of ethnic minorities 
+work in London) and tend to have higher qualifications than their white counterparts.     
+ 
+Once these compositional effects are accounted for, the unexplained (“pay bias”) ethnicity pay gap is as 
+large as for females.  It averages just under 10 percentage points over the sample.  This demonstrates one 
+of the perils of interpreting raw, unconditional, pay gap data too literally.  Replicating this analysis for people 
+born in the UK reduces by half the size of the pay bias.  Conversely, for people born outside the UK from 
+ethnic minority backgrounds we estimate a significantly larger pay bias, at around 12 percentage points. 
+ 
+Chart 20:  Ethnicity pay gap Oaxaca-Blinder decomposition, sample average  
+Unaccounted for
+Sex
+Age
+Occupation
+Job type
+Qualification
+Tenure
+Public sector
+Total
+Sector
+Region
+FT/PT
+Total gap
+Accounted for
+Per cent
+15
+10
+5
+0
+‐5
+‐10
+‐15
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive ethnicity pay gap in this chart indicates that ethnic minorities earn less than their white counterparts, whereas a 
+negative ethnicity pay gap indicates that ethnic minorities earn more than their white counterparts.  ‘Job type’ captures if the job is 
+temporary or permanent.  
+ 
+Looking over time (Chart 21), the unconditional ethnicity pay gap was broadly stable from the mid-1990s 
+until 2015, since when it has declined.  That decline can to a large extent be explained by the rise in the 
+relative educational performance of ethnic minorities which, by the end of the sample, is subtracting 2 
+percentage points from the pay gap.   
+ 
+By contrast, the unexplained ethnicity pay gap has been largely unchanged over the sample.  Not only is the 
+unexplained (“pay bias”) part of the ethnicity pay gap as large as for gender;  it appears also to have been 
+more persistent and has shown fewer signs of falling over time.  The ethnicity pay gap problem in the UK is 
+every bit as acute as the gender pay gap problem, contrary to the message from the raw pay gap data.   
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  25 
+ 
+25
+ Chart 21:  Ethnicity pay gap Oaxaca-Blinder decomposition time series 
+Per cent
+Unaccounted for
+Accounted for
+Ethnicity pay gap
+1997
+1999
+2001
+2003
+2005
+2007
+2009
+2011
+2013
+2015
+2017
+2019
+15
+10
+5
+0
+‐5
+‐10
+‐15
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A positive ethnicity pay gap in this chart indicates that ethnic minorities earn less than their white counterparts, whereas a 
+negative ethnicity pay gap indicates that ethnic minorities earn more than their white counterparts.
+ 
+The decomposition also helps explain the otherwise puzzling finding of a larger ethnicity pay gap in London 
+than elsewhere in the UK.  That larger gap appears largely to reflect compositional effects.  Once these are 
+accounted for, the unexplained ethnicity pay gap in London, at 13 percentage points, is similar to the sample 
+average, at just under 10 percentage points, and is about as persistent. 
+ 
+An alternative, and more flexible, way of exploring the determinants of pay gaps is by using regression 
+techniques.  In our baseline regressions, we use the approach of Goldin (2014) to estimate gender and 
+ethnicity pay gaps.  Given the rich set of controls in our dataset, this offers robust estimates of conditional 
+gender and ethnicity pay gaps.  It also provides useful insights into the factors, individual and job-specific, 
+most important for driving headline pay gaps.   
+ 
+The Goldin specification is: 
+ (5) ln(cid:4666)(cid:1868)(cid:1853)(cid:1877)(cid:4667)(cid:3404)		∝	(cid:3397)	(cid:2010)∗(cid:1832)(cid:1857)(cid:1865)(cid:1853)(cid:1864)(cid:1857)(cid:3397)	(cid:2020)∗(cid:1829)(cid:1867)(cid:1866)(cid:1872)(cid:1870)(cid:1867)(cid:1864)(cid:1871)(cid:3397)(cid:2013) 
+Where (cid:1832)(cid:1857)(cid:1865)(cid:1853)(cid:1864)(cid:1857)= (cid:3420)				1		(cid:1861)(cid:1858)	female	
+0		(cid:1861)(cid:1858)	male  
+   
+We regress the natural log of average gross hourly pay on a binary female coefficient and a set of controls, 
+wider than the ones used in Goldin (2014).  The set of controls comprises both individual and job-specific 
+characteristics.  It includes:  age, female-age group interactions, usual hours worked, public or private sector, 
+full time or part time, contract type, whether born in the UK, has a child under 2, female and child under 2 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  26 
+ 
+26
+ interaction, occupation, female and occupation interaction, educational qualifications, tenure, region of home 
+and sector (Annex Table 1A).11 
+ 
+Once we take account of these factors, Table 2 suggests that there was, on average, a conditional gender 
+pay gap of just under -15% between 1994 and 2019.12  This gender pay gap is highly statistically significant.  
+To understand how it has changed over time, we split the sample into five periods (1994-1998, 1999-2003, 
+2004-2008, 2009-2013, 2014-2019) and re-estimate (5).  As Chart 22 shows, the gender pay gap has fallen 
+over time, though it remains around -10% and is statistically significant by the end. 
+  
+Table 2:  Gender pay gap for specification (5) 
+ 
+Pay gap, 
+per cent 
+-15% 
+Number of 
+observations 
+for females 
+291,859 
+ Coefficient
+Female 
+-0.159*** 
+(-11.17) 
+Observations  537,177 
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  Coefficients are recalculated into percentages as per Palmquist (1980) due to log-linear specification.  A negative pay gap in this 
+chart indicates that women earn less than men. 
+ 
+Chart 22:  Conditional gender wage gap under specification (5) 
+Difference in lnpay
+Gender pay gap
+1994‐1998
+1999‐2003
+2004‐2008
+2009‐2013
+2014‐2019
+0.05
+0
+‐0.05
+‐0.1
+‐0.15
+‐0.2
+‐0.25
+‐0.3
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A negative gender pay gap in this chart indicates that women earn less than men.
+ 
+                                                      
+11  The regressions assume the effect of the controls on pay is homogenous between different groups.  If we run a Chow test on this 
+restriction, it fails in our sample.  This would be a useful area for future research. 
+12  Coefficients are recalculated into percentages as per Palmquist (1980) due to log-linear specification. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+27 
+ 
+27
+  We can replicate this regression for ethnicity with the same set of controls, except that the occupation, age 
+groups, and children under 2 variables now interact with the ethnic minority variable. 
+  
+(6) ln(cid:4666)(cid:1868)(cid:1853)(cid:1877)(cid:4667)(cid:3404)		∝	(cid:3397)	(cid:2010)∗(cid:1831)(cid:1872)h(cid:1866)(cid:1861)(cid:1855)	(cid:1865)(cid:1861)(cid:1866)(cid:1867)(cid:1870)(cid:1861)(cid:1872)(cid:1877)(cid:3397)	(cid:2020)∗(cid:1829)(cid:1867)(cid:1866)(cid:1872)(cid:1870)(cid:1867)(cid:1864)(cid:1871)(cid:3397)(cid:2013) 
+Where	(cid:1831)(cid:1872)h(cid:1866)(cid:1861)(cid:1855)	(cid:1865)(cid:1861)(cid:1866)(cid:1867)(cid:1870)(cid:1861)(cid:1872)(cid:1877)= (cid:3420)				1		(cid:1861)(cid:1858)	person	does	not	belong	to	white	ethnic	group	
+0		(cid:1861)(cid:1858)	person	belongs	to	white	ethnic	group
+    
+With this specification, the conditional gap for ethnic minorities averages around -11% and is again 
+significant at the 1% level.  Looked at over time, Chart 23 shows that this gap was quite volatile in the early 
+part of the sample, although the coefficients are also insignificant for this period.  Since 2009, the ethnicity 
+pay gap has remained in double digits for most of the period and has been statistically significant.13 
+ 
+Chart 23:  Conditional ethnicity wage gap under specification (6) 
+ 
+Difference in lnpay
+Not statistically 
+significant
+Statistically 
+significant 
+1994‐1998
+1999‐2003
+2004‐2008
+2009‐2013
+2014‐2019
+Ethnicity pay gap
+0.1
+0.05
+0
+‐0.05
+‐0.1
+‐0.15
+‐0.2
+ Source:  ONS Labour Force Survey and Bank of England calculations.  
+Note:    A  negative  ethnicity  pay  gap  in  this  chart  indicates  that  ethnic  minorities  earn  less  than  their  white  counterparts,  whereas  a 
+positive ethnicity pay gap indicates that ethnic minorities earn more than their white counterparts.
+ 
+The raw, unconditional pay data suggests that wage patterns may vary significantly across different ethnic 
+minority groups, with some pay gaps negative and others positive.  To see whether these effects hold true 
+having accounted for compositional effects, we can run (7) with separate binary variables for each ethnicity 
+group i relative to a white control group, namely:  mixed/multiple ethnic groups, Indian, Pakistani, 
+Bangladeshi, Chinese, other Asian background, Black/African/Caribbean/Black British and “Other”.   
+                                                      
+13  This may in part because of the rising proportion of ethnic minorities in the sample population. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+ 28 
+ 
+28
+  (7) ln(cid:4666)(cid:1868)(cid:1853)(cid:1877)(cid:4667)(cid:3404)		∝	(cid:3397)	(cid:2010)∗(cid:1831)(cid:1872)(cid:1860)(cid:1866)(cid:1861)(cid:1855)	(cid:1865)(cid:1861)(cid:1866)(cid:1867)(cid:1870)(cid:1861)(cid:1872)(cid:1877)(cid:3036)(cid:3397)	(cid:2020)∗(cid:1829)(cid:1867)(cid:1866)(cid:1872)(cid:1870)(cid:1867)(cid:1864)(cid:1871)(cid:3397)(cid:2013) 
+Where	(cid:1831)(cid:1872)(cid:1860)(cid:1866)(cid:1861)(cid:1855)	(cid:1865)(cid:1861)(cid:1866)(cid:1867)(cid:1870)(cid:1861)(cid:1872)(cid:1877)(cid:3036)= (cid:3420)		1		(cid:1861)(cid:1858)	person	does	belongs	to	ethnic	group	(cid:1861)	
+0		(cid:1861)(cid:1858)	person	belongs	to	white	ethnic	group  
+   
+From Table 3, the mixed ethnic group does not have a statistically significant pay gap.  All other ethnic 
+groups do have a significant and negative pay gap, varying from -6% and -7% for Indians and Chinese 
+through to -20% and -13%, respectively, for workers from a Bangladeshi and Pakistani ethnic background.  
+In other words, once we account for compositional effects, a more consistent pattern of negative ethnicity 
+pay gaps emerges, although the size of the gap varies significantly across different ethnic minority groups. 
+ 
+Table 3:  Conditional granular ethnicity pay gaps for specification (7) 
+ 
+Ethnicity 
+Mixed ethnic 
+Indian 
+Pakistani 
+Bangladeshi 
+Chinese 
+Any other Asian background 
+Black/African/Caribbean/Black 
+British 
+Other ethnic group 
+Observations 
+Coefficient 
+(compared to 
+coefficient for White) 
+Pay gap, 
+per cent 
+2% 
+-7% 
+-13% 
+-20% 
+-6% 
+-13% 
+-13% 
+-8% 
+0.0186 
+-0.82 
+-0.0774*** 
+(-10.29) 
+-0.144*** 
+(-13.19) 
+-0.228*** 
+(-12.98) 
+-0.0617*** 
+(-3.35) 
+-0.139*** 
+(-11.90) 
+-0.135*** 
+(-17.04) 
+-0.0824*** 
+(-7.34) 
+251,064 
+Number of 
+observations for 
+ethnic minority 
+groups 
+3,022 
+10,480 
+3,521 
+1,235 
+1,797 
+3,893 
+10,222 
+4,623 
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  Coefficients are recalculated into percentages as per Palmquist (1980) due to log-linear specification.  A negative pay gap in this 
+table indicates that ethnic minorities earn less than their white counterparts, whereas a positive pay gap indicates that ethnic minorities 
+earn more than their white counterparts.  
+ 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  29 
+ 
+29
+  We can extend these specifications by considering interaction effects between gender and ethnicity.  This is 
+achieved by adding two dummy variables to the original specification (5):  
+  
+(8) ln(cid:4666)(cid:1868)(cid:1853)(cid:1877)(cid:4667)(cid:3404)		∝	(cid:3397)	(cid:2010)∗(cid:1832)(cid:1857)(cid:1865)(cid:1853)(cid:1864)(cid:1857)(cid:3397)	(cid:2025)∗(cid:1831)(cid:1872)h(cid:1866)(cid:1861)(cid:1855)	(cid:1865)(cid:1861)(cid:1866)(cid:1867)(cid:1870)(cid:1861)(cid:1872)(cid:1877)(cid:3397)	(cid:2026)∗(cid:4666)(cid:1832)(cid:1857)(cid:1865)(cid:1853)(cid:1864)(cid:1857)	∗(cid:1831)(cid:1872)h(cid:1866)(cid:1861)(cid:1855)	(cid:1865)(cid:1861)(cid:1866)(cid:1867)(cid:1870)(cid:1861)(cid:1872)(cid:1877)(cid:4667)	(cid:3397)	(cid:2020)∗
+(cid:1829)(cid:1867)(cid:1866)(cid:1872)(cid:1870)(cid:1867)(cid:1864)(cid:1871)(cid:3397)	(cid:2013) 
+Where	(cid:1831)(cid:1872)h(cid:1866)(cid:1861)(cid:1855)	(cid:1865)(cid:1861)(cid:1866)(cid:1867)(cid:1870)(cid:1861)(cid:1872)(cid:1877)= (cid:3420)				1		(cid:1861)(cid:1858)	person	does	not	belong	to	white	ethnic	group	
+0		(cid:1861)(cid:1858)	person	belongs	to	white	ethnic	group
+  
+As shown in Table 4, we find that the conditional gender wage gap (for white women) remains around -15%.  
+For female ethnic minorities this becomes larger at around -18%, suggesting an additional “pay bias”.  This 
+resolves another puzzle in the unconditional pay data.  By contrast, ethnic minority men suffer no such 
+additional bias.  Indeed, at around -10 percentage points, their pay gap is smaller than for white women.  
+  
+ Table 4:  Conditional gender pay gap for specification (5) and (8) 
+ 
+  
+Specifications 
+(5) 
+(8) 
+Coefficient  Pay gap, 
+per cent  Coefficient Pay gap, 
+per cent 
+-15% 
+-15% 
+Number of 
+observations 
+per group 
+291,859 
+-0.163*** 
+(-11.30) 
+-0.102*** 
+(-23.01) 
+0.0719*** 
+(-13.57) 
+-10% 
+38,793 
+7% 
+ Female 
+Ethnic minority 
+Female*Ethnic 
+minority 
+Observations 
+-0.159*** 
+(-11.17) 
+  537,177 
+524,612 
+Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:   Coefficients are recalculated into percentages as per Palmquist (1980) due to log-linear specification.  In order to calculate the 
+pay gap for female ethnic minorities, we have added up the coefficients of the female, ethnic minority, and the female-ethnic minority 
+interaction dummies, as all of these dummies take the value 1 for a female ethnic minority.  
+ 
+If we run these regressions over time, the same broad pattern emerges.  White men earn more than any of 
+the other three categories (ethnic minority males and females and white females), although all of these pay 
+gaps have shrunk somewhat over the past 25 years (Chart 24).  Pay gaps for ethnic minority males have 
+tended to be a little smaller, but have also fallen less rapidly.  Pay gaps for ethnic minority women, while 
+halving over the period, remain strikingly high.  
+ 
+ 
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+30 
+ 
+30
+  Chart 24:  Conditional gender wage gap under specification (8) 
+Difference in lnpay
+Ethnic minority male vs white male
+Gender pay gap
+Ethnic minority female vs white male
+1994‐1998
+1999‐2003
+2004‐2008
+2009‐2013
+2014‐2019
+0.05
+0
+‐0.05
+‐0.1
+‐0.15
+‐0.2
+‐0.25
+‐0.3
+‐0.35
+ Source:  ONS Labour Force Survey and Bank of England calculations. 
+Note:  A negative pay gap in this chart indicates that the sub-group earns less than white men.  
+ 
+Just because a pay gap can be explained by a set of individual and work-specific characteristics does not 
+mean it is necessarily either reasonable or justifiable.  Differences in these characteristics may themselves 
+suggest inequalities or biases that need rectifying.  It is interesting to examine what our regression results tell 
+us about the relative importance of various factors in determining pay gaps.  To assess this, we run separate 
+regressions for white men, white women, ethnic minority men and ethnic minority women as the effect of 
+various factors on pay is not homogenous for these groups.  Some key findings include: 
+ 
+(a) 
+39%.  That penalty exists irrespective of gender or ethnicity.  The penalty is not equal across these 
+groupings, however.  This penalty is highest for white women, at 41%, and lowest for ethnic minorities at 
+33%.  The story is slightly different when we compare degrees with “other” qualifications.  For ethnic 
+minorities, where university degrees from abroad often end up in this category, the penalty is a lot smaller, at 
+around 24%, compared with non-ethnic minorities.   
+Education.  The “penalty” for having no qualification, compared to having a degree, is on average 
+ 
+(b) 
+Age.  Compared to the earnings of the 25-29 age group, each subsequent age group earns more up 
+to around the mid-50s, where the earnings ‘premium’ flattens out a bit.  For example, those aged 45-49 earn 
+a pay premium, on average, of around 19% compared with those aged 25-29.  This pay premium is notably 
+larger for white men than women or ethnic minorities.  Men aged 45-49 earn an “extra” wage premium of 
+around 10% compared with the other sub-groups.   
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  31 
+ 
+31
+ Children under 2.  Viewed on its own, having a child under 2 appears to have a positive effect on the 
+Part-time and non-permanent work.  Part-time work, compared with full-time employment, reduces 
+(c) 
+earnings across all four sub-groups, on average by 16%.  This discount is larger for white men (22%) than 
+for ethnic minorities and white women (10%).  If employment is not permanent, this also reduces earnings 
+across the sub-groups, with white men again being affected the most (10% reduction in pay). 
+ 
+(d) 
+earnings of both white men and women, of 6% and 1% respectively.  For ethnic minority men, the effect is 
+not statistically significant while for ethnic minority women earnings are reduced by 1%.  The results are 
+more interesting if we interact having a child under 2 with a variable capturing full or part-time employment.  
+While for white men, the effect on earnings is still positive, for women the effect of having a child under 2 is 
+only positive for women working part-time.  For women working full-time, having a child under the 2 reduces 
+earnings by around 6%.  This suggests women in full-time jobs experience a ‘maternity penalty’, whereas 
+men and women in part-time employment do not.  
+ 
+Financial sector.  Compared to earnings in the benchmark sector (agriculture), most sectors have 
+(e) 
+higher pay.  The sector with the highest relative pay is finance, with a 46% premium relative to the 
+benchmark.  This premium is notably higher for men than women (58% versus 32%), although it is highest 
+for ethnic minority men (76%).  These are large pay gaps, bearing in mind these estimates take account of 
+differences in the individual characteristics of the workers, such as age and educational achievement. 
+ 
+Born in the UK.   Being born in the UK, on average, leads to slightly lower earnings than not.  
+(f) 
+However, this average masks sharply opposing trends among whites and ethnic minorities.  Being born in 
+the UK and white reduces earnings by around 7% compared with whites born outside the UK.  This largely 
+reflects the effects of those with “other qualifications”, and the fact that white people born outside the UK 
+tend to be more educated.  By contrast, ethnic minorities born in the UK boosts earnings by around 7% 
+relative to non-UK born ethnic minorities.  UK-born ethnic minorities tend to be more educated and earn 
+more across all the types of qualifications, compared with non-UK born ethnic minorities.  
+ 
+London.  Compared to the benchmark (the North), the region in which people live and work plays a 
+(g) 
+relatively very small role in determining their pay, with one exception – London and the South East.  A job 
+there boosts earnings, relative to the North, by 21% and 12% respectively.  This effect is present across all 
+four sub-groups.  The ‘London effect’ is if anything more pronounced among white women, who earn 26% 
+more.  
+ 
+Section 5:  Conclusion 
+ 
+Let us conclude by summarising some of our main findings and then setting out some of the potential next 
+steps, policy-wise, that flow from this analysis.   
+ 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+32 
+ 
+32
+  First, the good news is that, once we control for various job and individual-specific factors, there is clear 
+evidence of progress having been made in shrinking gender and ethnicity pay gaps in the UK over the past 
+quarter-century or so.  Based on the results from the Oaxaca-Blinder decomposition, these gaps have 
+shrunk by around half for females, and by a little less than that for ethnic minorities.  
+ 
+Second, the less good news is that these gender and ethnicity pay gaps remain large even once various 
+compositional effects are taken into account, at around 10 percentage points.  Pay gaps have not only been 
+large but persistent, strikingly so among ethnic minorities, even once we make allowance for differences in 
+skill and job attributes.  This suggests, despite progress, much remains to be done. 
+ 
+Third, even where we can “explain” pay gaps using various fundamental factors, this should not be taken to 
+imply these gaps are necessarily justifiable.  For example, consistent and large education and skills 
+differences between cohorts could themselves be taken as evidence of a policy failure.  So too might a 
+preponderance of certain types in certain sectors or occupations. 
+ 
+Fourth, consistent with that, our results suggest that existing pay biases can be amplified and exaggerated 
+by the effects of age, the nature of the employment contract, educational qualifications and having children 
+under the age of 2.  On average, these too tend to further the pay disadvantage for women and ethnic 
+minorities. 
+ 
+In terms of policy implications, a number of important government initiatives are already underway, among 
+central banks and more widely.  The Bank of England began publishing its gender pay gaps in 2017 and has 
+chosen voluntarily to publish its ethnicity pay gap too since 2018.  In 2019, the median gender pay gap was 
+23% and the median ethnicity pay gap was just under 7%, reflecting lower representation of both groups at 
+senior levels.  Published pay gaps were a further useful prompt for action by the Bank. 
+ 
+The Bank is committed to closing these pay gaps, including by setting stretching targets for representation, in 
+general and at senior levels.  Good progress is being made.  The share of BAME and female staff below 
+senior management in the Bank currently stands at 19% and 46%, respectively, compared to targets of 20% 
+and 50%.  At senior management, BAME and female representation is 5% and 31%, compared to targets of 
+13% and 35%.14  A wide array of initiatives are underway to ensure the Bank meets these targets.  
+ 
+Other central banks have also made a further push towards improving their staff diversity, although few 
+publish pay gaps.  The ECB’s Executive Board introduced gender targets in 2013 in order to double the 
+share of women in management by 2019.  As of the end of 2018, 29% of management positions were held 
+by women compared with a target of 35% for the end of 2019.  For the most senior management roles the 
+share was 22% against a target of 28% for the end of 2019.  The ECB announced additional measures last 
+                                                      
+14  Carney (2019a) discusses diversity and inclusion in the Bank.  Carney (2019b) notes that the Bank’s gender pay gap is lower than for 
+most companies in the financial sector. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+33 
+ 
+33
+   year.  The Fed announced a Diversity and Inclusion Strategic Plan for 2016-19, aimed at fostering diversity 
+in the organisation.  In order to foster transparency and accountability, they report the composition of their 
+employees by diversity statistics annually.  
+ 
+Looking beyond central banks, the analysis presented here suggests some clear directions of travel.  First, at 
+present gender pay gap reporting in the UK only covers companies with more than 250 employees.  In 
+practice, this means it covers only around 40% of the UK working population in the private sector.15  To 
+tackle the pay gap comprehensively, this suggests there is a strong case for extending the pay reporting 
+regime to smaller companies – say, those with 30 or more staff.   
+ 
+Second, there is currently no compulsory system of company reporting on the ethnicity pay gap in the UK, 
+though the government has consulted on doing so.  The ethnicity pay gap is at least as large as for females, 
+and if anything has been more persistent, as shown by the Oaxaca-Blinder decomposition results.  In my 
+opinion, there are therefore strong grounds for extending compulsory reporting to ethnicity as well as gender.  
+This analysis also emphasises the importance of looking at labour market outcomes for different ethnic 
+minority groups, rather than necessarily treating ethnic minorities as a single group. 
+ 
+Third, at present only a handful of countries internationally require companies to publish gender and ethnicity 
+pay gaps.  There is a strong case for reporting diversity pay gaps, on an internationally-harmonised basis, to 
+allow cross-country as well as cross-company comparison.  Given their expertise on labour market issues, 
+this might be something on which the OECD could lead.  The international central banking community could 
+also help lead by example.   
+ 
+The benefits of internationally-harmonised disclosures, as an incentive device for action, have recently been 
+demonstrated in the case of climate change disclosures.  Today, financial firms with around $34 trillion 
+assets under management have committed to harmonised reporting using the Task-Force on Climate-related 
+Financial Disclosures (TCFD) template.16  This has encouraged wider scrutiny of, and actions to mitigate, the 
+risks to companies’ profits and balance sheets posed by climate change.  Pay gap disclosure could have a 
+similarly profound behavioural effect on companies. 
+ 
+Fourth, there is also a strong case for improving the sets of data available publicly to monitor progress 
+towards equality of pay and opportunity in the workplace.  One example of useful additional data would be 
+longitudinal data tracking individuals from school into employment, perhaps using administrative data or new 
+surveys.  This would help to understand the key determinants, and obstacles, to career and pay progression. 
+ 
+Fifth and finally, published pay gap data are imperfect and can sometimes give a misleading impression of 
+diversity patterns.  We have demonstrated how raw pay gap data can sometimes give rise to puzzles.  We 
+                                                      
+15  https://www.gov.uk/government/publications/business-population-estimates-2019/business-population-estimates-for-the-uk-and-
+regions-2019-statistical-release-html 
+16 TCFD (2019). 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+34 
+ 
+34
+ have also demonstrated, however, that a careful consideration of various compositional factors can resolve 
+these puzzles and provide a clearer picture of underlying patterns.  There is no reason why companies could 
+not use these techniques when interpreting their own results. 
+ 
+Others have argued that publishing pay gap data may discourage companies from investing in a pipeline of 
+diverse talent for the future, as hiring younger and lower-paid workers could actually show up as a worsening 
+pay gap in the near-term, even if it bears fruit longer-term.  These are legitimate concerns.  But they are far 
+from being knock-down arguments when it comes to publishing pay gap data. 
+ 
+Published pay gaps are a starting point for corporate and national accountability and explanation, not an 
+end-point.  No single metric can perfectly summarise all dimensions of diversity.  But publication of a single 
+metric can, and has, served as the catalyst for an explanation and action, at the company and national 
+levels.  For example, it prompts companies to justify their misses and to explain how and over what horizon 
+they expect their pay gap and diversity targets to be hit. 
+ 
+There is an analogy here with my day job – inflation-targeting using monetary policy.  The single target does 
+not wholly or perfectly summarise all dimensions of the economy.  But having the target serves as a catalyst 
+for explanation and action – an explanation for misses and an action plan for returning inflation to target.  
+That improves policy accountability and societal outcomes.  The same could be true of companies when it 
+comes to diversity policies and outcomes. 
+ 
+  
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  35 
+ 
+35
+ Annex  
+ 
+Table A1: Variables used 
+Variable 
+Age groups 
+Children under 2 
+Education 
+Ethnicity 
+Calculation/Description 
+'AGEGROUPS' 
+‘FDPCH2’ Number of dependent children in family 
+aged under 2 
+A combination of 'HIQUAPD', 'HIQUALD', 
+'HIQUAL4D', 'HIQUAL5D', 'HIQUAL8D', 
+'HIQUL11D', and 'HIQUL15D' to create 6 classes 
+of highest qualification attained 
+A combination of ‘ETHUKEUL’, ‘ETHCEN15’, 
+‘ETHCEN’ to create 9 classes of ethnicity as these 
+change across time 
+Full-time / Part-time 
+‘FTPT’ Whether working full or part-time 
+Gender 
+‘SEX’ Sex of respondent 
+Job Type (Permanent or 
+Temporary) 
+‘JOBTYP’ 
+Occupation 
+Pay 
+Occupation (main job). Calculated through a 
+combination of ‘SOC2KM’, ‘SC102KM’, 
+SC2KMMJ’, ‘SOC10M’ and ‘SOCMAIN’ to create 
+10 classes of occupations as these change across 
+time 
+Log of average gross hourly pay in main job 
+(‘HOURPAY’) 
+Public sector or private 
+sector 
+‘PUBLICR’ Whether working in the public or 
+private sector 
+Region 
+Sector 
+Region of usual residence ‘URESMC’ 
+A combination of Sector (SIC2007) ‘IND07’ and 
+industry section (main job) ‘IND07M’ as these 
+change across time  
+Tenure 
+Length of time continuously employed ‘EMPLEN’ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  36 
+ 
+36
+ UK-born 
+A combination of varying country of origin and 
+country of birth variables: ‘CRYOX’, ‘CRYOX7’, 
+‘CRYO’, ‘CRYO7’ and ‘CRY01’ 
+Usual hours worked 
+Log of total usual hours in main job (including 
+overtime) ‘TTUSHR’ 
+Wave 
+‘THISWV’ Wave to which the data refers to 
+   
+All speeches are available online at www.bankofengland.co.uk/speeches 
+37 
+ 
+37
+ References 
+ 
+Alkadry, M G and Tower, L E (2006), 'Unequal Pay: The Role of Gender', Public Administration Review, 
+Vol. 66, No. 6, pp. 888-898. 
+ 
+BEIS (2017), 'Race in the workplace: The McGregor-Smith Review', Department of Business, Energy and 
+Industrial Strategy. 
+ 
+Bjerk, D (2007), 'The Differing Nature of Black-White Wage Inequality across Occupational Sectors', The 
+Journal of Human Resources, Vol. 42, No. 2, pp. 398-434. 
+ 
+Black, D, Haviland, A, Sanders, S and Taylor, L (2006), 'Why do Minority Men Earn Less? A Study of 
+Wage Differentials among the Highly Educated', The Review of Economics and Statistics, Vol. 88, No. 2, pp. 
+300-313. 
+ 
+Blau, F D and Kahn, L M (2017), 'The Gender Wage Gap: Extent, Trends, and Explanations', Journal of 
+Economic Literature, Vol. 55, No. 3, pp. 789-865. 
+ 
+Brynin, M (2017), 'The gender pay gap', Equality and Human Rights Commission, Research Report, No. 
+109. 
+ 
+Brynin, M and Guveli, A (2012), 'Understanding the ethnic pay gap in Britain', Work, Employment and 
+Society, Vol. 26, No. 4, pp. 574-587. 
+ 
+Business in the Community (2019), 'Race at work charter Survey Report: One year on 2019', Business in 
+the Community, October 2019. 
+ 
+Carneiro, P, Heckman, J and Masterov, D V (2005), 'Labor Market Discrimination and Racial Differences in 
+Premarket Factors', Journal of Law and Economic, Vol. 48, No. 1, pp. 1-39. 
+ 
+Carney, M (2019a), ‘Investing in Ethnicity & Race’, speech available at: 
+https://www.bankofengland.co.uk/speech/2019/mark-carney-investing-in-ethnicity-and-race-conference-
+2019-held-the-bank-of-england 
+ 
+Carney, M (2019b), ‘Finance by all, for all’, speech available at 
+https://www.bankofengland.co.uk/speech/2019/mark-carney-women-in-banking-and-finance-22nd-annual-
+awards 
+ 
+EHRC (2018), 'Closing the gender pay gap', Equality and Human Rights Commission, December 2018. 
+ 
+Goldin, C (2014), 'A Grand Gender Convergence: Its Last Chapter', American Economic Review, Vol. 104, 
+No. 4, pp. 1091-1119. 
+ 
+Halvorsen, R and Palmquist, R (1980), 'The Interpretation of Dummy Variables In Semilogarithmic 
+Equations', American Economic Review, Vol. 70, No. 3, pp. 474-475. 
+ 
+Heckman, J J (1979), 'Sample Selection Bias as a Specification Error', Econometrica, Vol. 47, No. 1, pp. 
+153-161. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  38 
+ 
+38
+  Jarrell, S B and Stanley, T D (2004), 'Declining Bias and Gender Wage Discrimination? A Meta-Regression 
+Analysis', Journal of Human Resources, Vol. 39, No. 3, pp. 828-838. 
+ 
+Lang, K (2007), Poverty and Discrimination, Princeton University Press. 
+ 
+Lang, K and Lehmann, J-Y K (2012), 'Racial Discrimination in the Labor Market: Theory and Empirics', 
+Journal of Economic Literature, Vol. 50, No. 4, pp. 959-1006. 
+ 
+Lang, K and Manove, M (2011), 'Education and Labor Market Discrimination', American Economic Review, 
+Vol. 101, No. 4, pp. 1467-96. 
+ 
+Lewis, G B and Soo Oh, S (2009), 'A Major Difference?:  Fields of Study and Male-Female Pay Differences 
+in Federal Employment', The American Review of Public Administration, Vol. 39, No. 2, pp. 107-124. 
+ 
+Longhi, S and Brynin, M (2017), 'The ethnicity pay gap', Equality and Human Rights Commission, 
+Research Report, No. 108. 
+ 
+Manning, A and Swaffield, J (2005), 'The gender gap in early career wage growth', CEP Discussion 
+Papers, Centre for Economic Performance, London School of Economics. 
+ 
+McKinsey & Company (2016), 'The power of parity: Advancing women's equality in the United Kingdom', 
+McKinsey Global Institute, September 2016. 
+ 
+Neal, D A (2004), 'The Measured Black-White Wage Gap among Women is Too Small', Journal of Political 
+Economy, Vol. 112, No. S1, pp. S1-S28. 
+ 
+Neal, D A and Johnson, W R (1996), 'The Role of Premarket Factors in Black-White Wage Differences', 
+Journal of Political Economy, Vol. 104, No. 5, pp. 869-895. 
+ 
+Neumark, D (2018), 'Experimental Research on Labor Market Discrimination', Journal of Economic 
+Literature, Vol. 56, No. 3, pp. 799-866. 
+ 
+O’Donnell, O, van Doorslaer, E, Wagstaff, A and Lindelow, M (2008), 'Analyzing Health Equity Using 
+Household Survey Data: A Guide to techniques and Their Implementation', World Bank, Chapter 12, pp. 
+147-159. 
+ 
+Olivetti, C and Petrongolo, B (2016), ‘The Evolution of Gender Gaps in Industrialized Countries’, Annual 
+Review of Economics, Vol. 8, pp. 405-434 
+ 
+O’Neill, J (1990), 'The Role of Human Capital in Earnings Differences between Black and White Men', 
+Journal of Economic Perspectives, Vol. 4, No. 4, pp. 25-45. 
+ 
+Oaxaca, R (1973), ‘Male-Female Wage Differentials in Urban Labor Markets’, International Economic 
+Review, Vol. 14, No. 3, pp. 693-709. 
+ 
+Olsen, W and Walby, S (2004), 'Modelling gender pay gaps', EOC Working Paper Series, No. 17, Equal 
+Opportunities Commission. 
+ 
+ONS (2018), 'Gender pay gap in the UK:  2018', Office for National Statistics. 
+ 
+ONS (2019), 'Ethnicity pay gaps in Great Britain:  2018', Office for National Statistics. 
+ 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+39 
+ 
+39
+  
+Rodgers, W M and Spriggs, W E (1996), 'What Does the AFQT Really Measure? Race, Wages, Schooling, 
+and the AFQT Score', Review of Black Political Economy, Vol. 24, pp. 13-47, 
+ 
+Stanley, T D and Jarrell, S B (1998), 'Gender Wage Discrimination Bias? A Meta-Regression Analysis', 
+Journal of Human Resources, Vol. 33, No. 4, pp. 947-973. 
+ 
+TCFD (2019), ‘2019 Status Report’, Task Force on Climate-related Financial Disclosures. 
+ 
+Tomaskovic-Devey, D, Thomas, M and Johnson, K (2005), 'Race and the Accumulation of Human Capital 
+across the Career:  A Theoretical Model and Fixed Effects Application', American Journal of Sociology, Vol. 
+111, No. 1, pp. 58-89. 
+ 
+Wagner, I (2018), ‘Certified Equality: The Icelandic Equal Pay Standard’, Institute for Social Research 
+ 
+Weichselbaumer, D and Winter-Ebmer, R (2005), 'A Meta-Analysis of the International Gender Wage 
+Gap', Journal of Economic Surveys, Vol. 19, No. 3, pp. 479-511. 
+ 
+All speeches are available online at www.bankofengland.co.uk/speeches 
+  40 
+ 
+40

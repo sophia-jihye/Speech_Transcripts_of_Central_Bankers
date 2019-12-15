@@ -1,0 +1,220 @@
+Jon Nicolaisen: How important is it for a nation to have a payment
+system?
+Speech by  Mr  Jon  Nicolaisen,  Deputy  Governor of  Norges  Bank (Central  Bank of  Norway), at
+Finance Norway's payments conference, Oslo, 14 November 2019.
+ Please note that the text below may differ slightly from the actual presentation.
+The payment system and Norges Bank
+A nation needs to have a well-functioning payment system. Without fast, inexpensive and secure
+payments, a modern society grinds to a halt. Users today have access to payment methods that
+are dependent on large-scale IT systems to process payments efficiently. We need to ensure
+that the payment system can adapt to new technologies and meet the needs of business and
+consumers in the future.  
+The Storting (Norwegian parliament) has assigned Norges Bank the task of promoting an
+efficient and secure payment system. This is clearly spelled out in the new Central Bank Act,
+which enters into force at the turn of the year. Norges Bank is the operator of the payment
+settlement system and supervises interbank payment systems. These operational roles may
+take on greater importance in the coming years. Let me point out two trends.    
+First, we note increasing vertical integration in the payment market. Customer interface services
+are becoming more tightly linked to the underlying infrastructure. We saw an example here in
+Norway when Vipps merged with BankID and BankAxept. There is also a tendency for common
+contractual arrangements that were previously situated with industry organisations to be
+relocated to product companies. Another example is Apple, which is restricting which payment
+services can be offered on its mobile devices. In addition, plans are constantly being launched for
+new kinds of money and payment systems that offer both customer services and settlement,
+most recently Libra, a venture backed by Facebook and other investors. As an authority
+responsible for promoting an efficient payment system, Norges Bank needs to consider the
+whole payments chain. We also need to ask ourselves whether it is enough to be a promoter and
+regulator or whether we need to take on greater operational responsibility in order to perform our
+social mission.
+Second, changes are taking place in the ownership of critical parts of the payment system. A
+relevant example is Mastercard’s planned acquisition of one of the key parts of Nets. The Nordic
+P27 initiative is hardly the last push for more international ownership of infrastructure for
+payments in Norwegian kroner. At Norges Bank, we need to assess the best way for us to
+ensure that society’s interests are being safeguarded.
+Future structure of real-time payments
+Norway was an early adopter of digitalisation and its payments infrastructure has been world-
+class. We have reaped the benefits for many years. But then the development of common
+infrastructure came to a halt. A number of neighbouring countries have built payment
+infrastructures that in some areas are now ahead of ours.
+Common infrastructure makes sense. It enables us to realise economies of scale, a well-
+functioning payment network and a level playing field. Payment service providers will be able to
+compete for customers supported by an efficient and secure system. Banks save considerable
+sums because an extensive network of branches is no longer necessary. The infrastructure is a
+collective good that benefits everyone.
+ 1 / 5
+BIS central bankers' speeches
+It has long been our experience that industry operators come together and agree good solutions
+in partnership with Norges Bank. But developments in technology and market structure, where
+payment services are increasingly becoming a competitive arena, may hinder the emergence of
+good common solutions. We run the risk that progress will slow and the payment system will
+become fragmented because the common infrastructure is eroding. We must now consider
+whether Norges Bank should take action to counter this fragmentation.
+Future users of payment services will hardly be satisfied with payment transactions that take
+several hours or days to complete. The infrastructure for real-time payments is therefore critical.
+In 2016, Norges Bank took the initiative on a joint project with the banking industry to put in place
+an improved real-time payment platform. In spring, Norwegian banks declined the invitation to
+participate in the P27 project.
+The soon-to-be-launched Straks 2.0 instant payment platform is an improvement, but not a
+permanent solution for real-time payments in Norway. Among other things, it is not sufficiently
+well-suited to business users. The question is how we proceed from here. It has proved to be a
+challenge to drum up support for carrying out the necessary modernisation of the infrastructure
+owned by industry bodies.  
+Norges Bank has launched a project to assess the payment and settlement system as a whole.
+The aim is to ensure that we have an efficient and secure payment infrastructure also in the
+future. Some key issues are:
+Should  our  payment  infrastructure  continue  to  be  all-Norwegian  or  could  it  be  more
+international?
+In  that  case,  how  do  we  resolve  the  questions  relating  to  national  contingency
+preparedness?
+Should payments continue to be cleared between banks prior to settlement at the central
+bank, or is it more efficient to settle payments one-by-one directly at Norges Bank?
+When the current settlement systems were introduced, technological limitations and costs
+placed restrictions on the volume of payments that could be settled in real time at the central
+bank. The main rule has been for large interbank payments to be settled individually at the central
+bank, while payments between banks’ customers are sent to a clearing house before banks’
+positions are settled at the central bank. At Norges Bank, these positions are settled five times a
+day Monday through Friday. 
+Technological developments in recent years – with cheaper and more secure IT infrastructure –
+now make it possible to settle retail payments as well directly and in virtually real time at the
+central bank. Unlike the traditional settlement systems, the new systems can be kept open
+around the clock seven days a week. This will pave the way for more efficient general purpose
+infrastructures directly operated by central banks.
+An increasing number of countries have put in place or are developing solutions like these. Even
+in large economies with large payment volumes, round-the-clock settlement of all kinds of
+payments directly at the central banks is being facilitated. In 2018, the Eurosystem launched
+TARGET Instant Payment Settlement (TIPS). In autumn, the Federal Reserve announced that a
+similar system called FedNow! would be established for settlement of real-time payments in US
+dollars. Iceland already has a similar system The Riksbank is planning a transition to settlement
+of real-time payments directly at the central bank by linking to the European TIPS system.
+Settling real-time payments individually and directly at the central bank automatically eliminates
+the credit risk between system participants. The system is simplified because banks no longer
+need to take a detour via a clearing house. With fewer steps, the operational risk in the payment
+system may also be reduced.
+ 2 / 5
+BIS central bankers' speeches
+The EU Payment Services Directive 2 (PSD2) was implemented in Norwegian law with effect
+from April 2019.  One of the purposes of PSD2 is to facilitate greater competition and innovation.
+Similar regulations are being implemented elsewhere in the world and may help enable new
+entrants to gain a foothold in the payments market, whether they are global tech giants like Apple,
+Google and Facebook or smaller, more local operators. New services and service providers will
+require adjustments to underlying infrastructure and rules. Equal and transparent competitive
+terms are crucial. At the same time, national governance, control and security considerations
+must be addressed.
+A neutral platform and set of rules at the central bank for the direct settlement of all payment
+types is also in this context an obvious option which we are considering. For settlement of this
+kind in Norwegian kroner at Norges Bank, one may envisage a system either directly linked to
+Norges Bank’s settlement system (NBO) or by linking to TIPS, as Sweden is now planning.
+In the near future, we will begin a dialogue with industry representatives. Progress on further
+modernisation of the Norwegian infrastructure must now be a paramount consideration.
+Security and national governance and control
+If a business enterprise performs tasks that are critical to the functioning of society, policymakers
+need to assess the regulations and systems that are necessary to ensure adequate national
+governance and control. This issue gains in relevance when more and more of our critical
+infrastructure becomes a part of or is owned by global tech giants and payment companies.
+The operation of ICT systems has largely been outsourced. This presents a number of
+challenges. The private financial market infrastructure (FMI) owners in the payment system have
+reported to Norges Bank that it is difficult to obtain necessary ICT expertise to operate and
+maintain key functions. If ICT operation and maintenance are moved abroad, it may, in the short
+term, provide access to better and more secure solutions. But we must also consider the long-
+term consequences. Offshoring may impair the national capacity for systems operations,
+development and follow-up. It may also become difficult for the Norwegian authorities to
+coordinate contingency planning, if large parts of operations are managed from another country.
+Norges Bank sets conditions for interbank systems when tasks are moved abroad. Among these
+conditions are that hardware must be physically located in Norway. There must also be
+contingency arrangements in Norway that in a crisis can quickly take over tasks that are
+performed abroad.
+Norges Bank is of the opinion that critical providers of services to the payment system need to be
+more closely monitored. Norges Bank will, in consultation with Finanstilsynet (Financial
+Supervisory Authority of Norway), examine the contingency arrangements and security of the
+payment system’s critical ICT service providers and data centres. This will not entail a change in
+FMI owners’ responsibilities for outsourced operations.
+The banking and payment system in Norway is dependent on a very small number of ICT
+providers and data centres that are also vital to other critical infrastructure. This systemic risk
+needs to be followed up by the authorities. ICT service providers are not subject to direct
+supervision in the same way as entities in the banking and payment system.
+In its official report from last year, the ICT Security Commission found that the supervision of
+subcontractors may present a challenge for a number of systemically critical institutions. The
+Commission made no specific recommendations for how the challenges related to supervision
+and regulation of critical ICT service providers and data centres should be followed up. In its
+consultation response, Norges Bank wrote that the following points deserve particular attention:
+The significance and management of concentration risk because many critical functions
+ 3 / 5
+BIS central bankers' speeches
+rely on a small number of ICT service providers and data centres. 
+The supervisory frameworks for ICT service providers and data centres that are important
+for key public functions, including the payment system.
+Whether the contingency arrangements of key ICT service providers and data centres are
+sufficient. 
+ICT service providers, FMI owners and financial institutions need to address cyber risks.
+Finanstilsynet and Norges Bank have recently taken the initiative to engage in a dialogue with the
+industry on whether to introduce a framework for testing cybersecurity in the banking and
+payment system in Norway. This framework, called TIBER-EU, has been developed by the
+European Central Bank (ECB). A number of Norway’s neighbours, including Denmark and
+Sweden, have introduced or are about to introduce the ECB testing framework, ie TIBER-DK and
+TIBER-SE, respectively. Finanstilsynet and Norges Bank are planning to invite the industry to a
+dialogue on this testing framework. It can also be used to bolster security linked to key ICT
+service providers in the banking and payment system.
+The government ministries are currently engaged in work to define which private entities are of
+crucial importance to basic national functions and should be subject to the Security Act. A basic
+national function is defined to mean that a total or partial loss of that function will have
+consequences for the government’s ability to protect national security interests. The purposes of
+the Security Act include protecting critical infrastructure, critical public functions and sensitive
+information from intentional, undesirable incidents. Norges Bank is providing the Ministry of
+Finance with input in this effort. Clarification of which private entities come under the Security Act
+may be of significance for Norges Bank’s follow-up and supervisory activities.
+New digital forms of money
+I have so far discussed measures to strengthen bank deposit-based payment systems. Another
+trend is the emergence of new forms of money and payment systems. They may ultimately alter
+the architecture of the systems.
+Norges Bank is closely monitoring the development of Libra and other initiatives. A common
+feature of many of these new systems is that they are closed payment systems outside the
+common infrastructure. They have a global reach, and in some cases, like Libra, operate with
+their own currency units. Often a variant of distributed ledger technology (DLT) is used.
+Such new systems promote competition and innovation. They also help to focus attention on
+parts of the existing payment system that do not function satisfactorily. An example is expensive
+and slow cross-border payments. Even with the improvements of the past few years, including
+under the auspices of SWIFT, there is still considerable potential for efficiency gains.
+At the same time, new money and payment systems entail a number of challenges. Individual
+users will face new security risks. Privacy may be at issue. If they become large enough to attain
+market power, these systems may become a source of systemic risk. For some countries that
+are vulnerable to a transition to payments in foreign currency, national room for manoeuvre and
+the ability to conduct monetary policy may be weakened.
+Norges Bank is currently assessing whether the existing regulatory framework, such as the e-
+money rules, is an adequate response to the challenges these new systems raise. The new
+systems may either fall outside the scope of the existing framework or they are not sufficiently
+addressed by it. We must therefore consider adjustments to the rules and whether new
+regulations are needed. It is likely that a broader collaborative effort among policymakers at both
+national and international levels is needed to formulate a robust response.    
+Another possible response to new private digital currency is a central bank digital currency. The
+ 4 / 5
+BIS central bankers' speeches
+central bank money currently available to the public takes the form of banknotes and coins. Cash
+has important attributes. It needs to be available and easy to use in order to fulfil its role in the
+payment system. Falling cash usage and the possibility of more profound structural changes in
+the monetary and payment system mean that we need to consider whether it would be wise also
+to issue a central bank digital currency.
+A working group at Norges Bank has looked more closely at the purpose and relevant forms of a
+central bank digital currency. The group finds that a central bank digital currency could function
+as a back-up solution in the event of a disruption in banks’ payment systems. This contingency
+aspect may gain importance if banks’ systems become more international. Moreover, a central
+bank digital currency may help to maintain competition in the payments market and offer the
+characteristics of legal tender.
+Looking ahead, Norges Bank will assess further how well the solutions being considered are able
+to offer the necessary and desirable characteristics. Then we will decide whether to proceed with
+testing. This is a long-term undertaking, and it is still too early to draw any conclusions. This work
+also interfaces with other measures to ensure a sound payment system and confidence in the
+monetary system. We must consider the combination of measures, by both public and private
+entities, that can best enable us to perform our social mission. 
+The payment system is changing. New structural features like vertical integration,
+internationalisation, new market entrants and increased concentration of providers suggest that
+Norges Bank must assess how it will perform its role. Our ambition must be to maintain a
+payment system that is at least on par with comparable countries.
+I said at the outset that a nation needs an efficient and secure payment system. If it does not
+function, that nation’s currency will lose its place in the monetary system. And therefore, for every
+central bank that issues a currency, it is important to govern and control developments in the
+payment system. This is the core issue: Only Norges Bank can provide final and secure
+settlement in Norwegian kroner. This will be the fundamental tenet for ensuring that the payment
+system in Norway continues to be efficient and up-to-date.
+ 
+ 5 / 5
+BIS central bankers' speeches

@@ -1,0 +1,331 @@
+U.S. Regulations and Approaches to Cryptocurrencies 
+December 03, 2019 
+Posted December 12, 2019 
+Michael Held, Executive Vice President and General Counsel 
+Remarks at the BIS Central Bank Legal Experts’ Meeting, Basel, Switzerland As 
+prepared for delivery 
+Thank you, Diego, for “volunteering” me to speak about digital currencies—a field in which I 
+count myself as very much a trainee, not an expert. Today I will focus on the U.S. regulatory 
+landscape for digital currencies, in particular on digital currencies issued by private 
+organizations that are intended to be used like money. As always, the views I express are my 
+own, not necessarily those of the Federal Reserve Bank of New York or the Federal Reserve 
+System.1 
+Policy makers and regulators in the United States, to date, have not developed an 
+overarching framework for regulating private digital currencies. The field has been seen as 
+too new for a comprehensive regulatory response. To be sure, the digital nature of new 
+private currencies will raise challenges to which policy makers must respond. In my view, 
+however, we spend so much time wrestling with the novelty of digital currencies that we 
+forget that private currency is nothing new. The theme of my talk today is accordingly best 
+encapsulated by a quote that is attributed—perhaps wrongly—to Mark Twain: “History may 
+not repeat itself, but it does rhyme.” 
+The Past Is Not Dead. It Isn’t Even Past 
+So, let’s take a little walk through the history of privately-issued currency. 
+We begin in Michigan in 1837, when the state legislature passed the first “free” banking law 
+in the United States.2 Upon commencing business, free banks could issue banknotes—that 
+is, private currencies—that were redeemable in specie—gold or silver.3 These banknotes 
+were transferable debt backed by the general creditworthiness of the bank that issued them, 
+plus assets like bonds and mortgages on real estate, and for a brief time, personal 
+guarantees.4 
+The statute permitted bank organizers to establish a bank by filing an application with the 
+local county treasurer and county clerk. They did not need approval from the state banking 
+commissioner. (At the time, the United States had no federal banking supervisor.5 Indeed, 
+the “free banking” era generally begins with Congress’s failure to recommission the Second 
+Bank of the United States before its charter expired in 1836, and ends with the passage of 
+the National Bank Act in 1863.) The result, predictably, was chaotic. The state banking 
+commissioner was unsure of how many banks had even been established.6 Some banks in 
+Michigan were established with the intent to issue banknotes but without the intent to ever 
+redeem them.7 By 1839 almost the entire system had collapsed. 
+After closing down one bank in Michigan, the commissioner found shards of window glass, 
+lead, and nails where he should have found gold and silver coin.8 
+Some of these free banks became known as “wildcat” banks. They set up offices in remote 
+areas—where only the wildcats roamed—making it difficult to redeem notes for specie.9 In 
+truth, the fate of free banks was not all bad. Free banks in New York apparently fared pretty 
+well.10 But the experiences of Michigan and some other states demonstrated the risks in 
+dealing with lightly regulated issuers of private currencies of that time. Banknotes of that 
+era were consistently transferred at a discount,11 state-to-state requirements to value the 
+assets that backed them varied,12 and banks were engaged speculative activities: building 
+hotels, roads, railroads, and canals.13 I’m told they also engaged in banking. 
+By the 1860s Congress was fed up with the free banking system. In an address to the United 
+States Senate in 1863, Senator John Sherman of Ohio decried: 
+“We had every diversity of the bank system in this country that has been devised by the wit 
+of man, and all these banks had the power to issue paper money. With this multiplicity of 
+banks . . . it was impossible to have a uniform national currency, for its value was constantly 
+affected by their issues. There was no common regulator; they were dependent on different 
+systems. . . . There was no check or control over these banks. There was a want of harmony 
+and concert among them.”14 
+The National Bank Act authorized the creation of national banks that would issue national 
+bank notes. It was a push towards harmony in private currency, a pressing need for a 
+wartime government in the throes of a civil war. Unlike wildcat banknotes, national bank 
+notes were backed universally by federal government bonds and deposits of other money, 
+such as U.S. government issued “greenback,” in each case held by the United States 
+Treasury, and they circulated at parity with other forms of money.15 The National Bank Act 
+also introduced the division between banking and commerce in the United States, which 
+may have erased some of the more-speculative bank activities of the wildcat era.16 
+Federal intervention and tighter regulation meant that national banks and their notes were 
+both safer and more fungible than their wildcat predecessors, and the United States’ 
+transition into national bank notes, coupled with new, unfavorable tax treatment for state 
+bank notes, meant the demise of wildcat banknotes.17 Decades later, the establishment of the 
+Federal Reserve System, a central bank currency, and a push for banks to engage in deposit-
+taking activities meant the overall demise of private currency in the United States for 
+decades.18 
+The Child Is Father to the Man 
+This is, admittedly, a fairly crude history of money and banking in the United States, but you 
+see where I’m going with this. It is hard not to see certain parallels between today’s digital 
+currencies and the bank notes issued during the wildcat era. Digital currencies are 
+developing in in the absence of a comprehensive regulatory system, and there are countless 
+digital currencies, with countless idiosyncrasies, and countless entities of varying quality 
+that can issue them. According to one source, there are currently nearly 3000 digital 
+currencies but I doubt anyone really knows the true number.19 
+While we have not seen issuers of digital currencies hold shards of glass, lead, and nails in 
+reserve, we have seen digital currencies with no backing by design—Bitcoin being the prime 
+example—digital currencies backed by other volatile digital currencies—for those who put a 
+premium on safety—and digital currencies styled after Donald Trump, Vladimir Putin, and 
+Kanye West—though Mr. West’s lawyers made sure that Coinye never really got off the 
+ground. 
+The analogy between the current era and the wildcat era isn’t perfect, of course. History 
+rhymes after all; it doesn’t repeat. 
+In contrast to the wildcat era, various federal regulators have demonstrated a willingness to 
+apply existing regulatory tools to digital currencies. But, policy makers and regulators are 
+also still monitoring developments in digital currencies, and we have not fully formulated a 
+cohesive policy response. Whether we like it or not, however, we are beginning to confront 
+at least two questions similar to those that policymakers addressed in the waning days of the 
+wildcat era: 
+1.  Should national governments restrict unsafe or particularly volatile private 
+currencies? 
+2.  Should national governments limit private currency issuance to tightly regulated 
+institutions so that governments can incentivize or mandate certain desirable 
+features? 
+As I’ve already suggested, current U.S. law does not have direct answers to these questions. 
+Digital currencies can fall into a variety of categories: commodities or securities or other 
+instruments. How a digital currency is classified will depend partly on the functional use of 
+the digital currency and partly on the priorities of various lawmakers and regulatory 
+agencies that have the authority to regulate it. 
+The Financial Crimes Enforcement Network (FinCEN), the primary U.S. authority 
+responsible for implementing U.S. anti-money laundering laws, was one of first authorities 
+to issue guidance in the United States on digital currencies. FinCEN clarified in 2013 that 
+transmitters and exchangers of digital currency are money service businesses under FinCEN 
+regulations, if the digital currency acts as a substitute for real currency or has an equivalent 
+value in real currency.20 Accordingly, any person that engages in the business of transferring 
+or exchanging digital currency is subject to FinCEN requirements to establish an anti-money 
+laundering program, which includes recordkeeping, reporting, and customer identification 
+and verification requirements.21 FinCEN’s early entrance into the field sought to address the 
+fact that digital currencies, like other forms of payment, may be used for nefarious purposes. 
+Fast forward to 2017. Jay Clayton, the Chairman of the Securities and Exchange Commission 
+(SEC), the federal agency that regulates securities, released a statement on digital currencies 
+and initial coin offerings (ICOs). In Chairman Clayton’s view, “tokens and offerings that 
+incorporate features and marketing efforts that emphasize the potential for profits based on 
+the entrepreneurial or managerial efforts of others continue to contain the hallmarks of a 
+security under U.S. law.”22 In 2018, SEC staff published guidance to clarify that exchanges, 
+investment vehicles, investment advisers, and dealers doing business in digital currencies 
+that are digital asset securities would be subjected to securities laws.23 The guidance makes 
+clear that digital currencies that function as securities will be subject to U.S. securities law, 
+but where we draw this line may not always be clear. 
+Products that blur the boundaries between money and securities are not new. Take, for 
+instance, certificates of deposit. In 1982, the United States Supreme Court analyzed whether 
+a certificate of deposit was a security for purposes of certain U.S. anti-fraud laws. The Court 
+concluded that it was not. In doing so, the Court recognized that the most important 
+distinction between a certificate of deposit issued by a bank—money—and other long-term 
+debt was the comprehensive regulation of the banking system.24 The Court’s conclusion was 
+a sensible one more than a century after the “wildcat” banking era: Lawmakers could not 
+have intended to treat money in the banking system like it was something else because there 
+was no need to do so. 
+At least for now, the case does not appear to be as strong for digital currencies. Without a 
+regulatory framework designed for digital currencies, regulators in United States are 
+reacting to abuses instead of proactively addressing risks. As an example, the Commodity 
+Futures Trading Commission (CFTC), the agency in the United States that regulates futures 
+and derivatives contracts, used its enforcement authority over fraudulent purchases or sales 
+of commodities to stop an alleged digital currency scheme.25 Organizers of the scheme 
+claimed that the digital currency in question—My Big Coin—was backed by gold and actively 
+traded, but the CFTC concluded that neither was true, that payouts to customers were 
+funded with money fraudulently obtained from other victims of the scheme, and that the 
+organizers misappropriated approximately $6 million in customer assets.26 
+My Big Coin appears to have been a modern wildcat currency, but the scheme was detected 
+only because the CFTC could regulate it as a commodity. We are fortunate that, today, the 
+CFTC has this market-based authority to combat fraud in U.S. commodities markets that 
+was not present in the wildcat era. 
+Meanwhile, banks, which are the focus of our federal regulatory efforts for holding and 
+transferring money, have largely not engaged in holding, transferring, or <gasp> issuing 
+digital currencies, and federal banking regulators in the United States have remained largely 
+silent on the permissibility of these activities.27 The Office of the Comptroller of the 
+Currency (OCC) sought to carve out a special-purpose charter—its so-called “fintech 
+charter”—presumably to bring some of these activities under the OCC’s regulatory umbrella, 
+but it has since been mired in litigation over issuing these special-purpose charters with 
+states in the U.S. that wish to license these activities under local law.28 
+Separately, the Bureau of Consumer Financial Protection, which has authority to write rules 
+governing certain consumer accounts and payment products, determined it would further 
+analyze digital currencies and did not try to bring them into its purview in a recent 
+amendment to its Regulation E.29 
+To be sure, states within the U.S. have begun to adopt laws and regulations for digital 
+currency businesses. New York and Wyoming, to cite two examples, have adopted digital 
+currency-specific regimes. There is, however, little coordination in the approach at the state 
+level,30 which highlights that a state-by-state approach risks both inconsistent treatment 
+and the possibility of a “race to the bottom” on licensing standards that could be reminiscent 
+of the wildcat era. The challenges states will face in crafting sensible rules are only amplified 
+with respect to digital currencies, which tend to operate without borders. 
+If you were a worrier like me, would you worry that we are putting off alternative 
+approaches until new problems exhaust old solutions? Would you worry about how 
+effectively we will respond if a digital currency achieves critical mass? Governor Quarles 
+highlighted this latter concern in his recent remarks at the European Banking 
+Federation.31 He noted that stable coins do not pose risk to financial stability today but that 
+they bring with them the potential for scale that could pose regulatory challenges from a 
+financial stability standpoint in the future. 
+But knowing that regulators in the U.S. are already dealing with concerns over fraud and the 
+prospect of other forms of misconduct related to digital currencies, and acknowledging 
+Governors Quarles’ concerns about financial stability, would it behoove us to start 
+identifying areas of focus for crafting a regulatory response that is more proactive? 
+Pablo Hernández de Cos, Chairman of the Basel Committee on Banking Supervision (BCBS) 
+and Governor of the Bank of Spain, remarked in November that digital currencies “do not 
+reliably perform the standard functions of money and are unsafe to rely on as a medium of 
+exchange or store of value.”32 That sounds like a problem. 
+We have dealt with a somewhat similar problem before. Under the National Bank Act, the 
+United States chose to reform its currency system by adopting a new regulatory regime for 
+national banks—the would-be issuers of stable private currencies (that is, national bank 
+notes)—and by crafting requirements for these issuers to backstop their currencies with 
+safer government-issued bonds. These steps served to stabilize private currency issuers and 
+their currencies, but there were other benefits of the approach that are easy to overlook: we 
+disincentivized less desirable products—wildcat notes (that is, by imposing taxes on them); 
+certain key participants in the system—specifically the custodian banks and trust 
+companies—were already regulated institutions; bank notes had a certain level of 
+transparency built in—a holder’s right to receive payment and from whom was literally 
+written on the face of the note; and for all intents and purposes, federal law and regulation 
+were ubiquitous. 
+We have also developed comprehensive regulatory schemes targeted at other widely-used 
+financial products as they have evolved, including recent work to regulate swap transactions. 
+If digital currencies reach critical mass, we may want to draw on lessons from these efforts 
+and consider whether tools for regulating systemically important activities are fit for 
+purpose. The designation process under the Dodd-Frank Act for systemically important 
+financial institutions may be instructive here, regardless of whether it is directly applicable 
+to digital currencies. In this process, the Financial Stability Oversight Council (FSOC) has 
+the authority to designate for enhanced regulation and supervision certain financial 
+institutions, financial market infrastructures, and payments, clearing, and settlement (PCS) 
+activities, to the extent that FSOC determines the organization or activity to be systemically 
+important. Though the authority in the Dodd-Frank Act is limited in some ways—it applies 
+only to certain systemically important activities and the designation process requires 
+coordination across regulatory agencies and related administrative processes—the scheme is 
+flexible in other ways because it contemplates an activities-based approach to regulation and 
+oversight in addition to a prudential approach for certain institutions.33 To be crystal clear, I 
+am not saying that any digital currencies are currently ripe for consideration under the 
+FSOC designation process; just that a similarly flexible though not necessarily identical 
+process involving coordination and collaboration across multiple regulators may be 
+warranted. 
+The Path Forward 
+In applying lessons learned from the past to the modern era, one path forward might be to 
+consider the following questions in determining whether a broader regulatory scheme is 
+sensible: 
+1.  First, who should be authorized to act as an issuer of a digital currency or as an 
+intermediary that can hold or transfer a digital currency on behalf of a holder? And, 
+is existing regulation adequate to cover each? If not, should we consider expanding 
+the regulatory perimeter to address each from a prudential regulatory standpoint? 
+Doing so would provide us with an avenue for addressing risks each may pose to 
+holders or the system more broadly. 
+2.  Second, are there certain features of digital currencies that are either desirable or 
+undesirable from a regulatory or policy standpoint? If so, are there restrictions or 
+incentives we should adopt to avoid a recurrence of a landscape that resembles the 
+wildcat era? At a minimum shouldn’t we aim for clarity on certain essential features, 
+such as clarity on the rights of digital currency holders and the nature of assets that 
+back a digital currency? 
+3.  Third, are there key activities that are cardinal to the functioning of digital 
+currencies that require special attention from regulators? These may include actions 
+to create, distribute, destroy, or and transfer digital currencies, and may also include 
+key infrastructures, such as the technology that underpins a particular digital 
+currency. To the extent that these critical activities are performed by actors that are 
+not within a regulatory purview, should we fill this potential gap in oversight? 
+4.  Fourth, should we agree on a common approach across jurisdictions on least some 
+aspects of a refined regulatory approach? Digital currencies can be designed to be 
+used across borders. Key parties may be situated across the globe. If we are to reach 
+ubiquity in regulation, or at least something approaching it, isn’t coordination the 
+way to do so? The Financial Stability Board and the Basel Committee on Banking 
+Supervision may address some of these questions, but it’s too soon to know what 
+they will conclude. 
+5.  Last, should we consider other lenses through which to view these activities? 
+Common sense dictates that we begin with an approach that considers protections 
+for holders of digital currencies against unfair losses and the potential for certain 
+digital currencies to present risk to financial stability. Are there other factors for us 
+to consider? 
+This is not easy stuff. Some might look at this list, and want a faster, ready-made solution. I 
+can hear them now: “Why not just put this activity in the banking system and borrow a more 
+robust regulatory structure?” I think we should consider that, but bank regulation may not 
+be fit for purpose. History rhymes; it doesn’t repeat—that’s the last time I will use that line. 
+So, at the same time we consider what banks will or should be going forward, we also should 
+consider some more fundamental questions: (i) What is the most practical approach? (ii) 
+What approach gives us the right balance of functional and risk-based regulation? (iii) What 
+approach is the most neutral to technological change? (iv) What approach provides the 
+clarity to the greatest extent possible (recognizing that every model will have its faults)? (v) 
+What approach will last to and through the next cycle of innovation? 
+I mentioned the SEC earlier. The SEC analyzes digital currencies using a test that the 
+Supreme Court formulated almost 90 years ago—that is mind boggling, but for what the SEC 
+does, it is also still very relevant—this is something worth striving for. 
+You might be surprised that I don’t have the answer to what the next 90 years of digital 
+currency regulation will look like, but I hope to have the opportunity to explore this issue 
+with some of you. Thank you. 
+ 1 Many thanks to Joseph Torregrossa and Thomas Noone for their assistance with 
+these remarks. 
+ 2 Gerald P. Dwyer Jr., Wildcat Banking, Banking Panics, and Free Banking in the 
+United States, Economic Review 6 (FRB Atlanta Dec. 1996) (hereinafter “Dwyer”). 
+3 Dwyer 4. 
+4 Dwyer 6. 
+5 Dwyer fn. 13. 
+6 Dwyer 6. 
+7 Dwyer 6. 
+8 Dwyer 2. 
+9 Arthur A. Rolnick & Warren E. Weber, Free Banking, Wildcat Banking, and 
+Shinplasters, Quarterly Review 13 (FRB Minn. Fall 1982) (hereinafter “Rolnick”). 
+10 Dwyer 7. 
+11 Dwyer 5. 
+12 Rolnick 16. Specifically, the states varied on whether security for the notes would 
+be measured in par or market value. 
+13 Rosa Lastra, Central Bank and Bank Regulation, 204 (Sept. 1991) (Ph.D. thesis 
+London School of Economics) (on file with author DM # 172574). 
+14 John Sherman, Recollections of Forty Years 237 (Werner Co. 1896) available 
+at https://archive.org/details/johnshermansreco00sher/page/236. 
+15 Milton Friedman & Anna Jacobson Schwartz, A Monetary History of the United 
+States, 1867-1960 17, 21 (1963) (hereinafter “Friedman”). 
+16 See e.g., 12 USC §26 (Comptroller to determine if institution is engaged in the 
+business of banking). 
+17 See Dwyer 16. 
+18 In 1935, the Treasury redeemed all debt that backed national bank notes. The 
+Glass-Steagall Act, passed in 1933 in the midst of the Great Depression, also shifted 
+the calculus for holders of national bank notes. The act introduced deposit insurance 
+and divided commercial and investment banking, each of which served to remove 
+disincentives against holding deposits with banks. 
+19 Source: https://www.investing.com/crypto/currencies 
+20 Application of FinCEN Regulations to Persons Administering, Exchanging, or 
+Using Virtual Currency 
+21 31 CFR § 1022.10. 
+22 Chairman Jay Clayton, Securities and Exchange Commission, Statement on 
+Cryptocurrencies and Initial Coin Offerings (Dec. 2017). Clayton is applying the 
+“Howey” test, a product of the court case SEC v. W.J. Howey Co.,which sets out the 
+criteria for determining whether an instrument qualifies as an “investment contract” 
+(and thus a security) for the purposes of the Securities Act of 1933. 328 U.S. § 293 
+(1946). An investment contract is “a contract, transaction or scheme whereby a 
+person invests his money in a common enterprise and is led to expect profits solely 
+from the efforts of the promoter or a third party.” Id. 
+23 Securities and Exchange Commission, Statement on Digital Asset Securities 
+Issuance and Trading (Nov. 2018). 
+24 Marine Bank v. Weaver, 452 U.S. 551, ___ (1982). 
+25 The Commodity Exchange Act defines commodity to include, among other things, 
+“all services, rights, and interests in which contracts for future delivery are presently 
+or in the future dealt in.” 7 U.S.C. § 1a(9). At least to district courts have interpreted 
+this to cover virtual currencies. E.g., CFTC v. My Big Coin Pay, 334 F.Supp.3d 492, 
+498 (D. Mass., Sept. 26, 2018) 
+26 CFTC Release Number 7678-18, CFTC Charges Randall Crater, Mark Gillespie, 
+and My Big Coin Pay, Inc. with Fraud and Misappropriation in Ongoing Virtual 
+Currency Scam (Jan. 24, 2018). 
+27 The Federal Reserve has not, to date, determined the extent to which its 
+supervised firms may engage in cryptocurrency related activities. 
+28 E.g., Vullo v. OCC 378 F.Supp.3d 271 (May 2019). See also Comptroller’s 
+Licensing Manual Supplement: Considering Charter Applications from Financial 
+Technology Companies. 
+29 81 Fed. Reg. 83934, 83978-80 (Nov. 22, 2016). 
+30 A uniform state-law proposal drafted in 2017 that was designed to establish a 
+uniform framework for states to regulate digital currency businesses, such as issuers, 
+exchanges, and custodians, but has not been adopted by any state. Uniform 
+Regulation of Virtual-Currency Businesses Act. 
+31 Randal K. Quarles, Vice Chair for Supervision, Board of Governors of the Federal 
+Reserve System, Remarks at European Banking Summit: The Financial Stability 
+Board at 10 Years—Looking Back and Looking Ahead (Oct. 3, 2019). 
+32 Pablo Hernández de Cos, Chairman of the Basel Committee on Banking 
+Supervision (BCBS) and Governor of the Bank of Spain, keynote speech at Euro 
+Finance Week: Financial Technology: The 150-year Revolution (Nov. 19, 2019). 
+33 See 12 U.S.C. §§ 5323, 5462(6), & 5463. 
+ 

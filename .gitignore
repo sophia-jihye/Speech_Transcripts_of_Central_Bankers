@@ -1,13 +1,10 @@
 */.idea/*
 .idea/
-data/
+OBSELETE/
+scraped_data/bis_w_content_FINAL.csv
 *.egg-info/
 build/
 dist/
-sophia.sh
-scraped_data/
-speech_texts/
-OBSELETE/
 __pycache__
 *.zip
 .ipynb_checkpoints/

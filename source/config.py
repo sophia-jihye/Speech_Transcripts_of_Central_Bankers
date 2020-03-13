@@ -5,6 +5,8 @@ import argparse
 
 parser = argparse.ArgumentParser()
 parser.add_argument('--skip_download', type=lambda x: (str(x).lower() == 'true'), default=False)
+parser.add_argument('--start_year', type=int, default=1997)
+parser.add_argument('--end_year', type=int, default=datetime.today().year)
 args = parser.parse_args()
 
 # user configuration
@@ -13,8 +15,6 @@ bis_sleep = 0.5
 # system configuration
 base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 output_base_dir = os.path.join(base_dir, 'scraped_data')
-start_year = 1997
-end_year = datetime.today().year
 
 class Parameters:
     def __init__(self):
@@ -22,8 +22,8 @@ class Parameters:
         self.bis_sleep = bis_sleep
         self.base_dir = base_dir
         self.output_base_dir = output_base_dir
-        self.start_year = start_year
-        self.end_year = end_year
+        self.start_year = args.start_year
+        self.end_year = args.end_year
         self.pdf_dir = os.path.join(output_base_dir, "pdf")
         self.pkl_dir = os.path.join(output_base_dir, "pkl")
         self.txt_dir = os.path.join(output_base_dir, "txt")

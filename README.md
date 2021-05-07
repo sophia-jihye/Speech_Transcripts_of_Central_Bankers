@@ -1,3 +1,7 @@
+Central Bankers' Speeches Text Dataset
+
+For more information, please contact me: jihyeparkk@dm.snu.ac.kr
+
 # bis_speeches_text_dataset
 Scraping Text Data of Central bankers' Speeches from bis.org
 

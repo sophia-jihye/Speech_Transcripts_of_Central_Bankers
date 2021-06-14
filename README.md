@@ -1,3 +1,10 @@
+### Citation
+* If you use this dataset, please cite:
+```
+In preparation
+```
+
+
 Central Bankers' Speeches Text Dataset
 
 For more information, please contact me: jihyeparkk@dm.snu.ac.kr

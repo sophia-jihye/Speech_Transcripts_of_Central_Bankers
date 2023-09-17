@@ -1,8 +1,16 @@
-### Citation
-* If you use this dataset, please cite:
+
+## Citation
 ```
-In preparation
+@article{park2023hot,
+  title={Hot topic detection in central bankers’ speeches},
+  author={Park, Jihye and Lee, Hye Jin and Cho, Sungzoon},
+  journal={Expert Systems with Applications},
+  pages={120563},
+  year={2023},
+  publisher={Elsevier}
+}
 ```
+
 
 ---
 
